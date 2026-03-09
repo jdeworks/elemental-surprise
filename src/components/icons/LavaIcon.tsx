@@ -1,0 +1,16 @@
+export function LavaIcon({ size = 32 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="lavaGrad" x1="32" y1="0" x2="32" y2="64">
+          <stop offset="0%" stopColor="#FF4400"/>
+          <stop offset="100%" stopColor="#AA0000"/>
+        </linearGradient>
+      </defs>
+      <path d="M8 56L16 32L24 48L32 20L40 44L48 28L56 56H8Z" fill="url(#lavaGrad)"/>
+      <circle cx="20" cy="40" r="4" fill="#FFAA00"/>
+      <circle cx="36" cy="32" r="5" fill="#FFAA00"/>
+      <circle cx="44" cy="44" r="3" fill="#FF8800"/>
+    </svg>
+  );
+}

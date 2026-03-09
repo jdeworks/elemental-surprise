@@ -1,0 +1,17 @@
+export function EarthIcon({ size = 32 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="earthGrad" x1="32" y1="0" x2="32" y2="64">
+          <stop offset="0%" stopColor="#AA8844"/>
+          <stop offset="100%" stopColor="#664422"/>
+        </linearGradient>
+      </defs>
+      <rect x="8" y="20" width="48" height="36" rx="8" fill="url(#earthGrad)"/>
+      <circle cx="20" cy="32" r="4" fill="#886633"/>
+      <circle cx="36" cy="28" r="6" fill="#997744"/>
+      <circle cx="28" cy="42" r="5" fill="#775533"/>
+      <rect x="8" y="50" width="48" height="6" fill="#553311"/>
+    </svg>
+  );
+}

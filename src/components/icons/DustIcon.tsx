@@ -1,0 +1,19 @@
+export function DustIcon({ size = 32 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="dustGrad" cx="32" cy="32" r="30">
+          <stop offset="0%" stopColor="#AA9988"/>
+          <stop offset="100%" stopColor="#554433"/>
+        </radialGradient>
+      </defs>
+      <circle cx="32" cy="32" r="28" fill="url(#dustGrad)"/>
+      <circle cx="20" cy="24" r="3" fill="#887766"/>
+      <circle cx="40" cy="20" r="2" fill="#998877"/>
+      <circle cx="28" cy="36" r="4" fill="#776655"/>
+      <circle cx="44" cy="38" r="3" fill="#887766"/>
+      <circle cx="16" cy="34" r="2" fill="#998877"/>
+      <circle cx="36" cy="44" r="2" fill="#776655"/>
+    </svg>
+  );
+}

@@ -1,0 +1,22 @@
+.workspace {
+  flex: 1;
+  position: relative;
+  background: #fff;
+  min-height: 500px;
+  overflow: hidden;
+}
+
+.workspace-over {
+  background: #f9f9f9;
+}
+
+.workspace-empty {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #999;
+  font-size: 16px;
+  text-align: center;
+  pointer-events: none;
+}

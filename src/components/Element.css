@@ -1,0 +1,44 @@
+.element {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 14px;
+  border: 2px solid #444;
+  border-radius: 12px;
+  background: #fff;
+  cursor: grab;
+  user-select: none;
+  transition: box-shadow 0.2s, transform 0.1s;
+}
+
+.element:active {
+  cursor: grabbing;
+}
+
+.element-library {
+  background: #f8f8f8;
+}
+
+.element-workspace {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.element:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transform: translateY(-2px);
+}
+
+.element-over {
+  border-color: #4CAF50;
+  box-shadow: 0 0 12px rgba(76, 175, 80, 0.6);
+}
+
+.element-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
