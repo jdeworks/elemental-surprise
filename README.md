@@ -8,7 +8,7 @@ A simple element combination game inspired by Little Alchemy. Combine basic elem
 
 ## Play
 
-**Live Demo**: [https://your-username.github.io/your-repo/](https://your-username.github.io/your-repo/)
+**Live Demo**: https://jdeworks.github.io/elemental-surprise/
 
 ### How to Play
 1. Click elements in the **Library** (left) to spawn them into the **Workspace**
