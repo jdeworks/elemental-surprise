@@ -59,7 +59,7 @@ npm run preview
      "id": "star", 
      "name": "Star", 
      "emoji": "⭐", 
-     "icon": "/icons/star.svg" 
+     "icon": "./icons/star.svg" 
    }
    ```
 
