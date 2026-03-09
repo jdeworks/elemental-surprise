@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 import type { DragEndEvent, DragStartEvent } from '@dnd-kit/core';
 import { DndContext, DragOverlay, useSensor, useSensors, PointerSensor, KeyboardSensor } from '@dnd-kit/core';
 import { sortableKeyboardCoordinates } from '@dnd-kit/sortable';
@@ -24,6 +24,7 @@ function App() {
   const [workspaceElements, setWorkspaceElements] = useState<WorkspaceElement[]>([]);
   const [newDiscovery, setNewDiscovery] = useState<string | null>(null);
   const [activeId, setActiveId] = useState<string | null>(null);
+  const isFirstRender = useRef(true);
 
   useEffect(() => {
     loadData()
@@ -49,6 +50,11 @@ function App() {
   }, []);
 
   useEffect(() => {
+    // Don't save on first run: load effect hasn't applied yet, so we'd overwrite localStorage with defaults
+    if (isFirstRender.current) {
+      isFirstRender.current = false;
+      return;
+    }
     saveGame({ discovered, workspace: workspaceElements });
   }, [discovered, workspaceElements]);
 
@@ -145,16 +151,8 @@ function App() {
     >
       <div className="app">
         <header className="app-header">
-          <h1>Elemental Surprise</h1>
-          <div className="app-header-actions">
-            <button
-              type="button"
-              className="app-header-btn"
-              onClick={() => setIconCacheBust(Date.now())}
-              title="Force reload icons (e.g. after updating them on the server)"
-            >
-              Clear icon cache
-            </button>
+          <div className="app-header-left">
+            <h1>Elemental Surprise</h1>
             <button
               type="button"
               className="app-header-btn"
@@ -164,6 +162,22 @@ function App() {
               Clear workspace
             </button>
           </div>
+          <div className="app-header-actions">
+            <button
+              type="button"
+              className="app-header-btn app-header-btn-icon"
+              onClick={() => setIconCacheBust(Date.now())}
+              title="Force reload icons (e.g. after updating them on the server)"
+              aria-label="Clear icon cache"
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                <path d="M21 12a9 9 0 0 0-9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
+                <path d="M3 3v5h5" />
+                <path d="M3 12a9 9 0 0 0 9 9 9.75 9.75 0 0 0 6.74-2.74L21 16" />
+                <path d="M21 21v-5h-5" />
+              </svg>
+            </button>
+          </div>
           {newDiscovery && (
             <div className="discovery-toast">
               🎉 New element discovered: {newDiscovery}!
@@ -171,7 +185,15 @@ function App() {
           )}
         </header>
         <main className="app-main">
-          <Library discovered={discovered} onSpawn={spawnElement} iconCacheBust={iconCacheBust} />
+          <Library
+            discovered={discovered}
+            onSpawn={spawnElement}
+            onResetProgress={() => {
+              setDiscovered(['fire', 'water', 'earth', 'wind']);
+              setWorkspaceElements([]);
+            }}
+            iconCacheBust={iconCacheBust}
+          />
           <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} />
         </main>
         <DragOverlay>

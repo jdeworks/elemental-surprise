@@ -1,3 +1,4 @@
+import { useState, useMemo } from 'react';
 import { getAllElements } from '../data/loader';
 import { getIconUrl } from '../utils/iconUrl';
 import './Library.css';
@@ -5,18 +6,52 @@ import './Library.css';
 export interface LibraryProps {
   discovered: string[];
   onSpawn: (type: string) => void;
+  onResetProgress?: () => void;
   iconCacheBust?: number;
 }
 
-export function Library({ discovered, onSpawn, iconCacheBust }: LibraryProps) {
+export function Library({ discovered, onSpawn, onResetProgress, iconCacheBust }: LibraryProps) {
+  const [search, setSearch] = useState('');
   const allElements = getAllElements();
-  const availableElements = allElements.filter(el => discovered.includes(el.id));
+  const availableElements = useMemo(
+    () => allElements.filter(el => discovered.includes(el.id)),
+    [allElements, discovered]
+  );
+  const filteredElements = useMemo(
+    () =>
+      !search.trim()
+        ? availableElements
+        : availableElements.filter(el =>
+            el.name.toLowerCase().includes(search.trim().toLowerCase())
+          ),
+    [availableElements, search]
+  );
 
   return (
     <div className="library" data-testid="library">
-      <h2 className="library-title">Elements</h2>
+      <div className="library-header">
+        <h2 className="library-title">Elements</h2>
+        {onResetProgress && (
+          <button
+            type="button"
+            className="library-reset"
+            onClick={onResetProgress}
+            title="Reset discovered elements and workspace"
+          >
+            Reset progress
+          </button>
+        )}
+      </div>
+      <input
+        type="text"
+        className="library-search"
+        placeholder="Search by name..."
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        aria-label="Search elements by name"
+      />
       <div className="library-grid">
-        {availableElements.map(element => (
+        {filteredElements.map(element => (
           <div
             key={element.id}
             className="library-item"
