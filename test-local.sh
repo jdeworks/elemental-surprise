@@ -3,10 +3,18 @@ set -e
 
 cd "$(dirname "$0")"
 
-echo "Building for local testing (relative paths)..."
-# Don't set VITE_CDN_BASE - uses relative paths for local
+# Ensure local-dist folder exists and is clean
+rm -rf local-dist
+mkdir -p local-dist
 
+echo "Building for local testing (local-dist folder)..."
+
+# Build to local-dist instead of docs (keeps relative CDN paths)
+export VITE_LOCAL_OUT_DIR="local-dist"
 npm run build
+
+# Copy icons to local-dist for local testing
+cp -r public/icons local-dist/
 
 echo ""
 echo "Starting local server on port 5173..."
@@ -17,7 +25,7 @@ pkill -f "http.server" 2>/dev/null || true
 
 sleep 1
 
-# Use Vite preview which is better for testing
+# Use Vite preview serving from local-dist
 npm run preview -- --host 0.0.0.0 --port 5173 &
 SERVER_PID=$!
 
