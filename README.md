@@ -27,7 +27,7 @@ A simple element combination game inspired by Little Alchemy. Combine basic elem
 
 ## No Rebuild Required! 🎯
 
-This game is designed to load elements and icons from GitHub via **jsDelivr CDN**. Adding new elements does **NOT** require rebuilding - just push to GitHub!
+The **GitHub Pages** build loads elements, recipes, and icons from the GitHub repo via **jsDelivr CDN** at runtime. You can add or change elements and recipes without rebuilding—just push to GitHub.
 
 ### Adding New Elements (No Rebuild)
 
@@ -39,29 +39,26 @@ This game is designed to load elements and icons from GitHub via **jsDelivr CDN*
    </svg>
    ```
 
-2. **Add to data/elements.json**:
+2. **Add to `public/elements.json`**:
    ```json
    "star": { 
      "id": "star", 
      "name": "Star", 
-     "emoji": "⭐", 
      "icon": "./icons/star.svg" 
    }
    ```
 
-3. **Add recipes** in `data/recipes.json`:
+3. **Add recipes** in `public/recipes.json`:
    ```json
    "fire+fire": "star"
    ```
 
-4. **Push to GitHub** - that's it! The game automatically loads from CDN.
+4. **Push to GitHub** — the live site will load the new data and icons from the CDN.
 
 ### When to Rebuild
 
-Rebuild only when changing **code** (React components, game logic, UI):
-```bash
-npm run build
-```
+- **Local dev**: Use **`npm run build:local`** to test with local assets (icons and JSON in `public/`). Output goes to `local-dist/`; good for trying new elements before they’re on the repo.
+- **Deploy to GitHub Pages**: Use **`npm run build:pages`** when you change **source code or config** (React, Vite, etc.). Output goes to `docs/`; the app will load elements, recipes, and icons from the repo over the CDN.
 
 ## Development
 
@@ -69,11 +66,14 @@ npm run build
 # Install dependencies
 npm install
 
-# Start dev server
+# Start dev server (serves public/ so elements + recipes load from same origin)
 npm run dev
 
-# Build for production (code changes only)
-npm run build
+# Build for local testing (uses local public/ icons + JSON; output in local-dist/)
+npm run build:local
+
+# Build for GitHub Pages (uses CDN for data + icons; output in docs/)
+npm run build:pages
 
 # Preview production build
 npm run preview
@@ -85,36 +85,26 @@ npm run preview
 elemental-surprise/
 ├── src/
 │   ├── components/       # React UI components
-│   │   ├── Element.tsx   # Draggable element
-│   │   ├── Library.tsx  # Element spawner
-│   │   └── Workspace.tsx# Play area
-│   ├── data/             # Game data (JSON)
-│   │   ├── elements.json# Element definitions
-│   │   ├── loader.ts    # Data loading (CDN-based)
-│   │   └── recipes.json # Combination recipes
-│   ├── services/         # Business logic
-│   │   └── storage.ts   # localStorage persistence
-│   └── App.tsx          # Main game component
+│   ├── data/
+│   │   └── loader.ts     # Loads elements + recipes at runtime (CDN or local)
+│   ├── services/
+│   └── App.tsx
 │
-├── public/
-│   └── icons/           # SVG icons (loaded from CDN)
-│       ├── fire.svg
-│       ├── water.svg
-│       └── ...
+├── public/               # Single source for data + icons (CDN for pages, copied for local build)
+│   ├── elements.json    # Element definitions
+│   ├── recipes.json     # Combination recipes
+│   └── icons/           # SVG icons
 │
-├── docs/                # Built output (GitHub Pages)
-│   ├── index.html
-│   └── assets/
-│
+├── docs/                 # Built output for GitHub Pages (build:pages)
+├── local-dist/           # Built output for local testing (build:local)
 └── package.json
 ```
 
 ## How It Works
 
-- **Icons**: Loaded from `public/icons/` via jsDelivr CDN
-- **Elements**: Defined in `data/elements.json` - path converted to CDN URL at build
-- **Recipes**: Defined in `data/recipes.json`
-- **CDN URL**: `https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/...`
+- **Pages build** (`npm run build:pages`): App fetches `elements.json`, `recipes.json`, and icons from the GitHub repo via jsDelivr CDN. No rebuild needed when you add or edit elements/recipes/icons—just push.
+- **Local build** (`npm run build:local`): App loads data and icons from the same origin (`public/` is copied into `local-dist/`). Use this to test new assets before they’re on the repo.
+- **CDN base**: `https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public`
 
 ## Tech Stack
 

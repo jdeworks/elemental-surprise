@@ -3,18 +3,10 @@ set -e
 
 cd "$(dirname "$0")"
 
-# Ensure local-dist folder exists and is clean
-rm -rf local-dist
-mkdir -p local-dist
-
 echo "Building for local testing (local-dist folder)..."
 
-# Build to local-dist instead of docs (keeps relative CDN paths)
-export VITE_LOCAL_OUT_DIR="local-dist"
-npm run build
-
-# Copy icons to local-dist for local testing
-cp -r public/icons local-dist/
+# build:local outputs to local-dist and copies public/ (icons, elements.json, recipes.json)
+npm run build:local
 
 echo ""
 echo "Starting local server on port 5173..."

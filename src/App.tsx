@@ -7,7 +7,7 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { getElement, getRecipe } from './data/loader';
+import { loadData, getElement, getRecipe } from './data/loader';
 import './App.css';
 
 let elementIdCounter = 0;
@@ -17,10 +17,18 @@ function generateId(): string {
 }
 
 function App() {
+  const [dataLoaded, setDataLoaded] = useState(false);
+  const [loadError, setLoadError] = useState<string | null>(null);
   const [discovered, setDiscovered] = useState<string[]>(['fire', 'water', 'earth', 'wind']);
   const [workspaceElements, setWorkspaceElements] = useState<WorkspaceElement[]>([]);
   const [newDiscovery, setNewDiscovery] = useState<string | null>(null);
   const [activeId, setActiveId] = useState<string | null>(null);
+
+  useEffect(() => {
+    loadData()
+      .then(() => setDataLoaded(true))
+      .catch((err) => setLoadError(err instanceof Error ? err.message : String(err)));
+  }, []);
 
   const sensors = useSensors(
     useSensor(PointerSensor, {
@@ -110,6 +118,23 @@ function App() {
   }, []);
 
   const activeElement = activeId ? workspaceElements.find(el => el.id === activeId) : null;
+
+  if (loadError) {
+    return (
+      <div className="app" style={{ padding: 20 }}>
+        <h1>Elemental Surprise</h1>
+        <p style={{ color: '#c00' }}>Failed to load game data: {loadError}</p>
+      </div>
+    );
+  }
+  if (!dataLoaded) {
+    return (
+      <div className="app" style={{ padding: 20, textAlign: 'center' }}>
+        <h1>Elemental Surprise</h1>
+        <p>Loading…</p>
+      </div>
+    );
+  }
 
   return (
     <DndContext
