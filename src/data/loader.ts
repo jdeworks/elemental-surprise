@@ -5,6 +5,7 @@ export interface ElementDef {
   id: string;
   name: string;
   emoji: string;
+  icon: string;
 }
 
 export function getElement(id: string): ElementDef | undefined {

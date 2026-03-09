@@ -12,6 +12,12 @@
   transition: box-shadow 0.2s, transform 0.1s;
 }
 
+.element-icon {
+  display: block;
+  width: auto;
+  height: auto;
+}
+
 .element:active {
   cursor: grabbing;
 }

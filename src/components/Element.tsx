@@ -1,31 +1,6 @@
 import { useDraggable, useDroppable } from '@dnd-kit/core';
 import { getElement } from '../data/loader';
-import {
-  FireIcon,
-  WaterIcon,
-  EarthIcon,
-  WindIcon,
-  SteamIcon,
-  LavaIcon,
-  DustIcon,
-  EnergyIcon,
-  MudIcon,
-  RainIcon,
-} from './icons';
 import './Element.css';
-
-const iconMap: Record<string, React.ComponentType<{ size?: number }>> = {
-  fire: FireIcon,
-  water: WaterIcon,
-  earth: EarthIcon,
-  wind: WindIcon,
-  steam: SteamIcon,
-  lava: LavaIcon,
-  dust: DustIcon,
-  energy: EnergyIcon,
-  mud: MudIcon,
-  rain: RainIcon,
-};
 
 export interface ElementProps {
   id: string;
@@ -37,7 +12,6 @@ export interface ElementProps {
 
 export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: ElementProps) {
   const element = getElement(type);
-  const IconComponent = iconMap[type];
   
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
     id,
@@ -58,7 +32,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: 
     zIndex: isDragging ? 1000 : 'auto',
   };
 
-  if (!element || !IconComponent) return null;
+  if (!element) return null;
 
   return (
     <div
@@ -72,7 +46,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: 
       {...attributes}
       data-testid={`element-${type}`}
     >
-      <IconComponent size={isLibrary ? 40 : 36} />
+      <img src={element.icon} alt={element.name} className="element-icon" width={isLibrary ? 40 : 36} height={isLibrary ? 40 : 36} />
       <span className="element-name">{element.name}</span>
     </div>
   );

@@ -1,73 +1,104 @@
-# React + TypeScript + Vite
+# Elemental Surprise 🧪
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple element combination game inspired by Little Alchemy. Combine basic elements to discover new ones!
 
-Currently, two official plugins are available:
+![Fire](public/icons/fire.svg) ![Water](public/icons/water.svg) ![Earth](public/icons/earth.svg) ![Wind](public/icons/wind.svg)
+→ 
+![Steam](public/icons/steam.svg) ![Lava](public/icons/lava.svg) ![Dust](public/icons/dust.svg) ![Energy](public/icons/energy.svg) ![Mud](public/icons/mud.svg) ![Rain](public/icons/rain.svg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Play
 
-## React Compiler
+**Live Demo**: [https://your-username.github.io/your-repo/](https://your-username.github.io/your-repo/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### How to Play
+1. Click elements in the **Library** (left) to spawn them into the **Workspace**
+2. Drag one element onto another to combine them
+3. Discover all 10 elements!
 
-## Expanding the ESLint configuration
+### Recipes
+| Combination | Result |
+|------------|--------|
+| 🔥 Fire + 💧 Water | 🌫️ Steam |
+| 🪨 Earth + 🔥 Fire | 🌋 Lava |
+| 🪨 Earth + 💨 Wind | 🌑 Dust |
+| 🔥 Fire + 💨 Wind | ⚡ Energy |
+| 🪨 Earth + 💧 Water | 💩 Mud |
+| 💧 Water + 💨 Wind | 🌧️ Rain |
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Development
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+```bash
+# Install dependencies
+npm install
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+# Start dev server
+npm run dev
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## How to Extend
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Adding New Elements
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+1. **Create the SVG icon** in `public/icons/`:
+   ```svg
+   <!-- public/icons/star.svg -->
+   <svg width="32" height="32" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+     <polygon points="32,4 40,24 60,24 44,38 50,58 32,48 14,58 20,38 4,24 24,24" fill="#FFD700"/>
+   </svg>
+   ```
+
+2. **Add to elements.json**:
+   ```json
+   "star": { 
+     "id": "star", 
+     "name": "Star", 
+     "emoji": "⭐", 
+     "icon": "/icons/star.svg" 
+   }
+   ```
+
+3. **Add recipes** in `recipes.json`:
+   ```json
+   "fire+fire": "star"
+   ```
+
+### File Structure
+
 ```
+src/
+├── components/       # React UI components
+│   ├── Element.tsx   # Draggable element (uses element.icon)
+│   ├── Library.tsx   # Element spawner
+│   └── Workspace.tsx # Play area
+├── data/             # Game data
+│   ├── elements.json # Element definitions
+│   ├── loader.ts     # Data loading utilities
+│   └── recipes.json  # Combination recipes
+├── services/         # Business logic
+│   └── storage.ts    # localStorage with XOR encryption
+└── App.tsx          # Main game component
+
+public/
+└── icons/            # Static SVG icons
+    ├── fire.svg
+    ├── water.svg
+    └── ...
+```
+
+## Tech Stack
+
+- React 19 + TypeScript
+- Vite (static build)
+- @dnd-kit (drag & drop)
+- localStorage (progress persistence)
+- GitHub Pages (hosting)
+
+## License
+
+MIT
