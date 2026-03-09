@@ -137,6 +137,7 @@ function App() {
               type={activeElement.type}
               x={activeElement.x}
               y={activeElement.y}
+              isOverlay={true}
             />
           )}
         </DragOverlay>

@@ -8,9 +8,10 @@ export interface ElementProps {
   x?: number;
   y?: number;
   isLibrary?: boolean;
+  isOverlay?: boolean;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false }: ElementProps) {
   const element = getElement(type);
   
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
@@ -23,7 +24,14 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: 
     data: { type },
   });
 
-  const style: React.CSSProperties = {
+  // Overlay elements should be centered on cursor, absolute not use positioning
+  const style: React.CSSProperties = isOverlay ? {
+    position: 'fixed',
+    pointerEvents: 'none',
+    zIndex: 9999,
+    transform: transform ? `translate3d(${transform.x}px, ${transform.y}px, 0)` : undefined,
+    opacity: isDragging ? 0.5 : 1,
+  } : {
     position: isLibrary ? 'relative' : 'absolute',
     left: isLibrary ? undefined : x,
     top: isLibrary ? undefined : y,
@@ -38,12 +46,11 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false }: 
     <div
       ref={(node) => {
         setDraggableRef(node);
-        setDroppableRef(node);
+        if (!isOverlay) setDroppableRef(node);
       }}
       className={`element ${isLibrary ? 'element-library' : 'element-workspace'}`}
       style={style}
-      {...listeners}
-      {...attributes}
+      {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >
       <img src={element.icon} alt={element.name} className="element-icon" width={isLibrary ? 40 : 36} height={isLibrary ? 40 : 36} />
