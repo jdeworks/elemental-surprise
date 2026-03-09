@@ -19,6 +19,7 @@ function generateId(): string {
 function App() {
   const [dataLoaded, setDataLoaded] = useState(false);
   const [loadError, setLoadError] = useState<string | null>(null);
+  const [iconCacheBust, setIconCacheBust] = useState<number | undefined>(undefined);
   const [discovered, setDiscovered] = useState<string[]>(['fire', 'water', 'earth', 'wind']);
   const [workspaceElements, setWorkspaceElements] = useState<WorkspaceElement[]>([]);
   const [newDiscovery, setNewDiscovery] = useState<string | null>(null);
@@ -145,6 +146,24 @@ function App() {
       <div className="app">
         <header className="app-header">
           <h1>Elemental Surprise</h1>
+          <div className="app-header-actions">
+            <button
+              type="button"
+              className="app-header-btn"
+              onClick={() => setIconCacheBust(Date.now())}
+              title="Force reload icons (e.g. after updating them on the server)"
+            >
+              Clear icon cache
+            </button>
+            <button
+              type="button"
+              className="app-header-btn"
+              onClick={() => setWorkspaceElements([])}
+              title="Remove all elements from the workspace"
+            >
+              Clear workspace
+            </button>
+          </div>
           {newDiscovery && (
             <div className="discovery-toast">
               🎉 New element discovered: {newDiscovery}!
@@ -152,8 +171,8 @@ function App() {
           )}
         </header>
         <main className="app-main">
-          <Library discovered={discovered} onSpawn={spawnElement} />
-          <Workspace elements={workspaceElements} activeId={activeId} />
+          <Library discovered={discovered} onSpawn={spawnElement} iconCacheBust={iconCacheBust} />
+          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} />
         </main>
         <DragOverlay>
           {activeElement && (
@@ -163,6 +182,7 @@ function App() {
               x={activeElement.x}
               y={activeElement.y}
               isOverlay={true}
+              iconCacheBust={iconCacheBust}
             />
           )}
         </DragOverlay>

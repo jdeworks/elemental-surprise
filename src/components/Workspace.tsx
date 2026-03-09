@@ -6,9 +6,10 @@ import './Workspace.css';
 export interface WorkspaceProps {
   elements: WorkspaceElement[];
   activeId?: string | null;
+  iconCacheBust?: number;
 }
 
-export function Workspace({ elements, activeId }: WorkspaceProps) {
+export function Workspace({ elements, activeId, iconCacheBust }: WorkspaceProps) {
   const { setNodeRef, isOver } = useDroppable({
     id: 'workspace',
   });
@@ -29,6 +30,7 @@ export function Workspace({ elements, activeId }: WorkspaceProps) {
           x={element.x}
           y={element.y}
           isDropTarget={isDragging && element.id !== activeId}
+          iconCacheBust={iconCacheBust}
         />
       ))}
       {elements.length === 0 && (

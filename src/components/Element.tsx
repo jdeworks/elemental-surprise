@@ -1,5 +1,6 @@
 import { useDraggable, useDroppable } from '@dnd-kit/core';
 import { getElement } from '../data/loader';
+import { getIconUrl } from '../utils/iconUrl';
 import './Element.css';
 
 export interface ElementProps {
@@ -10,9 +11,10 @@ export interface ElementProps {
   isLibrary?: boolean;
   isOverlay?: boolean;
   isDropTarget?: boolean;
+  iconCacheBust?: number;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust }: ElementProps) {
   const element = getElement(type);
   
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
@@ -60,7 +62,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
       {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >
-      <img src={element.icon} alt={element.name} className="element-icon" width={isLibrary ? 40 : 36} height={isLibrary ? 40 : 36} />
+      <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 40 : 36} height={isLibrary ? 40 : 36} />
       <span className="element-name">{element.name}</span>
     </div>
   );

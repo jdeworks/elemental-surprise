@@ -7,11 +7,38 @@ const outDir = process.env.VITE_LOCAL_OUT_DIR || 'docs'
 // Pages build: load data + icons from GitHub via CDN (no rebuild needed when adding elements/recipes/icons)
 const cdnBase = process.env.VITE_CDN_BASE || (isProduction && outDir === 'docs' ? 'https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public' : '')
 
+// Cache static assets (SVGs, data JSON) for a day so updates are visible without lasting forever
+const CACHE_HEADERS = { 'Cache-Control': 'public, max-age=86400' }
+
+function cacheStaticAssets() {
+  return {
+    name: 'cache-static-assets',
+    configureServer(server: { middlewares: { use: (fn: (req: any, res: any, next: () => void) => void) => void } }) {
+      server.middlewares.use((req, res, next) => {
+        const url = req.url?.split('?')[0] ?? ''
+        if (url.endsWith('.svg') || url.endsWith('/elements.json') || url.endsWith('/recipes.json')) {
+          res.setHeader('Cache-Control', CACHE_HEADERS['Cache-Control'])
+        }
+        next()
+      })
+    },
+    configurePreviewServer(server: { middlewares: { use: (fn: (req: any, res: any, next: () => void) => void) => void } }) {
+      server.middlewares.use((req, res, next) => {
+        const url = req.url?.split('?')[0] ?? ''
+        if (url.endsWith('.svg') || url.endsWith('/elements.json') || url.endsWith('/recipes.json')) {
+          res.setHeader('Cache-Control', CACHE_HEADERS['Cache-Control'])
+        }
+        next()
+      })
+    },
+  }
+}
+
 export default defineConfig({
   base: './',
   // Only copy public/ for local build (icons + elements.json, recipes.json). Pages build uses CDN.
   publicDir: outDir === 'local-dist' ? 'public' : false,
-  plugins: [react()],
+  plugins: [react(), cacheStaticAssets()],
   define: {
     __CDN_BASE__: JSON.stringify(cdnBase),
   },
