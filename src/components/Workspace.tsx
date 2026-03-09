@@ -5,12 +5,15 @@ import './Workspace.css';
 
 export interface WorkspaceProps {
   elements: WorkspaceElement[];
+  activeId?: string | null;
 }
 
-export function Workspace({ elements }: WorkspaceProps) {
+export function Workspace({ elements, activeId }: WorkspaceProps) {
   const { setNodeRef, isOver } = useDroppable({
     id: 'workspace',
   });
+
+  const isDragging = activeId !== null && activeId !== undefined;
 
   return (
     <div
@@ -25,6 +28,7 @@ export function Workspace({ elements }: WorkspaceProps) {
           type={element.type}
           x={element.x}
           y={element.y}
+          isDropTarget={isDragging && element.id !== activeId}
         />
       ))}
       {elements.length === 0 && (

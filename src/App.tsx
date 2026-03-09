@@ -128,7 +128,7 @@ function App() {
         </header>
         <main className="app-main">
           <Library discovered={discovered} onSpawn={spawnElement} />
-          <Workspace elements={workspaceElements} />
+          <Workspace elements={workspaceElements} activeId={activeId} />
         </main>
         <DragOverlay>
           {activeElement && (

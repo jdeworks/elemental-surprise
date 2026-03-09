@@ -9,9 +9,10 @@ export interface ElementProps {
   y?: number;
   isLibrary?: boolean;
   isOverlay?: boolean;
+  isDropTarget?: boolean;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false }: ElementProps) {
   const element = getElement(type);
   
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
@@ -24,8 +25,8 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
     data: { type },
   });
 
-  // Overlay elements should be centered on cursor, absolute not use positioning
-  const style: React.CSSProperties = isOverlay ? {
+  // Overlay elements should be centered on cursor
+  const elementStyle: React.CSSProperties = isOverlay ? {
     position: 'fixed',
     pointerEvents: 'none',
     zIndex: 9999,
@@ -42,14 +43,20 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
 
   if (!element) return null;
 
+  const classNames = [
+    'element',
+    isLibrary ? 'element-library' : 'element-workspace',
+    isDropTarget ? 'drop-target' : '',
+  ].filter(Boolean).join(' ');
+
   return (
     <div
       ref={(node) => {
         setDraggableRef(node);
         if (!isOverlay) setDroppableRef(node);
       }}
-      className={`element ${isLibrary ? 'element-library' : 'element-workspace'}`}
-      style={style}
+      className={classNames}
+      style={elementStyle}
       {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >

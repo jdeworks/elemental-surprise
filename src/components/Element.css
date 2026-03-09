@@ -9,7 +9,7 @@
   background: #fff;
   cursor: grab;
   user-select: none;
-  transition: box-shadow 0.2s, transform 0.1s;
+  transition: box-shadow 0.2s, transform 0.1s, border-color 0.15s;
 }
 
 .element-icon {
@@ -22,13 +22,49 @@
   cursor: grabbing;
 }
 
+/* Library elements - show full style */
 .element-library {
   background: #f8f8f8;
 }
 
+/* Workspace elements - minimal, no border/text by default */
 .element-workspace {
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  background: transparent;
+  border: 2px solid transparent;
+  box-shadow: none;
+  padding: 4px;
+  border-radius: 8px;
+}
+
+.element-workspace:hover {
+  background: rgba(0, 0, 0, 0.05);
+  box-shadow: none;
+  transform: none;
+}
+
+/* Show drop target border when dragging */
+.element-workspace.drop-target {
+  border: 2px dashed #888;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.element-workspace.drop-target:hover {
+  border-color: #4CAF50;
+  background: rgba(76, 175, 80, 0.1);
+}
+
+.element-name {
+  display: none;
+}
+
+/* Show name in library only */
+.element-library .element-name {
+  display: inline;
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
 .element:hover {
@@ -39,12 +75,4 @@
 .element-over {
   border-color: #4CAF50;
   box-shadow: 0 0 12px rgba(76, 175, 80, 0.6);
-}
-
-.element-name {
-  font-size: 13px;
-  font-weight: 600;
-  color: #333;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
 }

@@ -21,7 +21,7 @@ export function Library({ discovered, onSpawn }: LibraryProps) {
             onClick={() => onSpawn(element.id)}
             data-testid={`library-element-${element.id}`}
           >
-            <span className="library-emoji">{element.emoji}</span>
+            <img src={element.icon} alt={element.name} className="library-icon" width={32} height={32} />
             <span className="library-name">{element.name}</span>
           </div>
         ))}

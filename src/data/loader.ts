@@ -1,10 +1,11 @@
-// jsDelivr CDN base URL - change @dev to @main after deploying
-const CDN_BASE = 'https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev';
+// CDN base URL - configure via VITE_CDN_BASE env var
+// For local dev: leave empty (uses relative paths)
+// For production: set to jsDelivr URL
+const CDN_BASE = import.meta.env.VITE_CDN_BASE || '';
 
 export interface ElementDef {
   id: string;
   name: string;
-  emoji: string;
   icon: string;
 }
 
@@ -12,12 +13,12 @@ export interface ElementDef {
 import elementsData from './elements.json';
 import recipesData from './recipes.json';
 
-// Convert icon paths to CDN URLs
+// Convert icon paths to CDN URLs (or keep relative for local)
 const elements: Record<string, ElementDef> = {};
 for (const [key, value] of Object.entries(elementsData)) {
   elements[key] = {
     ...value,
-    icon: `${CDN_BASE}${value.icon}`
+    icon: CDN_BASE ? `${CDN_BASE}${value.icon}` : value.icon
   };
 }
 
