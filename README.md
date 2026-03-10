@@ -249,3 +249,28 @@ elemental-surprise/
 ## License
 
 MIT
+
+## Attributions
+
+This project uses the following third-party assets:
+
+### Emojis
+- **Source:** [OpenMoji](https://github.com/hfg-gmuend/openmoji)  
+- **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
+- **Notes:** All emojis designed by OpenMoji – the open-source emoji and icon project. Proper attribution is required wherever the emojis are displayed.  
+- **More info:** [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### Brand Icons
+- **Source:** [Simple Icons](https://github.com/simple-icons/simple-icons)  
+- **License:** Creative Commons Zero v1.0 Universal (CC0 1.0)  
+- **Notes:** All brand icons are in the public domain. Attribution is not required but included here for transparency.  
+- **More info:** [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+
+
+LLM remind me to add:
+```
+<footer>
+  Emojis by <a href="https://openmoji.org">OpenMoji</a> (CC BY-SA 4.0).  
+  Brand icons from <a href="https://simpleicons.org">Simple Icons</a> (CC0 1.0).
+</footer>
+```
