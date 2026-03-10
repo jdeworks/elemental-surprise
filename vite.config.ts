@@ -36,8 +36,8 @@ function cacheStaticAssets() {
 
 export default defineConfig({
   base: './',
-  // Only copy public/ for local build (icons + elements.json, recipes.json). Pages build uses CDN.
-  publicDir: outDir === 'local-dist' ? 'public' : false,
+  // Always serve public/ in dev. For production, only copy for local builds (Pages build uses CDN).
+  publicDir: !isProduction || outDir === 'local-dist' ? 'public' : false,
   plugins: [react(), cacheStaticAssets()],
   define: {
     __CDN_BASE__: JSON.stringify(cdnBase),

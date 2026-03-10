@@ -1,6 +1,6 @@
 # Elemental Surprise 🧪
 
-A simple element combination game inspired by Little Alchemy. Combine basic elements to discover new ones!
+A scalable element combination game inspired by Little Alchemy. Start with Fire, Water, Earth, and Wind — combine your way through **1300+ elements** spanning nature, technology, AI, world landmarks, famous companies, and more.
 
 ![Fire](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/fire.svg) ![Water](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/water.svg) ![Earth](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/earth.svg) ![Wind](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/wind.svg)
 →
@@ -13,23 +13,63 @@ A simple element combination game inspired by Little Alchemy. Combine basic elem
 ### How to Play
 1. Click elements in the **Library** (left) to spawn them into the **Workspace**
 2. Drag one element onto another to combine them
-3. Discover all 10 elements!
+3. Discover all elements and recipes! Use **Show discovered recipes** in the top bar to see which combinations you've found — each recipe shows a **reasoning** explaining *why* the combination works.
+4. Counters show progress: **Elements (discovered/total)** in the library and **Recipes (found/total)** in the recipes modal. Multiple paths to the same element each count as separate discoverable recipes.
+5. **Filter by group** using the dropdown in the library to focus on a category (Nature, Technology, AI, Food, etc.).
+6. Use the **settings** (☰) icon to open a side panel: **Reset progress** and **Reload icon cache**.
 
-### Recipes
-| Combination | Result |
-|------------|--------|
-| 🔥 Fire + 💧 Water | 🌫️ Steam |
-| 🪨 Earth + 🔥 Fire | 🌋 Lava |
-| 🪨 Earth + 💨 Wind | 🌑 Dust |
-| 🔥 Fire + 💨 Wind | ⚡ Energy |
-| 🪨 Earth + 💧 Water | 💩 Mud |
-| 💧 Water + 💨 Wind | 🌧️ Rain |
+### Example Recipes
+
+| Combination | Result | Reasoning |
+|---|---|---|
+| 🔥 Fire + 💧 Water | 🌫️ Steam | Water heated by fire evaporates into steam |
+| 🪨 Earth + 🔥 Fire | 🌋 Lava | Intense heat melts earth into flowing lava |
+| 🌫️ Steam + 💨 Wind | ☁️ Cloud | Steam carried by wind gathers into clouds |
+| ⚡ Energy + 🪨 Earth | 🏔️ Pressure | Geological forces compress earth into pressure |
+| 🌿 Life + 🌧️ Rain | 🌱 Plant | Rain nourishes life into growing plants |
+| 🪨 Stone + 🪵 Wood | 🔧 Tool | Shaping wood with stone creates the first tools |
+| 🧠 Algorithm + 🧠 Brain | 🤖 AI | Algorithms mimicking the brain create artificial intelligence |
+| 🏝️ Island + 🍚 Rice | 🇯🇵 Japan | An island nation known for rice — Japan |
+| 🍎 Fruit + 💻 Computer | 🍏 Apple Company | A fruit-named computer company — Apple |
+| 🏛️ France + 🏗️ Steel | 🗼 Eiffel Tower | France's iconic steel structure — the Eiffel Tower |
+
+### Element Groups
+
+Elements are organized into **15 groups** for easier browsing:
+
+| Group | Examples | Count |
+|---|---|---|
+| Technology | Computer, Internet, Blockchain, Docker | ~244 |
+| Culture | Art, Music, Theater, Anime, Lego | ~160 |
+| Society | Nations, Landmarks, Professions, Economy | ~122 |
+| Science | Physics, Medicine, Mathematics, Climate | ~118 |
+| AI | LLM, ChatGPT, Claude, Gemini, Cursor | ~81 |
+| Knowledge | Philosophy, Writing, Education | ~79 |
+| Materials | Metals, Glass, Fabric, Fossil | ~76 |
+| Nature | Weather, Geology, Rivers, Volcanoes | ~75 |
+| Tools | Machines, Vehicles, Inventions | ~68 |
+| Food | Cooking, Agriculture, Restaurants | ~59 |
+| Animals | Fish, Birds, Mammals, Insects | ~54 |
+| Space | Stars, Planets, NASA, Hubble | ~51 |
+| Humanity | Emotions, Senses, Body, Speech | ~50 |
+| Fantasy | Dragons, Wizards, Mythology | ~50 |
+| Life | Biology, Plants, DNA, Evolution | ~48 |
+
+### Links & Reasoning
+
+Every element has at least one **external link** (Wikipedia or official site) shown as a link icon in the library. Company/product elements link to both their official website and Wikipedia.
+
+Every recipe has a **reasoning** explaining why the combination works. Key recipes have curated, educational descriptions; others have contextual auto-generated explanations based on the element's group.
 
 ## No Rebuild Required! 🎯
 
 The **GitHub Pages** build loads elements, recipes, and icons from the GitHub repo via **jsDelivr CDN** at runtime. You can add or change elements and recipes without rebuilding—just push to GitHub.
 
 ### Adding New Elements (No Rebuild)
+
+You can use either **legacy single-file** layout or the **bucket** layout (for scale).
+
+#### Option A: Legacy (single files)
 
 1. **Create the SVG icon** in `public/icons/`:
    ```svg
@@ -41,42 +81,101 @@ The **GitHub Pages** build loads elements, recipes, and icons from the GitHub re
 
 2. **Add to `public/elements.json`**:
    ```json
-   "star": { 
-     "id": "star", 
-     "name": "Star", 
-     "icon": "./icons/star.svg" 
+   "star": {
+     "id": "star",
+     "name": "Star",
+     "icon": "./icons/star.svg",
+     "group": "Space",
+     "links": [
+       { "url": "https://en.wikipedia.org/wiki/Star", "label": "Wikipedia" }
+     ]
    }
    ```
+   - **group** (required): one of the 15 group names (Nature, Space, Materials, Life, Animals, Humanity, Knowledge, Science, Tools, Society, Fantasy, Food, Culture, Technology, AI)
+   - **links** (required): array of up to 3 links for further reading. Each has `url` and optional `label`.
 
-3. **Add recipes** in `public/recipes.json`:
+3. **Add recipes** in `public/recipes.json` (compound format):
    ```json
-   "fire+fire": "star"
+   "fire+fire": { "result": "star", "reasoning": "Twin flames merge into the blazing sun" }
    ```
+   - **result**: the element id produced
+   - **reasoning**: short explanation of why this combination works
 
 4. **Push to GitHub** — the live site will load the new data and icons from the CDN.
 
+#### Option B: Bucket layout (for 1000+ elements)
+
+When `public/data/elements-index.json` and `public/data/recipes-index.json` exist, the app uses **bucket mode**: data is split into multiple JSON files and loaded on demand so the browser isn't overloaded.
+
+1. **Elements**
+   - **Index**: `public/data/elements-index.json` lists buckets and which element id lives in which bucket.
+   - **Buckets**: e.g. `public/data/elements/default.json` (same shape as legacy `elements.json`, including `group` field).
+
+2. **Recipes**
+   - **Index**: `public/data/recipes-index.json` with `buckets` and `recipeKeyToBucket`.
+   - **Buckets**: e.g. `public/data/recipes/default.json` (compound format with `result` and `reasoning`).
+
+3. **Icons**
+   - Can stay in `public/icons/` or be grouped into subfolders.
+
+4. **Lazy loading**
+   - Only the first 50 discovered elements (by "last used" / discovery time) have their data loaded initially. The rest load on demand.
+
 ### When to Rebuild
 
-- **Local dev**: Use **`npm run build:local`** to test with local assets (icons and JSON in `public/`). Output goes to `local-dist/`; good for trying new elements before they’re on the repo.
-- **Deploy to GitHub Pages**: Use **`npm run build:pages`** when you change **source code or config** (React, Vite, etc.). Output goes to `docs/`; the app will load elements, recipes, and icons from the repo over the CDN.
+- **Local dev**: Use **`npm run build:local`** for local testing. Output goes to `local-dist/`.
+- **Deploy to GitHub Pages**: Use **`npm run build:pages`** when you change source code or config. Output goes to `docs/`.
+
+## Content Pipeline
+
+The project includes a script-based pipeline for generating, validating, and merging element data.
+
+### Scripts
+
+```bash
+# Generate elements and recipes from the curated recipe tree
+npm run generate
+
+# Validate proposed data (reachability, links, groups, reasonings)
+npm run validate:proposed
+
+# Validate public data
+npm run validate
+
+# Merge proposed data into public/ and regenerate bucket files
+npm run merge
+```
+
+### Generator (`scripts/generate-elements.ts`)
+
+The generator builds elements and recipes from a curated list of ~1700 recipe triples. It:
+- Creates elements with Wikipedia links (or official site links for companies/products)
+- Assigns each element to one of 15 groups
+- Resolves recipe key conflicts (when two recipes claim the same ingredient pair)
+- Auto-fixes unreachable elements by creating new recipes from reachable ingredients
+- Generates curated reasonings for ~100 key recipes and contextual auto-reasonings for the rest
+- Outputs to `proposed/` for review before merging
+
+### Validation (`scripts/validate.ts`)
+
+Checks:
+- All elements are reachable from starters (fire, water, earth, wind)
+- No broken references in recipes
+- Every element has at least one link
+- Every element has a group assignment
+- Every recipe has a reasoning (warning if missing)
+
+### Merge (`scripts/merge.ts`)
+
+Merges proposed data into `public/`, regenerating bucket files and indexes. For a clean regeneration, delete `public/data`, `public/elements.json`, and `public/recipes.json` before copying proposed files and running merge.
 
 ## Development
 
 ```bash
-# Install dependencies
 npm install
-
-# Start dev server (serves public/ so elements + recipes load from same origin)
-npm run dev
-
-# Build for local testing (uses local public/ icons + JSON; output in local-dist/)
-npm run build:local
-
-# Build for GitHub Pages (uses CDN for data + icons; output in docs/)
-npm run build:pages
-
-# Preview production build
-npm run preview
+npm run dev        # Start dev server
+npm run build      # TypeScript check + Vite build
+npm run preview    # Preview production build
 ```
 
 ## File Structure
@@ -84,26 +183,42 @@ npm run preview
 ```
 elemental-surprise/
 ├── src/
-│   ├── components/       # React UI components
+│   ├── components/       # React UI (Library with group filter, Workspace, Element)
 │   ├── data/
-│   │   └── loader.ts     # Loads elements + recipes at runtime (CDN or local)
+│   │   └── loader.ts     # Loads elements + recipes + reasonings (legacy or bucket, CDN or local)
 │   ├── services/
-│   └── App.tsx
+│   └── App.tsx            # Main app with RecipesModal (shows reasoning per recipe)
 │
-├── public/               # Single source for data + icons (CDN for pages, copied for local build)
-│   ├── elements.json    # Element definitions
-│   ├── recipes.json     # Combination recipes
-│   └── icons/           # SVG icons
+├── scripts/              # Content pipeline
+│   ├── generate-elements.ts  # Recipe tree → proposed elements + recipes
+│   ├── validate.ts           # Validates data (reachability, links, groups, reasonings)
+│   ├── merge.ts              # Merges proposed → public with bucket generation
+│   ├── evaluate.ts           # Detailed evaluation report
+│   └── lib/
+│       ├── load-data.ts      # Shared data loader (ElementDef, GameData, reasonings)
+│       └── reachability.ts   # Graph algorithms (reachability, depth, validation)
 │
-├── docs/                 # Built output for GitHub Pages (build:pages)
-├── local-dist/           # Built output for local testing (build:local)
+├── public/               # Data + icons
+│   ├── elements.json     # Legacy element definitions (with group field)
+│   ├── recipes.json      # Legacy recipes (compound format: { result, reasoning })
+│   ├── data/             # Bucket mode
+│   │   ├── elements-index.json
+│   │   ├── elements/
+│   │   ├── recipes-index.json
+│   │   └── recipes/
+│   └── icons/
+│
+├── docs/                 # Built output for GitHub Pages
 └── package.json
 ```
 
 ## How It Works
 
-- **Pages build** (`npm run build:pages`): App fetches `elements.json`, `recipes.json`, and icons from the GitHub repo via jsDelivr CDN. No rebuild needed when you add or edit elements/recipes/icons—just push.
-- **Local build** (`npm run build:local`): App loads data and icons from the same origin (`public/` is copied into `local-dist/`). Use this to test new assets before they’re on the repo.
+- **Pages build** (`npm run build:pages`): App fetches data and icons from the GitHub repo via jsDelivr CDN. No rebuild needed when you add or edit elements/recipes/icons—just push.
+- **Legacy vs bucket**: If both `data/elements-index.json` and `data/recipes-index.json` exist, the app uses bucket mode. Otherwise it falls back to single-file mode.
+- **Progress**: Discovered elements, discovered recipes, and "last used" timestamps are stored in localStorage.
+- **Groups**: Elements are categorized into 15 groups. The library has a filter dropdown to browse by group.
+- **Reasonings**: Each recipe includes an explanation. Curated for key recipes, auto-generated for others.
 - **CDN base**: `https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public`
 
 ## Tech Stack

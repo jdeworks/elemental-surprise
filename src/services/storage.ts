@@ -10,11 +10,16 @@ export interface WorkspaceElement {
 
 export interface GameData {
   discovered: string[];
+  discoveredRecipes: string[];
+  /** Timestamps for "last used" / discovered, for sorting (e.g. load first N elements only). */
+  lastUsed: Record<string, number>;
   workspace: WorkspaceElement[];
 }
 
 const defaultData: GameData = {
   discovered: ['fire', 'water', 'earth', 'wind'],
+  discoveredRecipes: [],
+  lastUsed: {},
   workspace: [],
 };
 
@@ -26,9 +31,10 @@ function obfuscate(data: string): string {
 }
 
 function deobfuscate(data: string): string {
-  return data.split('').map((c, i) =>
+  const xored = data.split('').map((c, i) =>
     String.fromCharCode(c.charCodeAt(0) ^ KEY.charCodeAt(i % KEY.length))
   ).join('');
+  return atob(xored);
 }
 
 export function saveGame(data: GameData): void {
@@ -54,6 +60,8 @@ export function loadGame(): GameData {
     const parsed = JSON.parse(deobfuscated);
     return {
       discovered: parsed.discovered ?? defaultData.discovered,
+      discoveredRecipes: Array.isArray(parsed.discoveredRecipes) ? parsed.discoveredRecipes : defaultData.discoveredRecipes,
+      lastUsed: parsed.lastUsed && typeof parsed.lastUsed === 'object' ? parsed.lastUsed : defaultData.lastUsed,
       workspace: parsed.workspace ?? defaultData.workspace,
     };
   } catch (e) {
