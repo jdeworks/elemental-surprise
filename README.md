@@ -123,8 +123,9 @@ When `public/data/elements-index.json` and `public/data/recipes-index.json` exis
 
 ### When to Rebuild
 
-- **Local dev**: Use **`npm run build:local`** for local testing. Output goes to `local-dist/`.
-- **Deploy to GitHub Pages**: Use **`npm run build:pages`** when you change source code or config. Output goes to `docs/`.
+- **Local full test**: Run **`./test-local.sh`** to run the full pipeline (generate from recipe tree → validate proposed → merge → generate icons → validate public → build to `local-dist/`) and start the preview server at http://localhost:5173.
+- **Local dev only**: Use **`npm run build:local`** for a one-off local build. Output goes to `local-dist/`.
+- **Deploy to GitHub Pages**: Run **`./build-pages.sh`** or **`npm run build:pages`** when you change source code or config. Output goes to `docs/`.
 
 ## Content Pipeline
 
@@ -144,6 +145,12 @@ npm run validate
 
 # Merge proposed data into public/ and regenerate bucket files
 npm run merge
+
+# Generate SVG icons for all elements (SYMBOL_PATHS = hand-crafted, rest = initial-based placeholders)
+npm run generate:icons
+
+# Optional: detailed evaluation report (reachability, depth distribution, key paths)
+npm run evaluate
 ```
 
 ### Generator (`scripts/generate-elements.ts`)
@@ -169,6 +176,11 @@ Checks:
 
 Merges proposed data into `public/`, regenerating bucket files and indexes. For a clean regeneration, delete `public/data`, `public/elements.json`, and `public/recipes.json` before copying proposed files and running merge.
 
+### Icons and LLM-generated SVGs
+
+- **`scripts/generate-icons.ts`** writes an SVG for every element: entries in **`SYMBOL_PATHS`** in that script are rendered as hand-crafted symbols; all others get group-colored initial-based placeholders. Running **`npm run generate:icons`** (e.g. via `./test-local.sh`) **overwrites** every file in `public/icons/`. To keep an LLM- or hand-drawn icon, add its path markup to `SYMBOL_PATHS` in `scripts/generate-icons.ts`, or add only the file and avoid re-running the full pipeline for that icon.
+- **`scripts/llm-svg-prompts.md`** provides copy-paste prompts for single and batch SVG generation (viewBox, style, dark background). Use it to create icons, save as `public/icons/<element-id>.svg`, then add the element to `SYMBOL_PATHS` if you will run `generate:icons` so the script does not overwrite your file.
+
 ## Development
 
 ```bash
@@ -182,6 +194,8 @@ npm run preview    # Preview production build
 
 ```
 elemental-surprise/
+├── test-local.sh         # Full pipeline + preview server (generate → validate → merge → icons → build)
+├── build-pages.sh        # Build for GitHub Pages (output: docs/)
 ├── src/
 │   ├── components/       # React UI (Library with group filter, Workspace, Element)
 │   ├── data/
@@ -191,9 +205,11 @@ elemental-surprise/
 │
 ├── scripts/              # Content pipeline
 │   ├── generate-elements.ts  # Recipe tree → proposed elements + recipes
+│   ├── generate-icons.ts     # SVG icons (SYMBOL_PATHS or initial-based)
 │   ├── validate.ts           # Validates data (reachability, links, groups, reasonings)
 │   ├── merge.ts              # Merges proposed → public with bucket generation
-│   ├── evaluate.ts           # Detailed evaluation report
+│   ├── evaluate.ts           # Optional evaluation report (depth, key paths)
+│   ├── llm-svg-prompts.md    # LLM prompts for generating game-ready SVG icons
 │   └── lib/
 │       ├── load-data.ts      # Shared data loader (ElementDef, GameData, reasonings)
 │       └── reachability.ts   # Graph algorithms (reachability, depth, validation)

@@ -9,17 +9,17 @@ echo "════════════════════════�
 echo ""
 
 # 1. Generate elements + recipes from the curated recipe tree
-echo "▶ Step 1/5: Generating elements and recipes..."
+echo "▶ Step 1/6: Generating elements and recipes..."
 npm run generate
 echo ""
 
 # 2. Validate the proposed data
-echo "▶ Step 2/5: Validating proposed data..."
+echo "▶ Step 2/6: Validating proposed data..."
 npm run validate:proposed
 echo ""
 
 # 3. Clean merge into public/ (remove stale data, copy proposed, regenerate buckets)
-echo "▶ Step 3/5: Merging into public/..."
+echo "▶ Step 3/6: Merging into public/..."
 rm -rf public/data public/elements.json public/recipes.json
 cp proposed/elements.json public/elements.json
 cp proposed/recipes.json public/recipes.json

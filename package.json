@@ -14,7 +14,8 @@
     "validate:proposed": "tsx scripts/validate.ts --data proposed",
     "generate": "tsx scripts/generate-elements.ts",
     "generate:icons": "tsx scripts/generate-icons.ts",
-    "merge": "tsx scripts/merge.ts"
+    "merge": "tsx scripts/merge.ts",
+    "evaluate": "tsx scripts/evaluate.ts"
   },
   "dependencies": {
     "@dnd-kit/sortable": "^10.0.0",
