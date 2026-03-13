@@ -10,6 +10,30 @@ A scalable element combination game inspired by Little Alchemy. Start with Fire,
 
 **Live Demo**: https://jdeworks.github.io/elemental-surprise/
 
+## Attribution & Licenses (Important)
+
+This project ships third-party icon assets. Attribution is exposed in both source and deployed output:
+
+- In-app footer links to: `./attribution/NOTICE.txt`
+- Public/deployed attribution files:
+  - `public/attribution/NOTICE.txt`
+  - `public/attribution/attribution.json`
+  - `public/attribution/attribution-full.json`
+  - `public/attribution/licenses/`
+- Build-source attribution files:
+  - `icon-matcher/output/matched-icons/_NOTICE.txt`
+  - `icon-matcher/output/matched-icons/_attribution.json`
+  - `icon-matcher/output/matched-icons/_attribution-full.json`
+  - `icon-matcher/output/matched-icons/_licenses/`
+
+Current icon sources used by this repo are exported by icon-matcher at build time and currently include:
+
+- OpenMoji (CC BY-SA 4.0)
+- Simple Icons (CC0 1.0)
+- Game-icons.net (CC BY 3.0 / CC0 where noted)
+
+When updating icons, always run `npm run icons:refresh` (or a full content refresh) so legal attribution artifacts stay in sync.
+
 ### How to Play
 1. Click elements in the **Library** (left) to spawn them into the **Workspace**
 2. Drag one element onto another to combine them
@@ -123,19 +147,64 @@ When `public/data/elements-index.json` and `public/data/recipes-index.json` exis
 
 ### When to Rebuild
 
-- **Local full test**: Run **`./test-local.sh`** to run the full pipeline (generate from recipe tree → validate proposed → merge → generate icons → validate public → build to `local-dist/`) and start the preview server at http://localhost:5173.
+- **Local full test**: Run **`./test-local.sh`** to run the canonical content refresh pipeline and build `local-dist/`, then start preview at http://localhost:5173.
 - **Local dev only**: Use **`npm run build:local`** for a one-off local build. Output goes to `local-dist/`.
-- **Deploy to GitHub Pages**: Run **`./build-pages.sh`** or **`npm run build:pages`** when you change source code or config. Output goes to `docs/`.
+- **Deploy to GitHub Pages**: Run **`./build-pages.sh`** to run the same canonical content refresh pipeline plus Pages build. Output goes to `docs/`.
+
+Tip: add `--no-preview` to `./test-local.sh` to run checks/build only.
 
 ## Content Pipeline
 
 The project includes a script-based pipeline for generating, validating, and merging element data.
+
+## Repository Structure
+
+- `src/`: Game app logic and UI.
+- `public/`: Publicly served data and icons (runtime content).
+- `docs/`: Compiled GitHub Pages output.
+- `icon-matcher/`: Icon matching pipeline and attribution artifacts.
+- `extend-elements/`: LLM-friendly bulk extension workflow for adding many elements.
+
+Quick start for the next session:
+
+1. Fill `extend-elements/input/new-elements.json`.
+2. Run `npm run content:refresh:with-extensions`.
+3. Run `./test-local.sh --no-preview` for a non-blocking local verification.
+4. Run `./build-pages.sh` for deployable docs output.
+
+Recommended next-session prompt:
+
+```text
+Use extend-elements/input/new-elements.json.
+Add 100 new elements with balanced groups, good names, and valid Wikipedia links.
+Then run: npm run content:refresh:with-extensions
+Finally report: element count, recipe count, validation result, and icon attribution summary.
+```
 
 ### Scripts
 
 ```bash
 # Generate elements and recipes from the curated recipe tree
 npm run generate
+
+# Expand recipe combinations to a larger valid set with humorous reasonings
+npm run expand:recipes
+
+# LLM-friendly bulk extension (dry run / apply)
+npm run extend:elements -- --input extend-elements/input/new-elements.json
+npm run extend:elements:apply -- --input extend-elements/input/new-elements.json
+
+# Full refresh + apply extension input + rebuild validation/icon pipeline
+npm run content:refresh:with-extensions
+
+# Auto-detect extension input file and include it when present
+npm run content:refresh:auto-extensions
+
+# One command to refresh content end-to-end (generate + validate:proposed + clean merge + expand + icons + validate)
+npm run content:refresh
+
+# Clean merge proposed into public (used by content:refresh)
+npm run merge:clean
 
 # Validate proposed data (reachability, links, groups, reasonings)
 npm run validate:proposed
@@ -146,12 +215,50 @@ npm run validate
 # Merge proposed data into public/ and regenerate bucket files
 npm run merge
 
-# Generate SVG icons for all elements (SYMBOL_PATHS = hand-crafted, rest = initial-based placeholders)
+# Build icon-matcher output and sync matched SVG icons into public/icons
+npm run icons:refresh
+
+# Optional fallback: generate SVG placeholders (SYMBOL_PATHS = hand-crafted, rest = initial-based)
 npm run generate:icons
 
 # Optional: detailed evaluation report (reachability, depth distribution, key paths)
 npm run evaluate
 ```
+
+### Data Indexes (Important)
+
+- Canonical recipe data is grouped in `public/data/recipes/index.json` with bucket files in `public/data/recipes/by-group-combination/**`.
+- Compatibility index `public/data/recipes-index.json` mirrors the same valid recipe keys and bucket targets.
+- Current validated dataset size is around **4.5k** recipes with zero broken references.
+
+### Full Flow for Adding New Elements (Tested)
+
+Use this sequence to validate a full end-to-end update safely:
+
+```bash
+# 1) Prepare extension input JSON
+#    (see extend-elements/README.md)
+
+# 2) Build canonical base content
+npm run content:refresh
+
+# 3) Dry run extension
+npm run extend:elements -- --input extend-elements/input/new-elements.json
+
+# 4) Apply extension
+npm run extend:elements:apply -- --input extend-elements/input/new-elements.json
+
+# 5) Re-expand and validate after extension
+npm run expand:recipes
+npm run icons:refresh
+npm run validate
+```
+
+For one command (base refresh + apply + re-validate), use `npm run content:refresh:with-extensions`.
+
+For Pages deployment, run `./build-pages.sh` after this flow (or use it directly as the canonical one-command flow).
+
+If you prefer one command locally, use `npm run content:refresh:auto-extensions`.
 
 ### Generator (`scripts/generate-elements.ts`)
 
@@ -178,8 +285,9 @@ Merges proposed data into `public/`, regenerating bucket files and indexes. For 
 
 ### Icons and LLM-generated SVGs
 
-- **`scripts/generate-icons.ts`** writes an SVG for every element: entries in **`SYMBOL_PATHS`** in that script are rendered as hand-crafted symbols; all others get group-colored initial-based placeholders. Running **`npm run generate:icons`** (e.g. via `./test-local.sh`) **overwrites** every file in `public/icons/`. To keep an LLM- or hand-drawn icon, add its path markup to `SYMBOL_PATHS` in `scripts/generate-icons.ts`, or add only the file and avoid re-running the full pipeline for that icon.
-- **`scripts/llm-svg-prompts.md`** provides copy-paste prompts for single and batch SVG generation (viewBox, style, dark background). Use it to create icons, save as `public/icons/<element-id>.svg`, then add the element to `SYMBOL_PATHS` if you will run `generate:icons` so the script does not overwrite your file.
+- **`npm run icons:refresh`** is the default icon pipeline: it prepares element ids from `public/data`, runs `icon-matcher` with strict quality gates, and syncs output to `public/icons/`.
+- **`scripts/generate-icons.ts`** remains available as an optional placeholder/fallback generator. Running **`npm run generate:icons`** overwrites every file in `public/icons/`.
+- **`scripts/llm-svg-prompts.md`** provides copy-paste prompts for single and batch SVG generation (viewBox, style, dark background). Use it to create icons and save as `public/icons/<element-id>.svg`. If you run `generate:icons` later, register custom icons in `SYMBOL_PATHS` so they are preserved.
 
 ## Development
 
@@ -194,8 +302,8 @@ npm run preview    # Preview production build
 
 ```
 elemental-surprise/
-├── test-local.sh         # Full pipeline + preview server (generate → validate → merge → icons → build)
-├── build-pages.sh        # Build for GitHub Pages (output: docs/)
+├── test-local.sh         # Canonical content refresh + local build + preview
+├── build-pages.sh        # Canonical content refresh + Pages build (output: docs/)
 ├── src/
 │   ├── components/       # React UI (Library with group filter, Workspace, Element)
 │   ├── data/
@@ -252,25 +360,41 @@ MIT
 
 ## Attributions
 
-This project uses the following third-party assets:
+This project uses third-party icon assets and data sources. At minimum, the project includes:
+
+- OpenMoji (CC BY-SA 4.0)
+- Simple Icons (CC0 1.0)
+- Game-icons.net (CC BY 3.0 / CC0 where noted)
+- Twemoji graphics (CC BY 4.0) when selected by matcher
+- Noto Emoji assets (mixed upstream licensing) when selected by matcher
+
+This project includes generated attribution artifacts in:
+
+- Build source artifacts: `icon-matcher/output/matched-icons/_NOTICE.txt`, `icon-matcher/output/matched-icons/_attribution.json`, `icon-matcher/output/matched-icons/_attribution-full.json`, `icon-matcher/output/matched-icons/_licenses/`
+- Public deploy artifacts (copied during `npm run icons:sync`): `public/attribution/NOTICE.txt`, `public/attribution/attribution.json`, `public/attribution/attribution-full.json`, `public/attribution/licenses/`
+
+Current icon source usage is exported by icon-matcher at build time.
+
+This project uses the following third-party icon sources:
 
 ### Emojis
 - **Source:** [OpenMoji](https://github.com/hfg-gmuend/openmoji)  
 - **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)  
-- **Notes:** All emojis designed by OpenMoji – the open-source emoji and icon project. Proper attribution is required wherever the emojis are displayed.  
+- **Notes:** Proper attribution required.  
 - **More info:** [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ### Brand Icons
 - **Source:** [Simple Icons](https://github.com/simple-icons/simple-icons)  
 - **License:** Creative Commons Zero v1.0 Universal (CC0 1.0)  
-- **Notes:** All brand icons are in the public domain. Attribution is not required but included here for transparency.  
+- **Notes:** Attribution not required, included for transparency.  
 - **More info:** [https://github.com/simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 
+### Game Icons
+- **Source:** [Game-icons.net](https://game-icons.net/)  
+- **License:** CC BY 3.0 for most icons (some CC0, per icon metadata)  
+- **Notes:** Attribution required for CC BY icons. Refer to generated notice/attribution files for exact icon-level attribution.
 
-LLM remind me to add:
-```
-<footer>
-  Emojis by <a href="https://openmoji.org">OpenMoji</a> (CC BY-SA 4.0).  
-  Brand icons from <a href="https://simpleicons.org">Simple Icons</a> (CC0 1.0).
-</footer>
-```
+### Optional Sources Present in Pipeline
+- **Twemoji** (CC BY 4.0 for graphics) and **Noto Emoji** (mixed licensing) may be present in matcher source support; actual usage is listed in generated attribution files.
+
+App footer includes a concise attribution line and links to `public/attribution/NOTICE.txt` in deployed builds.

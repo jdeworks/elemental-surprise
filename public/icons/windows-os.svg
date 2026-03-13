@@ -1,1 +1,17 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#42A5F5"/><stop offset="100%" stop-color="#1565C0"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><rect x="14" y="14" width="36" height="36" rx="4" fill="none" stroke="white" stroke-width="2" opacity="0.2"/><rect x="22" y="22" width="20" height="20" rx="2" fill="white" opacity="0.1"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">WO</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="line-supplement">
+    <line x1="35.9004" x2="35.9004" y1="14.7127" y2="57.1676" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0249"/>
+    <line x1="14.7206" x2="57.2826" y1="35.9583" y2="35.9583" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0249"/>
+  </g>
+  <g id="color">
+    <rect x="14.513" y="14.6126" rx="0.7841" width="42.7749" height="42.7749" fill="#92d3f5"/>
+    <polygon fill="#fff" points="14.535 26.666 26.588 14.613 55.23 14.613 14.514 55.477 14.535 26.666"/>
+    <path fill="#a57939" d="M60.94,62H11.0176a1.06,1.06,0,0,1-1.06-1.06V11.0179a1.06,1.06,0,0,1,1.06-1.06H60.94a1.06,1.06,0,0,1,1.06,1.06V60.94A1.06,1.06,0,0,1,60.94,62ZM16.5733,56.3877H55.228a1.06,1.06,0,0,0,1.06-1.06V16.6722a1.06,1.06,0,0,0-1.06-1.06H16.5733a1.06,1.06,0,0,0-1.06,1.06V55.3278A1.06,1.06,0,0,0,16.5733,56.3877Z"/>
+    <line x1="35.9004" x2="35.9004" y1="14.6126" y2="57.3874" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0249"/>
+    <line x1="14.513" x2="57.2879" y1="35.9583" y2="35.9583" fill="none" stroke="#a57939" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.0249"/>
+  </g>
+  <g id="line">
+    <line x1="61" x2="10.9583" y1="61" y2="61" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="10.958 57.168 10.958 10.958 61 10.958 61 57.168"/>
+  </g>
+</svg>

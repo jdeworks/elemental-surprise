@@ -1,1 +1,16 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#EF5350"/><stop offset="100%" stop-color="#B71C1C"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="32" cy="34" r="18" fill="white" opacity="0.15"/><ellipse cx="32" cy="34" rx="18" ry="12" fill="white" opacity="0.1"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">CH</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <polyline fill="#a57939" points="53 32.7554 53 5.9063 19 5.9063 19 39.5156"/>
+    <polygon fill="#ea5a47" points="55 25 17 32 17 67 55 67 55 25"/>
+  </g>
+  <g id="line">
+    <rect x="38" y="9" width="11" height="9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <rect x="23" y="9" width="11" height="9" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <polygon fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="55 25 17 32 17 67 55 67 55 25"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="53 20.9316 53 5 19 5 19 27.541"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="38 23.8472 38 22 47.5029 22"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="23 26.7637 23 22 34 22 34 24.625"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="47.5029 22 38 22 38 23.8472"/>
+    <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="34 24.625 34 22 23 22 23 26.7637"/>
+  </g>
+</svg>

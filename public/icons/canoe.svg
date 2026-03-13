@@ -1,1 +1,15 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#78909C"/><stop offset="100%" stop-color="#37474F"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="32" cy="32" r="8" fill="none" stroke="white" stroke-width="3" opacity="0.25"/><rect x="29" y="10" width="6" height="10" rx="2" fill="white" opacity="0.2"/><rect x="29" y="44" width="6" height="10" rx="2" fill="white" opacity="0.2"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">CA</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#61b2e4" stroke="#61b2e4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M66.5,24.8516S64.5938,39.1484,55.0625,39.1484H16.9375C7.4062,39.1484,5.5,24.8516,5.5,24.8516S9.3125,27.7109,36,27.7109,66.5,24.8516,66.5,24.8516Z"/>
+    <polyline fill="#a57939" points="40.484 18.304 44.815 20.804 42.083 21.537 29.583 43.187 30.315 45.919 24.815 55.446 19.618 52.446 25.118 42.919 27.85 42.187 40.35 20.537 40.484 18.304"/>
+  </g>
+  <g id="line">
+    <g>
+      <line x1="40.3505" x2="40.4845" y1="20.5365" y2="18.3045" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="41.083 23.269 29.583 43.187 30.315 45.919 24.815 55.446 19.618 52.446 25.118 42.919 26.484 42.553"/>
+      <line x1="40.4845" x2="43.9486" y1="18.3045" y2="20.3045" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M35.45,39.1484H55.0625c9.5313,0,11.4375-14.2968,11.4375-14.2968s-3.229,2.409-24.4141,2.8034"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M33.8578,27.7037C9.1127,27.5551,5.5,24.8516,5.5,24.8516S7.4062,39.1484,16.9375,39.1484H27.25"/>
+    </g>
+  </g>
+</svg>

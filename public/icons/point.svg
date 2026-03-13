@@ -1,1 +1,8 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#26C6DA"/><stop offset="100%" stop-color="#00838F"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="32" cy="32" r="5" fill="white" opacity="0.3"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2" transform="rotate(60 32 32)"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">PO</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#9b9b9a" d="M28.3493,64.0547a14.1852,14.1852,0,0,1-9.08-25.083,1,1,0,0,1,1.6318.8994c-.7138,5.3779,5.1221,9.1143,5.1817,9.1514a1.0006,1.0006,0,0,1-.5313,1.8476H20.9782a7.438,7.438,0,0,0,14.8086-1V23a8.91,8.91,0,1,1,6.747.2344V49.87A14.2007,14.2007,0,0,1,28.3493,64.0547ZM39.445,12.7188a2.1643,2.1643,0,1,0,2.164,2.164A2.1664,2.1664,0,0,0,39.445,12.7188Z"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M25.5511,49.87s-6.4505-4.0285-5.64-10.1295L19.91,39.74A13.1848,13.1848,0,1,0,41.5335,49.87V22.5059a7.9115,7.9115,0,1,0-4.7465-.18V49.87a8.4382,8.4382,0,1,1-16.8763,0h.8339M41.2972,17.4489a3.1645,3.1645,0,1,1,1.3123-2.566"/>
+  </g>
+</svg>

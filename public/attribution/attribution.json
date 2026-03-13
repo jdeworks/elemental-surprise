@@ -1,0 +1,60 @@
+{
+  "generatedAt": "2026-03-13T15:20:04.527Z",
+  "summary": {
+    "total": 1344,
+    "copied": 1344,
+    "bySourceCount": {
+      "openmoji": 1311,
+      "twemoji": 0,
+      "noto": 0,
+      "fluent": 0,
+      "gameicons": 1,
+      "brand": 32,
+      "default": 0
+    }
+  },
+  "sources": [
+    {
+      "id": "openmoji",
+      "type": "emoji",
+      "license": "CC BY-SA 4.0",
+      "attribution": "OpenMoji by HfG Schwabisch Gmund",
+      "url": "https://openmoji.org/"
+    },
+    {
+      "id": "simple-icons",
+      "type": "brand",
+      "license": "CC0 1.0",
+      "attribution": "Simple Icons contributors",
+      "url": "https://simpleicons.org/"
+    },
+    {
+      "id": "twemoji",
+      "type": "emoji",
+      "license": "CC BY 4.0 (graphics)",
+      "attribution": "Twitter Twemoji",
+      "url": "https://github.com/twitter/twemoji"
+    },
+    {
+      "id": "noto-emoji",
+      "type": "emoji",
+      "license": "OFL 1.1 / Apache 2.0 (repo assets vary)",
+      "attribution": "Google Noto Emoji",
+      "url": "https://github.com/googlefonts/noto-emoji"
+    },
+    {
+      "id": "fluentui-emoji",
+      "type": "emoji",
+      "license": "MIT",
+      "attribution": "Microsoft Fluent UI Emoji",
+      "url": "https://www.npmjs.com/package/fluentui-emoji"
+    },
+    {
+      "id": "game-icons",
+      "type": "icons",
+      "license": "CC BY 3.0",
+      "attribution": "Game-icons.net contributors",
+      "url": "https://game-icons.net/"
+    }
+  ]
+}

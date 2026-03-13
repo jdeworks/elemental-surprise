@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build / output
+output/
+dist/
+build/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Test / coverage
+coverage/
+.nyc_output/
+
+# Large assets (per plan: don't commit OpenMoji SVGs)
+data/openmoji/
+
+# Optional: ignore generated index if you prefer to rebuild
+# data/emoji_index.json
+# data/emoji-index.json

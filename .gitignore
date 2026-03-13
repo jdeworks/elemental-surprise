@@ -42,3 +42,13 @@ coverage
 *.tsbuildinfo
 .cache
 public/data.backup/
+
+# Integrated icon matcher artifacts
+icon-matcher/external/
+icon-matcher/output/
+icon-matcher/elementalSrc/
+icon-matcher/data/emoji-index.json
+icon-matcher/data/emojis.json
+icon-matcher/data/unicode-emoji.json
+icon-matcher/data/elements-mapped.json
+icon-matcher/data/elements-mapped-details.json

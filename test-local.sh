@@ -3,43 +3,30 @@ set -e
 
 cd "$(dirname "$0")"
 
+NO_PREVIEW=0
+if [ "${1:-}" = "--no-preview" ]; then
+  NO_PREVIEW=1
+fi
+
 echo "══════════════════════════════════════════════"
 echo "  Elemental Surprise — full local test build"
 echo "══════════════════════════════════════════════"
 echo ""
 
-# 1. Generate elements + recipes from the curated recipe tree
-echo "▶ Step 1/6: Generating elements and recipes..."
-npm run generate
+# 1. Full content refresh (auto-apply extension input when present)
+echo "▶ Step 1/2: Refreshing content pipeline..."
+npm run content:refresh:auto-extensions
 echo ""
 
-# 2. Validate the proposed data
-echo "▶ Step 2/6: Validating proposed data..."
-npm run validate:proposed
-echo ""
-
-# 3. Clean merge into public/ (remove stale data, copy proposed, regenerate buckets)
-echo "▶ Step 3/6: Merging into public/..."
-rm -rf public/data public/elements.json public/recipes.json
-cp proposed/elements.json public/elements.json
-cp proposed/recipes.json public/recipes.json
-npm run merge
-echo ""
-
-# 4. Generate icons for all elements
-echo "▶ Step 4/6: Generating icons..."
-npm run generate:icons
-echo ""
-
-# 5. Validate the merged public data
-echo "▶ Step 5/6: Validating public data..."
-npm run validate
-echo ""
-
-# 6. Build for local testing
-echo "▶ Step 6/6: Building local-dist..."
+# 2. Build for local testing
+echo "▶ Step 2/2: Building local-dist..."
 npm run build:local
 echo ""
+
+if [ "$NO_PREVIEW" -eq 1 ]; then
+  echo "✅ Local pipeline check complete (preview skipped)."
+  exit 0
+fi
 
 echo "══════════════════════════════════════════════"
 echo "  Starting local server on port 5173..."

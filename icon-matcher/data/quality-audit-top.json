@@ -1,0 +1,1392 @@
+[
+  {
+    "element": "japan",
+    "mappedTo": "26E9-FE0F",
+    "strategy": "semantic",
+    "query": "japan",
+    "name": "shinto_shrine",
+    "source": "noto",
+    "sim": 0,
+    "risk": 6
+  },
+  {
+    "element": "lever",
+    "mappedTo": "1F199",
+    "strategy": "keyword",
+    "query": "lever",
+    "name": "up_button",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 6
+  },
+  {
+    "element": "russia",
+    "mappedTo": "1FA86",
+    "strategy": "semantic",
+    "query": "russia",
+    "name": "nesting_dolls",
+    "source": "noto",
+    "sim": 0,
+    "risk": 6
+  },
+  {
+    "element": "usa",
+    "mappedTo": "1F30E",
+    "strategy": "semantic",
+    "query": "usa",
+    "name": "globe_showing_americas",
+    "source": "noto",
+    "sim": 0,
+    "risk": 6
+  },
+  {
+    "element": "observatory",
+    "mappedTo": "1F3A1",
+    "strategy": "keyword",
+    "query": "observatory",
+    "name": "ferris_wheel",
+    "source": "gameicons",
+    "sim": 0.182,
+    "risk": 6
+  },
+  {
+    "element": "aquarium",
+    "mappedTo": "1F3FA",
+    "strategy": "keyword",
+    "query": "aquarium",
+    "name": "amphora",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "astronomer",
+    "mappedTo": "1F52D",
+    "strategy": "keyword",
+    "query": "astronomer",
+    "name": "telescope",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "celebrity",
+    "mappedTo": "1F942",
+    "strategy": "keyword",
+    "query": "celebrity",
+    "name": "clinking_glasses",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "current",
+    "mappedTo": "1FA99",
+    "strategy": "keyword",
+    "query": "current",
+    "name": "coin",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "graphql",
+    "mappedTo": "1F4CA",
+    "strategy": "keyword",
+    "query": "graphql",
+    "name": "bar_chart",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "gravel",
+    "mappedTo": "1FAA6",
+    "strategy": "keyword",
+    "query": "gravel",
+    "name": "headstone",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "green-energy",
+    "mappedTo": "1FAB4",
+    "strategy": "keyword",
+    "query": "green-energy",
+    "name": "potted_plant",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "hail",
+    "mappedTo": "1F468-200D-1F9B2",
+    "strategy": "keyword",
+    "query": "hail",
+    "name": "man_bald",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "helium",
+    "mappedTo": "1F9EC",
+    "strategy": "keyword",
+    "query": "helium",
+    "name": "dna",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "honesty",
+    "mappedTo": "1F9A1",
+    "strategy": "keyword",
+    "query": "honesty",
+    "name": "badger",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "ide",
+    "mappedTo": "1F4A1",
+    "strategy": "keyword",
+    "query": "ide",
+    "name": "light_bulb",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "indie-game",
+    "mappedTo": "1FAB7",
+    "strategy": "token-keyword",
+    "query": "indie",
+    "name": "lotus",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "james-webb",
+    "mappedTo": "1F310",
+    "strategy": "token-keyword",
+    "query": "webb",
+    "name": "globe_with_meridians",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "knight",
+    "mappedTo": "1F9F6",
+    "strategy": "keyword",
+    "query": "knight",
+    "name": "yarn",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "lamp",
+    "mappedTo": "1F411",
+    "strategy": "keyword",
+    "query": "lamp",
+    "name": "ewe",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "loan",
+    "mappedTo": "1F4C2",
+    "strategy": "keyword",
+    "query": "loan",
+    "name": "open_file_folder",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "media",
+    "mappedTo": "1F595",
+    "strategy": "keyword",
+    "query": "media",
+    "name": "middle_finger",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "meteor",
+    "mappedTo": "1F320",
+    "strategy": "keyword",
+    "query": "meteor",
+    "name": "shooting_star",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "morse-code",
+    "mappedTo": "2795",
+    "strategy": "token-keyword",
+    "query": "morse",
+    "name": "plus",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "natural-gas",
+    "mappedTo": "1F429",
+    "strategy": "token-keyword",
+    "query": "natural",
+    "name": "poodle",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "natural-language-processing",
+    "mappedTo": "1F429",
+    "strategy": "token-keyword",
+    "query": "natural",
+    "name": "poodle",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "neural-network",
+    "mappedTo": "1F48F",
+    "strategy": "token-keyword",
+    "query": "neural",
+    "name": "kiss",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "neutron",
+    "mappedTo": "1F48F",
+    "strategy": "keyword",
+    "query": "neutron",
+    "name": "kiss",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "niagara-falls",
+    "mappedTo": "1F33B",
+    "strategy": "token-keyword",
+    "query": "falls",
+    "name": "sunflower",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "olympic-games",
+    "mappedTo": "1F0CF",
+    "strategy": "token-keyword",
+    "query": "games",
+    "name": "joker",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "openai",
+    "mappedTo": "2602-FE0F",
+    "strategy": "keyword",
+    "query": "openai",
+    "name": "umbrella",
+    "source": "brand",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "oven",
+    "mappedTo": "1F307",
+    "strategy": "keyword",
+    "query": "oven",
+    "name": "sunset",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "paradox",
+    "mappedTo": "26F1-FE0F",
+    "strategy": "keyword",
+    "query": "paradox",
+    "name": "umbrella_on_ground",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "pepper",
+    "mappedTo": "1F355",
+    "strategy": "keyword",
+    "query": "pepper",
+    "name": "pizza",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "plank",
+    "mappedTo": "1F9D1-200D-2708-FE0F",
+    "strategy": "keyword",
+    "query": "plank",
+    "name": "pilot",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "plastic",
+    "mappedTo": "1FA79",
+    "strategy": "keyword",
+    "query": "plastic",
+    "name": "adhesive_bandage",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "pulley",
+    "mappedTo": "1F497",
+    "strategy": "keyword",
+    "query": "pulley",
+    "name": "growing_heart",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "resistor",
+    "mappedTo": "1F979",
+    "strategy": "keyword",
+    "query": "resistor",
+    "name": "face_holding_back_tears",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "rule",
+    "mappedTo": "1F6B7",
+    "strategy": "keyword",
+    "query": "rule",
+    "name": "no_pedestrians",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "ruler",
+    "mappedTo": "1F6B7",
+    "strategy": "keyword",
+    "query": "ruler",
+    "name": "no_pedestrians",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "sense",
+    "mappedTo": "1FAAD",
+    "strategy": "keyword",
+    "query": "sense",
+    "name": "folding_hand_fan",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "sensor",
+    "mappedTo": "1FAAD",
+    "strategy": "keyword",
+    "query": "sensor",
+    "name": "folding_hand_fan",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "sentiment-analysis",
+    "mappedTo": "1F9D1-200D-1F4BC",
+    "strategy": "token-keyword",
+    "query": "analysis",
+    "name": "office_worker",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "server",
+    "mappedTo": "1F366",
+    "strategy": "keyword",
+    "query": "server",
+    "name": "soft_ice_cream",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "seti",
+    "mappedTo": "1F4D0",
+    "strategy": "keyword",
+    "query": "seti",
+    "name": "triangular_ruler",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "silo",
+    "mappedTo": "1F578-FE0F",
+    "strategy": "keyword",
+    "query": "silo",
+    "name": "spider_web",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "siri",
+    "mappedTo": "1F468",
+    "strategy": "keyword",
+    "query": "siri",
+    "name": "man",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "social-media",
+    "mappedTo": "1F595",
+    "strategy": "token-keyword",
+    "query": "media",
+    "name": "middle_finger",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "sony",
+    "mappedTo": "1F468-200D-1F466",
+    "strategy": "keyword",
+    "query": "sony",
+    "name": "family_man_boy",
+    "source": "brand",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "soul",
+    "mappedTo": "1F372",
+    "strategy": "keyword",
+    "query": "soul",
+    "name": "pot_of_food",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "spacex",
+    "mappedTo": "2600-FE0F",
+    "strategy": "keyword",
+    "query": "spacex",
+    "name": "sun",
+    "source": "brand",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "spirit",
+    "mappedTo": "1F4D2",
+    "strategy": "keyword",
+    "query": "spirit",
+    "name": "ledger",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "startup",
+    "mappedTo": "1F195",
+    "strategy": "keyword",
+    "query": "startup",
+    "name": "new_button",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "steel",
+    "mappedTo": "1F402",
+    "strategy": "keyword",
+    "query": "steel",
+    "name": "ox",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "stem-cell",
+    "mappedTo": "1FA9C",
+    "strategy": "token-keyword",
+    "query": "stem",
+    "name": "ladder",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "story",
+    "mappedTo": "1FAD9",
+    "strategy": "keyword",
+    "query": "story",
+    "name": "jar",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "touch",
+    "mappedTo": "1F972",
+    "strategy": "keyword",
+    "query": "touch",
+    "name": "smiling_face_with_tear",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "virtual-assistant",
+    "mappedTo": "1F415-200D-1F9BA",
+    "strategy": "token-keyword",
+    "query": "assistant",
+    "name": "service_dog",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "war",
+    "mappedTo": "1F3DC-FE0F",
+    "strategy": "keyword",
+    "query": "war",
+    "name": "desert",
+    "source": "noto",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "web3",
+    "mappedTo": "1F310",
+    "strategy": "keyword",
+    "query": "web3",
+    "name": "globe_with_meridians",
+    "source": "openmoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "zoo",
+    "mappedTo": "1F52D",
+    "strategy": "keyword",
+    "query": "zoo",
+    "name": "telescope",
+    "source": "twemoji",
+    "sim": 0,
+    "risk": 5
+  },
+  {
+    "element": "profit",
+    "mappedTo": "1F92C",
+    "strategy": "keyword",
+    "query": "profit",
+    "name": "face_with_symbols_on_mouth",
+    "source": "noto",
+    "sim": 0.091,
+    "risk": 5
+  },
+  {
+    "element": "resin",
+    "mappedTo": "1F979",
+    "strategy": "keyword",
+    "query": "resin",
+    "name": "face_holding_back_tears",
+    "source": "openmoji",
+    "sim": 0.1,
+    "risk": 5
+  },
+  {
+    "element": "spam",
+    "mappedTo": "1F9D6-200D-2642-FE0F",
+    "strategy": "keyword",
+    "query": "spam",
+    "name": "man_in_steamy_room",
+    "source": "openmoji",
+    "sim": 0.133,
+    "risk": 5
+  },
+  {
+    "element": "wealth",
+    "mappedTo": "1F9D0",
+    "strategy": "keyword",
+    "query": "wealth",
+    "name": "face_with_monocle",
+    "source": "noto",
+    "sim": 0.133,
+    "risk": 5
+  },
+  {
+    "element": "marketing",
+    "mappedTo": "1F4B9",
+    "strategy": "keyword",
+    "query": "marketing",
+    "name": "chart_increasing_with_yen",
+    "source": "noto",
+    "sim": 0.136,
+    "risk": 5
+  },
+  {
+    "element": "intelligence",
+    "mappedTo": "1F9E0",
+    "strategy": "keyword",
+    "query": "intelligence",
+    "name": "brain",
+    "source": "openmoji",
+    "sim": 0.167,
+    "risk": 5
+  },
+  {
+    "element": "therapy",
+    "mappedTo": "1F9D1-200D-2695-FE0F",
+    "strategy": "keyword",
+    "query": "therapy",
+    "name": "health_worker",
+    "source": "openmoji",
+    "sim": 0.167,
+    "risk": 5
+  },
+  {
+    "element": "mathematics",
+    "mappedTo": "1F9D1-200D-1F52C",
+    "strategy": "keyword",
+    "query": "mathematics",
+    "name": "scientist",
+    "source": "openmoji",
+    "sim": 0.182,
+    "risk": 5
+  },
+  {
+    "element": "periodic-table",
+    "mappedTo": "1FA78",
+    "strategy": "token-keyword",
+    "query": "periodic",
+    "name": "drop_of_blood",
+    "source": "noto",
+    "sim": 0.182,
+    "risk": 5
+  },
+  {
+    "element": "prompt-engineering",
+    "mappedTo": "1F9D1-200D-1F52C",
+    "strategy": "token-keyword",
+    "query": "engineering",
+    "name": "scientist",
+    "source": "openmoji",
+    "sim": 0.182,
+    "risk": 5
+  },
+  {
+    "element": "android",
+    "mappedTo": "1F916",
+    "strategy": "semantic",
+    "query": "android",
+    "name": "robot",
+    "source": "brand",
+    "sim": 0.286,
+    "risk": 5
+  },
+  {
+    "element": "airplane",
+    "mappedTo": "1F4BA",
+    "strategy": "exact",
+    "query": "airplane",
+    "name": "seat",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "asteroid",
+    "mappedTo": "2604-FE0F",
+    "strategy": "override-exact",
+    "query": "asteroid",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "centaur",
+    "mappedTo": "1F984",
+    "strategy": "override-exact",
+    "query": "centaur",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "cloud",
+    "mappedTo": "2601-FE0F",
+    "strategy": "override-token",
+    "query": "cloud",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "desert",
+    "mappedTo": "1F7E6",
+    "strategy": "fallback",
+    "query": "desert",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "dew",
+    "mappedTo": "1F4A7",
+    "strategy": "override-exact",
+    "query": "dew",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "diamond",
+    "mappedTo": "1F48E",
+    "strategy": "fallback",
+    "query": "diamond",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "drill",
+    "mappedTo": "1FA9B",
+    "strategy": "override-exact",
+    "query": "drill",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "dynamite",
+    "mappedTo": "1F9E8",
+    "strategy": "exact",
+    "query": "dynamite",
+    "name": "firecracker",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "eclipse",
+    "mappedTo": "1F311",
+    "strategy": "exact",
+    "query": "eclipse",
+    "name": "new_moon",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "eruption",
+    "mappedTo": "1F30B",
+    "strategy": "exact",
+    "query": "eruption",
+    "name": "volcano",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "fairy",
+    "mappedTo": "1F479",
+    "strategy": "exact",
+    "query": "fairy",
+    "name": "ogre",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "fat",
+    "mappedTo": "1F354",
+    "strategy": "override-exact",
+    "query": "fat",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "fire",
+    "mappedTo": "1F525",
+    "strategy": "fallback",
+    "query": "fire",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "flood",
+    "mappedTo": "1F30A",
+    "strategy": "override-exact",
+    "query": "flood",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "fossil",
+    "mappedTo": "1F9B4",
+    "strategy": "override-exact",
+    "query": "fossil",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "galaxy",
+    "mappedTo": "1F30C",
+    "strategy": "exact",
+    "query": "galaxy",
+    "name": "milky_way",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "ghost",
+    "mappedTo": "1F47B",
+    "strategy": "fallback",
+    "query": "ghost",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "giant",
+    "mappedTo": "1F9CC",
+    "strategy": "override-exact",
+    "query": "giant",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "hydra",
+    "mappedTo": "1F40D",
+    "strategy": "override-exact",
+    "query": "hydra",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "ice",
+    "mappedTo": "2744FE0F",
+    "strategy": "fallback",
+    "query": "ice",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "island",
+    "mappedTo": "1F305",
+    "strategy": "fallback",
+    "query": "island",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "king",
+    "mappedTo": "1F451",
+    "strategy": "fallback",
+    "query": "king",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "lava",
+    "mappedTo": "1F30B",
+    "strategy": "fallback",
+    "query": "lava",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "lock",
+    "mappedTo": "1F511",
+    "strategy": "exact",
+    "query": "lock",
+    "name": "key",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "minotaur",
+    "mappedTo": "1F402",
+    "strategy": "override-exact",
+    "query": "minotaur",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "moon",
+    "mappedTo": "1F319",
+    "strategy": "fallback",
+    "query": "moon",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "mountain",
+    "mappedTo": "26F0FE0F",
+    "strategy": "fallback",
+    "query": "mountain",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "notebook",
+    "mappedTo": "1F4BB",
+    "strategy": "exact",
+    "query": "notebook",
+    "name": "laptop",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "oasis",
+    "mappedTo": "1F3DD-FE0F",
+    "strategy": "override-exact",
+    "query": "oasis",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "paper",
+    "mappedTo": "1F4C4",
+    "strategy": "fallback",
+    "query": "paper",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "pegasus",
+    "mappedTo": "1F984",
+    "strategy": "override-exact",
+    "query": "pegasus",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "pencil",
+    "mappedTo": "1F4DD",
+    "strategy": "exact",
+    "query": "pencil",
+    "name": "memo",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "prayer",
+    "mappedTo": "1F64F",
+    "strategy": "exact",
+    "query": "prayer",
+    "name": "folded_hands",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "prism",
+    "mappedTo": "1F52E",
+    "strategy": "override-exact",
+    "query": "prism",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "quicksand",
+    "mappedTo": "23F3",
+    "strategy": "override-exact",
+    "query": "quicksand",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "river",
+    "mappedTo": "1F30A",
+    "strategy": "fallback",
+    "query": "river",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "road",
+    "mappedTo": "1F6B2",
+    "strategy": "fallback",
+    "query": "road",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "sail",
+    "mappedTo": "26F5",
+    "strategy": "override-exact",
+    "query": "sail",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "shield",
+    "mappedTo": "1F6E1",
+    "strategy": "fallback",
+    "query": "shield",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "space-suit",
+    "mappedTo": "2600-FE0F",
+    "strategy": "token-exact",
+    "query": "space",
+    "name": "sun",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "spring",
+    "mappedTo": "2600-FE0F",
+    "strategy": "exact",
+    "query": "spring",
+    "name": "sun",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "star",
+    "mappedTo": "2B50",
+    "strategy": "fallback",
+    "query": "star",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "steam",
+    "mappedTo": "1F4A8",
+    "strategy": "fallback",
+    "query": "steam",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "submarine",
+    "mappedTo": "1F6A2",
+    "strategy": "override-exact",
+    "query": "submarine",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "subway",
+    "mappedTo": "1F687",
+    "strategy": "exact",
+    "query": "subway",
+    "name": "metro",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "suitcase",
+    "mappedTo": "1F9F3",
+    "strategy": "exact",
+    "query": "suitcase",
+    "name": "luggage",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "sun",
+    "mappedTo": "2600FE0F",
+    "strategy": "fallback",
+    "query": "sun",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "swamp",
+    "mappedTo": "1F30A",
+    "strategy": "override-exact",
+    "query": "swamp",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "truck",
+    "mappedTo": "1F692",
+    "strategy": "exact",
+    "query": "truck",
+    "name": "fire_engine",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "turbine",
+    "mappedTo": "1F300",
+    "strategy": "override-exact",
+    "query": "turbine",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "ufo",
+    "mappedTo": "1F47D",
+    "strategy": "exact",
+    "query": "ufo",
+    "name": "alien",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "valley",
+    "mappedTo": "1F3DE-FE0F",
+    "strategy": "override-exact",
+    "query": "valley",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "volcano",
+    "mappedTo": "1F30B",
+    "strategy": "fallback",
+    "query": "volcano",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "wallet",
+    "mappedTo": "1F45B",
+    "strategy": "exact",
+    "query": "wallet",
+    "name": "purse",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "water",
+    "mappedTo": "1F4A7",
+    "strategy": "fallback",
+    "query": "water",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "waterfall",
+    "mappedTo": "1F30A",
+    "strategy": "override-exact",
+    "query": "waterfall",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "weight",
+    "mappedTo": "2696-FE0F",
+    "strategy": "exact",
+    "query": "weight",
+    "name": "balance_scale",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "werewolf",
+    "mappedTo": "1F43A",
+    "strategy": "override-exact",
+    "query": "werewolf",
+    "name": null,
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "wool",
+    "mappedTo": "1F411",
+    "strategy": "exact",
+    "query": "wool",
+    "name": "ewe",
+    "source": "gameicons",
+    "sim": 0,
+    "risk": 4
+  },
+  {
+    "element": "automation",
+    "mappedTo": "1F3E7",
+    "strategy": "keyword",
+    "query": "automation",
+    "name": "atm_sign",
+    "source": "openmoji",
+    "sim": 0.2,
+    "risk": 4
+  },
+  {
+    "element": "photograph",
+    "mappedTo": "1F4F7",
+    "strategy": "keyword",
+    "query": "photograph",
+    "name": "camera",
+    "source": "noto",
+    "sim": 0.2,
+    "risk": 4
+  },
+  {
+    "element": "past",
+    "mappedTo": "1F35D",
+    "strategy": "keyword",
+    "query": "past",
+    "name": "spaghetti",
+    "source": "openmoji",
+    "sim": 0.222,
+    "risk": 4
+  },
+  {
+    "element": "hip-hop",
+    "mappedTo": "1F99B",
+    "strategy": "keyword",
+    "query": "hip-hop",
+    "name": "hippopotamus",
+    "source": "twemoji",
+    "sim": 0.25,
+    "risk": 4
+  },
+  {
+    "element": "rag",
+    "mappedTo": "1F621",
+    "strategy": "keyword",
+    "query": "rag",
+    "name": "enraged_face",
+    "source": "openmoji",
+    "sim": 0.273,
+    "risk": 4
+  },
+  {
+    "element": "hearing-aid",
+    "mappedTo": "1F442",
+    "strategy": "keyword",
+    "query": "hearing-aid",
+    "name": "ear",
+    "source": "openmoji",
+    "sim": 0.3,
+    "risk": 4
+  },
+  {
+    "element": "remote",
+    "mappedTo": "1F525",
+    "strategy": "keyword",
+    "query": "remote",
+    "name": "fire",
+    "source": "openmoji",
+    "sim": 0.333,
+    "risk": 4
+  }
+]

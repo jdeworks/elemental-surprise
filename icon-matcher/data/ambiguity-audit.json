@@ -1,0 +1,1062 @@
+{
+  "stats": {
+    "total": 1344,
+    "matched": 1344
+  },
+  "polyTerms": [
+    {
+      "term": "chip",
+      "mappedTo": "1F4BB",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "model",
+      "mappedTo": "1F4D0",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "stream",
+      "mappedTo": "1F30A",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "token",
+      "mappedTo": "1FA99",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "script",
+      "mappedTo": "1F4DC",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "python",
+      "mappedTo": "1F40D",
+      "strategy": "exact",
+      "name": "snake"
+    },
+    {
+      "term": "java",
+      "mappedTo": "2615",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "rust",
+      "mappedTo": "1F6E0-FE0F",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "cloud",
+      "mappedTo": "2601-FE0F",
+      "strategy": "override-token",
+      "name": null
+    },
+    {
+      "term": "bridge",
+      "mappedTo": "1F309",
+      "strategy": "fallback",
+      "name": null
+    },
+    {
+      "term": "memory",
+      "mappedTo": "1F4DD",
+      "strategy": "keyword",
+      "name": "memo"
+    },
+    {
+      "term": "lens",
+      "mappedTo": "1F50D",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "network",
+      "mappedTo": "1F4F6",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "signal",
+      "mappedTo": "1F6DC",
+      "strategy": "exact",
+      "name": "wireless"
+    },
+    {
+      "term": "port",
+      "mappedTo": "1F6A2",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "matrix",
+      "mappedTo": "1F5C3-FE0F",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "thread",
+      "mappedTo": "1F9F5",
+      "strategy": "exact",
+      "name": "thread"
+    },
+    {
+      "term": "stack",
+      "mappedTo": "1F4DA",
+      "strategy": "exact",
+      "name": "books"
+    },
+    {
+      "term": "class",
+      "mappedTo": "1F3EB",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "object",
+      "mappedTo": "1F9F1",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "function",
+      "mappedTo": "1F9EE",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "prompt",
+      "mappedTo": "1F4AC",
+      "strategy": "override-exact",
+      "name": null
+    },
+    {
+      "term": "embedding",
+      "mappedTo": "1F517",
+      "strategy": "override-exact",
+      "name": null
+    }
+  ],
+  "crowdedCodepoints": [
+    {
+      "code": "1F9E0",
+      "count": 21,
+      "sample": [
+        "abstraction",
+        "agi",
+        "anthropic",
+        "belief",
+        "brain",
+        "code-generation",
+        "consciousness",
+        "deep-learning",
+        "free-will",
+        "generative-ai",
+        "instinct",
+        "intelligence"
+      ]
+    },
+    {
+      "code": "1FAA8",
+      "count": 19,
+      "sample": [
+        "boulder",
+        "cement",
+        "concrete",
+        "erosion",
+        "geology",
+        "golem",
+        "granite",
+        "landslide",
+        "limestone",
+        "marble",
+        "mineral",
+        "obsidian"
+      ]
+    },
+    {
+      "code": "1F916",
+      "count": 14,
+      "sample": [
+        "ai",
+        "android",
+        "chatbot",
+        "chatgpt",
+        "chatjimmy",
+        "chatjimmy-pro",
+        "claude",
+        "cyborg",
+        "gpt",
+        "machine",
+        "machine-learning",
+        "multimodal-ai"
+      ]
+    },
+    {
+      "code": "1F4BB",
+      "count": 14,
+      "sample": [
+        "chip",
+        "code",
+        "computer",
+        "desktop",
+        "hacking",
+        "jimmy-code",
+        "laptop",
+        "microchip",
+        "monitor",
+        "notebook",
+        "qr-code",
+        "screen"
+      ]
+    },
+    {
+      "code": "1F3AE",
+      "count": 14,
+      "sample": [
+        "console",
+        "controller",
+        "esports",
+        "fps",
+        "game",
+        "mario",
+        "mmorpg",
+        "nintendo",
+        "playstation",
+        "pokemon",
+        "rpg",
+        "video-game"
+      ]
+    },
+    {
+      "code": "1F9EC",
+      "count": 12,
+      "sample": [
+        "antibody",
+        "cloning",
+        "crispr",
+        "dna",
+        "dna-discovery",
+        "evolution",
+        "gene",
+        "genetic-engineering",
+        "helium",
+        "inheritance",
+        "mutation",
+        "polymorphism"
+      ]
+    },
+    {
+      "code": "1F30D",
+      "count": 11,
+      "sample": [
+        "africa",
+        "continent",
+        "earth",
+        "egypt",
+        "europe",
+        "jungle",
+        "nation",
+        "planet",
+        "reality",
+        "terraforming",
+        "world-cup"
+      ]
+    },
+    {
+      "code": "1F33F",
+      "count": 11,
+      "sample": [
+        "algae",
+        "botany",
+        "fern",
+        "grass",
+        "herb",
+        "lawn",
+        "medicine",
+        "moss",
+        "photosynthesis",
+        "plant",
+        "seaweed"
+      ]
+    },
+    {
+      "code": "2600-FE0F",
+      "count": 11,
+      "sample": [
+        "beach",
+        "black-hole",
+        "space",
+        "space-elevator",
+        "space-probe",
+        "space-station",
+        "space-suit",
+        "spacex",
+        "spring",
+        "sunlight",
+        "weather"
+      ]
+    },
+    {
+      "code": "1F310",
+      "count": 11,
+      "sample": [
+        "browser",
+        "domain",
+        "global-warming",
+        "internet",
+        "james-webb",
+        "jimmy-translate",
+        "translation",
+        "web",
+        "web-page",
+        "web3",
+        "website"
+      ]
+    },
+    {
+      "code": "1FA99",
+      "count": 10,
+      "sample": [
+        "bitcoin",
+        "coil",
+        "coin",
+        "cryptocurrency",
+        "current",
+        "dao",
+        "defi",
+        "gold",
+        "poverty",
+        "token"
+      ]
+    }
+  ],
+  "lowConfidenceHeuristic": [
+    {
+      "element": "android",
+      "strategy": "semantic",
+      "query": "android",
+      "name": "robot",
+      "mappedTo": "1F916",
+      "sim": 0
+    },
+    {
+      "element": "aquarium",
+      "strategy": "keyword",
+      "query": "aquarium",
+      "name": "amphora",
+      "mappedTo": "1F3FA",
+      "sim": 0
+    },
+    {
+      "element": "astronomer",
+      "strategy": "keyword",
+      "query": "astronomer",
+      "name": "telescope",
+      "mappedTo": "1F52D",
+      "sim": 0
+    },
+    {
+      "element": "automation",
+      "strategy": "keyword",
+      "query": "automation",
+      "name": "atm_sign",
+      "mappedTo": "1F3E7",
+      "sim": 0
+    },
+    {
+      "element": "carpet",
+      "strategy": "keyword",
+      "query": "carpet",
+      "name": "carpentry_saw",
+      "mappedTo": "1FA9A",
+      "sim": 0
+    },
+    {
+      "element": "celebrity",
+      "strategy": "keyword",
+      "query": "celebrity",
+      "name": "clinking_glasses",
+      "mappedTo": "1F942",
+      "sim": 0
+    },
+    {
+      "element": "coal",
+      "strategy": "keyword",
+      "query": "coal",
+      "name": "coat",
+      "mappedTo": "1F9E5",
+      "sim": 0
+    },
+    {
+      "element": "coil",
+      "strategy": "keyword",
+      "query": "coil",
+      "name": "coin",
+      "mappedTo": "1FA99",
+      "sim": 0
+    },
+    {
+      "element": "current",
+      "strategy": "keyword",
+      "query": "current",
+      "name": "coin",
+      "mappedTo": "1FA99",
+      "sim": 0
+    },
+    {
+      "element": "graphql",
+      "strategy": "keyword",
+      "query": "graphql",
+      "name": "bar_chart",
+      "mappedTo": "1F4CA",
+      "sim": 0
+    },
+    {
+      "element": "gravel",
+      "strategy": "keyword",
+      "query": "gravel",
+      "name": "headstone",
+      "mappedTo": "1FAA6",
+      "sim": 0
+    },
+    {
+      "element": "green-energy",
+      "strategy": "keyword",
+      "query": "green-energy",
+      "name": "potted_plant",
+      "mappedTo": "1FAB4",
+      "sim": 0
+    },
+    {
+      "element": "hail",
+      "strategy": "keyword",
+      "query": "hail",
+      "name": "man_bald",
+      "mappedTo": "1F468-200D-1F9B2",
+      "sim": 0
+    },
+    {
+      "element": "helium",
+      "strategy": "keyword",
+      "query": "helium",
+      "name": "dna",
+      "mappedTo": "1F9EC",
+      "sim": 0
+    },
+    {
+      "element": "hip-hop",
+      "strategy": "keyword",
+      "query": "hip-hop",
+      "name": "hippopotamus",
+      "mappedTo": "1F99B",
+      "sim": 0
+    },
+    {
+      "element": "honesty",
+      "strategy": "keyword",
+      "query": "honesty",
+      "name": "badger",
+      "mappedTo": "1F9A1",
+      "sim": 0
+    },
+    {
+      "element": "hot-spring",
+      "strategy": "keyword",
+      "query": "hot-spring",
+      "name": "hot_springs",
+      "mappedTo": "2668-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "ide",
+      "strategy": "keyword",
+      "query": "ide",
+      "name": "light_bulb",
+      "mappedTo": "1F4A1",
+      "sim": 0
+    },
+    {
+      "element": "indie-game",
+      "strategy": "token-keyword",
+      "query": "indie",
+      "name": "lotus",
+      "mappedTo": "1FAB7",
+      "sim": 0
+    },
+    {
+      "element": "intelligence",
+      "strategy": "keyword",
+      "query": "intelligence",
+      "name": "brain",
+      "mappedTo": "1F9E0",
+      "sim": 0
+    },
+    {
+      "element": "james-webb",
+      "strategy": "token-keyword",
+      "query": "webb",
+      "name": "globe_with_meridians",
+      "mappedTo": "1F310",
+      "sim": 0
+    },
+    {
+      "element": "japan",
+      "strategy": "semantic",
+      "query": "japan",
+      "name": "shinto_shrine",
+      "mappedTo": "26E9-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "knight",
+      "strategy": "keyword",
+      "query": "knight",
+      "name": "yarn",
+      "mappedTo": "1F9F6",
+      "sim": 0
+    },
+    {
+      "element": "lamp",
+      "strategy": "keyword",
+      "query": "lamp",
+      "name": "ewe",
+      "mappedTo": "1F411",
+      "sim": 0
+    },
+    {
+      "element": "lever",
+      "strategy": "keyword",
+      "query": "lever",
+      "name": "up_button",
+      "mappedTo": "1F199",
+      "sim": 0
+    },
+    {
+      "element": "loan",
+      "strategy": "keyword",
+      "query": "loan",
+      "name": "open_file_folder",
+      "mappedTo": "1F4C2",
+      "sim": 0
+    },
+    {
+      "element": "marketing",
+      "strategy": "keyword",
+      "query": "marketing",
+      "name": "chart_increasing_with_yen",
+      "mappedTo": "1F4B9",
+      "sim": 0
+    },
+    {
+      "element": "mathematics",
+      "strategy": "keyword",
+      "query": "mathematics",
+      "name": "scientist",
+      "mappedTo": "1F9D1-200D-1F52C",
+      "sim": 0
+    },
+    {
+      "element": "matter",
+      "strategy": "keyword",
+      "query": "matter",
+      "name": "mate",
+      "mappedTo": "1F9C9",
+      "sim": 0
+    },
+    {
+      "element": "media",
+      "strategy": "keyword",
+      "query": "media",
+      "name": "middle_finger",
+      "mappedTo": "1F595",
+      "sim": 0
+    },
+    {
+      "element": "melody",
+      "strategy": "keyword",
+      "query": "melody",
+      "name": "melon",
+      "mappedTo": "1F348",
+      "sim": 0
+    },
+    {
+      "element": "meme",
+      "strategy": "keyword",
+      "query": "meme",
+      "name": "memo",
+      "mappedTo": "1F4DD",
+      "sim": 0
+    },
+    {
+      "element": "meteor",
+      "strategy": "keyword",
+      "query": "meteor",
+      "name": "shooting_star",
+      "mappedTo": "1F320",
+      "sim": 0
+    },
+    {
+      "element": "microsoft",
+      "strategy": "keyword",
+      "query": "microsoft",
+      "name": "microscope",
+      "mappedTo": "1F52C",
+      "sim": 0
+    },
+    {
+      "element": "morse-code",
+      "strategy": "token-keyword",
+      "query": "morse",
+      "name": "plus",
+      "mappedTo": "2795",
+      "sim": 0
+    },
+    {
+      "element": "natural-gas",
+      "strategy": "token-keyword",
+      "query": "natural",
+      "name": "poodle",
+      "mappedTo": "1F429",
+      "sim": 0
+    },
+    {
+      "element": "natural-language-processing",
+      "strategy": "token-keyword",
+      "query": "natural",
+      "name": "poodle",
+      "mappedTo": "1F429",
+      "sim": 0
+    },
+    {
+      "element": "neural-network",
+      "strategy": "token-keyword",
+      "query": "neural",
+      "name": "kiss",
+      "mappedTo": "1F48F",
+      "sim": 0
+    },
+    {
+      "element": "neutron",
+      "strategy": "keyword",
+      "query": "neutron",
+      "name": "kiss",
+      "mappedTo": "1F48F",
+      "sim": 0
+    },
+    {
+      "element": "niagara-falls",
+      "strategy": "token-keyword",
+      "query": "falls",
+      "name": "sunflower",
+      "mappedTo": "1F33B",
+      "sim": 0
+    },
+    {
+      "element": "observatory",
+      "strategy": "keyword",
+      "query": "observatory",
+      "name": "ferris_wheel",
+      "mappedTo": "1F3A1",
+      "sim": 0
+    },
+    {
+      "element": "olympic-games",
+      "strategy": "token-keyword",
+      "query": "games",
+      "name": "joker",
+      "mappedTo": "1F0CF",
+      "sim": 0
+    },
+    {
+      "element": "openai",
+      "strategy": "keyword",
+      "query": "openai",
+      "name": "umbrella",
+      "mappedTo": "2602-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "oven",
+      "strategy": "keyword",
+      "query": "oven",
+      "name": "sunset",
+      "mappedTo": "1F307",
+      "sim": 0
+    },
+    {
+      "element": "paradox",
+      "strategy": "keyword",
+      "query": "paradox",
+      "name": "umbrella_on_ground",
+      "mappedTo": "26F1-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "past",
+      "strategy": "keyword",
+      "query": "past",
+      "name": "spaghetti",
+      "mappedTo": "1F35D",
+      "sim": 0
+    },
+    {
+      "element": "pepper",
+      "strategy": "keyword",
+      "query": "pepper",
+      "name": "pizza",
+      "mappedTo": "1F355",
+      "sim": 0
+    },
+    {
+      "element": "periodic-table",
+      "strategy": "token-keyword",
+      "query": "periodic",
+      "name": "drop_of_blood",
+      "mappedTo": "1FA78",
+      "sim": 0
+    },
+    {
+      "element": "photograph",
+      "strategy": "keyword",
+      "query": "photograph",
+      "name": "camera",
+      "mappedTo": "1F4F7",
+      "sim": 0
+    },
+    {
+      "element": "piston",
+      "strategy": "keyword",
+      "query": "piston",
+      "name": "water_pistol",
+      "mappedTo": "1F52B",
+      "sim": 0
+    },
+    {
+      "element": "plank",
+      "strategy": "keyword",
+      "query": "plank",
+      "name": "pilot",
+      "mappedTo": "1F9D1-200D-2708-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "plastic",
+      "strategy": "keyword",
+      "query": "plastic",
+      "name": "adhesive_bandage",
+      "mappedTo": "1FA79",
+      "sim": 0
+    },
+    {
+      "element": "profit",
+      "strategy": "keyword",
+      "query": "profit",
+      "name": "face_with_symbols_on_mouth",
+      "mappedTo": "1F92C",
+      "sim": 0
+    },
+    {
+      "element": "prompt-engineering",
+      "strategy": "token-keyword",
+      "query": "engineering",
+      "name": "scientist",
+      "mappedTo": "1F9D1-200D-1F52C",
+      "sim": 0
+    },
+    {
+      "element": "pulley",
+      "strategy": "keyword",
+      "query": "pulley",
+      "name": "growing_heart",
+      "mappedTo": "1F497",
+      "sim": 0
+    },
+    {
+      "element": "radioactivity",
+      "strategy": "keyword",
+      "query": "radioactivity",
+      "name": "radioactive",
+      "mappedTo": "2622-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "remote",
+      "strategy": "keyword",
+      "query": "remote",
+      "name": "fire",
+      "mappedTo": "1F525",
+      "sim": 0
+    },
+    {
+      "element": "resin",
+      "strategy": "keyword",
+      "query": "resin",
+      "name": "face_holding_back_tears",
+      "mappedTo": "1F979",
+      "sim": 0
+    },
+    {
+      "element": "resistor",
+      "strategy": "keyword",
+      "query": "resistor",
+      "name": "face_holding_back_tears",
+      "mappedTo": "1F979",
+      "sim": 0
+    },
+    {
+      "element": "rule",
+      "strategy": "keyword",
+      "query": "rule",
+      "name": "no_pedestrians",
+      "mappedTo": "1F6B7",
+      "sim": 0
+    },
+    {
+      "element": "ruler",
+      "strategy": "keyword",
+      "query": "ruler",
+      "name": "no_pedestrians",
+      "mappedTo": "1F6B7",
+      "sim": 0
+    },
+    {
+      "element": "russia",
+      "strategy": "semantic",
+      "query": "russia",
+      "name": "nesting_dolls",
+      "mappedTo": "1FA86",
+      "sim": 0
+    },
+    {
+      "element": "sense",
+      "strategy": "keyword",
+      "query": "sense",
+      "name": "folding_hand_fan",
+      "mappedTo": "1FAAD",
+      "sim": 0
+    },
+    {
+      "element": "sensor",
+      "strategy": "keyword",
+      "query": "sensor",
+      "name": "folding_hand_fan",
+      "mappedTo": "1FAAD",
+      "sim": 0
+    },
+    {
+      "element": "sentiment-analysis",
+      "strategy": "token-keyword",
+      "query": "analysis",
+      "name": "office_worker",
+      "mappedTo": "1F9D1-200D-1F4BC",
+      "sim": 0
+    },
+    {
+      "element": "server",
+      "strategy": "keyword",
+      "query": "server",
+      "name": "soft_ice_cream",
+      "mappedTo": "1F366",
+      "sim": 0
+    },
+    {
+      "element": "seti",
+      "strategy": "keyword",
+      "query": "seti",
+      "name": "triangular_ruler",
+      "mappedTo": "1F4D0",
+      "sim": 0
+    },
+    {
+      "element": "share",
+      "strategy": "keyword",
+      "query": "share",
+      "name": "sari",
+      "mappedTo": "1F97B",
+      "sim": 0
+    },
+    {
+      "element": "silo",
+      "strategy": "keyword",
+      "query": "silo",
+      "name": "spider_web",
+      "mappedTo": "1F578-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "siri",
+      "strategy": "keyword",
+      "query": "siri",
+      "name": "man",
+      "mappedTo": "1F468",
+      "sim": 0
+    },
+    {
+      "element": "skin",
+      "strategy": "keyword",
+      "query": "skin",
+      "name": "skis",
+      "mappedTo": "1F3BF",
+      "sim": 0
+    },
+    {
+      "element": "social-media",
+      "strategy": "token-keyword",
+      "query": "media",
+      "name": "middle_finger",
+      "mappedTo": "1F595",
+      "sim": 0
+    },
+    {
+      "element": "sony",
+      "strategy": "keyword",
+      "query": "sony",
+      "name": "family_man_boy",
+      "mappedTo": "1F468-200D-1F466",
+      "sim": 0
+    },
+    {
+      "element": "soul",
+      "strategy": "keyword",
+      "query": "soul",
+      "name": "pot_of_food",
+      "mappedTo": "1F372",
+      "sim": 0
+    },
+    {
+      "element": "spacex",
+      "strategy": "keyword",
+      "query": "spacex",
+      "name": "sun",
+      "mappedTo": "2600-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "spam",
+      "strategy": "keyword",
+      "query": "spam",
+      "name": "man_in_steamy_room",
+      "mappedTo": "1F9D6-200D-2642-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "spirit",
+      "strategy": "keyword",
+      "query": "spirit",
+      "name": "ledger",
+      "mappedTo": "1F4D2",
+      "sim": 0
+    },
+    {
+      "element": "startup",
+      "strategy": "keyword",
+      "query": "startup",
+      "name": "new_button",
+      "mappedTo": "1F195",
+      "sim": 0
+    },
+    {
+      "element": "steel",
+      "strategy": "keyword",
+      "query": "steel",
+      "name": "ox",
+      "mappedTo": "1F402",
+      "sim": 0
+    },
+    {
+      "element": "stem-cell",
+      "strategy": "token-keyword",
+      "query": "stem",
+      "name": "ladder",
+      "mappedTo": "1FA9C",
+      "sim": 0
+    },
+    {
+      "element": "story",
+      "strategy": "keyword",
+      "query": "story",
+      "name": "jar",
+      "mappedTo": "1FAD9",
+      "sim": 0
+    },
+    {
+      "element": "therapy",
+      "strategy": "keyword",
+      "query": "therapy",
+      "name": "health_worker",
+      "mappedTo": "1F9D1-200D-2695-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "touch",
+      "strategy": "keyword",
+      "query": "touch",
+      "name": "smiling_face_with_tear",
+      "mappedTo": "1F972",
+      "sim": 0
+    },
+    {
+      "element": "usa",
+      "strategy": "semantic",
+      "query": "usa",
+      "name": "globe_showing_americas",
+      "mappedTo": "1F30E",
+      "sim": 0
+    },
+    {
+      "element": "village",
+      "strategy": "keyword",
+      "query": "village",
+      "name": "supervillain",
+      "mappedTo": "1F9B9",
+      "sim": 0
+    },
+    {
+      "element": "virtual-assistant",
+      "strategy": "token-keyword",
+      "query": "assistant",
+      "name": "service_dog",
+      "mappedTo": "1F415-200D-1F9BA",
+      "sim": 0
+    },
+    {
+      "element": "war",
+      "strategy": "keyword",
+      "query": "war",
+      "name": "desert",
+      "mappedTo": "1F3DC-FE0F",
+      "sim": 0
+    },
+    {
+      "element": "wealth",
+      "strategy": "keyword",
+      "query": "wealth",
+      "name": "face_with_monocle",
+      "mappedTo": "1F9D0",
+      "sim": 0
+    },
+    {
+      "element": "web3",
+      "strategy": "keyword",
+      "query": "web3",
+      "name": "globe_with_meridians",
+      "mappedTo": "1F310",
+      "sim": 0
+    },
+    {
+      "element": "zoo",
+      "strategy": "keyword",
+      "query": "zoo",
+      "name": "telescope",
+      "mappedTo": "1F52D",
+      "sim": 0
+    }
+  ]
+}

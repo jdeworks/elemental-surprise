@@ -1,1 +1,14 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#26C6DA"/><stop offset="100%" stop-color="#00838F"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="32" cy="32" r="5" fill="white" opacity="0.3"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2" transform="rotate(60 32 32)"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">SH</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <g id="color-2">
+      <path fill="#92d3f5" d="M59.0349,59h-46.07A.9679.9679,0,0,1,12,58.0349v-46.07A.9679.9679,0,0,1,12.9651,11h46.07A.9679.9679,0,0,1,60,11.9651v46.07A.9679.9679,0,0,1,59.0349,59Z"/>
+    </g>
+  </g>
+  <g id="line">
+    <g id="NG_Button">
+      <path fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2" d="M59.0349,59.3333h-46.07A.9679.9679,0,0,1,12,58.3682v-46.07a.9679.9679,0,0,1,.9651-.9651h46.07A.9679.9679,0,0,1,60,12.2984v46.07A.9679.9679,0,0,1,59.0349,59.3333Z"/>
+      <polyline fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="22 42.833 22 27.833 32.714 42.833 32.714 27.833"/>
+      <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M50.1964,29.1816a5.3366,5.3366,0,0,0-3.5535-1.3483h0a5.3572,5.3572,0,0,0-5.3572,5.3572v4.2857a5.3572,5.3572,0,0,0,5.3572,5.3571h0A5.3572,5.3572,0,0,0,52,37.4762V35.3053H47.7143"/>
+    </g>
+  </g>
+</svg>

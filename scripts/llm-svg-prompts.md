@@ -53,4 +53,5 @@ Simplify that SVG: at most 3 shapes and 2 colors. Same viewBox 0 0 64 64. Output
 ## After you get the SVG
 
 1. Save as `public/icons/<element-id>.svg` (use the element’s id, e.g. `rainbow.svg`, `flood.svg`).
-2. To preserve your icon when running `npm run generate:icons` (e.g. via `./test-local.sh`), add the element id to **`SYMBOL_PATHS`** in `scripts/generate-icons.ts` with the SVG path markup for your icon. There is no keep list; `generate-icons` overwrites all icons, so custom file-based icons must be registered in `SYMBOL_PATHS` to survive a re-run.
+2. The default pipeline now uses `npm run icons:refresh` (icon-matcher + sync), so your file will persist unless that matcher output replaces it.
+3. If you also run `npm run generate:icons`, register the element id in **`SYMBOL_PATHS`** in `scripts/generate-icons.ts`; that command overwrites all files in `public/icons/`.

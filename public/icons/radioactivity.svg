@@ -1,1 +1,12 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#26C6DA"/><stop offset="100%" stop-color="#00838F"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="32" cy="32" r="5" fill="white" opacity="0.3"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2"/><ellipse cx="32" cy="32" rx="20" ry="8" fill="none" stroke="white" stroke-width="1.5" opacity="0.2" transform="rotate(60 32 32)"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">RA</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <circle cx="36" cy="36" r="23" fill="#f4aa41"/>
+  </g>
+  <g id="line">
+    <ellipse cx="35.96" cy="35.89" rx="3.281" ry="3.281" stroke="#000" stroke-miterlimit="10" stroke-width="1.25"/>
+    <path stroke="#000" stroke-miterlimit="10" stroke-width="1.254" d="m 23.09 28.58 a 14.76 14.76 0 0 1 3.496 -4.097 l 5.791 6.957 a 5.733 5.733 0 0 0 -2.167 3.753 l -8.921 -1.537 a 14.76 14.76 0 0 1 1.8 -5.076 z"/>
+    <path stroke="#000" stroke-miterlimit="10" stroke-width="1.254" d="m 48.91 28.58 a 14.76 14.76 0 0 1 1.8 5.076 l -8.921 1.537 a 5.733 5.733 0 0 0 -2.167 -3.753 l 5.791 -6.957 a 14.76 14.76 0 0 1 3.496 4.097 z"/>
+    <path stroke="#000" stroke-miterlimit="10" stroke-width="1.254" d="m 36 50.87 a 14.76 14.76 0 0 1 -5.296 -0.9794 l 3.129 -8.494 a 5.733 5.733 0 0 0 4.333 0 l 3.129 8.494 a 14.76 14.76 0 0 1 -5.296 0.9794 z"/>
+    <circle cx="36" cy="36" r="23" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

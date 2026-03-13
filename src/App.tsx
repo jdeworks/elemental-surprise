@@ -329,7 +329,7 @@ function App() {
           <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} />
         </main>
         <footer className="app-footer">
-          Emojis by <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0). Brand icons from <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0).
+          Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0 / CC0 where noted). Full attribution: <a href="./attribution/NOTICE.txt" target="_blank" rel="noreferrer">NOTICE</a>.
         </footer>
 
         {settingsOpen && (

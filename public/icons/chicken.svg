@@ -1,1 +1,9 @@
-<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#FFA726"/><stop offset="100%" stop-color="#E65100"/></linearGradient></defs><rect width="64" height="64" rx="14" fill="url(#g)"/><circle cx="24" cy="22" r="8" fill="white" opacity="0.2"/><circle cx="40" cy="22" r="8" fill="white" opacity="0.2"/><circle cx="32" cy="36" r="12" fill="white" opacity="0.2"/><text x="32" y="41" text-anchor="middle" fill="white" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold">CH</text></svg>
+<svg id="emoji" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="color">
+    <path fill="#fff" d="M36,64c12.8581,0,20.9609-11.9773,20.9609-26.1572,0-14.6517-8.4161-29.8428-20.9609-29.8428S15.0391,23.1911,15.0391,37.8428c0,14.1799,8.1028,26.1572,20.9609,26.1572Z"/>
+    <path fill="#d0cfce" d="M56.96,37.84c0,14.18-8.1,26.16-20.96,26.16s-20.96-11.98-20.96-26.16c2.8265,16.4205,17.6473,18.9809,26.64,12.4926,9.6972-6.9967,12.8887-31.6694-.01-41.2326,9.34,3.73,15.29,16.4301,15.29,28.7401h0Z"/>
+  </g>
+  <g id="line">
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M36,64c12.8581,0,20.9609-11.9773,20.9609-26.1572,0-14.6517-8.4161-29.8428-20.9609-29.8428S15.0391,23.1911,15.0391,37.8428c0,14.1799,8.1028,26.1572,20.9609,26.1572Z"/>
+  </g>
+</svg>
