@@ -135,15 +135,25 @@ export function loadData(): Promise<void> {
 
   loadPromise = (async () => {
     // Try bucket mode first.
-    // Elements: prefer grouped index, fallback to legacy.
-    // Recipes: prefer legacy index (includes generated-new expansion), fallback to grouped.
-    const elementsIndexRes = await fetch(`${dataBase}data/elements/index.json`);
-    const elementsLegacyIndexRes = await fetch(`${dataBase}data/elements-index.json`);
-    const recipesLegacyIndexRes = await fetch(`${dataBase}data/recipes-index.json`);
-    const recipesIndexRes = await fetch(`${dataBase}data/recipes/index.json`);
+    // Probe legacy indexes first to avoid noisy 404s on deployments that only ship legacy paths.
+    let chosenElementsIndexRes: Response | null = null;
+    let chosenRecipesIndexRes: Response | null = null;
 
-    const chosenElementsIndexRes = elementsIndexRes.ok ? elementsIndexRes : (elementsLegacyIndexRes.ok ? elementsLegacyIndexRes : null);
-    const chosenRecipesIndexRes = recipesLegacyIndexRes.ok ? recipesLegacyIndexRes : (recipesIndexRes.ok ? recipesIndexRes : null);
+    const elementsLegacyIndexRes = await fetch(`${dataBase}data/elements-index.json`);
+    if (elementsLegacyIndexRes.ok) {
+      chosenElementsIndexRes = elementsLegacyIndexRes;
+    } else {
+      const elementsIndexRes = await fetch(`${dataBase}data/elements/index.json`);
+      if (elementsIndexRes.ok) chosenElementsIndexRes = elementsIndexRes;
+    }
+
+    const recipesLegacyIndexRes = await fetch(`${dataBase}data/recipes-index.json`);
+    if (recipesLegacyIndexRes.ok) {
+      chosenRecipesIndexRes = recipesLegacyIndexRes;
+    } else {
+      const recipesIndexRes = await fetch(`${dataBase}data/recipes/index.json`);
+      if (recipesIndexRes.ok) chosenRecipesIndexRes = recipesIndexRes;
+    }
 
     if (chosenElementsIndexRes && chosenRecipesIndexRes) {
       elementsIndex = (await chosenElementsIndexRes.json()) as ElementsIndex;
