@@ -62,7 +62,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
       {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >
-      <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 40 : 36} height={isLibrary ? 40 : 36} />
+      <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} />
       <span className="element-name">{element.name}</span>
     </div>
   );

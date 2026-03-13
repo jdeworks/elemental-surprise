@@ -89,7 +89,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
               title={showNames ? undefined : element.name}
               data-testid={`library-element-${element.id}`}
             >
-              <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="library-icon" width={showNames ? 28 : 32} height={showNames ? 28 : 32} />
+              <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="library-icon" width={showNames ? 36 : 40} height={showNames ? 36 : 40} />
               {showNames && (
                 <>
                   <span className="library-name">{element.name}</span>
