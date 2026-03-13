@@ -1,7 +1,7 @@
 // Data and icons are loaded at runtime:
 // - Pages build: from GitHub repo via jsDelivr CDN (so you can add elements/recipes/icons without rebuilding)
 // - Local build / dev: from same origin (public/ or local-dist)
-// - Supports two modes: legacy (single elements.json / recipes.json) or bucket mode (data/elements-index.json + data/elements/*.json)
+// - Supports two modes: legacy (single elements.json / recipes.json) or bucket mode (data/elements/index.json + data/elements/by-group/)
 //   for scale (10k+ elements). In bucket mode, buckets are loaded on demand to avoid overloading the browser.
 declare const __CDN_BASE__: string;
 const CDN_BASE = typeof __CDN_BASE__ !== 'undefined' ? __CDN_BASE__ : (import.meta.env?.VITE_CDN_BASE ?? '');
@@ -81,7 +81,9 @@ async function loadElementsBucket(bucketId: string): Promise<void> {
   const dataBase = getDataBase();
   const path = elementsIndex!.buckets[bucketId];
   if (!path) return;
-  const url = `${dataBase}data/${path}`;
+  // The bucketId is like "technology-bucket-1", we extract the group name (first part before '-')
+  const group = bucketId.split('-')[0];
+  const url = `${dataBase}data/elements/by-group/${group}/${path}`;
   const r = await fetch(url);
   if (!r.ok) throw new Error(`Failed to load elements bucket ${bucketId}: ${r.status}`);
   const data = (await r.json()) as Record<string, { id: string; name: string; icon: string; links?: ElementLink[]; group?: string }>;
@@ -96,7 +98,13 @@ async function loadRecipesBucket(bucketId: string): Promise<void> {
   const dataBase = getDataBase();
   const path = recipesIndex!.buckets[bucketId];
   if (!path) return;
-  const url = `${dataBase}data/${path}`;
+  // The bucketId is like "technology-technology-bucket-1", we extract the group combination (first two parts before '-')
+  // Actually, the format is: ${group1}-${group2}-bucket-${counter}
+  // We want to get the group combination directory: ${group1}-${group2}
+  const parts = bucketId.split('-');
+  // Remove the last two parts: "bucket" and the counter
+  const groupCombo = parts.slice(0, -2).join('-');
+  const url = `${dataBase}data/recipes/by-group-combination/${groupCombo}/${path}`;
   const r = await fetch(url);
   if (!r.ok) throw new Error(`Failed to load recipes bucket ${bucketId}: ${r.status}`);
   const data = (await r.json()) as Record<string, string | { result: string; reasoning?: string }>;
@@ -109,10 +117,10 @@ export function loadData(): Promise<void> {
   const dataBase = getDataBase();
 
   loadPromise = (async () => {
-    // Try bucket mode first (data/elements-index.json)
-    const elementsIndexUrl = `${dataBase}data/elements-index.json`;
+    // Try bucket mode first (data/elements/index.json)
+    const elementsIndexUrl = `${dataBase}data/elements/index.json`;
     const elementsIndexRes = await fetch(elementsIndexUrl);
-    const recipesIndexUrl = `${dataBase}data/recipes-index.json`;
+    const recipesIndexUrl = `${dataBase}data/recipes/index.json`;
     const recipesIndexRes = await fetch(recipesIndexUrl);
 
     if (elementsIndexRes.ok && recipesIndexRes.ok) {

@@ -1,0 +1,22 @@
+{
+  "code+machine": {
+    "result": "compiler",
+    "reasoning": "Applying Code to machine produces Compiler"
+  },
+  "code+tool": {
+    "result": "framework",
+    "reasoning": "Applying Code to tool produces Framework"
+  },
+  "document+invention": {
+    "result": "patent",
+    "reasoning": "Document combined with invention leads to Patent"
+  },
+  "knowledge+tool": {
+    "result": "science",
+    "reasoning": "Knowledge applied through tools creates science"
+  },
+  "map+satellite": {
+    "result": "gps",
+    "reasoning": "Applying Map to Satellite produces GPS"
+  }
+}

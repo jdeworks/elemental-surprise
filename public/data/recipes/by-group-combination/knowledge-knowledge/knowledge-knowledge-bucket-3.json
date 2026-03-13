@@ -1,0 +1,142 @@
+{
+  "action+consequence": {
+    "result": "karma",
+    "reasoning": "action combined with consequence leads to Karma"
+  },
+  "alphabet+text": {
+    "result": "letter",
+    "reasoning": "Alphabet combined with Text leads to Letter"
+  },
+  "answer+question": {
+    "result": "philosophy",
+    "reasoning": "Answer combined with question leads to Philosophy"
+  },
+  "book+code": {
+    "result": "library-software",
+    "reasoning": "Applying book to Code produces Library Software"
+  },
+  "book+knowledge": {
+    "result": "encyclopedia",
+    "reasoning": "book combined with knowledge leads to encyclopedia"
+  },
+  "book+photograph": {
+    "result": "album",
+    "reasoning": "book combined with Photograph leads to Album"
+  },
+  "book+secret": {
+    "result": "diary",
+    "reasoning": "book combined with secret leads to Diary"
+  },
+  "book+story": {
+    "result": "novel",
+    "reasoning": "book combined with Story leads to Novel"
+  },
+  "code+contradiction": {
+    "result": "error",
+    "reasoning": "Applying Code to contradiction produces error"
+  },
+  "code+logic": {
+    "result": "algorithm",
+    "reasoning": "Logical instructions in code create algorithms"
+  },
+  "code+number": {
+    "result": "data",
+    "reasoning": "Applying Code to number produces data"
+  },
+  "code+question": {
+    "result": "stack-overflow",
+    "reasoning": "Applying Code to question produces Stack Overflow"
+  },
+  "code+secret": {
+    "result": "cipher",
+    "reasoning": "Code combined with secret leads to Cipher"
+  },
+  "code+text": {
+    "result": "html",
+    "reasoning": "Applying Code to Text produces HTML"
+  },
+  "contradiction+truth": {
+    "result": "paradox",
+    "reasoning": "contradiction combined with Truth leads to Paradox"
+  },
+  "drama+text": {
+    "result": "script",
+    "reasoning": "Drama combined with Text leads to Script"
+  },
+  "experiment+theory": {
+    "result": "science",
+    "reasoning": "Experiment and Theory explain the phenomenon of science"
+  },
+  "knowledge+question": {
+    "result": "answer",
+    "reasoning": "knowledge combined with question leads to Answer"
+  },
+  "language+language": {
+    "result": "translation",
+    "reasoning": "Language enhanced with Language creates Translation"
+  },
+  "language+logic": {
+    "result": "code",
+    "reasoning": "Language combined with Logic leads to Code"
+  },
+  "learning+school": {
+    "result": "education",
+    "reasoning": "Learning combined with school leads to Education"
+  },
+  "logic+logic": {
+    "result": "contradiction",
+    "reasoning": "Logic combined with Logic leads to contradiction"
+  },
+  "logic+number": {
+    "result": "mathematics",
+    "reasoning": "Logic applied to numbers creates mathematics"
+  },
+  "logic+philosophy": {
+    "result": "truth",
+    "reasoning": "Logic combined with Philosophy leads to Truth"
+  },
+  "logic+symbol": {
+    "result": "number",
+    "reasoning": "Logic combined with symbol leads to number"
+  },
+  "number+number": {
+    "result": "binary",
+    "reasoning": "Applying number to number produces Binary"
+  },
+  "number+word": {
+    "result": "token",
+    "reasoning": "number enhanced with Word creates Token"
+  },
+  "question+secret": {
+    "result": "mystery",
+    "reasoning": "question combined with secret leads to mystery"
+  },
+  "question+text": {
+    "result": "prompt",
+    "reasoning": "question enhanced with Text creates Prompt"
+  },
+  "question+theory": {
+    "result": "hypothesis",
+    "reasoning": "question combined with Theory leads to Hypothesis"
+  },
+  "research+school": {
+    "result": "university",
+    "reasoning": "Research combined with school leads to University"
+  },
+  "secret+word": {
+    "result": "password",
+    "reasoning": "Applying secret to Word produces Password"
+  },
+  "symbol+text": {
+    "result": "markdown",
+    "reasoning": "Applying symbol to Text produces Markdown"
+  },
+  "symbol+word": {
+    "result": "alphabet",
+    "reasoning": "symbol combined with Word leads to Alphabet"
+  },
+  "word+word": {
+    "result": "story",
+    "reasoning": "Word combined with Word leads to Story"
+  }
+}

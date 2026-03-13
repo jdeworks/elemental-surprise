@@ -1,0 +1,602 @@
+{
+  "anger": {
+    "id": "anger",
+    "name": "Anger",
+    "icon": "./icons/anger.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Anger",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "belief": {
+    "id": "belief",
+    "name": "Belief",
+    "icon": "./icons/belief.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Belief",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "blood": {
+    "id": "blood",
+    "name": "Blood",
+    "icon": "./icons/blood.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Blood",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "body": {
+    "id": "body",
+    "name": "Body",
+    "icon": "./icons/body.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Body",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "bone": {
+    "id": "bone",
+    "name": "Bone",
+    "icon": "./icons/bone.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bone",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "brain": {
+    "id": "brain",
+    "name": "Brain",
+    "icon": "./icons/brain.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brain",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "child": {
+    "id": "child",
+    "name": "Child",
+    "icon": "./icons/child.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Child",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "consciousness": {
+    "id": "consciousness",
+    "name": "Consciousness",
+    "icon": "./icons/consciousness.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Consciousness",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "courage": {
+    "id": "courage",
+    "name": "courage",
+    "icon": "./icons/courage.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/courage",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "creativity": {
+    "id": "creativity",
+    "name": "Creativity",
+    "icon": "./icons/creativity.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Creativity",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "curiosity": {
+    "id": "curiosity",
+    "name": "Curiosity",
+    "icon": "./icons/curiosity.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Curiosity",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "doubt": {
+    "id": "doubt",
+    "name": "Doubt",
+    "icon": "./icons/doubt.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Doubt",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "dream": {
+    "id": "dream",
+    "name": "Dream",
+    "icon": "./icons/dream.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dream",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "emotion": {
+    "id": "emotion",
+    "name": "Emotion",
+    "icon": "./icons/emotion.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Emotion",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "eye": {
+    "id": "eye",
+    "name": "eye",
+    "icon": "./icons/eye.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/eye",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "faith": {
+    "id": "faith",
+    "name": "Faith",
+    "icon": "./icons/faith.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Faith",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "family": {
+    "id": "family",
+    "name": "Family",
+    "icon": "./icons/family.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Family",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "fear": {
+    "id": "fear",
+    "name": "fear",
+    "icon": "./icons/fear.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/fear",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "foot": {
+    "id": "foot",
+    "name": "foot",
+    "icon": "./icons/foot.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/foot",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "free-will": {
+    "id": "free-will",
+    "name": "Free Will",
+    "icon": "./icons/free-will.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Free_Will",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "hand": {
+    "id": "hand",
+    "name": "hand",
+    "icon": "./icons/hand.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/hand",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "happiness": {
+    "id": "happiness",
+    "name": "Happiness",
+    "icon": "./icons/happiness.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Happiness",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "head": {
+    "id": "head",
+    "name": "head",
+    "icon": "./icons/head.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/head",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "hearing": {
+    "id": "hearing",
+    "name": "Hearing",
+    "icon": "./icons/hearing.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hearing",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "heart": {
+    "id": "heart",
+    "name": "Heart",
+    "icon": "./icons/heart.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heart",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "hope": {
+    "id": "hope",
+    "name": "Hope",
+    "icon": "./icons/hope.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hope",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "human": {
+    "id": "human",
+    "name": "human",
+    "icon": "./icons/human.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/human",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "idea": {
+    "id": "idea",
+    "name": "Idea",
+    "icon": "./icons/idea.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Idea",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "imagination": {
+    "id": "imagination",
+    "name": "imagination",
+    "icon": "./icons/imagination.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/imagination",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "instinct": {
+    "id": "instinct",
+    "name": "Instinct",
+    "icon": "./icons/instinct.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Instinct",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "intelligence": {
+    "id": "intelligence",
+    "name": "intelligence",
+    "icon": "./icons/intelligence.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/intelligence",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "love": {
+    "id": "love",
+    "name": "Love",
+    "icon": "./icons/love.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Love",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "man": {
+    "id": "man",
+    "name": "Man",
+    "icon": "./icons/man.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Man",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "memory": {
+    "id": "memory",
+    "name": "Memory",
+    "icon": "./icons/memory.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Memory",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "nightmare": {
+    "id": "nightmare",
+    "name": "Nightmare",
+    "icon": "./icons/nightmare.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nightmare",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "population": {
+    "id": "population",
+    "name": "population",
+    "icon": "./icons/population.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/population",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "sadness": {
+    "id": "sadness",
+    "name": "Sadness",
+    "icon": "./icons/sadness.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sadness",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "sense": {
+    "id": "sense",
+    "name": "Sense",
+    "icon": "./icons/sense.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sense",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "sight": {
+    "id": "sight",
+    "name": "Sight",
+    "icon": "./icons/sight.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sight",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "skin": {
+    "id": "skin",
+    "name": "skin",
+    "icon": "./icons/skin.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/skin",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "sleep": {
+    "id": "sleep",
+    "name": "sleep",
+    "icon": "./icons/sleep.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/sleep",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "smell": {
+    "id": "smell",
+    "name": "Smell",
+    "icon": "./icons/smell.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smell",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "soul": {
+    "id": "soul",
+    "name": "Soul",
+    "icon": "./icons/soul.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Soul",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "speech": {
+    "id": "speech",
+    "name": "Speech",
+    "icon": "./icons/speech.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Speech",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "taste": {
+    "id": "taste",
+    "name": "Taste",
+    "icon": "./icons/taste.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taste",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "thought": {
+    "id": "thought",
+    "name": "Thought",
+    "icon": "./icons/thought.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thought",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "touch": {
+    "id": "touch",
+    "name": "Touch",
+    "icon": "./icons/touch.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Touch",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "voice": {
+    "id": "voice",
+    "name": "voice",
+    "icon": "./icons/voice.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/voice",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "wisdom": {
+    "id": "wisdom",
+    "name": "Wisdom",
+    "icon": "./icons/wisdom.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wisdom",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  },
+  "woman": {
+    "id": "woman",
+    "name": "Woman",
+    "icon": "./icons/woman.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Woman",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Humanity"
+  }
+}

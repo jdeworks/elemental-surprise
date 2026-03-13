@@ -1,0 +1,618 @@
+{
+  "alien": {
+    "id": "alien",
+    "name": "Alien",
+    "icon": "./icons/alien.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alien",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "asteroid": {
+    "id": "asteroid",
+    "name": "Asteroid",
+    "icon": "./icons/asteroid.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Asteroid",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "astronaut": {
+    "id": "astronaut",
+    "name": "Astronaut",
+    "icon": "./icons/astronaut.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Astronaut",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "aurora": {
+    "id": "aurora",
+    "name": "Aurora",
+    "icon": "./icons/aurora.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Aurora",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "black-hole": {
+    "id": "black-hole",
+    "name": "Black Hole",
+    "icon": "./icons/black-hole.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Black_Hole",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "comet": {
+    "id": "comet",
+    "name": "Comet",
+    "icon": "./icons/comet.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Comet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "constellation": {
+    "id": "constellation",
+    "name": "Constellation",
+    "icon": "./icons/constellation.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Constellation",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "dark-matter": {
+    "id": "dark-matter",
+    "name": "Dark Matter",
+    "icon": "./icons/dark-matter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dark_Matter",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "dawn": {
+    "id": "dawn",
+    "name": "Dawn",
+    "icon": "./icons/dawn.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dawn",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "day": {
+    "id": "day",
+    "name": "Day",
+    "icon": "./icons/day.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Day",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "eclipse": {
+    "id": "eclipse",
+    "name": "Eclipse",
+    "icon": "./icons/eclipse.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Eclipse",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "extraterrestrial": {
+    "id": "extraterrestrial",
+    "name": "Extraterrestrial",
+    "icon": "./icons/extraterrestrial.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Extraterrestrial",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "galaxy": {
+    "id": "galaxy",
+    "name": "Galaxy",
+    "icon": "./icons/galaxy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Galaxy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "gravity": {
+    "id": "gravity",
+    "name": "Gravity",
+    "icon": "./icons/gravity.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gravity",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "gravity-wave": {
+    "id": "gravity-wave",
+    "name": "Gravity Wave",
+    "icon": "./icons/gravity-wave.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gravity_Wave",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "hubble-telescope": {
+    "id": "hubble-telescope",
+    "name": "Hubble Telescope",
+    "icon": "./icons/hubble-telescope.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hubble_Telescope",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "iss": {
+    "id": "iss",
+    "name": "ISS",
+    "icon": "./icons/iss.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ISS",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "james-webb": {
+    "id": "james-webb",
+    "name": "James Webb",
+    "icon": "./icons/james-webb.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/James_Webb",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "mars": {
+    "id": "mars",
+    "name": "Mars",
+    "icon": "./icons/mars.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mars",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "mars-colony": {
+    "id": "mars-colony",
+    "name": "Mars Colony",
+    "icon": "./icons/mars-colony.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mars_Colony",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "mars-rover": {
+    "id": "mars-rover",
+    "name": "Mars Rover",
+    "icon": "./icons/mars-rover.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mars_Rover",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "meteor": {
+    "id": "meteor",
+    "name": "Meteor",
+    "icon": "./icons/meteor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Meteor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "moon": {
+    "id": "moon",
+    "name": "Moon",
+    "icon": "./icons/moon.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Moon",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "moon-landing": {
+    "id": "moon-landing",
+    "name": "Moon Landing",
+    "icon": "./icons/moon-landing.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Moon_Landing",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "moonlight": {
+    "id": "moonlight",
+    "name": "Moonlight",
+    "icon": "./icons/moonlight.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Moonlight",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "multiverse": {
+    "id": "multiverse",
+    "name": "Multiverse",
+    "icon": "./icons/multiverse.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Multiverse",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "nasa": {
+    "id": "nasa",
+    "name": "NASA",
+    "icon": "./icons/nasa.svg",
+    "links": [
+      {
+        "url": "https://www.nasa.gov/",
+        "label": "NASA"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/NASA",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "nebula": {
+    "id": "nebula",
+    "name": "Nebula",
+    "icon": "./icons/nebula.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nebula",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "night": {
+    "id": "night",
+    "name": "Night",
+    "icon": "./icons/night.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Night",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "observatory": {
+    "id": "observatory",
+    "name": "Observatory",
+    "icon": "./icons/observatory.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Observatory",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "orbit": {
+    "id": "orbit",
+    "name": "Orbit",
+    "icon": "./icons/orbit.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Orbit",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "planet": {
+    "id": "planet",
+    "name": "Planet",
+    "icon": "./icons/planet.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Planet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "ring": {
+    "id": "ring",
+    "name": "ring",
+    "icon": "./icons/ring.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/ring",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "saturn": {
+    "id": "saturn",
+    "name": "Saturn",
+    "icon": "./icons/saturn.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Saturn",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "seti": {
+    "id": "seti",
+    "name": "SETI",
+    "icon": "./icons/seti.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SETI",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "sky": {
+    "id": "sky",
+    "name": "Sky",
+    "icon": "./icons/sky.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sky",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "space": {
+    "id": "space",
+    "name": "space",
+    "icon": "./icons/space.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/space",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "space-elevator": {
+    "id": "space-elevator",
+    "name": "Space Elevator",
+    "icon": "./icons/space-elevator.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Space_Elevator",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "space-probe": {
+    "id": "space-probe",
+    "name": "Space Probe",
+    "icon": "./icons/space-probe.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Space_Probe",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "space-station": {
+    "id": "space-station",
+    "name": "Space Station",
+    "icon": "./icons/space-station.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Space_Station",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "space-suit": {
+    "id": "space-suit",
+    "name": "Space Suit",
+    "icon": "./icons/space-suit.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Space_Suit",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "star": {
+    "id": "star",
+    "name": "Star",
+    "icon": "./icons/star.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Star",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "sun": {
+    "id": "sun",
+    "name": "sun",
+    "icon": "./icons/sun.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/sun",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "sunlight": {
+    "id": "sunlight",
+    "name": "Sunlight",
+    "icon": "./icons/sunlight.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunlight",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "sunset": {
+    "id": "sunset",
+    "name": "Sunset",
+    "icon": "./icons/sunset.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sunset",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "telescope": {
+    "id": "telescope",
+    "name": "Telescope",
+    "icon": "./icons/telescope.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Telescope",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "terraforming": {
+    "id": "terraforming",
+    "name": "Terraforming",
+    "icon": "./icons/terraforming.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Terraforming",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "time-travel": {
+    "id": "time-travel",
+    "name": "Time Travel",
+    "icon": "./icons/time-travel.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Time_Travel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "ufo": {
+    "id": "ufo",
+    "name": "UFO",
+    "icon": "./icons/ufo.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/UFO",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "universe": {
+    "id": "universe",
+    "name": "Universe",
+    "icon": "./icons/universe.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Universe",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  },
+  "wormhole": {
+    "id": "wormhole",
+    "name": "Wormhole",
+    "icon": "./icons/wormhole.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wormhole",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Space"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "algorithm+algorithm": {
+    "result": "recursion",
+    "reasoning": "Applying Algorithm to Algorithm produces Recursion"
+  },
+  "algorithm+browser": {
+    "result": "search-engine",
+    "reasoning": "Applying Algorithm to Browser produces Search Engine"
+  },
+  "algorithm+data": {
+    "result": "stack",
+    "reasoning": "Applying Algorithm to data produces Stack"
+  },
+  "algorithm+variable": {
+    "result": "function",
+    "reasoning": "Applying Algorithm to Variable produces Function"
+  },
+  "amplifier+magnet": {
+    "result": "speaker",
+    "reasoning": "Applying Amplifier to magnet produces Speaker"
+  },
+  "antenna+radio": {
+    "result": "broadcast",
+    "reasoning": "Applying antenna to Radio produces Broadcast"
+  },
+  "antenna+screen": {
+    "result": "television",
+    "reasoning": "Applying antenna to screen produces Television"
+  },
+  "api+internet": {
+    "result": "rest-api",
+    "reasoning": "Applying API to internet produces REST API"
+  },
+  "api+software": {
+    "result": "microservice",
+    "reasoning": "Applying API to software produces Microservice"
+  },
+  "app+message": {
+    "result": "notification",
+    "reasoning": "Applying App to message produces Notification"
+  },
+  "audio+internet": {
+    "result": "podcast",
+    "reasoning": "Applying Audio to internet produces Podcast"
+  },
+  "battery+computer": {
+    "result": "laptop",
+    "reasoning": "Applying Battery to Computer produces Laptop"
+  },
+  "battery+self-driving-car": {
+    "result": "tesla",
+    "reasoning": "Applying Battery to Self Driving Car produces Tesla"
+  },
+  "binary+electricity": {
+    "result": "bit",
+    "reasoning": "Applying Binary to Electricity produces Bit"
+  },
+  "binary+electronics": {
+    "result": "digital",
+    "reasoning": "Applying Binary to Electronics produces digital"
+  },
+  "bit+bit": {
+    "result": "byte",
+    "reasoning": "Applying Bit to Bit produces Byte"
+  },
+  "blockchain+internet": {
+    "result": "web3",
+    "reasoning": "Applying Blockchain to internet produces Web3"
+  },
+  "blog+video": {
+    "result": "vlog",
+    "reasoning": "Applying blog to video produces Vlog"
+  },
+  "button+button": {
+    "result": "keyboard",
+    "reasoning": "Applying button to button produces Keyboard"
+  },
+  "button+television": {
+    "result": "remote",
+    "reasoning": "Applying button to Television produces Remote"
+  },
+  "circuit+semiconductor": {
+    "result": "transistor",
+    "reasoning": "Semiconductors in circuits form transistors"
+  },
+  "class+class": {
+    "result": "inheritance",
+    "reasoning": "Applying Class to Class produces Inheritance"
+  },
+  "cloud-computing+file": {
+    "result": "cloud-storage",
+    "reasoning": "Applying Cloud Computing to File produces Cloud Storage"
+  },
+  "cloud-computing+git": {
+    "result": "github",
+    "reasoning": "Applying Cloud Computing to Git produces GitHub"
+  },
+  "cloud-computing+software": {
+    "result": "saas",
+    "reasoning": "Applying Cloud Computing to software produces SaaS"
+  },
+  "cloud-computing+video": {
+    "result": "streaming",
+    "reasoning": "Applying Cloud Computing to video produces Streaming"
+  },
+  "communication+lie": {
+    "result": "deception",
+    "reasoning": "Applying Communication to lie produces deception"
+  },
+  "communication+software": {
+    "result": "api",
+    "reasoning": "Applying Communication to software produces API"
+  },
+  "communication+video": {
+    "result": "zoom",
+    "reasoning": "Applying Communication to video produces Zoom"
+  },
+  "computer+computer": {
+    "result": "server",
+    "reasoning": "Computers linked together form the internet"
+  },
+  "computer+printer": {
+    "result": "3d-printer",
+    "reasoning": "Applying Computer to Printer produces 3D Printer"
+  },
+  "computer+screen": {
+    "result": "monitor",
+    "reasoning": "Applying Computer to screen produces Monitor"
+  },
+  "computer+software": {
+    "result": "operating-system",
+    "reasoning": "Applying Computer to software produces Operating System"
+  },
+  "computer+telephone": {
+    "result": "smartphone",
+    "reasoning": "Connecting computers over phone lines — the internet"
+  },
+  "computer+television": {
+    "result": "console",
+    "reasoning": "Computer and Television create Console"
+  },
+  "computer+touchscreen": {
+    "result": "tablet",
+    "reasoning": "Applying Computer to Touchscreen produces Tablet"
+  },
+  "data+data": {
+    "result": "dataset",
+    "reasoning": "data enhanced with data creates Dataset"
+  },
+  "data+encryption": {
+    "result": "hash",
+    "reasoning": "Applying data to Encryption produces Hash"
+  },
+  "data+internet": {
+    "result": "upload",
+    "reasoning": "Applying data to internet produces Upload"
+  },
+  "data+name": {
+    "result": "file",
+    "reasoning": "Applying data to name produces File"
+  },
+  "data+server": {
+    "result": "database",
+    "reasoning": "Applying data to Server produces Database"
+  },
+  "database+database": {
+    "result": "big-data",
+    "reasoning": "Database enhanced with Database creates Big Data"
+  },
+  "deception+email": {
+    "result": "phishing",
+    "reasoning": "Applying deception to Email produces Phishing"
+  },
+  "docker+server": {
+    "result": "kubernetes",
+    "reasoning": "Applying Docker to Server produces Kubernetes"
+  },
+  "electricity+message": {
+    "result": "telegram",
+    "reasoning": "Applying Electricity to message produces Telegram"
+  },
+  "electricity+microchip": {
+    "result": "ssd",
+    "reasoning": "Applying Electricity to Microchip produces SSD"
+  },
+  "email+email": {
+    "result": "spam",
+    "reasoning": "Applying Email to Email produces Spam"
+  },
+  "encryption+internet": {
+    "result": "tor",
+    "reasoning": "Applying Encryption to internet produces Tor"
+  },
+  "fame+social-media": {
+    "result": "influencer",
+    "reasoning": "Applying fame to Social Media produces Influencer"
+  },
+  "file+file": {
+    "result": "folder",
+    "reasoning": "Applying File to File produces Folder"
+  },
+  "file+internet": {
+    "result": "download",
+    "reasoning": "Applying File to internet produces Download"
+  },
+  "forum+social-media": {
+    "result": "reddit",
+    "reasoning": "Applying Forum to Social Media produces Reddit"
+  },
+  "friend+post": {
+    "result": "share",
+    "reasoning": "Applying friend to Post produces Share"
+  },
+  "friend+social-media": {
+    "result": "follower",
+    "reasoning": "Applying friend to Social Media produces Follower"
+  },
+  "git+internet": {
+    "result": "github",
+    "reasoning": "Applying Git to internet produces GitHub"
+  },
+  "gps+internet": {
+    "result": "google-maps",
+    "reasoning": "Applying GPS to internet produces Google Maps"
+  },
+  "hacker+internet": {
+    "result": "hacking",
+    "reasoning": "Applying Hacker to internet produces Hacking"
+  },
+  "internet+message": {
+    "result": "email",
+    "reasoning": "Applying internet to message produces Email"
+  },
+  "internet+name": {
+    "result": "domain",
+    "reasoning": "Applying internet to name produces Domain"
+  },
+  "internet+privacy": {
+    "result": "vpn",
+    "reasoning": "Applying internet to Privacy produces VPN"
+  },
+  "internet+server": {
+    "result": "cloud-computing",
+    "reasoning": "Applying internet to Server produces Cloud Computing"
+  },
+  "internet+software": {
+    "result": "browser",
+    "reasoning": "Applying internet to software produces Browser"
+  },
+  "internet+video": {
+    "result": "youtube",
+    "reasoning": "Applying internet to video produces YouTube"
+  },
+  "internet+vr-headset": {
+    "result": "metaverse",
+    "reasoning": "Applying internet to VR Headset produces Metaverse"
+  },
+  "internet+wiki": {
+    "result": "wikipedia",
+    "reasoning": "Applying internet to Wiki produces Wikipedia"
+  },
+  "mainframe+mainframe": {
+    "result": "supercomputer",
+    "reasoning": "Applying Mainframe to Mainframe produces Supercomputer"
+  },
+  "microchip+software": {
+    "result": "computer",
+    "reasoning": "Applying Microchip to software produces Computer"
+  },
+  "name+website": {
+    "result": "url",
+    "reasoning": "Applying name to Website produces URL"
+  },
+  "network+network": {
+    "result": "internet",
+    "reasoning": "Applying Network to Network produces internet"
+  },
+  "network+radio": {
+    "result": "bluetooth",
+    "reasoning": "Applying Network to Radio produces Bluetooth"
+  },
+  "pixel+pixel": {
+    "result": "resolution",
+    "reasoning": "Applying Pixel to Pixel produces Resolution"
+  },
+  "processor+processor": {
+    "result": "parallel",
+    "reasoning": "Processor enhanced with Processor creates parallel"
+  },
+  "processor+screen": {
+    "result": "computer",
+    "reasoning": "A processor connected to a screen makes a computer"
+  },
+  "radio+screen": {
+    "result": "television",
+    "reasoning": "Applying Radio to screen produces Television"
+  },
+  "server+server": {
+    "result": "mainframe",
+    "reasoning": "Applying Server to Server produces Mainframe"
+  },
+  "smartphone+software": {
+    "result": "app",
+    "reasoning": "Applying Smartphone to software produces App"
+  },
+  "social-media+video": {
+    "result": "tiktok",
+    "reasoning": "Applying Social Media to video produces TikTok"
+  },
+  "solar-panel+wind-turbine": {
+    "result": "renewable-energy",
+    "reasoning": "Solar Panel and Wind Turbine explain the phenomenon of Renewable Energy"
+  }
+}
