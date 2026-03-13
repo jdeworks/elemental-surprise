@@ -32,7 +32,7 @@ jobs:
       - name: Build
         run: npm run build
         env:
-          VITE_CDN_BASE: https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev
+          VITE_CDN_BASE: https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

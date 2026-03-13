@@ -79,6 +79,25 @@
   overflow: hidden;
 }
 
+.app-footer {
+  background: #1f1f1f;
+  color: rgba(255, 255, 255, 0.8);
+  padding: 10px 16px;
+  font-size: 12px;
+  line-height: 1.4;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.app-footer a {
+  color: #9fd3ff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.app-footer a:hover {
+  color: #c6e6ff;
+}
+
 /* Settings sidebar (slide-in from right) */
 .settings-backdrop {
   position: fixed;

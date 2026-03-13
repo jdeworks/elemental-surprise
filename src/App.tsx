@@ -328,6 +328,9 @@ function App() {
           />
           <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} />
         </main>
+        <footer className="app-footer">
+          Emojis by <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0). Brand icons from <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0).
+        </footer>
 
         {settingsOpen && (
           <>
