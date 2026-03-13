@@ -14,8 +14,10 @@
 
 .element-icon {
   display: block;
-  width: auto;
-  height: auto;
+  width: 44px;
+  height: 44px;
+  flex: 0 0 44px;
+  object-fit: contain;
 }
 
 .element:active {
@@ -25,6 +27,12 @@
 /* Library elements - show full style */
 .element-library {
   background: #f8f8f8;
+}
+
+.element-library .element-icon {
+  width: 48px;
+  height: 48px;
+  flex-basis: 48px;
 }
 
 /* Workspace elements - minimal, no border/text by default */
