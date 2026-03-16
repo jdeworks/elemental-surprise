@@ -328,6 +328,9 @@ function App() {
   const combineElements = useCallback(async (elementA: WorkspaceElement, elementB: WorkspaceElement): Promise<string | null> => {
     const result = await getRecipeAsync(elementA.type, elementB.type);
     if (!result) return null;
+    // Ensure element data + icon bundle are loaded BEFORE adding to workspace
+    // (otherwise Element component renders null for unknown elements)
+    await ensureElementLoaded(result);
     const recipeKey = [elementA.type, elementB.type].sort().join('+');
     setDiscoveredRecipes(prev => prev.includes(recipeKey) ? prev : [...prev, recipeKey]);
     const midX = (elementA.x + elementB.x) / 2;
