@@ -10,18 +10,18 @@ echo "╚═══════════════════════�
 echo ""
 
 # Step 1: Generate base elements + recipes
-echo "▸ Step 1/10: Generate base elements..."
+echo "▸ Step 1/12: Generate base elements..."
 npm run generate
 
 # Step 2: Apply new elements (manual + bulk)
 echo ""
-echo "▸ Step 2/10: Apply new elements..."
+echo "▸ Step 2/12: Apply new elements..."
 python3 scripts/automation/generate-new-elements.py --apply
 python3 scripts/automation/generate-bulk-elements.py --apply
 
 # Step 2b: Add catch-all elements
 echo ""
-echo "▸ Step 2b/10: Add catch-all elements..."
+echo "▸ Step 2b/12: Add catch-all elements..."
 python3 -c "
 import json, sys
 sys.path.insert(0, 'scripts/automation')
@@ -47,7 +47,7 @@ print(f'Added {added} catch-all elements. Total: {len(elements)}')
 
 # Step 3: Clean merge into public/
 echo ""
-echo "▸ Step 3/10: Clean merge..."
+echo "▸ Step 3/12: Clean merge..."
 rm -rf public/data/elements public/data/recipes
 mkdir -p public/data/elements public/data/recipes
 echo '{"groups":{}}' > public/data/elements/index.json
@@ -56,17 +56,31 @@ npm run merge
 
 # Step 4: Apply intuitive recipe expansion
 echo ""
-echo "▸ Step 4/10: Intuitive recipe expansion..."
+echo "▸ Step 4/12: Intuitive recipe expansion..."
 python3 scripts/automation/expand-intuitive-recipes.py --apply
 
-# Step 5: Apply quality recipe generation (sub-mappings + catch-alls)
+# Step 5a: Wiki-based recipe generation (if wiki index exists)
+if [ -f scripts/automation/.wiki-index.json ]; then
+  echo ""
+  echo "▸ Step 5a/12: Wiki-based recipe generation..."
+  python3 scripts/automation/generate-wiki-recipes.py --apply
+fi
+
+# Step 5b: Apply quality recipe generation (sub-mappings + catch-alls)
 echo ""
-echo "▸ Step 5/10: Quality recipe generation..."
+echo "▸ Step 5b/12: Quality recipe generation..."
 python3 scripts/automation/generate-quality-recipes.py --apply
+
+# Step 5c: LLM recipe generation (if llm-recipes exist, merge them)
+if [ -f proposed/llm-recipes.json ]; then
+  echo ""
+  echo "▸ Step 5c/12: Merging LLM recipes..."
+  python3 scripts/automation/generate-llm-recipes.py --collect --no-merge 2>/dev/null || true
+fi
 
 # Step 6: Re-merge with all recipes
 echo ""
-echo "▸ Step 6/10: Final merge..."
+echo "▸ Step 6/12: Final merge..."
 rm -rf public/data/elements public/data/recipes
 mkdir -p public/data/elements public/data/recipes
 echo '{"groups":{}}' > public/data/elements/index.json
@@ -75,22 +89,36 @@ npm run merge
 
 # Step 7: Re-apply intuitive expansion on final data
 echo ""
-echo "▸ Step 7/10: Final intuitive expansion..."
+echo "▸ Step 7/12: Final intuitive expansion..."
 python3 scripts/automation/expand-intuitive-recipes.py --apply
 
 # Step 8: Generate icon bundles
 echo ""
-echo "▸ Step 8/10: Generate icon bundles..."
+echo "▸ Step 8/12: Generate icon bundles..."
 python3 scripts/automation/generate-icon-bundles.py
 
 # Step 9: Generate save state presets
 echo ""
-echo "▸ Step 9/10: Generate save states..."
+echo "▸ Step 9/12: Generate save states..."
 python3 scripts/automation/generate-savestates.py
 
-# Step 10: Validate + Build
+# Step 10: Recipe audit
 echo ""
-echo "▸ Step 10/10: Validate & build..."
+echo "▸ Step 10/12: Recipe audit..."
+python3 scripts/automation/audit-recipes.py --cap 150
+
+# Step 11: Re-merge after audit
+echo ""
+echo "▸ Step 11/12: Re-merge after audit..."
+rm -rf public/data/elements public/data/recipes
+mkdir -p public/data/elements public/data/recipes
+echo '{"groups":{}}' > public/data/elements/index.json
+echo '{"combos":{}}' > public/data/recipes/index.json
+npm run merge
+
+# Step 12: Validate + Build
+echo ""
+echo "▸ Step 12/12: Validate & build..."
 npm run validate
 npm run build
 

@@ -215,7 +215,10 @@ def main():
             return False
         if result == a or result == b:
             return False
+        if result_counts[result] >= MAX_PER_RESULT_GLOBAL:
+            return False
         new_recipes[key] = (result, reasoning)
+        result_counts[result] += 1
         stats[category] += 1
         return True
 
@@ -514,8 +517,12 @@ def main():
 
     # Process tag rules
     result_counts = Counter()
-    MAX_PER_RESULT = 300
-    MAX_PER_TAG_RULE = 200
+    # Count existing recipes per result to enforce global cap
+    for key, (result_id, _) in existing.items():
+        result_counts[result_id] += 1
+    MAX_PER_RESULT = 50
+    MAX_PER_TAG_RULE = 50
+    MAX_PER_RESULT_GLOBAL = 150  # Hard cap across ALL sources (existing + new)
 
     for tag_a, tag_b, result_options in TAG_RULES:
         els_a = tag_els.get(tag_a, [])
@@ -534,6 +541,7 @@ def main():
                     if result_id not in elements: continue
                     if result_id == ea or result_id == eb: continue
                     if result_counts[result_id] >= MAX_PER_RESULT: continue
+                    if result_counts[result_id] >= MAX_PER_RESULT_GLOBAL: continue
 
                     an = elements[ea].get('name', ea)
                     bn = elements[eb].get('name', eb)
@@ -663,26 +671,58 @@ def main():
 
     # ═══════════════════════════════════════════════════════════════════════
     # 11. GROUP CATCH-ALLS (funny last resort for every group pair)
+    #     Now with result rotation: picks from group members as alternatives
+    #     to avoid one result dominating.
     # ═══════════════════════════════════════════════════════════════════════
-    print("  Group catch-alls...")
+    print("  Group catch-alls (diversified)...")
     all_recipe_keys = existing_keys | set(new_recipes.keys())
 
+    MAX_CATCHALL_PER_PAIR = 80  # Much lower cap per group pair
+
+    # Build alternative result pools per group pair
+    # For each pair, the primary catch-all is the designated one,
+    # plus we add other elements from the result group as alternatives
+    def build_catchall_pool(info, groups_list):
+        """Build a pool of (result_id, reasoning_template) alternatives."""
+        primary_id = info['id']
+        primary_reasoning = info['reasoning']
+        result_group = info.get('group', '')
+        pool = [(primary_id, primary_reasoning)]
+
+        # Add alternatives from the same group as the primary result
+        group_members = by_group.get(result_group, [])
+        # Pick diverse alternatives that already exist
+        alternatives = [eid for eid in group_members
+                        if eid != primary_id and eid in elements]
+        # Sort deterministically, take up to 8 extras
+        alternatives.sort(key=lambda e: stable_hash(f"pool:{e}:{','.join(groups_list)}"))
+        for alt in alternatives[:8]:
+            alt_name = elements[alt].get('name', alt)
+            # Generate varied reasoning templates
+            h = stable_hash(f"reason:{alt}:{','.join(groups_list)}")
+            templates = [
+                f"{{a}} + {{b}} makes you think of {alt_name}. That's just how it works.",
+                f"Mix {{a}} with {{b}} and {alt_name} is what emerges.",
+                f"{{a}} and {{b}} collide — {alt_name} is born from the chaos.",
+                f"The universe says {{a}} + {{b}} = {alt_name}. Who are we to argue?",
+                f"Somehow, {{a}} and {{b}} combine into {alt_name}. Nature is creative.",
+            ]
+            pool.append((alt, templates[h % len(templates)]))
+        return pool
+
     for group_pair, info in GROUP_CATCHALLS.items():
-        result_id = info['id']
-        reasoning_tmpl = info['reasoning']
         groups_list = sorted(group_pair)
 
         if len(groups_list) == 1:
-            # Self-pair: elements from same group
             ga = gb = groups_list[0]
         else:
             ga, gb = groups_list
 
+        pool = build_catchall_pool(info, groups_list)
         ga_els = sorted(by_group.get(ga, []), key=lambda e: stable_hash(f"ca:{ga}:{e}"))
         gb_els = sorted(by_group.get(gb, []), key=lambda e: stable_hash(f"ca:{gb}:{e}"))
 
         catchall_count = 0
-        MAX_CATCHALL_PER_PAIR = 500  # Limit per group pair
 
         for ea in ga_els:
             if catchall_count >= MAX_CATCHALL_PER_PAIR:
@@ -697,12 +737,33 @@ def main():
                 if key in all_recipe_keys or key in new_recipes:
                     continue
 
-                an = elements[ea].get('name', ea)
-                bn = elements[eb].get('name', eb)
-                reasoning = reasoning_tmpl.replace('{a}', an).replace('{b}', bn)
-                new_recipes[key] = (result_id, reasoning)
-                stats["group_catchall"] += 1
-                catchall_count += 1
+                # Rotate through pool based on pair hash
+                pair_hash = stable_hash(f"catchall:{key}")
+                # Try pool members in rotation order, skip if at global cap
+                added = False
+                for offset in range(len(pool)):
+                    idx = (pair_hash + offset) % len(pool)
+                    result_id, reasoning_tmpl = pool[idx]
+                    if result_id not in elements:
+                        continue
+                    if result_counts[result_id] >= MAX_PER_RESULT_GLOBAL:
+                        continue
+                    if result_id == ea or result_id == eb:
+                        continue
+
+                    an = elements[ea].get('name', ea)
+                    bn = elements[eb].get('name', eb)
+                    reasoning = reasoning_tmpl.replace('{a}', an).replace('{b}', bn)
+                    new_recipes[key] = (result_id, reasoning)
+                    result_counts[result_id] += 1
+                    stats["group_catchall"] += 1
+                    catchall_count += 1
+                    added = True
+                    break
+
+                if not added:
+                    # All pool members at cap — skip this pair
+                    pass
 
     # ═══════════════════════════════════════════════════════════════════════
     # Stats
