@@ -449,6 +449,10 @@ function App() {
     const [a, b] = key.split('+');
 
     setHintHighlight([a, b]);
+    // On mobile, open the library so the user can see the highlighted elements
+    if (window.innerWidth <= 768) {
+      setMobileSidebarOpen(true);
+    }
     setTimeout(() => setHintHighlight(null), 1500);
 
     const newCount = hintCount + 1;
@@ -578,7 +582,7 @@ function App() {
             <Library
               discovered={discovered}
               totalCount={getTotalElementCount()}
-              onSpawn={(type) => { spawnElement(type); setMobileSidebarOpen(false); }}
+              onSpawn={(type) => { spawnElement(type); }}
               iconCacheBust={iconCacheBust}
               showNames={showNames}
               lastUsed={lastUsed}
