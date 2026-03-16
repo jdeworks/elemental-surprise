@@ -5,6 +5,20 @@ interface MatchReport {
   bySource?: Record<string, string[]>;
 }
 
+interface MasterIndex {
+  groups: Record<string, { elementCount: number; bucketCount: number }>;
+}
+
+interface GroupIndex {
+  buckets: Record<string, string>;
+  elementToBucket: Record<string, string>;
+}
+
+interface ElementDef {
+  id: string;
+  group?: string;
+}
+
 function copyFileIfExists(from: string, to: string): void {
   if (!fs.existsSync(from)) return;
   fs.mkdirSync(path.dirname(to), { recursive: true });
@@ -40,7 +54,37 @@ function expectedSvgFilesFromReport(sourceDir: string): Set<string> | null {
   return ids.size > 0 ? ids : null;
 }
 
-function copyMatchedIcons(sourceDir: string, targetDir: string): { copied: number; removed: number } {
+/** Build a map of element ID → group slug by reading the hierarchical data. */
+function loadElementGroups(dataDir: string): Map<string, string> {
+  const map = new Map<string, string>();
+  const masterPath = path.join(dataDir, 'data', 'elements', 'index.json');
+  if (!fs.existsSync(masterPath)) return map;
+
+  const master = JSON.parse(fs.readFileSync(masterPath, 'utf8')) as MasterIndex;
+  for (const groupSlug of Object.keys(master.groups)) {
+    const groupDir = path.join(dataDir, 'data', 'elements', 'by-group', groupSlug);
+    const groupIndexPath = path.join(groupDir, 'index.json');
+    if (!fs.existsSync(groupIndexPath)) continue;
+    const groupIndex = JSON.parse(fs.readFileSync(groupIndexPath, 'utf8')) as GroupIndex;
+
+    for (const bucketFile of Object.values(groupIndex.buckets)) {
+      const bucketPath = path.join(groupDir, bucketFile);
+      if (!fs.existsSync(bucketPath)) continue;
+      const bucket = JSON.parse(fs.readFileSync(bucketPath, 'utf8')) as Record<string, ElementDef>;
+      for (const [id, el] of Object.entries(bucket)) {
+        const slug = (el.group || groupSlug).toLowerCase().replace(/\s+/g, '-');
+        map.set(id, slug);
+      }
+    }
+  }
+  return map;
+}
+
+function copyMatchedIcons(
+  sourceDir: string,
+  targetDir: string,
+  elementGroups: Map<string, string>,
+): { copied: number; groupCopied: number } {
   if (!fs.existsSync(sourceDir)) {
     throw new Error(`Matched icons directory not found: ${sourceDir}`);
   }
@@ -52,33 +96,37 @@ function copyMatchedIcons(sourceDir: string, targetDir: string): { copied: numbe
     .readdirSync(sourceDir)
     .filter((name) => name.endsWith('.svg'))
     .filter((name) => (expectedFromReport ? expectedFromReport.has(name) : true));
-  const sourceSet = new Set(sourceFiles);
+
+  let groupCopied = 0;
 
   for (const fileName of sourceFiles) {
     const from = path.join(sourceDir, fileName);
-    const to = path.join(targetDir, fileName);
-    fs.copyFileSync(from, to);
-  }
+    const elementId = fileName.replace('.svg', '');
 
-  let removed = 0;
-  const targetFiles = fs.readdirSync(targetDir).filter((name) => name.endsWith('.svg'));
-  for (const fileName of targetFiles) {
-    if (!sourceSet.has(fileName)) {
-      fs.unlinkSync(path.join(targetDir, fileName));
-      removed += 1;
+    // Copy to group subdirectory (primary — this is what elements reference)
+    const groupSlug = elementGroups.get(elementId);
+    if (groupSlug) {
+      const groupDir = path.join(targetDir, groupSlug);
+      fs.mkdirSync(groupDir, { recursive: true });
+      fs.copyFileSync(from, path.join(groupDir, fileName));
+      groupCopied++;
     }
   }
 
-  return { copied: sourceFiles.length, removed };
+  return { copied: sourceFiles.length, groupCopied };
 }
 
 function main(): void {
   const repoRoot = path.resolve(import.meta.dirname, '..');
   const sourceDir = path.join(repoRoot, 'icon-matcher', 'output', 'matched-icons');
   const targetDir = path.join(repoRoot, 'public', 'icons');
+  const dataDir = path.join(repoRoot, 'public');
   const attributionDir = path.join(repoRoot, 'public', 'attribution');
 
-  const result = copyMatchedIcons(sourceDir, targetDir);
+  const elementGroups = loadElementGroups(dataDir);
+  console.log(`Loaded group info for ${elementGroups.size} elements`);
+
+  const result = copyMatchedIcons(sourceDir, targetDir, elementGroups);
 
   fs.mkdirSync(attributionDir, { recursive: true });
   copyFileIfExists(path.join(sourceDir, '_NOTICE.txt'), path.join(attributionDir, 'NOTICE.txt'));
@@ -86,10 +134,7 @@ function main(): void {
   copyFileIfExists(path.join(sourceDir, '_attribution-full.json'), path.join(attributionDir, 'attribution-full.json'));
   copyDirIfExists(path.join(sourceDir, '_licenses'), path.join(attributionDir, 'licenses'));
 
-  console.log(`Copied ${result.copied} matched icons to ${targetDir}`);
-  if (result.removed > 0) {
-    console.log(`Removed ${result.removed} stale icons from ${targetDir}`);
-  }
+  console.log(`Synced ${result.groupCopied} icons to group subdirectories in ${targetDir}`);
   console.log(`Updated attribution artifacts in ${attributionDir}`);
 }
 
