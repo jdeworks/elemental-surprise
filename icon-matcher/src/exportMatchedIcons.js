@@ -351,14 +351,66 @@ function resolveGameIconFuzzy(gameIndex, element, usedIcons) {
 function loadSourceOverrides(overridesPath) {
   const resolved = path.resolve(process.cwd(), overridesPath);
   if (!fs.existsSync(resolved)) {
-    return { brand: {}, fluent: {}, gameicons: {} };
+    return { brand: {}, fluent: {}, gameicons: {}, tabler: {}, phosphor: {}, lucide: {} };
   }
   const parsed = loadJson(resolved);
   return {
     brand: parsed.brand && typeof parsed.brand === 'object' ? parsed.brand : {},
     fluent: parsed.fluent && typeof parsed.fluent === 'object' ? parsed.fluent : {},
-    gameicons: parsed.gameicons && typeof parsed.gameicons === 'object' ? parsed.gameicons : {}
+    gameicons: parsed.gameicons && typeof parsed.gameicons === 'object' ? parsed.gameicons : {},
+    tabler: parsed.tabler && typeof parsed.tabler === 'object' ? parsed.tabler : {},
+    phosphor: parsed.phosphor && typeof parsed.phosphor === 'object' ? parsed.phosphor : {},
+    lucide: parsed.lucide && typeof parsed.lucide === 'object' ? parsed.lucide : {}
   };
+}
+
+function buildTablerIndex(tablerDir) {
+  const index = new Map();
+  if (!fs.existsSync(tablerDir)) return index;
+  for (const sub of ['outline', 'filled']) {
+    const dir = path.join(tablerDir, sub);
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((n) => n.endsWith('.svg'));
+    for (const file of files) {
+      const base = file.slice(0, -4);
+      const normalized = normalizeKey(base);
+      if (!index.has(normalized)) index.set(normalized, path.join(dir, file));
+    }
+  }
+  return index;
+}
+
+function buildPhosphorIndex(phosphorDir) {
+  const index = new Map();
+  if (!fs.existsSync(phosphorDir)) return index;
+  for (const weight of ['regular', 'fill', 'bold']) {
+    const dir = path.join(phosphorDir, weight);
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((n) => n.endsWith('.svg'));
+    for (const file of files) {
+      const base = file.slice(0, -4);
+      const normalized = normalizeKey(base);
+      if (!index.has(normalized)) index.set(normalized, path.join(dir, file));
+    }
+  }
+  return index;
+}
+
+function buildLucideIndex(lucideDir) {
+  const index = new Map();
+  if (!fs.existsSync(lucideDir)) return index;
+  // Lucide may store icons directly or in an icons/ subfolder
+  const dirs = [lucideDir, path.join(lucideDir, 'icons')];
+  for (const dir of dirs) {
+    if (!fs.existsSync(dir)) continue;
+    const files = fs.readdirSync(dir).filter((n) => n.endsWith('.svg'));
+    for (const file of files) {
+      const base = file.slice(0, -4);
+      const normalized = normalizeKey(base);
+      if (!index.has(normalized)) index.set(normalized, path.join(dir, file));
+    }
+  }
+  return index;
 }
 
 function resolveByAlias(index, aliasMap, element) {
@@ -454,6 +506,9 @@ function selectBestVisualCandidate({
   notoDir,
   fluentIndex,
   gameIndex,
+  tablerIndex,
+  phosphorIndex,
+  lucideIndex,
   sourceOverrides,
   usedIcons
 }) {
@@ -463,24 +518,24 @@ function selectBestVisualCandidate({
 
   const candidates = [];
 
-  const forcedFluent = resolveByAlias(fluentIndex, sourceOverrides.fluent, element);
-  if (forcedFluent) {
-    candidates.push({
-      source: 'fluent',
-      path: forcedFluent,
-      reason: 'source-override',
-      score: 120
-    });
-  }
-
-  const forcedGame = resolveByAlias(gameIndex, sourceOverrides.gameicons, element);
-  if (forcedGame) {
-    candidates.push({
-      source: 'gameicons',
-      path: forcedGame,
-      reason: 'source-override',
-      score: 120
-    });
+  // Source overrides (highest priority — includes semantic matches)
+  const overrideSources = [
+    ['fluent', fluentIndex, sourceOverrides.fluent],
+    ['gameicons', gameIndex, sourceOverrides.gameicons],
+    ['tabler', tablerIndex, sourceOverrides.tabler],
+    ['phosphor', phosphorIndex, sourceOverrides.phosphor],
+    ['lucide', lucideIndex, sourceOverrides.lucide],
+  ];
+  for (const [source, index, aliases] of overrideSources) {
+    const forced = resolveByAlias(index, aliases, element);
+    if (forced) {
+      candidates.push({
+        source,
+        path: forced,
+        reason: 'source-override',
+        score: 120
+      });
+    }
   }
 
   const emojiCandidates = buildEmojiCandidatesByCode(mapped, openmojiDir, twemojiDir, notoDir);
@@ -593,6 +648,21 @@ function sourceLicenseMeta(source) {
       attribution: 'Game-icons.net contributors',
       url: 'https://game-icons.net/'
     },
+    tabler: {
+      license: 'MIT',
+      attribution: 'Tabler Icons',
+      url: 'https://tabler.io/icons'
+    },
+    phosphor: {
+      license: 'MIT',
+      attribution: 'Phosphor Icons',
+      url: 'https://phosphoricons.com/'
+    },
+    lucide: {
+      license: 'ISC',
+      attribution: 'Lucide Icons',
+      url: 'https://lucide.dev/'
+    },
     brand: {
       license: 'CC0 1.0',
       attribution: 'Simple Icons contributors',
@@ -695,6 +765,17 @@ function main() {
 
   const fluentIndex = buildFluentIndex(fluentDir);
   const gameIndex = buildGameIconIndex(gameDir);
+
+  // New icon sources
+  const tablerDir = path.resolve(process.cwd(), nodeModulesBase ? path.join(nodeModulesBase, '@tabler/icons/icons') : 'node_modules/@tabler/icons/icons');
+  const phosphorDir = path.resolve(process.cwd(), nodeModulesBase ? path.join(nodeModulesBase, '@phosphor-icons/core/assets') : 'node_modules/@phosphor-icons/core/assets');
+  const lucideDir = path.resolve(process.cwd(), nodeModulesBase ? path.join(nodeModulesBase, 'lucide-static') : 'node_modules/lucide-static');
+  const tablerIndex = buildTablerIndex(tablerDir);
+  const phosphorIndex = buildPhosphorIndex(phosphorDir);
+  const lucideIndex = buildLucideIndex(lucideDir);
+
+  console.log(`Indexes: openmoji=${fs.readdirSync(openmojiDir).length}, game=${gameIndex.size}, fluent=${fluentIndex.size}, tabler=${tablerIndex.size}, phosphor=${phosphorIndex.size}, lucide=${lucideIndex.size}`);
+
   const simpleIconsMetaBySlug = buildSimpleIconsMetaBySlug();
 
   const report = {
@@ -710,6 +791,9 @@ function main() {
       noto: [],
       fluent: [],
       gameicons: [],
+      tabler: [],
+      phosphor: [],
+      lucide: [],
       brand: [],
       default: []
     },
@@ -719,6 +803,9 @@ function main() {
       noto: {},
       fluent: {},
       gameicons: {},
+      tabler: {},
+      phosphor: {},
+      lucide: {},
       brand: {},
       default: {}
     },
@@ -728,6 +815,9 @@ function main() {
       noto: 0,
       fluent: 0,
       gameicons: 0,
+      tabler: 0,
+      phosphor: 0,
+      lucide: 0,
       brand: 0,
       default: 0
     },
@@ -779,6 +869,9 @@ function main() {
         notoDir,
         fluentIndex,
         gameIndex,
+        tablerIndex,
+        phosphorIndex,
+        lucideIndex,
         sourceOverrides,
         usedIcons
       });
