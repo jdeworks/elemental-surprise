@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import type { DragEndEvent, DragStartEvent, DragOverEvent } from '@dnd-kit/core';
-import { DndContext, DragOverlay, useSensor, useSensors, PointerSensor, KeyboardSensor } from '@dnd-kit/core';
+import { DndContext, DragOverlay, useSensor, useSensors, PointerSensor, KeyboardSensor, TouchSensor } from '@dnd-kit/core';
 import { sortableKeyboardCoordinates } from '@dnd-kit/sortable';
 import { Library } from './components/Library';
 import { Workspace } from './components/Workspace';
@@ -142,6 +142,7 @@ function App() {
   const [unlockedAchievements, setUnlockedAchievements] = useState<string[]>(loadUnlocked);
   const [achievementToast, setAchievementToast] = useState<string | null>(null);
   const [achievementsModalOpen, setAchievementsModalOpen] = useState(false);
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
@@ -173,6 +174,12 @@ function App() {
     useSensor(PointerSensor, {
       activationConstraint: {
         distance: 8,
+      },
+    }),
+    useSensor(TouchSensor, {
+      activationConstraint: {
+        delay: 200,
+        tolerance: 5,
       },
     }),
     useSensor(KeyboardSensor, {
@@ -504,27 +511,38 @@ function App() {
           )}
         </header>
         <main className="app-main">
-          <Library
-            discovered={discovered}
-            totalCount={getTotalElementCount()}
-            onSpawn={spawnElement}
-            iconCacheBust={iconCacheBust}
-            showNames={showNames}
-            lastUsed={lastUsed}
-            hintHighlight={hintHighlight}
-            onToggleShowNames={() => {
-              setShowNames(prev => {
-                const next = !prev;
-                try { localStorage.setItem('es_showNames', String(next)); } catch {}
-                return next;
-              });
-            }}
-            onSearchUsed={() => { if (!stats.searchUsed) updateStat('searchUsed', true); }}
-            onGroupFilterUsed={() => { if (!stats.groupFilterUsed) updateStat('groupFilterUsed', true); }}
-            onViewToggle={() => updateStat('viewToggleCount', stats.viewToggleCount + 1)}
-            onLinkClicked={() => updateStat('wikiLinksClicked', stats.wikiLinksClicked + 1)}
-          />
+          {mobileSidebarOpen && <div className="mobile-sidebar-backdrop" onClick={() => setMobileSidebarOpen(false)} />}
+          <div className={`library-container ${mobileSidebarOpen ? 'open' : ''}`}>
+            <Library
+              discovered={discovered}
+              totalCount={getTotalElementCount()}
+              onSpawn={(type) => { spawnElement(type); setMobileSidebarOpen(false); }}
+              iconCacheBust={iconCacheBust}
+              showNames={showNames}
+              lastUsed={lastUsed}
+              hintHighlight={hintHighlight}
+              onToggleShowNames={() => {
+                setShowNames(prev => {
+                  const next = !prev;
+                  try { localStorage.setItem('es_showNames', String(next)); } catch {}
+                  return next;
+                });
+              }}
+              onSearchUsed={() => { if (!stats.searchUsed) updateStat('searchUsed', true); }}
+              onGroupFilterUsed={() => { if (!stats.groupFilterUsed) updateStat('groupFilterUsed', true); }}
+              onViewToggle={() => updateStat('viewToggleCount', stats.viewToggleCount + 1)}
+              onLinkClicked={() => updateStat('wikiLinksClicked', stats.wikiLinksClicked + 1)}
+            />
+          </div>
           <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} />
+          <button
+            type="button"
+            className="mobile-sidebar-toggle"
+            onClick={() => setMobileSidebarOpen(prev => !prev)}
+            aria-label={mobileSidebarOpen ? 'Close elements' : 'Open elements'}
+          >
+            {mobileSidebarOpen ? '✕' : '☰'}
+          </button>
         </main>
         <footer className="app-footer">
           Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0 / CC0 where noted). Full attribution: <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">NOTICE</a>.

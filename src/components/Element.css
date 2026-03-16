@@ -9,6 +9,7 @@
   background: #fff;
   cursor: grab;
   user-select: none;
+  touch-action: none;
   transition: box-shadow 0.2s, transform 0.1s, border-color 0.15s, background 0.15s;
 }
 

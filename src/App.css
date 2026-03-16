@@ -375,3 +375,143 @@
   white-space: nowrap;
   font-style: italic;
 }
+
+/* Mobile sidebar toggle (hidden on desktop) */
+.mobile-sidebar-toggle {
+  display: none;
+}
+
+.mobile-sidebar-backdrop {
+  display: none;
+}
+
+/* ── Responsive / Mobile ────────────────────────── */
+
+@media (max-width: 768px) {
+  .app-header {
+    padding: 10px 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+
+  .app-header h1 {
+    font-size: 16px;
+  }
+
+  .app-header-left {
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .app-header-btn {
+    padding: 6px 8px;
+    font-size: 11px;
+  }
+
+  .app-header-actions {
+    gap: 4px;
+  }
+
+  .app-main {
+    position: relative;
+    flex-direction: column;
+  }
+
+  /* Library as slide-over panel on mobile */
+  .library-container {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 50vh;
+    z-index: 50;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+    background: #fafafa;
+    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 16px 16px 0 0;
+    overflow: hidden;
+  }
+
+  .library-container.open {
+    transform: translateY(0);
+  }
+
+  .library-container .library {
+    width: 100%;
+    height: 100%;
+    border-right: none;
+  }
+
+  .mobile-sidebar-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.3);
+    z-index: 49;
+  }
+
+  .mobile-sidebar-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background: #333;
+    color: white;
+    font-size: 22px;
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    z-index: 60;
+    cursor: pointer;
+  }
+
+  .mobile-sidebar-toggle:active {
+    background: #555;
+  }
+
+  /* Modals responsive */
+  .modal {
+    width: 95vw;
+    max-height: 85vh;
+  }
+
+  .recipes-modal {
+    width: 95vw;
+  }
+
+  .achievements-modal {
+    width: 95vw;
+  }
+
+  .settings-sidebar {
+    width: 100vw;
+    max-width: 100vw;
+  }
+
+  .tutorial-modal {
+    width: 95vw;
+  }
+
+  /* Footer compact */
+  .app-footer {
+    padding: 8px 12px;
+    font-size: 10px;
+  }
+
+  /* Discovery toast responsive */
+  .discovery-toast {
+    font-size: 13px;
+    padding: 8px 16px;
+    white-space: nowrap;
+  }
+
+  .achievement-toast {
+    font-size: 13px;
+    padding: 8px 16px;
+  }
+}
