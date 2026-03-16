@@ -500,7 +500,7 @@ function App() {
             <h1>Elemental Surprise</h1>
             <button
               type="button"
-              className="app-header-btn"
+              className="app-header-btn desktop-only"
               onClick={() => { setWorkspaceElements([]); updateStat('workspaceCleared', stats.workspaceCleared + 1); }}
               title="Remove all elements from the workspace"
             >
@@ -508,7 +508,7 @@ function App() {
             </button>
             <button
               type="button"
-              className="app-header-btn"
+              className="app-header-btn desktop-only"
               onClick={() => { setRecipesModalOpen(true); updateStat('recipesModalOpened', stats.recipesModalOpened + 1); }}
               title="Show recipes you have discovered"
             >
@@ -516,7 +516,7 @@ function App() {
             </button>
             <button
               type="button"
-              className="app-header-btn"
+              className="app-header-btn desktop-only"
               onClick={() => setAchievementsModalOpen(true)}
               title="View achievements"
             >
@@ -530,12 +530,23 @@ function App() {
               onClick={handleHint}
               disabled={hintCooldown}
               title="Show a hint for an undiscovered combination"
+              aria-label="Hint"
             >
-              Hint
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="hint-icon"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/></svg>
+              <span className="btn-label">Hint</span>
             </button>
             <button
               type="button"
-              className="app-header-btn app-header-btn-icon"
+              className="app-header-btn app-header-btn-icon mobile-only"
+              onClick={() => { setWorkspaceElements([]); updateStat('workspaceCleared', stats.workspaceCleared + 1); }}
+              title="Clear workspace"
+              aria-label="Clear workspace"
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg>
+            </button>
+            <button
+              type="button"
+              className="app-header-btn app-header-btn-icon desktop-only"
               onClick={() => setShowTutorial(true)}
               title="How to play"
               aria-label="How to play"
@@ -633,6 +644,39 @@ function App() {
                 </button>
               </div>
               <div className="settings-sidebar-actions">
+                <button
+                  type="button"
+                  className="settings-sidebar-btn"
+                  onClick={() => { setRecipesModalOpen(true); setSettingsOpen(false); updateStat('recipesModalOpened', stats.recipesModalOpened + 1); }}
+                  title="Show recipes you have discovered"
+                >
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20" /><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z" />
+                  </svg>
+                  Discovered recipes
+                </button>
+                <button
+                  type="button"
+                  className="settings-sidebar-btn"
+                  onClick={() => { setAchievementsModalOpen(true); setSettingsOpen(false); }}
+                  title="View achievements"
+                >
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <circle cx="12" cy="8" r="7" /><polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88" />
+                  </svg>
+                  Achievements
+                </button>
+                <button
+                  type="button"
+                  className="settings-sidebar-btn"
+                  onClick={() => { setShowTutorial(true); setSettingsOpen(false); }}
+                  title="How to play"
+                >
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <circle cx="12" cy="12" r="10" /><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" /><line x1="12" y1="17" x2="12.01" y2="17" />
+                  </svg>
+                  How to play
+                </button>
                 <button
                   type="button"
                   className="settings-sidebar-btn"
