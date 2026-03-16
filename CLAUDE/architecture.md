@@ -6,11 +6,14 @@
 - @dnd-kit for drag & drop
 - jsDelivr CDN for runtime data/icon delivery (no rebuild needed for content changes)
 - GitHub Pages hosting (output: `docs/`)
-- localStorage for player progress
+- localStorage for player progress, stats, and achievements
+- Mobile-responsive with touch drag-and-drop support
 
 ## Project Layout
 
 - `src/` — React app (components, data loader, services, types, utils)
+- `src/services/` — Game state: storage (obfuscated save), stats (playtime, clicks), achievements
+- `scripts/automation/` — Python scripts for bulk content tasks (icons, reasonings, combinations)
 - `public/` — Runtime data and icons (elements, recipes, bucket files, SVG icons)
 - `public/data/` — Bucket mode: split JSON files with two-level indexes
 - `scripts/` — Content pipeline (generate, validate, merge, expand, evaluate, icons)

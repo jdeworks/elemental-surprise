@@ -38,11 +38,31 @@ Or use `npm run content:refresh:with-extensions` for all-in-one.
 - Every element has a group assignment
 - Every recipe has a reasoning (warning if missing)
 
+## Automation Scripts (Python)
+
+Reusable scripts for bulk content quality tasks. All cache Wikipedia fetches in `.wiki-cache/` (gitignored).
+
+```bash
+npm run auto:icons          # Audit duplicate icons, auto-fix via custom-overrides.json
+npm run auto:reasonings     # Generate Wikipedia-based educational recipe reasonings
+npm run auto:combinations   # Suggest new recipes via Wikipedia link analysis
+npm run auto:all            # Run all three + validate
+```
+
+Chunk support for large runs:
+```bash
+python3 scripts/automation/generate-reasonings.py --apply --chunk 0 --chunk-size 100
+python3 scripts/automation/generate-combinations.py --apply --recipes-only --chunk 0 --chunk-size 100
+```
+
 ## Key Scripts
 
 - `scripts/generate-elements.ts` — builds elements/recipes from curated recipe tree (~1700 triples)
 - `scripts/validate.ts` — data validation
 - `scripts/merge.ts` — proposed → public with bucket file generation
 - `scripts/expand-recipes.ts` — expand recipe combinations
+- `scripts/automation/audit-icons.py` — find and fix duplicate icon codepoint mappings
+- `scripts/automation/generate-reasonings.py` — Wikipedia-sourced educational recipe reasonings
+- `scripts/automation/generate-combinations.py` — Wikipedia link analysis for new recipe suggestions
 - `scripts/lib/load-data.ts` — shared data loader (ElementDef, GameData)
 - `scripts/lib/reachability.ts` — graph algorithms for reachability/depth
