@@ -357,6 +357,7 @@ function App() {
             onSpawn={spawnElement}
             iconCacheBust={iconCacheBust}
             showNames={showNames}
+            lastUsed={lastUsed}
             onToggleShowNames={() => {
               setShowNames(prev => {
                 const next = !prev;

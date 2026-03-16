@@ -1,7 +1,9 @@
-import { useState, useMemo } from 'react';
+import React, { useState, useMemo } from 'react';
 import { getAllElements } from '../data/loader';
 import { getIconUrl } from '../utils/iconUrl';
 import './Library.css';
+
+type SortMode = 'alpha' | 'date' | 'group';
 
 export interface LibraryProps {
   discovered: string[];
@@ -10,11 +12,15 @@ export interface LibraryProps {
   iconCacheBust?: number;
   showNames: boolean;
   onToggleShowNames: () => void;
+  lastUsed: Record<string, number>;
 }
 
-export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames }: LibraryProps) {
+export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames, lastUsed }: LibraryProps) {
   const [search, setSearch] = useState('');
   const [selectedGroup, setSelectedGroup] = useState('');
+  const [sortMode, setSortMode] = useState<SortMode>(
+    () => (localStorage.getItem('es_sortMode') as SortMode) || 'date'
+  );
   const allElements = getAllElements();
   const availableElements = useMemo(
     () => allElements.filter(el => discovered.includes(el.id)),
@@ -38,6 +44,26 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
     }
     return result;
   }, [availableElements, search, selectedGroup]);
+
+  const sortedElements = useMemo(() => {
+    const list = [...filteredElements];
+    switch (sortMode) {
+      case 'alpha':
+        return list.sort((a, b) => a.name.localeCompare(b.name));
+      case 'date':
+        return list.sort((a, b) => (lastUsed[b.id] || 0) - (lastUsed[a.id] || 0));
+      case 'group':
+        return list.sort((a, b) => {
+          const groupCmp = (a.group || '').localeCompare(b.group || '');
+          return groupCmp !== 0 ? groupCmp : a.name.localeCompare(b.name);
+        });
+    }
+  }, [filteredElements, sortMode, lastUsed]);
+
+  const handleSortChange = (mode: SortMode) => {
+    setSortMode(mode);
+    localStorage.setItem('es_sortMode', mode);
+  };
 
   return (
     <div className="library" data-testid="library">
@@ -78,12 +104,22 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
           )}
         </button>
       </div>
+      <div className="library-sort-toggle">
+        <button type="button" className={`library-sort-btn ${sortMode === 'alpha' ? 'active' : ''}`} onClick={() => handleSortChange('alpha')}>A–Z</button>
+        <button type="button" className={`library-sort-btn ${sortMode === 'date' ? 'active' : ''}`} onClick={() => handleSortChange('date')}>Recent</button>
+        <button type="button" className={`library-sort-btn ${sortMode === 'group' ? 'active' : ''}`} onClick={() => handleSortChange('group')}>Group</button>
+      </div>
       <div className={`library-grid ${showNames ? 'library-grid-names' : 'library-grid-compact'}`}>
-        {filteredElements.map(element => {
+        {sortedElements.map((element, i) => {
+          const showGroupHeader = sortMode === 'group' &&
+            (i === 0 || element.group !== sortedElements[i - 1].group);
           const links = (element.links ?? []).slice(0, 3);
           return (
+            <React.Fragment key={element.id}>
+              {showGroupHeader && (
+                <div className="library-group-header">{element.group}</div>
+              )}
             <div
-              key={element.id}
               className={`library-item ${showNames ? '' : 'library-item-compact'}`}
               onClick={() => onSpawn(element.id)}
               title={showNames ? undefined : element.name}
@@ -117,6 +153,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
                 </>
               )}
             </div>
+            </React.Fragment>
           );
         })}
       </div>
