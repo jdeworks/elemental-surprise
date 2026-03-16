@@ -7,8 +7,13 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { loadData, getElement, getRecipe, getAllRecipes, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, toPublicUrl } from './data/loader';
+import { loadData, getElement, getRecipe, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, toPublicUrl } from './data/loader';
 import { Tutorial } from './components/Tutorial';
+import { AchievementsModal } from './components/AchievementsModal';
+import { loadStats, saveStats, clearStats } from './services/stats';
+import type { PlayerStats } from './services/stats';
+import { checkNewAchievements, loadUnlocked, saveUnlocked, clearUnlocked } from './services/achievements';
+import type { AchievementContext } from './services/achievements';
 import './App.css';
 
 let elementIdCounter = 0;
@@ -133,6 +138,10 @@ function App() {
   const [hintCount, setHintCount] = useState(
     () => parseInt(localStorage.getItem('es_hintCount') || '0', 10)
   );
+  const [stats, setStats] = useState<PlayerStats>(loadStats);
+  const [unlockedAchievements, setUnlockedAchievements] = useState<string[]>(loadUnlocked);
+  const [achievementToast, setAchievementToast] = useState<string | null>(null);
+  const [achievementsModalOpen, setAchievementsModalOpen] = useState(false);
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
@@ -180,6 +189,61 @@ function App() {
     saveGame({ discovered, discoveredRecipes, lastUsed, workspace: workspaceElements });
   }, [discovered, discoveredRecipes, lastUsed, workspaceElements]);
 
+  // Build achievement context and check for new achievements
+  const checkAchievements = useCallback((updatedStats: PlayerStats, updatedDiscovered?: string[]) => {
+    const disc = updatedDiscovered || discovered;
+    const allEls = getAllElements();
+    const groupTotals: Record<string, { discovered: number; total: number }> = {};
+    for (const el of allEls) {
+      const g = el.group || 'Unknown';
+      if (!groupTotals[g]) groupTotals[g] = { discovered: 0, total: 0 };
+      groupTotals[g].total++;
+      if (disc.includes(el.id)) groupTotals[g].discovered++;
+    }
+    const ctx: AchievementContext = {
+      stats: updatedStats,
+      discoveredCount: disc.length,
+      discoveredGroups: groupTotals,
+      hasFantasy: allEls.some(el => el.group === 'Fantasy' && disc.includes(el.id)),
+    };
+    const newlyUnlocked = checkNewAchievements(ctx, unlockedAchievements);
+    if (newlyUnlocked.length > 0) {
+      const updated = [...unlockedAchievements, ...newlyUnlocked.map(a => a.id)];
+      setUnlockedAchievements(updated);
+      saveUnlocked(updated);
+      // Show toast for the first new achievement
+      setAchievementToast(newlyUnlocked[0].name);
+      setTimeout(() => setAchievementToast(null), 3000);
+    }
+  }, [discovered, unlockedAchievements]);
+
+  const updateStat = useCallback(<K extends keyof PlayerStats>(key: K, value: PlayerStats[K]) => {
+    setStats(prev => {
+      const updated = { ...prev, [key]: value };
+      saveStats(updated);
+      checkAchievements(updated);
+      return updated;
+    });
+  }, [checkAchievements]);
+
+  // Playtime tracking
+  useEffect(() => {
+    const interval = setInterval(() => {
+      if (!document.hidden) {
+        setStats(prev => {
+          const updated = { ...prev, playtimeSeconds: prev.playtimeSeconds + 1 };
+          // Save every 10 seconds to reduce writes
+          if (updated.playtimeSeconds % 10 === 0) {
+            saveStats(updated);
+            checkAchievements(updated);
+          }
+          return updated;
+        });
+      }
+    }, 1000);
+    return () => clearInterval(interval);
+  }, [checkAchievements]);
+
   const spawnElement = useCallback((type: string) => {
     const newElement: WorkspaceElement = {
       id: generateId(),
@@ -187,14 +251,22 @@ function App() {
       x: 50 + Math.random() * 500,
       y: 50 + Math.random() * 400,
     };
-    setWorkspaceElements(prev => [...prev, newElement]);
-  }, []);
+    setWorkspaceElements(prev => {
+      const next = [...prev, newElement];
+      if (next.length > stats.maxWorkspaceElements) {
+        updateStat('maxWorkspaceElements', next.length);
+      }
+      return next;
+    });
+  }, [stats.maxWorkspaceElements, updateStat]);
 
   const discoverElement = useCallback((type: string) => {
     const now = Date.now();
     setLastUsed(prev => ({ ...prev, [type]: now }));
     if (!discovered.includes(type)) {
-      setDiscovered(prev => [...prev, type]);
+      const newDiscovered = [...discovered, type];
+      setDiscovered(newDiscovered);
+      checkAchievements(stats, newDiscovered);
       ensureElementLoaded(type).then(() => {
         const element = getElement(type);
         if (element) {
@@ -203,7 +275,7 @@ function App() {
         }
       });
     }
-  }, [discovered]);
+  }, [discovered, checkAchievements, stats]);
 
   const removeElement = useCallback((id: string) => {
     setWorkspaceElements(prev => prev.filter(el => el.id !== id));
@@ -225,6 +297,14 @@ function App() {
     const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
 
     if (overElement && overElement.id !== activeId) {
+      // Track self-combine attempts
+      if (activeElement.type === overElement.type) {
+        const result = getRecipe(activeElement.type, overElement.type);
+        if (!result) {
+          updateStat('selfCombineAttempts', stats.selfCombineAttempts + 1);
+        }
+      }
+
       // Dropped on another workspace element — try to combine
       const result = getRecipe(activeElement.type, overElement.type);
 
@@ -249,7 +329,11 @@ function App() {
         discoverElement(result);
       }
     } else {
-      // Dropped on empty space or same element — reposition
+      // Dropped on empty space — reposition
+      if (Math.abs(delta.x) < 3 && Math.abs(delta.y) < 3) {
+        // Barely moved — count as cancelled drag
+        updateStat('dragCancelled', stats.dragCancelled + 1);
+      }
       setWorkspaceElements(prev =>
         prev.map(el =>
           el.id === activeId
@@ -258,7 +342,7 @@ function App() {
         )
       );
     }
-  }, [workspaceElements, removeElement, discoverElement]);
+  }, [workspaceElements, removeElement, discoverElement, updateStat, stats]);
 
   const handleDragStart = useCallback((event: DragStartEvent) => {
     setActiveId(event.active.id as string);
@@ -309,10 +393,11 @@ function App() {
     const newCount = hintCount + 1;
     setHintCount(newCount);
     localStorage.setItem('es_hintCount', String(newCount));
+    updateStat('hintCount', newCount);
 
     setHintCooldown(true);
     setTimeout(() => setHintCooldown(false), 3000);
-  }, [hintCooldown, discovered, hintCount]);
+  }, [hintCooldown, discovered, hintCount, updateStat]);
 
   const handleCloseTutorial = useCallback(() => {
     setShowTutorial(false);
@@ -352,7 +437,7 @@ function App() {
             <button
               type="button"
               className="app-header-btn"
-              onClick={() => setWorkspaceElements([])}
+              onClick={() => { setWorkspaceElements([]); updateStat('workspaceCleared', stats.workspaceCleared + 1); }}
               title="Remove all elements from the workspace"
             >
               Clear workspace
@@ -360,10 +445,18 @@ function App() {
             <button
               type="button"
               className="app-header-btn"
-              onClick={() => setRecipesModalOpen(true)}
+              onClick={() => { setRecipesModalOpen(true); updateStat('recipesModalOpened', stats.recipesModalOpened + 1); }}
               title="Show recipes you have discovered"
             >
               Show discovered recipes
+            </button>
+            <button
+              type="button"
+              className="app-header-btn"
+              onClick={() => setAchievementsModalOpen(true)}
+              title="View achievements"
+            >
+              Achievements
             </button>
           </div>
           <div className="app-header-actions">
@@ -401,7 +494,12 @@ function App() {
           </div>
           {newDiscovery && (
             <div className="discovery-toast">
-              🎉 New element discovered: {newDiscovery}!
+              New element discovered: {newDiscovery}!
+            </div>
+          )}
+          {achievementToast && (
+            <div className="achievement-toast">
+              Achievement unlocked: {achievementToast}!
             </div>
           )}
         </header>
@@ -421,6 +519,10 @@ function App() {
                 return next;
               });
             }}
+            onSearchUsed={() => { if (!stats.searchUsed) updateStat('searchUsed', true); }}
+            onGroupFilterUsed={() => { if (!stats.groupFilterUsed) updateStat('groupFilterUsed', true); }}
+            onViewToggle={() => updateStat('viewToggleCount', stats.viewToggleCount + 1)}
+            onLinkClicked={() => updateStat('wikiLinksClicked', stats.wikiLinksClicked + 1)}
           />
           <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} />
         </main>
@@ -452,10 +554,14 @@ function App() {
                   className="settings-sidebar-btn"
                   onClick={() => {
                     clearGame();
+                    clearStats();
+                    clearUnlocked();
                     setDiscovered(['fire', 'water', 'earth', 'wind']);
                     setDiscoveredRecipes([]);
                     setLastUsed({});
                     setWorkspaceElements([]);
+                    setStats(loadStats());
+                    setUnlockedAchievements([]);
                     setSettingsOpen(false);
                   }}
                   title="Reset discovered elements and workspace, clear saved progress"
@@ -489,6 +595,13 @@ function App() {
 
         {showTutorial && (
           <Tutorial onClose={handleCloseTutorial} />
+        )}
+
+        {achievementsModalOpen && (
+          <AchievementsModal
+            unlocked={unlockedAchievements}
+            onClose={() => setAchievementsModalOpen(false)}
+          />
         )}
 
         {recipesModalOpen && (

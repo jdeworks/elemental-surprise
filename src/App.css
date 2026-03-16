@@ -83,6 +83,20 @@
   animation: fadeInOut 2s ease-in-out;
 }
 
+.achievement-toast {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  background: #FFD700;
+  color: #333;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+  animation: fadeInOut 3s ease-in-out;
+  white-space: nowrap;
+}
+
 @keyframes fadeInOut {
   0% { opacity: 0; transform: translateX(-50%) translateY(-10px); }
   20% { opacity: 1; transform: translateX(-50%) translateY(0); }

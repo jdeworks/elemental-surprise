@@ -14,9 +14,13 @@ export interface LibraryProps {
   onToggleShowNames: () => void;
   lastUsed: Record<string, number>;
   hintHighlight?: string[] | null;
+  onSearchUsed?: () => void;
+  onGroupFilterUsed?: () => void;
+  onViewToggle?: () => void;
+  onLinkClicked?: () => void;
 }
 
-export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames, lastUsed, hintHighlight }: LibraryProps) {
+export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames, lastUsed, hintHighlight, onSearchUsed, onGroupFilterUsed, onViewToggle, onLinkClicked }: LibraryProps) {
   const [search, setSearch] = useState('');
   const [selectedGroup, setSelectedGroup] = useState('');
   const [sortMode, setSortMode] = useState<SortMode>(
@@ -77,13 +81,13 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
           className="library-search"
           placeholder="Search by name..."
           value={search}
-          onChange={(e) => setSearch(e.target.value)}
+          onChange={(e) => { setSearch(e.target.value); if (e.target.value && onSearchUsed) onSearchUsed(); }}
           aria-label="Search elements by name"
         />
         <select
           className="library-filter"
           value={selectedGroup}
-          onChange={(e) => setSelectedGroup(e.target.value)}
+          onChange={(e) => { setSelectedGroup(e.target.value); if (e.target.value && onGroupFilterUsed) onGroupFilterUsed(); }}
           aria-label="Filter elements by group"
         >
           <option value="">All groups</option>
@@ -94,7 +98,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
         <button
           type="button"
           className="library-toggle-names"
-          onClick={onToggleShowNames}
+          onClick={() => { onToggleShowNames(); if (onViewToggle) onViewToggle(); }}
           title={showNames ? 'Switch to compact icon view' : 'Show element names'}
           aria-label={showNames ? 'Switch to compact icon view' : 'Show element names'}
         >
@@ -132,7 +136,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
                 <>
                   <span className="library-name">{element.name}</span>
                   {links.length > 0 && (
-                    <div className="library-item-links" onClick={(e) => e.stopPropagation()}>
+                    <div className="library-item-links" onClick={(e) => { e.stopPropagation(); if (onLinkClicked) onLinkClicked(); }}>
                       {links.map((link, i) => (
                         <a
                           key={i}
