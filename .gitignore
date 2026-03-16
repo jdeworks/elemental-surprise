@@ -53,6 +53,9 @@ icon-matcher/data/unicode-emoji.json
 icon-matcher/data/elements-mapped.json
 icon-matcher/data/elements-mapped-details.json
 
+# Individual SVG icons (staging area; bundled into public/data/icons/*.json)
+public/icons/
+
 # Automation cache and audit output
 scripts/automation/.wiki-cache/
 scripts/automation/audit-output/

@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { getAllElements } from '../data/loader';
-import { getIconUrl } from '../utils/iconUrl';
+import { getResolvedIconUrl } from '../utils/iconUrl';
 import './Library.css';
 
 type SortMode = 'alpha' | 'date' | 'group';
@@ -131,7 +131,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
               title={showNames ? undefined : element.name}
               data-testid={`library-element-${element.id}`}
             >
-              <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="library-icon" width={showNames ? 36 : 40} height={showNames ? 36 : 40} />
+              <img src={getResolvedIconUrl(element.id, element.icon, iconCacheBust)} alt={element.name} className="library-icon" width={showNames ? 36 : 40} height={showNames ? 36 : 40} onLoad={(e) => (e.currentTarget.classList.add('icon-loaded'))} />
               {showNames && (
                 <>
                   <span className="library-name">{element.name}</span>

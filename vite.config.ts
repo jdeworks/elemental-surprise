@@ -35,7 +35,7 @@ function cacheStaticAssets() {
     configureServer(server: { middlewares: { use: (fn: (req: any, res: any, next: () => void) => void) => void } }) {
       server.middlewares.use((req, res, next) => {
         const url = req.url?.split('?')[0] ?? ''
-        if (url.endsWith('.svg') || url.endsWith('/elements.json') || url.endsWith('/recipes.json')) {
+        if (url.endsWith('.json') || url.endsWith('.svg')) {
           res.setHeader('Cache-Control', CACHE_HEADERS['Cache-Control'])
         }
         next()
@@ -44,7 +44,7 @@ function cacheStaticAssets() {
     configurePreviewServer(server: { middlewares: { use: (fn: (req: any, res: any, next: () => void) => void) => void } }) {
       server.middlewares.use((req, res, next) => {
         const url = req.url?.split('?')[0] ?? ''
-        if (url.endsWith('.svg') || url.endsWith('/elements.json') || url.endsWith('/recipes.json')) {
+        if (url.endsWith('.json') || url.endsWith('.svg')) {
           res.setHeader('Cache-Control', CACHE_HEADERS['Cache-Control'])
         }
         next()

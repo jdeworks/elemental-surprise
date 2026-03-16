@@ -4,6 +4,8 @@
 //
 // - Pages build: from GitHub repo via jsDelivr CDN (add elements/recipes/icons without rebuilding)
 // - Local build / dev: from same origin (public/ or local-dist)
+import { registerIconBlobUrlGetter } from '../utils/iconUrl';
+
 declare const __CDN_BASE__: string;
 const CDN_BASE = typeof __CDN_BASE__ !== 'undefined' ? __CDN_BASE__ : (import.meta.env?.VITE_CDN_BASE ?? '');
 
@@ -62,6 +64,38 @@ interface RecipesMasterIndex {
 interface RecipesComboIndex {
   buckets: Record<string, string>;
   recipeKeyToBucket: Record<string, string>;
+}
+
+// ─── Icon bundle cache ───────────────────────────────────────────────────────
+
+const iconSvgCache: Record<string, string> = {};   // elementId → SVG string
+const iconBlobUrls: Record<string, string> = {};    // elementId → blob: URL
+const iconBundlesLoaded = new Set<string>();
+
+async function loadIconBundle(bucketId: string): Promise<void> {
+  if (iconBundlesLoaded.has(bucketId)) return;
+  const dataBase = getDataBase();
+  try {
+    const r = await fetch(`${dataBase}data/icons/${bucketId}.json`);
+    if (!r.ok) return; // Graceful degradation — fall back to CDN URLs
+    const data = (await r.json()) as Record<string, string>;
+    for (const [id, svg] of Object.entries(data)) {
+      iconSvgCache[id] = svg;
+    }
+    iconBundlesLoaded.add(bucketId);
+  } catch {
+    // Bundle failed to load — icons will fall back to individual URLs
+  }
+}
+
+export function getIconBlobUrl(elementId: string): string | null {
+  if (iconBlobUrls[elementId]) return iconBlobUrls[elementId];
+  const svg = iconSvgCache[elementId];
+  if (!svg) return null;
+  const blob = new Blob([svg], { type: 'image/svg+xml' });
+  const url = URL.createObjectURL(blob);
+  iconBlobUrls[elementId] = url;
+  return url;
 }
 
 // ─── In-memory cache ────────────────────────────────────────────────────────
@@ -200,7 +234,10 @@ export function loadData(onProgress?: ProgressCallback): Promise<void> {
       for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
         totalElementBuckets++;
         elementBucketLoads.push(
-          loadElementsBucket(group, bucketId, bucketFile).then(() => {
+          Promise.all([
+            loadElementsBucket(group, bucketId, bucketFile),
+            loadIconBundle(bucketId),
+          ]).then(() => {
             elementBucketsComplete++;
             onProgress?.('Loading elements...', elementBucketsComplete, totalElementBuckets);
           })
@@ -208,6 +245,9 @@ export function loadData(onProgress?: ProgressCallback): Promise<void> {
       }
     }
     await Promise.all(elementBucketLoads);
+
+    // Register blob URL getter so iconUrl.ts can resolve bundled icons
+    registerIconBlobUrlGetter(getIconBlobUrl);
 
     // Extract inline combo indexes from master (zero extra HTTP requests)
     const combos = Object.keys(recipesMaster.combos);

@@ -1,6 +1,6 @@
 import { useDraggable, useDroppable } from '@dnd-kit/core';
 import { getElement } from '../data/loader';
-import { getIconUrl } from '../utils/iconUrl';
+import { getResolvedIconUrl } from '../utils/iconUrl';
 import './Element.css';
 
 export interface ElementProps {
@@ -67,7 +67,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
       {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >
-      <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} />
+      <img src={getResolvedIconUrl(element.id, element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} onLoad={(e) => (e.currentTarget.classList.add('icon-loaded'))} />
       <span className="element-name">{element.name}</span>
       {showLabel && !isLibrary && (
         <span className="element-label">{element.name}</span>

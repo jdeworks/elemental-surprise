@@ -10,18 +10,18 @@ echo "╚═══════════════════════�
 echo ""
 
 # Step 1: Generate base elements + recipes
-echo "▸ Step 1/9: Generate base elements..."
+echo "▸ Step 1/10: Generate base elements..."
 npm run generate
 
 # Step 2: Apply new elements (manual + bulk)
 echo ""
-echo "▸ Step 2/9: Apply new elements..."
+echo "▸ Step 2/10: Apply new elements..."
 python3 scripts/automation/generate-new-elements.py --apply
 python3 scripts/automation/generate-bulk-elements.py --apply
 
 # Step 2b: Add catch-all elements
 echo ""
-echo "▸ Step 2b/9: Add catch-all elements..."
+echo "▸ Step 2b/10: Add catch-all elements..."
 python3 -c "
 import json, sys
 sys.path.insert(0, 'scripts/automation')
@@ -47,7 +47,7 @@ print(f'Added {added} catch-all elements. Total: {len(elements)}')
 
 # Step 3: Clean merge into public/
 echo ""
-echo "▸ Step 3/9: Clean merge..."
+echo "▸ Step 3/10: Clean merge..."
 rm -rf public/data/elements public/data/recipes
 mkdir -p public/data/elements public/data/recipes
 echo '{"groups":{}}' > public/data/elements/index.json
@@ -56,17 +56,17 @@ npm run merge
 
 # Step 4: Apply intuitive recipe expansion
 echo ""
-echo "▸ Step 4/9: Intuitive recipe expansion..."
+echo "▸ Step 4/10: Intuitive recipe expansion..."
 python3 scripts/automation/expand-intuitive-recipes.py --apply
 
 # Step 5: Apply quality recipe generation (sub-mappings + catch-alls)
 echo ""
-echo "▸ Step 5/9: Quality recipe generation..."
+echo "▸ Step 5/10: Quality recipe generation..."
 python3 scripts/automation/generate-quality-recipes.py --apply
 
 # Step 6: Re-merge with all recipes
 echo ""
-echo "▸ Step 6/9: Final merge..."
+echo "▸ Step 6/10: Final merge..."
 rm -rf public/data/elements public/data/recipes
 mkdir -p public/data/elements public/data/recipes
 echo '{"groups":{}}' > public/data/elements/index.json
@@ -75,17 +75,22 @@ npm run merge
 
 # Step 7: Re-apply intuitive expansion on final data
 echo ""
-echo "▸ Step 7/9: Final intuitive expansion..."
+echo "▸ Step 7/10: Final intuitive expansion..."
 python3 scripts/automation/expand-intuitive-recipes.py --apply
 
-# Step 8: Generate save state presets
+# Step 8: Generate icon bundles
 echo ""
-echo "▸ Step 8/9: Generate save states..."
+echo "▸ Step 8/10: Generate icon bundles..."
+python3 scripts/automation/generate-icon-bundles.py
+
+# Step 9: Generate save state presets
+echo ""
+echo "▸ Step 9/10: Generate save states..."
 python3 scripts/automation/generate-savestates.py
 
-# Step 9: Validate + Build
+# Step 10: Validate + Build
 echo ""
-echo "▸ Step 9/9: Validate & build..."
+echo "▸ Step 10/10: Validate & build..."
 npm run validate
 npm run build
 
