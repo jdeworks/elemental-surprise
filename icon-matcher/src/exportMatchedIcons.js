@@ -698,7 +698,7 @@ function buildNoticeText(report, attributionEntries) {
   }
   lines.push('');
   lines.push('Per-source credits:');
-  for (const source of ['openmoji', 'twemoji', 'noto', 'fluent', 'gameicons', 'brand']) {
+  for (const source of ['openmoji', 'twemoji', 'noto', 'fluent', 'gameicons', 'tabler', 'phosphor', 'lucide', 'brand']) {
     const meta = sourceLicenseMeta(source);
     lines.push(`- ${source}: ${meta.attribution} | ${meta.license}${meta.url ? ` | ${meta.url}` : ''}`);
   }
@@ -988,6 +988,27 @@ function main() {
       license: 'CC BY 3.0',
       attribution: 'Game-icons.net contributors',
       url: 'https://game-icons.net/'
+    },
+    {
+      id: 'tabler-icons',
+      type: 'icons',
+      license: 'MIT',
+      attribution: 'Tabler Icons',
+      url: 'https://tabler.io/icons'
+    },
+    {
+      id: 'phosphor-icons',
+      type: 'icons',
+      license: 'MIT',
+      attribution: 'Phosphor Icons',
+      url: 'https://phosphoricons.com/'
+    },
+    {
+      id: 'lucide',
+      type: 'icons',
+      license: 'ISC',
+      attribution: 'Lucide Icons',
+      url: 'https://lucide.dev/'
     }
   ]);
 
@@ -1019,6 +1040,9 @@ function main() {
     maybeCopy(path.join(nodeModulesDir, 'simple-icons/LICENSE.md'), 'simple-icons-CC0-1.0.txt');
     maybeCopy(path.join(nodeModulesDir, 'fluentui-emoji/LICENSE'), 'fluentui-emoji-MIT.txt');
     maybeCopy(path.join(nodeModulesDir, 'openmoji/package.json'), 'openmoji-package-license-reference.json');
+    maybeCopy(path.join(nodeModulesDir, '@tabler/icons/LICENSE'), 'tabler-icons-MIT.txt');
+    maybeCopy(path.join(nodeModulesDir, '@phosphor-icons/core/LICENSE'), 'phosphor-icons-MIT.txt');
+    maybeCopy(path.join(nodeModulesDir, 'lucide-static/LICENSE'), 'lucide-ISC.txt');
   }
   maybeCopy(path.join(process.cwd(), 'external/twemoji/LICENSE-GRAPHICS'), 'twemoji-graphics-CC-BY-4.0.txt');
   maybeCopy(path.join(process.cwd(), 'external/twemoji/LICENSE'), 'twemoji-code-MIT.txt');

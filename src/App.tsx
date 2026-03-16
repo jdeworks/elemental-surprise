@@ -611,7 +611,7 @@ function App() {
           </button>
         </main>
         <footer className="app-footer">
-          Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0 / CC0 where noted). Full attribution: <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">NOTICE</a>.
+          Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0), <a href="https://tabler.io/icons" target="_blank" rel="noreferrer">Tabler</a> (MIT), <a href="https://phosphoricons.com" target="_blank" rel="noreferrer">Phosphor</a> (MIT), <a href="https://lucide.dev" target="_blank" rel="noreferrer">Lucide</a> (ISC), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0). <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">Full attribution</a>.
         </footer>
 
         {settingsOpen && (

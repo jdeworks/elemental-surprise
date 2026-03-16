@@ -35,7 +35,8 @@
 - Element IDs: lowercase with hyphens
 - 16 groups: Nature, Space, Materials, Life, Animals, Humanity, Knowledge, Science, Tools, Society, Fantasy, Food, Culture, Technology, AI, Other
 - Starter elements: fire, water, earth, wind
-- 2,767 elements, 137k+ recipes (lazy-loaded on demand)
-- Recipes use sub-mapping tables for quality (cow+fire→steak) with funny group catch-alls as fallback
+- 2,767 elements, 74k+ recipes (lazy-loaded on demand)
+- Recipes from 7 tiers: curated, Wikipedia-enriched, LLM-generated, sub-mappings, tag rules, intuitive patterns, catch-alls
+- Icon bundles: 19 per-bucket JSON files replace 2,767 individual SVG requests; served via blob URLs
 - Client-side fallback toast for impossible combos (cosmetic, doesn't count as discovery)
 - Save state presets: ~48 static JSON files in `public/savestates/`, BFS-generated with full dependency chains

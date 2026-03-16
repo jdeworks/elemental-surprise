@@ -1,6 +1,6 @@
 # Elemental Surprise
 
-A scalable element combination game inspired by Little Alchemy. Start with Fire, Water, Earth, and Wind — combine your way through **2,767 elements** with **137,000+ recipes** spanning nature, technology, AI, mythology, cuisine, and more.
+A scalable element combination game inspired by Little Alchemy. Start with Fire, Water, Earth, and Wind — combine your way through **2,767 elements** with **74,000+ recipes** spanning nature, technology, AI, mythology, cuisine, and more.
 
 ## Play
 
@@ -57,11 +57,13 @@ npm run validate     # Validate all data
 Recipes are generated in quality tiers:
 
 1. **Curated base** (~5.5k) — hand-written recipes with educational reasonings
-2. **Sub-mapping recipes** (~60k) — 1,676 specific element-to-result mappings (cow+fire=steak, horse+magic=unicorn)
-3. **Tag-based rules** (~3k) — semantic tag matching (heat+metal=ingot, water+earth=mud)
-4. **Group catch-alls** (~67k) — one funny result per group pair (Food+Technology="Stomach Ache", AI+AI="Infinite Loop")
+2. **Wikipedia-enriched** (~29k) — discovered via shared Wikipedia links/categories, educational facts
+3. **LLM-generated** (~600+) — high-quality recipes from Claude with unique historical/scientific reasonings
+4. **Sub-mapping recipes** — 1,676 specific element-to-result mappings (cow+fire=steak, horse+magic=unicorn)
+5. **Tag-based rules** — semantic tag matching (heat+metal=ingot, water+earth=mud)
+6. **Group catch-alls** — diversified funny results per group pair (5-9 alternatives each)
 
-Impossible combinations show funny fallback toasts (cosmetic, don't count as discoveries).
+Quality controls: global result cap (150 max per result), recipe audit with auto-enforcement, reasoning dedup checks.
 
 See `CLAUDE/content-pipeline.md` for full details.
 
@@ -78,9 +80,13 @@ See `CLAUDE/content-pipeline.md` for full details.
 
 This project uses third-party icon assets:
 
-- **OpenMoji** (CC BY-SA 4.0)
-- **Simple Icons** (CC0 1.0)
-- **Game-icons.net** (CC BY 3.0 / CC0 where noted)
+- **[OpenMoji](https://openmoji.org/)** — CC BY-SA 4.0
+- **[Game-icons.net](https://game-icons.net/)** — CC BY 3.0 / CC0 where noted
+- **[Tabler Icons](https://tabler.io/icons)** — MIT
+- **[Phosphor Icons](https://phosphoricons.com/)** — MIT
+- **[Lucide](https://lucide.dev/)** — ISC
+- **[Simple Icons](https://simpleicons.org/)** — CC0 1.0
+- **[Fluent UI Emoji](https://github.com/nicedoc/fluentui-emoji)** — MIT
 
 Full attribution: `public/attribution/NOTICE.txt`
 
