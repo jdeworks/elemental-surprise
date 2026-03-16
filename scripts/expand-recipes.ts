@@ -263,51 +263,45 @@ function main(): void {
     }
   }
 
-  const indexBuckets: Record<string, string> = {};
-  const indexRecipeToBucket: Record<string, string> = {};
+  const masterCombos: Record<string, { recipeCount: number; bucketCount: number }> = {};
 
   const combos = [...byCombo.keys()].sort();
   for (const combo of combos) {
     const rows = (byCombo.get(combo) ?? []).sort((x, y) => x.key.localeCompare(y.key));
     const groups = chunk(rows, BUCKET_SIZE);
 
+    const comboBuckets: Record<string, string> = {};
+    const comboRecipeToBucket: Record<string, string> = {};
+
     groups.forEach((groupRows, idx) => {
       const bucketNum = idx + 1;
       const bucketId = `${combo}-bucket-${bucketNum}`;
       const fileName = `${combo}-bucket-${bucketNum}.json`;
-      const relPath = `${combo}/${fileName}`;
-      indexBuckets[bucketId] = fileName;
+      comboBuckets[bucketId] = fileName;
 
       const payload: Record<string, { result: string; reasoning: string }> = {};
       for (const row of groupRows) {
         payload[row.key] = { result: row.result, reasoning: row.reasoning };
-        indexRecipeToBucket[row.key] = bucketId;
+        comboRecipeToBucket[row.key] = bucketId;
       }
 
       writeJson(path.join(byComboRoot, combo, fileName), payload);
     });
+
+    // Per-combo index
+    writeJson(path.join(byComboRoot, combo, 'index.json'), {
+      buckets: comboBuckets,
+      recipeKeyToBucket: comboRecipeToBucket,
+    });
+
+    masterCombos[combo] = {
+      recipeCount: rows.length,
+      bucketCount: groups.length,
+    };
   }
 
-  writeJson(path.join(recipesRoot, 'index.json'), {
-    buckets: indexBuckets,
-    recipeKeyToBucket: indexRecipeToBucket,
-  });
-
-  const legacyBuckets: Record<string, string> = {};
-  for (const [bucketId, fileName] of Object.entries(indexBuckets)) {
-    const combo = bucketId.replace(/-bucket-\d+$/, '');
-    legacyBuckets[bucketId] = `${combo}/${fileName}`;
-  }
-  writeJson(path.join(dataDir, 'recipes-index.json'), {
-    buckets: legacyBuckets,
-    recipeKeyToBucket: indexRecipeToBucket,
-  });
-
-  const flatRecipes: Record<string, { result: string; reasoning: string }> = {};
-  for (const [key, result] of allRecipes.entries()) {
-    flatRecipes[key] = { result, reasoning: allReasonings.get(key) ?? '' };
-  }
-  writeJson(path.join(publicDir, 'recipes.json'), flatRecipes);
+  // Master recipe index
+  writeJson(path.join(recipesRoot, 'index.json'), { combos: masterCombos });
 
   const multi = new Map<string, number>();
   for (const result of allRecipes.values()) multi.set(result, (multi.get(result) ?? 0) + 1);

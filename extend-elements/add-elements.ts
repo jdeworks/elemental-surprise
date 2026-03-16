@@ -280,7 +280,7 @@ function main(): void {
     const el: ElementDef = {
       id,
       name: item.name.trim(),
-      icon: `./icons/${id}.svg`,
+      icon: `./icons/${groupSlug}/${id}.svg`,
       links,
       group,
     };

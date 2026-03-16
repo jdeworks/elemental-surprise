@@ -1,0 +1,914 @@
+{
+  "alloy": {
+    "id": "alloy",
+    "name": "Alloy",
+    "icon": "./icons/materials/alloy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Alloy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "aluminum": {
+    "id": "aluminum",
+    "name": "Aluminum",
+    "icon": "./icons/materials/aluminum.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Aluminum",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "amber": {
+    "id": "amber",
+    "name": "Amber",
+    "icon": "./icons/materials/amber.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Amber",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "armor": {
+    "id": "armor",
+    "name": "Armor",
+    "icon": "./icons/materials/armor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Armor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "blade": {
+    "id": "blade",
+    "name": "Blade",
+    "icon": "./icons/materials/blade.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Blade",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "brick": {
+    "id": "brick",
+    "name": "Brick",
+    "icon": "./icons/materials/brick.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brick",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "bronze": {
+    "id": "bronze",
+    "name": "Bronze",
+    "icon": "./icons/materials/bronze.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bronze",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "candle": {
+    "id": "candle",
+    "name": "Candle",
+    "icon": "./icons/materials/candle.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Candle",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "canvas": {
+    "id": "canvas",
+    "name": "canvas",
+    "icon": "./icons/materials/canvas.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/canvas",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "cardboard": {
+    "id": "cardboard",
+    "name": "Cardboard",
+    "icon": "./icons/materials/cardboard.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cardboard",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "cement": {
+    "id": "cement",
+    "name": "Cement",
+    "icon": "./icons/materials/cement.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cement",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "ceramic": {
+    "id": "ceramic",
+    "name": "Ceramic",
+    "icon": "./icons/materials/ceramic.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ceramic",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "chain": {
+    "id": "chain",
+    "name": "Chain",
+    "icon": "./icons/materials/chain.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chain",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "chalk": {
+    "id": "chalk",
+    "name": "Chalk",
+    "icon": "./icons/materials/chalk.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chalk",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "charcoal": {
+    "id": "charcoal",
+    "name": "Charcoal",
+    "icon": "./icons/materials/charcoal.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Charcoal",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "coal": {
+    "id": "coal",
+    "name": "Coal",
+    "icon": "./icons/materials/coal.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Coal",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "coil": {
+    "id": "coil",
+    "name": "coil",
+    "icon": "./icons/materials/coil.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/coil",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "concrete": {
+    "id": "concrete",
+    "name": "Concrete",
+    "icon": "./icons/materials/concrete.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Concrete",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "copper": {
+    "id": "copper",
+    "name": "Copper",
+    "icon": "./icons/materials/copper.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Copper",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "cotton": {
+    "id": "cotton",
+    "name": "Cotton",
+    "icon": "./icons/materials/cotton.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cotton",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "crystal": {
+    "id": "crystal",
+    "name": "Crystal",
+    "icon": "./icons/materials/crystal.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Crystal",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "diamond": {
+    "id": "diamond",
+    "name": "Diamond",
+    "icon": "./icons/materials/diamond.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Diamond",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "dye": {
+    "id": "dye",
+    "name": "Dye",
+    "icon": "./icons/materials/dye.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dye",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "dynamite": {
+    "id": "dynamite",
+    "name": "Dynamite",
+    "icon": "./icons/materials/dynamite.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dynamite",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "fabric": {
+    "id": "fabric",
+    "name": "Fabric",
+    "icon": "./icons/materials/fabric.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fabric",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "fat": {
+    "id": "fat",
+    "name": "fat",
+    "icon": "./icons/materials/fat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/fat",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "fiber": {
+    "id": "fiber",
+    "name": "fiber",
+    "icon": "./icons/materials/fiber.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/fiber",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "firework": {
+    "id": "firework",
+    "name": "Firework",
+    "icon": "./icons/materials/firework.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Firework",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "fossil": {
+    "id": "fossil",
+    "name": "Fossil",
+    "icon": "./icons/materials/fossil.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fossil",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "gem": {
+    "id": "gem",
+    "name": "Gem",
+    "icon": "./icons/materials/gem.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gem",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "glass": {
+    "id": "glass",
+    "name": "Glass",
+    "icon": "./icons/materials/glass.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Glass",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "glue": {
+    "id": "glue",
+    "name": "Glue",
+    "icon": "./icons/materials/glue.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Glue",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "gold": {
+    "id": "gold",
+    "name": "Gold",
+    "icon": "./icons/materials/gold.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gold",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "granite": {
+    "id": "granite",
+    "name": "Granite",
+    "icon": "./icons/materials/granite.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Granite",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "gunpowder": {
+    "id": "gunpowder",
+    "name": "Gunpowder",
+    "icon": "./icons/materials/gunpowder.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gunpowder",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "ink": {
+    "id": "ink",
+    "name": "Ink",
+    "icon": "./icons/materials/ink.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ink",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "iron": {
+    "id": "iron",
+    "name": "Iron",
+    "icon": "./icons/materials/iron.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Iron",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "lead": {
+    "id": "lead",
+    "name": "Lead",
+    "icon": "./icons/materials/lead.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lead",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "leather": {
+    "id": "leather",
+    "name": "Leather",
+    "icon": "./icons/materials/leather.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Leather",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "lens": {
+    "id": "lens",
+    "name": "Lens",
+    "icon": "./icons/materials/lens.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lens",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "limestone": {
+    "id": "limestone",
+    "name": "Limestone",
+    "icon": "./icons/materials/limestone.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Limestone",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "magma": {
+    "id": "magma",
+    "name": "Magma",
+    "icon": "./icons/materials/magma.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Magma",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "marble": {
+    "id": "marble",
+    "name": "Marble",
+    "icon": "./icons/materials/marble.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marble",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "metal": {
+    "id": "metal",
+    "name": "metal",
+    "icon": "./icons/materials/metal.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/metal",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "mineral": {
+    "id": "mineral",
+    "name": "Mineral",
+    "icon": "./icons/materials/mineral.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mineral",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "mirror": {
+    "id": "mirror",
+    "name": "Mirror",
+    "icon": "./icons/materials/mirror.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mirror",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "nail": {
+    "id": "nail",
+    "name": "Nail",
+    "icon": "./icons/materials/nail.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nail",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "natural-gas": {
+    "id": "natural-gas",
+    "name": "Natural Gas",
+    "icon": "./icons/materials/natural-gas.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Natural_Gas",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "net": {
+    "id": "net",
+    "name": "Net",
+    "icon": "./icons/materials/net.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Net",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "nylon": {
+    "id": "nylon",
+    "name": "Nylon",
+    "icon": "./icons/materials/nylon.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nylon",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "oil": {
+    "id": "oil",
+    "name": "Oil",
+    "icon": "./icons/materials/oil.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Oil",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "paint": {
+    "id": "paint",
+    "name": "Paint",
+    "icon": "./icons/materials/paint.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Paint",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "paper": {
+    "id": "paper",
+    "name": "Paper",
+    "icon": "./icons/materials/paper.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Paper",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "petroleum": {
+    "id": "petroleum",
+    "name": "Petroleum",
+    "icon": "./icons/materials/petroleum.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Petroleum",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "plank": {
+    "id": "plank",
+    "name": "plank",
+    "icon": "./icons/materials/plank.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/plank",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "plastic": {
+    "id": "plastic",
+    "name": "Plastic",
+    "icon": "./icons/materials/plastic.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Plastic",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "platinum": {
+    "id": "platinum",
+    "name": "Platinum",
+    "icon": "./icons/materials/platinum.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Platinum",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "prism": {
+    "id": "prism",
+    "name": "Prism",
+    "icon": "./icons/materials/prism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Prism",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "pumice": {
+    "id": "pumice",
+    "name": "Pumice",
+    "icon": "./icons/materials/pumice.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pumice",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "rope": {
+    "id": "rope",
+    "name": "Rope",
+    "icon": "./icons/materials/rope.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rope",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "rubber": {
+    "id": "rubber",
+    "name": "Rubber",
+    "icon": "./icons/materials/rubber.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rubber",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "rust": {
+    "id": "rust",
+    "name": "Rust",
+    "icon": "./icons/materials/rust.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rust",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "sail": {
+    "id": "sail",
+    "name": "Sail",
+    "icon": "./icons/materials/sail.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sail",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "shield": {
+    "id": "shield",
+    "name": "Shield",
+    "icon": "./icons/materials/shield.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Shield",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "silicon": {
+    "id": "silicon",
+    "name": "Silicon",
+    "icon": "./icons/materials/silicon.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silicon",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "silk": {
+    "id": "silk",
+    "name": "Silk",
+    "icon": "./icons/materials/silk.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silk",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "silver": {
+    "id": "silver",
+    "name": "Silver",
+    "icon": "./icons/materials/silver.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Silver",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "slate": {
+    "id": "slate",
+    "name": "Slate",
+    "icon": "./icons/materials/slate.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Slate",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "soap": {
+    "id": "soap",
+    "name": "Soap",
+    "icon": "./icons/materials/soap.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Soap",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "soil": {
+    "id": "soil",
+    "name": "Soil",
+    "icon": "./icons/materials/soil.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Soil",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "steel": {
+    "id": "steel",
+    "name": "Steel",
+    "icon": "./icons/materials/steel.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Steel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "thread": {
+    "id": "thread",
+    "name": "Thread",
+    "icon": "./icons/materials/thread.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thread",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "tin": {
+    "id": "tin",
+    "name": "Tin",
+    "icon": "./icons/materials/tin.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tin",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "wax": {
+    "id": "wax",
+    "name": "wax",
+    "icon": "./icons/materials/wax.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/wax",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "wire": {
+    "id": "wire",
+    "name": "Wire",
+    "icon": "./icons/materials/wire.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wire",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  },
+  "wool": {
+    "id": "wool",
+    "name": "Wool",
+    "icon": "./icons/materials/wool.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wool",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Materials"
+  }
+}
