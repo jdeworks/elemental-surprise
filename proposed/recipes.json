@@ -2563,6 +2563,10 @@
     "result": "airplane",
     "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when Aerodynamics meets Kite, Airplane is the natural outcome."
   },
+  "aerodynamics+knowledge": {
+    "result": "airplane",
+    "reasoning": "The Wright Brothers succeeded where better-funded rivals failed specifically because they built a wind tunnel to systematically gather aerodynamic knowledge first, then used that data to design the Flyer's precisely cambered wings."
+  },
   "aerodynamics+machine": {
     "result": "airplane",
     "reasoning": "Wikipedia says: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. That explains why Aerodynamics + machine = Airplane."
@@ -2806,6 +2810,10 @@
   "aerogel+machine": {
     "result": "automation",
     "reasoning": "The science is clear \u2014 Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Mix Aerogel and machine for Automation."
+  },
+  "aerogel+meat": {
+    "result": "astronaut-food",
+    "reasoning": "NASA's freeze-drying process removes nearly all moisture from meat while preserving structure \u2014 the same principle behind aerogel production \u2014 creating astronaut rations that weigh almost nothing yet remain nutritious for years in space."
   },
   "aerogel+mineral": {
     "result": "mica",
@@ -3915,6 +3923,10 @@
     "result": "automation",
     "reasoning": "AI + Mortar and Pestle = Automation. The robot took the job. The human took a nap."
   },
+  "ai+mountain": {
+    "result": "scaling-law",
+    "reasoning": "OpenAI's 2020 neural scaling laws paper demonstrated that AI model performance improves as a smooth power law as you scale compute, data, and parameters\u2014meaning the performance 'mountain' can be climbed predictably by simply making models bigger."
+  },
   "ai+mushroom-soup": {
     "result": "recipe-bot",
     "reasoning": "AI + Mushroom Soup = Recipe Bot. It suggests putting ketchup on everything."
@@ -3947,6 +3959,10 @@
     "result": "recipe-bot",
     "reasoning": "AI + Peanut Butter = Recipe Bot. It suggests putting ketchup on everything."
   },
+  "ai+peninsula": {
+    "result": "edge-ai",
+    "reasoning": "Edge AI deploys machine learning models on devices at the periphery of networks\u2014smartphones, sensors, cameras\u2014just as a peninsula extends outward from the mainland, processing data locally rather than sending it back to a central cloud."
+  },
   "ai+phase-transition": {
     "result": "deepmind",
     "reasoning": "AI + Phase Transition = DeepMind-level AI. It solved protein folding. What's next?"
@@ -3966,6 +3982,10 @@
   "ai+pirate-captain": {
     "result": "social-credit",
     "reasoning": "AI + Pirate Captain = a Social Credit system. Black Mirror called, they want their plot back."
+  },
+  "ai+plateau": {
+    "result": "overfitting",
+    "reasoning": "When a neural network's training loss keeps falling but validation accuracy plateaus or worsens, it has memorized the training data rather than learned generalizable patterns\u2014a phenomenon called overfitting that is one of the most fundamental challenges in machine learning."
   },
   "ai+preference": {
     "result": "recommendation",
@@ -4094,6 +4114,10 @@
   "ai+wind": {
     "result": "mistral",
     "reasoning": "The Mistral wind meets AI \u2014 Mistral AI"
+  },
+  "ai+wire": {
+    "result": "neural-link",
+    "reasoning": "Neuralink's brain-computer interface uses arrays of threads thinner than a human hair\u2014individually insulated with biocompatible polymer coatings\u2014to record and stimulate individual neurons, creating a physical wired link between biological and silicon intelligence."
   },
   "ai-art+ai-generated-art": {
     "result": "3d-model",
@@ -10078,6 +10102,10 @@
   "amazon+starbucks": {
     "result": "airbnb",
     "reasoning": "is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. So when Amazon meets Starbucks, Airbnb is the natural outcome."
+  },
+  "amazon+steam": {
+    "result": "cloud-computing",
+    "reasoning": "Amazon Web Services popularized the term 'cloud computing' by deliberately invoking the metaphor of steam clouds\u2014distributed, invisible infrastructure that delivers computational power without users ever seeing the underlying machinery."
   },
   "amazon+student": {
     "result": "album",
@@ -27255,6 +27283,10 @@
     "result": "broadcast",
     "reasoning": "Radio Broadcasts connected isolated communities for the first time"
   },
+  "artist+rain": {
+    "result": "watercolor",
+    "reasoning": "Watercolor emerged as the medium of choice for European landscape artists sketching outdoors in unpredictable weather, with Turner famously lashing himself to a ship's mast in storms to capture rain's luminous effects."
+  },
   "artist+reddit": {
     "result": "social-media",
     "reasoning": "Reddit is Social Media organized into communities"
@@ -27354,6 +27386,10 @@
   "artist+website": {
     "result": "social-media",
     "reasoning": "Websites evolved into Social Media platforms connecting billions"
+  },
+  "artist+wind": {
+    "result": "landscape-painting",
+    "reasoning": "J.M.W. Turner famously had himself lashed to a ship's mast during a violent storm to experience the wind firsthand before painting 'Snow Storm: Steam-Boat off a Harbour's Mouth,' his greatest meteorological masterpiece."
   },
   "artist+wind-turbine": {
     "result": "green-energy",
@@ -31475,6 +31511,10 @@
     "result": "bed",
     "reasoning": "Axe and Furniture share a deep connection. A bed is a piece of furniture that is used as a place to sleep, rest, and relax. Result: Bed."
   },
+  "axe+geologist": {
+    "result": "mining",
+    "reasoning": "Geologists use rock hammers and axes to expose fresh mineral faces in outcrops, a field technique that directly evolved into the systematic rock sampling at the heart of modern mining."
+  },
   "axe+goose": {
     "result": "feather",
     "reasoning": "Goose Feathers are plucked for quills and down, writing and warmth"
@@ -31827,6 +31867,10 @@
     "result": "spear",
     "reasoning": "Walrus hunting with Spears sustained Arctic communities for centuries"
   },
+  "axe+waste": {
+    "result": "wood",
+    "reasoning": "Traditional axe-splitting of timber produces significant wood waste in offcuts and chips \u2014 waste that the modern biomass energy industry now converts into fuel pellets."
+  },
   "axe+weaving": {
     "result": "amber",
     "reasoning": "Amber is fossilized tree resin. So when Axe meets Weaving, Amber is the natural outcome."
@@ -31866,6 +31910,10 @@
   "axe+wood": {
     "result": "wheel",
     "reasoning": "Crafting Axe with wood produces Wheel"
+  },
+  "axe+woodpecker": {
+    "result": "lumberjack",
+    "reasoning": "The pileated woodpecker and the lumberjack share the same ecological niche \u2014 both rely on rhythmic, powerful wood-splitting to access food and resources \u2014 making the woodpecker essentially nature's original lumberjack."
   },
   "axe+wool": {
     "result": "clothing",
@@ -41003,6 +41051,10 @@
     "result": "raw-material",
     "reasoning": "Bauxite + Furnace = Raw Material. Potential energy, waiting for a purpose."
   },
+  "bauxite+ghost": {
+    "result": "aluminum",
+    "reasoning": "Dozens of bauxite mining towns across Jamaica and Guinea became ghost towns when global aluminum demand collapsed, leaving behind rust-red laterite landscapes stripped of the ore that once made these communities among the wealthiest in the developing world."
+  },
   "bauxite+granite": {
     "result": "basalt",
     "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Bauxite meets Granite, Basalt is the natural outcome."
@@ -41038,6 +41090,10 @@
   "bauxite+marble": {
     "result": "china",
     "reasoning": "China, officially the People's Republic of China (PRC), is a country in East Asia. That's the connection between Bauxite and Marble \u2014 giving us China."
+  },
+  "bauxite+meat": {
+    "result": "food-packaging",
+    "reasoning": "Aluminum\u2014refined from bauxite ore\u2014revolutionized meat preservation when the pull-tab aluminum can was introduced in the 1960s, making shelf-stable canned meat accessible globally and reshaping supply chains for military and civilian food distribution alike."
   },
   "bauxite+mica": {
     "result": "clay",
@@ -41107,6 +41163,10 @@
     "result": "copper",
     "reasoning": "Bauxite and Solder share a deep connection. Copper is a chemical element; it has symbol Cu and atomic number 29. Result: Copper."
   },
+  "bauxite+tree": {
+    "result": "aluminum",
+    "reasoning": "Bauxite ore forms in tropical soils beneath rainforest trees through millions of years of weathering, and is the only commercial source of aluminum \u2014 the most abundant metal in Earth's crust."
+  },
   "bauxite+vacuole": {
     "result": "cobalt",
     "reasoning": "Here's a real-world link: Cobalt is a chemical element; it has symbol Co and atomic number 27. Combine Bauxite with Vacuole and you get Cobalt."
@@ -41126,6 +41186,10 @@
   "bauxite+waste": {
     "result": "china",
     "reasoning": "The science is clear \u2014 China, officially the People's Republic of China (PRC), is a country in East Asia. Mix Bauxite and waste for China."
+  },
+  "bauxite+wind": {
+    "result": "aluminum",
+    "reasoning": "Bauxite is the ore from which all aluminum is refined, and the metal's exceptional lightness makes it indispensable for wind turbine blades, creating a poetic loop where wind energy is harvested by the material that wind itself helps us find."
   },
   "bauxite+wire": {
     "result": "gold",
@@ -41566,6 +41630,10 @@
   "bay+monkey": {
     "result": "otter",
     "reasoning": "Sea otters use tools like monkeys \u2014 floating on their backs cracking shells"
+  },
+  "bay+moon": {
+    "result": "tide",
+    "reasoning": "The Moon's gravitational pull generates oceanic tidal bulges, and enclosed bays dramatically amplify this effect \u2014 the Bay of Fundy's funnel shape creates tides exceeding 16 meters, the largest recorded anywhere on Earth."
   },
   "bay+moraine": {
     "result": "dune",
@@ -44955,6 +45023,10 @@
     "result": "bedroom",
     "reasoning": "The science is clear \u2014 A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Mix Bed and Dream for Bedroom."
   },
+  "bed+mud": {
+    "result": "spa",
+    "reasoning": "Ancient Romans and Egyptians prized volcanic mud baths for their mineral-rich healing properties, and today therapeutic mud beds remain a staple of health spas worldwide."
+  },
   "bed+nightmare": {
     "result": "bedroom",
     "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. So when Bed meets Nightmare, Bedroom is the natural outcome."
@@ -46819,6 +46891,10 @@
     "result": "forge-bellows",
     "reasoning": "Combine Bellows with Pump to create Forge Bellows."
   },
+  "bellows+rain": {
+    "result": "steam",
+    "reasoning": "When rainwater strikes the superheated metal near a blacksmith's bellows-fed forge it flash-vaporizes into steam, the same phenomenon that 18th-century engineers harnessed to power the Industrial Revolution."
+  },
   "bellows+ramen": {
     "result": "coffin",
     "reasoning": "Bellows and Ramen share a deep connection. A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. Result: Coffin."
@@ -46926,6 +47002,10 @@
   "bellows+wheelbarrow": {
     "result": "coffin",
     "reasoning": "Wikipedia says: A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. That explains why Bellows + Wheelbarrow = Coffin."
+  },
+  "bellows+wind": {
+    "result": "forge",
+    "reasoning": "Blacksmiths used bellows to blast directed wind into forge fires, concentrating airflow to reach the 1,500\u00b0C temperatures needed to work wrought iron since antiquity."
   },
   "bellows+wire": {
     "result": "bronze",
@@ -47998,6 +48078,10 @@
   "biofilm+hearing": {
     "result": "cilium",
     "reasoning": "The cilium is a short hair-like membrane protrusion from many types of eukaryotic cell. That's the connection between Biofilm and Hearing \u2014 giving us Cilium."
+  },
+  "biofilm+hope": {
+    "result": "penicillin",
+    "reasoning": "Alexander Fleming's hopeful curiosity about the mold biofilm killing bacteria in his petri dish in 1928 led directly to penicillin, which has since saved an estimated 200 million lives."
   },
   "biofilm+jellyfish": {
     "result": "cilium",
@@ -52703,6 +52787,10 @@
     "result": "dna",
     "reasoning": "Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. So when Bit meets Heron, DNA is the natural outcome."
   },
+  "bit+hope": {
+    "result": "dream",
+    "reasoning": "In computing a bit is the irreducible minimum of information \u2014 either 0 or 1 \u2014 just as a single moment of hope is the smallest psychological seed from which the most ambitious human dreams eventually grow."
+  },
   "bit+hormone": {
     "result": "dna",
     "reasoning": "The science is clear \u2014 Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. Mix Bit and Hormone for DNA."
@@ -53611,6 +53699,10 @@
     "result": "bronze",
     "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12\u201312.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. So when Blade meets Gear, Bronze is the natural outcome."
   },
+  "blade+ghost": {
+    "result": "revenant",
+    "reasoning": "In medieval European folklore, a revenant was a corpse that returned from the grave specifically to wreak bloody vengeance on those who wronged it in life, and exorcists were required to ritually behead the body with iron blades to prevent the ghost from re-animating."
+  },
   "blade+goose": {
     "result": "feather",
     "reasoning": "Goose Feathers are plucked for quills and down, writing and warmth"
@@ -53670,6 +53762,10 @@
   "blade+koala": {
     "result": "camera",
     "reasoning": "Koalas are monitored by trail Cameras to track shrinking habitat"
+  },
+  "blade+lava": {
+    "result": "obsidian",
+    "reasoning": "Obsidian\u2014volcanic glass formed when silica-rich lava cools rapidly\u2014was prized by Mesoamerican, Pacific Islander, and Paleolithic peoples for producing blades sharper than surgical steel, with edges just three nanometers thick along the cutting surface."
   },
   "blade+linen": {
     "result": "clothing",
@@ -53870,6 +53966,10 @@
   "blade+stone": {
     "result": "sharpness",
     "reasoning": "A blade honed on stone achieves Sharpness"
+  },
+  "blade+sun": {
+    "result": "sundial",
+    "reasoning": "The gnomon\u2014the blade-like fin at the heart of every sundial\u2014has tracked the sun's position for over 3,500 years, with ancient Egyptian obelisks serving as the world's first monumental solar blades for measuring the hours of the day."
   },
   "blade+sword": {
     "result": "fencing",
@@ -58843,6 +58943,10 @@
     "result": "contentment",
     "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Boredom and Shame \u2014 giving us Contentment."
   },
+  "boredom+snow": {
+    "result": "skiing",
+    "reasoning": "Skiing was invented in Scandinavia at least 8,000 years ago not as a sport but as the only practical way to travel and hunt during the long, snow-locked winters\u2014turning seasonal boredom into a civilization-defining skill."
+  },
   "boredom+sympathy": {
     "result": "contentment",
     "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Boredom and Sympathy \u2014 giving us Contentment."
@@ -59003,6 +59107,10 @@
     "result": "cliff",
     "reasoning": "Boulder and Geyser share a deep connection. In geography and geology, a cliff or rock face is an area of rock which has a general angle defined by the vertical, or nearly vertical. Result: Cliff."
   },
+  "boulder+ghost": {
+    "result": "gargoyle",
+    "reasoning": "Medieval stonemasons carved gargoyles on cathedrals as petrified supernatural guardians believed to ward off evil spirits, fusing stone permanence with the ghostly protection of the beyond."
+  },
   "boulder+gravel": {
     "result": "beach",
     "reasoning": "The science is clear \u2014 A beach is a landform alongside a body of water which consists of loose particles. Mix Boulder and Gravel for Beach."
@@ -59046,6 +59154,10 @@
   "boulder+landslide": {
     "result": "cliff",
     "reasoning": "Here's a real-world link: In geography and geology, a cliff or rock face is an area of rock which has a general angle defined by the vertical, or nearly vertical. Combine Boulder with Landslide and you get Cliff."
+  },
+  "boulder+lava": {
+    "result": "basalt",
+    "reasoning": "When lava flows engulf boulders and slowly cools over days or years, the surrounding melt solidifies into basalt \u2014 the most abundant volcanic rock on Earth, forming the entirety of the oceanic crust beneath every ocean."
   },
   "boulder+lawn": {
     "result": "greenhouse",
@@ -59151,9 +59263,17 @@
     "result": "coral-reef",
     "reasoning": "Boulder and Strait share a deep connection. A coral reef is an underwater ecosystem characterized by reef-building corals. Result: Coral Reef."
   },
+  "boulder+sun": {
+    "result": "sand",
+    "reasoning": "Thermal expansion from daily solar heating fractures boulders through a process called insolation weathering, gradually reducing them to gravel, then pebbles, and finally the fine grains of sand found in deserts."
+  },
   "boulder+swamp": {
     "result": "estuary",
     "reasoning": "Wikipedia says: An estuary is a partially enclosed coastal body of brackish water where freshwater from rivers or streams meets and mixes with saltwater from the open sea. That explains why Boulder + Swamp = Estuary."
+  },
+  "boulder+tree": {
+    "result": "lichen",
+    "reasoning": "Lichens are the pioneer organisms that colonize bare boulder surfaces, secreting acids that chemically weather rock over centuries and building the first thin organic soil layer that eventually lets trees take root."
   },
   "boulder+tributary": {
     "result": "estuary",
@@ -59482,6 +59602,10 @@
   "bow+story": {
     "result": "bongo",
     "reasoning": "In the realm of Place Name Disambiguation Pages, Bow meets Story to create Bongo."
+  },
+  "bow+thicket": {
+    "result": "hunting",
+    "reasoning": "Bow hunters prize dense thickets as natural blinds, using the cover of tangled vegetation to conceal themselves within arrow range of prey \u2014 a technique unchanged since the Stone Age."
   },
   "bow+thunderbird": {
     "result": "bongo",
@@ -68459,6 +68583,10 @@
     "result": "aquarium",
     "reasoning": "Bucket of Hot Spring = Aquarium."
   },
+  "bucket+human": {
+    "result": "miner",
+    "reasoning": "Before mechanical pumps, coal mines relied entirely on humans carrying bucket after bucket of groundwater up shafts \u2014 labor so grueling in 18th-century England that it directly motivated Thomas Newcomen to invent the first practical steam engine."
+  },
   "bucket+kettle": {
     "result": "radiator",
     "reasoning": "Combine Kettle with Bucket to create Radiator."
@@ -76186,6 +76314,10 @@
   "candy+stew": {
     "result": "biscuit",
     "reasoning": "Here's a real-world link: A biscuit is a flour-based baked food item. Combine Candy with Stew and you get Biscuit."
+  },
+  "candy+stone": {
+    "result": "crystal",
+    "reasoning": "Rock candy is literally sucrose crystallizing into stone-like formations \u2014 one of the earliest demonstrations of how dissolved minerals and sugars grow into geometric crystals."
   },
   "candy+sun": {
     "result": "caramel",
@@ -84346,6 +84478,10 @@
   "chair+programmer": {
     "result": "japan",
     "reasoning": "The science is clear \u2014 Japan is an island country in East Asia. Mix Chair and Programmer for Japan."
+  },
+  "chair+rain": {
+    "result": "contentment",
+    "reasoning": "Psychologists studying 'petrichor'\u2014the scent of rain on dry earth\u2014have found it triggers a measurable neurological relaxation response in humans, which is why sitting in a chair listening to rain has been shown in studies to reliably induce contentment and reduce cortisol levels."
   },
   "chair+ruler": {
     "result": "ivory",
@@ -92767,6 +92903,10 @@
     "result": "acid",
     "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. That's the connection between Chemistry and Vinegar \u2014 giving us Acid."
   },
+  "chemistry+wind": {
+    "result": "aerodynamics",
+    "reasoning": "Aerodynamics emerged from applying chemistry's understanding of fluid molecules in motion to wind, with Bernoulli's 1738 equation showing how air molecules accelerating over a curved surface create the pressure differential that generates lift."
+  },
   "chemistry+zinc": {
     "result": "acid",
     "reasoning": "Wikipedia says: An acid is a molecule or ion capable of either donating a proton (i.e. That explains why Chemistry + Zinc = Acid."
@@ -96266,6 +96406,10 @@
   "chisel+rabbit": {
     "result": "trap",
     "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "chisel+rain": {
+    "result": "erosion",
+    "reasoning": "Rain acts as nature's chisel through hydraulic action and chemical weathering, carving canyons and valleys over millions of years far more effectively than any hand tool."
   },
   "chisel+rat": {
     "result": "trap",
@@ -104655,6 +104799,10 @@
     "result": "programmer",
     "reasoning": "Programmers write code \u2014 the invisible infrastructure of modern life"
   },
+  "code+frog": {
+    "result": "bug",
+    "reasoning": "Grace Hopper's team found an actual moth causing errors in the Harvard Mark II computer in 1947, coining the term 'bug' \u2014 ironically, frogs eat exactly the kind of insects that inspired computing's most infamous metaphor."
+  },
   "code+genome": {
     "result": "dna",
     "reasoning": "Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. That's the connection between Code and Genome \u2014 giving us DNA."
@@ -104799,6 +104947,10 @@
     "result": "bit",
     "reasoning": "The science is clear \u2014 The bit is the most basic unit of information in computing and digital communication. Mix Code and Radio for Bit."
   },
+  "code+recursion": {
+    "result": "infinite-loop",
+    "reasoning": "A recursive function without a proper base case calls itself endlessly, producing an infinite loop \u2014 one of the most notorious bugs in programming history, capable of crashing systems by exhausting the call stack."
+  },
   "code+science": {
     "result": "algorithm",
     "reasoning": "The word 'algorithm' derives from Al-Khwarizmi, the 9th-century mathematician whose coded step-by-step procedures for solving equations became the foundation of both algebra and all of modern computer science."
@@ -104846,6 +104998,10 @@
   "code+symbol": {
     "result": "communication",
     "reasoning": "Wikipedia says: Communication is commonly defined as the transmission of information. That explains why Code + symbol = Communication."
+  },
+  "code+tambourine": {
+    "result": "morse-code",
+    "reasoning": "Samuel Morse originally conceived his telegraph code as rhythmic long and short taps \u2014 much like a percussionist striking a tambourine \u2014 encoding the entire alphabet into patterns of sound that could cross continents in seconds."
   },
   "code+text": {
     "result": "html",
@@ -107831,9 +107987,17 @@
     "result": "ballet",
     "reasoning": "Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. So when Comedy meets Polka, Ballet is the natural outcome."
   },
+  "comedy+potion": {
+    "result": "humor",
+    "reasoning": "The ancient Greek theory of the four bodily 'humors'\u2014liquid substances including blood, phlegm, and bile\u2014held that drinking herbal potions could rebalance them, and an excess of yellow bile was literally the physiological source of irascible comic temperament."
+  },
   "comedy+proverb": {
     "result": "book",
     "reasoning": "The science is clear \u2014 A book is a written work of substantial length created by one or more authors. Mix Comedy and Proverb for book."
+  },
+  "comedy+rain": {
+    "result": "irony",
+    "reasoning": "Alanis Morissette's song 'Ironic' immortalized rain on a wedding day as the definitive example of situational irony, though linguists point out that 'rain when you're already late' is actually just bad luck\u2014making the song itself an ironic commentary on misunderstanding irony."
   },
   "comedy+research": {
     "result": "book",
@@ -109783,6 +109947,10 @@
     "result": "brick",
     "reasoning": "Concrete and Quarry share a deep connection. A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Result: Brick."
   },
+  "concrete+rain": {
+    "result": "flood",
+    "reasoning": "Impervious concrete and asphalt prevent rain from soaking into the ground, causing urban flash floods up to three times worse than the same rainfall on natural soil."
+  },
   "concrete+resin": {
     "result": "bitumen",
     "reasoning": "Concrete and Resin share a deep connection. Bitumen is an immensely viscous constituent of petroleum. Result: Bitumen."
@@ -111531,6 +111699,10 @@
     "result": "cake",
     "reasoning": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. So when Cookie meets Pudding, Cake is the natural outcome."
   },
+  "cookie+rain": {
+    "result": "biscuit",
+    "reasoning": "The word 'biscuit' derives from the Latin 'bis coctus' (twice cooked), a technique perfected by naval bakers to create hard ship's biscuits that could withstand months of rain, sea spray, and tropical humidity without becoming lethally moldy."
+  },
   "cookie+rice": {
     "result": "cake",
     "reasoning": "Cake is a baker's confectionery usually made from flour, sugar, and other ingredients and is usually baked. So when Cookie meets rice, Cake is the natural outcome."
@@ -112154,6 +112326,10 @@
   "copilot+mitochondria": {
     "result": "bioinformatics",
     "reasoning": "Copilot + Mitochondria = Bioinformatics \u2014 teaching computers to understand DNA."
+  },
+  "copilot+mud": {
+    "result": "hallucination-ai",
+    "reasoning": "When AI coding assistants like GitHub Copilot are trained on noisy, low-quality 'muddy' data, they generate hallucinations \u2014 producing plausible-looking but completely fabricated function names, APIs, and documentation with confident authority."
   },
   "copilot+mythical-beast": {
     "result": "sentient-ai",
@@ -114006,6 +114182,10 @@
   "cornbread+guacamole": {
     "result": "burrito",
     "reasoning": "A burrito or burro in Mexico is, historically, a regional name, among others, for what is known as a taco, a tortilla filled with food, in other parts of the country. So when Cornbread meets Guacamole, Burrito is the natural outcome."
+  },
+  "cornbread+joy": {
+    "result": "food-festival",
+    "reasoning": "The National Cornbread Festival in South Pittsburg, Tennessee draws tens of thousands annually to celebrate the Native American-derived staple that anchors Southern cooking and community identity."
   },
   "cornbread+miscellaneous": {
     "result": "mystery-meat",
@@ -117878,6 +118058,10 @@
   "crater+wind-turbine": {
     "result": "weather-app",
     "reasoning": "Crater + Wind Turbine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+wine": {
+    "result": "vineyard",
+    "reasoning": "Some of Italy's most celebrated wines grow in volcanic crater soil on Mount Etna's slopes, where ancient lava fields create mineral-rich, well-draining terrain that imparts an unmistakable smoky, earthy character impossible to replicate elsewhere."
   },
   "crater+world-cup": {
     "result": "national-park",
@@ -124107,6 +124291,10 @@
     "result": "plot-hole",
     "reasoning": "Cryptid + Miscellaneous = a Plot Hole. Don't think about it too hard."
   },
+  "cryptid+mud": {
+    "result": "troll",
+    "reasoning": "Scandinavian trolls were traditionally described as dwelling in muddy riverbanks and boggy wetlands, their legendary strength said to come from their deep connection to earth and water \u2014 creatures whose territory begins exactly where solid ground ends."
+  },
   "cryptocurrency+debt": {
     "result": "bank",
     "reasoning": "Wikipedia says: A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. That explains why Cryptocurrency + Debt = Bank."
@@ -127398,6 +127586,10 @@
   "dashcam+eye": {
     "result": "camera",
     "reasoning": "Wikipedia says: A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. That explains why Dashcam + eye = camera."
+  },
+  "dashcam+glass": {
+    "result": "lens",
+    "reasoning": "Every dashcam depends on a precisely ground glass lens to focus light onto a CMOS sensor \u2014 the same optical principles Galileo applied to his telescope four centuries ago now capture fender-benders for insurance adjusters."
   },
   "dashcam+hellhound": {
     "result": "germany",
@@ -131083,6 +131275,10 @@
     "result": "allegory",
     "reasoning": "Here's a real-world link: As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Combine Demon with Soul and you get Allegory."
   },
+  "demon+steam": {
+    "result": "dragon",
+    "reasoning": "Medieval Europeans encountering sulfurous steam venting from volcanic fissures interpreted the hissing, smoking earth as evidence of fire-breathing monsters lurking below, directly shaping the dragon mythology of Western folklore."
+  },
   "demon+talisman": {
     "result": "amulet",
     "reasoning": "An amulet is a spiritual object believed to confer protection or grace upon its possessor. That's the connection between Demon and Talisman \u2014 giving us Amulet."
@@ -132687,6 +132883,10 @@
     "result": "github",
     "reasoning": "Here's a real-world link: GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. Combine DevOps with GraphQL and you get GitHub."
   },
+  "devops+hope": {
+    "result": "ci-cd",
+    "reasoning": "CI/CD pipelines embody the core DevOps hope: that automated build-test-deploy cycles will catch bugs before production, compressing release cycles from months to minutes."
+  },
   "devops+loneliness": {
     "result": "cloud-computing",
     "reasoning": "Wikipedia says: It is commonly referred to as \"the cloud\". That explains why DevOps + Loneliness = Cloud Computing."
@@ -132866,6 +133066,10 @@
   "dew+magnifying-glass": {
     "result": "garden-shed",
     "reasoning": "Dew + Magnifying Glass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "dew+metal": {
+    "result": "rust",
+    "reasoning": "Morning dew is one of the most persistent causes of metal corrosion in temperate climates, as the thin electrolyte film of condensed water enables the electrochemical reaction between iron, oxygen, and water that produces rust overnight."
   },
   "dew+miscellaneous": {
     "result": "wilderness",
@@ -136031,6 +136235,10 @@
     "result": "antelope",
     "reasoning": "An antelope is an extant or recently extinct species of the ruminant artiodactyl family Bovidae, which are indigenous to most of Africa, India, the Middle East, Central Asia, and a small area of Russia. So when Dolphin meets Snail, Antelope is the natural outcome."
   },
+  "dolphin+snow": {
+    "result": "narwhal",
+    "reasoning": "The narwhal lives year-round in Arctic pack ice, using its long spiral tusk\u2014which inspired the unicorn legend\u2014to navigate and communicate beneath snow-covered sea ice that would be impassable for most cetaceans."
+  },
   "dolphin+space-wizard": {
     "result": "mermaid",
     "reasoning": "Mermaids merge human and marine \u2014 dolphins inspired the legends"
@@ -136879,6 +137087,10 @@
     "result": "baroque",
     "reasoning": "Door and Necklace share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
   },
+  "door+rain": {
+    "result": "flood",
+    "reasoning": "During the 1931 China floods, the deadliest in recorded history, rising waters trapped millions behind doors as entire villages were submerged, illustrating how rain relentlessly breaches every barrier."
+  },
   "door+rhetoric": {
     "result": "allegory",
     "reasoning": "As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. That's the connection between Door and Rhetoric \u2014 giving us Allegory."
@@ -136967,6 +137179,10 @@
     "result": "courage",
     "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Doubt and Generosity \u2014 giving us courage."
   },
+  "doubt+ghost": {
+    "result": "skepticism",
+    "reasoning": "The 18th-century Scottish philosopher David Hume used ghost sightings as his central example in arguing that testimony about miraculous events should always be weighed against the far greater probability that the witness was mistaken or deceived, founding modern philosophical skepticism."
+  },
   "doubt+gratitude": {
     "result": "awe",
     "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Doubt meets Gratitude, Awe is the natural outcome."
@@ -137010,6 +137226,10 @@
   "doubt+joy": {
     "result": "anxiety",
     "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Doubt meets Joy, Anxiety is the natural outcome."
+  },
+  "doubt+lava": {
+    "result": "volcano",
+    "reasoning": "18th-century geologists who proposed that basalt columns like Ireland's Giant's Causeway were solidified lava faced intense doubt from Neptunists, who insisted all rocks formed from a primordial ocean \u2014 a debate that birthed modern volcanology."
   },
   "doubt+lie": {
     "result": "deception",
@@ -137075,6 +137295,10 @@
     "result": "deception",
     "reasoning": "Wikipedia says: Deception is the act of convincing of one or many recipients of untrue information. That explains why Doubt + Speech = deception."
   },
+  "doubt+sun": {
+    "result": "solar-eclipse",
+    "reasoning": "Chinese records show that royal astronomers were executed in 2137 BCE for failing to predict a solar eclipse \u2014 for millennia, the sudden disappearance of the sun was the ultimate source of existential doubt and mass panic."
+  },
   "doubt+sympathy": {
     "result": "awe",
     "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Doubt with Sympathy and you get Awe."
@@ -137082,6 +137306,10 @@
   "doubt+temptation": {
     "result": "curiosity",
     "reasoning": "Here's a real-world link: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Combine Doubt with Temptation and you get Curiosity."
+  },
+  "doubt+tree": {
+    "result": "philosophy",
+    "reasoning": "Descartes began philosophy's most famous exercise by doubting everything, and the 'tree of knowledge' metaphor he later used \u2014 with metaphysics as roots, physics as trunk, and all other sciences as branches \u2014 shaped Western philosophy for centuries."
   },
   "dough+dumpling": {
     "result": "baklava",
@@ -137559,6 +137787,10 @@
     "result": "volcano",
     "reasoning": "Where Dragons dwell, Volcanoes erupt, or is it the other way around"
   },
+  "dragon+stalagmite": {
+    "result": "dungeon",
+    "reasoning": "Medieval European lore consistently placed dragons in underground cave lairs bristling with stalagmites and stalactites, a setting that directly gave rise to the dungeon as a fictional space in fantasy literature."
+  },
   "dragon+troll": {
     "result": "elf",
     "reasoning": "The science is clear \u2014 An elf is a type of humanoid supernatural being in Germanic folklore. Mix Dragon and Troll for Elf."
@@ -137578,6 +137810,10 @@
   "dragon+wand": {
     "result": "allegory",
     "reasoning": "The science is clear \u2014 As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Mix Dragon and Wand for Allegory."
+  },
+  "dragon+wilderness": {
+    "result": "komodo-dragon",
+    "reasoning": "Komodo dragons \u2014 the world's largest living lizards at 3 meters long \u2014 inhabit the remote wilderness of a handful of Indonesian islands, and likely inspired ancient sailors' tales of sea dragons."
   },
   "dragon+wine": {
     "result": "mead",
@@ -140191,6 +140427,10 @@
     "result": "crevasse",
     "reasoning": "A crevasse is a deep crack that forms in a glacier or ice sheet. So when Drumlin meets Glacier, Crevasse is the natural outcome."
   },
+  "drumlin+gold": {
+    "result": "miner",
+    "reasoning": "Gold prospectors learned to follow glacial drumlins, knowing that retreating glaciers transported placer gold nuggets far downstream from their source veins \u2014 a technique used in the Klondike Gold Rush."
+  },
   "drumlin+gravel": {
     "result": "boulder",
     "reasoning": "The science is clear \u2014 In geology, a boulder is a rock fragment with size greater than 25.6\u00a0cm (10.1\u00a0in) in diameter. Mix Drumlin and Gravel for Boulder."
@@ -140446,6 +140686,10 @@
   "dryad+miscellaneous": {
     "result": "plot-hole",
     "reasoning": "Dryad + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+mud": {
+    "result": "treant",
+    "reasoning": "Tolkien's treants \u2014 ancient tree spirits \u2014 were said to have roots that drew living power from boggy, waterlogged earth, making them slow, immovable guardians whose strength was inseparable from the mud beneath the forest floor."
   },
   "dryad+philosopher-stone": {
     "result": "forest",
@@ -142407,6 +142651,10 @@
     "result": "mountain",
     "reasoning": "Gods dwell on Mountains, from Olympus to Sinai"
   },
+  "earth+granola": {
+    "result": "farm",
+    "reasoning": "Every ingredient in granola \u2014 rolled oats, honey, nuts, and seeds \u2014 is harvested from farms working the earth, making granola a distillation of agricultural civilization itself."
+  },
   "earth+grass": {
     "result": "hill",
     "reasoning": "When Earth meets Grass, hill naturally forms"
@@ -142435,6 +142683,10 @@
     "result": "cliff",
     "reasoning": "Harpies perch on Cliffs, snatching food and tormenting travelers"
   },
+  "earth+harvest": {
+    "result": "wheat",
+    "reasoning": "Wild einkorn wheat was first domesticated in the Fertile Crescent around 10,000 BCE, where early farmers learned to read the earth's seasonal rhythms to time harvests and select seeds that would yield more grain the following year."
+  },
   "earth+heat": {
     "result": "coal",
     "reasoning": "Processing Earth with Heat yields Coal"
@@ -142443,9 +142695,21 @@
     "result": "asteroid",
     "reasoning": "An asteroid is a minor planet\u2014an object larger than a meteoroid that is neither a planet nor an identified comet\u2014that orbits within the inner Solar System or is co-orbital with Jupiter. That's the connection between Earth and Helium \u2014 giving us Asteroid."
   },
+  "earth+hero": {
+    "result": "giant",
+    "reasoning": "In Greek myth, the hero Heracles defeated Antaeus \u2014 a giant who drew invincible strength from the earth itself \u2014 by discovering that lifting him off the ground severed his power entirely."
+  },
+  "earth+hill": {
+    "result": "mountain",
+    "reasoning": "Hills become mountains through the same tectonic processes operating over vastly different timescales\u2014the Appalachians were once as tall as the Himalayas, and are now mere hills eroded over 480 million years of wind, rain, and geological compression."
+  },
   "earth+holy-grail": {
     "result": "cathedral",
     "reasoning": "The Holy Grail is sought in Cathedrals, the cup of Christ"
+  },
+  "earth+honesty": {
+    "result": "trust",
+    "reasoning": "Anthropologists find that face-to-face honesty is the evolutionary foundation of human social trust \u2014 experiments consistently show people are far more truthful in person than online, suggesting trust is grounded in physical, earthly presence."
   },
   "earth+human": {
     "result": "body",
@@ -142454,6 +142718,10 @@
   "earth+hydra": {
     "result": "swamp",
     "reasoning": "Hydras lurk in Swamps, cut one head and two grow back"
+  },
+  "earth+hydraulics": {
+    "result": "dam",
+    "reasoning": "The 5,000-year-old Jawa Dam in Jordan is the world's oldest known dam, demonstrating that engineers mastered hydraulic earthworks \u2014 compacting soil layers to resist water pressure \u2014 millennia before formal hydraulics was codified."
   },
   "earth+ice": {
     "result": "tundra",
@@ -142595,9 +142863,17 @@
     "result": "asteroid",
     "reasoning": "The science is clear \u2014 An asteroid is a minor planet\u2014an object larger than a meteoroid that is neither a planet nor an identified comet\u2014that orbits within the inner Solar System or is co-orbital with Jupiter. Mix Earth and Orbit for Asteroid."
   },
+  "earth+paradigm": {
+    "result": "geology",
+    "reasoning": "James Hutton's 1788 'Theory of the Earth' triggered a scientific paradigm shift by arguing that Earth's rock layers took millions of years to form, shattering the prevailing assumption that the planet was only a few thousand years old."
+  },
   "earth+pegasus": {
     "result": "mountain",
     "reasoning": "Pegasus soars over Mountains, born from Medusa's blood in Greek myth"
+  },
+  "earth+pewter": {
+    "result": "mineral",
+    "reasoning": "Pewter's primary component, tin, is smelted from cassiterite, a mineral ore extracted from the earth that ancient civilizations mined as early as 3000 BCE."
   },
   "earth+phoenix": {
     "result": "volcano",
@@ -142611,9 +142887,17 @@
     "result": "astrobiology",
     "reasoning": "Astrobiology is a scientific field within the life and environmental sciences that studies the origins, early evolution, distribution, and future of life in the universe by investigating its deterministic conditions and contingent events. So when Earth meets Planet, Astrobiology is the natural outcome."
   },
+  "earth+planetarium": {
+    "result": "astronomy",
+    "reasoning": "Planetariums were invented specifically to teach astronomy by projecting Earth's night sky onto an indoor dome, restoring access to the star patterns that guided human understanding of the cosmos long before light pollution erased them."
+  },
   "earth+plant": {
     "result": "fiber",
     "reasoning": "Processing Earth with plant yields fiber"
+  },
+  "earth+population": {
+    "result": "civilization",
+    "reasoning": "Earth's geography \u2014 fertile river valleys, navigable coastlines, and natural harbors \u2014 funneled growing human populations into the dense settlements where specialization, writing, and law first emerged as civilization."
   },
   "earth+potion": {
     "result": "swamp",
@@ -142622,6 +142906,14 @@
   "earth+pressure": {
     "result": "stone",
     "reasoning": "Tectonic pressure compresses earth into stone"
+  },
+  "earth+quiche": {
+    "result": "france",
+    "reasoning": "Quiche Lorraine originated in the Lorraine region of northeastern France, where German-speaking bakers called it 'K\u00fcchen' (cake), and its slow spread to Parisian bistros made it a symbol of French provincial terroir \u2014 food rooted in a specific patch of earth."
+  },
+  "earth+quill": {
+    "result": "map",
+    "reasoning": "Ptolemy's 2nd-century Geografia \u2014 drawn with reed quills on parchment \u2014 mapped the known earth using a coordinate grid of latitude and longitude, creating the cartographic conventions that navigators still use today."
   },
   "earth+rain": {
     "result": "puddle",
@@ -142671,6 +142963,14 @@
     "result": "asteroid-belt",
     "reasoning": "The science is clear \u2014 The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. Mix Earth and HAL 9000 for Asteroid Belt."
   },
+  "earth+spear": {
+    "result": "flint",
+    "reasoning": "The earliest spear tips were knapped from flint, a microcrystalline quartz found in Earth's chalk deposits, and their sharp edges remained unsurpassed for 400,000 years of human prehistory."
+  },
+  "earth+spectrum": {
+    "result": "gem",
+    "reasoning": "Gemstones get their colors from trace impurities that absorb specific wavelengths of the visible spectrum \u2014 chromium makes rubies red and emeralds green, while iron shifts sapphires blue, turning the earth's minerals into living prisms."
+  },
   "earth+spell": {
     "result": "dungeon",
     "reasoning": "Spells are cast in Dungeons, ancient words of power"
@@ -142682,6 +142982,10 @@
   "earth+spirit": {
     "result": "forest",
     "reasoning": "Spirits inhabit Forests, the unseen consciousness of nature"
+  },
+  "earth+stalactite": {
+    "result": "karst",
+    "reasoning": "Stalactites are the defining feature of karst topography, formed over millions of years as slightly acidic groundwater percolates through limestone bedrock dissolving calcium carbonate molecule by molecule."
   },
   "earth+star": {
     "result": "asteroid",
@@ -142707,6 +143011,10 @@
     "result": "cloud",
     "reasoning": "Sylphs are air spirits living in Clouds, wind made conscious"
   },
+  "earth+taiga": {
+    "result": "permafrost",
+    "reasoning": "Beneath the taiga's shallow soil lies permafrost \u2014 permanently frozen earth stretching hundreds of meters deep \u2014 which stores more carbon than all the world's forests combined."
+  },
   "earth+talisman": {
     "result": "temple",
     "reasoning": "Talismans are blessed in Temples, objects of spiritual power"
@@ -142715,9 +143023,17 @@
     "result": "phone",
     "reasoning": "Earth combined with Telephone yields Phone"
   },
+  "earth+tendon": {
+    "result": "fossil",
+    "reasoning": "Paleontologists can identify fossilized tendons in dinosaur remains because their collagen proteins mineralize differently from bone, preserving detailed records of ancient musculoskeletal systems."
+  },
   "earth+terraforming": {
     "result": "asteroid",
     "reasoning": "Wikipedia says: An asteroid is a minor planet\u2014an object larger than a meteoroid that is neither a planet nor an identified comet\u2014that orbits within the inner Solar System or is co-orbital with Jupiter. That explains why Earth + Terraforming = Asteroid."
+  },
+  "earth+thought": {
+    "result": "philosophy",
+    "reasoning": "The Presocratic philosopher Empedocles proposed that Earth was one of four fundamental elements from which all matter and thought arise, making solid ground literally a building block of ancient Greek philosophy."
   },
   "earth+thunderbird": {
     "result": "mountain",
@@ -142730,6 +143046,10 @@
   "earth+tool": {
     "result": "farm",
     "reasoning": "Combining Earth with tool makes delicious farm"
+  },
+  "earth+transformer": {
+    "result": "power-grid",
+    "reasoning": "Step-up and step-down transformers are the backbone of Earth's power grids, enabling electricity to travel thousands of kilometers with minimal loss before reaching homes."
   },
   "earth+treant": {
     "result": "forest",
@@ -143114,6 +143434,10 @@
   "echo+sound": {
     "result": "acoustics",
     "reasoning": "The science is clear \u2014 Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Mix Echo and sound for Acoustics."
+  },
+  "echo+steam": {
+    "result": "steam-engine",
+    "reasoning": "Early steam engines in narrow mine shafts produced such deafening echoes from their reciprocating pistons that miners developed a distinct vocabulary for diagnosing mechanical faults purely by the quality of the reverberating sound."
   },
   "echo+thunder": {
     "result": "sound",
@@ -145403,6 +145727,10 @@
     "result": "synthesizer",
     "reasoning": "Electricity creating Folk Music \u2014 a Synthesizer. Music was never the same."
   },
+  "electricity+forest": {
+    "result": "wildfire",
+    "reasoning": "Lightning strikes from electrical storms are the leading natural cause of wildfires, with a single bolt carrying 300 million volts igniting forest fires that can burn for months across millions of acres."
+  },
   "electricity+fossil-fuel": {
     "result": "fuel-cell",
     "reasoning": "Combine Electricity with Fossil Fuel to create Fuel Cell."
@@ -145631,6 +145959,10 @@
     "result": "voltage",
     "reasoning": "Applying Electricity to Pressure produces Voltage"
   },
+  "electricity+pride": {
+    "result": "neon-sign",
+    "reasoning": "Neon signs \u2014 which produce light by passing electricity through noble gases \u2014 became iconic symbols of LGBTQ+ Pride celebrations and queer spaces throughout the 20th century."
+  },
   "electricity+prism": {
     "result": "led",
     "reasoning": "Electricity + Prism = LED \u2014 efficient light that changed the world."
@@ -145654,6 +145986,10 @@
   "electricity+rock-music": {
     "result": "synthesizer",
     "reasoning": "Electricity creating Rock Music \u2014 a Synthesizer. Music was never the same."
+  },
+  "electricity+rocket": {
+    "result": "satellite",
+    "reasoning": "Sputnik 1, launched in 1957 via rocket, used battery-powered radio transmitters to broadcast its famous beep \u2014 proving that electricity and rocketry together could place an object in permanent Earth orbit."
   },
   "electricity+saxophone": {
     "result": "synthesizer",
@@ -145738,6 +146074,10 @@
   "electricity+transistor": {
     "result": "capacitor",
     "reasoning": "Electricity and Transistor share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
+  },
+  "electricity+tributary": {
+    "result": "hydropower",
+    "reasoning": "Small tributaries are increasingly valuable for run-of-river hydropower plants, which generate electricity without dams by channeling streamflow directly through turbines."
   },
   "electricity+trumpet": {
     "result": "synthesizer",
@@ -147094,6 +147434,10 @@
   "elk+jerky": {
     "result": "bison",
     "reasoning": "The science is clear \u2014 A bison is a large bovine in the genus Bison within the tribe Bovini. Mix Elk and Jerky for Bison."
+  },
+  "elk+joy": {
+    "result": "national-park",
+    "reasoning": "Elk were the iconic animals that Yellowstone's 1872 founders most sought to protect, and the sight of bugling bull elk in autumn remains one of the experiences that conservationists cite as the emotional argument for national parks."
   },
   "elk+kiln": {
     "result": "jerky",
@@ -155051,6 +155395,10 @@
     "result": "cryptocurrency",
     "reasoning": "Wikipedia says: A cryptocurrency is a digital currency designed to work through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it. That explains why Encryption + Investment = Cryptocurrency."
   },
+  "encryption+knowledge": {
+    "result": "cryptography",
+    "reasoning": "Cryptography is the mathematical science of encoding knowledge so only intended parties can decode it, tracing from Caesar's shift cipher through Enigma to RSA public-key algorithms protecting billions of daily internet transactions."
+  },
   "encryption+laptop": {
     "result": "bluetooth",
     "reasoning": "The science is clear \u2014 Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). Mix Encryption and Laptop for Bluetooth."
@@ -155367,6 +155715,10 @@
     "result": "calculus",
     "reasoning": "Here's a real-world link: Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. Combine Energy with matter and you get Calculus."
   },
+  "energy+meat": {
+    "result": "fuel",
+    "reasoning": "Calorie-dense animal fat and protein in meat provided the metabolic fuel that enabled early humans to grow expensive large brains\u2014gram for gram, cooked meat delivers far more energy than any plant food, giving meat-eaters a decisive evolutionary advantage."
+  },
   "energy+metal": {
     "result": "wire",
     "reasoning": "Processing Energy with metal yields Wire"
@@ -155623,13 +155975,45 @@
     "result": "rocket",
     "reasoning": "Fuel-powered engine thrusting upward \u2014 a rocket"
   },
+  "engine+fun": {
+    "result": "roller-coaster",
+    "reasoning": "The first modern roller coaster at Coney Island in 1884 demonstrated that the simple engine of gravity converting potential energy into kinetic thrills could become an entire entertainment industry."
+  },
+  "engine+gene": {
+    "result": "genetic-engineering",
+    "reasoning": "CRISPR-Cas9 functions like a molecular engine \u2014 a protein machine that uses an RNA guide to find a precise DNA sequence and make a cut, enabling genetic engineering with a specificity previously impossible."
+  },
+  "engine+generosity": {
+    "result": "community",
+    "reasoning": "Anthropologists have found that generosity \u2014 particularly food sharing \u2014 is the engine that drove the formation of the first human communities, as reciprocal altruism created bonds stronger than kinship alone."
+  },
   "engine+ghost": {
     "result": "bug",
     "reasoning": "In 1947, a moth trapped in a relay of the Harvard Mark II computer caused a malfunction; Grace Hopper's team taped it into the logbook as the first literal 'bug,' making a ghost in the machine the origin of all software errors."
   },
+  "engine+gimbal": {
+    "result": "gyroscope",
+    "reasoning": "L\u00e9on Foucault invented the gyroscope in 1852 by mounting a rapidly spinning engine inside gimbals that allowed free rotation in any direction, providing the first direct demonstration of Earth's rotation to a popular audience."
+  },
+  "engine+goblin": {
+    "result": "invention",
+    "reasoning": "Germanic folklore held that 'Kobolds' \u2014 mischievous underground goblins \u2014 were responsible for mysterious engine-like noises in mines, and frustrated miners named the toxic ore cobalt after them when it ruined their smelting."
+  },
+  "engine+goose": {
+    "result": "airplane",
+    "reasoning": "Otto Lilienthal studied the cambered wing profiles of birds including geese before designing his gliders, and the Wright Brothers' engine-powered airplane directly incorporated those curved wing shapes that mimic avian flight surfaces."
+  },
   "engine+grasshopper": {
     "result": "catapult",
     "reasoning": "A catapult is a ballistic device used to launch a projectile at a great distance without the aid of gunpowder or other propellants \u2013 particularly various types of ancient and medieval siege engines. So when Engine meets Grasshopper, Catapult is the natural outcome."
+  },
+  "engine+heat": {
+    "result": "steam-engine",
+    "reasoning": "James Watt's 1776 steam engine converted heat into mechanical motion with an efficiency of roughly 3%, but its world-changing insight \u2014 that heat is a form of energy that can drive a machine \u2014 launched the Industrial Revolution."
+  },
+  "engine+herb": {
+    "result": "distilling",
+    "reasoning": "Arab chemist Al-Kindi wrote the earliest known recipe for distilling herbal essential oils around 850 CE, creating the engine of perfumery, pharmacy, and eventually the entire spirits industry."
   },
   "engine+hourglass": {
     "result": "clock",
@@ -155647,9 +156031,29 @@
     "result": "capacitor",
     "reasoning": "Engine and Hydropower share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
   },
+  "engine+inertia": {
+    "result": "flywheel",
+    "reasoning": "James Watt added a flywheel to his steam engine in 1788 specifically to harness rotational inertia, smoothing out the uneven power strokes into steady rotation \u2014 it remains the fundamental way engines store energy today."
+  },
   "engine+infrastructure": {
     "result": "dam",
     "reasoning": "Here's a real-world link: A dam is a barrier that stops or restricts the flow of surface water or underground streams. Combine Engine with Infrastructure and you get Dam."
+  },
+  "engine+instinct": {
+    "result": "robot",
+    "reasoning": "Early roboticist Rodney Brooks argued that useful robots needed programmed 'subsumption architectures' \u2014 layered instinct-like reflexes that bypass deliberate reasoning \u2014 rather than complex engines of logical thought."
+  },
+  "engine+intuition": {
+    "result": "navigation",
+    "reasoning": "Before GPS, ship navigators used 'dead reckoning' \u2014 an intuitive engine of the mind combining speed, heading, and time \u2014 and the word 'navigation' itself derives from the Latin for ship, reflecting that seamanship was the original intuitive wayfinding."
+  },
+  "engine+jellyfish": {
+    "result": "robot",
+    "reasoning": "Jellyfish inspired underwater robots because their pulsing bell locomotion is one of nature's most energy-efficient propulsion systems, consuming 48% less energy than fish swimming."
+  },
+  "engine+keep": {
+    "result": "siege",
+    "reasoning": "Medieval siege engines \u2014 trebuchets, battering rams, and mangonels \u2014 were purpose-built war machines designed specifically to breach the stone keeps of fortified castles."
   },
   "engine+king": {
     "result": "mechanic",
@@ -155691,13 +156095,29 @@
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
   },
+  "engine+manatee": {
+    "result": "boat",
+    "reasoning": "Up to 25% of adult West Indian manatees bear propeller scars from motorboat engines, and boat strikes remain the leading cause of manatee mortality in Florida \u2014 a tragic collision between industrial engines and slow, surface-breathing mammals."
+  },
+  "engine+maze": {
+    "result": "algorithm",
+    "reasoning": "The first published maze-solving algorithm was described by Leonhard Euler in 1736 while solving the K\u00f6nigsberg Bridge Problem \u2014 the same paper that founded graph theory and gave engineers a systematic engine for navigating complex networks."
+  },
   "engine+meat": {
     "result": "sausage",
     "reasoning": "The industrial sausage stuffer, mechanized in the 1840s, used a screw-press engine to force minced meat through metal cylinders at scale \u2014 making sausage one of the first mass-produced engine-made foods in history."
   },
+  "engine+microphone": {
+    "result": "broadcast",
+    "reasoning": "The first radio broadcast in 1906 required Reginald Fessenden to use a high-frequency alternator engine generating 100 kHz to carry his microphone's voice signal far enough for ships to hear it on Christmas Eve."
+  },
   "engine+moat": {
     "result": "battering-ram",
     "reasoning": "Engine and Moat share a deep connection. A battering ram is a siege engine that originated in ancient times and was designed to break open the masonry walls of fortifications or splinter their wooden gates. Result: Battering Ram."
+  },
+  "engine+momentum": {
+    "result": "rocket",
+    "reasoning": "Rocket engines apply Newton's third law \u2014 expelling mass backward to generate forward momentum \u2014 a principle Konstantin Tsiolkovsky mathematically proved in 1903 could theoretically achieve orbital velocity."
   },
   "engine+monk": {
     "result": "mechanic",
@@ -155707,9 +156127,25 @@
     "result": "dam",
     "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. That's the connection between Engine and mountain \u2014 giving us Dam."
   },
+  "engine+mousse": {
+    "result": "aerogel",
+    "reasoning": "Aerogel, the world's lightest solid, begins as a silica gel with a mousse-like nano-foam structure; a supercritical drying engine then replaces all the liquid with gas at extreme pressure, preserving the airy framework to create a material that is 99.8% air."
+  },
+  "engine+mucus": {
+    "result": "oil",
+    "reasoning": "Just as mucus lubricates biological systems by reducing friction between tissues, engine oil forms a thin hydrodynamic film between metal surfaces, and both are viscous, long-chain polymer fluids that degrade under heat and shear."
+  },
   "engine+multimeter": {
     "result": "diode",
     "reasoning": "The science is clear \u2014 A diode is a two-terminal electronic component that conducts electric current primarily in one direction. Mix Engine and Multimeter for Diode."
+  },
+  "engine+muskeg": {
+    "result": "tractor",
+    "reasoning": "Caterpillar's tracked tractor was specifically engineered with wide treads to distribute weight over boggy muskeg terrain, enabling logging and mining operations across Canada's vast northern peatlands."
+  },
+  "engine+notebook": {
+    "result": "laptop",
+    "reasoning": "The first commercial laptop, the Osborne 1 of 1981, weighed 10.7 kg and was nicknamed the 'luggable' \u2014 today's ultrathin notebook packs more computing engine than filled entire rooms just forty years prior."
   },
   "engine+oil": {
     "result": "combustion",
@@ -155727,9 +156163,17 @@
     "result": "clock",
     "reasoning": "Wikipedia says: A clock or chronometer is a device that measures and displays time. That explains why Engine + Pendulum = Clock."
   },
+  "engine+perceptron": {
+    "result": "neural-network",
+    "reasoning": "Frank Rosenblatt's 1957 perceptron was the first trainable computational unit, and stacking many perceptrons in layers creates a neural network \u2014 it is the fundamental engine of modern deep learning."
+  },
   "engine+photodiode": {
     "result": "diode",
     "reasoning": "A diode is a two-terminal electronic component that conducts electric current primarily in one direction. So when Engine meets Photodiode, Diode is the natural outcome."
+  },
+  "engine+photosynthesis": {
+    "result": "solar-panel",
+    "reasoning": "Dye-sensitized solar cells mimic chlorophyll by using light-absorbing molecules to convert sunlight directly into electricity \u2014 artificial photosynthesis that borrows an engine plants perfected 3.4 billion years ago."
   },
   "engine+piranha": {
     "result": "dam",
@@ -155739,9 +156183,25 @@
     "result": "dam",
     "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. So when Engine meets Plateau, Dam is the natural outcome."
   },
+  "engine+platinum": {
+    "result": "catalyst",
+    "reasoning": "Platinum is the key catalyst in catalytic converters, where it accelerates the conversion of toxic engine exhaust gases like carbon monoxide and nitrogen oxides into harmless nitrogen and carbon dioxide at over 400\u00b0C."
+  },
+  "engine+playstation": {
+    "result": "fps",
+    "reasoning": "The PlayStation's 33 MHz MIPS processor engine was just powerful enough to render real-time 3D graphics in 1994, catalyzing the first-person shooter genre's leap from PC to living room console."
+  },
   "engine+police": {
     "result": "battering-ram",
     "reasoning": "Engine and Police share a deep connection. A battering ram is a siege engine that originated in ancient times and was designed to break open the masonry walls of fortifications or splinter their wooden gates. Result: Battering Ram."
+  },
+  "engine+polka": {
+    "result": "industrial-revolution",
+    "reasoning": "The polka emerged in 1830s Bohemia precisely as steam engines began transforming Czech factories, and historians have noted its relentlessly mechanical 2/4 rhythm mirrors the driving tempo of the industrial age that birthed it."
+  },
+  "engine+pollution": {
+    "result": "smog",
+    "reasoning": "Los Angeles famously coined the term 'smog' in the 1940s when internal combustion engine exhaust reacted with sunlight to produce the photochemical haze that still plagues cities worldwide."
   },
   "engine+potentiometer": {
     "result": "diode",
@@ -155755,9 +156215,21 @@
     "result": "capacitor",
     "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. So when Engine meets Pump, Capacitor is the natural outcome."
   },
+  "engine+quantum": {
+    "result": "quantum-computer",
+    "reasoning": "A quantum computer is essentially a computational engine that uses quantum mechanical phenomena like superposition and entanglement to perform calculations that would take classical processors longer than the age of the universe."
+  },
+  "engine+quasar": {
+    "result": "black-hole",
+    "reasoning": "Quasars are powered by supermassive black holes devouring surrounding matter at extraordinary rates \u2014 the accretion disk can outshine an entire galaxy of stars, making black holes the most powerful engines in the universe."
+  },
   "engine+queen": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
+  },
+  "engine+rabbit": {
+    "result": "motor",
+    "reasoning": "Electric motors and rabbits share a surprising trait: both achieve high-torque bursts through rapid energy conversion \u2014 rabbits via fast-twitch muscle fibers, motors via electromagnetic induction \u2014 making 'motor' the natural mechanical analogue."
   },
   "engine+rain": {
     "result": "hydropower",
@@ -155775,17 +156247,37 @@
     "result": "clock",
     "reasoning": "A clock or chronometer is a device that measures and displays time. That's the connection between Engine and Resonance \u2014 giving us Clock."
   },
+  "engine+retina": {
+    "result": "computer-vision",
+    "reasoning": "The retina's layered structure\u2014where ganglion cells, bipolar cells, and photoreceptors perform hierarchical processing before signals even reach the brain\u2014directly inspired the layered convolutional architecture of modern computer vision neural networks."
+  },
+  "engine+road": {
+    "result": "car",
+    "reasoning": "Karl Benz's 1885 Motorwagen combined a gasoline engine with a road vehicle for the first time \u2014 its 0.75 horsepower could reach 16 km/h, and its patent is considered the birth certificate of the automobile."
+  },
   "engine+rocket": {
     "result": "combustion",
     "reasoning": "Engine and Rocket share a deep connection. Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Result: Combustion."
+  },
+  "engine+samsung": {
+    "result": "android",
+    "reasoning": "Samsung is the world's largest Android smartphone manufacturer, embedding ARM processor engines in billions of devices \u2014 making the company so dominant that Android and Samsung became near-synonymous in most global markets."
   },
   "engine+semiconductor": {
     "result": "diode",
     "reasoning": "The science is clear \u2014 A diode is a two-terminal electronic component that conducts electric current primarily in one direction. Mix Engine and Semiconductor for Diode."
   },
+  "engine+sensor": {
+    "result": "self-driving-car",
+    "reasoning": "Autonomous vehicles fuse combustion or electric engines with arrays of LiDAR, radar, ultrasonic, and camera sensors that perceive the environment at superhuman speeds, representing the convergence of mechanical power and digital perception."
+  },
   "engine+siege": {
     "result": "battering-ram",
     "reasoning": "A battering ram is a siege engine that originated in ancient times and was designed to break open the masonry walls of fortifications or splinter their wooden gates. That's the connection between Engine and Siege \u2014 giving us Battering Ram."
+  },
+  "engine+sinkhole": {
+    "result": "mining",
+    "reasoning": "The catastrophic 2010 Guatamal City sinkhole \u2014 20 stories deep \u2014 was partly triggered by underground pipe failures eroding soil, the same process that causes abandoned mine tunnels to collapse into sinkholes."
   },
   "engine+smelting": {
     "result": "copper",
@@ -155799,6 +156291,14 @@
     "result": "snowmobile",
     "reasoning": "An engine on snow makes a Snowmobile"
   },
+  "engine+snowboard": {
+    "result": "snowmobile",
+    "reasoning": "Joseph-Armand Bombardier invented the snowmobile in 1937 after his young son died because a blizzard blocked the doctor's path to their Quebec farm, turning grief into a motorized revolution in winter travel."
+  },
+  "engine+song": {
+    "result": "blues",
+    "reasoning": "Blues music evolved directly from the rhythmic work songs enslaved African Americans sang to the mechanical beat of steam-powered hammers and cotton gin engines, with the 12-bar structure mirroring the repetitive stroke of industrial labor."
+  },
   "engine+space": {
     "result": "rocket",
     "reasoning": "Crafting Engine with space produces Rocket"
@@ -155806,6 +156306,14 @@
   "engine+space-wizard": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
+  },
+  "engine+speech": {
+    "result": "broadcast",
+    "reasoning": "Radio transmitters, the first 'speech engines,' enabled Reginald Fessenden to broadcast the human voice across hundreds of miles for the first time on Christmas Eve 1906."
+  },
+  "engine+spider": {
+    "result": "web",
+    "reasoning": "Search engine 'spiders' \u2014 automated programs that crawl the World Wide Web by following hyperlinks \u2014 were named after spiders because, like their biological namesakes, they continuously build and traverse a vast interconnected web."
   },
   "engine+stadium": {
     "result": "dam",
@@ -155827,6 +156335,10 @@
     "result": "dam",
     "reasoning": "The science is clear \u2014 A dam is a barrier that stops or restricts the flow of surface water or underground streams. Mix Engine and stream for Dam."
   },
+  "engine+submarine": {
+    "result": "nuclear-reactor",
+    "reasoning": "The USS Nautilus, launched in 1954, was the world's first nuclear-powered submarine, using a reactor to generate virtually unlimited underwater range without ever needing to surface for air."
+  },
   "engine+sun": {
     "result": "solar-panel",
     "reasoning": "Bell Labs invented the first practical silicon photovoltaic cell in 1954 at just 6% efficiency, proving that sunlight itself could drive an engine \u2014 converting photons directly into electrons without any moving parts."
@@ -155835,9 +156347,17 @@
     "result": "clock",
     "reasoning": "Engine and Sundial share a deep connection. A clock or chronometer is a device that measures and displays time. Result: Clock."
   },
+  "engine+sunspot": {
+    "result": "aurora",
+    "reasoning": "Sunspots mark intense magnetic activity on the Sun's surface that drives the solar wind \u2014 essentially the Sun's engine output \u2014 which funnels charged particles into Earth's poles to create the shimmering auroras visible from the ground."
+  },
   "engine+temperature": {
     "result": "combustion",
     "reasoning": "Engine and Temperature share a deep connection. Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Result: Combustion."
+  },
+  "engine+thermometer": {
+    "result": "thermostat",
+    "reasoning": "Warren Johnson invented the bimetallic thermostat in 1883 so hotel guests could signal for temperature adjustments without disturbing teachers mid-lecture, creating the feedback engine that made central heating and cooling practical."
   },
   "engine+tool": {
     "result": "block-and-tackle",
@@ -155846,6 +156366,10 @@
   "engine+track": {
     "result": "train",
     "reasoning": "Crafting Engine with track produces Train"
+  },
+  "engine+traffic": {
+    "result": "highway",
+    "reasoning": "Germany's Autobahn, conceived in the 1920s and built in the 1930s, was the world's first road system designed specifically for engine-powered vehicles at high speed, directly inspiring Eisenhower's U.S. Interstate Highway System."
   },
   "engine+trebuchet": {
     "result": "catapult",
@@ -155859,6 +156383,22 @@
     "result": "dam",
     "reasoning": "Engine and Tributary share a deep connection. A dam is a barrier that stops or restricts the flow of surface water or underground streams. Result: Dam."
   },
+  "engine+trout": {
+    "result": "dam",
+    "reasoning": "Hydroelectric dams harness the same flowing water energy that trout evolved to navigate upstream, but their turbine engines create impassable barriers that have devastated wild trout and salmon populations worldwide."
+  },
+  "engine+trumpet": {
+    "result": "synthesizer",
+    "reasoning": "Robert Moog's 1964 synthesizer replaced the physical air-column engine of brass instruments with electronic oscillators, allowing a single musician to recreate an entire orchestra \u2014 or produce sounds no horn had ever made."
+  },
+  "engine+vertebra": {
+    "result": "prosthetic",
+    "reasoning": "The world's most advanced powered prosthetic limbs use small electric engines integrated into a structural 'vertebral' frame, with torque sensors and microprocessors replicating the function of the spinal cord's motor neurons."
+  },
+  "engine+warlock": {
+    "result": "golem",
+    "reasoning": "In Jewish folklore, a golem is an artificially animated being brought to life by magical inscription \u2014 effectively a mystical automaton, making it the warlock's equivalent of a mechanical engine."
+  },
   "engine+waste": {
     "result": "combustion",
     "reasoning": "The science is clear \u2014 Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Engine and waste for Combustion."
@@ -155870,6 +156410,10 @@
   "engine+wheel": {
     "result": "car",
     "reasoning": "An engine powering wheels \u2014 the automobile"
+  },
+  "engine+wildfire": {
+    "result": "combustion",
+    "reasoning": "The internal combustion engine harnesses the same rapid oxidation reaction as a wildfire \u2014 both rely on a fuel-oxygen mixture igniting exothermically \u2014 the difference being that engineers contain and time the explosion to do useful work."
   },
   "engine+winch": {
     "result": "block-and-tackle",
@@ -155958,6 +156502,10 @@
   "engineer+machine": {
     "result": "automation",
     "reasoning": "Here's a real-world link: Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Combine Engineer with machine and you get Automation."
+  },
+  "engineer+meat": {
+    "result": "sausage",
+    "reasoning": "Sausage-making is a food engineering triumph: precise grind sizes, fat-to-meat ratios, casing diameters, and temperature controls must be calculated to create a stable emulsified product of consistent texture, flavor, and shelf life."
   },
   "engineer+metal": {
     "result": "bauxite",
@@ -156090,6 +156638,10 @@
   "engineer+watch": {
     "result": "astronaut",
     "reasoning": "Wikipedia says: An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. That explains why Engineer + Watch = Astronaut."
+  },
+  "engineer+wind": {
+    "result": "wind-turbine",
+    "reasoning": "Modern wind turbine engineering requires solving one of the most complex problems in fluid dynamics\u2014the Betz limit\u2014which states that no turbine can extract more than 59.3% of the kinetic energy from wind, a constraint that shapes every blade design."
   },
   "engineer+xml": {
     "result": "byte",
@@ -156443,6 +156995,10 @@
     "result": "bit",
     "reasoning": "The science is clear \u2014 The bit is the most basic unit of information in computing and digital communication. Mix Entropy and Radio for Bit."
   },
+  "entropy+rain": {
+    "result": "erosion",
+    "reasoning": "Rain introduces thermodynamic disorder into landscapes, with entropy driving the irreversible process of erosion that carves canyons and coastlines over millions of years."
+  },
   "entropy+recursion": {
     "result": "chaos-theory",
     "reasoning": "Entropy and Recursion share a deep connection. Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Result: Chaos Theory."
@@ -156506,6 +157062,10 @@
   "entropy+weather": {
     "result": "chaos-theory",
     "reasoning": "Entropy and weather share a deep connection. Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Result: Chaos Theory."
+  },
+  "entropy+wind": {
+    "result": "chaos-theory",
+    "reasoning": "Chaos theory was born when meteorologist Edward Lorenz discovered in 1961 that microscopic variations in wind conditions\u2014tiny entropy in initial states\u2014made weather prediction beyond two weeks mathematically impossible, coining the 'butterfly effect.'"
   },
   "entropy+wormhole": {
     "result": "black-hole",
@@ -156682,6 +157242,10 @@
   "enzyme+machine": {
     "result": "antibiotic",
     "reasoning": "Enzyme and machine share a deep connection. An antibiotic is a type of antimicrobial substance active against bacteria. Result: Antibiotic."
+  },
+  "enzyme+metal": {
+    "result": "catalyst",
+    "reasoning": "Metalloenzymes \u2014 enzymes containing iron, zinc, copper, or manganese at their active sites \u2014 are biology's master catalysts, accelerating reactions like carbonic acid formation by factors of up to one trillion compared to uncatalyzed rates."
   },
   "enzyme+miscellaneous": {
     "result": "anomaly",
@@ -157846,6 +158410,10 @@
   "escarpment+habitat": {
     "result": "nature-documentary",
     "reasoning": "Escarpment meets Habitat. David Attenborough narrates. It's a Nature Documentary."
+  },
+  "escarpment+hammer": {
+    "result": "mining",
+    "reasoning": "Escarpments expose geological strata that erosion has sliced open, revealing seams of coal, iron, and other minerals \u2014 making cliff-face mining a practice dating to antiquity, where the hammer was the primary extraction tool for millennia."
   },
   "escarpment+hill": {
     "result": "erosion",
@@ -161155,6 +161723,10 @@
     "result": "peer-review",
     "reasoning": "Experiment + Statistics = Peer Review. 'Your methodology is questionable.' \u2014 Reviewer 2, always."
   },
+  "experiment+steam": {
+    "result": "thermodynamics",
+    "reasoning": "James Watt's meticulous steam experiments in the 1760s\u2014measuring heat loss, pressure, and efficiency in sealed cylinders\u2014produced the empirical foundations of thermodynamics, the science that defines how energy converts to mechanical work."
+  },
   "experiment+stem-cell": {
     "result": "textbook",
     "reasoning": "Experiment + Stem Cell = a Textbook. Expensive, heavy, and obsolete by next semester."
@@ -162338,6 +162910,10 @@
   "factory+tool": {
     "result": "automation",
     "reasoning": "Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. That's the connection between Factory and tool \u2014 giving us Automation."
+  },
+  "factory+training": {
+    "result": "automation",
+    "reasoning": "AI training pipelines are essentially digital factories \u2014 processing raw datasets through GPU assembly lines to manufacture model weights \u2014 blurring the conceptual line between industrial mass production and machine learning."
   },
   "factory+turkey": {
     "result": "barn",
@@ -163819,6 +164395,10 @@
     "result": "chicken",
     "reasoning": "The chicken is a domesticated form of the red junglefowl, originally native to Southeast Asia. So when Falcon meets Yak, Chicken is the natural outcome."
   },
+  "fallacy+joy": {
+    "result": "comedy",
+    "reasoning": "Aristotle observed that comedy is rooted in harmless logical incongruity \u2014 exploiting the gap between faulty reasoning and reality for laughs, a technique unchanged from Aristophanes to stand-up today."
+  },
   "fallacy+knowledge": {
     "result": "belief",
     "reasoning": "Wikipedia says: A belief is a subjective attitude that something is true or a state of affairs is the case. That explains why Fallacy + knowledge = Belief."
@@ -164895,6 +165475,10 @@
     "result": "anger",
     "reasoning": "fear and Joy share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
   },
+  "fear+knife": {
+    "result": "instinct",
+    "reasoning": "The amygdala triggers fight-or-flight instinct within milliseconds of detecting a sharp object \u2014 firing before conscious thought even registers the threat, a survival reflex honed across millions of years of predator-prey evolution."
+  },
   "fear+loneliness": {
     "result": "attention",
     "reasoning": "fear and Loneliness share a deep connection. Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Result: attention."
@@ -164906,6 +165490,10 @@
   "fear+money": {
     "result": "insurance",
     "reasoning": "fear and money together shape Insurance"
+  },
+  "fear+nickel": {
+    "result": "goblin",
+    "reasoning": "German miners coined the term 'Kupfernickel' \u2014 literally 'copper goblin' or 'Old Nick's copper' \u2014 for the ore that looked like copper but yielded nothing useful, and that feared trickster mineral eventually gave nickel its name."
   },
   "fear+nightmare": {
     "result": "hysteria",
@@ -164971,9 +165559,17 @@
     "result": "attention",
     "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when fear meets Shame, attention is the natural outcome."
   },
+  "fear+slack": {
+    "result": "anxiety",
+    "reasoning": "Studies show that always-on messaging platforms like Slack create chronic anxiety through the psychological pressure of unread notifications and the expectation of instant replies, blurring the boundary between work and personal time."
+  },
   "fear+soul-music": {
     "result": "ballad",
     "reasoning": "fear in Soul Music creates a Ballad \u2014 music that tells a story."
+  },
+  "fear+spider": {
+    "result": "anxiety",
+    "reasoning": "Arachnophobia affects roughly 3\u201315% of the population and triggers full anxiety responses \u2014 racing heart, sweating, freezing \u2014 even from photographs of spiders, suggesting an ancient evolutionary origin."
   },
   "fear+symbol": {
     "result": "archetype",
@@ -167475,6 +168071,10 @@
     "result": "animation",
     "reasoning": "Film and Mousetrap share a deep connection. Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. Result: Animation."
   },
+  "film+mud": {
+    "result": "nature-documentary",
+    "reasoning": "Mud flats and tidal mudflats are among the most biodiverse filming locations on Earth, and nature documentaries like the BBC's Planet Earth have dedicated entire sequences to the extraordinary creatures that live in and on mud."
+  },
   "film+newspaper": {
     "result": "album",
     "reasoning": "Here's a real-world link: An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Combine Film with Newspaper and you get Album."
@@ -167723,6 +168323,10 @@
     "result": "forging",
     "reasoning": "Fire and iron come together in Forging"
   },
+  "fire+iss": {
+    "result": "zero-gravity",
+    "reasoning": "Aboard the ISS, NASA discovered that fire burns as a perfect sphere in microgravity \u2014 without gravity pulling hot gases upward, flames form a cool, round diffusion bubble that behaves nothing like any fire ever seen on Earth."
+  },
   "fire+jam": {
     "result": "cooking",
     "reasoning": "Cooking fruit with sugar makes jam, preserved summer in a jar"
@@ -167730,6 +168334,10 @@
   "fire+juice": {
     "result": "jam",
     "reasoning": "Boiling juice with sugar concentrates it into Jam"
+  },
+  "fire+kaolin": {
+    "result": "porcelain",
+    "reasoning": "True porcelain requires firing kaolin clay at over 1,260\u00b0C \u2014 temperatures European potters couldn't achieve for centuries \u2014 keeping Chinese porcelain a mysterious 'white gold' that inspired obsessive attempts at replication across medieval Europe."
   },
   "fire+kebab": {
     "result": "steak",
@@ -167823,6 +168431,10 @@
     "result": "soup",
     "reasoning": "Hot water transforms miso paste into Soup at every Japanese meal"
   },
+  "fire+motor": {
+    "result": "combustion",
+    "reasoning": "The internal combustion engine works by precisely igniting fire inside sealed cylinders to drive pistons, making controlled combustion the mechanical principle that dominated 20th-century transportation on land, sea, and air."
+  },
   "fire+mountain": {
     "result": "mount-everest",
     "reasoning": "Fire and mountain together shape Mount Everest"
@@ -167834,6 +168446,10 @@
   "fire+naan": {
     "result": "bread",
     "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
+  },
+  "fire+nail": {
+    "result": "blacksmith",
+    "reasoning": "Roman blacksmiths heated iron nails to glowing orange before hammering them into shape, and withdrawing legions sometimes burned entire forts just to sift the ashes for salvageable melted nails \u2014 so valuable was the iron."
   },
   "fire+noodle": {
     "result": "ramen",
@@ -168282,6 +168898,10 @@
   "fire+wood": {
     "result": "charcoal",
     "reasoning": "Slowly burning wood in limited air produces charcoal"
+  },
+  "fire+x-ray": {
+    "result": "plasma-state",
+    "reasoning": "Fire at its core is plasma \u2014 the fourth state of matter where electrons are stripped from nuclei \u2014 while X-ray crystallography and plasma spectroscopy together are scientists' primary tools for probing the physics of stellar fusion."
   },
   "fire+yogurt": {
     "result": "cooking",
@@ -179603,6 +180223,10 @@
     "result": "bitumen",
     "reasoning": "The science is clear \u2014 Bitumen is an immensely viscous constituent of petroleum. Mix fuel and Roof for Bitumen."
   },
+  "fuel+sand": {
+    "result": "petroleum",
+    "reasoning": "Oil sands \u2014 naturally occurring mixtures of quartz sand, water, clay, and bitumen \u2014 hold some of the planet's largest petroleum reserves, with Alberta's Athabasca deposit containing over 165 billion barrels of recoverable oil."
+  },
   "fuel+shale": {
     "result": "coal",
     "reasoning": "Wikipedia says: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. That explains why fuel + Shale = Coal."
@@ -184279,6 +184903,10 @@
     "result": "gear",
     "reasoning": "Here's a real-world link: A gear or gearwheel, also called a toothed wheel, is a rotating machine part typically used to transmit rotational motion or torque by means of a series of \"teeth\" that engage with compatible teeth of another gear or other part. Combine Gears with Windmill and you get Gear."
   },
+  "geiger-counter+mud": {
+    "result": "radioactivity",
+    "reasoning": "River sediments and mudflats naturally concentrate radioactive isotopes like radium-226 and uranium-238 washed from bedrock, making geiger counter surveys of mud a standard technique in environmental radiation monitoring."
+  },
   "gel+graphene": {
     "result": "aerogel",
     "reasoning": "The science is clear \u2014 Aerogels are a class of synthetic porous ultralight material derived from a gel, in which the liquid component for the gel has been replaced with a gas, without significant collapse of the gel structure. Mix Gel and Graphene for Aerogel."
@@ -184310,6 +184938,10 @@
   "gel+skeleton": {
     "result": "cartilage",
     "reasoning": "Here's a real-world link: Cartilage is a resilient and smooth type of connective tissue. Combine Gel with Skeleton and you get Cartilage."
+  },
+  "gel+steam": {
+    "result": "gelatin",
+    "reasoning": "Gelatin is extracted by steaming animal bones and connective tissue for hours, breaking down collagen proteins into individual chains that, upon cooling, re-link into the elastic gel matrix used in desserts, photography film, and pharmaceuticals."
   },
   "gel+syringe": {
     "result": "elixir",
@@ -190159,6 +190791,10 @@
     "result": "chemistry",
     "reasoning": "Chemistry is the scientific study of the properties and behavior of matter. So when Geologist meets weight, Chemistry is the natural outcome."
   },
+  "geology+ghost": {
+    "result": "fossil",
+    "reasoning": "Paleontologists use the term 'ghost lineage' to describe species that must have existed based on gaps in the fossil record\u2014spectral absences in geological strata where a creature should appear but left no physical trace for millions of years."
+  },
   "geology+habitat": {
     "result": "biology",
     "reasoning": "Wikipedia says: Biology is the scientific study of life and living organisms. That explains why Geology + Habitat = Biology."
@@ -190183,9 +190819,17 @@
     "result": "avalanche",
     "reasoning": "Here's a real-world link: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. Combine Geology with Landslide and you get Avalanche."
   },
+  "geology+lava": {
+    "result": "volcano",
+    "reasoning": "James Hutton, the 'father of geology,' was first to recognize in 1788 that volcanic lava and ancient igneous rocks are formed by the same ongoing processes \u2014 a revolutionary insight into Earth's deep time."
+  },
   "geology+matter": {
     "result": "biology",
     "reasoning": "Wikipedia says: Biology is the scientific study of life and living organisms. That explains why Geology + matter = Biology."
+  },
+  "geology+meat": {
+    "result": "fossil",
+    "reasoning": "The preservation of soft tissue\u2014like the 65-million-year-old T. rex collagen discovered in 2005\u2014requires extraordinary geological conditions including rapid burial in fine-grained sediment, making fossilized meat one of the rarest finds in paleontology."
   },
   "geology+microbiome": {
     "result": "biome",
@@ -190735,6 +191379,10 @@
     "result": "banshee",
     "reasoning": "A banshee is a female spirit in Irish folklore who heralds the death of a family member, usually by screaming, wailing, shrieking, or keening. That's the connection between Ghost and Goblin \u2014 giving us Banshee."
   },
+  "ghost+habitat": {
+    "result": "will-o-wisp",
+    "reasoning": "Will-o'-the-wisps\u2014ghostly lights seen hovering over marshes and bogs\u2014are now understood to be the faint chemiluminescence of methane and phosphine gases released as organic matter decomposes in wetland habitats."
+  },
   "ghost+ice": {
     "result": "wendigo",
     "reasoning": "The Wendigo is an Algonquian spirit that haunts frozen northern landscapes \u2014 embodying the terror of winter starvation, the myth likely originated as a cultural warning against cannibalism during brutal Canadian winters when food ran desperately scarce."
@@ -190819,6 +191467,10 @@
     "result": "crypt",
     "reasoning": "Ghosts haunt dark Crypts, restless spirits of the departed"
   },
+  "ghost+population": {
+    "result": "legend",
+    "reasoning": "The 1590 disappearance of Roanoke Colony's entire 117-person population\u2014leaving only the word 'CROATOAN' carved in a post\u2014created America's first enduring ghost legend and remains officially unsolved after four centuries."
+  },
   "ghost+prayer": {
     "result": "afterlife",
     "reasoning": "The science is clear \u2014 The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. Mix Ghost and Prayer for Afterlife."
@@ -190830,6 +191482,10 @@
   "ghost+rain": {
     "result": "mist",
     "reasoning": "In folklore across cultures, ghosts are said to appear in misty, rainy conditions because water vapor blurs the boundary between physical and spirit worlds \u2014 the liminal atmosphere of mist has made it the natural haunt of phantoms in stories worldwide."
+  },
+  "ghost+rainforest": {
+    "result": "cryptid",
+    "reasoning": "Rainforests are global hotspots for cryptid reports \u2014 from the Mapinguari of the Amazon to the Orang Pendek of Sumatra \u2014 where dense, uncharted canopy transforms local ghost legends into unverified creature sightings."
   },
   "ghost+reality": {
     "result": "afterlife",
@@ -190855,6 +191511,10 @@
     "result": "ethereal-plane",
     "reasoning": "Combine Ghost with Spirit to create Ethereal Plane."
   },
+  "ghost+stalactite": {
+    "result": "grotto",
+    "reasoning": "Sacred grottos adorned with stalactites have been sites of ghost veneration and spiritual ritual across cultures, from the Oracle's caves at Delphi to the miraculous grotto at Lourdes, where geological darkness seems to summon the supernatural."
+  },
   "ghost+stone": {
     "result": "gargoyle",
     "reasoning": "Medieval cathedral builders carved grotesque gargoyles from stone believing that a fearsome stone form could trap and neutralize malevolent spirits seeking to enter sacred spaces \u2014 the gargoyle is a ghost imprisoned in rock."
@@ -190874,6 +191534,10 @@
   "ghost+tree": {
     "result": "dryad",
     "reasoning": "In Greek mythology, dryads are tree nymphs \u2014 immortal spirits that inhabit individual trees and wither if their tree is cut down, making every ancient forest a sanctuary populated by the souls of the trees themselves."
+  },
+  "ghost+weather": {
+    "result": "fog",
+    "reasoning": "Victorian ghost stories almost universally feature fog, as thick ground-level water vapor has historically been associated with spirits and the supernatural across cultures from London to ancient China."
   },
   "ghost+wind": {
     "result": "banshee",
@@ -190970,6 +191634,10 @@
   "ghoul+quarry": {
     "result": "castle",
     "reasoning": "Wikipedia says: A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. That explains why Ghoul + Quarry = Castle."
+  },
+  "ghoul+rain": {
+    "result": "bog",
+    "reasoning": "Bog bodies \u2014 remarkably preserved human remains found in peatland \u2014 have been linked to ritual sacrifice and dark folklore, inspiring ghoul legends across northern Europe for centuries."
   },
   "ghoul+rock-music": {
     "result": "cave",
@@ -194071,6 +194739,10 @@
     "result": "banshee",
     "reasoning": "A banshee is a female spirit in Irish folklore who heralds the death of a family member, usually by screaming, wailing, shrieking, or keening. So when Goblin meets Kelpie, Banshee is the natural outcome."
   },
+  "goblin+knowledge": {
+    "result": "forbidden-knowledge",
+    "reasoning": "In Tolkien's mythology, goblins were Elves corrupted by Morgoth's forbidden knowledge of dark craft \u2014 their entire existence is a warning that some knowledge, once consumed, transforms the seeker into something monstrous."
+  },
   "goblin+leprechaun": {
     "result": "banshee",
     "reasoning": "The science is clear \u2014 A banshee is a female spirit in Irish folklore who heralds the death of a family member, usually by screaming, wailing, shrieking, or keening. Mix Goblin and Leprechaun for Banshee."
@@ -194418,6 +195090,10 @@
   "gold+oxygen": {
     "result": "aurora",
     "reasoning": "Wikipedia says: An aurora is a natural light display in Earth\u2019s upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. That explains why Gold + Oxygen = Aurora."
+  },
+  "gold+paradigm": {
+    "result": "philosopher-stone",
+    "reasoning": "The philosopher's stone was alchemy's central paradigm for over a thousand years \u2014 the belief that one perfect substance could transmute base metals into gold \u2014 and its relentless pursuit accidentally drove the birth of experimental chemistry."
   },
   "gold+pewter": {
     "result": "amber",
@@ -196291,6 +196967,10 @@
     "result": "axe",
     "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. That's the connection between Granary and Rope \u2014 giving us Axe."
   },
+  "granary+shield": {
+    "result": "civilization",
+    "reasoning": "Ancient Mesopotamian city-states arose when military shields protected grain surpluses stored in central granaries\u2014the stored food surplus that freed specialists from farming and allowed civilization to diversify and flourish."
+  },
   "granary+shoe": {
     "result": "arrow",
     "reasoning": "Here's a real-world link: An arrow is a fin-stabilized projectile launched by a bow. Combine Granary with Shoe and you get Arrow."
@@ -196571,6 +197251,10 @@
     "result": "hunting",
     "reasoning": "Hunting is the human practice of seeking, pursuing, capturing, and killing wildlife or feral animals. So when Granola meets Quail, Hunting is the natural outcome."
   },
+  "granola+rain": {
+    "result": "porridge",
+    "reasoning": "Soaking granola in any liquid rehydrates the compressed oat flakes back into porridge, reversing the industrial baking process and returning the grain to the ancient form humans have eaten since the Neolithic."
+  },
   "granola+safari": {
     "result": "camping",
     "reasoning": "The science is clear \u2014 Camping is a form of outdoor recreation or outdoor education involving overnight stays with a basic temporary shelter such as a tent. Mix Granola and Safari for Camping."
@@ -196618,6 +197302,10 @@
   "granola+wilderness": {
     "result": "camping",
     "reasoning": "Camping is a form of outdoor recreation or outdoor education involving overnight stays with a basic temporary shelter such as a tent. So when Granola meets Wilderness, Camping is the natural outcome."
+  },
+  "granola+wind": {
+    "result": "windmill",
+    "reasoning": "Windmills have ground the oats, wheat, and nuts that go into granola since medieval times, harnessing wind to power millstones that produce the rolled grains in every granola batch."
   },
   "granola+yogurt": {
     "result": "bagel",
@@ -200367,6 +201055,10 @@
     "result": "nature-documentary",
     "reasoning": "Habitat meets stream. David Attenborough narrates. It's a Nature Documentary."
   },
+  "habitat+sun": {
+    "result": "savanna",
+    "reasoning": "The African savanna habitat is entirely defined by its sunlight regime\u2014intense solar radiation drives the seasonal grass growth that supports the planet's densest concentration of large land mammals, from wildebeest to elephants."
+  },
   "habitat+swamp": {
     "result": "nature-documentary",
     "reasoning": "Habitat meets Swamp. David Attenborough narrates. It's a Nature Documentary."
@@ -201271,6 +201963,10 @@
     "result": "sword",
     "reasoning": "Steel under the Hammer becomes a Sword, stronger than iron"
   },
+  "hammer+student": {
+    "result": "carpenter",
+    "reasoning": "In medieval guild apprenticeships, a student carpenter spent up to seven years mastering hammer and chisel under a master craftsman before earning the right to call themselves journeymen \u2014 every strike a lesson in precision and patience."
+  },
   "hammer+swordfish": {
     "result": "fishing",
     "reasoning": "Deep-sea Fishing for swordfish, big game on the open ocean"
@@ -202115,6 +202811,10 @@
     "result": "banjo",
     "reasoning": "Here's a real-world link: The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. Combine Harmonic with Piano and you get Banjo."
   },
+  "harmonic+rain": {
+    "result": "rhythm",
+    "reasoning": "Rain produces natural polyrhythmic patterns as drops of varying sizes strike different surfaces at different rates, inspiring everything from West African percussion traditions to Steve Reich's minimalist compositions."
+  },
   "harmonic+refraction": {
     "result": "frequency",
     "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Harmonic + Refraction = Frequency."
@@ -202499,6 +203199,10 @@
     "result": "germany",
     "reasoning": "Wikipedia says: Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. That explains why Harvest + Lullaby = Germany."
   },
+  "harvest+meat": {
+    "result": "wild-game",
+    "reasoning": "Wild game harvest\u2014the regulated hunting of deer, elk, and bison\u2014was the primary source of meat for 99% of human history, and indigenous peoples developed elaborate seasonal harvest rituals to sustainably manage wild animal populations across generations."
+  },
   "harvest+miscellaneous": {
     "result": "mystery-meat",
     "reasoning": "Harvest + Miscellaneous = Mystery Meat. The cafeteria classic. Don't ask what's in it."
@@ -202550,6 +203254,10 @@
   "harvest+tributary": {
     "result": "flood",
     "reasoning": "Here's a real-world link: A flood is an overflow of water that submerges land that is usually dry. Combine Harvest with Tributary and you get Flood."
+  },
+  "harvest+wind": {
+    "result": "windmill",
+    "reasoning": "Persian engineers invented the first windmills around 500\u2013900 CE specifically to grind grain at harvest time, and the Dutch later perfected them to drain polders for farmland, making windmills the original wind-powered harvest machines."
   },
   "hash+vlog": {
     "result": "hashtag",
@@ -204699,6 +205407,10 @@
     "result": "bard",
     "reasoning": "hero and Mead are both connected to Bard \u2014 that shared bond creates Bard."
   },
+  "hero+meat": {
+    "result": "gladiator",
+    "reasoning": "Roman gladiators followed physician-supervised high-protein meat diets calculated to build maximum muscle mass, and skeletal remains confirm they consumed significantly more meat than average Romans in systematic preparation for arena combat."
+  },
   "hero+metaphor": {
     "result": "allegory",
     "reasoning": "Here's a real-world link: As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Combine hero with Metaphor and you get Allegory."
@@ -204782,6 +205494,10 @@
   "hero+wildlife": {
     "result": "civilization",
     "reasoning": "hero and Wildlife share a deep connection. A civilization is any complex society characterized by the development of the state, social stratification, urbanization, and symbolic systems of communication beyond signed or spoken languages. Result: Civilization."
+  },
+  "hero+wind": {
+    "result": "valkyrie",
+    "reasoning": "In Norse mythology, Valkyries \u2014 'choosers of the slain' \u2014 rode through storm winds on winged horses to select heroes worthy of Valhalla, and their name derives from Old Norse 'valkyrja,' meaning one who rides the wind of battle."
   },
   "hero+zombie": {
     "result": "archetype",
@@ -204939,6 +205655,10 @@
     "result": "italy",
     "reasoning": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. So when hill meets Macaroni, Italy is the natural outcome."
   },
+  "hill+meat": {
+    "result": "shepherd",
+    "reasoning": "Shepherds have guided flocks up hillsides to graze since the Neolithic era, and the profession is so ancient that 'pastor' (Latin for shepherd) became the title for Christian clergy, reflecting how central hill-pasturing was to early civilization."
+  },
   "hill+mesa": {
     "result": "butte",
     "reasoning": "In geomorphology, a butte is an isolated hill with steep, often vertical sides and a small, relatively flat top; buttes are smaller landforms than mesas, plateaus, and tablelands. So when hill meets Mesa, Butte is the natural outcome."
@@ -205058,6 +205778,10 @@
   "hill+waffle": {
     "result": "italy",
     "reasoning": "Here's a real-world link: Italy, officially the Italian Republic, is a country in Southern and Western Europe. Combine hill with Waffle and you get Italy."
+  },
+  "hill+wind": {
+    "result": "windmill",
+    "reasoning": "Dutch engineers in the 17th century specifically built windmills on the tops of polders and low hills to catch the maximum wind, positioning them so the rotating sails could power the pumps that reclaimed over 2,500 square kilometers of land from the sea."
   },
   "hip-hop+miscellaneous": {
     "result": "pop-culture",
@@ -206179,6 +206903,10 @@
     "result": "altruism",
     "reasoning": "Here's a real-world link: Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. Combine Honesty with Pride and you get Altruism."
   },
+  "honesty+rain": {
+    "result": "transparency",
+    "reasoning": "Rain is physically transparent while simultaneously revealing everything it touches, mirroring the philosophical virtue of radical transparency \u2014 the idea that truth, like water, eventually penetrates every surface."
+  },
   "honesty+regret": {
     "result": "courage",
     "reasoning": "The science is clear \u2014 Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Honesty and Regret for courage."
@@ -206206,6 +206934,10 @@
   "honesty+virtue": {
     "result": "curiosity",
     "reasoning": "Wikipedia says: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. That explains why Honesty + Virtue = Curiosity."
+  },
+  "honesty+wind": {
+    "result": "truth",
+    "reasoning": "The ancient Greek word 'aletheia' (truth) literally means 'that which is not hidden or concealed' \u2014 the metaphor of wind blowing away concealment to reveal truth appears in Norse, Greek, and Confucian philosophy alike."
   },
   "honesty+wisdom": {
     "result": "charisma",
@@ -206383,6 +207115,10 @@
     "result": "compassion",
     "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. So when Hope meets Patience, Compassion is the natural outcome."
   },
+  "hope+planet": {
+    "result": "mars-colony",
+    "reasoning": "Mars has liquid water evidence, a 24.6-hour day, and enough sunlight for solar power, making it humanity's most scientifically grounded hope for an off-world colony within this century."
+  },
   "hope+pride": {
     "result": "anger",
     "reasoning": "The science is clear \u2014 Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix Hope and Pride for Anger."
@@ -206438,6 +207174,14 @@
   "hope+temptation": {
     "result": "curiosity",
     "reasoning": "Hope and Temptation share a deep connection. Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Result: Curiosity."
+  },
+  "hope+voltage": {
+    "result": "defibrillator",
+    "reasoning": "Defibrillators deliver a precisely calibrated voltage shock to restore normal heart rhythm, making them the most literal embodiment of electrical hope \u2014 resuscitating roughly 350,000 people annually."
+  },
+  "hope+whale": {
+    "result": "song",
+    "reasoning": "Roger Payne's 1970 album 'Songs of the Humpback Whale' brought haunting underwater recordings to millions of listeners, transforming public hope into the world's first successful whale conservation movement and launching modern marine advocacy."
   },
   "hormone+hornet": {
     "result": "adrenaline",
@@ -208379,6 +209123,10 @@
     "result": "donkey",
     "reasoning": "The science is clear \u2014 The donkey or ass is a domesticated equine. Mix human and Orca for Donkey."
   },
+  "human+orchestra": {
+    "result": "musician",
+    "reasoning": "A full symphony orchestra requires up to 100 musicians to synchronize breathing, bowing, and timing to within milliseconds \u2014 making it one of humanity's most complex feats of coordinated collective action."
+  },
   "human+ostrich": {
     "result": "donkey",
     "reasoning": "Wikipedia says: The donkey or ass is a domesticated equine. That explains why human + Ostrich = Donkey."
@@ -208494,6 +209242,10 @@
   "human+reason": {
     "result": "abstraction",
     "reasoning": "Abstraction is the process of generalizing rules and concepts from specific examples, literal signifiers, first principles, or other methods. So when human meets Reason, Abstraction is the natural outcome."
+  },
+  "human+rhythm": {
+    "result": "dance",
+    "reasoning": "Archaeological evidence of ritual dance \u2014 foot-worn circles and cave paintings \u2014 dates back 30,000 years, making rhythmic movement one of the oldest distinctly human behaviors known."
   },
   "human+robot": {
     "result": "android",
@@ -208647,6 +209399,10 @@
     "result": "man",
     "reasoning": "The human experience of human and sun manifests as Man"
   },
+  "human+swimming": {
+    "result": "olympic-games",
+    "reasoning": "Swimming has been contested at every modern Olympic Games since Athens 1896, making it one of humanity's oldest competitive sports \u2014 a discipline where the unaugmented human body races against water and time alone."
+  },
   "human+sword": {
     "result": "army",
     "reasoning": "human and Sword together shape Army"
@@ -208722,6 +209478,10 @@
   "human+trade": {
     "result": "company",
     "reasoning": "human and trade together shape company"
+  },
+  "human+traffic": {
+    "result": "road",
+    "reasoning": "The Romans engineered over 85,000 km of roads specifically designed to move humans, armies, and goods at predictable speeds \u2014 the phrase 'all roads lead to Rome' reflects how mastering human traffic flow built an empire."
   },
   "human+trap": {
     "result": "spy",
@@ -210107,6 +210867,10 @@
     "result": "engineering",
     "reasoning": "Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. So when Hydraulics meets Measurement, engineering is the natural outcome."
   },
+  "hydraulics+meat": {
+    "result": "factory",
+    "reasoning": "The hydraulic-powered meatpacking factory, immortalized in Upton Sinclair's 1906 novel 'The Jungle,' used water-pressure machinery to automate cutting, grinding, and canning\u2014industrializing food production and horrifying the public into demanding food safety laws."
+  },
   "hydraulics+merchant": {
     "result": "egypt",
     "reasoning": "Here's a real-world link: Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Combine Hydraulics with Merchant and you get Egypt."
@@ -210238,6 +211002,10 @@
   "hydraulics+winch": {
     "result": "gear",
     "reasoning": "A gear or gearwheel, also called a toothed wheel, is a rotating machine part typically used to transmit rotational motion or torque by means of a series of \"teeth\" that engage with compatible teeth of another gear or other part. That's the connection between Hydraulics and Winch \u2014 giving us Gear."
+  },
+  "hydraulics+wind": {
+    "result": "wind-turbine",
+    "reasoning": "The aerodynamic blade profiles of modern wind turbines were directly adapted from hydraulic water turbine engineering, since both convert the kinetic energy of a moving fluid \u2014 air or water \u2014 into rotation using the same Bernoulli principles."
   },
   "hydraulics+windmill": {
     "result": "gear",
@@ -211127,6 +211895,10 @@
     "result": "archimedes-principle",
     "reasoning": "Here's a real-world link: Archimedes' principle states that the upward buoyant force that is exerted on a body immersed in a fluid, whether fully or partially, is equal to the weight of the fluid that the body displaces. Combine Ice with Viscosity and you get Archimedes Principle."
   },
+  "ice+wall": {
+    "result": "glacier",
+    "reasoning": "Glaciers are effectively slow-moving walls of ice up to 3 kilometers thick, and their advance and retreat carved virtually every major northern valley, fjord, and lake on Earth."
+  },
   "ice+water": {
     "result": "cellophane",
     "reasoning": "Here's a real-world link: Cellophane is a thin, transparent sheet made of regenerated cellulose. Combine Ice with Water and you get Cellophane."
@@ -211154,6 +211926,10 @@
   "ice+whale": {
     "result": "narwhal",
     "reasoning": "Narwhals are the tusked whales of the frozen Arctic seas"
+  },
+  "ice+wheelchair": {
+    "result": "sport",
+    "reasoning": "Wheelchair curling debuted at the 2006 Turin Winter Paralympics, turning a centuries-old Scottish ice sport into one of the most strategically demanding adaptive competitions in the world."
   },
   "ice+wilderness": {
     "result": "biodiversity",
@@ -212198,6 +212974,10 @@
   "imagination+society": {
     "result": "chimpanzee",
     "reasoning": "Here's a real-world link: The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. Combine imagination with society and you get Chimpanzee."
+  },
+  "imagination+soup": {
+    "result": "mystery-casserole",
+    "reasoning": "The concept of 'stone soup'\u2014a folktale where travelers convince villagers to add whatever they have to a communal pot\u2014is one of history's most enduring illustrations of how collective imagination transforms scarcity into abundance."
   },
   "imagination+sympathy": {
     "result": "compassion",
@@ -213582,6 +214362,10 @@
   "instinct+rhythm": {
     "result": "chimpanzee",
     "reasoning": "The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. That's the connection between Instinct and Rhythm \u2014 giving us Chimpanzee."
+  },
+  "instinct+sand": {
+    "result": "turtle",
+    "reasoning": "Female sea turtles use Earth's magnetic field as an instinctual GPS to navigate thousands of miles back to the exact sandy beach where they hatched decades earlier to lay their own eggs."
   },
   "instinct+society": {
     "result": "chimpanzee",
@@ -222439,6 +223223,10 @@
     "result": "awe",
     "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Joy meets Sympathy, Awe is the natural outcome."
   },
+  "joy+tapestry": {
+    "result": "celebration",
+    "reasoning": "Medieval tapestries like the Devonshire Hunting Tapestries were commissioned specifically to depict joyful celebrations \u2014 feasts, hunts, and courtly festivities \u2014 as permanent woven records of noble life."
+  },
   "joy+temptation": {
     "result": "curiosity",
     "reasoning": "Here's a real-world link: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Combine Joy with Temptation and you get Curiosity."
@@ -226335,6 +227123,10 @@
     "result": "geology",
     "reasoning": "Studying Sand Storm through knowledge \u2014 Geology."
   },
+  "knowledge+satellite": {
+    "result": "navigation",
+    "reasoning": "GPS satellites democratized precise navigational knowledge by making sub-meter positional accuracy freely available to any receiver on Earth, replacing millennia of celestial navigation requiring mastery of stars, sextants, and tide tables."
+  },
   "knowledge+science": {
     "result": "education",
     "reasoning": "Wikipedia says: Education is the transmission of knowledge and skills and the development of character traits. That explains why knowledge + science = Education."
@@ -228787,6 +229579,10 @@
     "result": "chromosome",
     "reasoning": "Wikipedia says: A chromosome is a package of DNA containing part or all of the genetic material of an organism. That explains why Lamprey + Prion = Chromosome."
   },
+  "lamprey+rain": {
+    "result": "river",
+    "reasoning": "Lampreys are anadromous, spending adult life in the ocean but returning to freshwater rivers fed by seasonal rains to spawn in gravel beds, then dying after reproducing."
+  },
   "lamprey+retina": {
     "result": "axon",
     "reasoning": "Wikipedia says: An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. That explains why Lamprey + Retina = Axon."
@@ -229819,6 +230615,10 @@
     "result": "ingot",
     "reasoning": "Smelting Platinum with Lava creates an Ingot \u2014 the foundation of metallurgy."
   },
+  "lava+population": {
+    "result": "ash",
+    "reasoning": "When Vesuvius erupted in 79 CE, volcanic ash from lava flows buried Pompeii's entire population of 20,000 in minutes, preserving their city under meters of ash for nearly two millennia."
+  },
   "lava+porridge": {
     "result": "toast",
     "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
@@ -229850,6 +230650,10 @@
   "lava+rain": {
     "result": "obsidian",
     "reasoning": "When rainwater contacts flowing lava, the thermal shock quenches the molten rock before crystals can form, producing obsidian \u2014 a volcanic glass with a fracture edge sharper than surgical steel, prized by ancient peoples for blades and mirrors."
+  },
+  "lava+rainforest": {
+    "result": "volcanic-island",
+    "reasoning": "Hawaii's lush rainforests exist because the same shield volcanoes that built the islands from the ocean floor also create orographic lift, forcing trade winds upward to drop over 400 inches of rain per year on windward slopes."
   },
   "lava+ray": {
     "result": "lava-field",
@@ -229935,6 +230739,10 @@
     "result": "lens",
     "reasoning": "Shaping heated Stained Glass creates a Lens \u2014 focusing light since ancient Rome."
   },
+  "lava+stalactite": {
+    "result": "obsidian",
+    "reasoning": "When lava cools rapidly it freezes into volcanic glass before crystals can form, creating obsidian \u2014 the same mineral-trapping process that produces stalactites, just inverted from drip to flow."
+  },
   "lava+steppe": {
     "result": "caldera",
     "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Lava meets Steppe, Caldera is the natural outcome."
@@ -230010,6 +230818,10 @@
   "lava+waterfall": {
     "result": "steam",
     "reasoning": "Lava turns Waterfall to Steam \u2014 the force that powered the Industrial Revolution."
+  },
+  "lava+weather": {
+    "result": "obsidian",
+    "reasoning": "When lava contacts rain, cold ocean water, or frigid air, it quenches so rapidly that atoms have no time to crystallize, vitrifying into obsidian \u2014 volcanic glass so sharp it outperforms surgical steel at the microscopic level."
   },
   "lava+wheat": {
     "result": "bread",
@@ -234727,6 +235539,10 @@
     "result": "climate-change",
     "reasoning": "Lightning and weather share a deep connection. Present-day climate change includes both global warming\u2014the ongoing increase in global average temperature\u2014and its wider effects on Earth's climate system. Result: Climate Change."
   },
+  "lightning+weight": {
+    "result": "joule",
+    "reasoning": "The joule \u2014 the SI unit of energy \u2014 was named after James Prescott Joule, who in 1843 proved that mechanical work (lifting a weight) and heat are equivalent forms of energy, unifying the physics of a lightning bolt with that of a falling hammer."
+  },
   "lightning+wire": {
     "result": "electricity",
     "reasoning": "Applying Lightning to Wire produces Electricity"
@@ -235202,6 +236018,10 @@
   "linen+silk": {
     "result": "calico",
     "reasoning": "Here's a real-world link: Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Combine Linen with Silk and you get Calico."
+  },
+  "linen+steam": {
+    "result": "clothing",
+    "reasoning": "Steam pressing has been used since Roman times to smooth linen garments, as moisture and heat temporarily break the hydrogen bonds between flax fibers, allowing the fabric to be reshaped into crisp, wrinkle-free clothing."
   },
   "linen+suitcase": {
     "result": "canvas",
@@ -236986,6 +237806,10 @@
   "loon+squirrel": {
     "result": "barracuda",
     "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. So when Loon meets Squirrel, Barracuda is the natural outcome."
+  },
+  "loon+steam": {
+    "result": "wilderness",
+    "reasoning": "The haunting wail of the common loon drifting across a mist-shrouded lake at dawn became such a defining sound of the North American wilderness that Canada put the bird on its dollar coin as a national symbol."
   },
   "loon+stork": {
     "result": "bird",
@@ -243019,6 +243843,10 @@
     "result": "blog",
     "reasoning": "A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. That's the connection between Markdown and Podcast \u2014 giving us blog."
   },
+  "markdown+rain": {
+    "result": "haiku",
+    "reasoning": "Haiku master Matsuo Bash\u014d wrote some of history's most celebrated rain poems, and their spare minimalism mirrors markdown's philosophy of conveying structure and meaning with the fewest possible symbols."
+  },
   "markdown+slack": {
     "result": "github",
     "reasoning": "Markdown and Slack share a deep connection. GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. Result: GitHub."
@@ -244031,6 +244859,10 @@
     "result": "candy",
     "reasoning": "Wikipedia says: Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. That explains why meat + Pancake = Candy."
   },
+  "meat+paradigm": {
+    "result": "evolution",
+    "reasoning": "The shift to eating cooked meat is considered the greatest paradigm shift in human evolution\u2014releasing 40% more calories from food and freeing the jaw muscles that previously constrained skull size, directly enabling the brain expansion that made us human."
+  },
   "meat+pasta": {
     "result": "ravioli",
     "reasoning": "Ravioli \u2014 meat stuffed in pasta pillows"
@@ -244046,6 +244878,10 @@
   "meat+pizza": {
     "result": "candy",
     "reasoning": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. So when meat meets Pizza, Candy is the natural outcome."
+  },
+  "meat+population": {
+    "result": "civilization",
+    "reasoning": "The domestication of cattle, pigs, sheep, and goats for reliable meat supply around 10,000 BCE allowed human settlements to grow beyond what hunting could sustain, directly enabling the population densities that made the first civilizations possible."
   },
   "meat+porridge": {
     "result": "candy",
@@ -244074,6 +244910,14 @@
   "meat+pudding": {
     "result": "candy",
     "reasoning": "meat and Pudding share a deep connection. Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. Result: Candy."
+  },
+  "meat+quiche": {
+    "result": "pie",
+    "reasoning": "The savory meat pie predates the quiche by millennia: ancient Romans baked spiced meat in pastry shells called 'artocreas,' a tradition that evolved through the medieval coffin-crust pie into the French quiche Lorraine we know today."
+  },
+  "meat+quill": {
+    "result": "parchment",
+    "reasoning": "Parchment was made from the cleaned, stretched skin of animals slaughtered for meat\u2014a zero-waste practice where the hide became the writing surface and quills from the same farm's birds became the pen, a self-contained medieval scriptorium supply chain."
   },
   "meat+rabbit": {
     "result": "alpaca",
@@ -244135,6 +244979,10 @@
     "result": "candy",
     "reasoning": "meat and Soup share a deep connection. Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. Result: Candy."
   },
+  "meat+spectrum": {
+    "result": "nutrition",
+    "reasoning": "Meat contains the broadest nutritional spectrum of any single food\u2014complete proteins with all essential amino acids, heme iron, zinc, vitamin B12, creatine, and carnosine\u2014nutrients largely absent from plant foods and difficult to replace through supplementation alone."
+  },
   "meat+spice": {
     "result": "sausage",
     "reasoning": "Combining meat with Spice makes delicious Sausage"
@@ -244142,6 +244990,10 @@
   "meat+spring": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
+  },
+  "meat+stalactite": {
+    "result": "jerky",
+    "reasoning": "Ancient cave-dwelling peoples in the Americas hung strips of meat near dripping stalactites where cool, mineral-rich air and the slight acidity from carbonic acid drips acted as a natural preservative, creating some of the earliest forms of jerky."
   },
   "meat+steak": {
     "result": "prosciutto",
@@ -244174,6 +245026,10 @@
   "meat+swamp": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
+  },
+  "meat+thought": {
+    "result": "brain",
+    "reasoning": "The human brain, 2% of body weight but consuming 20% of calories, is largely built from the protein and omega-3 fatty acids concentrated in meat, leading anthropologists to argue that carnivory was the nutritional prerequisite for abstract thought."
   },
   "meat+tide": {
     "result": "broth",
@@ -245482,6 +246338,10 @@
   "metal+padlock": {
     "result": "rivet",
     "reasoning": "Combine Metal with Padlock to create Rivet."
+  },
+  "metal+paradox": {
+    "result": "alchemy",
+    "reasoning": "Alchemy's defining paradox was the philosopher's stone that could transmute base metals like lead into gold \u2014 a logical impossibility that nonetheless drove 1,500 years of proto-scientific experimentation and laid groundwork for modern chemistry."
   },
   "metal+pendulum": {
     "result": "brass",
@@ -249071,6 +249931,10 @@
     "result": "climate-change",
     "reasoning": "Mist + Transparency = Climate Change. The data is in. The planet is warming. Time to act."
   },
+  "mist+tree": {
+    "result": "enchanted-forest",
+    "reasoning": "The mystical atmosphere of fog-shrouded forests\u2014where trees loom silently through shifting mist\u2014has inspired enchanted forest legends across Celtic, Germanic, and Japanese traditions, from the Forest of Broc\u00e9liande to the haunted woods of Aokigahara."
+  },
   "mist+trojan-horse": {
     "result": "national-park",
     "reasoning": "Mist + Trojan Horse = a National Park. Humanity's best idea: protecting nature from... humanity."
@@ -249230,6 +250094,10 @@
   "model+radiator": {
     "result": "nasa",
     "reasoning": "The National Aeronautics and Space Administration is an independent agency of the U.S. That's the connection between Model and Radiator \u2014 giving us NASA."
+  },
+  "model+rain": {
+    "result": "climate-model",
+    "reasoning": "Modern climate models must accurately simulate the global water cycle\u2014including precipitation patterns\u2014because rainfall distribution is one of the most sensitive indicators of how Earth's climate is shifting."
   },
   "model+refraction": {
     "result": "physics",
@@ -252211,6 +253079,10 @@
     "result": "clay",
     "reasoning": "Here's a real-world link: Clay is a type of fine-grained natural soil material containing clay minerals. Combine Mud with Muskeg and you get Clay."
   },
+  "mud+mythical-beast": {
+    "result": "golem",
+    "reasoning": "The Golem of Prague, the most famous mud-born mythical creature, was fashioned from the clay of the Vltava River by Rabbi Loew in the 16th century and animated with a Hebrew word to protect the Jewish ghetto from persecution."
+  },
   "mud+nautilus": {
     "result": "clam",
     "reasoning": "Mud and Nautilus share a deep connection. Clam is a common name for several species of bivalve mollusc. Result: Clam."
@@ -252222,6 +253094,10 @@
   "mud+okra": {
     "result": "coffee",
     "reasoning": "Wikipedia says: Coffee is a beverage brewed from roasted, ground coffee beans. That explains why Mud + Okra = Coffee."
+  },
+  "mud+orphanage": {
+    "result": "poverty",
+    "reasoning": "Victorian-era orphanages were often built in the cheapest available land\u2014muddy, flood-prone outskirts of cities\u2014making mud a stark symbol of the institutional poverty that defined childhood there."
   },
   "mud+ostrich": {
     "result": "clam",
@@ -252259,6 +253135,14 @@
     "result": "ceramic",
     "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. So when Mud meets Porcelain, Ceramic is the natural outcome."
   },
+  "mud+post-office": {
+    "result": "mail",
+    "reasoning": "Before paved roads, seasonal mud season could strand postal riders for weeks, making mail delivery so unreliable that the U.S. Congress debated whether muddy routes should count as 'improved post roads.'"
+  },
+  "mud+poverty": {
+    "result": "brick",
+    "reasoning": "Adobe mud bricks, used from ancient Mesopotamia to modern Yemen, are one of humanity's most enduring building materials for impoverished communities \u2014 requiring only clay, water, and sunlight to produce shelters that can last centuries."
+  },
   "mud+pumice": {
     "result": "concrete",
     "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Mud + Pumice = Concrete."
@@ -252290,6 +253174,10 @@
   "mud+running": {
     "result": "concrete",
     "reasoning": "Mud and Running share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "mud+russia": {
+    "result": "swamp",
+    "reasoning": "Russia's 'rasputitsa' \u2014 the seasonal mud that turns roads into impassable swamps every spring and autumn \u2014 has historically halted military invasions, famously slowing both Napoleon's and Hitler's advances deep into Russian territory."
   },
   "mud+rust": {
     "result": "concrete",
@@ -252331,6 +253219,10 @@
     "result": "clay",
     "reasoning": "Mud compressed against stone becomes workable clay"
   },
+  "mud+sugar": {
+    "result": "brewing",
+    "reasoning": "The world's earliest evidence of intentional brewing dates to 7,000 BCE Jiahu, China, where sugary fruits and honey fermented in sealed clay vessels \u2014 humanity's first deliberate chemistry, born from mud and sweetness."
+  },
   "mud+tar": {
     "result": "bitumen",
     "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Mud with Tar and you get Bitumen."
@@ -252351,6 +253243,10 @@
     "result": "coffee",
     "reasoning": "Coffee is a beverage brewed from roasted, ground coffee beans. So when Mud meets Tiramisu, Coffee is the natural outcome."
   },
+  "mud+touch": {
+    "result": "pottery",
+    "reasoning": "Pottery is humanity's oldest craft, born from the simple act of touching wet mud \u2014 ancient humans discovered they could shape clay by hand and fire it hard as early as 29,000 BCE in Moravia, creating the world's first human-made material."
+  },
   "mud+transformer": {
     "result": "ceramic",
     "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Mud and Transformer \u2014 giving us Ceramic."
@@ -252362,6 +253258,10 @@
   "mud+vertebra": {
     "result": "elephant",
     "reasoning": "Here's a real-world link: Elephants are the largest living land animals. Combine Mud with Vertebra and you get Elephant."
+  },
+  "mud+virtual-assistant": {
+    "result": "golem",
+    "reasoning": "The golem of Jewish folklore was an animated figure shaped from clay or mud and activated by inscribed words to serve its creator \u2014 making it history's most literal precursor to the virtual assistant, a programmable servant animated by language."
   },
   "mud+waffle": {
     "result": "chocolate",
@@ -254095,6 +254995,10 @@
     "result": "classical-music",
     "reasoning": "Music and Orchestra create Classical Music"
   },
+  "music+pendulum": {
+    "result": "metronome",
+    "reasoning": "Johann Maelzel's 1815 metronome patent applied Galileo's isochronous pendulum physics directly to musical practice \u2014 Beethoven was so enthusiastic that he immediately sent Maelzel metronome markings to attach to all his published symphonies."
+  },
   "music+polka": {
     "result": "ballet",
     "reasoning": "Here's a real-world link: Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Combine Music with Polka and you get Ballet."
@@ -254162,6 +255066,10 @@
   "music+waltz": {
     "result": "ballet",
     "reasoning": "Here's a real-world link: Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Combine Music with Waltz and you get Ballet."
+  },
+  "music+woodpecker": {
+    "result": "percussion",
+    "reasoning": "Woodpeckers drum on resonant hollow trees at speeds up to 20 beats per second with millisecond-level precision \u2014 a natural percussion performance so rhythmically consistent that neurobiologists study them to understand the evolutionary origins of musical rhythm."
   },
   "musician+night": {
     "result": "blues",
@@ -257995,6 +258903,10 @@
     "result": "gold",
     "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. That's the connection between Nitrogen and Platinum \u2014 giving us Gold."
   },
+  "nitrogen+rain": {
+    "result": "lightning",
+    "reasoning": "Lightning fixes atmospheric nitrogen by superheating air to 30,000 \u00b0C, causing N\u2082 to react with oxygen and fall as nitrates dissolved in rain \u2014 nature's own fertilizer delivery system, predating agriculture by billions of years."
+  },
   "nitrogen+sake": {
     "result": "beer",
     "reasoning": "Here's a real-world link: Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain\u2014most commonly malted barley, although wheat, maize, rice, and oats are also used. Combine Nitrogen with Sake and you get Beer."
@@ -260154,6 +261066,10 @@
   "opera+satin": {
     "result": "ballet",
     "reasoning": "Opera and Satin share a deep connection. Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Result: Ballet."
+  },
+  "opera+snow": {
+    "result": "requiem",
+    "reasoning": "Mozart composed his haunting Requiem during the snowy winter of 1791 as his health rapidly declined, leaving the final movements unfinished at his death\u2014an opera of mourning as cold and incomplete as a grave in frozen earth."
   },
   "opera+sonata": {
     "result": "symphony",
@@ -262867,6 +263783,10 @@
     "result": "archetype",
     "reasoning": "Paradigm and Villain share a deep connection. The concept of an archetype appears in areas relating to behavior, historical psychology, philosophy and literary analysis. Result: Archetype."
   },
+  "paradigm+wind": {
+    "result": "zeitgeist",
+    "reasoning": "'Zeitgeist' \u2014 German for 'spirit of the time' \u2014 was popularized by Hegel to describe the invisible intellectual wind of an era that shifts paradigms without any individual willing it, like a prevailing wind reshaping every landscape it crosses."
+  },
   "paradigm+wisdom": {
     "result": "charisma",
     "reasoning": "The science is clear \u2014 Charisma is a personal quality of magnetic charm, persuasion, or appeal. Mix Paradigm and Wisdom for Charisma."
@@ -263470,6 +264390,10 @@
   "patience+pride": {
     "result": "altruism",
     "reasoning": "Here's a real-world link: Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. Combine Patience with Pride and you get Altruism."
+  },
+  "patience+rain": {
+    "result": "farmer",
+    "reasoning": "Ancient Egyptian farmers called the annual Nile flood 'the gift of the gods' and built nilometers to measure its timing \u2014 cultivating a patience for water that became the foundation of agricultural civilization."
   },
   "patience+regret": {
     "result": "compassion",
@@ -264279,6 +265203,10 @@
     "result": "amplitude",
     "reasoning": "The science is clear \u2014 The amplitude of a periodic variable is a measure of its change in a single period. Mix Pendulum and Temperature for Amplitude."
   },
+  "pendulum+temple": {
+    "result": "clock-tower",
+    "reasoning": "Medieval European monasteries and cathedrals installed the first mechanical clock towers with pendulum escapements to regulate the canonical hours of prayer, fusing sacred time-keeping with the physics of the swinging pendulum."
+  },
   "pendulum+tent": {
     "result": "earthquake",
     "reasoning": "Pendulum and Tent share a deep connection. An earthquake, also called a quake, tremor, or temblor, is the shaking of the Earth's surface resulting from a sudden release of energy in the lithosphere that creates seismic waves. Result: Earthquake."
@@ -264426,6 +265354,10 @@
   "peninsula+steppe": {
     "result": "bridge",
     "reasoning": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. So when Peninsula meets Steppe, Bridge is the natural outcome."
+  },
+  "peninsula+stone": {
+    "result": "sea-stack",
+    "reasoning": "Sea stacks form when waves erode the stone headlands and peninsulas, leaving isolated pillars of rock standing offshore like sentinels."
   },
   "peninsula+strait": {
     "result": "coral-reef",
@@ -264835,6 +265767,10 @@
     "result": "diamond",
     "reasoning": "Wikipedia says: Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. That explains why Pewter + Quartz = Diamond."
   },
+  "pewter+rain": {
+    "result": "oxidation",
+    "reasoning": "Although pewter's high tin content makes it corrosion-resistant, prolonged exposure to acidic rainfall triggers surface oxidation that creates the grey-blue patina prized by collectors of colonial-era pewter tableware."
+  },
   "pewter+seahorse": {
     "result": "coral",
     "reasoning": "Pewter and Seahorse share a deep connection. Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Result: Coral."
@@ -264883,6 +265819,10 @@
     "result": "coral",
     "reasoning": "Pewter and Wildlife share a deep connection. Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Result: Coral."
   },
+  "pewter+wind": {
+    "result": "oxidation",
+    "reasoning": "Wind accelerates oxidation of tin-based alloys like pewter, causing the characteristic dull gray patina that ancient pewter objects develop over centuries."
+  },
   "pewter+wire": {
     "result": "copper",
     "reasoning": "Wikipedia says: Copper is a chemical element; it has symbol Cu and atomic number 29. That explains why Pewter + Wire = Copper."
@@ -264914,6 +265854,10 @@
   "pharmacist+prophecy": {
     "result": "apothecary",
     "reasoning": "Pharmacist and Prophecy share a deep connection. Apothecary is an archaic English term for a medical professional who formulates and dispenses materia medicacode: lat promoted to code: la  ('medicine') to physicians, surgeons and patients. Result: Apothecary."
+  },
+  "pharmacist+rain": {
+    "result": "herb",
+    "reasoning": "Medieval apothecaries carefully tracked rainfall to time the harvest of medicinal herbs, since plants like valerian and chamomile concentrate their active compounds most potently just after a soaking rain."
   },
   "pharmacist+silo": {
     "result": "germany",
@@ -266418,6 +267362,10 @@
   "photodiode+radiation": {
     "result": "electromagnetic-spectrum",
     "reasoning": "Photodiode and Radiation share a deep connection. The electromagnetic spectrum is the full range of electromagnetic radiation, organized by frequency or wavelength. Result: Electromagnetic Spectrum."
+  },
+  "photodiode+rain": {
+    "result": "sensor",
+    "reasoning": "Modern automotive rain sensors use a photodiode to shine infrared light at the windshield and measure how much is reflected back\u2014when rain droplets refract the beam, the sensor automatically activates the wipers, a technology now standard in over 80% of new vehicles."
   },
   "photodiode+refraction": {
     "result": "electron",
@@ -269023,6 +269971,10 @@
     "result": "buoyancy",
     "reasoning": "Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. That's the connection between Plankton and Pressure \u2014 giving us Buoyancy."
   },
+  "plankton+rain": {
+    "result": "phytoplankton-bloom",
+    "reasoning": "When heavy rain washes iron-rich dust and nitrate runoff from land into coastal waters, it triggers explosive phytoplankton blooms visible from satellites\u2014a process so significant that some scientists have proposed deliberately seeding the ocean with iron to stimulate blooms that absorb atmospheric CO\u2082."
+  },
   "plankton+scientist": {
     "result": "bioinformatics",
     "reasoning": "Here's a real-world link: Bioinformatics is an interdisciplinary field of science that develops computational methods and software tools for understanding biological data, especially when the data sets are large and complex. Combine Plankton with Scientist and you get Bioinformatics."
@@ -269130,6 +270082,10 @@
   "plant+sheep": {
     "result": "wool",
     "reasoning": "Sheep graze on grass and grow thick Wool, nature's textile"
+  },
+  "plant+skin": {
+    "result": "epidermis",
+    "reasoning": "The word 'epidermis' applies to both kingdoms of life\u2014in animals it's the outermost skin layer, while in plants it's a single protective cell layer covering leaves and stems, a convergent evolutionary solution to the same biological challenge."
   },
   "plant+sloth": {
     "result": "vine",
@@ -269462,6 +270418,10 @@
   "plateau+steppe": {
     "result": "bridge",
     "reasoning": "Plateau and Steppe share a deep connection. A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Result: Bridge."
+  },
+  "plateau+stone": {
+    "result": "mesa",
+    "reasoning": "Mesas are isolated flat-topped plateaus with sheer stone walls, left standing after surrounding softer rock erodes away over millions of years."
   },
   "plateau+storm": {
     "result": "coral-reef",
@@ -270539,6 +271499,10 @@
     "result": "biome",
     "reasoning": "A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. That's the connection between population and Wetland \u2014 giving us Biome."
   },
+  "population+wind": {
+    "result": "wanderlust",
+    "reasoning": "Prevailing trade winds shaped the routes of ancient human migration across continents and oceans, embedding an innate drive to follow the wind into the cultural DNA that linguists now call wanderlust."
+  },
   "population+wing": {
     "result": "evolution",
     "reasoning": "Here's a real-world link: Evolution is the change in the heritable characteristics of biological populations over successive generations. Combine population with wing and you get Evolution."
@@ -271162,6 +272126,10 @@
   "potion+swan": {
     "result": "siren",
     "reasoning": "Sirens sing sailors to their doom \u2014 magical swan-like enchantresses"
+  },
+  "potion+symbol": {
+    "result": "alchemy",
+    "reasoning": "Medieval alchemists recorded their potion recipes in a secret symbolic language\u2014triangles for fire and water, circles for the sun\u2014designed to hide the secrets of transmutation from uninitiated rivals."
   },
   "potion+talisman": {
     "result": "amulet",
@@ -274963,6 +275931,10 @@
     "result": "embryo",
     "reasoning": "Quiche and Vertebra share a deep connection. An embryo is the initial stage of development for a multicellular organism. Result: Embryo."
   },
+  "quiche+wind": {
+    "result": "souffle",
+    "reasoning": "A souffl\u00e9 is essentially quiche taken to culinary extremes \u2014 the same egg-and-cream base whipped into a foam so delicate that a sudden draft or vibration causes the air bubbles to collapse and the dish to fall."
+  },
   "quiche+word": {
     "result": "etymology",
     "reasoning": "Quiche and Word share a deep connection. Etymology is the study of the origin and evolution of words\u2014including their constituent units of sound and meaning\u2014across time. Result: Etymology."
@@ -275026,6 +275998,10 @@
   "quill+wheelbarrow": {
     "result": "junk-drawer",
     "reasoning": "Quill + Wheelbarrow goes straight into the Junk Drawer. Every home has one."
+  },
+  "quill+wind": {
+    "result": "poem",
+    "reasoning": "Shelley's 'Ode to the West Wind,' written with a quill in 1819, asked the wind to scatter his words 'among mankind' like dead leaves, and became one of literature's greatest celebrations of both poetic inspiration and meteorological force."
   },
   "quill+witch": {
     "result": "scribe",
@@ -275815,9 +276791,17 @@
     "result": "plant",
     "reasoning": "Rain and seed give rise to plant"
   },
+  "rain+silo": {
+    "result": "harvest",
+    "reasoning": "The timing of the grain harvest relative to rainfall is so critical that farmers historically relied on the Farmer's Almanac's rain predictions to decide exactly when to cut and silo crops, since even a 14% moisture content in stored wheat can trigger catastrophic mold growth."
+  },
   "rain+silver": {
     "result": "rust",
     "reasoning": "Rain oxidizes Silver \u2014 the slow destruction of Rust."
+  },
+  "rain+smoothie": {
+    "result": "coconut",
+    "reasoning": "Coconut palms thrive only where annual rainfall exceeds 1,500 mm, and their water-filled nuts evolved as a survival adaptation to store the very rainwater the tree depends on."
   },
   "rain+snake": {
     "result": "eel",
@@ -275843,6 +276827,10 @@
     "result": "biology",
     "reasoning": "Biology is the scientific study of life and living organisms. That's the connection between Rain and space \u2014 giving us Biology."
   },
+  "rain+spear": {
+    "result": "fishing",
+    "reasoning": "Spear fishing in rain has been practiced for over 500,000 years, and rain actually improves yields by diffusing surface light that would otherwise let fish see the hunter lurking above the water."
+  },
   "rain+spice": {
     "result": "tea",
     "reasoning": "Spices steeped in water make chai spiced Tea"
@@ -275867,6 +276855,10 @@
     "result": "blizzard",
     "reasoning": "The science is clear \u2014 A blizzard is a severe snowstorm characterized by strong sustained winds and low visibility, lasting for a prolonged period of time\u2014typically at least three or four hours. Mix Rain and Storm for Blizzard."
   },
+  "rain+stream": {
+    "result": "river",
+    "reasoning": "Every major river on Earth is ultimately fed by rainfall collecting into streams \u2014 the Amazon alone receives over 2,300 mm of rain per year, making it the world's largest river by discharge."
+  },
   "rain+sugar": {
     "result": "lemonade",
     "reasoning": "Sugar dissolved in water, simple syrup, the base of Lemonade"
@@ -275879,6 +276871,18 @@
     "result": "astrobiology",
     "reasoning": "Astrobiology is a scientific field within the life and environmental sciences that studies the origins, early evolution, distribution, and future of life in the universe by investigating its deterministic conditions and contingent events. So when Rain meets Sunlight, Astrobiology is the natural outcome."
   },
+  "rain+superintelligence": {
+    "result": "climate-model",
+    "reasoning": "Modern climate models use superintelligent neural networks trained on centuries of global rainfall data to simulate atmospheric systems with accuracy impossible for human meteorologists working alone."
+  },
+  "rain+syringe": {
+    "result": "vaccine",
+    "reasoning": "John Snow's investigation of cholera spreading through contaminated London rainwater in 1854 pioneered epidemiology, directly influencing the development of vaccines later delivered by syringe to prevent waterborne diseases."
+  },
+  "rain+taiga": {
+    "result": "muskeg",
+    "reasoning": "The taiga's sub-zero winters lock moisture in place while summer rains saturate the ground above permafrost, creating muskeg \u2014 the vast spongy bogland of the boreal north notorious for swallowing machinery whole."
+  },
   "rain+tea": {
     "result": "brewing",
     "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
@@ -275886,6 +276890,10 @@
   "rain+temple": {
     "result": "flood",
     "reasoning": "Ancient Mesopotamian ziggurats were built partly to honor rain gods and perform rituals to control seasonal flooding \u2014 the great flood myths of Gilgamesh and Noah originated in civilizations where temples and catastrophic river floods were inextricably linked."
+  },
+  "rain+tendon": {
+    "result": "collagen",
+    "reasoning": "Tendons are composed of nearly pure type-I collagen, and traditional collagen extraction involves simmering tendons in water for hours \u2014 essentially replicating rain's dissolving effect to yield the gelatin used in cooking and medicine."
   },
   "rain+tiger": {
     "result": "shark",
@@ -275899,6 +276907,14 @@
     "result": "astrobiology",
     "reasoning": "The science is clear \u2014 Astrobiology is a scientific field within the life and environmental sciences that studies the origins, early evolution, distribution, and future of life in the universe by investigating its deterministic conditions and contingent events. Mix Rain and Tornado for Astrobiology."
   },
+  "rain+toy": {
+    "result": "puddle",
+    "reasoning": "Children have played with toy boats in rain puddles for centuries, and the word 'puddle' itself derives from the Old English 'pudd,' meaning a ditch \u2014 a simple, universal childhood joy born whenever rain meets pavement."
+  },
+  "rain+transformer": {
+    "result": "flood",
+    "reasoning": "Electrical transformers are among the most catastrophically vulnerable pieces of infrastructure during heavy rain events, as floodwater intrusion causes arc faults that can knock out power to entire metropolitan regions for weeks."
+  },
   "rain+tree": {
     "result": "forest",
     "reasoning": "Rain and tree give rise to Forest"
@@ -275906,6 +276922,14 @@
   "rain+tree-data": {
     "result": "garden",
     "reasoning": "Rain + Tree Data + patience = a Garden."
+  },
+  "rain+troll": {
+    "result": "myth",
+    "reasoning": "In Norse and Scandinavian mythology, trolls were explicitly associated with storms, rain, and dark overcast days\u2014they were said to ride thunderclouds and were blamed for flash floods and the kind of sudden violent rainstorms common to Scandinavian fjords."
+  },
+  "rain+trowel": {
+    "result": "mud",
+    "reasoning": "The earliest bricks in Mesopotamia were shaped from Nile and Tigris mud using trowel-like tools, with builders timing their work to coincide with seasonal rains that provided just the right consistency of clay."
   },
   "rain+tungsten": {
     "result": "rust",
@@ -275919,9 +276943,21 @@
     "result": "puddle",
     "reasoning": "The science is clear \u2014 A puddle is a small accumulation of liquid, usually water, on a surface. Mix Rain and Umbrella for Puddle."
   },
+  "rain+vacuum": {
+    "result": "drought",
+    "reasoning": "In a near-vacuum atmosphere like Mars, there is insufficient pressure for liquid water to exist, making condensation and rain impossible \u2014 producing a planet-wide, eternal drought."
+  },
   "rain+valley": {
     "result": "flood",
     "reasoning": "Rain filling a Valley creates a Flood"
+  },
+  "rain+velocity": {
+    "result": "storm",
+    "reasoning": "A raindrop's terminal velocity is only 5\u20139 m/s despite falling thousands of meters, but storm winds accelerate rain horizontally to genuinely dangerous combined velocities that strip leaves and shatter windows."
+  },
+  "rain+vibration": {
+    "result": "thunder",
+    "reasoning": "Thunder is the acoustic shockwave \u2014 a vibration in air \u2014 produced when a lightning bolt superheats surrounding air to 30,000 K, causing it to expand faster than the speed of sound."
   },
   "rain+vinegar": {
     "result": "pickle",
@@ -275959,6 +276995,10 @@
     "result": "storm",
     "reasoning": "Rain driven by strong wind becomes a storm"
   },
+  "rain+window": {
+    "result": "rainbow",
+    "reasoning": "A rainbow forms when sunlight enters spherical raindrops, refracts, internally reflects, and exits at about 42 degrees \u2014 the same optics that occur when rain falls past a glass window in sunlight."
+  },
   "rain+wolf": {
     "result": "orca",
     "reasoning": "Orcas hunt in packs like wolves \u2014 the wolves of the sea"
@@ -275974,6 +277014,10 @@
   "rain+yogurt": {
     "result": "smoothie",
     "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
+  },
+  "rain+zygote": {
+    "result": "primordial-soup",
+    "reasoning": "The 'warm little pond' hypothesis of the origin of life proposes that ancient rainfall dissolved atmospheric chemicals into shallow pools, concentrating the amino acids and nucleotides that eventually gave rise to the first self-replicating molecules."
   },
   "rainbow+refraction": {
     "result": "color",
@@ -276059,9 +277103,17 @@
     "result": "cloud",
     "reasoning": "Here's a real-world link: In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. Combine Rainforest with Storm and you get Cloud."
   },
+  "rainforest+sun": {
+    "result": "photosynthesis",
+    "reasoning": "Tropical rainforests receive up to 12 hours of direct sunlight daily, driving photosynthesis so intensely that the Amazon Basin alone produces about 20% of Earth's oxygen and absorbs a comparable fraction of global CO\u2082."
+  },
   "rainforest+swamp": {
     "result": "tree",
     "reasoning": "Wikipedia says: In botany, a tree is a perennial plant with an elongated stem, or trunk, usually supporting branches and leaves. That explains why Rainforest + Swamp = tree."
+  },
+  "rainforest+sword": {
+    "result": "conquistador",
+    "reasoning": "Spanish conquistadors hacking through Central and South American rainforests with steel swords in the 16th century destroyed civilizations that had thrived for millennia, triggering the largest ecological and demographic catastrophe in the Western Hemisphere."
   },
   "rainforest+symbiosis": {
     "result": "bat",
@@ -283175,6 +284227,10 @@
     "result": "sundial",
     "reasoning": "Combine Shadow with Time Travel to create Sundial."
   },
+  "shadow+tree": {
+    "result": "sundial",
+    "reasoning": "The gnomon of a sundial\u2014the part that casts the shadow\u2014was originally just a vertical stick or tree, and ancient Egyptians used the shadows of obelisks as monumental sundials as early as 3500 BCE."
+  },
   "shadow+weight": {
     "result": "moon",
     "reasoning": "Shadow and weight share a deep connection. The Moon is the only natural satellite of Earth. Result: Moon."
@@ -286551,6 +287607,10 @@
     "result": "snowboard",
     "reasoning": "Snow and wood create Snowboard"
   },
+  "snow+zombie": {
+    "result": "wendigo",
+    "reasoning": "The wendigo is a cannibalistic spirit from Algonquian and Ojibwe mythology said to possess people stranded in snowy wilderness, transforming them into undead creatures with an insatiable, growing hunger for human flesh."
+  },
   "snow-leopard+track": {
     "result": "cryptid",
     "reasoning": "Snow Leopard + track = a Cryptid. Bigfoot? Nessie? Probably just Snow Leopard in a costume."
@@ -288091,6 +289151,10 @@
     "result": "blacksmith",
     "reasoning": "Spear and Welding share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
   },
+  "spear+wind": {
+    "result": "arrow",
+    "reasoning": "Ancient archers developed sophisticated techniques to compensate for crosswind, eventually leading to the fletching design \u2014 angled feathers that spin arrows for stability \u2014 still used today."
+  },
   "spear+witch": {
     "result": "gladiator",
     "reasoning": "Gladiators fought with spears in Roman arenas"
@@ -288142,6 +289206,10 @@
   "spectrum+wavelength": {
     "result": "frequency",
     "reasoning": "Frequency is the number of occurrences of a repeating event per unit of time. So when Spectrum meets Wavelength, Frequency is the natural outcome."
+  },
+  "spectrum+wind": {
+    "result": "aurora",
+    "reasoning": "Auroras form when solar wind particles are funneled by Earth's magnetic field into the upper atmosphere, where they excite gas molecules that emit light across the visible spectrum \u2014 a natural spectral display powered entirely by the sun's breath."
   },
   "speech+speech": {
     "result": "debate",
@@ -288947,6 +290015,10 @@
     "result": "france",
     "reasoning": "France, officially the French Republic, is a country primarily located in Western Europe. So when Stalactite meets Trebuchet, France is the natural outcome."
   },
+  "stalactite+tree": {
+    "result": "root",
+    "reasoning": "Tree roots penetrate limestone bedrock and secrete carbonic acid, accelerating dissolution that creates caves \u2014 and the mineral-rich water that drips from those roots eventually forms stalactites."
+  },
   "stalactite+volcano": {
     "result": "bridge",
     "reasoning": "Here's a real-world link: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Combine Stalactite with Volcano and you get Bridge."
@@ -288958,6 +290030,10 @@
   "stalactite+well": {
     "result": "cave",
     "reasoning": "Here's a real-world link: Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. Combine Stalactite with Well and you get Cave."
+  },
+  "stalactite+wind": {
+    "result": "echo",
+    "reasoning": "Cave systems adorned with stalactites create extraordinary acoustic chambers where wind currents and dripping water generate haunting echoes that ancient peoples across the world attributed to ancestor spirits."
   },
   "stalagmite+tar": {
     "result": "limestone",
@@ -289255,6 +290331,10 @@
     "result": "autoclave",
     "reasoning": "Steam and Syringe share a deep connection. An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Result: Autoclave."
   },
+  "steam+tax": {
+    "result": "whiskey",
+    "reasoning": "The Whiskey Rebellion of 1794 erupted when Appalachian farmers, who used steam-fired copper stills to convert surplus grain into whiskey, violently resisted Hamilton's federal excise tax on distilled spirits\u2014America's first tax revolt."
+  },
   "steam+thermometer": {
     "result": "autoclave",
     "reasoning": "The science is clear \u2014 An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Steam and Thermometer for Autoclave."
@@ -289542,6 +290622,10 @@
   "stone+wind": {
     "result": "sand",
     "reasoning": "When Stone meets Wind, Sand naturally forms"
+  },
+  "stone+wire": {
+    "result": "telegraph",
+    "reasoning": "Early telegraph lines were insulated using glass and stone insulators mounted on poles, allowing electrical signals to travel thousands of miles along copper wire strung across continents."
   },
   "stone+wood": {
     "result": "tool",
@@ -290234,6 +291318,10 @@
   "sun+void": {
     "result": "black-hole",
     "reasoning": "sun collapses into void \u2014 a Black Hole, where not even light escapes."
+  },
+  "sun+weather": {
+    "result": "meteorology",
+    "reasoning": "Meteorology as a formal science was born when Aristotle wrote 'Meteorologica' around 340 BCE, attempting to explain how the sun's heat drives the water cycle, winds, and storms\u2014a framework that remained influential for nearly two thousand years."
   },
   "sun+wheat": {
     "result": "corn",
@@ -291595,6 +292683,10 @@
     "result": "canada",
     "reasoning": "Here's a real-world link: Canada is a country in North America. Combine Taiga with Wilderness and you get Canada."
   },
+  "taiga+wind": {
+    "result": "blizzard",
+    "reasoning": "Arctic winds sweeping across the vast taiga interact with moisture-laden air to spawn the devastating blizzards that can bury boreal forests under meters of snow overnight."
+  },
   "taiga+zoo": {
     "result": "bear",
     "reasoning": "Here's a real-world link: Bears are carnivoran mammals of the family Ursidae. Combine Taiga with Zoo and you get Bear."
@@ -292283,6 +293375,10 @@
     "result": "library",
     "reasoning": "A Temple filled with Theory of Relativity \u2014 a Library."
   },
+  "temple+thought": {
+    "result": "philosophy",
+    "reasoning": "Western philosophy was born in the sacred precincts of Athens, where Socrates debated beneath the shadow of the Parthenon, using its architectural grandeur as a backdrop to question the nature of justice, beauty, and the examined life."
+  },
   "temple+throne": {
     "result": "china",
     "reasoning": "Temple and Throne share a deep connection. China, officially the People's Republic of China (PRC), is a country in East Asia. Result: China."
@@ -292306,6 +293402,10 @@
   "temple+watercolor": {
     "result": "museum",
     "reasoning": "A Temple preserving Watercolor \u2014 a Museum."
+  },
+  "temple+weight": {
+    "result": "karma",
+    "reasoning": "In Hindu and Buddhist cosmology, karma is literally described as a moral 'weight' that accumulates across lifetimes, and temple ritual offerings were traditionally measured on scales to ensure the correct quantity was given to balance spiritual debts."
   },
   "temple+witch": {
     "result": "monk",
@@ -292346,6 +293446,10 @@
   "tendon+vertebra": {
     "result": "bone",
     "reasoning": "Wikipedia says: A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. That explains why Tendon + Vertebra = Bone."
+  },
+  "tendon+wind": {
+    "result": "bow",
+    "reasoning": "Early composite bows used animal tendons as bowstrings because collagen fibers store elastic energy more efficiently than plant fibers, making sinew-backed bows the most powerful hand weapons of the ancient world."
   },
   "tendon+wing": {
     "result": "dinosaur",
@@ -293811,6 +294915,10 @@
     "result": "strategy",
     "reasoning": "Thought and War create strategy"
   },
+  "thought+wind": {
+    "result": "inspiration",
+    "reasoning": "The Latin word 'inspirare' literally means 'to breathe into,' linking moving air to the creative spark \u2014 ancient Romans believed winds carried divine impulses that literally entered the mind as inspiration."
+  },
   "thought+wisdom": {
     "result": "philosophy",
     "reasoning": "Thought combined with Wisdom leads to Philosophy"
@@ -295039,6 +296147,10 @@
     "result": "cathode-ray-tube",
     "reasoning": "The science is clear \u2014 A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Transformer and Wave for Cathode Ray Tube."
   },
+  "transformer+wind": {
+    "result": "wind-turbine",
+    "reasoning": "Modern wind turbines pair aerodynamic blades with step-up transformers that boost generated voltage to grid levels, making them the world's fastest-growing electricity source."
+  },
   "transistor+transistor": {
     "result": "processor",
     "reasoning": "Billions of transistors form a processor \u2014 modern CPUs"
@@ -295518,6 +296630,10 @@
   "ukulele+waffle": {
     "result": "france",
     "reasoning": "Wikipedia says: France, officially the French Republic, is a country primarily located in Western Europe. That explains why Ukulele + Waffle = France."
+  },
+  "ukulele+wand": {
+    "result": "bard",
+    "reasoning": "In Celtic and Norse tradition, the bard was a semi-magical figure whose enchanted instrument could literally compel warriors to dance, calm storms, or lull an enemy army to sleep\u2014blending music with sorcery in a single role."
   },
   "ukulele+wildlife": {
     "result": "armadillo",
@@ -296030,6 +297146,10 @@
   "wasp+wolf": {
     "result": "duck",
     "reasoning": "Duck is the common name for numerous species of waterfowl in the family Anatidae. So when Wasp meets Wolf, Duck is the natural outcome."
+  },
+  "waste+wind": {
+    "result": "pollution",
+    "reasoning": "Wind carries industrial waste particles and chemical pollutants thousands of miles from their source, a phenomenon demonstrated when Saharan dust fertilizes the Amazon and British factory emissions became acid rain that destroyed Scandinavian lakes."
   },
   "watchtower+well": {
     "result": "bunker",
