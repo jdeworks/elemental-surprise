@@ -67,21 +67,13 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
     const elements = wsRef.current;
     const knownRecipes = new Set(recipesRef.current);
 
-    // Prefer undiscovered recipes
+    // Only pick pairs with undiscovered recipes — skip already-known combinations
     for (let i = 0; i < elements.length; i++) {
       for (let j = i + 1; j < elements.length; j++) {
         const a = elements[i], b = elements[j];
         if (!hasRecipe(a.type, b.type)) continue;
         const key = [a.type, b.type].sort().join('+');
         if (!knownRecipes.has(key)) return [a, b];
-      }
-    }
-    // Fallback: any valid recipe
-    for (let i = 0; i < elements.length; i++) {
-      for (let j = i + 1; j < elements.length; j++) {
-        if (hasRecipe(elements[i].type, elements[j].type)) {
-          return [elements[i], elements[j]];
-        }
       }
     }
     return null;
@@ -141,6 +133,8 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
 
         if (pair) {
           const [a, b] = pair;
+          const origX = a.x;
+          const origY = a.y;
 
           // Animate: move A toward B
           setPhase('moving');
@@ -161,7 +155,12 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
           const curA = curWs.find(e => e.id === a.id);
           const curB = curWs.find(e => e.id === b.id);
           if (curA && curB) {
-            await onCombineRef.current(curA, curB);
+            const result = await onCombineRef.current(curA, curB);
+            if (!result) {
+              // Combine failed — move A back to original position
+              onMoveRef.current(a.id, origX, origY);
+              await delay(300);
+            }
           }
 
           await delay(POST_COMBINE_PAUSE);
