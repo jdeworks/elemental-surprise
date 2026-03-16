@@ -13,6 +13,7 @@ import { AchievementsModal } from './components/AchievementsModal';
 import { LoadingBar } from './components/LoadingBar';
 import type { LoadingProgress } from './components/LoadingBar';
 import { getFallbackResult } from './data/fallbacks';
+import { SaveStateBrowser } from './components/SaveStateBrowser';
 import { loadStats, saveStats, clearStats } from './services/stats';
 import type { PlayerStats } from './services/stats';
 import { checkNewAchievements, loadUnlocked, saveUnlocked, clearUnlocked } from './services/achievements';
@@ -148,6 +149,7 @@ function App() {
   const [achievementToast, setAchievementToast] = useState<string | null>(null);
   const [achievementsModalOpen, setAchievementsModalOpen] = useState(false);
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
+  const [saveStateBrowserOpen, setSaveStateBrowserOpen] = useState(false);
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
@@ -660,6 +662,21 @@ function App() {
                   </svg>
                   Reload icon cache
                 </button>
+                <button
+                  type="button"
+                  className="settings-sidebar-btn"
+                  onClick={() => {
+                    setSaveStateBrowserOpen(true);
+                  }}
+                  title="Browse and load pre-built save state presets"
+                >
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+                    <path d="M19 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11l5 5v11a2 2 0 0 1-2 2z" />
+                    <polyline points="17 21 17 13 7 13 7 21" />
+                    <polyline points="7 3 7 8 15 8" />
+                  </svg>
+                  Load save state
+                </button>
               </div>
             </aside>
           </>
@@ -673,6 +690,27 @@ function App() {
           <AchievementsModal
             unlocked={unlockedAchievements}
             onClose={() => setAchievementsModalOpen(false)}
+          />
+        )}
+
+        {saveStateBrowserOpen && (
+          <SaveStateBrowser
+            onClose={() => setSaveStateBrowserOpen(false)}
+            onLoad={(data) => {
+              setDiscovered(data.discovered);
+              setDiscoveredRecipes(data.discoveredRecipes);
+              setLastUsed(data.lastUsed);
+              setWorkspaceElements(data.workspace);
+              const newSavesLoaded = stats.savesLoaded + 1;
+              const updatedStats = { ...stats, savesLoaded: newSavesLoaded };
+              setStats(updatedStats);
+              saveStats(updatedStats);
+              checkAchievements(updatedStats, data.discovered);
+              setSaveStateBrowserOpen(false);
+              setSettingsOpen(false);
+              // Ensure newly loaded elements are available
+              ensureElementsLoaded(data.discovered.slice(0, 50)).catch(() => {});
+            }}
           />
         )}
 

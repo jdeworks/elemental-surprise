@@ -10,6 +10,7 @@ export interface PlayerStats {
   selfCombineAttempts: number;
   recipesModalOpened: number;
   viewToggleCount: number;
+  savesLoaded: number;
 }
 
 const STATS_KEY = 'es_stats';
@@ -26,6 +27,7 @@ const DEFAULT_STATS: PlayerStats = {
   selfCombineAttempts: 0,
   recipesModalOpened: 0,
   viewToggleCount: 0,
+  savesLoaded: 0,
 };
 
 export function loadStats(): PlayerStats {

@@ -3,7 +3,7 @@
 ## Full Rebuild (recommended)
 
 ```bash
-./rebuild-all.sh   # generate → new elements → merge → intuitive recipes → quality recipes → merge → validate → build
+./rebuild-all.sh   # generate → new elements → merge → intuitive recipes → quality recipes → merge → savestates → validate → build
 ```
 
 ## Individual Steps
@@ -69,4 +69,5 @@ Then run `./rebuild-all.sh`.
 | `scripts/automation/group_catchalls.py` | Funny catch-all result per group pair (136 entries) |
 | `scripts/automation/expand-intuitive-recipes.py` | Pattern-based recipe expansion |
 | `scripts/merge.ts` | Proposed → public with bucket generation |
+| `scripts/automation/generate-savestates.py` | BFS save state preset generator (~48 files) |
 | `scripts/validate.ts` | Data integrity validation |

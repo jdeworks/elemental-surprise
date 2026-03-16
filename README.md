@@ -24,6 +24,17 @@ A scalable element combination game inspired by Little Alchemy. Start with Fire,
 | Human + Sword | Knight | Knights wielded swords as symbols of honor and chivalry |
 | AI + AI | Infinite Loop | The machines are talking to themselves again |
 
+### Save State Presets
+
+Open **Settings → Load save state** to browse ~50 pre-built save states:
+
+- **Milestones** — Fresh Start (4), Head Start (50), Explorer (100), up to Completionist (2,767)
+- **Group starters** — Unlock the first elements of any group category
+- **Group completions** — All elements in a group plus their full dependency chain
+- **Themed** — Foodie, Mad Scientist, Space Cadet, Tech Bro, Warrior, Mythologist, Naturalist, Philosopher
+
+Each save includes the complete recipe chain from starters — no orphan elements.
+
 ### Element Groups
 
 Elements are organized into **16 groups**:

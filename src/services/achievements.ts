@@ -53,6 +53,7 @@ const ACHIEVEMENTS: Achievement[] = [
   { id: 'archivist', name: 'The Archivist', description: 'Open the recipes modal', icon: '📋', category: 'exploration', check: c => c.stats.recipesModalOpened >= 1 },
   { id: 'cant-decide', name: "Can't Decide", description: 'Switch views 5 times', icon: '🔀', category: 'funny', check: c => c.stats.viewToggleCount >= 5 },
   { id: 'workspace-10-clears', name: 'Clean Freak', description: 'Clear the workspace 10 times', icon: '🧼', category: 'funny', check: c => c.stats.workspaceCleared >= 10 },
+  { id: 'save-loaded', name: 'Save Scummer', description: 'Load a save state', icon: '💾', category: 'funny', check: c => c.stats.savesLoaded >= 1 },
   { id: 'discover-all-starters', name: 'Starter Pack', description: 'Combine all starter element pairs', icon: '🎯', category: 'discovery', check: () => false }, // needs recipe tracking, placeholder
 ];
 

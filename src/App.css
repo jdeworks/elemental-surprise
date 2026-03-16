@@ -376,6 +376,170 @@
   font-style: italic;
 }
 
+/* Save State Browser modal */
+.save-state-modal {
+  width: 600px;
+}
+
+.save-state-controls {
+  padding: 0 20px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.save-state-search {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  color: white;
+  font-size: 14px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.save-state-search::placeholder {
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.save-state-search:focus {
+  border-color: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.save-state-tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.save-state-tag {
+  padding: 4px 12px;
+  font-size: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+}
+
+.save-state-tag:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.save-state-tag.active {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border-color: rgba(255, 255, 255, 0.4);
+}
+
+.save-state-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.save-state-card {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.save-state-card-btn {
+  display: block;
+  width: 100%;
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: none;
+  color: white;
+  text-align: left;
+  cursor: pointer;
+}
+
+.save-state-card-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.save-state-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.save-state-card-name {
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.save-state-card-counts {
+  font-size: 12px;
+  opacity: 0.6;
+  white-space: nowrap;
+}
+
+.save-state-card-desc {
+  margin: 4px 0 0;
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+.save-state-confirm {
+  padding: 12px 14px;
+  background: rgba(255, 100, 100, 0.1);
+}
+
+.save-state-confirm p {
+  margin: 0 0 10px;
+  font-size: 13px;
+}
+
+.save-state-confirm-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.save-state-confirm-btn {
+  padding: 6px 14px;
+  font-size: 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+
+.save-state-confirm-yes {
+  background: #e53935;
+  color: white;
+}
+
+.save-state-confirm-yes:hover {
+  background: #f44336;
+}
+
+.save-state-confirm-yes:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.save-state-confirm-no {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+}
+
+.save-state-confirm-no:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.save-state-warning {
+  padding: 10px 20px;
+  font-size: 11px;
+  opacity: 0.5;
+  text-align: center;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
 /* Loading screen */
 .loading-screen {
   display: flex;
@@ -585,6 +749,10 @@
   }
 
   .tutorial-modal {
+    width: 95vw;
+  }
+
+  .save-state-modal {
     width: 95vw;
   }
 
