@@ -21,6 +21,26 @@
   pointer-events: none;
 }
 
+.auto-solve-badge {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(76, 175, 80, 0.9);
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  pointer-events: none;
+  z-index: 50;
+  animation: autoSolvePulse 1.5s ease-in-out infinite;
+}
+
+@keyframes autoSolvePulse {
+  0%, 100% { opacity: 0.8; }
+  50% { opacity: 1; }
+}
+
 @media (max-width: 768px) {
   .workspace {
     min-height: 0;

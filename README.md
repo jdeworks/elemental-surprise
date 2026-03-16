@@ -12,6 +12,7 @@ A scalable element combination game inspired by Little Alchemy. Start with Fire,
 3. Discover all elements and recipes! Each recipe shows a **reasoning** explaining *why* the combination works
 4. **Filter by group** using the dropdown to focus on a category
 5. Use the **Hint** button for undiscovered combination suggestions
+6. Use the **Auto-Solve** button to watch the game play itself — elements slide across the workspace and combine automatically
 
 ### Example Recipes
 
@@ -75,6 +76,9 @@ See `CLAUDE/content-pipeline.md` for full details.
 - GitHub Pages hosting (output: `docs/`)
 - Lazy recipe loading: combo indexes at startup, buckets on demand
 - localStorage for player progress (with size guard for large save data)
+- Icon bundles: 19 JSON files replace 2,767 individual SVG requests, served via blob URLs
+- Auto-solve spectator mode with CSS-animated element movement
+- Semantic icon matching using sentence-transformers embeddings (9 icon sources, 24k+ candidates)
 
 ## Attribution & Licenses
 

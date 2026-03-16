@@ -14,9 +14,11 @@ export interface ElementProps {
   iconCacheBust?: number;
   dropStatus?: 'new' | 'known' | 'none' | null;
   showLabel?: boolean;
+  isAutoSolveMoving?: boolean;
+  isAutoSolveTarget?: boolean;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust, dropStatus, showLabel = false }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust, dropStatus, showLabel = false, isAutoSolveMoving = false, isAutoSolveTarget = false }: ElementProps) {
   const element = getElement(type);
 
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
@@ -54,6 +56,8 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
     isLibrary ? 'element-library' : 'element-workspace',
     isDropTarget && !dropClass ? 'drop-target' : '',
     dropClass,
+    isAutoSolveMoving ? 'auto-solve-moving' : '',
+    isAutoSolveTarget ? 'auto-solve-target' : '',
   ].filter(Boolean).join(' ');
 
   return (

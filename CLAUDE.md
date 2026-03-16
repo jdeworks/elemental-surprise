@@ -1,6 +1,6 @@
 # Elemental Surprise
 
-Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7. Players combine Fire, Water, Earth, Wind to discover 2,767 elements across 16 groups. 137k+ recipes with educational/funny reasonings. Lazy-loads recipe data on demand.
+Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7. Players combine Fire, Water, Earth, Wind to discover 2,767 elements across 16 groups. 74k+ recipes with educational/funny reasonings. Lazy-loads recipe data on demand. Icons bundled into JSON, served via blob URLs. Auto-solve spectator mode.
 
 ## Quick Reference
 

@@ -9,9 +9,12 @@ export interface WorkspaceProps {
   iconCacheBust?: number;
   hoveredElementId?: string | null;
   dropStatus?: 'new' | 'known' | 'none' | null;
+  autoSolveMovingId?: string | null;
+  autoSolveTargetId?: string | null;
+  autoSolvePhase?: string;
 }
 
-export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId, dropStatus }: WorkspaceProps) {
+export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId, dropStatus, autoSolveMovingId, autoSolveTargetId, autoSolvePhase }: WorkspaceProps) {
   const { setNodeRef, isOver } = useDroppable({
     id: 'workspace',
   });
@@ -37,12 +40,24 @@ export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId,
             iconCacheBust={iconCacheBust}
             dropStatus={isHovered ? dropStatus : null}
             showLabel={isHovered && isDragging}
+            isAutoSolveMoving={autoSolveMovingId === element.id}
+            isAutoSolveTarget={autoSolveTargetId === element.id}
           />
         );
       })}
-      {elements.length === 0 && (
+      {elements.length === 0 && !autoSolvePhase && (
         <div className="workspace-empty">
           Click elements in the library to spawn them here
+        </div>
+      )}
+      {autoSolvePhase && autoSolvePhase !== 'idle' && (
+        <div className="auto-solve-badge">
+          {autoSolvePhase === 'done' ? 'Auto-solve complete!' :
+           autoSolvePhase === 'searching' ? 'Searching...' :
+           autoSolvePhase === 'moving' ? 'Combining...' :
+           autoSolvePhase === 'combining' ? 'Combining...' :
+           autoSolvePhase === 'spawning' ? 'Spawning elements...' :
+           'Auto-solving...'}
         </div>
       )}
     </div>

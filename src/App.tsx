@@ -8,6 +8,7 @@ import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
 import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl } from './data/loader';
+import { useAutoSolver } from './hooks/useAutoSolver';
 import { Tutorial } from './components/Tutorial';
 import { AchievementsModal } from './components/AchievementsModal';
 import { LoadingBar } from './components/LoadingBar';
@@ -156,6 +157,8 @@ function App() {
   const [loadingProgress, setLoadingProgress] = useState<LoadingProgress | null>(null);
   const [fallbackToast, setFallbackToast] = useState<{ name: string; reasoning: string } | null>(null);
   const [combining, setCombining] = useState(false);
+  const [autoSolveActive, setAutoSolveActive] = useState(false);
+  const [autoSolvePaused, setAutoSolvePaused] = useState(false);
   const isFirstRender = useRef(true);
 
   useEffect(() => {
@@ -316,11 +319,33 @@ function App() {
     setWorkspaceElements(prev => prev.filter(el => el.id !== id));
   }, []);
 
+  const moveElement = useCallback((elementId: string, toX: number, toY: number) => {
+    setWorkspaceElements(prev =>
+      prev.map(el => el.id === elementId ? { ...el, x: toX, y: toY } : el)
+    );
+  }, []);
+
+  const combineElements = useCallback(async (elementA: WorkspaceElement, elementB: WorkspaceElement): Promise<string | null> => {
+    const result = await getRecipeAsync(elementA.type, elementB.type);
+    if (!result) return null;
+    const recipeKey = [elementA.type, elementB.type].sort().join('+');
+    setDiscoveredRecipes(prev => prev.includes(recipeKey) ? prev : [...prev, recipeKey]);
+    const midX = (elementA.x + elementB.x) / 2;
+    const midY = (elementA.y + elementB.y) / 2;
+    setWorkspaceElements(prev => {
+      const filtered = prev.filter(el => el.id !== elementA.id && el.id !== elementB.id);
+      return [...filtered, { id: generateId(), type: result, x: midX, y: midY }];
+    });
+    discoverElement(result);
+    return result;
+  }, [discoverElement]);
+
   const handleDragEnd = useCallback((event: DragEndEvent) => {
     const { active, over, delta } = event;
     setActiveId(null);
     setDropStatus(null);
     setHoveredElementId(null);
+    if (autoSolvePaused) setTimeout(() => setAutoSolvePaused(false), 500);
 
     const activeId = active.id as string;
     const activeElement = workspaceElements.find(el => el.id === activeId);
@@ -387,11 +412,12 @@ function App() {
         )
       );
     }
-  }, [workspaceElements, removeElement, discoverElement, updateStat, stats]);
+  }, [workspaceElements, removeElement, discoverElement, updateStat, stats, autoSolvePaused]);
 
   const handleDragStart = useCallback((event: DragStartEvent) => {
     setActiveId(event.active.id as string);
-  }, []);
+    if (autoSolveActive) setAutoSolvePaused(true);
+  }, [autoSolveActive]);
 
   const handleDragOver = useCallback((event: DragOverEvent) => {
     const { active, over } = event;
@@ -469,6 +495,25 @@ function App() {
     localStorage.setItem('es_tutorialSeen', 'true');
   }, []);
 
+  // Auto-solver hook
+  const autoSolver = useAutoSolver({
+    active: autoSolveActive,
+    paused: autoSolvePaused,
+    workspaceElements,
+    discovered,
+    discoveredRecipes,
+    onMoveElement: moveElement,
+    onCombine: combineElements,
+    onSpawn: spawnElement,
+  });
+
+  // Stop auto-solve when it's done
+  useEffect(() => {
+    if (autoSolver.phase === 'done') {
+      setAutoSolveActive(false);
+    }
+  }, [autoSolver.phase]);
+
   const activeElement = activeId ? workspaceElements.find(el => el.id === activeId) : null;
 
   if (loadError) {
@@ -534,6 +579,20 @@ function App() {
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" className="hint-icon"><path d="M9 18h6"/><path d="M10 22h4"/><path d="M12 2a7 7 0 0 0-4 12.7V17h8v-2.3A7 7 0 0 0 12 2z"/></svg>
               <span className="btn-label">Hint</span>
+            </button>
+            <button
+              type="button"
+              className={`app-header-btn auto-solve-btn ${autoSolveActive ? 'auto-solve-active' : ''}`}
+              onClick={() => setAutoSolveActive(prev => !prev)}
+              title={autoSolveActive ? 'Stop auto-solve' : 'Start auto-solve (watch the game play itself)'}
+              aria-label={autoSolveActive ? 'Stop auto-solve' : 'Start auto-solve'}
+            >
+              {autoSolveActive ? (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
+              ) : (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              )}
+              <span className="btn-label">{autoSolveActive ? 'Stop' : 'Auto'}</span>
             </button>
             <button
               type="button"
@@ -611,7 +670,7 @@ function App() {
               onLinkClicked={() => updateStat('wikiLinksClicked', stats.wikiLinksClicked + 1)}
             />
           </div>
-          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} />
+          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} autoSolveMovingId={autoSolver.movingId} autoSolveTargetId={autoSolver.targetId} autoSolvePhase={autoSolveActive ? autoSolver.phase : undefined} />
           <button
             type="button"
             className="mobile-sidebar-toggle"
@@ -681,6 +740,7 @@ function App() {
                   type="button"
                   className="settings-sidebar-btn"
                   onClick={() => {
+                    setAutoSolveActive(false);
                     clearGame();
                     clearStats();
                     clearUnlocked();
@@ -760,6 +820,7 @@ function App() {
               setStats(updatedStats);
               saveStats(updatedStats);
               checkAchievements(updatedStats, data.discovered);
+              setAutoSolveActive(false);
               setSaveStateBrowserOpen(false);
               setSettingsOpen(false);
               // Ensure newly loaded elements are available

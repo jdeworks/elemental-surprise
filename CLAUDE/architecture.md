@@ -8,6 +8,7 @@
 - GitHub Pages hosting (output: `docs/`)
 - localStorage for player progress, stats, and achievements
 - Mobile-responsive with touch drag-and-drop support
+- Auto-solve spectator mode (`src/hooks/useAutoSolver.ts`) — CSS-animated element movement
 
 ## Project Layout
 
