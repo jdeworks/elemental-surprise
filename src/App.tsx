@@ -7,7 +7,8 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { loadData, getElement, getRecipe, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, toPublicUrl } from './data/loader';
+import { loadData, getElement, getRecipe, getAllRecipes, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, toPublicUrl } from './data/loader';
+import { Tutorial } from './components/Tutorial';
 import './App.css';
 
 let elementIdCounter = 0;
@@ -126,6 +127,12 @@ function App() {
   const [recipesModalRefresh, setRecipesModalRefresh] = useState(0);
   const [dropStatus, setDropStatus] = useState<'new' | 'known' | 'none' | null>(null);
   const [hoveredElementId, setHoveredElementId] = useState<string | null>(null);
+  const [showTutorial, setShowTutorial] = useState(() => !localStorage.getItem('es_tutorialSeen'));
+  const [hintHighlight, setHintHighlight] = useState<string[] | null>(null);
+  const [hintCooldown, setHintCooldown] = useState(false);
+  const [hintCount, setHintCount] = useState(
+    () => parseInt(localStorage.getItem('es_hintCount') || '0', 10)
+  );
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
@@ -282,6 +289,36 @@ function App() {
     }
   }, [workspaceElements, discovered]);
 
+  const handleHint = useCallback(() => {
+    if (hintCooldown) return;
+
+    const allRecipes = getAllRecipes();
+    const candidates = Object.entries(allRecipes).filter(([key, result]) => {
+      const [a, b] = key.split('+');
+      return discovered.includes(a) && discovered.includes(b) && !discovered.includes(result);
+    });
+
+    if (candidates.length === 0) return;
+
+    const [key] = candidates[Math.floor(Math.random() * candidates.length)];
+    const [a, b] = key.split('+');
+
+    setHintHighlight([a, b]);
+    setTimeout(() => setHintHighlight(null), 1500);
+
+    const newCount = hintCount + 1;
+    setHintCount(newCount);
+    localStorage.setItem('es_hintCount', String(newCount));
+
+    setHintCooldown(true);
+    setTimeout(() => setHintCooldown(false), 3000);
+  }, [hintCooldown, discovered, hintCount]);
+
+  const handleCloseTutorial = useCallback(() => {
+    setShowTutorial(false);
+    localStorage.setItem('es_tutorialSeen', 'true');
+  }, []);
+
   const activeElement = activeId ? workspaceElements.find(el => el.id === activeId) : null;
 
   if (loadError) {
@@ -332,6 +369,24 @@ function App() {
           <div className="app-header-actions">
             <button
               type="button"
+              className="app-header-btn hint-btn"
+              onClick={handleHint}
+              disabled={hintCooldown}
+              title="Show a hint for an undiscovered combination"
+            >
+              Hint
+            </button>
+            <button
+              type="button"
+              className="app-header-btn app-header-btn-icon"
+              onClick={() => setShowTutorial(true)}
+              title="How to play"
+              aria-label="How to play"
+            >
+              ?
+            </button>
+            <button
+              type="button"
               className="app-header-btn app-header-btn-icon"
               onClick={() => setSettingsOpen(true)}
               title="Open settings"
@@ -358,6 +413,7 @@ function App() {
             iconCacheBust={iconCacheBust}
             showNames={showNames}
             lastUsed={lastUsed}
+            hintHighlight={hintHighlight}
             onToggleShowNames={() => {
               setShowNames(prev => {
                 const next = !prev;
@@ -429,6 +485,10 @@ function App() {
               </div>
             </aside>
           </>
+        )}
+
+        {showTutorial && (
+          <Tutorial onClose={handleCloseTutorial} />
         )}
 
         {recipesModalOpen && (

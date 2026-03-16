@@ -13,9 +13,10 @@ export interface LibraryProps {
   showNames: boolean;
   onToggleShowNames: () => void;
   lastUsed: Record<string, number>;
+  hintHighlight?: string[] | null;
 }
 
-export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames, lastUsed }: LibraryProps) {
+export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNames, onToggleShowNames, lastUsed, hintHighlight }: LibraryProps) {
   const [search, setSearch] = useState('');
   const [selectedGroup, setSelectedGroup] = useState('');
   const [sortMode, setSortMode] = useState<SortMode>(
@@ -114,13 +115,14 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
           const showGroupHeader = sortMode === 'group' &&
             (i === 0 || element.group !== sortedElements[i - 1].group);
           const links = (element.links ?? []).slice(0, 3);
+          const isHinted = hintHighlight?.includes(element.id);
           return (
             <React.Fragment key={element.id}>
               {showGroupHeader && (
                 <div className="library-group-header">{element.group}</div>
               )}
             <div
-              className={`library-item ${showNames ? '' : 'library-item-compact'}`}
+              className={`library-item ${showNames ? '' : 'library-item-compact'} ${isHinted ? 'hint-highlight' : ''}`}
               onClick={() => onSpawn(element.id)}
               title={showNames ? undefined : element.name}
               data-testid={`library-element-${element.id}`}

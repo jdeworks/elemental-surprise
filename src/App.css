@@ -54,6 +54,23 @@
   display: block;
 }
 
+.hint-btn {
+  background: #FFD700;
+  color: #333;
+  border-color: #FFD700;
+  font-weight: 600;
+}
+
+.hint-btn:hover {
+  background: #FFE44D;
+}
+
+.hint-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  background: #FFD700;
+}
+
 .discovery-toast {
   position: absolute;
   left: 50%;

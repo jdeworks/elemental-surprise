@@ -235,3 +235,17 @@
   color: #333;
   background: rgba(0, 0, 0, 0.08);
 }
+
+/* ── Hint highlight ─────────────────────────────── */
+
+.library-item.hint-highlight,
+.library-item-compact.hint-highlight {
+  animation: hintPulse 0.5s ease-in-out 3;
+  border-color: #FFD700;
+  box-shadow: 0 0 12px rgba(255, 215, 0, 0.6);
+}
+
+@keyframes hintPulse {
+  0%, 100% { box-shadow: 0 0 6px rgba(255, 215, 0, 0.3); }
+  50% { box-shadow: 0 0 16px rgba(255, 215, 0, 0.8); }
+}
