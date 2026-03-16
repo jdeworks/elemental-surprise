@@ -7,9 +7,12 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { loadData, getElement, getRecipe, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, toPublicUrl } from './data/loader';
+import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl } from './data/loader';
 import { Tutorial } from './components/Tutorial';
 import { AchievementsModal } from './components/AchievementsModal';
+import { LoadingBar } from './components/LoadingBar';
+import type { LoadingProgress } from './components/LoadingBar';
+import { getFallbackResult } from './data/fallbacks';
 import { loadStats, saveStats, clearStats } from './services/stats';
 import type { PlayerStats } from './services/stats';
 import { checkNewAchievements, loadUnlocked, saveUnlocked, clearUnlocked } from './services/achievements';
@@ -146,10 +149,15 @@ function App() {
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
+  const [loadingProgress, setLoadingProgress] = useState<LoadingProgress | null>(null);
+  const [fallbackToast, setFallbackToast] = useState<{ name: string; reasoning: string } | null>(null);
+  const [combining, setCombining] = useState(false);
   const isFirstRender = useRef(true);
 
   useEffect(() => {
-    loadData()
+    loadData((phase, loaded, total) => {
+      setLoadingProgress({ phase, loaded, total });
+    })
       .then(async () => {
         const saved = loadGame();
         const validIds = getValidElementIds();
@@ -166,6 +174,16 @@ function App() {
         const sorted = [...discoveredFiltered].sort((a, b) => (lastUsedFiltered[b] ?? 0) - (lastUsedFiltered[a] ?? 0));
         await ensureElementsLoaded(sorted.slice(0, 50));
         setDataLoaded(true);
+
+        // Background preload: load recipe buckets for discovered elements' groups
+        const discoveredGroups = new Set<string>();
+        for (const id of discoveredFiltered) {
+          const el = getElement(id);
+          if (el?.group) discoveredGroups.add(el.group);
+        }
+        if (discoveredGroups.size > 0) {
+          preloadRecipeBucketsForGroups([...discoveredGroups]).catch(() => { /* background preload, non-critical */ });
+        }
       })
       .catch((err) => setLoadError(err instanceof Error ? err.message : String(err)));
   }, []);
@@ -304,18 +322,28 @@ function App() {
     const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
 
     if (overElement && overElement.id !== activeId) {
-      // Track self-combine attempts
-      if (activeElement.type === overElement.type) {
-        const result = getRecipe(activeElement.type, overElement.type);
-        if (!result) {
+      // Check if recipe exists (synchronous, from combo indexes)
+      const recipeExists = hasRecipe(activeElement.type, overElement.type);
+
+      if (!recipeExists) {
+        // No recipe — show funny fallback
+        if (activeElement.type === overElement.type) {
           updateStat('selfCombineAttempts', stats.selfCombineAttempts + 1);
         }
+        const aName = getElement(activeElement.type)?.name ?? activeElement.type;
+        const bName = getElement(overElement.type)?.name ?? overElement.type;
+        const fallback = getFallbackResult(activeElement.type, overElement.type, aName, bName);
+        setFallbackToast(fallback);
+        setTimeout(() => setFallbackToast(null), 3000);
+        return;
       }
 
-      // Dropped on another workspace element — try to combine
-      const result = getRecipe(activeElement.type, overElement.type);
+      // Recipe exists — load bucket async and combine
+      setCombining(true);
+      getRecipeAsync(activeElement.type, overElement.type).then((result) => {
+        setCombining(false);
+        if (!result) return; // Should not happen since hasRecipe was true
 
-      if (result) {
         const recipeKey = [activeElement.type, overElement.type].sort().join('+');
         setDiscoveredRecipes(prev => prev.includes(recipeKey) ? prev : [...prev, recipeKey]);
 
@@ -334,7 +362,7 @@ function App() {
         setWorkspaceElements(prev => [...prev, newElement]);
 
         discoverElement(result);
-      }
+      });
     } else {
       // Dropped on empty space — reposition
       if (Math.abs(delta.x) < 3 && Math.abs(delta.y) < 3) {
@@ -365,13 +393,18 @@ function App() {
     const activeEl = workspaceElements.find(el => el.id === active.id);
     const overEl = workspaceElements.find(el => el.id === (over.id as string));
     if (activeEl && overEl && activeEl.id !== overEl.id) {
-      const result = getRecipe(activeEl.type, overEl.type);
-      if (!result) {
+      // Use hasRecipe() for instant feedback — checks combo indexes without loading buckets
+      const recipeExists = hasRecipe(activeEl.type, overEl.type);
+      if (!recipeExists) {
         setDropStatus('none');
-      } else if (discovered.includes(result)) {
-        setDropStatus('known');
       } else {
-        setDropStatus('new');
+        // Recipe exists; check cache for result to determine new vs known
+        const cached = getRecipe(activeEl.type, overEl.type);
+        if (cached && discovered.includes(cached)) {
+          setDropStatus('known');
+        } else {
+          setDropStatus('new');
+        }
       }
       setHoveredElementId(overEl.id);
     } else {
@@ -423,9 +456,8 @@ function App() {
   }
   if (!dataLoaded) {
     return (
-      <div className="app" style={{ padding: 20, textAlign: 'center' }}>
-        <h1>Elemental Surprise</h1>
-        <p>Loading…</p>
+      <div className="app">
+        <LoadingBar progress={loadingProgress} />
       </div>
     );
   }
@@ -508,6 +540,15 @@ function App() {
             <div className="achievement-toast">
               Achievement unlocked: {achievementToast}!
             </div>
+          )}
+          {fallbackToast && (
+            <div className="fallback-toast">
+              <strong>{fallbackToast.name}</strong>
+              <span>{fallbackToast.reasoning}</span>
+            </div>
+          )}
+          {combining && (
+            <div className="combining-indicator">Combining...</div>
           )}
         </header>
         <main className="app-main">

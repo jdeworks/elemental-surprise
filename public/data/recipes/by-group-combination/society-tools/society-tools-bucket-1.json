@@ -1,882 +1,90 @@
 {
   "airplane+city": {
     "result": "airport",
-    "reasoning": "an airport is an aerodrome with extended facilities, mostly for commercial air transport. Combining Airplane and city to get Airport is basically how it works in real life."
+    "reasoning": "Crafting Airplane with city produces Airport"
   },
   "airplane+town": {
     "result": "airport",
-    "reasoning": "Airplane meets Town, and science says: an airport is an aerodrome with extended facilities, mostly for commercial air transport. Result? Airport."
+    "reasoning": "Airplane plus Town is the weird recipe your alchemist friend swears by for making Airport."
   },
   "army+sword": {
     "result": "war",
-    "reasoning": "an army, ground force or land force is an armed force that fights primarily on land. Mix Army with Sword and nature does the rest: War!"
+    "reasoning": "Army and Sword shake hands, reality shrugs, and War is suddenly canon."
   },
   "car+city": {
     "result": "traffic",
-    "reasoning": "traffic is the movement of vehicles and pedestrians along land routes. Combining Car and city to get Traffic is basically how it works in real life."
+    "reasoning": "Crafting Car with city produces Traffic"
   },
   "car+japan": {
     "result": "toyota",
-    "reasoning": "In the real world, toyota motor corporation  is a japanese multinational automotive manufacturer headquartered in toyota city, aichi, japan \u2014 that's how Car and Japan give us Toyota."
+    "reasoning": "Car and Japan create Toyota"
   },
   "car+money": {
     "result": "taxi",
-    "reasoning": "a taxi, also known as a taxicab or simply a cab, is a type of vehicle for hire with a driver, used by a single passenger or small group of passengers, often for a non-shared ride. Combining Car and money to get Taxi is basically how it works in real life."
+    "reasoning": "Crafting Car with money produces Taxi"
   },
   "car+town": {
     "result": "traffic",
-    "reasoning": "Here's the thing \u2014 traffic is the movement of vehicles and pedestrians along land routes. So Car combined with Town naturally produces Traffic."
+    "reasoning": "Car plus Town is the weird recipe your alchemist friend swears by for making Traffic."
   },
   "city+engine": {
     "result": "airport",
-    "reasoning": "an airport is an aerodrome with extended facilities, mostly for commercial air transport. Combining city and Engine to get Airport is basically how it works in real life."
+    "reasoning": "city and Engine accidentally host a crossover episode; Airport steals the finale."
   },
   "city+wheel": {
     "result": "traffic",
-    "reasoning": "Fun fact: traffic is the movement of vehicles and pedestrians along land routes. That's why city + Wheel = Traffic makes total sense."
+    "reasoning": "city meets Wheel, chaos files a memo, and Traffic walks out with the trophy."
   },
   "city+wing": {
     "result": "airport",
-    "reasoning": "an airport is an aerodrome with extended facilities, mostly for commercial air transport. Combining city and wing to get Airport is basically how it works in real life."
+    "reasoning": "city meets wing, chaos files a memo, and Airport walks out with the trophy."
   },
   "engine+government": {
     "result": "nasa",
-    "reasoning": "Engine meets government, and science says: the national aeronautics and space administration is an independent agency of the u.s. Result? NASA."
+    "reasoning": "When Engine and government collide, logic takes a coffee break and NASA appears anyway."
   },
   "engine+money": {
     "result": "taxi",
-    "reasoning": "a taxi, also known as a taxicab or simply a cab, is a type of vehicle for hire with a driver, used by a single passenger or small group of passengers, often for a non-shared ride. Combining Engine and money to get Taxi is basically how it works in real life."
+    "reasoning": "When Engine and money collide, logic takes a coffee break and Taxi appears anyway."
   },
   "government+rocket": {
     "result": "nasa",
-    "reasoning": "In the real world, the national aeronautics and space administration is an independent agency of the u.s \u2014 that's how government and Rocket give us NASA."
+    "reasoning": "Government space agency — NASA"
   },
   "invention+law": {
     "result": "patent",
-    "reasoning": "In the real world, in most countries, patent rights fall under private law and the patent holder must sue someone infringing the patent in order to enforce their rights \u2014 that's how invention and law give us Patent."
+    "reasoning": "When invention and law collide, logic takes a coffee break and Patent appears anyway."
   },
   "japan+pencil": {
     "result": "manga",
-    "reasoning": "manga  are comics or graphic novels originating from japan. Mix Japan with Pencil and nature does the rest: Manga!"
+    "reasoning": "Japan teams up with Pencil; the side quest reward is Manga."
   },
   "japan+tool": {
     "result": "origami",
-    "reasoning": "Fun fact: origami  is the japanese art of paper folding. That's why Japan + tool = Origami makes total sense."
+    "reasoning": "When Japan and tool collide, logic takes a coffee break and Origami appears anyway."
   },
   "law+rocket": {
     "result": "nasa",
-    "reasoning": "the national aeronautics and space administration is an independent agency of the u.s. Combining law and Rocket to get NASA is basically how it works in real life."
+    "reasoning": "law teams up with Rocket; the side quest reward is NASA."
   },
   "law+tool": {
     "result": "rule",
-    "reasoning": "law meets tool, and science says: rule or ruling may refer to:. Result? Rule."
+    "reasoning": "Someone mixed law with tool for science. The peer-reviewed conclusion: Rule."
   },
   "money+tool": {
     "result": "bill",
-    "reasoning": "In the real world, bill(s) may refer to: \u2014 that's how money and tool give us Bill."
+    "reasoning": "money teams up with tool; the side quest reward is Bill."
   },
   "rocket+startup": {
     "result": "spacex",
-    "reasoning": "In the real world, since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology \u2014 that's how Rocket and Startup give us SpaceX."
+    "reasoning": "Applying Rocket to Startup produces SpaceX"
   },
   "society+tool": {
     "result": "sociology",
-    "reasoning": "society meets tool, and science says: the term sociology was coined in the late 18th century to describe the scientific study of society. Result? Sociology."
+    "reasoning": "Someone mixed society with tool for science. The peer-reviewed conclusion: Sociology."
   },
   "trade+traffic": {
     "result": "market",
-    "reasoning": "trade meets Traffic, and science says: trade involves the transfer of goods and services from one person or entity to another, often in exchange for money. Result? Market."
-  },
-  "actor+airplane": {
-    "result": "trade",
-    "reasoning": "Mix Actor with Airplane \u2014 surprisingly, you get trade."
-  },
-  "actor+airport": {
-    "result": "school",
-    "reasoning": "Combine the essence of Actor with Airport and you discover school."
-  },
-  "actor+arrow": {
-    "result": "hammer",
-    "reasoning": "The intersection of Actor and Arrow? Hammer."
-  },
-  "actor+axe": {
-    "result": "machine",
-    "reasoning": "Mix Actor with Axe \u2014 surprisingly, you get machine."
-  },
-  "actor+backpack": {
-    "result": "diplomacy",
-    "reasoning": "Take Actor, add Backpack, and what emerges is Diplomacy."
-  },
-  "actor+bag": {
-    "result": "trade",
-    "reasoning": "Take Actor, add bag, and what emerges is trade."
-  },
-  "actor+bicycle": {
-    "result": "festival",
-    "reasoning": "The intersection of Actor and Bicycle? Festival."
-  },
-  "actor+boat": {
-    "result": "museum",
-    "reasoning": "Combine the essence of Actor with Boat and you discover Museum."
-  },
-  "actor+bow": {
-    "result": "invention",
-    "reasoning": "Mix Actor with Bow \u2014 surprisingly, you get invention."
-  },
-  "actor+bus": {
-    "result": "democracy",
-    "reasoning": "When Actor meets Bus, the result is Democracy."
-  },
-  "actor+canoe": {
-    "result": "government",
-    "reasoning": "Combine the essence of Actor with Canoe and you discover government."
-  },
-  "actor+car": {
-    "result": "hammer",
-    "reasoning": "The intersection of Actor and Car? Hammer."
-  },
-  "actor+carriage": {
-    "result": "compass",
-    "reasoning": "The intersection of Actor and Carriage? compass."
-  },
-  "actor+cart": {
-    "result": "government",
-    "reasoning": "Combine the essence of Actor with Cart and you discover government."
-  },
-  "actor+cylinder": {
-    "result": "democracy",
-    "reasoning": "When Actor meets cylinder, the result is Democracy."
-  },
-  "actor+drill": {
-    "result": "tradition",
-    "reasoning": "When Actor meets Drill, the result is Tradition."
-  },
-  "actor+engine": {
-    "result": "telescope",
-    "reasoning": "When Actor meets Engine, the result is Telescope."
-  },
-  "actor+eraser": {
-    "result": "invention",
-    "reasoning": "The intersection of Actor and Eraser? invention."
-  },
-  "actor+gear": {
-    "result": "instrument",
-    "reasoning": "Actor and Gear come together to create Instrument."
-  },
-  "actor+generator": {
-    "result": "hammer",
-    "reasoning": "Take Actor, add Generator, and what emerges is Hammer."
-  },
-  "actor+gun": {
-    "result": "democracy",
-    "reasoning": "The intersection of Actor and gun? Democracy."
-  },
-  "actor+hammer": {
-    "result": "building",
-    "reasoning": "Take Actor, add Hammer, and what emerges is building."
-  },
-  "actor+helicopter": {
-    "result": "telescope",
-    "reasoning": "Mix Actor with Helicopter \u2014 surprisingly, you get Telescope."
-  },
-  "actor+highway": {
-    "result": "instrument",
-    "reasoning": "Combine the essence of Actor with Highway and you discover Instrument."
-  },
-  "actor+invention": {
-    "result": "wheel",
-    "reasoning": "The intersection of Actor and invention? Wheel."
-  },
-  "actor+key": {
-    "result": "tradition",
-    "reasoning": "Combine the essence of Actor with key and you discover Tradition."
-  },
-  "actor+knife": {
-    "result": "diplomacy",
-    "reasoning": "Mix Actor with Knife \u2014 surprisingly, you get Diplomacy."
-  },
-  "actor+lever": {
-    "result": "telescope",
-    "reasoning": "Combine the essence of Actor with Lever and you discover Telescope."
-  },
-  "actor+lock": {
-    "result": "law",
-    "reasoning": "When Actor meets Lock, the result is law."
-  },
-  "actor+machine": {
-    "result": "tradition",
-    "reasoning": "Combine the essence of Actor with machine and you discover Tradition."
-  },
-  "actor+mechanical": {
-    "result": "hammer",
-    "reasoning": "When Actor meets Mechanical, the result is Hammer."
-  },
-  "actor+motor": {
-    "result": "instrument",
-    "reasoning": "Actor and Motor come together to create Instrument."
-  },
-  "actor+motorcycle": {
-    "result": "school",
-    "reasoning": "Take Actor, add Motorcycle, and what emerges is school."
-  },
-  "actor+needle": {
-    "result": "law",
-    "reasoning": "The intersection of Actor and Needle? law."
-  },
-  "actor+notebook": {
-    "result": "trade",
-    "reasoning": "The intersection of Actor and Notebook? trade."
-  },
-  "actor+pen": {
-    "result": "law",
-    "reasoning": "Combine the essence of Actor with Pen and you discover law."
-  },
-  "actor+pencil": {
-    "result": "school",
-    "reasoning": "Actor and Pencil come together to create school."
-  },
-  "actor+piston": {
-    "result": "civilization",
-    "reasoning": "The intersection of Actor and Piston? Civilization."
-  },
-  "actor+pulley": {
-    "result": "jewelry",
-    "reasoning": "When Actor meets Pulley, the result is Jewelry."
-  },
-  "actor+pump": {
-    "result": "building",
-    "reasoning": "Combine the essence of Actor with Pump and you discover building."
-  },
-  "actor+purse": {
-    "result": "instrument",
-    "reasoning": "Take Actor, add Purse, and what emerges is Instrument."
-  },
-  "actor+railway": {
-    "result": "school",
-    "reasoning": "When Actor meets Railway, the result is school."
-  },
-  "actor+road": {
-    "result": "telescope",
-    "reasoning": "When Actor meets Road, the result is Telescope."
-  },
-  "actor+rocket": {
-    "result": "religion",
-    "reasoning": "Mix Actor with Rocket \u2014 surprisingly, you get religion."
-  },
-  "actor+ruler": {
-    "result": "wheel",
-    "reasoning": "When Actor meets Ruler, the result is Wheel."
-  },
-  "actor+satellite": {
-    "result": "school",
-    "reasoning": "Take Actor, add Satellite, and what emerges is school."
-  },
-  "actor+saw": {
-    "result": "telescope",
-    "reasoning": "Mix Actor with Saw \u2014 surprisingly, you get Telescope."
-  },
-  "actor+scale": {
-    "result": "building",
-    "reasoning": "Combine the essence of Actor with Scale and you discover building."
-  },
-  "actor+scissors": {
-    "result": "hammer",
-    "reasoning": "When Actor meets Scissors, the result is Hammer."
-  },
-  "actor+screw": {
-    "result": "wheel",
-    "reasoning": "Take Actor, add Screw, and what emerges is Wheel."
-  },
-  "actor+ship": {
-    "result": "democracy",
-    "reasoning": "Combine the essence of Actor with ship and you discover Democracy."
-  },
-  "actor+spear": {
-    "result": "machine",
-    "reasoning": "When Actor meets Spear, the result is machine."
-  },
-  "actor+spring": {
-    "result": "school",
-    "reasoning": "The intersection of Actor and Spring? school."
-  },
-  "actor+submarine": {
-    "result": "school",
-    "reasoning": "Take Actor, add Submarine, and what emerges is school."
-  },
-  "actor+subway": {
-    "result": "festival",
-    "reasoning": "Actor and Subway come together to create Festival."
-  },
-  "actor+suitcase": {
-    "result": "hammer",
-    "reasoning": "Mix Actor with Suitcase \u2014 surprisingly, you get Hammer."
-  },
-  "actor+sword": {
-    "result": "armor",
-    "reasoning": "Actor and Sword come together to create Armor."
-  },
-  "actor+taxi": {
-    "result": "armor",
-    "reasoning": "Mix Actor with Taxi \u2014 surprisingly, you get Armor."
-  },
-  "actor+tool": {
-    "result": "building",
-    "reasoning": "Take Actor, add tool, and what emerges is building."
-  },
-  "actor+traffic": {
-    "result": "armor",
-    "reasoning": "The intersection of Actor and Traffic? Armor."
-  },
-  "actor+train": {
-    "result": "democracy",
-    "reasoning": "The intersection of Actor and Train? Democracy."
-  },
-  "actor+truck": {
-    "result": "armor",
-    "reasoning": "Combine the essence of Actor with Truck and you discover Armor."
-  },
-  "actor+turbine": {
-    "result": "school",
-    "reasoning": "The intersection of Actor and Turbine? school."
-  },
-  "actor+wagon": {
-    "result": "compass",
-    "reasoning": "Combine the essence of Actor with Wagon and you discover compass."
-  },
-  "actor+wallet": {
-    "result": "armor",
-    "reasoning": "Mix Actor with Wallet \u2014 surprisingly, you get Armor."
-  },
-  "actor+weight": {
-    "result": "civilization",
-    "reasoning": "Take Actor, add weight, and what emerges is Civilization."
-  },
-  "actor+wheel": {
-    "result": "government",
-    "reasoning": "Take Actor, add Wheel, and what emerges is government."
-  },
-  "actor+wing": {
-    "result": "democracy",
-    "reasoning": "Actor and wing come together to create Democracy."
-  },
-  "advertisement+airplane": {
-    "result": "civilization",
-    "reasoning": "Take Advertisement, add Airplane, and what emerges is Civilization."
-  },
-  "advertisement+airport": {
-    "result": "democracy",
-    "reasoning": "Combine the essence of Advertisement with Airport and you discover Democracy."
-  },
-  "advertisement+arrow": {
-    "result": "war",
-    "reasoning": "When Advertisement meets Arrow, the result is War."
-  },
-  "advertisement+axe": {
-    "result": "invention",
-    "reasoning": "Advertisement and Axe come together to create invention."
-  },
-  "advertisement+backpack": {
-    "result": "armor",
-    "reasoning": "Take Advertisement, add Backpack, and what emerges is Armor."
-  },
-  "advertisement+bag": {
-    "result": "democracy",
-    "reasoning": "Take Advertisement, add bag, and what emerges is Democracy."
-  },
-  "advertisement+bicycle": {
-    "result": "school",
-    "reasoning": "Mix Advertisement with Bicycle \u2014 surprisingly, you get school."
-  },
-  "advertisement+boat": {
-    "result": "government",
-    "reasoning": "Mix Advertisement with Boat \u2014 surprisingly, you get government."
-  },
-  "advertisement+bow": {
-    "result": "festival",
-    "reasoning": "When Advertisement meets Bow, the result is Festival."
-  },
-  "advertisement+bus": {
-    "result": "trade",
-    "reasoning": "Take Advertisement, add Bus, and what emerges is trade."
-  },
-  "advertisement+canoe": {
-    "result": "armor",
-    "reasoning": "The intersection of Advertisement and Canoe? Armor."
-  },
-  "advertisement+car": {
-    "result": "jewelry",
-    "reasoning": "Mix Advertisement with Car \u2014 surprisingly, you get Jewelry."
-  },
-  "advertisement+carriage": {
-    "result": "school",
-    "reasoning": "When Advertisement meets Carriage, the result is school."
-  },
-  "advertisement+cart": {
-    "result": "government",
-    "reasoning": "Mix Advertisement with Cart \u2014 surprisingly, you get government."
-  },
-  "advertisement+cylinder": {
-    "result": "jewelry",
-    "reasoning": "Combine the essence of Advertisement with cylinder and you discover Jewelry."
-  },
-  "advertisement+drill": {
-    "result": "museum",
-    "reasoning": "The intersection of Advertisement and Drill? Museum."
-  },
-  "advertisement+engine": {
-    "result": "war",
-    "reasoning": "The intersection of Advertisement and Engine? War."
-  },
-  "advertisement+eraser": {
-    "result": "religion",
-    "reasoning": "The intersection of Advertisement and Eraser? religion."
-  },
-  "advertisement+gear": {
-    "result": "festival",
-    "reasoning": "Mix Advertisement with Gear \u2014 surprisingly, you get Festival."
-  },
-  "advertisement+generator": {
-    "result": "armor",
-    "reasoning": "Combine the essence of Advertisement with Generator and you discover Armor."
-  },
-  "advertisement+gun": {
-    "result": "war",
-    "reasoning": "Advertisement and gun come together to create War."
-  },
-  "advertisement+hammer": {
-    "result": "civilization",
-    "reasoning": "When Advertisement meets Hammer, the result is Civilization."
-  },
-  "advertisement+helicopter": {
-    "result": "government",
-    "reasoning": "Take Advertisement, add Helicopter, and what emerges is government."
-  },
-  "advertisement+highway": {
-    "result": "invention",
-    "reasoning": "When Advertisement meets Highway, the result is invention."
-  },
-  "advertisement+invention": {
-    "result": "building",
-    "reasoning": "When Advertisement meets invention, the result is building."
-  },
-  "advertisement+key": {
-    "result": "wheel",
-    "reasoning": "Take Advertisement, add key, and what emerges is Wheel."
-  },
-  "advertisement+knife": {
-    "result": "machine",
-    "reasoning": "Mix Advertisement with Knife \u2014 surprisingly, you get machine."
-  },
-  "advertisement+lever": {
-    "result": "machine",
-    "reasoning": "Mix Advertisement with Lever \u2014 surprisingly, you get machine."
-  },
-  "advertisement+lock": {
-    "result": "trade",
-    "reasoning": "Take Advertisement, add Lock, and what emerges is trade."
-  },
-  "advertisement+machine": {
-    "result": "invention",
-    "reasoning": "Mix Advertisement with machine \u2014 surprisingly, you get invention."
-  },
-  "advertisement+mechanical": {
-    "result": "wheel",
-    "reasoning": "Take Advertisement, add Mechanical, and what emerges is Wheel."
-  },
-  "advertisement+motor": {
-    "result": "school",
-    "reasoning": "The intersection of Advertisement and Motor? school."
-  },
-  "advertisement+motorcycle": {
-    "result": "building",
-    "reasoning": "Combine the essence of Advertisement with Motorcycle and you discover building."
-  },
-  "advertisement+needle": {
-    "result": "wheel",
-    "reasoning": "Mix Advertisement with Needle \u2014 surprisingly, you get Wheel."
-  },
-  "advertisement+notebook": {
-    "result": "diplomacy",
-    "reasoning": "Take Advertisement, add Notebook, and what emerges is Diplomacy."
-  },
-  "advertisement+pen": {
-    "result": "festival",
-    "reasoning": "Combine the essence of Advertisement with Pen and you discover Festival."
-  },
-  "advertisement+pencil": {
-    "result": "wheel",
-    "reasoning": "Mix Advertisement with Pencil \u2014 surprisingly, you get Wheel."
-  },
-  "advertisement+piston": {
-    "result": "religion",
-    "reasoning": "Combine the essence of Advertisement with Piston and you discover religion."
-  },
-  "advertisement+pulley": {
-    "result": "religion",
-    "reasoning": "When Advertisement meets Pulley, the result is religion."
-  },
-  "advertisement+pump": {
-    "result": "democracy",
-    "reasoning": "When Advertisement meets Pump, the result is Democracy."
-  },
-  "advertisement+purse": {
-    "result": "democracy",
-    "reasoning": "Take Advertisement, add Purse, and what emerges is Democracy."
-  },
-  "advertisement+railway": {
-    "result": "machine",
-    "reasoning": "The intersection of Advertisement and Railway? machine."
-  },
-  "advertisement+road": {
-    "result": "jewelry",
-    "reasoning": "The intersection of Advertisement and Road? Jewelry."
-  },
-  "advertisement+rocket": {
-    "result": "tradition",
-    "reasoning": "When Advertisement meets Rocket, the result is Tradition."
-  },
-  "advertisement+ruler": {
-    "result": "tradition",
-    "reasoning": "The intersection of Advertisement and Ruler? Tradition."
-  },
-  "advertisement+satellite": {
-    "result": "trade",
-    "reasoning": "Advertisement and Satellite come together to create trade."
-  },
-  "advertisement+saw": {
-    "result": "hammer",
-    "reasoning": "Combine the essence of Advertisement with Saw and you discover Hammer."
-  },
-  "advertisement+scale": {
-    "result": "museum",
-    "reasoning": "When Advertisement meets Scale, the result is Museum."
-  },
-  "advertisement+scissors": {
-    "result": "diplomacy",
-    "reasoning": "Mix Advertisement with Scissors \u2014 surprisingly, you get Diplomacy."
-  },
-  "advertisement+screw": {
-    "result": "school",
-    "reasoning": "Combine the essence of Advertisement with Screw and you discover school."
-  },
-  "advertisement+ship": {
-    "result": "school",
-    "reasoning": "Advertisement and ship come together to create school."
-  },
-  "advertisement+spear": {
-    "result": "wheel",
-    "reasoning": "Mix Advertisement with Spear \u2014 surprisingly, you get Wheel."
-  },
-  "advertisement+spring": {
-    "result": "compass",
-    "reasoning": "Mix Advertisement with Spring \u2014 surprisingly, you get compass."
-  },
-  "advertisement+submarine": {
-    "result": "trade",
-    "reasoning": "When Advertisement meets Submarine, the result is trade."
-  },
-  "advertisement+subway": {
-    "result": "government",
-    "reasoning": "Advertisement and Subway come together to create government."
-  },
-  "advertisement+suitcase": {
-    "result": "law",
-    "reasoning": "Advertisement and Suitcase come together to create law."
-  },
-  "advertisement+sword": {
-    "result": "wheel",
-    "reasoning": "Mix Advertisement with Sword \u2014 surprisingly, you get Wheel."
-  },
-  "advertisement+taxi": {
-    "result": "diplomacy",
-    "reasoning": "Take Advertisement, add Taxi, and what emerges is Diplomacy."
-  },
-  "advertisement+tool": {
-    "result": "festival",
-    "reasoning": "The intersection of Advertisement and tool? Festival."
-  },
-  "advertisement+traffic": {
-    "result": "government",
-    "reasoning": "The intersection of Advertisement and Traffic? government."
-  },
-  "advertisement+train": {
-    "result": "clothing",
-    "reasoning": "When Advertisement meets Train, the result is Clothing."
-  },
-  "advertisement+truck": {
-    "result": "jewelry",
-    "reasoning": "Mix Advertisement with Truck \u2014 surprisingly, you get Jewelry."
-  },
-  "advertisement+turbine": {
-    "result": "diplomacy",
-    "reasoning": "The intersection of Advertisement and Turbine? Diplomacy."
-  },
-  "advertisement+wagon": {
-    "result": "war",
-    "reasoning": "Mix Advertisement with Wagon \u2014 surprisingly, you get War."
-  },
-  "advertisement+wallet": {
-    "result": "festival",
-    "reasoning": "Take Advertisement, add Wallet, and what emerges is Festival."
-  },
-  "advertisement+weight": {
-    "result": "hammer",
-    "reasoning": "Advertisement and weight come together to create Hammer."
-  },
-  "advertisement+wheel": {
-    "result": "hammer",
-    "reasoning": "Take Advertisement, add Wheel, and what emerges is Hammer."
-  },
-  "advertisement+wing": {
-    "result": "building",
-    "reasoning": "When Advertisement meets wing, the result is building."
-  },
-  "africa+airplane": {
-    "result": "instrument",
-    "reasoning": "The intersection of Africa and Airplane? Instrument."
-  },
-  "africa+airport": {
-    "result": "compass",
-    "reasoning": "When Africa meets Airport, the result is compass."
-  },
-  "africa+arrow": {
-    "result": "bridge",
-    "reasoning": "Africa and Arrow come together to create Bridge."
-  },
-  "africa+axe": {
-    "result": "government",
-    "reasoning": "The intersection of Africa and Axe? government."
-  },
-  "africa+backpack": {
-    "result": "tradition",
-    "reasoning": "The intersection of Africa and Backpack? Tradition."
-  },
-  "africa+bag": {
-    "result": "museum",
-    "reasoning": "Mix Africa with bag \u2014 surprisingly, you get Museum."
-  },
-  "africa+bicycle": {
-    "result": "wheel",
-    "reasoning": "Mix Africa with Bicycle \u2014 surprisingly, you get Wheel."
-  },
-  "africa+boat": {
-    "result": "hammer",
-    "reasoning": "Combine the essence of Africa with Boat and you discover Hammer."
-  },
-  "africa+bow": {
-    "result": "war",
-    "reasoning": "When Africa meets Bow, the result is War."
-  },
-  "africa+bus": {
-    "result": "law",
-    "reasoning": "Combine the essence of Africa with Bus and you discover law."
-  },
-  "africa+canoe": {
-    "result": "festival",
-    "reasoning": "When Africa meets Canoe, the result is Festival."
-  },
-  "africa+car": {
-    "result": "building",
-    "reasoning": "The intersection of Africa and Car? building."
-  },
-  "africa+carriage": {
-    "result": "instrument",
-    "reasoning": "The intersection of Africa and Carriage? Instrument."
-  },
-  "africa+cart": {
-    "result": "religion",
-    "reasoning": "Africa and Cart come together to create religion."
-  },
-  "africa+cylinder": {
-    "result": "compass",
-    "reasoning": "The intersection of Africa and cylinder? compass."
-  },
-  "africa+drill": {
-    "result": "instrument",
-    "reasoning": "Africa and Drill come together to create Instrument."
-  },
-  "africa+engine": {
-    "result": "bridge",
-    "reasoning": "Africa and Engine come together to create Bridge."
-  },
-  "africa+eraser": {
-    "result": "compass",
-    "reasoning": "Mix Africa with Eraser \u2014 surprisingly, you get compass."
-  },
-  "africa+gear": {
-    "result": "jewelry",
-    "reasoning": "Take Africa, add Gear, and what emerges is Jewelry."
-  },
-  "africa+generator": {
-    "result": "wheel",
-    "reasoning": "The intersection of Africa and Generator? Wheel."
-  },
-  "africa+gun": {
-    "result": "invention",
-    "reasoning": "When Africa meets gun, the result is invention."
-  },
-  "africa+hammer": {
-    "result": "war",
-    "reasoning": "Africa and Hammer come together to create War."
-  },
-  "africa+helicopter": {
-    "result": "religion",
-    "reasoning": "Combine the essence of Africa with Helicopter and you discover religion."
-  },
-  "africa+highway": {
-    "result": "democracy",
-    "reasoning": "When Africa meets Highway, the result is Democracy."
-  },
-  "africa+invention": {
-    "result": "hammer",
-    "reasoning": "Mix Africa with invention \u2014 surprisingly, you get Hammer."
-  },
-  "africa+key": {
-    "result": "school",
-    "reasoning": "Mix Africa with key \u2014 surprisingly, you get school."
-  },
-  "africa+knife": {
-    "result": "war",
-    "reasoning": "Combine the essence of Africa with Knife and you discover War."
-  },
-  "africa+lever": {
-    "result": "building",
-    "reasoning": "The intersection of Africa and Lever? building."
-  },
-  "africa+lock": {
-    "result": "clothing",
-    "reasoning": "Combine the essence of Africa with Lock and you discover Clothing."
-  },
-  "africa+machine": {
-    "result": "jewelry",
-    "reasoning": "The intersection of Africa and machine? Jewelry."
-  },
-  "africa+mechanical": {
-    "result": "armor",
-    "reasoning": "The intersection of Africa and Mechanical? Armor."
-  },
-  "africa+motor": {
-    "result": "armor",
-    "reasoning": "Africa and Motor come together to create Armor."
-  },
-  "africa+motorcycle": {
-    "result": "law",
-    "reasoning": "Mix Africa with Motorcycle \u2014 surprisingly, you get law."
-  },
-  "africa+needle": {
-    "result": "civilization",
-    "reasoning": "Africa and Needle come together to create Civilization."
-  },
-  "africa+notebook": {
-    "result": "trade",
-    "reasoning": "The intersection of Africa and Notebook? trade."
-  },
-  "africa+pen": {
-    "result": "civilization",
-    "reasoning": "Combine the essence of Africa with Pen and you discover Civilization."
-  },
-  "africa+pencil": {
-    "result": "invention",
-    "reasoning": "The intersection of Africa and Pencil? invention."
-  },
-  "africa+piston": {
-    "result": "law",
-    "reasoning": "Take Africa, add Piston, and what emerges is law."
-  },
-  "africa+pulley": {
-    "result": "civilization",
-    "reasoning": "Combine the essence of Africa with Pulley and you discover Civilization."
-  },
-  "africa+pump": {
-    "result": "democracy",
-    "reasoning": "Africa and Pump come together to create Democracy."
-  },
-  "africa+purse": {
-    "result": "instrument",
-    "reasoning": "Africa and Purse come together to create Instrument."
-  },
-  "africa+railway": {
-    "result": "civilization",
-    "reasoning": "The intersection of Africa and Railway? Civilization."
-  },
-  "africa+road": {
-    "result": "trade",
-    "reasoning": "Africa and Road come together to create trade."
-  },
-  "africa+rocket": {
-    "result": "diplomacy",
-    "reasoning": "Combine the essence of Africa with Rocket and you discover Diplomacy."
-  },
-  "africa+ruler": {
-    "result": "compass",
-    "reasoning": "Mix Africa with Ruler \u2014 surprisingly, you get compass."
-  },
-  "africa+satellite": {
-    "result": "democracy",
-    "reasoning": "Take Africa, add Satellite, and what emerges is Democracy."
-  },
-  "africa+saw": {
-    "result": "religion",
-    "reasoning": "The intersection of Africa and Saw? religion."
-  },
-  "africa+scale": {
-    "result": "trade",
-    "reasoning": "Combine the essence of Africa with Scale and you discover trade."
-  },
-  "africa+scissors": {
-    "result": "civilization",
-    "reasoning": "When Africa meets Scissors, the result is Civilization."
-  },
-  "africa+screw": {
-    "result": "building",
-    "reasoning": "When Africa meets Screw, the result is building."
-  },
-  "africa+ship": {
-    "result": "government",
-    "reasoning": "Take Africa, add ship, and what emerges is government."
-  },
-  "africa+spear": {
-    "result": "compass",
-    "reasoning": "Combine the essence of Africa with Spear and you discover compass."
-  },
-  "africa+spring": {
-    "result": "clothing",
-    "reasoning": "Mix Africa with Spring \u2014 surprisingly, you get Clothing."
-  },
-  "africa+submarine": {
-    "result": "telescope",
-    "reasoning": "Mix Africa with Submarine \u2014 surprisingly, you get Telescope."
-  },
-  "africa+subway": {
-    "result": "instrument",
-    "reasoning": "Combine the essence of Africa with Subway and you discover Instrument."
-  },
-  "africa+suitcase": {
-    "result": "compass",
-    "reasoning": "When Africa meets Suitcase, the result is compass."
-  },
-  "africa+sword": {
-    "result": "tradition",
-    "reasoning": "Mix Africa with Sword \u2014 surprisingly, you get Tradition."
-  },
-  "africa+taxi": {
-    "result": "clothing",
-    "reasoning": "When Africa meets Taxi, the result is Clothing."
-  },
-  "africa+tool": {
-    "result": "war",
-    "reasoning": "The intersection of Africa and tool? War."
-  },
-  "africa+traffic": {
-    "result": "building",
-    "reasoning": "Combine the essence of Africa with Traffic and you discover building."
-  },
-  "africa+train": {
-    "result": "hammer",
-    "reasoning": "Africa and Train come together to create Hammer."
-  },
-  "africa+truck": {
-    "result": "religion",
-    "reasoning": "Take Africa, add Truck, and what emerges is religion."
+    "reasoning": "trade plus Traffic is the weird recipe your alchemist friend swears by for making Market."
   }
 }

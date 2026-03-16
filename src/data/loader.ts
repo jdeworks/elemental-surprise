@@ -60,9 +60,9 @@ interface RecipesComboIndex {
 
 // ─── In-memory cache ────────────────────────────────────────────────────────
 
-let elements: Record<string, ElementDef> = {};
-let recipes: Record<string, string> = {};
-let reasonings: Record<string, string> = {};
+const elements: Record<string, ElementDef> = {};
+const recipes: Record<string, string> = {};
+const reasonings: Record<string, string> = {};
 
 let elementsMaster: ElementsMasterIndex | null = null;
 let recipesMaster: RecipesMasterIndex | null = null;
@@ -72,6 +72,10 @@ const elementsBucketsLoaded = new Set<string>();
 const recipesBucketsLoaded = new Set<string>();
 
 let loadPromise: Promise<void> | null = null;
+
+// ─── Progress tracking ──────────────────────────────────────────────────────
+
+export type ProgressCallback = (phase: string, loaded: number, total: number) => void;
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 
@@ -145,13 +149,15 @@ async function loadRecipesBucket(combo: string, bucketId: string, bucketFile: st
   recipesBucketsLoaded.add(bucketId);
 }
 
-// ─── Main loading ───────────────────────────────────────────────────────────
+// ─── Main loading (lazy: skips recipe buckets) ──────────────────────────────
 
-export function loadData(): Promise<void> {
+export function loadData(onProgress?: ProgressCallback): Promise<void> {
   if (loadPromise) return loadPromise;
   const dataBase = getDataBase();
 
   loadPromise = (async () => {
+    onProgress?.('Loading master indexes...', 0, 3);
+
     // Fetch master indexes
     const [elementsRes, recipesRes] = await Promise.all([
       fetch(`${dataBase}data/elements/index.json`),
@@ -164,35 +170,51 @@ export function loadData(): Promise<void> {
     elementsMaster = (await elementsRes.json()) as ElementsMasterIndex;
     recipesMaster = (await recipesRes.json()) as RecipesMasterIndex;
 
+    onProgress?.('Loading master indexes...', 1, 3);
+
     // Load all per-group element indexes, then all their buckets
     const groups = Object.keys(elementsMaster.groups);
-    const groupIndexes = await Promise.all(groups.map((g) => loadElementGroupIndex(g)));
+    const totalGroupWork = groups.length;
+    let groupsLoaded = 0;
+
+    const groupIndexes = await Promise.all(groups.map(async (g) => {
+      const idx = await loadElementGroupIndex(g);
+      groupsLoaded++;
+      onProgress?.('Loading element groups...', groupsLoaded, totalGroupWork);
+      return idx;
+    }));
 
     const elementBucketLoads: Promise<void>[] = [];
+    let totalElementBuckets = 0;
+    let elementBucketsComplete = 0;
     for (let i = 0; i < groups.length; i++) {
       const group = groups[i];
       const idx = groupIndexes[i];
       if (!idx) continue;
       for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
-        elementBucketLoads.push(loadElementsBucket(group, bucketId, bucketFile));
+        totalElementBuckets++;
+        elementBucketLoads.push(
+          loadElementsBucket(group, bucketId, bucketFile).then(() => {
+            elementBucketsComplete++;
+            onProgress?.('Loading elements...', elementBucketsComplete, totalElementBuckets);
+          })
+        );
       }
     }
+    await Promise.all(elementBucketLoads);
 
-    // Load all per-combo recipe indexes, then all their buckets
+    // Load all per-combo recipe indexes (NOT buckets — those load on demand)
     const combos = Object.keys(recipesMaster.combos);
-    const comboIndexes = await Promise.all(combos.map((c) => loadRecipeComboIndex(c)));
+    const totalComboWork = combos.length;
+    let combosLoaded = 0;
 
-    const recipeBucketLoads: Promise<void>[] = [];
-    for (let i = 0; i < combos.length; i++) {
-      const combo = combos[i];
-      const idx = comboIndexes[i];
-      if (!idx) continue;
-      for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
-        recipeBucketLoads.push(loadRecipesBucket(combo, bucketId, bucketFile));
-      }
-    }
+    await Promise.all(combos.map(async (c) => {
+      await loadRecipeComboIndex(c);
+      combosLoaded++;
+      onProgress?.('Loading recipe indexes...', combosLoaded, totalComboWork);
+    }));
 
-    await Promise.all([...elementBucketLoads, ...recipeBucketLoads]);
+    onProgress?.('Ready!', 1, 1);
   })();
 
   return loadPromise;
@@ -276,8 +298,31 @@ export function getElement(id: string): ElementDef | undefined {
   return elements[id];
 }
 
+/** Synchronous recipe lookup — only checks already-loaded recipe buckets. */
 export function getRecipe(a: string, b: string): string | null {
   const key = [a, b].sort().join('+');
+  return recipes[key] ?? null;
+}
+
+/** Check if a recipe exists using combo indexes (synchronous, no bucket load needed). */
+export function hasRecipe(a: string, b: string): boolean {
+  const key = [a, b].sort().join('+');
+  // Check in-memory cache first
+  if (recipes[key] !== undefined) return true;
+  // Check combo indexes (loaded at startup)
+  for (const idx of recipeComboIndexes.values()) {
+    if (idx.recipeKeyToBucket[key]) return true;
+  }
+  return false;
+}
+
+/** Async recipe lookup — loads the recipe bucket on cache miss, returns result id. */
+export async function getRecipeAsync(a: string, b: string): Promise<string | null> {
+  const key = [a, b].sort().join('+');
+  // Fast path: already in cache
+  if (recipes[key] !== undefined) return recipes[key];
+  // Load the bucket containing this recipe
+  await ensureRecipeLoaded(key);
   return recipes[key] ?? null;
 }
 
@@ -380,6 +425,29 @@ export async function ensureAllElementsLoaded(): Promise<void> {
     for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
       if (!elementsBucketsLoaded.has(bucketId)) {
         loads.push(loadElementsBucket(group, bucketId, bucketFile));
+      }
+    }
+  }
+  await Promise.all(loads);
+}
+
+/** Background-preload recipe buckets for the given element groups. */
+export async function preloadRecipeBucketsForGroups(groups: string[]): Promise<void> {
+  if (!recipesMaster) return;
+  const relevantCombos = Object.keys(recipesMaster.combos).filter((combo) => {
+    const parts = combo.split('-');
+    // Combo keys are like "nature-nature" or "animals-nature"
+    // Check if any part matches one of our groups
+    return groups.some((g) => parts.includes(g));
+  });
+
+  const loads: Promise<void>[] = [];
+  for (const combo of relevantCombos) {
+    const idx = recipeComboIndexes.get(combo);
+    if (!idx) continue;
+    for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
+      if (!recipesBucketsLoaded.has(bucketId)) {
+        loads.push(loadRecipesBucket(combo, bucketId, bucketFile));
       }
     }
   }

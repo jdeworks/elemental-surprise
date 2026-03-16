@@ -1,6 +1,6 @@
 # Elemental Surprise
 
-Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7. Players combine Fire, Water, Earth, Wind to discover 1300+ elements across 15 groups.
+Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7. Players combine Fire, Water, Earth, Wind to discover 2,767 elements across 16 groups. 137k+ recipes with educational/funny reasonings. Lazy-loads recipe data on demand.
 
 ## Quick Reference
 
@@ -8,6 +8,7 @@ Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7.
 - `npm run build` — TypeScript check + Vite build (→ `docs/`)
 - `npm run lint` — ESLint
 - `npm run validate` — validate public data
+- `./rebuild-all.sh` — full pipeline: generate → merge → recipes → validate → build
 - `./test-local.sh --no-preview` — full pipeline check
 - `./build-pages.sh` — build for GitHub Pages (output: `docs/`)
 

@@ -1,34 +1,52 @@
 # Content Pipeline
 
-## Canonical Refresh (one command)
+## Full Rebuild (recommended)
 
 ```bash
-npm run content:refresh                    # generate → validate:proposed → merge:clean → expand:recipes → icons:refresh → validate
-npm run content:refresh:with-extensions    # same + apply extend-elements input
-npm run content:refresh:auto-extensions    # auto-detect and include extension input if present
+./rebuild-all.sh   # generate → new elements → merge → intuitive recipes → quality recipes → merge → validate → build
 ```
 
 ## Individual Steps
 
 ```bash
-npm run generate           # Recipe tree → proposed elements + recipes
-npm run validate:proposed  # Validate proposed data (reachability, links, groups, reasonings)
-npm run merge:clean        # Delete public/data, copy proposed, run merge
-npm run merge              # Merge proposed → public with bucket generation
-npm run expand:recipes     # Expand recipe combinations with reasonings
-npm run icons:refresh      # Build icon-matcher output + sync to public/icons
-npm run validate           # Validate public data
-npm run evaluate           # Optional: detailed evaluation report (depth, key paths)
+npm run generate                                          # Recipe tree → proposed elements + recipes (~1486 curated)
+python3 scripts/automation/generate-new-elements.py --apply   # Add ~175 hand-crafted elements
+python3 scripts/automation/generate-bulk-elements.py --apply  # Add ~1100 bulk elements (keyword-matched recipes)
+npm run merge                                             # Merge proposed → public with bucket generation
+python3 scripts/automation/expand-intuitive-recipes.py --apply # Pattern-based recipe expansion (~400 recipes)
+python3 scripts/automation/generate-quality-recipes.py --apply # Sub-mapping + catch-all recipes (~70k+)
+npm run validate                                          # Validate public data
+npm run build                                             # TypeScript check + Vite build
 ```
 
-## Adding New Elements (Bulk Extension)
+## Recipe Generation Architecture
 
-1. Prepare `extend-elements/input/new-elements.json`
-2. Dry run: `npm run extend:elements -- --input extend-elements/input/new-elements.json`
-3. Apply: `npm run extend:elements:apply -- --input extend-elements/input/new-elements.json`
-4. Then: `npm run expand:recipes && npm run icons:refresh && npm run validate`
+Recipes are generated in quality tiers (highest priority first):
 
-Or use `npm run content:refresh:with-extensions` for all-in-one.
+1. **Curated base** (~5.5k) — hand-written in `generate-elements.ts`, `generate-new-elements.py`, `generate-bulk-elements.py`
+2. **Sub-mapping recipes** (~60k) — specific element→result tables in `sub_mappings.py` (814 entries) and `sub_mappings_extended.py` (862 entries)
+   - `ANIMAL_HEAT_MAP`: cow+fire→steak, pig+fire→sausage, etc.
+   - `FOOD_FOOD_MAP`: bread+cheese→sandwich, rice+fish→sushi, etc.
+   - `HUMAN_DOMAIN_MAP`: human+sword→knight, human+telescope→astronomer, etc.
+   - `MAGIC_ANIMAL_MAP`: horse+magic→unicorn, lizard+magic→dragon, etc.
+   - `SELF_COMBINE_MAP`: water+water→lake, fire+fire→wildfire, etc.
+3. **Intuitive patterns** (~400) — `expand-intuitive-recipes.py` (fire+animal→meat, water+animal→swamp, etc.)
+4. **Tag-based rules** (~3k) — semantic tag matching in `generate-quality-recipes.py`
+5. **Group catch-alls** (~67k) — one funny result per group pair in `group_catchalls.py`
+   - e.g., Food+Technology→"Stomach Ache", AI+AI→"Infinite Loop"
+
+## Adding New Elements
+
+### Option A: Hand-crafted (best quality)
+Edit `scripts/automation/generate-new-elements.py` — add to `NEW_ELEMENTS` list with specific recipes.
+
+### Option B: Bulk (keyword-matched recipes)
+Edit `scripts/automation/generate-bulk-elements.py` — add to `add_elements()` calls.
+
+### Option C: Sub-mapping recipes
+Edit `scripts/automation/sub_mappings.py` or `sub_mappings_extended.py` to add specific element→result mappings.
+
+Then run `./rebuild-all.sh`.
 
 ## Validation Checks
 
@@ -36,33 +54,19 @@ Or use `npm run content:refresh:with-extensions` for all-in-one.
 - No broken references in recipes
 - Every element has at least one link
 - Every element has a group assignment
-- Every recipe has a reasoning (warning if missing)
-
-## Automation Scripts (Python)
-
-Reusable scripts for bulk content quality tasks. All cache Wikipedia fetches in `.wiki-cache/` (gitignored).
-
-```bash
-npm run auto:icons          # Audit duplicate icons, auto-fix via custom-overrides.json
-npm run auto:reasonings     # Generate Wikipedia-based educational recipe reasonings
-npm run auto:combinations   # Suggest new recipes via Wikipedia link analysis
-npm run auto:all            # Run all three + validate
-```
-
-Chunk support for large runs:
-```bash
-python3 scripts/automation/generate-reasonings.py --apply --chunk 0 --chunk-size 100
-python3 scripts/automation/generate-combinations.py --apply --recipes-only --chunk 0 --chunk-size 100
-```
+- Every recipe has a reasoning
 
 ## Key Scripts
 
-- `scripts/generate-elements.ts` — builds elements/recipes from curated recipe tree (~1700 triples)
-- `scripts/validate.ts` — data validation
-- `scripts/merge.ts` — proposed → public with bucket file generation
-- `scripts/expand-recipes.ts` — expand recipe combinations
-- `scripts/automation/audit-icons.py` — find and fix duplicate icon codepoint mappings
-- `scripts/automation/generate-reasonings.py` — Wikipedia-sourced educational recipe reasonings
-- `scripts/automation/generate-combinations.py` — Wikipedia link analysis for new recipe suggestions
-- `scripts/lib/load-data.ts` — shared data loader (ElementDef, GameData)
-- `scripts/lib/reachability.ts` — graph algorithms for reachability/depth
+| Script | Purpose |
+|--------|---------|
+| `scripts/generate-elements.ts` | Curated recipe tree (~1486 recipes) |
+| `scripts/automation/generate-new-elements.py` | ~175 hand-crafted new elements |
+| `scripts/automation/generate-bulk-elements.py` | ~1100 bulk elements with keyword recipes |
+| `scripts/automation/generate-quality-recipes.py` | Main recipe generator (sub-mappings + tag rules + catch-alls) |
+| `scripts/automation/sub_mappings.py` | Specific element→result tables (814 entries) |
+| `scripts/automation/sub_mappings_extended.py` | Extended element→result tables (862 entries) |
+| `scripts/automation/group_catchalls.py` | Funny catch-all result per group pair (136 entries) |
+| `scripts/automation/expand-intuitive-recipes.py` | Pattern-based recipe expansion |
+| `scripts/merge.ts` | Proposed → public with bucket generation |
+| `scripts/validate.ts` | Data integrity validation |

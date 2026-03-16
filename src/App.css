@@ -376,6 +376,97 @@
   font-style: italic;
 }
 
+/* Loading screen */
+.loading-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: #1a1a2e;
+  color: white;
+}
+
+.loading-screen h1 {
+  margin: 0 0 32px 0;
+  font-size: 28px;
+}
+
+.loading-bar-container {
+  width: 320px;
+  max-width: 80vw;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.loading-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #4CAF50, #8BC34A);
+  border-radius: 4px;
+  transition: width 0.1s ease-out;
+}
+
+.loading-phase {
+  margin: 12px 0 0 0;
+  font-size: 13px;
+  opacity: 0.7;
+}
+
+.loading-count {
+  opacity: 0.6;
+}
+
+/* Fallback toast (funny no-match feedback) */
+.fallback-toast {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  background: #ff9800;
+  color: #333;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 13px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  max-width: 360px;
+  text-align: center;
+  animation: fadeInOut 3s ease-in-out;
+  white-space: nowrap;
+  z-index: 100;
+}
+
+.fallback-toast strong {
+  font-size: 14px;
+}
+
+.fallback-toast span {
+  font-size: 12px;
+  opacity: 0.85;
+  white-space: normal;
+}
+
+/* Combining indicator */
+.combining-indicator {
+  position: absolute;
+  right: 24px;
+  top: 100%;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  padding: 6px 12px;
+  border-radius: 6px;
+  font-size: 12px;
+  animation: pulse 0.8s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 0.6; }
+  50% { opacity: 1; }
+}
+
 /* Mobile sidebar toggle (hidden on desktop) */
 .mobile-sidebar-toggle {
   display: none;
