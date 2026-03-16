@@ -2,9 +2,9 @@
 
 A scalable element combination game inspired by Little Alchemy. Start with Fire, Water, Earth, and Wind — combine your way through **1300+ elements** spanning nature, technology, AI, world landmarks, famous companies, and more.
 
-![Fire](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/fire.svg) ![Water](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/water.svg) ![Earth](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/earth.svg) ![Wind](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/wind.svg)
-→
-![Steam](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/steam.svg) ![Lava](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/lava.svg) ![Dust](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/dust.svg) ![Energy](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/energy.svg) ![Mud](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/mud.svg) ![Rain](https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/rain.svg)
+<img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/fire.svg" alt="Fire" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/water.svg" alt="Water" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/earth.svg" alt="Earth" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/wind.svg" alt="Wind" width="32" height="32">
+
+<img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/steam.svg" alt="Steam" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/lava.svg" alt="Lava" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/dust.svg" alt="Dust" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/energy.svg" alt="Energy" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/mud.svg" alt="Mud" width="32" height="32"> <img src="https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public/icons/rain.svg" alt="Rain" width="32" height="32">
 
 ## Play
 
