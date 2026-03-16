@@ -84,7 +84,7 @@ Two separate features:
 
 ---
 
-## 8. Unique Icons for All Elements
+## ~~8. Unique Icons for All Elements~~ [AUTOMATED]
 **Priority: Medium — Content quality**
 
 Many elements currently share the same icon (e.g., fire and fireplace). This confuses players.
@@ -96,7 +96,7 @@ Many elements currently share the same icon (e.g., fire and fireplace). This con
 
 ---
 
-## 9. Fix Recipe Reasoning Text
+## ~~9. Fix Recipe Reasoning Text~~ [AUTOMATED]
 **Priority: Medium — Content quality**
 
 Current recipe reasonings are often nonsensical or unfunny. They should be educational but humorous.
@@ -149,7 +149,7 @@ Store achievement progress in localStorage. Design the system to be easily exten
 
 ---
 
-## 11. Expand Combinations & Elements
+## ~~11. Expand Combinations & Elements~~ [AUTOMATED]
 **Priority: Low — Large content task (do last before mobile)**
 
 The game currently has ~2–4 recipes per element. Players should be able to think of a combination and have it work more often.
