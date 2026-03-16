@@ -382,5 +382,25 @@
   "video-game+vr-headset": {
     "result": "vr-game",
     "reasoning": "Fun fact: video games are electronic games that involve interaction with a user interface. That's why Video Game + VR Headset = VR Game makes total sense."
+  },
+  "game+screen": {
+    "result": "video-game",
+    "reasoning": "A Game on a screen is a Video Game."
+  },
+  "camera+internet": {
+    "result": "streaming",
+    "reasoning": "A camera broadcasting over the internet is Streaming."
+  },
+  "factory+robot": {
+    "result": "automation",
+    "reasoning": "A Robot running a Factory is Automation."
+  },
+  "art+computer": {
+    "result": "pixel-art",
+    "reasoning": "Computer-generated art is Pixel Art."
+  },
+  "computer+drawing": {
+    "result": "pixel-art",
+    "reasoning": "Computer-generated Drawing is Pixel Art."
   }
 }

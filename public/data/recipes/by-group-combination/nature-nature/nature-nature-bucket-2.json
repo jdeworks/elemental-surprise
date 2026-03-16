@@ -334,5 +334,33 @@
   "wind+wind": {
     "result": "air",
     "reasoning": "Here's the thing \u2014 the atmosphere of earth consists of a layer of mixed gas that is retained by gravity, surrounding the earth's surface. So Wind combined with Wind naturally produces air."
+  },
+  "fire+ice": {
+    "result": "water",
+    "reasoning": "Fire melts Ice \u2014 basic thermodynamics gives us Water."
+  },
+  "fire+snow": {
+    "result": "water",
+    "reasoning": "Fire melts Snow \u2014 basic thermodynamics gives us Water."
+  },
+  "fire+glacier": {
+    "result": "water",
+    "reasoning": "Fire melts Glacier \u2014 basic thermodynamics gives us Water."
+  },
+  "desert+wind": {
+    "result": "dune",
+    "reasoning": "Wind sculpts Desert into majestic Dunes over time."
+  },
+  "sand+thunder": {
+    "result": "glass",
+    "reasoning": "Thunder striking Sand can fuse it into Glass \u2014 nature's own glassmaker."
+  },
+  "frost+water": {
+    "result": "ice",
+    "reasoning": "Water in Frost temperatures becomes Ice."
+  },
+  "earth+sand": {
+    "result": "mountain",
+    "reasoning": "Pile enough Sand and Earth high enough and you get a Mountain."
   }
 }
