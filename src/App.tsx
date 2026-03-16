@@ -705,7 +705,7 @@ function App() {
               <div className="settings-sidebar-actions">
                 <button
                   type="button"
-                  className="settings-sidebar-btn"
+                  className="settings-sidebar-btn mobile-only"
                   onClick={() => { setRecipesModalOpen(true); setSettingsOpen(false); updateStat('recipesModalOpened', stats.recipesModalOpened + 1); }}
                   title="Show recipes you have discovered"
                 >
@@ -716,7 +716,7 @@ function App() {
                 </button>
                 <button
                   type="button"
-                  className="settings-sidebar-btn"
+                  className="settings-sidebar-btn mobile-only"
                   onClick={() => { setAchievementsModalOpen(true); setSettingsOpen(false); }}
                   title="View achievements"
                 >
@@ -727,7 +727,7 @@ function App() {
                 </button>
                 <button
                   type="button"
-                  className="settings-sidebar-btn"
+                  className="settings-sidebar-btn mobile-only"
                   onClick={() => { setShowTutorial(true); setSettingsOpen(false); }}
                   title="How to play"
                 >
