@@ -9,7 +9,7 @@
   background: #fff;
   cursor: grab;
   user-select: none;
-  transition: box-shadow 0.2s, transform 0.1s, border-color 0.15s;
+  transition: box-shadow 0.2s, transform 0.1s, border-color 0.15s, background 0.15s;
 }
 
 .element-icon {
@@ -42,6 +42,7 @@
   box-shadow: none;
   padding: 4px;
   border-radius: 8px;
+  position: relative;
 }
 
 .element-workspace:hover {
@@ -50,15 +51,29 @@
   transform: none;
 }
 
-/* Show drop target border when dragging */
+/* Default drop target border when dragging (no status yet) */
 .element-workspace.drop-target {
   border: 2px dashed #888;
   background: rgba(0, 0, 0, 0.05);
 }
 
-.element-workspace.drop-target:hover {
-  border-color: #4CAF50;
-  background: rgba(76, 175, 80, 0.1);
+/* Combination hover states */
+.element-workspace.drop-new {
+  border: 2px solid #4CAF50;
+  background: rgba(76, 175, 80, 0.15);
+  box-shadow: 0 0 12px rgba(76, 175, 80, 0.4);
+}
+
+.element-workspace.drop-known {
+  border: 2px solid #9E9E9E;
+  background: rgba(158, 158, 158, 0.1);
+  box-shadow: 0 0 12px rgba(158, 158, 158, 0.3);
+}
+
+.element-workspace.drop-none {
+  border: 2px solid #F44336;
+  background: rgba(244, 67, 54, 0.1);
+  box-shadow: 0 0 12px rgba(244, 67, 54, 0.3);
 }
 
 .element-name {
@@ -83,4 +98,22 @@
 .element-over {
   border-color: #4CAF50;
   box-shadow: 0 0 12px rgba(76, 175, 80, 0.6);
+}
+
+/* Name label shown on drag overlay and hover targets */
+.element-label {
+  position: absolute;
+  bottom: -22px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 11px;
+  font-weight: 600;
+  color: #333;
+  background: rgba(255, 255, 255, 0.92);
+  padding: 2px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  z-index: 10;
 }

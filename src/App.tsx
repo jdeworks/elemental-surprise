@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
-import type { DragEndEvent, DragStartEvent } from '@dnd-kit/core';
+import type { DragEndEvent, DragStartEvent, DragOverEvent } from '@dnd-kit/core';
 import { DndContext, DragOverlay, useSensor, useSensors, PointerSensor, KeyboardSensor } from '@dnd-kit/core';
 import { sortableKeyboardCoordinates } from '@dnd-kit/sortable';
 import { Library } from './components/Library';
@@ -124,6 +124,8 @@ function App() {
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [recipesModalOpen, setRecipesModalOpen] = useState(false);
   const [recipesModalRefresh, setRecipesModalRefresh] = useState(0);
+  const [dropStatus, setDropStatus] = useState<'new' | 'known' | 'none' | null>(null);
+  const [hoveredElementId, setHoveredElementId] = useState<string | null>(null);
   const [showNames, setShowNames] = useState(() => {
     try { return localStorage.getItem('es_showNames') !== 'false'; } catch { return true; }
   });
@@ -201,20 +203,22 @@ function App() {
   }, []);
 
   const handleDragEnd = useCallback((event: DragEndEvent) => {
-    const { active, over } = event;
+    const { active, over, delta } = event;
     setActiveId(null);
-
-    if (!over) return;
+    setDropStatus(null);
+    setHoveredElementId(null);
 
     const activeId = active.id as string;
-    const overId = over.id as string;
-
-    if (activeId === overId) return;
-
     const activeElement = workspaceElements.find(el => el.id === activeId);
-    const overElement = workspaceElements.find(el => el.id === overId);
 
-    if (activeElement && overElement) {
+    // If dragged from library, ignore (library spawns via onClick)
+    if (!activeElement) return;
+
+    const overId = over?.id as string | undefined;
+    const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
+
+    if (overElement && overElement.id !== activeId) {
+      // Dropped on another workspace element — try to combine
       const result = getRecipe(activeElement.type, overElement.type);
 
       if (result) {
@@ -225,7 +229,7 @@ function App() {
         const midY = (activeElement.y + overElement.y) / 2;
 
         removeElement(activeId);
-        removeElement(overId);
+        removeElement(overElement.id);
 
         const newElement: WorkspaceElement = {
           id: generateId(),
@@ -234,15 +238,49 @@ function App() {
           y: midY,
         };
         setWorkspaceElements(prev => [...prev, newElement]);
-        
+
         discoverElement(result);
       }
+    } else {
+      // Dropped on empty space or same element — reposition
+      setWorkspaceElements(prev =>
+        prev.map(el =>
+          el.id === activeId
+            ? { ...el, x: el.x + delta.x, y: el.y + delta.y }
+            : el
+        )
+      );
     }
   }, [workspaceElements, removeElement, discoverElement]);
 
   const handleDragStart = useCallback((event: DragStartEvent) => {
     setActiveId(event.active.id as string);
   }, []);
+
+  const handleDragOver = useCallback((event: DragOverEvent) => {
+    const { active, over } = event;
+    if (!over || over.id === 'workspace') {
+      setDropStatus(null);
+      setHoveredElementId(null);
+      return;
+    }
+    const activeEl = workspaceElements.find(el => el.id === active.id);
+    const overEl = workspaceElements.find(el => el.id === (over.id as string));
+    if (activeEl && overEl && activeEl.id !== overEl.id) {
+      const result = getRecipe(activeEl.type, overEl.type);
+      if (!result) {
+        setDropStatus('none');
+      } else if (discovered.includes(result)) {
+        setDropStatus('known');
+      } else {
+        setDropStatus('new');
+      }
+      setHoveredElementId(overEl.id);
+    } else {
+      setDropStatus(null);
+      setHoveredElementId(null);
+    }
+  }, [workspaceElements, discovered]);
 
   const activeElement = activeId ? workspaceElements.find(el => el.id === activeId) : null;
 
@@ -268,6 +306,7 @@ function App() {
       sensors={sensors}
       onDragEnd={handleDragEnd}
       onDragStart={handleDragStart}
+      onDragOver={handleDragOver}
     >
       <div className="app">
         <header className="app-header">
@@ -326,7 +365,7 @@ function App() {
               });
             }}
           />
-          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} />
+          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} />
         </main>
         <footer className="app-footer">
           Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0 1.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0 / CC0 where noted). Full attribution: <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">NOTICE</a>.
@@ -411,6 +450,7 @@ function App() {
               y={activeElement.y}
               isOverlay={true}
               iconCacheBust={iconCacheBust}
+              showLabel={true}
             />
           )}
         </DragOverlay>

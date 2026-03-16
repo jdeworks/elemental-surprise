@@ -12,16 +12,18 @@ export interface ElementProps {
   isOverlay?: boolean;
   isDropTarget?: boolean;
   iconCacheBust?: number;
+  dropStatus?: 'new' | 'known' | 'none' | null;
+  showLabel?: boolean;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust, dropStatus, showLabel = false }: ElementProps) {
   const element = getElement(type);
-  
+
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
     id,
     data: { type, isLibrary },
   });
-  
+
   const { setNodeRef: setDroppableRef } = useDroppable({
     id,
     data: { type },
@@ -45,10 +47,13 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
 
   if (!element) return null;
 
+  const dropClass = dropStatus === 'new' ? 'drop-new' : dropStatus === 'known' ? 'drop-known' : dropStatus === 'none' ? 'drop-none' : '';
+
   const classNames = [
     'element',
     isLibrary ? 'element-library' : 'element-workspace',
-    isDropTarget ? 'drop-target' : '',
+    isDropTarget && !dropClass ? 'drop-target' : '',
+    dropClass,
   ].filter(Boolean).join(' ');
 
   return (
@@ -64,6 +69,9 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
     >
       <img src={getIconUrl(element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} />
       <span className="element-name">{element.name}</span>
+      {showLabel && !isLibrary && (
+        <span className="element-label">{element.name}</span>
+      )}
     </div>
   );
 }

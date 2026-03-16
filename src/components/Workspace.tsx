@@ -7,9 +7,11 @@ export interface WorkspaceProps {
   elements: WorkspaceElement[];
   activeId?: string | null;
   iconCacheBust?: number;
+  hoveredElementId?: string | null;
+  dropStatus?: 'new' | 'known' | 'none' | null;
 }
 
-export function Workspace({ elements, activeId, iconCacheBust }: WorkspaceProps) {
+export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId, dropStatus }: WorkspaceProps) {
   const { setNodeRef, isOver } = useDroppable({
     id: 'workspace',
   });
@@ -22,17 +24,22 @@ export function Workspace({ elements, activeId, iconCacheBust }: WorkspaceProps)
       className={`workspace ${isOver ? 'workspace-over' : ''}`}
       data-testid="workspace"
     >
-      {elements.map(element => (
-        <DraggableElement
-          key={element.id}
-          id={element.id}
-          type={element.type}
-          x={element.x}
-          y={element.y}
-          isDropTarget={isDragging && element.id !== activeId}
-          iconCacheBust={iconCacheBust}
-        />
-      ))}
+      {elements.map(element => {
+        const isHovered = hoveredElementId === element.id;
+        return (
+          <DraggableElement
+            key={element.id}
+            id={element.id}
+            type={element.type}
+            x={element.x}
+            y={element.y}
+            isDropTarget={isDragging && element.id !== activeId}
+            iconCacheBust={iconCacheBust}
+            dropStatus={isHovered ? dropStatus : null}
+            showLabel={isHovered && isDragging}
+          />
+        );
+      })}
       {elements.length === 0 && (
         <div className="workspace-empty">
           Click elements in the library to spawn them here
