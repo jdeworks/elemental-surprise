@@ -1,8 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 
-interface ElementsIndex {
+interface MasterIndex {
+  groups: Record<string, { elementCount: number; bucketCount: number }>;
+}
+
+interface GroupIndex {
   buckets: Record<string, string>;
+  elementToBucket: Record<string, string>;
 }
 
 function readJson<T>(filePath: string): T {
@@ -10,43 +15,38 @@ function readJson<T>(filePath: string): T {
 }
 
 function loadElementIds(dataDir: string): string[] {
-  const groupedElementsIndexPath = path.join(dataDir, 'data', 'elements', 'index.json');
-  if (fs.existsSync(groupedElementsIndexPath)) {
-    const index = readJson<ElementsIndex>(groupedElementsIndexPath);
+  const masterIndexPath = path.join(dataDir, 'data', 'elements', 'index.json');
+  if (fs.existsSync(masterIndexPath)) {
+    const master = readJson<MasterIndex>(masterIndexPath);
     const elementIds = new Set<string>();
 
-    for (const bucketFile of Object.values(index.buckets)) {
-      const bucketPath = path.join(dataDir, 'data', 'elements', 'by-group', bucketFile);
-      if (!fs.existsSync(bucketPath)) continue;
-      const bucket = readJson<Record<string, unknown>>(bucketPath);
-      for (const key of Object.keys(bucket)) {
-        elementIds.add(key);
+    for (const groupSlug of Object.keys(master.groups)) {
+      const groupDir = path.join(dataDir, 'data', 'elements', 'by-group', groupSlug);
+      const groupIndexPath = path.join(groupDir, 'index.json');
+      if (!fs.existsSync(groupIndexPath)) continue;
+      const groupIndex = readJson<GroupIndex>(groupIndexPath);
+
+      for (const bucketFile of Object.values(groupIndex.buckets)) {
+        const bucketPath = path.join(groupDir, bucketFile);
+        if (!fs.existsSync(bucketPath)) continue;
+        const bucket = readJson<Record<string, unknown>>(bucketPath);
+        for (const key of Object.keys(bucket)) {
+          elementIds.add(key);
+        }
       }
     }
 
     return Array.from(elementIds).sort();
   }
 
-  const elementsIndexPath = path.join(dataDir, 'data', 'elements-index.json');
-  if (fs.existsSync(elementsIndexPath)) {
-    const index = readJson<ElementsIndex>(elementsIndexPath);
-    const elementIds = new Set<string>();
-
-    for (const bucketFile of Object.values(index.buckets)) {
-      const bucketPath = path.join(dataDir, 'data', bucketFile);
-      if (!fs.existsSync(bucketPath)) continue;
-      const bucket = readJson<Record<string, unknown>>(bucketPath);
-      for (const key of Object.keys(bucket)) {
-        elementIds.add(key);
-      }
-    }
-
-    return Array.from(elementIds).sort();
-  }
-
+  // Fallback: flat elements.json
   const elementsPath = path.join(dataDir, 'elements.json');
-  const elements = readJson<Record<string, unknown>>(elementsPath);
-  return Object.keys(elements).sort();
+  if (fs.existsSync(elementsPath)) {
+    const elements = readJson<Record<string, unknown>>(elementsPath);
+    return Object.keys(elements).sort();
+  }
+
+  return [];
 }
 
 function main(): void {

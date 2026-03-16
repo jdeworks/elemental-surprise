@@ -322,20 +322,35 @@ def find_shared_links(elements, limit_pairs=500):
     return pair_scores[:limit_pairs]
 
 
+# Results that are too generic to be interesting
+BLOCKED_RESULTS = {
+    "animal", "plant", "human", "person", "thing", "object", "list", "type", "life",
+    "species", "genus", "family", "order", "class", "category", "group",
+    "world", "earth", "nature", "science", "technology", "culture", "society",
+    "history", "time", "place", "name", "number", "system", "form", "part",
+    "use", "work", "year", "day", "area", "country", "state", "city",
+    "united-states", "europe", "africa", "asia", "australia", "america",
+    "english-language", "latin", "greek", "french", "german",
+    "international", "national", "common", "general", "modern", "ancient",
+    "new-york", "london", "university", "wikipedia", "isbn",
+}
+
+
 def suggest_result(a_name, b_name, shared_links, existing_elements):
     """Suggest a result element from shared Wikipedia links."""
-    # Filter shared links to find good result candidates
+    a_slug = slugify(a_name)
+    b_slug = slugify(b_name)
     candidates = []
     for link in shared_links:
         slug = slugify(link)
-        if not slug or len(slug) < 2 or len(slug) > 30:
+        if not slug or len(slug) < 3 or len(slug) > 30:
             continue
-        # Skip if it's one of the ingredients
-        if slug == slugify(a_name) or slug == slugify(b_name):
+        # Skip ingredients, blocked results, and overly generic terms
+        if slug == a_slug or slug == b_slug or slug in BLOCKED_RESULTS:
             continue
         # Prefer links that are already elements in the game
         if slug in existing_elements:
-            candidates.append((slug, 10))  # High priority for existing elements
+            candidates.append((slug, 10))
         else:
             candidates.append((slug, 1))
 
