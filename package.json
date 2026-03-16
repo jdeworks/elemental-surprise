@@ -13,14 +13,11 @@
     "validate": "tsx scripts/validate.ts",
     "validate:proposed": "tsx scripts/validate.ts --data proposed",
     "generate": "tsx scripts/generate-elements.ts",
-    "expand:recipes": "tsx scripts/expand-recipes.ts",
-    "extend:elements": "tsx extend-elements/add-elements.ts",
-    "extend:elements:apply": "tsx extend-elements/add-elements.ts --apply",
+    "rebuild": "bash rebuild-all.sh",
     "generate:icons": "tsx scripts/generate-icons.ts",
-    "merge:clean": "rm -rf public/data public/elements.json public/recipes.json && cp proposed/elements.json public/elements.json && cp proposed/recipes.json public/recipes.json && npm run merge",
-    "content:refresh": "npm run generate && npm run validate:proposed && npm run merge:clean && npm run expand:recipes && npm run icons:refresh && npm run validate",
-    "content:refresh:with-extensions": "npm run content:refresh && npm run extend:elements:apply -- --input extend-elements/input/new-elements.json && npm run expand:recipes && npm run icons:refresh && npm run validate",
-    "content:refresh:auto-extensions": "if [ -f extend-elements/input/new-elements.json ]; then npm run content:refresh:with-extensions; else npm run content:refresh; fi",
+    "content:refresh": "bash rebuild-all.sh",
+    "content:refresh:with-extensions": "bash rebuild-all.sh",
+    "content:refresh:auto-extensions": "bash rebuild-all.sh",
     "icons:prepare-catalog": "tsx scripts/prepare-icon-matcher-catalog.ts",
     "icons:build": "npm run icons:prepare-catalog && cd icon-matcher && node src/buildGameIcons.js",
     "icons:sync": "tsx scripts/sync-matched-icons.ts",
@@ -31,7 +28,7 @@
     "auto:icons:unique": "python3 scripts/automation/make-icons-unique.py --apply",
     "auto:reasonings": "python3 scripts/automation/generate-reasonings.py --apply --missing-only",
     "auto:combinations": "python3 scripts/automation/generate-combinations.py --apply --recipes-only",
-    "auto:all": "bash scripts/automation/run-all.sh --apply"
+    "auto:all": "bash rebuild-all.sh"
   },
   "dependencies": {
     "@dnd-kit/sortable": "^10.0.0",

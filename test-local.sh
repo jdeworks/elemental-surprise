@@ -13,9 +13,9 @@ echo "  Elemental Surprise — full local test build"
 echo "══════════════════════════════════════════════"
 echo ""
 
-# 1. Full content refresh (auto-apply extension input when present)
-echo "▶ Step 1/2: Refreshing content pipeline..."
-npm run content:refresh:auto-extensions
+# 1. Full rebuild using new pipeline
+echo "▶ Step 1/2: Full rebuild pipeline..."
+bash rebuild-all.sh
 echo ""
 
 # 2. Build for local testing
