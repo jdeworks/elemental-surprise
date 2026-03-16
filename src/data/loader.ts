@@ -458,7 +458,7 @@ export async function preloadRecipeBucketsForGroups(groups: string[]): Promise<v
     const parts = combo.split('-');
     // Combo keys are like "nature-nature" or "animals-nature"
     // Check if any part matches one of our groups
-    return groups.some((g) => parts.includes(g));
+    return groups.some((g) => parts.includes(g.toLowerCase()));
   });
 
   const loads: Promise<void>[] = [];
