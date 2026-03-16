@@ -5,11 +5,13 @@ Element combination game (Little Alchemy-style). React 19 + TypeScript + Vite 7.
 ## Quick Reference
 
 - `npm run dev` — start dev server
-- `npm run build` — TypeScript check + Vite build
+- `npm run build` — TypeScript check + Vite build (→ `docs/`)
 - `npm run lint` — ESLint
 - `npm run validate` — validate public data
 - `./test-local.sh --no-preview` — full pipeline check
-- `./build-pages.sh` — deploy to GitHub Pages (output: `docs/`)
+- `./build-pages.sh` — build for GitHub Pages (output: `docs/`)
+
+**Production is GitHub Pages** (https://jdeworks.github.io/elemental-surprise/) served from `docs/` on `dev`. Always verify the live site after pushing — see [branching-and-deploy.md](CLAUDE/branching-and-deploy.md) for checklist.
 
 ## Topic Guides
 
