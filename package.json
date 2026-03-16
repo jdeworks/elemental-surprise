@@ -28,6 +28,7 @@
     "merge": "tsx scripts/merge.ts",
     "evaluate": "tsx scripts/evaluate.ts",
     "auto:icons": "python3 scripts/automation/audit-icons.py --fix --refresh",
+    "auto:icons:unique": "python3 scripts/automation/make-icons-unique.py --apply",
     "auto:reasonings": "python3 scripts/automation/generate-reasonings.py --apply --missing-only",
     "auto:combinations": "python3 scripts/automation/generate-combinations.py --apply --recipes-only",
     "auto:all": "bash scripts/automation/run-all.sh --apply"
