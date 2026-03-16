@@ -173,8 +173,18 @@ for (const [combo, rows] of [...recipesByCombo.entries()].sort((a, b) => a[0].lo
   };
 }
 
-// Master recipe index
-writeJson(path.join(recipesDir, 'index.json'), { combos: masterCombos });
+// Master recipe index (includes inline combo indexes to avoid 136 extra HTTP requests)
+const masterRecipeIndex: Record<string, unknown> = { combos: {} };
+for (const [combo, info] of Object.entries(masterCombos)) {
+  const comboIndexPath = path.join(byComboDir, combo, 'index.json');
+  const comboIndex = JSON.parse(fs.readFileSync(comboIndexPath, 'utf-8'));
+  (masterRecipeIndex.combos as Record<string, unknown>)[combo] = {
+    ...info,
+    buckets: comboIndex.buckets,
+    recipeKeyToBucket: comboIndex.recipeKeyToBucket,
+  };
+}
+writeJson(path.join(recipesDir, 'index.json'), masterRecipeIndex);
 
 const totalElementBuckets = Object.values(masterGroups).reduce((s, g) => s + g.bucketCount, 0);
 const totalRecipeBuckets = Object.values(masterCombos).reduce((s, c) => s + c.bucketCount, 0);

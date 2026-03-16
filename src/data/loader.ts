@@ -50,7 +50,13 @@ interface ElementsGroupIndex {
 }
 
 interface RecipesMasterIndex {
-  combos: Record<string, { recipeCount: number; bucketCount: number }>;
+  combos: Record<string, {
+    recipeCount: number;
+    bucketCount: number;
+    // Inline combo index (avoids 136 extra HTTP requests at startup)
+    buckets?: Record<string, string>;
+    recipeKeyToBucket?: Record<string, string>;
+  }>;
 }
 
 interface RecipesComboIndex {
@@ -203,16 +209,30 @@ export function loadData(onProgress?: ProgressCallback): Promise<void> {
     }
     await Promise.all(elementBucketLoads);
 
-    // Load all per-combo recipe indexes (NOT buckets — those load on demand)
+    // Extract inline combo indexes from master (zero extra HTTP requests)
     const combos = Object.keys(recipesMaster.combos);
-    const totalComboWork = combos.length;
-    let combosLoaded = 0;
+    for (const combo of combos) {
+      const comboData = recipesMaster.combos[combo];
+      if (comboData.buckets && comboData.recipeKeyToBucket) {
+        // Inline index available — use it directly
+        recipeComboIndexes.set(combo, {
+          buckets: comboData.buckets,
+          recipeKeyToBucket: comboData.recipeKeyToBucket,
+        });
+      }
+    }
+    onProgress?.('Loading recipe indexes...', combos.length, combos.length);
 
-    await Promise.all(combos.map(async (c) => {
-      await loadRecipeComboIndex(c);
-      combosLoaded++;
-      onProgress?.('Loading recipe indexes...', combosLoaded, totalComboWork);
-    }));
+    // Fallback: fetch any combo indexes not inlined (backward compat with old index format)
+    const missingCombos = combos.filter((c) => !recipeComboIndexes.has(c));
+    if (missingCombos.length > 0) {
+      let combosLoaded = 0;
+      await Promise.all(missingCombos.map(async (c) => {
+        await loadRecipeComboIndex(c);
+        combosLoaded++;
+        onProgress?.('Loading recipe indexes...', combosLoaded, missingCombos.length);
+      }));
+    }
 
     onProgress?.('Ready!', 1, 1);
   })();
