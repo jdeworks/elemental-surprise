@@ -14,5 +14,85 @@
   "building+fire": {
     "result": "ash",
     "reasoning": "When Fire consumes a building, only Ash remains."
+  },
+  "ash+building": {
+    "result": "island",
+    "reasoning": "Mix Ash with building \u2014 surprisingly, you get Island."
+  },
+  "ash+chemical-reaction": {
+    "result": "oven",
+    "reasoning": "Mix Ash with Chemical reaction \u2014 surprisingly, you get Oven."
+  },
+  "ash+chip": {
+    "result": "oasis",
+    "reasoning": "When Ash meets chip, the result is Oasis."
+  },
+  "ash+cloth": {
+    "result": "oasis",
+    "reasoning": "Combine the essence of Ash with cloth and you discover Oasis."
+  },
+  "ash+fuel": {
+    "result": "fireplace",
+    "reasoning": "Take Ash, add fuel, and what emerges is Fireplace."
+  },
+  "ash+furnace": {
+    "result": "mud",
+    "reasoning": "Ash and Furnace come together to create Mud."
+  },
+  "ash+oven": {
+    "result": "fireplace",
+    "reasoning": "Combine the essence of Ash with Oven and you discover Fireplace."
+  },
+  "ash+phone": {
+    "result": "rainbow",
+    "reasoning": "Mix Ash with Phone \u2014 surprisingly, you get Rainbow."
+  },
+  "ash+track": {
+    "result": "steam",
+    "reasoning": "The intersection of Ash and track? Steam."
+  },
+  "avalanche+building": {
+    "result": "fireplace",
+    "reasoning": "When Avalanche meets building, the result is Fireplace."
+  },
+  "avalanche+chemical-reaction": {
+    "result": "smart-home",
+    "reasoning": "Take Avalanche, add Chemical reaction, and what emerges is Smart Home."
+  },
+  "avalanche+chip": {
+    "result": "weather",
+    "reasoning": "When Avalanche meets chip, the result is weather."
+  },
+  "avalanche+cloth": {
+    "result": "weather",
+    "reasoning": "The intersection of Avalanche and cloth? weather."
+  },
+  "avalanche+fuel": {
+    "result": "rain",
+    "reasoning": "Combine the essence of Avalanche with fuel and you discover Rain."
+  },
+  "avalanche+furnace": {
+    "result": "dust",
+    "reasoning": "The intersection of Avalanche and Furnace? Dust."
+  },
+  "avalanche+oven": {
+    "result": "fog",
+    "reasoning": "The intersection of Avalanche and Oven? Fog."
+  },
+  "avalanche+phone": {
+    "result": "mud",
+    "reasoning": "Take Avalanche, add Phone, and what emerges is Mud."
+  },
+  "avalanche+track": {
+    "result": "rainbow",
+    "reasoning": "The intersection of Avalanche and track? Rainbow."
+  },
+  "beach+building": {
+    "result": "swamp",
+    "reasoning": "The intersection of Beach and building? Swamp."
+  },
+  "beach+chemical-reaction": {
+    "result": "oasis",
+    "reasoning": "When Beach meets Chemical reaction, the result is Oasis."
   }
 }
