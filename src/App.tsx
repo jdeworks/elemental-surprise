@@ -274,11 +274,17 @@ function App() {
   }, [checkAchievements]);
 
   const spawnElement = useCallback((type: string) => {
+    // Size spawn area to actual viewport so elements land on-screen
+    const isMobile = window.innerWidth <= 768;
+    const pad = 20;
+    const elSize = 60; // approximate element width/height
+    const availW = (isMobile ? window.innerWidth : window.innerWidth - 250) - elSize - pad * 2;
+    const availH = (isMobile ? window.innerHeight - 140 : window.innerHeight - 140) - elSize - pad * 2;
     const newElement: WorkspaceElement = {
       id: generateId(),
       type,
-      x: 50 + Math.random() * 500,
-      y: 50 + Math.random() * 400,
+      x: pad + Math.random() * Math.max(availW, 40),
+      y: pad + Math.random() * Math.max(availH, 40),
     };
     setWorkspaceElements(prev => {
       const next = [...prev, newElement];
