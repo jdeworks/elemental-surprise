@@ -26,7 +26,11 @@
     "icons:sync": "tsx scripts/sync-matched-icons.ts",
     "icons:refresh": "npm run icons:build && npm run icons:sync",
     "merge": "tsx scripts/merge.ts",
-    "evaluate": "tsx scripts/evaluate.ts"
+    "evaluate": "tsx scripts/evaluate.ts",
+    "auto:icons": "python3 scripts/automation/audit-icons.py --fix --refresh",
+    "auto:reasonings": "python3 scripts/automation/generate-reasonings.py --apply --missing-only",
+    "auto:combinations": "python3 scripts/automation/generate-combinations.py --apply --recipes-only",
+    "auto:all": "bash scripts/automation/run-all.sh --apply"
   },
   "dependencies": {
     "@dnd-kit/sortable": "^10.0.0",
