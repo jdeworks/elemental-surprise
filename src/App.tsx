@@ -7,7 +7,7 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl } from './data/loader';
+import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl, reloadIconBundles } from './data/loader';
 import { useAutoSolver } from './hooks/useAutoSolver';
 import { Tutorial } from './components/Tutorial';
 import { AchievementsModal } from './components/AchievementsModal';
@@ -764,7 +764,10 @@ function App() {
                   type="button"
                   className="settings-sidebar-btn"
                   onClick={() => {
-                    setIconCacheBust(Date.now());
+                    reloadIconBundles().then(() => {
+                      // Force re-render by bumping cache bust (triggers img src change)
+                      setIconCacheBust(Date.now());
+                    });
                   }}
                   title="Force reload icons (e.g. after updating them on the server)"
                 >

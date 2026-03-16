@@ -6,11 +6,9 @@ export function getIconUrl(icon: string, bust?: number): string {
 
 /** Resolve icon URL: use blob URL from icon bundle if available, else fall back to CDN path. */
 export function getResolvedIconUrl(elementId: string, iconPath: string, bust?: number): string {
-  // When cache bust is active, skip blob URLs so the browser fetches fresh from CDN
-  if (!bust) {
-    const blobUrl = _getIconBlobUrl?.(elementId);
-    if (blobUrl) return blobUrl;
-  }
+  // Always prefer blob URLs from icon bundles — reloadIconBundles() handles cache refresh
+  const blobUrl = _getIconBlobUrl?.(elementId);
+  if (blobUrl) return blobUrl;
   return getIconUrl(iconPath, bust);
 }
 

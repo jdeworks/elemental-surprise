@@ -72,20 +72,45 @@ const iconSvgCache: Record<string, string> = {};   // elementId → SVG string
 const iconBlobUrls: Record<string, string> = {};    // elementId → blob: URL
 const iconBundlesLoaded = new Set<string>();
 
-async function loadIconBundle(bucketId: string): Promise<void> {
-  if (iconBundlesLoaded.has(bucketId)) return;
+async function loadIconBundle(bucketId: string, bustCache?: boolean): Promise<void> {
+  if (!bustCache && iconBundlesLoaded.has(bucketId)) return;
   const dataBase = getDataBase();
   try {
-    const r = await fetch(`${dataBase}data/icons/${bucketId}.json`);
-    if (!r.ok) return; // Graceful degradation — fall back to CDN URLs
+    const url = `${dataBase}data/icons/${bucketId}.json${bustCache ? `?v=${Date.now()}` : ''}`;
+    const r = await fetch(url);
+    if (!r.ok) return;
     const data = (await r.json()) as Record<string, string>;
     for (const [id, svg] of Object.entries(data)) {
       iconSvgCache[id] = svg;
     }
     iconBundlesLoaded.add(bucketId);
   } catch {
-    // Bundle failed to load — icons will fall back to individual URLs
+    // Bundle failed to load
   }
+}
+
+/** Clear all icon caches and re-fetch bundles. Called by "Reload icon cache". */
+export async function reloadIconBundles(): Promise<void> {
+  // Revoke existing blob URLs to free memory
+  for (const url of Object.values(iconBlobUrls)) {
+    URL.revokeObjectURL(url);
+  }
+  // Clear all caches
+  for (const key of Object.keys(iconSvgCache)) delete iconSvgCache[key];
+  for (const key of Object.keys(iconBlobUrls)) delete iconBlobUrls[key];
+  iconBundlesLoaded.clear();
+
+  // Re-fetch all bundles with cache-bust param
+  if (!elementsMaster) return;
+  const loads: Promise<void>[] = [];
+  for (const group of Object.keys(elementsMaster.groups)) {
+    const idx = elementGroupIndexes.get(group);
+    if (!idx) continue;
+    for (const [bucketId] of Object.entries(idx.buckets)) {
+      loads.push(loadIconBundle(bucketId, true));
+    }
+  }
+  await Promise.all(loads);
 }
 
 export function getIconBlobUrl(elementId: string): string | null {
@@ -292,7 +317,12 @@ export async function ensureElementLoaded(id: string): Promise<void> {
     const bucketId = idx.elementToBucket[id];
     if (bucketId) {
       const bucketFile = idx.buckets[bucketId];
-      if (bucketFile) await loadElementsBucket(group, bucketId, bucketFile);
+      if (bucketFile) {
+        await Promise.all([
+          loadElementsBucket(group, bucketId, bucketFile),
+          loadIconBundle(bucketId),
+        ]);
+      }
       return;
     }
   }
@@ -304,7 +334,12 @@ export async function ensureElementLoaded(id: string): Promise<void> {
     const bucketId = idx.elementToBucket[id];
     if (bucketId) {
       const bucketFile = idx.buckets[bucketId];
-      if (bucketFile) await loadElementsBucket(group, bucketId, bucketFile);
+      if (bucketFile) {
+        await Promise.all([
+          loadElementsBucket(group, bucketId, bucketFile),
+          loadIconBundle(bucketId),
+        ]);
+      }
       return;
     }
   }
