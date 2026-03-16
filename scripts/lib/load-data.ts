@@ -30,16 +30,30 @@ export function slugify(name: string): string {
     .replace(/^-|-$/g, '');
 }
 
+export function groupSlug(group: string | undefined): string {
+  return (group ?? 'other').toLowerCase();
+}
+
 export function recipeKey(a: string, b: string): string {
   return [a, b].sort().join('+');
 }
 
-interface ElementsIndex {
+// ─── Index types (two-level hierarchy) ──────────────────────────────────────
+
+interface ElementsMasterIndex {
+  groups: Record<string, { elementCount: number; bucketCount: number }>;
+}
+
+interface ElementsGroupIndex {
   buckets: Record<string, string>;
   elementToBucket: Record<string, string>;
 }
 
-interface RecipesIndex {
+interface RecipesMasterIndex {
+  combos: Record<string, { recipeCount: number; bucketCount: number }>;
+}
+
+interface RecipesComboIndex {
   buckets: Record<string, string>;
   recipeKeyToBucket: Record<string, string>;
 }
@@ -49,34 +63,6 @@ type RawRecipeValue = string | CompoundRecipeEntry;
 
 function readJson<T>(filePath: string): T {
   return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
-}
-
-function resolveBucketPath(
-  dataDir: string,
-  kind: 'elements' | 'recipes',
-  bucketId: string,
-  bucketFile: string,
-): string {
-  const normalized = bucketFile.replace(/^\.\//, '');
-  const fileName = path.basename(normalized);
-  const candidates: string[] = [path.join(dataDir, 'data', normalized)];
-
-  if (kind === 'elements') {
-    const group = bucketId.split('-')[0];
-    candidates.push(path.join(dataDir, 'data', 'elements', normalized));
-    candidates.push(path.join(dataDir, 'data', 'elements', 'by-group', group, fileName));
-  } else {
-    const groupCombo = bucketId.replace(/-bucket-\d+$/, '');
-    candidates.push(path.join(dataDir, 'data', 'recipes', normalized));
-    candidates.push(path.join(dataDir, 'data', 'recipes', 'by-group-combination', normalized));
-    candidates.push(path.join(dataDir, 'data', 'recipes', 'by-group-combination', groupCombo, fileName));
-  }
-
-  for (const candidate of candidates) {
-    if (fs.existsSync(candidate)) return candidate;
-  }
-
-  return candidates[0];
 }
 
 function parseRawRecipes(raw: Record<string, RawRecipeValue>): {
@@ -100,19 +86,20 @@ function parseRawRecipes(raw: Record<string, RawRecipeValue>): {
 }
 
 function loadBucketedElements(dataDir: string): Record<string, ElementDef> {
-  const modernIndexPath = path.join(dataDir, 'data', 'elements', 'index.json');
-  const legacyIndexPath = path.join(dataDir, 'data', 'elements-index.json');
-  const indexPath = fs.existsSync(modernIndexPath) ? modernIndexPath : legacyIndexPath;
-  const index = readJson<ElementsIndex>(indexPath);
+  const masterPath = path.join(dataDir, 'data', 'elements', 'index.json');
+  const master = readJson<ElementsMasterIndex>(masterPath);
   const elements: Record<string, ElementDef> = {};
-  const seen = new Set<string>();
 
-  for (const [bucketId, bucketFile] of Object.entries(index.buckets)) {
-    if (seen.has(bucketFile)) continue;
-    seen.add(bucketFile);
-    const bucketPath = resolveBucketPath(dataDir, 'elements', bucketId, bucketFile);
-    const bucket = readJson<Record<string, ElementDef>>(bucketPath);
-    Object.assign(elements, bucket);
+  for (const group of Object.keys(master.groups)) {
+    const groupIndexPath = path.join(dataDir, 'data', 'elements', 'by-group', group, 'index.json');
+    if (!fs.existsSync(groupIndexPath)) continue;
+    const groupIndex = readJson<ElementsGroupIndex>(groupIndexPath);
+
+    for (const [, bucketFile] of Object.entries(groupIndex.buckets)) {
+      const bucketPath = path.join(dataDir, 'data', 'elements', 'by-group', group, bucketFile);
+      const bucket = readJson<Record<string, ElementDef>>(bucketPath);
+      Object.assign(elements, bucket);
+    }
   }
 
   return elements;
@@ -122,32 +109,32 @@ function loadBucketedRecipes(dataDir: string): {
   recipes: Record<string, string>;
   reasonings: Record<string, string>;
 } {
-  const modernIndexPath = path.join(dataDir, 'data', 'recipes', 'index.json');
-  const legacyIndexPath = path.join(dataDir, 'data', 'recipes-index.json');
-  const indexPath = fs.existsSync(modernIndexPath) ? modernIndexPath : legacyIndexPath;
-  const index = readJson<RecipesIndex>(indexPath);
+  const masterPath = path.join(dataDir, 'data', 'recipes', 'index.json');
+  const master = readJson<RecipesMasterIndex>(masterPath);
   const recipes: Record<string, string> = {};
   const reasonings: Record<string, string> = {};
-  const seen = new Set<string>();
 
-  for (const [bucketId, bucketFile] of Object.entries(index.buckets)) {
-    if (seen.has(bucketFile)) continue;
-    seen.add(bucketFile);
-    const bucketPath = resolveBucketPath(dataDir, 'recipes', bucketId, bucketFile);
-    const bucket = readJson<Record<string, RawRecipeValue>>(bucketPath);
-    const parsed = parseRawRecipes(bucket);
-    Object.assign(recipes, parsed.recipes);
-    Object.assign(reasonings, parsed.reasonings);
+  for (const combo of Object.keys(master.combos)) {
+    const comboIndexPath = path.join(dataDir, 'data', 'recipes', 'by-group-combination', combo, 'index.json');
+    if (!fs.existsSync(comboIndexPath)) continue;
+    const comboIndex = readJson<RecipesComboIndex>(comboIndexPath);
+
+    for (const [, bucketFile] of Object.entries(comboIndex.buckets)) {
+      const bucketPath = path.join(dataDir, 'data', 'recipes', 'by-group-combination', combo, bucketFile);
+      const bucket = readJson<Record<string, RawRecipeValue>>(bucketPath);
+      const parsed = parseRawRecipes(bucket);
+      Object.assign(recipes, parsed.recipes);
+      Object.assign(reasonings, parsed.reasonings);
+    }
   }
 
   return { recipes, reasonings };
 }
 
 export function loadGameData(dataDir: string): GameData {
-  const modernElementsIndexPath = path.join(dataDir, 'data', 'elements', 'index.json');
-  const legacyElementsIndexPath = path.join(dataDir, 'data', 'elements-index.json');
+  const masterElementsPath = path.join(dataDir, 'data', 'elements', 'index.json');
 
-  if (fs.existsSync(modernElementsIndexPath) || fs.existsSync(legacyElementsIndexPath)) {
+  if (fs.existsSync(masterElementsPath)) {
     const { recipes, reasonings } = loadBucketedRecipes(dataDir);
     return {
       elements: loadBucketedElements(dataDir),
@@ -156,14 +143,7 @@ export function loadGameData(dataDir: string): GameData {
     };
   }
 
-  const rawRecipes = readJson<Record<string, RawRecipeValue>>(path.join(dataDir, 'recipes.json'));
-  const { recipes, reasonings } = parseRawRecipes(rawRecipes);
-
-  return {
-    elements: readJson<Record<string, ElementDef>>(path.join(dataDir, 'elements.json')),
-    recipes,
-    reasonings,
-  };
+  throw new Error(`No elements master index found at ${masterElementsPath}. Run the migration script first.`);
 }
 
 export function writeProposedData(outDir: string, data: GameData): void {

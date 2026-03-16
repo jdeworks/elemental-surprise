@@ -480,7 +480,10 @@ let handcrafted = 0;
 
 for (const el of Object.values(elements)) {
   const svg = createSvg(el);
-  const filePath = path.join(outDir, `${el.id}.svg`);
+  const slug = (el.group ?? 'Other').toLowerCase();
+  const groupDir = path.join(outDir, slug);
+  fs.mkdirSync(groupDir, { recursive: true });
+  const filePath = path.join(groupDir, `${el.id}.svg`);
   fs.writeFileSync(filePath, svg);
 
   if (SYMBOL_PATHS[el.id]) handcrafted++;

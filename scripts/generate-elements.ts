@@ -2576,6 +2576,12 @@ for (const [id, icon] of Object.entries(existingIcons)) {
 // ─── Assign groups ──────────────────────────────────────────────────────
 assignGroups(elements);
 
+// Rewrite icon paths to use group-based subdirectories
+for (const el of Object.values(elements)) {
+  const slug = (el.group ?? 'Other').toLowerCase();
+  el.icon = `./icons/${slug}/${el.id}.svg`;
+}
+
 // ─── Generate reasonings ────────────────────────────────────────────────
 for (const [key, resultId] of Object.entries(recipes)) {
   if (CURATED_REASONINGS[key]) {

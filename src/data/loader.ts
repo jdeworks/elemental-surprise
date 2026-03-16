@@ -1,8 +1,9 @@
-// Data and icons are loaded at runtime:
-// - Pages build: from GitHub repo via jsDelivr CDN (so you can add elements/recipes/icons without rebuilding)
+// Data and icons are loaded at runtime from a two-level hierarchical index:
+//   Master index → per-group/per-combo index → bucket files
+// This structure scales to millions of elements without massive flat index files.
+//
+// - Pages build: from GitHub repo via jsDelivr CDN (add elements/recipes/icons without rebuilding)
 // - Local build / dev: from same origin (public/ or local-dist)
-// - Supports two modes: legacy (single elements.json / recipes.json) or bucket mode (data/elements/index.json + data/elements/by-group/)
-//   for scale (10k+ elements). In bucket mode, buckets are loaded on demand to avoid overloading the browser.
 declare const __CDN_BASE__: string;
 const CDN_BASE = typeof __CDN_BASE__ !== 'undefined' ? __CDN_BASE__ : (import.meta.env?.VITE_CDN_BASE ?? '');
 
@@ -32,27 +33,42 @@ function getDataBase(): string {
   return base ? `${base}/` : '';
 }
 
-// In-memory cache
-let elements: Record<string, ElementDef> = {};
-let recipes: Record<string, string> = {};
-let reasonings: Record<string, string> = {};
+// ─── Index types (two-level hierarchy) ──────────────────────────────────────
 
-interface ElementsIndex {
+interface ElementsMasterIndex {
+  groups: Record<string, { elementCount: number; bucketCount: number }>;
+}
+
+interface ElementsGroupIndex {
   buckets: Record<string, string>;
   elementToBucket: Record<string, string>;
 }
 
-interface RecipesIndex {
+interface RecipesMasterIndex {
+  combos: Record<string, { recipeCount: number; bucketCount: number }>;
+}
+
+interface RecipesComboIndex {
   buckets: Record<string, string>;
   recipeKeyToBucket: Record<string, string>;
 }
 
-let elementsIndex: ElementsIndex | null = null;
-let recipesIndex: RecipesIndex | null = null;
+// ─── In-memory cache ────────────────────────────────────────────────────────
+
+let elements: Record<string, ElementDef> = {};
+let recipes: Record<string, string> = {};
+let reasonings: Record<string, string> = {};
+
+let elementsMaster: ElementsMasterIndex | null = null;
+let recipesMaster: RecipesMasterIndex | null = null;
+const elementGroupIndexes = new Map<string, ElementsGroupIndex>();
+const recipeComboIndexes = new Map<string, RecipesComboIndex>();
 const elementsBucketsLoaded = new Set<string>();
 const recipesBucketsLoaded = new Set<string>();
 
 let loadPromise: Promise<void> | null = null;
+
+// ─── Helpers ────────────────────────────────────────────────────────────────
 
 function normalizeElementValue(value: { id: string; name: string; icon: string; links?: ElementLink[]; group?: string }): ElementDef {
   return {
@@ -76,23 +92,34 @@ function ingestRecipes(data: Record<string, string | { result: string; reasoning
   }
 }
 
-async function loadElementsBucket(bucketId: string): Promise<void> {
+// ─── Group/combo index loading ──────────────────────────────────────────────
+
+async function loadElementGroupIndex(group: string): Promise<ElementsGroupIndex | null> {
+  if (elementGroupIndexes.has(group)) return elementGroupIndexes.get(group)!;
+  const dataBase = getDataBase();
+  const r = await fetch(`${dataBase}data/elements/by-group/${group}/index.json`);
+  if (!r.ok) return null;
+  const index = (await r.json()) as ElementsGroupIndex;
+  elementGroupIndexes.set(group, index);
+  return index;
+}
+
+async function loadRecipeComboIndex(combo: string): Promise<RecipesComboIndex | null> {
+  if (recipeComboIndexes.has(combo)) return recipeComboIndexes.get(combo)!;
+  const dataBase = getDataBase();
+  const r = await fetch(`${dataBase}data/recipes/by-group-combination/${combo}/index.json`);
+  if (!r.ok) return null;
+  const index = (await r.json()) as RecipesComboIndex;
+  recipeComboIndexes.set(combo, index);
+  return index;
+}
+
+// ─── Bucket loading ─────────────────────────────────────────────────────────
+
+async function loadElementsBucket(group: string, bucketId: string, bucketFile: string): Promise<void> {
   if (elementsBucketsLoaded.has(bucketId)) return;
   const dataBase = getDataBase();
-  const path = elementsIndex!.buckets[bucketId];
-  if (!path) return;
-  let url = '';
-  if (path.startsWith('elements/')) {
-    // Legacy index style: elements/default.json
-    url = `${dataBase}data/${path}`;
-  } else if (path.includes('/')) {
-    // Grouped index style: ai/ai-bucket-5.json
-    url = `${dataBase}data/elements/by-group/${path}`;
-  } else {
-    // Fallback style: only filename in bucket folder
-    const group = bucketId.split('-')[0];
-    url = `${dataBase}data/elements/by-group/${group}/${path}`;
-  }
+  const url = `${dataBase}data/elements/by-group/${group}/${bucketFile}`;
   const r = await fetch(url);
   if (!r.ok) throw new Error(`Failed to load elements bucket ${bucketId}: ${r.status}`);
   const data = (await r.json()) as Record<string, { id: string; name: string; icon: string; links?: ElementLink[]; group?: string }>;
@@ -102,26 +129,10 @@ async function loadElementsBucket(bucketId: string): Promise<void> {
   elementsBucketsLoaded.add(bucketId);
 }
 
-async function loadRecipesBucket(bucketId: string): Promise<void> {
+async function loadRecipesBucket(combo: string, bucketId: string, bucketFile: string): Promise<void> {
   if (recipesBucketsLoaded.has(bucketId)) return;
   const dataBase = getDataBase();
-  const path = recipesIndex!.buckets[bucketId];
-  if (!path) return;
-  let url = '';
-  if (bucketId === 'generated-new') {
-    url = `${dataBase}data/recipes/${path}`;
-  } else if (path.startsWith('recipes/')) {
-    // Legacy index style: recipes/default.json
-    url = `${dataBase}data/${path}`;
-  } else if (path.includes('/')) {
-    // Legacy grouped style: ai-ai/ai-ai-bucket-12.json
-    url = `${dataBase}data/recipes/by-group-combination/${path}`;
-  } else {
-    // Grouped index style: ai-ai-bucket-12.json
-    const parts = bucketId.split('-');
-    const groupCombo = parts.slice(0, -2).join('-');
-    url = `${dataBase}data/recipes/by-group-combination/${groupCombo}/${path}`;
-  }
+  const url = `${dataBase}data/recipes/by-group-combination/${combo}/${bucketFile}`;
   const r = await fetch(url);
   if (!r.ok) throw new Error(`Failed to load recipes bucket ${bucketId}: ${r.status}`);
   const data = (await r.json()) as Record<string, string | { result: string; reasoning?: string }>;
@@ -129,101 +140,132 @@ async function loadRecipesBucket(bucketId: string): Promise<void> {
   recipesBucketsLoaded.add(bucketId);
 }
 
+// ─── Main loading ───────────────────────────────────────────────────────────
+
 export function loadData(): Promise<void> {
   if (loadPromise) return loadPromise;
   const dataBase = getDataBase();
 
   loadPromise = (async () => {
-    // Try bucket mode first.
-    // Probe legacy indexes first to avoid noisy 404s on deployments that only ship legacy paths.
-    let chosenElementsIndexRes: Response | null = null;
-    let chosenRecipesIndexRes: Response | null = null;
-
-    const elementsLegacyIndexRes = await fetch(`${dataBase}data/elements-index.json`);
-    if (elementsLegacyIndexRes.ok) {
-      chosenElementsIndexRes = elementsLegacyIndexRes;
-    } else {
-      const elementsIndexRes = await fetch(`${dataBase}data/elements/index.json`);
-      if (elementsIndexRes.ok) chosenElementsIndexRes = elementsIndexRes;
-    }
-
-    const recipesLegacyIndexRes = await fetch(`${dataBase}data/recipes-index.json`);
-    if (recipesLegacyIndexRes.ok) {
-      chosenRecipesIndexRes = recipesLegacyIndexRes;
-    } else {
-      const recipesIndexRes = await fetch(`${dataBase}data/recipes/index.json`);
-      if (recipesIndexRes.ok) chosenRecipesIndexRes = recipesIndexRes;
-    }
-
-    if (chosenElementsIndexRes && chosenRecipesIndexRes) {
-      elementsIndex = (await chosenElementsIndexRes.json()) as ElementsIndex;
-      recipesIndex = (await chosenRecipesIndexRes.json()) as RecipesIndex;
-      // Load ALL element and recipe buckets. With <5k elements the data is still small.
-      // For 10k+ a lazy approach should replace this.
-      await Promise.all([
-        ...Object.keys(elementsIndex.buckets).map((b) => loadElementsBucket(b)),
-        ...Object.keys(recipesIndex.buckets).map((b) => loadRecipesBucket(b)),
-      ]);
-      return;
-    }
-
-    // Legacy: single elements.json and recipes.json
-    const [elementsData, recipesData] = await Promise.all([
-      fetch(`${dataBase}elements.json`).then((r) => {
-        if (!r.ok) throw new Error(`Failed to load elements: ${r.status}`);
-        return r.json();
-      }),
-      fetch(`${dataBase}recipes.json`).then((r) => {
-        if (!r.ok) throw new Error(`Failed to load recipes: ${r.status}`);
-        return r.json();
-      }),
+    // Fetch master indexes
+    const [elementsRes, recipesRes] = await Promise.all([
+      fetch(`${dataBase}data/elements/index.json`),
+      fetch(`${dataBase}data/recipes/index.json`),
     ]);
 
-    elements = {};
-    for (const [key, value] of Object.entries(elementsData) as [string, { id: string; name: string; icon: string; links?: ElementLink[]; group?: string }][]) {
-      elements[key] = normalizeElementValue(value);
+    if (!elementsRes.ok) throw new Error(`Failed to load elements master index: ${elementsRes.status}`);
+    if (!recipesRes.ok) throw new Error(`Failed to load recipes master index: ${recipesRes.status}`);
+
+    elementsMaster = (await elementsRes.json()) as ElementsMasterIndex;
+    recipesMaster = (await recipesRes.json()) as RecipesMasterIndex;
+
+    // Load all per-group element indexes, then all their buckets
+    const groups = Object.keys(elementsMaster.groups);
+    const groupIndexes = await Promise.all(groups.map((g) => loadElementGroupIndex(g)));
+
+    const elementBucketLoads: Promise<void>[] = [];
+    for (let i = 0; i < groups.length; i++) {
+      const group = groups[i];
+      const idx = groupIndexes[i];
+      if (!idx) continue;
+      for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
+        elementBucketLoads.push(loadElementsBucket(group, bucketId, bucketFile));
+      }
     }
-    recipes = {};
-    reasonings = {};
-    ingestRecipes(recipesData as Record<string, string | { result: string; reasoning?: string }>);
+
+    // Load all per-combo recipe indexes, then all their buckets
+    const combos = Object.keys(recipesMaster.combos);
+    const comboIndexes = await Promise.all(combos.map((c) => loadRecipeComboIndex(c)));
+
+    const recipeBucketLoads: Promise<void>[] = [];
+    for (let i = 0; i < combos.length; i++) {
+      const combo = combos[i];
+      const idx = comboIndexes[i];
+      if (!idx) continue;
+      for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
+        recipeBucketLoads.push(loadRecipesBucket(combo, bucketId, bucketFile));
+      }
+    }
+
+    await Promise.all([...elementBucketLoads, ...recipeBucketLoads]);
   })();
 
   return loadPromise;
 }
 
-/** Load the bucket that contains the given element id (for on-demand load). */
-export function ensureElementLoaded(id: string): Promise<void> {
-  if (elements[id]) return Promise.resolve();
-  if (!elementsIndex) return Promise.resolve();
-  const bucketId = elementsIndex.elementToBucket[id];
-  if (!bucketId) return Promise.resolve();
-  return loadElementsBucket(bucketId);
+// ─── On-demand loading ──────────────────────────────────────────────────────
+
+/** Load the bucket that contains the given element id. */
+export async function ensureElementLoaded(id: string): Promise<void> {
+  if (elements[id]) return;
+  if (!elementsMaster) return;
+
+  // Find which group this element belongs to by checking loaded group indexes
+  for (const [group, idx] of elementGroupIndexes.entries()) {
+    const bucketId = idx.elementToBucket[id];
+    if (bucketId) {
+      const bucketFile = idx.buckets[bucketId];
+      if (bucketFile) await loadElementsBucket(group, bucketId, bucketFile);
+      return;
+    }
+  }
+
+  // If group indexes aren't loaded yet, search all groups
+  for (const group of Object.keys(elementsMaster.groups)) {
+    const idx = await loadElementGroupIndex(group);
+    if (!idx) continue;
+    const bucketId = idx.elementToBucket[id];
+    if (bucketId) {
+      const bucketFile = idx.buckets[bucketId];
+      if (bucketFile) await loadElementsBucket(group, bucketId, bucketFile);
+      return;
+    }
+  }
 }
 
-/** Load the bucket that contains the given recipe key (for on-demand load). */
-export function ensureRecipeLoaded(key: string): Promise<void> {
-  if (recipes[key] !== undefined) return Promise.resolve();
-  if (!recipesIndex) return Promise.resolve();
-  const bucketId = recipesIndex.recipeKeyToBucket[key];
-  if (!bucketId) return Promise.resolve();
-  return loadRecipesBucket(bucketId);
+/** Load the bucket that contains the given recipe key. */
+export async function ensureRecipeLoaded(key: string): Promise<void> {
+  if (recipes[key] !== undefined) return;
+  if (!recipesMaster) return;
+
+  // Check loaded combo indexes first
+  for (const [combo, idx] of recipeComboIndexes.entries()) {
+    const bucketId = idx.recipeKeyToBucket[key];
+    if (bucketId) {
+      const bucketFile = idx.buckets[bucketId];
+      if (bucketFile) await loadRecipesBucket(combo, bucketId, bucketFile);
+      return;
+    }
+  }
+
+  // Fall back to searching all combos
+  for (const combo of Object.keys(recipesMaster.combos)) {
+    const idx = await loadRecipeComboIndex(combo);
+    if (!idx) continue;
+    const bucketId = idx.recipeKeyToBucket[key];
+    if (bucketId) {
+      const bucketFile = idx.buckets[bucketId];
+      if (bucketFile) await loadRecipesBucket(combo, bucketId, bucketFile);
+      return;
+    }
+  }
 }
 
-/** Preload element data for the given ids (e.g. first N discovered by lastUsed). Call before rendering to avoid loading every bucket. */
-export function ensureElementsLoaded(ids: string[]): Promise<void> {
-  if (!elementsIndex) return Promise.resolve();
-  const toLoad = ids.map((id) => elementsIndex!.elementToBucket[id]).filter(Boolean) as string[];
-  const unique = [...new Set(toLoad)].filter((b) => !elementsBucketsLoaded.has(b));
-  return Promise.all(unique.map((b) => loadElementsBucket(b))).then(() => {});
+/** Preload element data for the given ids. */
+export async function ensureElementsLoaded(ids: string[]): Promise<void> {
+  const missing = ids.filter((id) => !elements[id]);
+  if (missing.length === 0) return;
+  await Promise.all(missing.map((id) => ensureElementLoaded(id)));
 }
 
-/** Preload recipe data for the given recipe keys (e.g. when opening discovered recipes modal). */
-export function ensureRecipesLoaded(keys: string[]): Promise<void> {
-  if (!recipesIndex) return Promise.resolve();
-  const toLoad = keys.map((key) => recipesIndex!.recipeKeyToBucket[key]).filter(Boolean) as string[];
-  const unique = [...new Set(toLoad)].filter((b) => !recipesBucketsLoaded.has(b));
-  return Promise.all(unique.map((b) => loadRecipesBucket(b))).then(() => {});
+/** Preload recipe data for the given recipe keys. */
+export async function ensureRecipesLoaded(keys: string[]): Promise<void> {
+  const missing = keys.filter((key) => recipes[key] === undefined);
+  if (missing.length === 0) return;
+  await Promise.all(missing.map((key) => ensureRecipeLoaded(key)));
 }
+
+// ─── Query functions ────────────────────────────────────────────────────────
 
 export function getElement(id: string): ElementDef | undefined {
   return elements[id];
@@ -242,26 +284,42 @@ export function getAllRecipes(): Record<string, string> {
   return recipes;
 }
 
-/** Total number of elements (from index in bucket mode, from cache in legacy). */
+/** Total number of elements (from master index or from loaded cache). */
 export function getTotalElementCount(): number {
-  if (elementsIndex) return Object.keys(elementsIndex.elementToBucket).length;
+  if (elementsMaster) {
+    let total = 0;
+    for (const g of Object.values(elementsMaster.groups)) total += g.elementCount;
+    return total;
+  }
   return Object.keys(elements).length;
 }
 
-/** Set of valid element ids (from index in bucket mode so we don't drop discovered ids that aren't loaded yet). */
+/** Set of valid element ids (from all loaded group indexes). */
 export function getValidElementIds(): Set<string> {
-  if (elementsIndex) return new Set(Object.keys(elementsIndex.elementToBucket));
-  return new Set(Object.keys(elements));
+  const ids = new Set<string>();
+  for (const idx of elementGroupIndexes.values()) {
+    for (const id of Object.keys(idx.elementToBucket)) ids.add(id);
+  }
+  if (ids.size === 0) return new Set(Object.keys(elements));
+  return ids;
 }
 
-/** Set of valid recipe keys (from index in bucket mode). */
+/** Set of valid recipe keys (from all loaded combo indexes). */
 export function getValidRecipeKeys(): Set<string> {
-  if (recipesIndex) return new Set(Object.keys(recipesIndex.recipeKeyToBucket));
-  return new Set(Object.keys(recipes));
+  const keys = new Set<string>();
+  for (const idx of recipeComboIndexes.values()) {
+    for (const key of Object.keys(idx.recipeKeyToBucket)) keys.add(key);
+  }
+  if (keys.size === 0) return new Set(Object.keys(recipes));
+  return keys;
 }
 
 export function getTotalRecipeCount(): number {
-  if (recipesIndex) return Object.keys(recipesIndex.recipeKeyToBucket).length;
+  if (recipesMaster) {
+    let total = 0;
+    for (const c of Object.values(recipesMaster.combos)) total += c.recipeCount;
+    return total;
+  }
   return Object.keys(recipes).length;
 }
 
@@ -293,16 +351,34 @@ export function getRecipeCountForElement(elementId: string): number {
 
 /** Load ALL recipe buckets so we can count recipes globally. */
 export async function ensureAllRecipesLoaded(): Promise<void> {
-  if (!recipesIndex) return;
-  const toLoad = Object.keys(recipesIndex.buckets).filter((b) => !recipesBucketsLoaded.has(b));
-  await Promise.all(toLoad.map((b) => loadRecipesBucket(b)));
+  if (!recipesMaster) return;
+  const loads: Promise<void>[] = [];
+  for (const combo of Object.keys(recipesMaster.combos)) {
+    const idx = await loadRecipeComboIndex(combo);
+    if (!idx) continue;
+    for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
+      if (!recipesBucketsLoaded.has(bucketId)) {
+        loads.push(loadRecipesBucket(combo, bucketId, bucketFile));
+      }
+    }
+  }
+  await Promise.all(loads);
 }
 
 /** Load ALL element buckets. */
 export async function ensureAllElementsLoaded(): Promise<void> {
-  if (!elementsIndex) return;
-  const toLoad = Object.keys(elementsIndex.buckets).filter((b) => !elementsBucketsLoaded.has(b));
-  await Promise.all(toLoad.map((b) => loadElementsBucket(b)));
+  if (!elementsMaster) return;
+  const loads: Promise<void>[] = [];
+  for (const group of Object.keys(elementsMaster.groups)) {
+    const idx = await loadElementGroupIndex(group);
+    if (!idx) continue;
+    for (const [bucketId, bucketFile] of Object.entries(idx.buckets)) {
+      if (!elementsBucketsLoaded.has(bucketId)) {
+        loads.push(loadElementsBucket(group, bucketId, bucketFile));
+      }
+    }
+  }
+  await Promise.all(loads);
 }
 
 export function getStarterElements(): ElementDef[] {
@@ -314,6 +390,7 @@ export function getRecipeReasoning(recipeKey: string): string | null {
 }
 
 export function getAllGroups(): string[] {
+  if (elementsMaster) return Object.keys(elementsMaster.groups).sort();
   const groups = new Set<string>();
   for (const el of Object.values(elements)) {
     if (el.group) groups.add(el.group);
