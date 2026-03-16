@@ -56,6 +56,10 @@ icon-matcher/data/elements-mapped-details.json
 # Individual SVG icons (staging area; bundled into public/data/icons/*.json)
 public/icons/
 
-# Automation cache and audit output
+# Automation cache, wiki index, and audit output
 scripts/automation/.wiki-cache/
+scripts/automation/.wiki-index.json
+scripts/automation/.llm-batches/
+scripts/automation/.llm-results/
 scripts/automation/audit-output/
+scripts/automation/__pycache__/

@@ -48,6 +48,15 @@ BLOCKED_LINK_TERMS = {
     "design", "theory", "method", "material", "tool", "machine", "model",
 }
 
+# Categories that produce low-quality matches
+BLOCKED_CATEGORIES = {
+    "disambiguation pages", "articles with short description",
+    "short description is different from wikidata",
+    "all article disambiguation pages", "all disambiguation pages",
+    "webarchive template wayback links", "articles needing additional references",
+    "all articles with unsourced statements",
+}
+
 
 # ─── Reasoning templates ─────────────────────────────────────────────────────
 
@@ -104,8 +113,8 @@ def generate_reasoning(
     shared_links: list[str], shared_cats: list[str],
 ) -> str:
     """Generate a reasoning using the best available Wikipedia data."""
-    # Priority 1: Use a fact from the result element
-    if fact_r:
+    # Priority 1: Use a fact from the result element (skip disambiguation)
+    if fact_r and "may refer to" not in fact_r.lower() and "can refer to" not in fact_r.lower():
         tmpl = pick_template(FACT_TEMPLATES, recipe_key)
         return tmpl.format(fact=fact_r, a=a_name, b=b_name, result=result_name)
 
@@ -117,16 +126,17 @@ def generate_reasoning(
         tmpl = pick_template(LINK_TEMPLATES, recipe_key)
         return tmpl.format(a=a_name, b=b_name, result=result_name, link=link_pretty)
 
-    # Priority 3: Use a shared category
-    if shared_cats:
-        cat = shared_cats[stable_hash(recipe_key + "cat") % len(shared_cats)]
+    # Priority 3: Use a shared category (skip junk categories)
+    usable_cats = [c for c in shared_cats if c.lower() not in BLOCKED_CATEGORIES]
+    if usable_cats:
+        cat = usable_cats[stable_hash(recipe_key + "cat") % len(usable_cats)]
         cat_pretty = cat.replace("-", " ").title()
         tmpl = pick_template(CATEGORY_TEMPLATES, recipe_key)
         return tmpl.format(a=a_name, b=b_name, result=result_name, category=cat_pretty)
 
     # Priority 4: Use facts from inputs
     for fact in [fact_a, fact_b]:
-        if fact:
+        if fact and "may refer to" not in fact.lower() and "can refer to" not in fact.lower():
             tmpl = pick_template(FACT_TEMPLATES, recipe_key)
             return tmpl.format(fact=fact, a=a_name, b=b_name, result=result_name)
 
@@ -273,7 +283,8 @@ def main():
     cat_to_elements: dict[str, list[str]] = defaultdict(list)
     for eid, cats in element_cats.items():
         for cat in cats:
-            cat_to_elements[cat].append(eid)
+            if cat.lower() not in BLOCKED_CATEGORIES:
+                cat_to_elements[cat].append(eid)
 
     cat_recipes_added = 0
     for cat, members in sorted(cat_to_elements.items(), key=lambda x: -len(x[1])):
