@@ -2087,6 +2087,10 @@
     "result": "social-credit",
     "reasoning": "AI + Blacksmith Shop = a Social Credit system. Black Mirror called, they want their plot back."
   },
+  "ai+blade": {
+    "result": "cyborg",
+    "reasoning": "Ridley Scott's Blade Runner (1982) introduced the Voight-Kampff test \u2014 a fictional AI interrogation used by 'blade runners' to detect synthetic humans by measuring involuntary physiological responses \u2014 pioneering in popular culture the concept of AI as the decisive test of what separates human from machine."
+  },
   "ai+block-and-tackle": {
     "result": "automation",
     "reasoning": "AI + Block and Tackle = Automation. The robot took the job. The human took a nap."
@@ -2095,9 +2099,17 @@
     "result": "robot-pet",
     "reasoning": "AI + Boa Constrictor = Robot Pet. All the love, none of the vet bills."
   },
+  "ai+boulder": {
+    "result": "mars-rover",
+    "reasoning": "NASA's Perseverance rover uses AI computer vision to autonomously detect and navigate around boulders on Mars, enabling it to travel up to 200 meters per Martian day without real-time human guidance because the 20-minute radio delay makes remote joystick control impossible."
+  },
   "ai+brain": {
     "result": "neural-network",
     "reasoning": "AI structured like the brain creates neural networks"
+  },
+  "ai+candy": {
+    "result": "recommendation",
+    "reasoning": "Netflix's AI recommendation system, like candy engineered to be irresistible, identifies precisely which content triggers dopamine responses \u2014 a technique estimated to save $1 billion annually in prevented cancellations by keeping viewers hooked."
   },
   "ai+capillary-action": {
     "result": "deepmind",
@@ -2107,6 +2119,10 @@
     "result": "self-driving-car",
     "reasoning": "Applying AI to Car produces Self Driving Car"
   },
+  "ai+cellophane": {
+    "result": "transparency",
+    "reasoning": "Just as cellophane makes its contents visible through a clear wrapper, AI transparency initiatives aim to make machine learning models interpretable \u2014 revealing which data inputs drove which outputs so that algorithmic decisions can be audited and challenged."
+  },
   "ai+centripetal-force": {
     "result": "deepmind",
     "reasoning": "AI + Centripetal Force = DeepMind-level AI. It solved protein folding. What's next?"
@@ -2114,6 +2130,10 @@
   "ai+code": {
     "result": "copilot",
     "reasoning": "AI that writes code alongside you \u2014 Copilot"
+  },
+  "ai+computer": {
+    "result": "neural-network",
+    "reasoning": "Warren McCulloch and Walter Pitts published the first mathematical model of a neural network in 1943 \u2014 decades before computers could run one \u2014 describing how interconnected threshold logic units could perform any logical computation, just as neurons do."
   },
   "ai+construction-site": {
     "result": "social-credit",
@@ -2138,6 +2158,14 @@
   "ai+developer": {
     "result": "cursor",
     "reasoning": "AI enhanced with Developer creates Cursor"
+  },
+  "ai+doubt": {
+    "result": "hallucination-ai",
+    "reasoning": "Large language models can state fabricated facts with grammatical confidence because they generate statistically plausible token sequences rather than retrieving verified information \u2014 a phenomenon called 'hallucination' that makes AI systems paradoxically most convincing precisely when they are most wrong."
+  },
+  "ai+earth": {
+    "result": "climate-model",
+    "reasoning": "DeepMind's GraphCast AI can predict global weather 10 days ahead in under a minute, outperforming traditional physics-based climate models that require hours on supercomputers \u2014 proving AI can simulate Earth itself."
   },
   "ai+electromagnetic-spectrum": {
     "result": "deepmind",
@@ -2167,6 +2195,10 @@
     "result": "sentient-ai",
     "reasoning": "AI + Enchanted Kingdom = Sentient AI. Sci-fi warned us. We didn't listen."
   },
+  "ai+engine": {
+    "result": "search-engine",
+    "reasoning": "Google's 1998 PageRank algorithm was groundbreaking because it used AI-style weighted graph analysis to rank billions of web pages, transforming a simple engine into the primary way humanity navigates information."
+  },
   "ai+ethics": {
     "result": "ai-ethics",
     "reasoning": "AI enhanced with Ethics creates AI Ethics"
@@ -2178,6 +2210,10 @@
   "ai+existential-crisis": {
     "result": "uncanny-valley",
     "reasoning": "AI + Existential Crisis = the Uncanny Valley. Almost human. Almost."
+  },
+  "ai+factory": {
+    "result": "automation",
+    "reasoning": "GM's Unimate robot arm, installed on a factory line in 1961, was the world's first industrial robot; today AI-driven automation has produced factories where machines learn and adapt production without any human intervention."
   },
   "ai+failed-experiment": {
     "result": "deepmind",
@@ -2198,6 +2234,10 @@
   "ai+genetic-engineering": {
     "result": "deepmind",
     "reasoning": "AI + Genetic Engineering = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+ghost": {
+    "result": "hallucination-ai",
+    "reasoning": "AI researchers coined the term 'hallucination' to describe when language models confidently generate false information, much like a ghost that appears entirely real but has no tangible basis in the physical world."
   },
   "ai+golgi-apparatus": {
     "result": "bioinformatics",
@@ -2283,9 +2323,17 @@
     "result": "infinite-loop",
     "reasoning": "Two AI things combined? AI + Large Language Model = an Infinite Loop. The machines are talking to themselves again."
   },
+  "ai+lava": {
+    "result": "geothermal",
+    "reasoning": "AI systems deployed at volcanic sites analyze seismic data and magma flow patterns to predict eruptions and optimize drill placement for geothermal energy extraction, turning destructive heat into a renewable power source."
+  },
   "ai+magnifying-glass": {
     "result": "automation",
     "reasoning": "AI + Magnifying Glass = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+meat": {
+    "result": "food-science",
+    "reasoning": "AI systems now analyze marbling patterns in meat with greater consistency than human graders, predict optimal aging conditions from environmental data, and model novel protein structures\u2014transforming butchery into precision food science."
   },
   "ai+midlife-crisis": {
     "result": "uncanny-valley",
@@ -2363,6 +2411,10 @@
     "result": "social-credit",
     "reasoning": "AI + Pyramids of Giza = a Social Credit system. Black Mirror called, they want their plot back."
   },
+  "ai+rain": {
+    "result": "climate-model",
+    "reasoning": "Google's GraphCast neural network, trained on decades of atmospheric data, can predict global precipitation patterns more accurately than traditional numerical weather models\u2014at a fraction of the computational cost."
+  },
   "ai+raw-material": {
     "result": "smart-material",
     "reasoning": "AI + Raw Material = Smart Material. The material remembers its shape. Spooky."
@@ -2407,9 +2459,17 @@
     "result": "speech-recognition",
     "reasoning": "AI enhanced with Speech creates Speech Recognition"
   },
+  "ai+stone": {
+    "result": "computer-vision",
+    "reasoning": "Computer vision algorithms trained on geological datasets can identify mineral compositions in stone samples with greater accuracy than trained geologists, revolutionizing fieldwork in remote and hazardous terrain."
+  },
   "ai+summoning-circle": {
     "result": "sentient-ai",
     "reasoning": "AI + Summoning Circle = Sentient AI. Sci-fi warned us. We didn't listen."
+  },
+  "ai+sun": {
+    "result": "space-ai",
+    "reasoning": "NASA's AI systems analyze solar flare data from satellites in real time, with neural networks detecting dangerous coronal mass ejections up to 30 minutes faster than human analysts, protecting satellites and power grids on Earth."
   },
   "ai+swiss-army-knife": {
     "result": "automation",
@@ -2426,6 +2486,10 @@
   "ai+thought-experiment": {
     "result": "hallucination-ai",
     "reasoning": "AI + Thought Experiment = AI Hallucination. It sounds confident. It's completely wrong."
+  },
+  "ai+tree": {
+    "result": "decision-tree",
+    "reasoning": "The decision tree, one of machine learning's foundational algorithms, borrows its name directly from the branching structure of trees\u2014each node poses a question that splits data like branches dividing from a trunk."
   },
   "ai+trust": {
     "result": "anthropic",
@@ -7895,6 +7959,10 @@
     "result": "resentment",
     "reasoning": "Combine Anger with Frustration to create Resentment."
   },
+  "anger+glass": {
+    "result": "fragility",
+    "reasoning": "Glass scores 6.5 on the Mohs hardness scale \u2014 harder than steel in scratch resistance \u2014 yet it shatters catastrophically because its amorphous atomic structure has no crystalline slip planes to absorb impact, making hardness and fragility coexist paradoxically."
+  },
   "anger+guitar": {
     "result": "punk-rock",
     "reasoning": "Angry Guitar creates Punk Rock, the Ramones started it all"
@@ -7922,6 +7990,10 @@
   "anger+prejudice": {
     "result": "resentment",
     "reasoning": "Combine Anger with Prejudice to create Resentment."
+  },
+  "anger+sand": {
+    "result": "sand-storm",
+    "reasoning": "The 'Black Sunday' dust storm of April 14, 1935 was so enormous it turned day into absolute darkness across Oklahoma, with walls of airborne sand 8,000 feet high that buried farms and forced tens of thousands to flee the Dust Bowl forever."
   },
   "anger+society": {
     "result": "revolution",
@@ -8407,6 +8479,10 @@
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life \u2014 evolution in action"
   },
+  "animal+beach": {
+    "result": "turtle",
+    "reasoning": "Female sea turtles use Earth's magnetic field as a GPS to return to the exact beach where they hatched \u2014 sometimes navigating 10,000 miles across open ocean \u2014 to lay their own eggs there, a geomagnetic navigation feat that still eludes complete scientific explanation."
+  },
   "animal+bear": {
     "result": "anteater",
     "reasoning": "Combine Animal with Bear to create Anteater."
@@ -8578,6 +8654,10 @@
   "animal+darkness": {
     "result": "bat",
     "reasoning": "Bats are THE nocturnal animal \u2014 1,400 species ruling the night sky"
+  },
+  "animal+dashcam": {
+    "result": "wildlife-camera",
+    "reasoning": "Dashcams installed at wildlife crossings have documented animal behavior patterns that engineers used to design purpose-built fauna overpasses, reducing deer-vehicle collisions by up to 90% in regions where the structures were built."
   },
   "animal+death-knight": {
     "result": "veterinarian",
@@ -13347,6 +13427,10 @@
     "result": "error-404",
     "reasoning": "Anthropic + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
+  "anthropic+engine": {
+    "result": "claude",
+    "reasoning": "Anthropic built Claude using Constitutional AI, a novel training engine in which the model critiques and revises its own outputs against a written set of ethical principles, rather than relying solely on human raters to label every response \u2014 a method designed to scale AI safety."
+  },
   "anthropic+llm": {
     "result": "claude",
     "reasoning": "Anthropic enhanced with LLM creates Claude"
@@ -13630,6 +13714,10 @@
   "api+chatjimmy": {
     "result": "jimmy-api",
     "reasoning": "API enhanced with ChatJimmy creates Jimmy API"
+  },
+  "api+engine": {
+    "result": "search-engine",
+    "reasoning": "Google's search engine transformed from a single website into a global infrastructure by exposing its crawling, indexing, and ranking capabilities through APIs \u2014 allowing developers to embed web search into thousands of applications and making Google the engine underneath much of the internet."
   },
   "api+graph": {
     "result": "graphql",
@@ -14806,6 +14894,10 @@
   "apothecary+field-research": {
     "result": "impostor-syndrome",
     "reasoning": "Apothecary + Field Research = Impostor Syndrome. The more you know, the more you realize you don't know."
+  },
+  "apothecary+fire": {
+    "result": "medicine",
+    "reasoning": "Medieval apothecaries mastered fire-driven distillation to extract essential oils, render medicinal fats into salves, and concentrate herbal tinctures\u2014the same apparatus they perfected for healing directly became the foundation of modern pharmaceutical chemistry."
   },
   "apothecary+firebrick": {
     "result": "arts-and-crafts",
@@ -19135,6 +19227,10 @@
     "result": "root",
     "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
   },
+  "armadillo+engine": {
+    "result": "armor",
+    "reasoning": "The armadillo's shell consists of interlocking hexagonal osteoderms connected by flexible skin, inspiring materials engineers to design articulated body armor that maintains ballistic protection without restricting the wearer's movement."
+  },
   "armadillo+fern": {
     "result": "root",
     "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
@@ -19783,6 +19879,10 @@
     "result": "ranger",
     "reasoning": "Arrows require a skilled ranger to hit their mark"
   },
+  "arrow+engine": {
+    "result": "rocket",
+    "reasoning": "The rocket evolved directly from the arrow \u2014 13th-century Chinese soldiers attached bamboo tubes packed with gunpowder to arrows to create 'fire arrows,' the direct ancestors of modern rockets, which are essentially engine-powered arrows scaled to the extreme."
+  },
   "arrow+farmer": {
     "result": "ranger",
     "reasoning": "Arrows require a skilled ranger to hit their mark"
@@ -19879,6 +19979,10 @@
     "result": "painting",
     "reasoning": "art and Color create Painting"
   },
+  "art+computer": {
+    "result": "pixel-art",
+    "reasoning": "The pixel\u2014coined from 'picture element' in 1965\u2014became the atom of digital art, and early computer artists working with limited screen resolutions turned technical constraint into an aesthetic that remains culturally iconic today."
+  },
   "art+cubism": {
     "result": "impressionism",
     "reasoning": "Combine Art with Cubism to create Impressionism."
@@ -19895,6 +19999,10 @@
     "result": "surrealism",
     "reasoning": "Combine Art with Dream to create Surrealism."
   },
+  "art+earth": {
+    "result": "landscape-painting",
+    "reasoning": "The Hudson River School of the 1820s\u201380s was America's first major art movement, depicting the wild North American continent as sublime wilderness and pioneering the idea that a nation's landscape could define its cultural identity."
+  },
   "art+easel": {
     "result": "impressionism",
     "reasoning": "Combine Art with Easel to create Impressionism."
@@ -19902,6 +20010,10 @@
   "art+emotion": {
     "result": "catharsis",
     "reasoning": "Combine Emotion with Art to create Catharsis."
+  },
+  "art+engine": {
+    "result": "cinema",
+    "reasoning": "The Lumi\u00e8re brothers' cin\u00e9matographe was literally a mechanical engine \u2014 a hand-cranked sprocket device that captured and projected 16 frames per second \u2014 proving that art could be born from machinery."
   },
   "art+etching": {
     "result": "baroque",
@@ -19922,6 +20034,10 @@
   "art+fun": {
     "result": "entertainment",
     "reasoning": "art and fun create entertainment"
+  },
+  "art+ghost": {
+    "result": "gothic",
+    "reasoning": "Gothic art, emerging in medieval Europe, was saturated with skeletal death figures, pale ghostly Madonnas, and memento mori symbols because the Black Death killed one-third of the continent's population, making death a constant artistic obsession."
   },
   "art+hope": {
     "result": "stained-glass",
@@ -19947,6 +20063,10 @@
     "result": "pop-art",
     "reasoning": "Combine Art with K Pop to create Pop Art."
   },
+  "art+lava": {
+    "result": "fresco",
+    "reasoning": "The frescoes of Pompeii, painted using pigments bonded to volcanic plaster, were ironically preserved for 2,000 years by the same Vesuvius lava flows that destroyed the city in 79 AD \u2014 lava both killed the art and made it immortal."
+  },
   "art+light": {
     "result": "impressionism",
     "reasoning": "Combine Art with Light to create Impressionism."
@@ -19954,6 +20074,10 @@
   "art+love": {
     "result": "sculpting",
     "reasoning": "Love as Art becomes Sculpting, Rodin's The Kiss"
+  },
+  "art+meat": {
+    "result": "taxidermy",
+    "reasoning": "Carl Akeley, known as the 'father of modern taxidermy,' sculpted American Museum of Natural History dioramas so lifelike they transformed preserved animal specimens into immersive art installations that defined how millions of people understood wildlife."
   },
   "art+metal": {
     "result": "etching",
@@ -19979,6 +20103,10 @@
     "result": "surrealism",
     "reasoning": "Combine Art with Pop Art to create Surrealism."
   },
+  "art+rain": {
+    "result": "watercolor",
+    "reasoning": "J.M.W. Turner famously had himself lashed to a ship's mast during a violent storm to observe rain and waves directly, then recreated the effect using watercolor's transparent washes \u2014 watercolor's behaviour literally mimics rain dissolving pigment across a surface."
+  },
   "art+rhetoric": {
     "result": "baroque",
     "reasoning": "Combine Art with Rhetoric to create Baroque."
@@ -19999,6 +20127,10 @@
     "result": "statue",
     "reasoning": "art and Stone create Statue"
   },
+  "art+sun": {
+    "result": "impressionism",
+    "reasoning": "Claude Monet painted the same haystacks 25 times across different seasons and hours to capture how sunlight continuously transforms color \u2014 his obsessive study of how direct sunlight dissolves solid forms into vibrating hues gave birth to Impressionism."
+  },
   "art+temple": {
     "result": "cathedral",
     "reasoning": "A temple adorned with art becomes a Cathedral"
@@ -20007,9 +20139,17 @@
     "result": "weaving",
     "reasoning": "Thread elevated to art is Weaving"
   },
+  "art+tree": {
+    "result": "carving",
+    "reasoning": "Grinling Gibbons, the greatest wood carver in English history, created limewood flowers so lifelike that Samuel Pepys described them trembling in a breeze \u2014 his carvings for St. Paul's Cathedral demonstrate how a tree can be transformed into transcendent art."
+  },
   "art+utopia": {
     "result": "surrealism",
     "reasoning": "Combine Art with Utopia to create Surrealism."
+  },
+  "art+wind": {
+    "result": "kite",
+    "reasoning": "The first kites, invented in China around 500 BCE using silk and bamboo, were treated as both art and science \u2014 intricately painted kites were used to test wind conditions, carry messages, and eventually inspired Cayley's foundational aerodynamic research."
   },
   "art+wine": {
     "result": "italy",
@@ -20071,6 +20211,10 @@
     "result": "database",
     "reasoning": "Data organized in society creates Databases, knowledge at scale"
   },
+  "artist+earth": {
+    "result": "pottery",
+    "reasoning": "The earliest known decorative art involves fired clay vessels dating back 20,000 years in China \u2014 pottery made the abstract concept of artistic craft concrete by turning raw earth into functional beauty through the alchemy of heat."
+  },
   "artist+electric-car": {
     "result": "green-energy",
     "reasoning": "Electric Cars represent Green Energy transportation, zero emissions"
@@ -20082,6 +20226,10 @@
   "artist+encryption": {
     "result": "cybersecurity",
     "reasoning": "Encryption protects society through Cybersecurity, scrambling secrets"
+  },
+  "artist+engine": {
+    "result": "animation",
+    "reasoning": "Walt Disney called the multiplane camera\u2014a mechanical engine creating the illusion of depth by moving layers of artwork at different speeds\u2014his greatest technical achievement, and it transformed hand-drawn art into cinematic animation."
   },
   "artist+firewall": {
     "result": "cybersecurity",
@@ -20999,6 +21147,10 @@
     "result": "cybersecurity",
     "reasoning": "Encryption protects society through Cybersecurity, scrambling secrets"
   },
+  "attic+engine": {
+    "result": "steam-engine",
+    "reasoning": "James Watt famously refined the steam engine in his private attic workshop at Heathfield, his Birmingham home, where he tinkered with scale models and conducted experiments away from commercial pressures."
+  },
   "attic+firewall": {
     "result": "cybersecurity",
     "reasoning": "Firewalls protect society's networks, essential Cybersecurity"
@@ -21578,6 +21730,10 @@
   "axe+crab": {
     "result": "fishing",
     "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
+  },
+  "axe+crispr": {
+    "result": "genetic-engineering",
+    "reasoning": "Scientists nicknamed CRISPR-Cas9 'molecular scissors,' but it works more like an axe \u2014 a guide RNA escorts the Cas9 protein to an exact DNA sequence, where it cleaves completely through the double helix, allowing researchers to delete or insert genes with unprecedented precision."
   },
   "axe+crocodile": {
     "result": "trap",
@@ -26327,6 +26483,10 @@
     "result": "fruit",
     "reasoning": "Fruit bats spread seeds across tropical forests, flying gardeners"
   },
+  "bat+engine": {
+    "result": "sonar",
+    "reasoning": "Allied engineers in WWII modeled submarine sonar after bat echolocation, which lets bats detect wire-thin objects in complete darkness by emitting ultrasonic pulses up to 130 decibels and interpreting the returning echoes."
+  },
   "bat+factory": {
     "result": "zoo",
     "reasoning": "Nocturnal bat houses in Zoos let visitors experience the world upside-down"
@@ -26923,6 +27083,10 @@
     "result": "magnet",
     "reasoning": "Battery through Brass = Magnet \u2014 invisible force, visible wonder."
   },
+  "battery+bread": {
+    "result": "toast",
+    "reasoning": "The electric toaster (1893) was among the first household appliances, using electrical resistance heating to trigger the Maillard reaction in bread \u2014 the same browning chemistry that makes caramel and roasted coffee smell delicious."
+  },
   "battery+bronze": {
     "result": "magnet",
     "reasoning": "Battery through Bronze = Magnet \u2014 invisible force, visible wonder."
@@ -27139,6 +27303,10 @@
     "result": "electrician",
     "reasoning": "Batteries store electricity \u2014 electricians wire them into systems"
   },
+  "battery+spell": {
+    "result": "enchantment",
+    "reasoning": "Early scientists like Alessandro Volta described the electric battery's invisible stored power as practically magical, and both enchantments and batteries share the concept of latent energy that activates on command."
+  },
   "battery+stained-glass": {
     "result": "led",
     "reasoning": "Battery + Stained Glass = LED \u2014 efficient light that changed the world."
@@ -27198,6 +27366,14 @@
   "bauxite+chemical-reaction": {
     "result": "raw-material",
     "reasoning": "Bauxite + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+earth": {
+    "result": "aluminum",
+    "reasoning": "Bauxite, a reddish-brown sedimentary rock found just beneath tropical topsoil, was discovered in 1821 near Les Baux, France, and is Earth's primary aluminum ore \u2014 it takes 4\u20135 tonnes of bauxite to produce just 2 tonnes of aluminum oxide."
+  },
+  "bauxite+engine": {
+    "result": "aluminum",
+    "reasoning": "The Hall-H\u00e9roult process uses massive electric engines to drive electrolysis through molten bauxite ore, extracting aluminum\u2014a process so energy-intensive that aluminum smelters are typically built adjacent to hydroelectric power plants."
   },
   "bauxite+furnace": {
     "result": "raw-material",
@@ -27858,6 +28034,10 @@
   "bear+clock-tower": {
     "result": "zoo",
     "reasoning": "Bear Zoo enclosures give these powerful animals space to roam"
+  },
+  "bear+code": {
+    "result": "field-guide",
+    "reasoning": "Carl Linnaeus established the binomial nomenclature code in 1758 \u2014 giving the brown bear the name Ursus arctos \u2014 creating a standardized identification system that naturalists still use to catalog every species on Earth in field guides and taxonomic databases."
   },
   "bear+cold": {
     "result": "polar-bear",
@@ -30011,6 +30191,10 @@
     "result": "inn",
     "reasoning": "Combine Bed with Building to create Inn."
   },
+  "bedroom+engine": {
+    "result": "dream",
+    "reasoning": "During REM sleep, the brain's default mode network activates like an engine running above idle \u2014 neural activity actually surpasses waking levels, generating the vivid narratives and intense emotions that constitute dreams."
+  },
   "bee+bee": {
     "result": "nest",
     "reasoning": "Bees combined form a hive \u2014 60,000 workers in perfect coordination"
@@ -31291,6 +31475,14 @@
     "result": "hellhound",
     "reasoning": "Combine Dog with Bellows to create Hellhound."
   },
+  "bellows+earth": {
+    "result": "pottery",
+    "reasoning": "Ancient potters used bellows to blast air into wood-fired kilns reaching 1,200\u00b0C, transforming raw clay drawn from the earth into waterproof ceramic vessels \u2014 a technology independently invented on at least four continents over 25,000 years ago."
+  },
+  "bellows+engine": {
+    "result": "furnace",
+    "reasoning": "Medieval Chinese ironworkers developed bellows-powered blast furnaces around 500 BCE capable of reaching 1200\u00b0C\u2014centuries before Europe developed comparable engine-driven air-injection furnace technology for iron smelting."
+  },
   "bellows+fire": {
     "result": "mezcal",
     "reasoning": "Combine Fire with Bellows to create Mezcal."
@@ -31718,6 +31910,10 @@
   "biofilm+chemical-reaction": {
     "result": "anomaly",
     "reasoning": "Biofilm + Chemical reaction = an Anomaly. Life is full of them. That's what makes it interesting."
+  },
+  "biofilm+engine": {
+    "result": "rust",
+    "reasoning": "Sulfate-reducing bacteria in biofilms accelerate metal corrosion by producing hydrogen sulfide as a metabolic byproduct, a process called microbiologically influenced corrosion that eats through engine components and costs global industry an estimated $30\u201350 billion annually."
   },
   "biofilm+miscellaneous": {
     "result": "anomaly",
@@ -34303,6 +34499,10 @@
     "result": "genome",
     "reasoning": "Combine Dna with Biome to create Genome."
   },
+  "biome+engine": {
+    "result": "industrial-revolution",
+    "reasoning": "The Industrial Revolution's steam engines burned coal compressed from ancient swamp biomes over 300 million years \u2014 releasing stored carbon so rapidly it fundamentally altered atmospheric chemistry and transformed every living biome on Earth."
+  },
   "biome+genome": {
     "result": "symbiosis",
     "reasoning": "Combine Genome with Biome to create Symbiosis."
@@ -35622,6 +35822,10 @@
   "blade+elephant": {
     "result": "cart",
     "reasoning": "War elephants carried soldiers and supplies in Carts, living tanks"
+  },
+  "blade+engine": {
+    "result": "turbine",
+    "reasoning": "A turbine converts fluid energy into rotational work through precisely shaped blades\u2014the word derives from the Latin 'turbo' meaning spinning top, and modern jet engines generate thrust using thousands of aerodynamically optimized blades."
   },
   "blade+fabric": {
     "result": "clothing",
@@ -39151,6 +39355,10 @@
     "result": "library",
     "reasoning": "A building housing countless books \u2014 library"
   },
+  "book+caldera": {
+    "result": "myth",
+    "reasoning": "The catastrophic Minoan eruption of Thera around 1600 BCE collapsed the volcano into a massive caldera and may have inspired Plato's myth of Atlantis\u2014a powerful island civilization swallowed by the sea\u2014preserved in his philosophical dialogues centuries later."
+  },
   "book+castle": {
     "result": "library",
     "reasoning": "A Castle Library where monks preserved civilization"
@@ -39283,6 +39491,10 @@
     "result": "geology",
     "reasoning": "Studying Philosopher Stone through book \u2014 Geology."
   },
+  "book+phoenix": {
+    "result": "legend",
+    "reasoning": "The phoenix appears independently in ancient Greek, Egyptian (the Bennu bird), and Persian texts, each culture describing a fire-bird reborn from its own ashes \u2014 making it one of history's most persistent legends to spread through written books across civilizations."
+  },
   "book+photograph": {
     "result": "album",
     "reasoning": "book combined with Photograph leads to Album"
@@ -39367,6 +39579,10 @@
     "result": "overthinking",
     "reasoning": "Boredom + Miscellaneous = Overthinking. The human specialty. We're doing it right now."
   },
+  "botany+engine": {
+    "result": "greenhouse",
+    "reasoning": "The first heated greenhouses (orangeries) in 17th-century Europe used wood-burning furnace engines to maintain tropical temperatures year-round, allowing Dutch East India Company botanists to grow colonial specimens and pioneering the science of controlled-environment plant cultivation."
+  },
   "boulder+boulder": {
     "result": "mountain",
     "reasoning": "When Boulder meets Boulder, mountain naturally forms"
@@ -39378,6 +39594,14 @@
   "boulder+chemical-reaction": {
     "result": "wilderness",
     "reasoning": "Boulder + Chemical reaction = Wilderness. Untamed, uncharted, and no Wi-Fi."
+  },
+  "boulder+earth": {
+    "result": "mountain",
+    "reasoning": "The Himalayas grow approximately 5 mm per year as the Indian tectonic plate continues colliding with Eurasia, continuously pushing immense volumes of rock upward\u2014mountain ranges are simply the long-term accumulation of crustal boulders in slow motion."
+  },
+  "boulder+engine": {
+    "result": "trebuchet",
+    "reasoning": "The trebuchet was the supreme medieval siege engine, using a counterweight to launch boulders weighing up to 150 kg over 300 meters with such mechanical precision that modern engineers still use it as a classroom example of angular momentum conversion."
   },
   "boulder+furnace": {
     "result": "wilderness",
@@ -40506,6 +40730,10 @@
   "bread+dough": {
     "result": "bagel",
     "reasoning": "Combine Bread with Dough to create Bagel."
+  },
+  "bread+ecology": {
+    "result": "microbiome",
+    "reasoning": "A sourdough starter is a miniature ecosystem containing hundreds of microbial species in dynamic ecological balance \u2014 wild yeasts and lactic acid bacteria compete and cooperate just as organisms do in a forest biome, and disrupting one population collapses the bread's entire flavor chemistry."
   },
   "bread+egg-food": {
     "result": "bagel",
@@ -45999,6 +46227,10 @@
     "result": "cable",
     "reasoning": "Combine Electricity with Bucket to create Cable."
   },
+  "bucket+engine": {
+    "result": "steam-engine",
+    "reasoning": "The first practical steam engines used piston-and-cylinder mechanisms \u2014 essentially sealed buckets \u2014 to capture expanding steam pressure and convert it into rotary motion, a breakthrough that powered the entire Industrial Revolution."
+  },
   "bucket+evaporation": {
     "result": "kettle",
     "reasoning": "Combine Bucket with Evaporation to create Kettle."
@@ -47291,6 +47523,10 @@
     "result": "honey",
     "reasoning": "Bumblebees are vital pollinators that help produce Honey"
   },
+  "bumblebee+engine": {
+    "result": "aerodynamics",
+    "reasoning": "Early 20th-century aerodynamics models declared bumblebee flight impossible given their body-to-wing ratio, until high-speed cameras revealed they use rapid asymmetric wing strokes generating leading-edge vortices \u2014 a mechanism unlike any fixed-wing aircraft."
+  },
   "bumblebee+fern": {
     "result": "honey",
     "reasoning": "Bumblebees are vital pollinators that help produce Honey"
@@ -48259,6 +48495,10 @@
     "result": "keyboard",
     "reasoning": "Applying button to button produces Keyboard"
   },
+  "button+code": {
+    "result": "app",
+    "reasoning": "Xerox PARC's invention of the clickable graphical button in the 1970s transformed programming from cryptic text commands into intuitive interfaces\u2014every modern app exists at the intersection of underlying code and the humble interactive button."
+  },
   "button+game": {
     "result": "controller",
     "reasoning": "button and Game create Controller"
@@ -49023,6 +49263,10 @@
     "result": "wilderness",
     "reasoning": "Caldera + Chemical reaction = Wilderness. Untamed, uncharted, and no Wi-Fi."
   },
+  "caldera+flower": {
+    "result": "biodiversity",
+    "reasoning": "The isolated volcanic calderas of the Gal\u00e1pagos Islands created unique ecosystems where flowering plants evolved independently from mainland relatives\u2014the extraordinary biodiversity Darwin observed there in 1835 inspired his theory of natural selection."
+  },
   "caldera+furnace": {
     "result": "wilderness",
     "reasoning": "Caldera + Furnace = Wilderness. Untamed, uncharted, and no Wi-Fi."
@@ -49435,6 +49679,22 @@
     "result": "caramel",
     "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
   },
+  "candy+computer": {
+    "result": "video-game",
+    "reasoning": "Candy Crush Saga, released in 2012, achieved over 2.7 billion downloads by applying behavioral psychology \u2014 variable reward schedules, social pressure, and just-one-more-level compulsion \u2014 to demonstrate that sugar-themed match-3 puzzles could turn smartphones into the world's most ubiquitous gaming platforms."
+  },
+  "candy+earth": {
+    "result": "sugar",
+    "reasoning": "Sugarcane, cultivated in tropical soils for over 8,000 years, was so prized in the medieval world it was called 'white gold'\u2014the global sugar trade reshaped entire continents through colonialism, slavery, and plantation economies."
+  },
+  "candy+engine": {
+    "result": "taffy",
+    "reasoning": "Atlantic City saltwater taffy earned its signature chew in the 1880s when vendors began using mechanical taffy-pulling engines \u2014 motorized iron arms that stretched and folded the candy thousands of times \u2014 a process impossible to replicate by hand at commercial scale."
+  },
+  "candy+fear": {
+    "result": "stomach-ache",
+    "reasoning": "The enteric nervous system \u2014 sometimes called the 'second brain' \u2014 connects the gut directly to fear centers via the vagus nerve, which is why anxiety causes nausea through the same pathway that candy overload does: both flood the gut with distress signals."
+  },
   "candy+fire": {
     "result": "caramel",
     "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
@@ -49710,6 +49970,10 @@
   "canyon+usa": {
     "result": "grand-canyon",
     "reasoning": "Canyon and USA together shape Grand Canyon"
+  },
+  "capacitor+fear": {
+    "result": "defibrillator",
+    "reasoning": "A defibrillator uses a large capacitor to store a precisely measured electrical charge and discharge it through a fibrillating heart in milliseconds, exploiting the same charge-storage physics that makes accidentally touching a high-voltage capacitor so immediately dangerous."
   },
   "cape+chemical-reaction": {
     "result": "wilderness",
@@ -50819,6 +51083,10 @@
     "result": "barn",
     "reasoning": "Mice infest Barns for grain, the eternal battle of cat and mouse"
   },
+  "castle+mud": {
+    "result": "moat",
+    "reasoning": "The Tower of London's original moat, dug under William the Conqueror in 1066, was fed by tidal Thames mud and castle sewage \u2014 so fetid it bred disease \u2014 until engineers finally drained it in 1843 after 800 years of use."
+  },
   "castle+net": {
     "result": "maze",
     "reasoning": "A castle full of traps is a Maze"
@@ -50867,6 +51135,10 @@
     "result": "school",
     "reasoning": "A Building for Knowledge creates a School, education for all"
   },
+  "castle+robot": {
+    "result": "golem",
+    "reasoning": "The Golem of Prague, a clay humanoid supposedly animated by Rabbi Loew in the 16th century using Kabbalistic inscriptions, is history's earliest recorded autonomous guardian \u2014 a mythic robot tasked with defending a fortified Jewish community from persecution."
+  },
   "castle+rocket-science": {
     "result": "school",
     "reasoning": "A Building for Knowledge creates a School, education for all"
@@ -50895,6 +51167,10 @@
     "result": "tower",
     "reasoning": "Castle and Sky create Tower"
   },
+  "castle+soup": {
+    "result": "stew",
+    "reasoning": "Medieval castle kitchens maintained a perpetually simmering iron cauldron called 'pottage' \u2014 peasants would bring whatever scraps they had to be added to the communal pot, creating a never-emptied stew that was the primary food of the castle household for centuries."
+  },
   "castle+spear": {
     "result": "armory",
     "reasoning": "A Castle storing Spear \u2014 an Armory."
@@ -50906,6 +51182,10 @@
   "castle+spider": {
     "result": "barn",
     "reasoning": "Barn spiders build webs in rafters, catching flies for free"
+  },
+  "castle+stone": {
+    "result": "citadel",
+    "reasoning": "The Bronze Age citadels of Mycenae (c. 1350 BCE) were built with 'Cyclopean masonry' \u2014 limestone blocks so enormous that Classical-era Greeks assumed only the giant Cyclopes could have moved them, giving the term to any monumental stone fortification."
   },
   "castle+stork": {
     "result": "house",
@@ -50934,6 +51214,10 @@
   "castle+turkey": {
     "result": "barn",
     "reasoning": "Turkey Barns raise birds for the Thanksgiving feast"
+  },
+  "castle+unicorn": {
+    "result": "enchanted-kingdom",
+    "reasoning": "In medieval heraldry, unicorns were symbols of purity and power frequently displayed on the coats of arms of noble castles, giving rise to legends of enchanted kingdoms where these mythical beasts roamed freely."
   },
   "castle+university": {
     "result": "school",
@@ -51414,6 +51698,10 @@
   "caterpillar+enchanted-forest": {
     "result": "butterfly",
     "reasoning": "Caterpillars munch leaves, then metamorphose into Butterflies"
+  },
+  "caterpillar+engine": {
+    "result": "tractor",
+    "reasoning": "Caterpillar Inc., formed in 1925 through the merger of two tractor manufacturers, pioneered the diesel-powered crawler tractor whose continuous track system was directly inspired by observing caterpillars moving across soft ground."
   },
   "caterpillar+fern": {
     "result": "butterfly",
@@ -52955,6 +53243,18 @@
     "result": "raw-material",
     "reasoning": "Cellophane + cloth = Raw Material. Potential energy, waiting for a purpose."
   },
+  "cellophane+computer": {
+    "result": "touchscreen",
+    "reasoning": "E.A. Johnson's 1965 touchscreen prototype for air traffic control used a transparent capacitive overlay \u2014 conceptually similar to cellophane \u2014 that let controllers touch flight data directly on the display, predating the smartphone touchscreen by four decades and establishing the interaction paradigm now used by billions of people daily."
+  },
+  "cellophane+earth": {
+    "result": "composting",
+    "reasoning": "Unlike petroleum-based plastic, cellophane is made from regenerated plant cellulose and is genuinely biodegradable, breaking down in industrial composting facilities within 28\u201360 days when returned to the soil."
+  },
+  "cellophane+engine": {
+    "result": "food-packaging",
+    "reasoning": "Cellophane was invented by Jacques Brandenberger in 1908 after watching wine spill on a tablecloth, and the factory machines he developed to coat fabric with it became the first automated food-packaging lines, revolutionizing how groceries were sold."
+  },
   "cellophane+furnace": {
     "result": "raw-material",
     "reasoning": "Cellophane + Furnace = Raw Material. Potential energy, waiting for a purpose."
@@ -53147,6 +53447,10 @@
     "result": "protractor",
     "reasoning": "Combine Summoning Circle with Centripetal Force to create Protractor."
   },
+  "centurion+code": {
+    "result": "cipher",
+    "reasoning": "Julius Caesar sent encrypted orders to his centurions using a substitution cipher that shifted each letter three positions in the Latin alphabet \u2014 the 'Caesar cipher' was so unfamiliar to Rome's enemies that Suetonius records they simply discarded intercepted messages as gibberish rather than attempt to decode them."
+  },
   "centurion+france": {
     "result": "musketeer",
     "reasoning": "Combine France with Centurion to create Musketeer."
@@ -53290,6 +53594,14 @@
   "chain-of-thought+track": {
     "result": "error-404",
     "reasoning": "Chain of Thought + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "chair+earth": {
+    "result": "wood",
+    "reasoning": "The Windsor chair, perfected in 18th-century England, used steam-bent green ash, elm, and beech \u2014 materials drawn directly from the earth \u2014 to create seats so structurally efficient through grain orientation alone that no metal joinery was needed, and original examples survive in daily use 300 years later."
+  },
+  "chair+engine": {
+    "result": "wheelchair",
+    "reasoning": "Canadian engineer George Klein applied electric motor technology to mobility in 1952, designing the first joystick-controlled powered wheelchair\u2014today's motorized chairs use sophisticated engine control systems derived directly from automotive engineering."
   },
   "chalk+chemical-reaction": {
     "result": "raw-material",
@@ -59543,9 +59855,17 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Zoology = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
+  "chemistry+earth": {
+    "result": "geology",
+    "reasoning": "Geology is fundamentally applied chemistry: the discipline studies how chemical reactions between minerals, water, and heat transform the planet's crust, explaining why granite forms mountains and why salt flats appear where ancient seas evaporated."
+  },
   "chemistry+energy": {
     "result": "chemical-reaction",
     "reasoning": "Chemistry combined with Energy yields Chemical reaction"
+  },
+  "chemistry+engine": {
+    "result": "combustion",
+    "reasoning": "Nikolaus Otto realized in 1876 that igniting a precisely metered air-fuel mixture inside a cylinder could drive a piston with tremendous force\u2014turning combustion chemistry directly into mechanical work and inventing the internal combustion engine."
   },
   "chemistry+medicine": {
     "result": "drug",
@@ -59610,6 +59930,10 @@
   "chicken+enchanted-forest": {
     "result": "seed",
     "reasoning": "Chickens scratch the ground for Seeds, the farmyard forager"
+  },
+  "chicken+engine": {
+    "result": "conveyor-belt",
+    "reasoning": "Henry Ford's 1913 moving assembly line was reportedly inspired by visiting Chicago meatpacking plants, where overhead trolleys moved cattle and poultry carcasses past stationary workers \u2014 the disassembly line became the assembly line."
   },
   "chicken+factory": {
     "result": "barn",
@@ -61739,6 +62063,10 @@
     "result": "cart",
     "reasoning": "War elephants carried soldiers and supplies in Carts, living tanks"
   },
+  "chisel+engine": {
+    "result": "power-tool",
+    "reasoning": "The pneumatic chisel, invented in the 1890s, was among the first power tools \u2014 it replaced the hand-wielded chisel with an engine-driven air compressor, revolutionizing stone carving and mining."
+  },
   "chisel+fabric": {
     "result": "clothing",
     "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
@@ -62082,6 +62410,10 @@
   "chitin+miscellaneous": {
     "result": "anomaly",
     "reasoning": "Chitin + Miscellaneous = an Anomaly. Life is full of them. That's what makes it interesting."
+  },
+  "chloroplast+engine": {
+    "result": "photosynthesis",
+    "reasoning": "Engineers developing artificial photosynthesis have spent decades trying to replicate the chloroplast's molecular machinery, which converts sunlight into chemical energy with near-perfect quantum efficiency \u2014 a feat no human-built engine has yet matched."
   },
   "chocolate+cloth": {
     "result": "mystery-meat",
@@ -63299,6 +63631,10 @@
     "result": "electrician",
     "reasoning": "Electricians wire circuits that power our modern world"
   },
+  "circuit+knowledge": {
+    "result": "computer",
+    "reasoning": "Ada Lovelace, writing in 1843 about Babbage's Analytical Engine, recognized that a circuit of logical operations could manipulate any symbolic knowledge \u2014 making her notes the world's first computer program, written a full century before electronic computers existed."
+  },
   "circuit+lead": {
     "result": "magnet",
     "reasoning": "Circuit through Lead = Magnet \u2014 invisible force, visible wonder."
@@ -63442,6 +63778,10 @@
   "circuit+wave": {
     "result": "oscillator",
     "reasoning": "Combine Circuit with Wave to create Oscillator."
+  },
+  "circuit+wine": {
+    "result": "recommendation",
+    "reasoning": "Modern wine recommendation platforms like Vivino use machine learning circuits to analyze millions of user ratings and flavor descriptors, suggesting bottles personalized to each drinker's palate with uncanny accuracy."
   },
   "circuit+witch": {
     "result": "electrician",
@@ -63675,6 +64015,10 @@
     "result": "nation",
     "reasoning": "Cities united form a nation \u2014 civilization scales up"
   },
+  "city+code": {
+    "result": "smart-city",
+    "reasoning": "Singapore became the world's first declared 'smart nation' in 2014, embedding sensors and code throughout the city to monitor traffic, waste, and energy in real time \u2014 essentially writing software to run an entire city like an operating system."
+  },
   "city+flag": {
     "result": "nation",
     "reasoning": "city and Flag together shape Nation"
@@ -63734,6 +64078,10 @@
   "city+water-wheel": {
     "result": "canal",
     "reasoning": "Combine City with Water Wheel to create Canal."
+  },
+  "civilization+fear": {
+    "result": "law",
+    "reasoning": "Thomas Hobbes argued in Leviathan (1651) that fear of violent death in a lawless state of nature drives people to surrender personal freedoms to a sovereign authority \u2014 making existential fear the psychological engine that generated legal civilization."
   },
   "clam+combustion": {
     "result": "stew",
@@ -64714,6 +65062,10 @@
   "cliff+water": {
     "result": "falls",
     "reasoning": "Combine Cliff with Water to create Falls."
+  },
+  "climate-change+code": {
+    "result": "climate-model",
+    "reasoning": "Climate scientists write millions of lines of code to simulate atmospheric physics, ocean circulation, ice sheet dynamics, and carbon cycles \u2014 the CMIP6 models run on supercomputers generating petabytes of data, and their accuracy has improved so dramatically that 1990s projections of 2020 warming now match observed temperatures."
   },
   "climate-change+heat": {
     "result": "global-warming",
@@ -65975,6 +66327,10 @@
     "result": "cloud-storage",
     "reasoning": "Applying Cloud Computing to File produces Cloud Storage"
   },
+  "cloud-computing+fire": {
+    "result": "global-warming",
+    "reasoning": "Data centers powering cloud computing consume roughly 200 terawatt-hours of electricity annually \u2014 equivalent to many coal-fired power plants combined \u2014 making the invisible 'cloud' a surprisingly significant driver of global warming."
+  },
   "cloud-computing+flute": {
     "result": "spotify",
     "reasoning": "Cloud Computing streaming Flute \u2014 Spotify."
@@ -66266,6 +66622,10 @@
   "coal+element": {
     "result": "carbon",
     "reasoning": "Coal and element explain the phenomenon of Carbon"
+  },
+  "coal+engine": {
+    "result": "steam-engine",
+    "reasoning": "James Watt's 1769 improved steam engine burned coal to boil water into high-pressure steam that drove pistons with far greater efficiency than earlier designs \u2014 converting the stored solar energy of 300-million-year-old carboniferous forests into mechanical power that launched the Industrial Revolution."
   },
   "coal+iron": {
     "result": "steel",
@@ -66927,6 +67287,10 @@
     "result": "codon",
     "reasoning": "Combine Dna with Code to create Codon."
   },
+  "code+drawing": {
+    "result": "blueprint",
+    "reasoning": "A blueprint fuses code and drawing into one artifact \u2014 18th-century engineers developed standardized technical drawings using the cyanotype process, where lines appeared white on blue, creating the first 'coded' visual language for construction."
+  },
   "code+electricity": {
     "result": "morse-code",
     "reasoning": "Applying Code to Electricity produces Morse Code"
@@ -66999,6 +67363,10 @@
     "result": "regex",
     "reasoning": "Applying Code to pattern produces Regex"
   },
+  "code+potion": {
+    "result": "drug",
+    "reasoning": "Medieval alchemists' secret formulas were essentially molecular code \u2014 precise recipes for chemical reactions \u2014 and modern pharmacology still uses structural formulas to design drugs that target specific receptors."
+  },
   "code+product": {
     "result": "barcode",
     "reasoning": "Applying Code to product produces Barcode"
@@ -67006,6 +67374,10 @@
   "code+queen": {
     "result": "programmer",
     "reasoning": "Programmers write code \u2014 the invisible infrastructure of modern life"
+  },
+  "code+science": {
+    "result": "algorithm",
+    "reasoning": "The word 'algorithm' derives from Al-Khwarizmi, the 9th-century mathematician whose coded step-by-step procedures for solving equations became the foundation of both algebra and all of modern computer science."
   },
   "code+secret": {
     "result": "cipher",
@@ -67498,6 +67870,10 @@
   "coffin+extraterrestrial": {
     "result": "rocket-science",
     "reasoning": "Coffin + Extraterrestrial = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+fire": {
+    "result": "ash",
+    "reasoning": "The ancient Romans practiced cremation extensively, with fire reducing the body to ash collected in ceramic urns\u2014the word 'focus' originally referred to the household hearth where sacred cremation fires were maintained."
   },
   "coffin+gamma-ray-burst": {
     "result": "rocket-science",
@@ -69187,6 +69563,14 @@
     "result": "burlesque",
     "reasoning": "Combine Dance with Comedy to create Burlesque."
   },
+  "comedy+earth": {
+    "result": "absurdity",
+    "reasoning": "Douglas Adams captured the universe's indifference to humanity by having Earth demolished for a hyperspace bypass in The Hitchhiker's Guide to the Galaxy \u2014 a joke that crystallizes the philosophical insight that comedy is what happens when you notice the gap between human importance and cosmic scale."
+  },
+  "comedy+engine": {
+    "result": "humor",
+    "reasoning": "Sigmund Freud theorized that humor functions as a psychological pressure-relief engine\u2014building tension through setup and releasing it through punchline\u2014a mechanism he documented in his 1905 work 'Jokes and Their Relation to the Unconscious.'"
+  },
   "comedy+miscellaneous": {
     "result": "useless-fact",
     "reasoning": "Comedy + Miscellaneous = a Useless Fact. A group of flamingos is called a 'flamboyance'. You're welcome."
@@ -69419,6 +69803,14 @@
     "result": "programmer",
     "reasoning": "Computers do exactly what programmers tell them \u2014 nothing more, nothing less"
   },
+  "computer+earth": {
+    "result": "google-maps",
+    "reasoning": "Google Earth (2005) stitched together petabytes of satellite imagery using photogrammetry algorithms, letting anyone navigate the entire surface of the planet from a desktop computer for the first time ever."
+  },
+  "computer+engine": {
+    "result": "supercomputer",
+    "reasoning": "The Cray-1 (1976) pioneered vector processing \u2014 treating the entire machine as a single computational engine \u2014 achieving speeds thousands of times faster than any previous computer by parallelizing arithmetic operations."
+  },
   "computer+farmer": {
     "result": "programmer",
     "reasoning": "Computers do exactly what programmers tell them \u2014 nothing more, nothing less"
@@ -69454,6 +69846,10 @@
   "computer+game-theory": {
     "result": "artificial-intelligence",
     "reasoning": "Computer + Game Theory = AI \u2014 humanity's greatest amplifier."
+  },
+  "computer+ghost": {
+    "result": "malware",
+    "reasoning": "The Morris Worm of 1988 spread invisibly through computer networks like a ghost, exploiting UNIX vulnerabilities to replicate itself across thousands of machines\u2014the first major malware incident, it caused millions in damages and led to the creation of computer emergency response teams."
   },
   "computer+graffiti": {
     "result": "3d-model",
@@ -69491,6 +69887,10 @@
     "result": "artificial-intelligence",
     "reasoning": "Computer + Knowledge Graph = AI \u2014 humanity's greatest amplifier."
   },
+  "computer+lava": {
+    "result": "simulation",
+    "reasoning": "USGS volcanologists run supercomputer simulations of lava flow dynamics, modeling how molten rock behaves based on viscosity, topography, and temperature to predict where flows will travel before an eruption reaches populated areas."
+  },
   "computer+library-software": {
     "result": "artificial-intelligence",
     "reasoning": "Computer + Library Software = AI \u2014 humanity's greatest amplifier."
@@ -69510,6 +69910,10 @@
   "computer+man": {
     "result": "programmer",
     "reasoning": "Computers do exactly what programmers tell them \u2014 nothing more, nothing less"
+  },
+  "computer+meat": {
+    "result": "nutrition",
+    "reasoning": "Computerized mass spectrometry and nutrient databases allow scientists to calculate the precise amino acid profiles, micronutrient concentrations, and caloric density of different meat cuts, transforming dietetics from estimation into molecular precision."
   },
   "computer+metal": {
     "result": "robot",
@@ -69554,6 +69958,10 @@
   "computer+queen": {
     "result": "programmer",
     "reasoning": "Computers do exactly what programmers tell them \u2014 nothing more, nothing less"
+  },
+  "computer+rain": {
+    "result": "weather-app",
+    "reasoning": "The first digital weather forecast was computed on ENIAC in 1950, requiring 24 hours of processing to predict 24 hours of weather\u2014modern smartphones perform the equivalent calculation in milliseconds, putting professional meteorology in every pocket."
   },
   "computer+reality": {
     "result": "simulation",
@@ -69615,6 +70023,14 @@
     "result": "artificial-intelligence",
     "reasoning": "Computer + Spell Book = AI \u2014 humanity's greatest amplifier."
   },
+  "computer+stone": {
+    "result": "minecraft",
+    "reasoning": "Markus 'Notch' Persson's Minecraft, released in 2011, makes stone the primary building block of a procedurally generated computer world\u2014it became the best-selling video game of all time with over 238 million copies sold."
+  },
+  "computer+sun": {
+    "result": "solar-panel",
+    "reasoning": "AI-driven solar tracking computers orient photovoltaic panels toward the sun throughout the day using real-time irradiance data, boosting energy capture by up to 40% compared to fixed installations."
+  },
   "computer+symphony": {
     "result": "spotify",
     "reasoning": "Computer streaming Symphony \u2014 Spotify."
@@ -69635,6 +70051,10 @@
     "result": "tablet",
     "reasoning": "Applying Computer to Touchscreen produces Tablet"
   },
+  "computer+tree": {
+    "result": "tree-data",
+    "reasoning": "Computer scientists model hierarchical data as trees\u2014a concept borrowed directly from botany\u2014with every file system organized as a branching directory tree where folders nest inside folders exactly like branches growing from a trunk."
+  },
   "computer+trumpet": {
     "result": "spotify",
     "reasoning": "Computer streaming Trumpet \u2014 Spotify."
@@ -69654,6 +70074,10 @@
   "computer+watercolor": {
     "result": "3d-model",
     "reasoning": "Computer creating Watercolor in 3D."
+  },
+  "computer+wind": {
+    "result": "wind-turbine",
+    "reasoning": "Computational fluid dynamics run on supercomputers allows engineers to simulate millions of wind scenarios before fabricating a single blade, optimizing turbine shapes for maximum energy capture across variable wind conditions."
   },
   "computer+wire": {
     "result": "network",
@@ -69691,9 +70115,17 @@
     "result": "nlp",
     "reasoning": "Combine Computer Vision with Text Generation to create NLP."
   },
+  "concert+engine": {
+    "result": "amplifier",
+    "reasoning": "Leo Fender, a self-taught engineer with no formal music training, revolutionized live concerts in 1948 by mass-producing the first affordable electric guitar amplifier, allowing musicians to fill stadiums with sound for the very first time."
+  },
   "concrete+drill": {
     "result": "jackhammer",
     "reasoning": "Combine Concrete with Drill to create Jackhammer."
+  },
+  "concrete+engine": {
+    "result": "road",
+    "reasoning": "The steam-powered concrete mixer, patented in the 1850s, transformed road construction by allowing engine-driven machines to continuously mix and pour concrete at a scale impossible by hand."
   },
   "concrete+furnace": {
     "result": "raw-material",
@@ -69883,6 +70315,10 @@
     "result": "virtue",
     "reasoning": "Combine Conscience with Sacrifice to create Virtue."
   },
+  "consciousness+engine": {
+    "result": "sentient-ai",
+    "reasoning": "Alan Turing proposed in 1950 that if a computational engine could sustain conversation indistinguishable from a human's, we should consider it conscious \u2014 a thought experiment that still defines the core debate in AI alignment research today."
+  },
   "consciousness+fuel": {
     "result": "overthinking",
     "reasoning": "Consciousness + fuel = Overthinking. The human specialty. We're doing it right now."
@@ -70055,6 +70491,10 @@
     "result": "usa",
     "reasoning": "continent and Democracy together shape USA"
   },
+  "continent+engine": {
+    "result": "geology",
+    "reasoning": "Convection currents in Earth's molten mantle act as the engine driving plate tectonics, the mechanism geologists confirmed in the 1960s that explains how continents drift at roughly the speed fingernails grow \u2014 fast enough to have once united all land into a single supercontinent, Pangaea."
+  },
   "continent+furnace": {
     "result": "wilderness",
     "reasoning": "continent + Furnace = Wilderness. Untamed, uncharted, and no Wi-Fi."
@@ -70158,6 +70598,10 @@
   "cookie+cream": {
     "result": "cake",
     "reasoning": "Oreos \u2014 sandwich cookies with cream filling since 1912"
+  },
+  "cookie+engine": {
+    "result": "search-engine",
+    "reasoning": "Google and other search engines use browser cookies to personalize results, tracking your digital crumbs across the web to train algorithms that serve more relevant searches."
   },
   "cookie+fire": {
     "result": "cooking",
@@ -72926,6 +73370,10 @@
   "crab+enchanted-forest": {
     "result": "seaweed",
     "reasoning": "Crabs decorate themselves with Seaweed for camouflage"
+  },
+  "crab+engine": {
+    "result": "robot",
+    "reasoning": "Crab locomotion inspired an entire subfield of robotics: hexapod and multi-limbed robots borrow from crustacean biomechanics because the crab's sideways gait and distributed leg control allows stable movement over terrain that wheels cannot navigate."
   },
   "crab+fairy": {
     "result": "golem",
@@ -76627,6 +77075,10 @@
     "result": "food-chain",
     "reasoning": "Crocodile + Endorphin = the Food Chain. Circle of life, Simba."
   },
+  "crocodile+engine": {
+    "result": "cyborg",
+    "reasoning": "Crocodilians have survived 200 million years virtually unchanged, representing the pinnacle of biological engineering \u2014 fusing that perfected ancient chassis with a mechanical engine produces the cyborg ideal: biology enhanced beyond its natural limits."
+  },
   "crocodile+entertainment": {
     "result": "animal-mascot",
     "reasoning": "Crocodile + entertainment = an Animal Mascot. Every sports team needs one."
@@ -78663,6 +79115,10 @@
     "result": "pretzel",
     "reasoning": "Combine Dough with Croissant to create Pretzel."
   },
+  "croissant+engine": {
+    "result": "automation",
+    "reasoning": "Industrial dough-sheeting machines now produce croissants at over 3,000 per hour by automating the laborious lamination process bakers once spent 72 hours performing by hand to achieve 27 alternating layers of butter and fermented dough."
+  },
   "croissant+fire": {
     "result": "toast",
     "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
@@ -79518,6 +79974,10 @@
   "culture+emotion": {
     "result": "slam-poetry",
     "reasoning": "Combine Emotion with Culture to create Slam Poetry."
+  },
+  "culture+engine": {
+    "result": "pop-culture",
+    "reasoning": "Steam engines compressed travel times and powered high-speed printing presses that mass-produced newspapers and sheet music, creating for the first time a truly shared popular culture \u2014 by 1850 a song published in London could be performed in New York within weeks rather than years."
   },
   "culture+instrument": {
     "result": "banjo",
@@ -83955,6 +84415,10 @@
     "result": "rocket-science",
     "reasoning": "Destiny + Space Telescope = Rocket Science. It IS actually rocket science this time."
   },
+  "determination+fire": {
+    "result": "forge",
+    "reasoning": "Ancient Anatolian smiths discovered that repeatedly heating iron until red-hot and hammering it with relentless determination \u2014 a process requiring hours of grueling work \u2014 produced wrought iron far stronger than anything that could be cast."
+  },
   "determination+free-will": {
     "result": "stubbornness",
     "reasoning": "Combine Determination with Free Will to create Stubbornness."
@@ -84815,6 +85279,10 @@
     "result": "house",
     "reasoning": "Dogs live in Houses with their families, humanity's best friend at home"
   },
+  "dog+engine": {
+    "result": "phonograph",
+    "reasoning": "The RCA Victor logo depicted Nipper the terrier cocking his head at a gramophone horn listening to 'His Master's Voice' \u2014 but it was the mechanical engine inside the phonograph, Thomas Edison's 1877 invention using a vibrating needle to trace grooves in tin foil, that made recorded sound possible for the first time in history."
+  },
   "dog+factory": {
     "result": "house",
     "reasoning": "Dogs live in Houses with their families, humanity's best friend at home"
@@ -85571,6 +86039,14 @@
     "result": "house",
     "reasoning": "Doors in sequence create rooms in a house"
   },
+  "door+earth": {
+    "result": "cave",
+    "reasoning": "The world's oldest known door, excavated in Zurich and dated to around 3,100 BCE, was poplar planks bound with slats \u2014 but for the 300,000 years before that, cave openings served as humanity's only doors, marking the threshold between the dangerous outside world and sheltered earth."
+  },
+  "door+engine": {
+    "result": "escalator",
+    "reasoning": "Jesse Reno patented the first escalator in 1892 as an 'inclined elevator'\u2014a continuously engine-driven moving belt that eliminated the need to manually open doors between floors, debuting at Coney Island as a novelty amusement ride before transforming transit infrastructure worldwide."
+  },
   "door+magic": {
     "result": "portal",
     "reasoning": "Combine Magic with Door to create Portal."
@@ -85586,6 +86062,14 @@
   "doppler-effect+wave": {
     "result": "interference",
     "reasoning": "Combine Wave with Doppler Effect to create Interference."
+  },
+  "doubt+earth": {
+    "result": "empiricism",
+    "reasoning": "John Locke's empiricist philosophy began with systematic doubt about inherited knowledge, arguing that all understanding must be grounded in tangible earthly sensory experience\u2014his 'tabula rasa' ('scraped tablet') metaphor described the mind as fresh soil awaiting observation."
+  },
+  "doubt+engine": {
+    "result": "failed-experiment",
+    "reasoning": "James Watt documented dozens of failed engine prototypes before perfecting his 1769 steam engine design, demonstrating that engineering doubt and iterative failure are the true engines of mechanical progress."
   },
   "doubt+miscellaneous": {
     "result": "overthinking",
@@ -85843,6 +86327,10 @@
     "result": "dragon-egg",
     "reasoning": "Combine Dragon with Egg Food to create Dragon Egg."
   },
+  "dragon+factory": {
+    "result": "steel",
+    "reasoning": "In the 1850s, Bessemer converters used furnace heat intense enough to liquefy iron and blast away impurities \u2014 a dragon's breath made industrial, producing steel at factory scale for the first time in history."
+  },
   "dragon+fire": {
     "result": "chimera",
     "reasoning": "A fire-breathing monster is a Chimera"
@@ -85902,6 +86390,10 @@
   "dragon+valkyrie": {
     "result": "wyvern",
     "reasoning": "Combine Dragon with Valkyrie to create Wyvern."
+  },
+  "dragon+wine": {
+    "result": "mead",
+    "reasoning": "Norse sagas describe Valhalla's great mead hall where Odin's warriors drank the Mead of Poetry \u2014 a magical brew associated with dragons and divine power \u2014 reflecting the ancient Indo-European link between mythical serpents and fermented honey wine."
   },
   "dragon+wing": {
     "result": "wyvern",
@@ -86987,6 +87479,10 @@
     "result": "net",
     "reasoning": "Dragonfly Nets require fast reflexes to catch these aerial acrobats"
   },
+  "dragonfly+engine": {
+    "result": "drone",
+    "reasoning": "Dragonflies intercept 95% of their prey by computing the target's future position and flying directly to the interception point rather than chasing \u2014 engineers have implemented this predictive guidance algorithm in pursuit drones for aerial tracking and interception applications."
+  },
   "dragonfly+fairy-ring": {
     "result": "fairy",
     "reasoning": "Fairies ride dragonflies in Celtic mythology"
@@ -87118,6 +87614,10 @@
   "drama+text": {
     "result": "script",
     "reasoning": "Drama combined with Text leads to Script"
+  },
+  "drawing+electricity": {
+    "result": "neon-sign",
+    "reasoning": "Neon signs are electric drawings in gas \u2014 Georges Claude bent sealed glass tubes filled with noble gases into letterforms in 1910, creating luminous art where the electrical discharge itself becomes the drawing medium, emitting colors determined by which gas fills each tube."
   },
   "drawing+farmer": {
     "result": "artist",
@@ -87574,6 +88074,10 @@
   "drug+shape": {
     "result": "pill",
     "reasoning": "Drug and shape explain the phenomenon of Pill"
+  },
+  "drum+engine": {
+    "result": "rhythm",
+    "reasoning": "Ragtime composers in the 1890s deliberately mimicked the syncopated mechanical rhythm of steam locomotive pistons \u2014 the regular chug of the iron horse translated directly into the left-hand bass patterns that defined the genre and launched American popular music."
   },
   "drum+farmer": {
     "result": "musician",
@@ -88347,6 +88851,10 @@
     "result": "black-hole",
     "reasoning": "Dwarf Star collapses into void \u2014 a Black Hole, where not even light escapes."
   },
+  "dye+engine": {
+    "result": "industrial-revolution",
+    "reasoning": "William Perkin accidentally synthesized mauveine \u2014 the world's first synthetic dye \u2014 in 1856 while using industrial coal-tar chemistry to try to make quinine, launching the synthetic dye industry and proving that industrial chemical engines could manufacture substances previously only found in nature."
+  },
   "dye+miscellaneous": {
     "result": "raw-material",
     "reasoning": "Dye + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
@@ -88354,6 +88862,10 @@
   "dye+oil": {
     "result": "paint",
     "reasoning": "Processing Dye with Oil yields Paint"
+  },
+  "dyeing+engine": {
+    "result": "factory",
+    "reasoning": "Steam-powered engines mechanized textile dyeing in the 1780s, transforming cottage industries where dyers worked single vats at home into the first true factories where hundreds of workers tended automated machines, making brightly colored cloth affordable for ordinary people for the first time."
   },
   "dynamite+furnace": {
     "result": "raw-material",
@@ -88394,6 +88906,10 @@
   "eagle+enchanted-forest": {
     "result": "nest",
     "reasoning": "Eagle Nests (eyries) can weigh over a ton in tall trees"
+  },
+  "eagle+engine": {
+    "result": "airplane",
+    "reasoning": "The Wright Brothers explicitly studied soaring birds like eagles to understand wing-warping for lateral control, then added an engine to their glider \u2014 the 1903 Flyer was a direct synthesis of eagle biomechanics and mechanical propulsion."
   },
   "eagle+fairy": {
     "result": "griffin",
@@ -88731,6 +89247,18 @@
     "result": "pressure",
     "reasoning": "Energy released within the earth causes earthquakes"
   },
+  "earth+engine": {
+    "result": "tractor",
+    "reasoning": "The internal combustion engine revolutionized agriculture in the early 20th century, replacing horses with a mechanical workhorse that could plow fields far faster than any animal ever could."
+  },
+  "earth+engineer": {
+    "result": "geothermal",
+    "reasoning": "Icelandic engineers in the 1930s were the first to systematically harness Earth's internal heat for district heating, drilling into geothermal reservoirs to pipe hot water directly into Reykjavik homes."
+  },
+  "earth+entropy": {
+    "result": "erosion",
+    "reasoning": "Erosion is entropy made visible in the geological record \u2014 the second law of thermodynamics predicts that ordered structures like mountains inevitably break down into disordered sediment, and erosion is precisely that slow surrender to chaos."
+  },
   "earth+fairy": {
     "result": "enchanted-forest",
     "reasoning": "Where Fairies gather, forests become Enchanted, magic in every leaf"
@@ -88855,6 +89383,10 @@
     "result": "well",
     "reasoning": "Earth and Lake create Well"
   },
+  "earth+lava": {
+    "result": "volcano",
+    "reasoning": "The Hawaiian Islands are entirely volcanic in origin, built up over millions of years by a stationary mantle hot spot that melts through the earth's crust \u2014 a lava plume that has assembled an entire archipelago from the ocean floor."
+  },
   "earth+leprechaun": {
     "result": "forest",
     "reasoning": "Leprechauns hide gold in Forests at the end of the rainbow"
@@ -88882,6 +89414,10 @@
   "earth+manticore": {
     "result": "desert",
     "reasoning": "Manticores hunt across Deserts, lion body with scorpion tail"
+  },
+  "earth+meat": {
+    "result": "wild-game",
+    "reasoning": "Homo sapiens relied on hunting wild game across the earth for over 300,000 years before agriculture, and the cooperative strategies required to bring down large prey are thought to have directly shaped the evolution of human language and social bonds."
   },
   "earth+mermaid": {
     "result": "lagoon",
@@ -89011,6 +89547,10 @@
     "result": "mineral",
     "reasoning": "Processing Earth with Stone yields Mineral"
   },
+  "earth+sun": {
+    "result": "photosynthesis",
+    "reasoning": "Cyanobacteria invented oxygenic photosynthesis roughly 2.7 billion years ago, converting sunlight and CO\u2082 into oxygen and glucose \u2014 a biochemical reaction so consequential it transformed Earth's entire atmosphere and made all animal life possible."
+  },
   "earth+sylph": {
     "result": "cloud",
     "reasoning": "Sylphs are air spirits living in Clouds, wind made conscious"
@@ -89114,6 +89654,10 @@
   "earth+zombie": {
     "result": "swamp",
     "reasoning": "Zombies shamble through Swamps, voodoo legends of the bayou"
+  },
+  "earthquake+engine": {
+    "result": "geothermal",
+    "reasoning": "The same tectonic engine that generates earthquakes also heats groundwater into steam that geothermal power plants convert to electricity \u2014 Iceland, sitting directly on the Mid-Atlantic Ridge, meets 25% of its electricity demand and 90% of its heating needs from this seismic gift."
   },
   "earthquake+furnace": {
     "result": "wilderness",
@@ -89226,6 +89770,14 @@
   "eclipse+moon": {
     "result": "solar-eclipse",
     "reasoning": "Combine Moon with Eclipse to create Solar Eclipse."
+  },
+  "ecology+flower": {
+    "result": "pollen",
+    "reasoning": "Pollen grains, which have existed for 385 million years, are ecology's connective tissue between flowering plants and their pollinators \u2014 a single honeybee colony can transfer pollen between 300 million flowers annually, making pollen the engine of terrestrial ecosystems."
+  },
+  "ecosystem+engine": {
+    "result": "food-chain",
+    "reasoning": "Charles Elton coined the term 'food chain' in 1927, describing it as the engine that drives energy through ecosystems \u2014 solar energy enters through plants and flows through each trophic level like fuel through a biological machine."
   },
   "ecosystem+furnace": {
     "result": "anomaly",
@@ -90719,6 +91271,10 @@
     "result": "motor",
     "reasoning": "Crafting Electricity with Engine produces Motor"
   },
+  "electricity+enzyme": {
+    "result": "electrolysis",
+    "reasoning": "Electrolysis uses electrical current to drive chemical reactions that don't occur spontaneously, essentially replacing the activation energy that enzymes provide in biology \u2014 both 'force' reactions to happen that otherwise wouldn't."
+  },
   "electricity+flute": {
     "result": "synthesizer",
     "reasoning": "Electricity creating Flute \u2014 a Synthesizer. Music was never the same."
@@ -91027,6 +91583,10 @@
     "result": "magnet",
     "reasoning": "Electricity through Zinc = Magnet \u2014 invisible force, visible wonder."
   },
+  "electrode+engine": {
+    "result": "electric-car",
+    "reasoning": "Robert Anderson built the world's first crude electric vehicle in 1832 using non-rechargeable primary cell electrodes \u2014 predating gasoline engines by 50 years and proving that electric cars are actually older than their combustion counterparts."
+  },
   "electrode+metal": {
     "result": "metal-detector",
     "reasoning": "Combine Metal with Electrode to create Metal Detector."
@@ -91046,6 +91606,10 @@
   "electrolysis+water": {
     "result": "archimedes-principle",
     "reasoning": "Combine Water with Electrolysis to create Archimedes Principle."
+  },
+  "electron+engine": {
+    "result": "electric-car",
+    "reasoning": "An electric motor converts electron flow (electrical current) directly into rotational force with 90% efficiency, whereas a combustion engine wastes 80% of fuel energy as heat \u2014 the electron-powered drivetrain is the engine's own evolutionary successor."
   },
   "electron+proton": {
     "result": "atom",
@@ -91639,6 +92203,10 @@
     "result": "blastocyst",
     "reasoning": "Combine Embryo with Stem Cell to create Blastocyst."
   },
+  "emoji+engine": {
+    "result": "social-media",
+    "reasoning": "The Unicode Consortium acts as the global standards engine that approves which emoji exist across all platforms, and social media platforms' insatiable demand for visual shorthand drove the emoji catalog from 176 symbols in 1999 to over 3,600 today \u2014 shaping a genuinely global pictographic language."
+  },
   "emoji+miscellaneous": {
     "result": "useless-fact",
     "reasoning": "Emoji + Miscellaneous = a Useless Fact. A group of flamingos is called a 'flamboyance'. You're welcome."
@@ -92182,6 +92750,10 @@
   "emu+fern": {
     "result": "scrubland",
     "reasoning": "Emus wander Australian Scrubland eating seeds and fruit"
+  },
+  "emu+fire": {
+    "result": "wildfire",
+    "reasoning": "Emus have evolved remarkable adaptations to survive Australia's frequent wildfires, capable of detecting smoke from over 30 km away and migrating toward recently burned areas where nutrient-rich regrowth emerges first."
   },
   "emu+flower": {
     "result": "scrubland",
@@ -98795,6 +99367,10 @@
     "result": "atom",
     "reasoning": "Energy and Energy explain the phenomenon of Atom"
   },
+  "energy+engine": {
+    "result": "electricity",
+    "reasoning": "Michael Faraday's 1831 discovery that rotating a coil of wire inside a magnetic field generates electrical current directly led to the dynamo, proving that mechanical engine energy can be continuously converted into electrical energy."
+  },
   "energy+fire": {
     "result": "heat",
     "reasoning": "Concentrated fire energy produces intense heat"
@@ -98927,13 +99503,33 @@
     "result": "tornado",
     "reasoning": "Concentrated wind energy spirals into a tornado"
   },
+  "engine+engineer": {
+    "result": "steam-engine",
+    "reasoning": "James Watt, a Scottish instrument maker and engineer, redesigned the Newcomen steam engine in 1769 by adding a separate condenser, increasing fuel efficiency by 75% and igniting the Industrial Revolution."
+  },
+  "engine+entropy": {
+    "result": "thermodynamics",
+    "reasoning": "Sadi Carnot's 1824 analysis of steam engines established that no heat engine can be perfectly efficient because entropy always increases\u2014this insight became the second law of thermodynamics and defined the absolute limits of all machines."
+  },
+  "engine+evergreen": {
+    "result": "pulp",
+    "reasoning": "Industrial engines process evergreen trees \u2014 primarily spruce and pine whose long cellulose fibers are ideal \u2014 into wood pulp, the raw material for paper, a 19th-century innovation that democratized literacy by replacing expensive rag-based paper."
+  },
   "engine+farmer": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
   },
+  "engine+ferret": {
+    "result": "cable",
+    "reasoning": "Before modern cable-pulling equipment, British engineers trained ferrets wearing tiny harnesses to carry draw-lines through conduits and pipes too narrow for human hands \u2014 a practice reportedly used during the setup of a BBC television broadcast and at various heritage engineering sites."
+  },
   "engine+fuel": {
     "result": "rocket",
     "reasoning": "Fuel-powered engine thrusting upward \u2014 a rocket"
+  },
+  "engine+ghost": {
+    "result": "bug",
+    "reasoning": "In 1947, a moth trapped in a relay of the Harvard Mark II computer caused a malfunction; Grace Hopper's team taped it into the logbook as the first literal 'bug,' making a ghost in the machine the origin of all software errors."
   },
   "engine+human": {
     "result": "mechanic",
@@ -98947,6 +99543,10 @@
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
   },
+  "engine+lava": {
+    "result": "geothermal",
+    "reasoning": "Iceland generates over 90% of its home heating from geothermal energy by drilling into volcanic earth to let lava-heated water power steam turbines \u2014 essentially running a modern civilization on the planet's own internal heat engine."
+  },
   "engine+lich-king": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
@@ -98959,6 +99559,10 @@
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
   },
+  "engine+meat": {
+    "result": "sausage",
+    "reasoning": "The industrial sausage stuffer, mechanized in the 1840s, used a screw-press engine to force minced meat through metal cylinders at scale \u2014 making sausage one of the first mass-produced engine-made foods in history."
+  },
   "engine+monk": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
@@ -98966,6 +99570,10 @@
   "engine+queen": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running \u2014 the heartbeat of machines"
+  },
+  "engine+rain": {
+    "result": "hydropower",
+    "reasoning": "The world's first hydroelectric power station opened at Niagara Falls in 1879, harnessing the kinetic energy of falling rainwater with a turbine engine to generate electricity for the first time in history."
   },
   "engine+snow": {
     "result": "snowmobile",
@@ -98987,13 +99595,29 @@
     "result": "train",
     "reasoning": "Crafting Engine with Steel produces Train"
   },
+  "engine+stone": {
+    "result": "quarry",
+    "reasoning": "Ancient Roman engineers used treadwheel cranes \u2014 essentially human-powered engines \u2014 to extract multi-ton stone blocks from quarries, enabling the construction of the Colosseum and the Pantheon from bare hillsides."
+  },
+  "engine+sun": {
+    "result": "solar-panel",
+    "reasoning": "Bell Labs invented the first practical silicon photovoltaic cell in 1954 at just 6% efficiency, proving that sunlight itself could drive an engine \u2014 converting photons directly into electrons without any moving parts."
+  },
   "engine+track": {
     "result": "train",
     "reasoning": "Crafting Engine with track produces Train"
   },
+  "engine+tree": {
+    "result": "sawmill",
+    "reasoning": "The first water-powered sawmill in North America, built in Maine in 1634, used a waterwheel engine to let one person cut as much lumber in a day as a team of ten sawyers working by hand."
+  },
   "engine+wheel": {
     "result": "car",
     "reasoning": "An engine powering wheels \u2014 the automobile"
+  },
+  "engine+wind": {
+    "result": "wind-turbine",
+    "reasoning": "The first electricity-generating wind turbine was built in 1887 in Scotland by James Blyth, who mounted a cloth-sailed windmill engine on a pole to charge accumulators that lit his holiday cottage."
   },
   "engine+wing": {
     "result": "airplane",
@@ -99066,6 +99690,10 @@
   "envy+stubbornness": {
     "result": "temptation",
     "reasoning": "Combine Envy with Stubbornness to create Temptation."
+  },
+  "enzyme+factory": {
+    "result": "fermentation",
+    "reasoning": "The world's first biotechnology factory opened in England in 1914, using yeast enzymes to ferment grain into acetone for explosives \u2014 Chaim Weizmann's discovery that living enzymes could be industrialized founded modern large-scale fermentation manufacturing."
   },
   "enzyme+miscellaneous": {
     "result": "anomaly",
@@ -100026,6 +100654,10 @@
   "existential-crisis+track": {
     "result": "overthinking",
     "reasoning": "Existential Crisis + track = Overthinking. The human specialty. We're doing it right now."
+  },
+  "exoskeleton+fire": {
+    "result": "armor",
+    "reasoning": "Japanese swordsmiths discovered that repeatedly folding and fire-quenching steel creates layered grain boundaries that mimic the multi-ply chitin laminate of insect exoskeletons, producing katana armor with a combination of surface hardness and core flexibility impossible in single-alloy metals."
   },
   "exoskeleton+furnace": {
     "result": "anomaly",
@@ -101995,6 +102627,10 @@
     "result": "library",
     "reasoning": "A Factory filled with Philosophy \u2014 a Library."
   },
+  "factory+phoenix": {
+    "result": "recycling",
+    "reasoning": "Aluminum recycling emerged in the 1960s when manufacturers discovered that reclaiming metal from scrap requires only 5% of the energy needed to smelt virgin ore \u2014 a phoenix rising perpetually from the ashes of industrial waste."
+  },
   "factory+pig": {
     "result": "barn",
     "reasoning": "Pig Barns keep swine warm and contained, pork production central"
@@ -102818,6 +103454,10 @@
   "faith+thought": {
     "result": "belief",
     "reasoning": "The human experience of Faith and Thought manifests as Belief"
+  },
+  "fake-news+fire": {
+    "result": "viral",
+    "reasoning": "Ancient Roman politicians paid crowds called 'claqueurs' to spread false rumors in the Forum, proving fake news spreads like wildfire \u2014 the Latin phrase 'ignem gladio scrutare' (stir fire with a sword) warned against inflaming dangerous misinformation."
   },
   "fake-news+miscellaneous": {
     "result": "useless-fact",
@@ -107470,6 +108110,10 @@
   "flower+ibis": {
     "result": "marsh",
     "reasoning": "Ibises probe muddy Marshes for food among aquatic plants"
+  },
+  "flower+ice": {
+    "result": "frost",
+    "reasoning": "Frost flowers form when water vapor deposits directly as ice crystals on plant surfaces below freezing, and the intricate needle-like patterns they make on petals follow the same hexagonal hydrogen-bond geometry that gives snowflakes their famous sixfold symmetry."
   },
   "flower+ideal-gas-law": {
     "result": "petri-dish",
@@ -121359,6 +122003,14 @@
     "result": "revenant",
     "reasoning": "Combine Ghost with Ghoul to create Revenant."
   },
+  "ghost+ice": {
+    "result": "wendigo",
+    "reasoning": "The Wendigo is an Algonquian spirit that haunts frozen northern landscapes \u2014 embodying the terror of winter starvation, the myth likely originated as a cultural warning against cannibalism during brutal Canadian winters when food ran desperately scarce."
+  },
+  "ghost+lava": {
+    "result": "fire-elemental",
+    "reasoning": "In classical elemental mythology, fire elementals are spirits that inhabit flame and molten rock \u2014 a ghost possessing flowing lava becomes an entity of pure combustive energy, as formless and indestructible as the material it inhabits."
+  },
   "ghost+lich": {
     "result": "revenant",
     "reasoning": "Combine Ghost with Lich to create Revenant."
@@ -121374,6 +122026,10 @@
   "ghost+marble": {
     "result": "crypt",
     "reasoning": "Ghosts haunt dark Crypts, restless spirits of the departed"
+  },
+  "ghost+meat": {
+    "result": "ritual",
+    "reasoning": "Across virtually every ancient culture, meat offerings were presented at altars and burial sites to feed and appease the spirits of the dead, making animal sacrifice one of humanity's most universal spiritual practices."
   },
   "ghost+mineral": {
     "result": "crypt",
@@ -121391,9 +122047,17 @@
     "result": "crypt",
     "reasoning": "Ghosts haunt dark Crypts, restless spirits of the departed"
   },
+  "ghost+rain": {
+    "result": "mist",
+    "reasoning": "In folklore across cultures, ghosts are said to appear in misty, rainy conditions because water vapor blurs the boundary between physical and spirit worlds \u2014 the liminal atmosphere of mist has made it the natural haunt of phantoms in stories worldwide."
+  },
   "ghost+rock-music": {
     "result": "crypt",
     "reasoning": "Ghosts haunt dark Crypts, restless spirits of the departed"
+  },
+  "ghost+shield": {
+    "result": "invisible-cloak",
+    "reasoning": "Harry Potter's invisibility cloak was inspired by real physics \u2014 Duke University researchers created the first functional electromagnetic cloak in 2006 using metamaterials that bend microwaves around an object, shielding it from detection like a ghost passing through walls."
   },
   "ghost+soil": {
     "result": "crypt",
@@ -121403,9 +122067,25 @@
     "result": "ethereal-plane",
     "reasoning": "Combine Ghost with Spirit to create Ethereal Plane."
   },
+  "ghost+stone": {
+    "result": "gargoyle",
+    "reasoning": "Medieval cathedral builders carved grotesque gargoyles from stone believing that a fearsome stone form could trap and neutralize malevolent spirits seeking to enter sacred spaces \u2014 the gargoyle is a ghost imprisoned in rock."
+  },
+  "ghost+sun": {
+    "result": "will-o-wisp",
+    "reasoning": "Will-o'-wisps are ghostly lights hovering over marshy ground at dusk, now explained as spontaneous methane combustion \u2014 but for centuries, observers attributed them to the spirits of the restless dead luring travelers to their doom."
+  },
   "ghost+swamp": {
     "result": "will-o-wisp",
     "reasoning": "Combine Ghost with Swamp to create Will-o-Wisp."
+  },
+  "ghost+tree": {
+    "result": "dryad",
+    "reasoning": "In Greek mythology, dryads are tree nymphs \u2014 immortal spirits that inhabit individual trees and wither if their tree is cut down, making every ancient forest a sanctuary populated by the souls of the trees themselves."
+  },
+  "ghost+wind": {
+    "result": "banshee",
+    "reasoning": "In Irish mythology, the banshee (bean s\u00eddhe, 'woman of the fairy mound') is a wailing spirit whose voice rides the wind as a harbinger of death \u2014 her cry seems to emanate from nowhere because the ghost herself is carried on the air."
   },
   "ghoul+limestone": {
     "result": "cave",
@@ -122250,6 +122930,10 @@
   "glass+sun": {
     "result": "sunglasses",
     "reasoning": "Glass and sun create Sunglasses"
+  },
+  "glass+wind": {
+    "result": "flute",
+    "reasoning": "Benjamin Franklin invented the glass armonica in 1761 \u2014 a set of spinning glass bowls played with wet fingers that produced ethereal wind-like tones so haunting that Mozart and Beethoven both composed original works for this instrument made entirely of glass."
   },
   "glass+wire": {
     "result": "fiber-optic",
@@ -132047,6 +132731,10 @@
     "result": "snow-leopard",
     "reasoning": "Snow leopards have extra-thick fur and wide paws for mountain snow"
   },
+  "ice+library": {
+    "result": "permafrost",
+    "reasoning": "Siberian permafrost is Earth's greatest frozen library \u2014 scientists have revived 30,000-year-old seeds into living plants, recovered intact woolly mammoth DNA, and reanimated 48,500-year-old viruses from permafrost, reading biological history impossible to preserve any other way."
+  },
   "ice+lizard": {
     "result": "iguana",
     "reasoning": "Marine iguanas in Gal\u00e1pagos have adapted to cold ocean currents"
@@ -132074,6 +132762,10 @@
   "ice+orbit": {
     "result": "kuiper-belt",
     "reasoning": "Combine Orbit with Ice to create Kuiper Belt."
+  },
+  "ice+potion": {
+    "result": "elixir",
+    "reasoning": "Medieval alchemists believed that freezing a substance to stillness could concentrate its vital essence \u2014 the technique of fractional freezing, still used to make applejack by freeze-distilling cider, was considered a legitimate method of preparing medicinal elixirs."
   },
   "ice+rain": {
     "result": "glacier",
@@ -132162,6 +132854,10 @@
   "ice+whale": {
     "result": "narwhal",
     "reasoning": "Narwhals are the tusked whales of the frozen Arctic seas"
+  },
+  "ice+wine": {
+    "result": "crystal",
+    "reasoning": "When wine is chilled or frozen, tartaric acid precipitates out as beautiful tartrate crystals \u2014 called 'wine diamonds' or 'wine stones,' these natural crystals are often mistaken for glass shards but are actually a sign of quality, minimally processed wine."
   },
   "ice-cream+kiln": {
     "result": "cream",
@@ -133230,6 +133926,10 @@
   "interference+wave": {
     "result": "wave-particle-duality",
     "reasoning": "Combine Wave with Interference to create Wave-Particle Duality."
+  },
+  "internet+joy": {
+    "result": "meme",
+    "reasoning": "Richard Dawkins coined the word 'meme' in 1976 to describe cultural ideas that spread like genes \u2014 internet memes, the joyful inside-jokes of digital culture, are the fastest-evolving cultural 'organisms' ever observed, with lifespans measured in days rather than generations."
   },
   "internet+machine": {
     "result": "iot",
@@ -139763,6 +140463,10 @@
     "result": "ecstasy",
     "reasoning": "Joy intensified becomes ecstasy \u2014 the peak of happiness"
   },
+  "joy+moon": {
+    "result": "moonlight",
+    "reasoning": "The Mid-Autumn Festival, celebrated for over 3,000 years across East Asia, centers on gathering joyfully under the full moon \u2014 families share mooncakes and light lanterns, creating one of humanity's oldest and most widespread celebrations of moonlight."
+  },
   "joy+music": {
     "result": "jazz",
     "reasoning": "Joy in Music creates Jazz, the sound of freedom and improvisation"
@@ -141743,6 +142447,10 @@
     "result": "geology",
     "reasoning": "Studying mountain through knowledge \u2014 Geology."
   },
+  "knowledge+mud": {
+    "result": "clay",
+    "reasoning": "The oldest written knowledge in history \u2014 Sumerian cuneiform tablets from 3400 BCE \u2014 was pressed into wet clay with a stylus and sun-dried to preserve it; clay tablets have survived 5,400 years intact while papyrus and parchment have crumbled to dust."
+  },
   "knowledge+neutron-star": {
     "result": "astronomy",
     "reasoning": "Studying Neutron Star through knowledge \u2014 Astronomy, the oldest science."
@@ -141803,6 +142511,10 @@
     "result": "synesthesia",
     "reasoning": "Combine Sense with Knowledge to create Synesthesia."
   },
+  "knowledge+silver": {
+    "result": "alchemy",
+    "reasoning": "Silver was one of the seven classical metals of alchemy, each assigned to a planet \u2014 alchemists spent centuries studying silver's properties in pursuit of the philosophical and material knowledge to transmute base metals into gold."
+  },
   "knowledge+star-map": {
     "result": "astronomy",
     "reasoning": "Studying Star Map through knowledge \u2014 Astronomy, the oldest science."
@@ -141830,6 +142542,10 @@
   "knowledge+truth": {
     "result": "axiom",
     "reasoning": "Combine Truth with Knowledge to create Axiom."
+  },
+  "knowledge+wand": {
+    "result": "spell-book",
+    "reasoning": "A wand alone channels raw magical energy, but only through the studied knowledge compiled over generations in a spell book can a wizard direct that power with the precision needed for complex enchantments."
   },
   "knowledge+website": {
     "result": "wiki",
@@ -143899,6 +144615,10 @@
     "result": "stew",
     "reasoning": "Rabbit stew has been a peasant staple across Europe for centuries"
   },
+  "lava+rain": {
+    "result": "obsidian",
+    "reasoning": "When rainwater contacts flowing lava, the thermal shock quenches the molten rock before crystals can form, producing obsidian \u2014 a volcanic glass with a fracture edge sharper than surgical steel, prized by ancient peoples for blades and mirrors."
+  },
   "lava+ray": {
     "result": "lava-field",
     "reasoning": "Combine Lava with Ray to create Lava Field."
@@ -143974,6 +144694,10 @@
   "lava+sugar": {
     "result": "caramel",
     "reasoning": "Heat transforms white sugar into golden Caramel at 170 degrees C"
+  },
+  "lava+sun": {
+    "result": "solar-flare",
+    "reasoning": "Solar flares and volcanic lava flows are both explosive eruptions of superheated material driven by magnetic forces \u2014 scientists studying terrestrial volcanoes and solar physicists studying flares share the same mathematical models of plasma dynamics."
   },
   "lava+sushi": {
     "result": "tempura",
@@ -145691,6 +146415,10 @@
     "result": "armory",
     "reasoning": "A Library storing Mace \u2014 an Armory."
   },
+  "library+meat": {
+    "result": "dissection",
+    "reasoning": "Renaissance anatomist Andreas Vesalius, working at Padua in 1543, combined systematic cadaver dissection with meticulous illustration to produce 'De Humani Corporis Fabrica' \u2014 a library of human anatomy so accurate it corrected Galen's 1,400-year-old errors still being taught in European medical schools."
+  },
   "library+miscellaneous": {
     "result": "useless-fact",
     "reasoning": "Library + Miscellaneous = a Useless Fact. A group of flamingos is called a 'flamboyance'. You're welcome."
@@ -145734,6 +146462,10 @@
   "library+philosopher-stone": {
     "result": "geology",
     "reasoning": "Studying Philosopher Stone through Library \u2014 Geology."
+  },
+  "library+phoenix": {
+    "result": "renaissance",
+    "reasoning": "The Italian Renaissance ('rebirth') was sparked by ancient Greek texts preserved in libraries and rediscovered after centuries of darkness, mirroring the phoenix's cycle of death and rebirth from its own ashes."
   },
   "library+pig": {
     "result": "barn",
@@ -147218,6 +147950,10 @@
   "lightning+titanium": {
     "result": "magnet",
     "reasoning": "Lightning through Titanium = Magnet \u2014 invisible force, visible wonder."
+  },
+  "lightning+tree": {
+    "result": "wildfire",
+    "reasoning": "Lightning strikes are the leading natural cause of wildfires, igniting trees and spreading across forests long before humans learned to control fire."
   },
   "lightning+trumpet": {
     "result": "synthesizer",
@@ -150539,6 +151275,10 @@
     "result": "mithril",
     "reasoning": "Magic transforms Soldering Iron into legendary Mithril."
   },
+  "magic+soup": {
+    "result": "ambrosia",
+    "reasoning": "In Greek mythology, ambrosia was the magical food of the gods \u2014 often described as a divine broth or porridge that granted immortality to any mortal fortunate enough to consume it."
+  },
   "magic+spell": {
     "result": "enchantment",
     "reasoning": "Combine Magic with Spell to create Enchantment."
@@ -152627,6 +153367,10 @@
     "result": "stew",
     "reasoning": "Meat and potatoes \u2014 the hearty meal of the working class"
   },
+  "meat+potion": {
+    "result": "mystery-meat",
+    "reasoning": "Medieval alchemists created dubious 'medicinal' elixirs from unidentifiable animal parts, earning the nickname 'mystery meat potions' among skeptical scholars who questioned their ingredients."
+  },
   "meat+rain": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
@@ -152687,6 +153431,10 @@
     "result": "goulash",
     "reasoning": "Combine Meat with Stew to create Goulash."
   },
+  "meat+stone": {
+    "result": "fossil",
+    "reasoning": "When ancient animals died and were buried in sediment, their soft tissues decayed while minerals gradually replaced bone matrix in a process called permineralization, creating the stone-preserved fossils that record the history of life on Earth."
+  },
   "meat+stream": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
@@ -152711,6 +153459,10 @@
     "result": "taco",
     "reasoning": "Tacos \u2014 Mexico's greatest gift to world cuisine"
   },
+  "meat+tree": {
+    "result": "hunting",
+    "reasoning": "Humans have stalked prey through forested environments for over two million years, and the paleo diet of hunted meat shaped the expansion of the human brain \u2014 making woodland hunting the crucible of human evolution."
+  },
   "meat+water": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
@@ -152730,6 +153482,10 @@
   "meat+well": {
     "result": "broth",
     "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
+  },
+  "meat+wind": {
+    "result": "jerky",
+    "reasoning": "Indigenous peoples of the Americas pioneered wind-drying thin strips of meat in the open air to create jerky \u2014 one of humanity's oldest food preservation techniques, predating salt curing by thousands of years."
   },
   "mechanic+miscellaneous": {
     "result": "overthinking",
@@ -158367,6 +159123,10 @@
     "result": "blues",
     "reasoning": "Sadness in Music creates the Blues, born in the Mississippi Delta"
   },
+  "music+spell": {
+    "result": "siren",
+    "reasoning": "In Greek mythology, the sirens' song was literally an irresistible magical spell that compelled sailors to abandon their ships and drown, making them the original artists whose music functioned as a death enchantment."
+  },
   "music+streaming": {
     "result": "spotify",
     "reasoning": "Applying Music to Streaming produces Spotify"
@@ -163803,6 +164563,10 @@
     "result": "volcano",
     "reasoning": "The Phoenix nests in Volcanic fire, death and rebirth eternal"
   },
+  "phoenix+sword": {
+    "result": "enchanted-artifact",
+    "reasoning": "In numerous mythologies, a blade bathed in phoenix fire is reborn harder and sharper than before, becoming an indestructible weapon that regenerates its edge just as the immortal bird regenerates from ash."
+  },
   "phone+track": {
     "result": "miscellaneous",
     "reasoning": "Phone + track = filed under Miscellaneous. The universe shrugs."
@@ -165734,6 +166498,10 @@
   "potion+salamander": {
     "result": "fire-elemental",
     "reasoning": "Medieval alchemists believed salamanders were born from fire"
+  },
+  "potion+sand": {
+    "result": "glass",
+    "reasoning": "Ancient Phoenician sailors accidentally discovered glassmaking by cooking over natron blocks on a sandy beach, fusing silica with heat \u2014 the same transformative alchemy that produced the glass vessels used to store potions."
   },
   "potion+scorpion": {
     "result": "manticore",
@@ -168379,6 +169147,10 @@
     "result": "mist",
     "reasoning": "When Rain meets Steam, Mist naturally forms"
   },
+  "rain+stone": {
+    "result": "karst",
+    "reasoning": "Rainwater absorbs atmospheric CO\u2082 to form weak carbonic acid, which slowly dissolves limestone over millennia, carving karst landscapes \u2014 dramatic terrain of caves, sinkholes, and underground rivers etched by nothing more than rain on stone."
+  },
   "rain+sugar": {
     "result": "lemonade",
     "reasoning": "Sugar dissolved in water, simple syrup, the base of Lemonade"
@@ -168390,6 +169162,10 @@
   "rain+tea": {
     "result": "brewing",
     "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
+  },
+  "rain+temple": {
+    "result": "flood",
+    "reasoning": "Ancient Mesopotamian ziggurats were built partly to honor rain gods and perform rituals to control seasonal flooding \u2014 the great flood myths of Gilgamesh and Noah originated in civilizations where temples and catastrophic river floods were inextricably linked."
   },
   "rain+tiger": {
     "result": "shark",
@@ -171151,6 +171927,10 @@
     "result": "sand-storm",
     "reasoning": "Combine Sand with Sand Bar to create Sand Storm."
   },
+  "sand+silver": {
+    "result": "mirror",
+    "reasoning": "Before modern manufacturing, mirror-makers applied liquid silver to the back of glass (made from sand) in a process called silvering, creating the first reliably clear reflective surfaces."
+  },
   "sand+swamp": {
     "result": "quicksand",
     "reasoning": "When Sand meets Swamp, Quicksand naturally forms"
@@ -172522,6 +173302,10 @@
   "shield+steel": {
     "result": "armor",
     "reasoning": "Processing Shield with Steel yields Armor"
+  },
+  "shield+sun": {
+    "result": "aurora",
+    "reasoning": "Earth's magnetosphere acts as a planetary shield deflecting the sun's charged particle wind \u2014 when those particles spiral into polar regions and collide with the atmosphere, the result is the shimmering aurora borealis and australis."
   },
   "shield+witch": {
     "result": "guard",
@@ -175955,6 +176739,10 @@
     "result": "black-hole",
     "reasoning": "Star collapses into void \u2014 a Black Hole, where not even light escapes."
   },
+  "star+wine": {
+    "result": "constellation",
+    "reasoning": "Ancient Greek and Roman astronomers mapped the night sky at outdoor symposia fueled by wine, naming constellations after mythological figures \u2014 Dionysus, god of wine, even inspired the star cluster Vindemiatrix ('grape-gatherer')."
+  },
   "star-map+void": {
     "result": "black-hole",
     "reasoning": "Star Map collapses into void \u2014 a Black Hole, where not even light escapes."
@@ -176002,6 +176790,10 @@
   "steam+stone": {
     "result": "pumice",
     "reasoning": "Processing Steam with Stone yields Pumice"
+  },
+  "steam+sun": {
+    "result": "cloud",
+    "reasoning": "The sun's energy evaporates surface water into steam, which rises, cools, and condenses around tiny aerosol particles into the water droplets that form clouds \u2014 the entire weather system driven by solar power."
   },
   "steam+water": {
     "result": "fog",
@@ -176074,6 +176866,10 @@
   "stone+stream": {
     "result": "pebble",
     "reasoning": "When Stone meets stream, Pebble naturally forms"
+  },
+  "stone+sun": {
+    "result": "sand",
+    "reasoning": "Daily heating and cooling by the sun causes rocks to expand and contract along mineral grain boundaries, a physical weathering process called insolation that fractures stone over geological time \u2014 the sun literally grinds mountains into sand."
   },
   "stone+sword": {
     "result": "catapult",
@@ -176530,6 +177326,10 @@
   "sun+wind-turbine": {
     "result": "heliopause",
     "reasoning": "Combine Sun with Wind Turbine to create Heliopause."
+  },
+  "sun+wine": {
+    "result": "vineyard",
+    "reasoning": "Grapevines require over 1,300 hours of direct sunlight annually to develop the sugars that ferment into wine \u2014 a great vintage is literally bottled sunlight, with terroir determined largely by how each hillside faces the sun."
   },
   "sun+wood": {
     "result": "charcoal",
