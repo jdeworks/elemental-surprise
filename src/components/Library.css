@@ -89,6 +89,24 @@
 .library-grid {
   overflow-y: auto;
   overflow-x: hidden;
+  padding-right: 5px;
+}
+
+.library-grid::-webkit-scrollbar {
+  width: 6px;
+}
+
+.library-grid::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.library-grid::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+.library-grid::-webkit-scrollbar-thumb:hover {
+  background: #aaa;
 }
 
 .library-grid-names {
