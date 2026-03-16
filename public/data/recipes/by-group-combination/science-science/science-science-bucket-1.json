@@ -1,11 +1,155 @@
 {
+  "absolute-zero+brownian-motion": {
+    "result": "temperature",
+    "reasoning": "Combine Brownian Motion with Absolute Zero to create Temperature."
+  },
+  "absolute-zero+element": {
+    "result": "allotrope",
+    "reasoning": "Combine Element with Absolute Zero to create Allotrope."
+  },
+  "absolute-zero+sublimation": {
+    "result": "boiling-point",
+    "reasoning": "Combine Sublimation with Absolute Zero to create Boiling Point."
+  },
+  "absolute-zero+zero": {
+    "result": "sparse-model",
+    "reasoning": "Combine Absolute Zero with Zero to create Sparse Model."
+  },
+  "acceleration+acid": {
+    "result": "base",
+    "reasoning": "Combine Acid with Acceleration to create Base."
+  },
+  "acceleration+acoustics": {
+    "result": "centrifuge",
+    "reasoning": "Combine Acceleration with Acoustics to create Centrifuge."
+  },
+  "acceleration+aerodynamics": {
+    "result": "centrifuge",
+    "reasoning": "Combine Acceleration with Aerodynamics to create Centrifuge."
+  },
+  "acceleration+atom": {
+    "result": "isotope",
+    "reasoning": "Combine Atom with Acceleration to create Isotope."
+  },
+  "acceleration+centrifuge": {
+    "result": "centripetal-force",
+    "reasoning": "Combine Acceleration with Centrifuge to create Centripetal Force."
+  },
+  "acceleration+centripetal-force": {
+    "result": "coulombs-law",
+    "reasoning": "Combine Centripetal Force with Acceleration to create Coulombs Law."
+  },
+  "acceleration+change": {
+    "result": "reformation",
+    "reasoning": "Combine Change with Acceleration to create Reformation."
+  },
+  "acceleration+equilibrium": {
+    "result": "centripetal-force",
+    "reasoning": "Combine Acceleration with Equilibrium to create Centripetal Force."
+  },
+  "acceleration+green-energy": {
+    "result": "kinetics",
+    "reasoning": "Combine Green Energy with Acceleration to create Kinetics."
+  },
+  "acceleration+hydraulics": {
+    "result": "centripetal-force",
+    "reasoning": "Combine Acceleration with Hydraulics to create Centripetal Force."
+  },
+  "acceleration+hydrogen": {
+    "result": "acid",
+    "reasoning": "Combine Hydrogen with Acceleration to create Acid."
+  },
+  "acceleration+mass": {
+    "result": "density",
+    "reasoning": "Combine Mass with Acceleration to create Density."
+  },
+  "acceleration+science": {
+    "result": "centrifuge",
+    "reasoning": "Combine Acceleration with Science to create Centrifuge."
+  },
+  "acceleration+speed": {
+    "result": "aerodynamics",
+    "reasoning": "Combine Speed with Acceleration to create Aerodynamics."
+  },
+  "acceleration+time": {
+    "result": "impulse",
+    "reasoning": "Combine Time with Acceleration to create Impulse."
+  },
+  "acid+mass": {
+    "result": "density",
+    "reasoning": "Combine Mass with Acid to create Density."
+  },
+  "acid+science": {
+    "result": "base",
+    "reasoning": "Combine Acid with Science to create Base."
+  },
+  "acoustics+mass": {
+    "result": "inertia",
+    "reasoning": "Combine Mass with Acoustics to create Inertia."
+  },
+  "acoustics+science": {
+    "result": "empiricism",
+    "reasoning": "Combine Science with Acoustics to create Empiricism."
+  },
+  "acoustics+speed": {
+    "result": "mach-number",
+    "reasoning": "Combine Speed with Acoustics to create Mach Number."
+  },
+  "acoustics+time": {
+    "result": "oscillation",
+    "reasoning": "Combine Time with Acoustics to create Oscillation."
+  },
+  "acoustics+wave": {
+    "result": "polarization",
+    "reasoning": "Combine Wave with Acoustics to create Polarization."
+  },
+  "aerodynamics+atom": {
+    "result": "particle-accelerator",
+    "reasoning": "Combine Atom with Aerodynamics to create Particle Accelerator."
+  },
+  "aerodynamics+green-energy": {
+    "result": "kinetics",
+    "reasoning": "Combine Green Energy with Aerodynamics to create Kinetics."
+  },
+  "aerodynamics+science": {
+    "result": "empiricism",
+    "reasoning": "Combine Science with Aerodynamics to create Empiricism."
+  },
+  "aerodynamics+speed": {
+    "result": "mach-number",
+    "reasoning": "Combine Speed with Aerodynamics to create Mach Number."
+  },
+  "afterlife+science": {
+    "result": "empiricism",
+    "reasoning": "Combine Science with Afterlife to create Empiricism."
+  },
+  "amplitude+green-energy": {
+    "result": "entropy",
+    "reasoning": "Combine Green Energy with Amplitude to create Entropy."
+  },
+  "amplitude+time": {
+    "result": "oscillation",
+    "reasoning": "Combine Time with Amplitude to create Oscillation."
+  },
+  "amplitude+wave": {
+    "result": "doppler-effect",
+    "reasoning": "Combine Wave with Amplitude to create Doppler Effect."
+  },
   "atom+atom": {
     "result": "neutron",
     "reasoning": "Atom and Atom explain the phenomenon of Neutron"
   },
-  "atom+electron": {
-    "result": "neutron",
-    "reasoning": "When Atom and Electron collide, logic takes a coffee break and Neutron appears anyway."
+  "atom+catalyst": {
+    "result": "particle-accelerator",
+    "reasoning": "Combine Atom with Catalyst to create Particle Accelerator."
+  },
+  "atom+electrolysis": {
+    "result": "ion",
+    "reasoning": "Combine Atom with Electrolysis to create Ion."
+  },
+  "atom+ion": {
+    "result": "isotope",
+    "reasoning": "Combine Atom with Ion to create Isotope."
   },
   "atom+neutron": {
     "result": "fission",
@@ -15,176 +159,724 @@
     "result": "element",
     "reasoning": "Atom and Proton explain the phenomenon of element"
   },
+  "atom+science": {
+    "result": "isotope",
+    "reasoning": "Combine Atom with Science to create Isotope."
+  },
+  "atom+speed": {
+    "result": "particle-accelerator",
+    "reasoning": "Combine Atom with Speed to create Particle Accelerator."
+  },
   "atom+time": {
     "result": "radioactivity",
     "reasoning": "Atom and time explain the phenomenon of Radioactivity"
   },
-  "calculus+line": {
-    "result": "shape",
-    "reasoning": "Calculus plus line is the weird recipe your alchemist friend swears by for making shape."
+  "biology+biomass": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Biomass = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "change+direction": {
-    "result": "velocity",
-    "reasoning": "change and direction accidentally host a crossover episode; Velocity steals the finale."
+  "biology+boiling-point": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Boiling Point = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "change+mass": {
-    "result": "momentum",
-    "reasoning": "change and mass accidentally host a crossover episode; Momentum steals the finale."
+  "biology+botany": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Botany = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "change+mathematics": {
-    "result": "calculus",
-    "reasoning": "change and mathematics explain the phenomenon of Calculus"
+  "biology+brownian-motion": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Brownian Motion = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "change+time": {
-    "result": "speed",
-    "reasoning": "change and time explain the phenomenon of Speed"
+  "biology+buoyancy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Buoyancy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "chemistry+medicine": {
-    "result": "drug",
-    "reasoning": "Chemistry and Medicine explain the phenomenon of Drug"
+  "biology+calculus": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Calculus = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "chemistry+science": {
-    "result": "drug",
-    "reasoning": "When Chemistry and science collide, logic takes a coffee break and Drug appears anyway."
+  "biology+capillary-action": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Capillary Action = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "chemistry+shape": {
-    "result": "pill",
-    "reasoning": "When Chemistry and shape collide, logic takes a coffee break and Pill appears anyway."
+  "biology+carbon": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Carbon = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "compost+science": {
-    "result": "fertilizer",
-    "reasoning": "Compost and science explain the phenomenon of Fertilizer"
+  "biology+catalyst": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Catalyst = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "direction+speed": {
-    "result": "velocity",
-    "reasoning": "direction and Speed explain the phenomenon of Velocity"
+  "biology+centrifuge": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Centrifuge = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "direction+time": {
-    "result": "velocity",
-    "reasoning": "direction tags in with time, and somehow the universe speedruns Velocity."
+  "biology+centripetal-force": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Centripetal Force = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "drug+line": {
-    "result": "pill",
-    "reasoning": "Drug tags in with line, and somehow the universe speedruns Pill."
+  "biology+change": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + change = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "drug+shape": {
-    "result": "pill",
-    "reasoning": "Drug and shape explain the phenomenon of Pill"
+  "biology+chemistry": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Chemistry = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "electron+neutron": {
-    "result": "fission",
-    "reasoning": "Someone mixed Electron with Neutron for science. The peer-reviewed conclusion: Fission."
+  "biology+climate-change": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Climate Change = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "electron+proton": {
-    "result": "atom",
-    "reasoning": "Electron and Proton explain the phenomenon of Atom"
+  "biology+clock": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Clock = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "electron+time": {
-    "result": "radioactivity",
-    "reasoning": "Electron plus time is the weird recipe your alchemist friend swears by for making Radioactivity."
+  "biology+cloning": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Cloning = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "element+hydrogen": {
-    "result": "fusion",
-    "reasoning": "When element and Hydrogen collide, logic takes a coffee break and Fusion appears anyway."
+  "biology+coffin": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Coffin = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "element+medicine": {
-    "result": "drug",
-    "reasoning": "element and Medicine accidentally host a crossover episode; Drug steals the finale."
+  "biology+combustion": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Combustion = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "element+oxygen": {
-    "result": "molecule",
-    "reasoning": "Someone mixed element with Oxygen for science. The peer-reviewed conclusion: Molecule."
+  "biology+compass": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + compass = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "element+science": {
-    "result": "chemistry",
-    "reasoning": "element and science explain the phenomenon of Chemistry"
+  "biology+compost": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Compost = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "hydrogen+hydrogen": {
-    "result": "fusion",
-    "reasoning": "Hydrogen and Hydrogen explain the phenomenon of Fusion"
+  "biology+conductivity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Conductivity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "hydrogen+oxygen": {
-    "result": "molecule",
-    "reasoning": "Hydrogen and Oxygen explain the phenomenon of Molecule"
+  "biology+contact-lens": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Contact Lens = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "line+line": {
-    "result": "shape",
-    "reasoning": "line and line explain the phenomenon of shape"
+  "biology+convection": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Convection = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "line+mathematics": {
-    "result": "geometry",
-    "reasoning": "When line and mathematics collide, logic takes a coffee break and Geometry appears anyway."
+  "biology+coriolis-effect": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Coriolis Effect = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "line+point": {
-    "result": "graph",
-    "reasoning": "line enhanced with point creates graph"
+  "biology+coulombs-law": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Coulombs Law = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mass+matter": {
-    "result": "mass",
-    "reasoning": "mass tags in with matter, and somehow the universe speedruns mass."
+  "biology+crispr": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + CRISPR = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mass+speed": {
-    "result": "momentum",
-    "reasoning": "mass and Speed explain the phenomenon of Momentum"
+  "biology+critical-mass": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Critical Mass = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mass+time": {
-    "result": "momentum",
-    "reasoning": "mass plus time is the weird recipe your alchemist friend swears by for making Momentum."
+  "biology+crutch": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Crutch = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mass+wave": {
-    "result": "gravity-wave",
-    "reasoning": "mass tags in with Wave, and somehow the universe speedruns Gravity Wave."
+  "biology+crystallization": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Crystallization = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mathematics+shape": {
-    "result": "geometry",
-    "reasoning": "mathematics and shape explain the phenomenon of Geometry"
+  "biology+death": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + death = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "mathematics+time": {
-    "result": "calculus",
-    "reasoning": "mathematics plus time is the weird recipe your alchemist friend swears by for making Calculus."
+  "biology+decay": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Decay = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "medicine+psychology": {
-    "result": "therapy",
-    "reasoning": "Medicine and Psychology explain the phenomenon of Therapy"
+  "biology+density": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Density = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "medicine+science": {
-    "result": "therapy",
-    "reasoning": "Medicine meets science, chaos files a memo, and Therapy walks out with the trophy."
+  "biology+destiny": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Destiny = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "medicine+shape": {
-    "result": "pill",
-    "reasoning": "When Medicine and shape collide, logic takes a coffee break and Pill appears anyway."
+  "biology+diffusion": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Diffusion = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "medicine+vibration": {
-    "result": "stethoscope",
-    "reasoning": "Medicine meets Vibration, chaos files a memo, and Stethoscope walks out with the trophy."
+  "biology+direction": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + direction = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "neutron+proton": {
-    "result": "fission",
-    "reasoning": "Neutron and Proton accidentally host a crossover episode; Fission steals the finale."
+  "biology+distilling": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Distilling = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "physics+time": {
-    "result": "determinism",
-    "reasoning": "Physics combined with time leads to Determinism"
+  "biology+doppler-effect": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Doppler Effect = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "point+point": {
-    "result": "line",
-    "reasoning": "point and point explain the phenomenon of line"
+  "biology+drug": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Drug = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "pollution+time": {
-    "result": "climate-change",
-    "reasoning": "Pollution and time explain the phenomenon of Climate Change"
+  "biology+ecology": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Ecology = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "science+time": {
-    "result": "determinism",
-    "reasoning": "science and time shake hands, reality shrugs, and Determinism is suddenly canon."
+  "biology+economics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Economics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "science+waste": {
-    "result": "fertilizer",
-    "reasoning": "science and waste shake hands, reality shrugs, and Fertilizer is suddenly canon."
+  "biology+elasticity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Elasticity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   },
-  "time+wave": {
-    "result": "frequency",
-    "reasoning": "time and Wave explain the phenomenon of Frequency"
+  "biology+electrolysis": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Electrolysis = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+electromagnetic-spectrum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Electromagnetic Spectrum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+electron": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Electron = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+element": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + element = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+engineering": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + engineering = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+entropy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Entropy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+equilibrium": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Equilibrium = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+evaporation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Evaporation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+failed-experiment": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Failed Experiment = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fermentation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fermentation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fertilizer": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fertilizer = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fission": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fission = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fluorescence": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fluorescence = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+food-science": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Food Science = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fossil-fuel": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fossil Fuel = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fragility": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fragility = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+frequency": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Frequency = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fulcrum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fulcrum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+fusion": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Fusion = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+future": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Future = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+genetic-engineering": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Genetic Engineering = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+geology": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Geology = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+geometry": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Geometry = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+geothermal": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Geothermal = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+glasses": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Glasses = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+global-warming": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Global Warming = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+grave": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Grave = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+green-energy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Green Energy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+half-life": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Half-Life = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+harmonic": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Harmonic = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+hearing-aid": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Hearing Aid = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+helium": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Helium = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+history": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + history = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+hourglass": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Hourglass = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+hydraulics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Hydraulics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+hydrogen": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Hydrogen = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+hydropower": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Hydropower = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+ideal-gas-law": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Ideal Gas Law = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+impulse": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Impulse = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+inertia": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Inertia = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+infinity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Infinity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+insulation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Insulation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+interference": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Interference = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+ion": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Ion = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+isotope": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Isotope = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+joule": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Joule = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+kinetics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Kinetics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+lab-equipment": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Lab Equipment = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+lab-rat": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Lab Rat = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+laser": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Laser = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+lattice": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Lattice = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+line": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + line = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+luminescence": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Luminescence = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+mach-number": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Mach Number = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+magnetism": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Magnetism = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+mass": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + mass = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+mathematics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + mathematics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+matter": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + matter = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+measurement": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Measurement = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+medicine": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Medicine = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+meditation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Meditation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+meteorology": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Meteorology = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+microscope": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Microscope = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+molecule": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Molecule = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+momentum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Momentum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+mri": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + MRI = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+neon": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Neon = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+neutron": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Neutron = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+newtons-cradle": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Newtons Cradle = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+nitrogen": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Nitrogen = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+nuclear": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Nuclear = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+nutrition": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Nutrition = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+ohms-law": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Ohms Law = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+optics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Optics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+oscillation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Oscillation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+osmosis": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Osmosis = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+oxidation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Oxidation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+oxygen": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Oxygen = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+pacemaker": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Pacemaker = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+pascals-law": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Pascals Law = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+past": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Past = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+peer-pressure": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Peer Pressure = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+pendulum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Pendulum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+phase-transition": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Phase Transition = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+physics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Physics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+piezoelectricity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Piezoelectricity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+pill": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Pill = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+plasma": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Plasma = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+plasma-state": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Plasma State = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+point": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + point = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+polarization": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Polarization = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+pollution": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Pollution = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+polymer": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Polymer = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+prophecy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Prophecy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+prosthetic": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Prosthetic = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+proton": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Proton = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+psychology": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Psychology = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+quantum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Quantum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+radiation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Radiation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+radioactivity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Radioactivity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+rebirth": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Rebirth = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+recycling": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Recycling = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+refraction": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Refraction = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+relativity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Relativity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+renewable-energy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Renewable Energy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+resonance": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Resonance = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+rocket-science": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Rocket Science = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+science": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + science = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+shape": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + shape = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+sharpness": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Sharpness = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+skeleton": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Skeleton = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+smog": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Smog = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+sociology": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Sociology = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+solvent": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Solvent = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+spectrum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Spectrum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+speed": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Speed = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+static": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Static = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+statistics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Statistics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+stethoscope": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Stethoscope = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+sublimation": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Sublimation = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+superconductor": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Superconductor = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+supercooling": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Supercooling = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+surface-tension": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Surface Tension = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+surgery": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Surgery = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+sustainability": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Sustainability = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+syringe": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Syringe = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+therapy": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Therapy = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+thermocline": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Thermocline = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+thermodynamics": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Thermodynamics = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+time": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + time = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+torque": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Torque = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+toxicity": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Toxicity = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+transparency": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Transparency = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+turbulence": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Turbulence = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+vaccine": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Vaccine = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
+  },
+  "biology+vacuum": {
+    "result": "failed-experiment",
+    "reasoning": "Biology + Vacuum = a Failed Experiment. Science is 99% failure and 1% 'wait, what?'"
   }
 }

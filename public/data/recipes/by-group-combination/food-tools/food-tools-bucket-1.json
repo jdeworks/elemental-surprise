@@ -1,26 +1,882 @@
 {
-  "car+farm": {
-    "result": "tractor",
-    "reasoning": "Combining Car with farm makes delicious Tractor"
+  "aioli+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "farm+wheel": {
-    "result": "tractor",
-    "reasoning": "farm and Wheel accidentally host a crossover episode; Tractor steals the finale."
+  "aioli+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "food+machine": {
-    "result": "recycling",
-    "reasoning": "food tags in with machine, and somehow the universe speedruns Recycling."
+  "aioli+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "food+tool": {
-    "result": "nutrition",
-    "reasoning": "When food and tool collide, logic takes a coffee break and Nutrition appears anyway."
+  "aioli+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "gear+milk": {
+  "aioli+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "alcohol+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "astronaut-food+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bagel+brazier": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+forge-bellows": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+smelting": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bagel+welding": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "baklava+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "baklava+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+bow": {
+    "result": "armory",
+    "reasoning": "A Barn storing Bow — an Armory."
+  },
+  "barn+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+crossbow": {
+    "result": "armory",
+    "reasoning": "A Barn storing Crossbow — an Armory."
+  },
+  "barn+dagger": {
+    "result": "armory",
+    "reasoning": "A Barn storing Dagger — an Armory."
+  },
+  "barn+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+gun": {
+    "result": "armory",
+    "reasoning": "A Barn storing gun — an Armory."
+  },
+  "barn+mace": {
+    "result": "armory",
+    "reasoning": "A Barn storing Mace — an Armory."
+  },
+  "barn+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+spear": {
+    "result": "armory",
+    "reasoning": "A Barn storing Spear — an Armory."
+  },
+  "barn+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "barn+sword": {
+    "result": "armory",
+    "reasoning": "A Barn storing Sword — an Armory."
+  },
+  "barn+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "batter+brazier": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+forge-bellows": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+smelting": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+spring": {
+    "result": "crepe",
+    "reasoning": "Thinning batter with water creates delicate Crepe batter"
+  },
+  "batter+welding": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "beer+brazier": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+forge-bellows": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+smelting": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "beer+welding": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "biscuit+brazier": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+smelting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+spring": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "biscuit+welding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+bread": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "brazier+brewing": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+brioche": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+broth": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "brazier+bruschetta": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+burrito": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+butter": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "brazier+cake": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "brazier+candy": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "brazier+caramel": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "brazier+caviar": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+ceviche": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cheese": {
+    "result": "fondue",
+    "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
+  },
+  "brazier+chili": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+chocolate": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "brazier+chutney": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cider": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "brazier+clam-chowder": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cobbler": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+coca-cola": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+coconut": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+coffee": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "brazier+cookbook": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cookie": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "brazier+corn": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "brazier+cornbread": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+couscous": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cracker": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+cream": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "brazier+crepe": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+croissant": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "brazier+curry": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "brazier+custard": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+dim-sum": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+dough": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "brazier+dumpling": {
+    "result": "dim-sum",
+    "reasoning": "Steamed dumplings become Dim Sum, Cantonese breakfast tradition"
+  },
+  "brazier+egg-food": {
+    "result": "omelette",
+    "reasoning": "Heat transforms eggs into an Omelette, the French cook's test"
+  },
+  "brazier+eggnog": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+espresso": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+falafel": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+farm": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+fermenting": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+fishing": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+flan": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+flour": {
+    "result": "bread",
+    "reasoning": "Flour in a hot oven with yeast becomes risen Bread"
+  },
+  "brazier+focaccia": {
+    "result": "toast",
+    "reasoning": "Toasted focaccia with olive oil is crispy Italian Toast"
+  },
+  "brazier+fondue": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+food": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+food-coma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+foraging": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+garden": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+garlic": {
+    "result": "cooking",
+    "reasoning": "Roasted garlic becomes sweet and spreadable, a Cooking flavor bomb"
+  },
+  "brazier+gelatin": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+ginger": {
+    "result": "cooking",
+    "reasoning": "Cooking ginger mellows its bite, essential in Asian stir-fries"
+  },
+  "brazier+goulash": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+granola": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+gravy": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+greenhouse": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+gruel": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+guacamole": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+gumbo": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+gyoza": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+hamburger": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+harvest": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+hummus": {
+    "result": "falafel",
+    "reasoning": "Heated chickpea mixture is shaped and fried into Falafel"
+  },
+  "brazier+ice-cream": {
     "result": "cream",
-    "reasoning": "Someone mixed Gear with milk for science. The peer-reviewed conclusion: Cream."
+    "reasoning": "Heated ice cream melts back into sweetened Cream"
   },
-  "machine+milk": {
+  "brazier+irrigation": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+jam": {
+    "result": "cooking",
+    "reasoning": "Cooking fruit with sugar makes jam, preserved summer in a jar"
+  },
+  "brazier+jerky": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+juice": {
+    "result": "jam",
+    "reasoning": "Boiling juice with sugar concentrates it into Jam"
+  },
+  "brazier+kebab": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+kimchi": {
+    "result": "stew",
+    "reasoning": "Kimchi jjigae, fermented kimchi becomes a bubbling spicy Stew"
+  },
+  "brazier+kombucha": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+lasagna": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+lawn": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+lemonade": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+macaroni": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mango": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+maple-syrup": {
+    "result": "caramel",
+    "reasoning": "Boiling maple syrup further concentrates it into maple Caramel"
+  },
+  "brazier+marmalade": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+matcha": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mcdonalds": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mead": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+meat": {
+    "result": "steak",
+    "reasoning": "Searing meat over high heat creates a Steak with perfect crust"
+  },
+  "brazier+meringue": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mezcal": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+milk": {
     "result": "cream",
-    "reasoning": "Combining machine with milk makes delicious Cream"
+    "reasoning": "Heating milk causes it to reduce and thicken into rich Cream"
+  },
+  "brazier+miso": {
+    "result": "soup",
+    "reasoning": "Hot water transforms miso paste into Soup at every Japanese meal"
+  },
+  "brazier+mochi": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mousse": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+muffin": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mushroom-soup": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mystery-casserole": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+mystery-meat": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+naan": {
+    "result": "bread",
+    "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
+  },
+  "brazier+nacho": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+noodle": {
+    "result": "ramen",
+    "reasoning": "Noodles cooked in hot broth become Ramen, Japan's comfort food"
+  },
+  "brazier+okra": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+olive": {
+    "result": "olive-oil",
+    "reasoning": "Pressing heated olives yields Olive Oil, Mediterranean liquid gold"
+  },
+  "brazier+olive-oil": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+omelette": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+onion": {
+    "result": "cooking",
+    "reasoning": "Caramelized onions are slow-Cooked until sweet and golden"
+  },
+  "brazier+paella": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pancake": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+papaya": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pasta": {
+    "result": "spaghetti",
+    "reasoning": "Boiling pasta al dente is the Italian art of perfect Spaghetti"
+  },
+  "brazier+peanut-butter": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pecan-pie": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pepper": {
+    "result": "roast",
+    "reasoning": "Roasted peppers are smoky, sweet, and silky, perfect Roast veggies"
+  },
+  "brazier+pesto": {
+    "result": "cooking",
+    "reasoning": "Warm pesto tossed with hot pasta releases its basil Cooking fragrance"
+  },
+  "brazier+pho": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pickle": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pie": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pierogi": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pizza": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+plow": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+popcorn": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+porridge": {
+    "result": "toast",
+    "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
+  },
+  "brazier+potato": {
+    "result": "roast",
+    "reasoning": "Roast potatoes, crispy outside, fluffy inside, the perfect Roast"
+  },
+  "brazier+potluck": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pretzel": {
+    "result": "toast",
+    "reasoning": "Warm pretzels fresh from the oven become soft salty Toast"
+  },
+  "brazier+prosciutto": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+pudding": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+quiche": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+ramen": {
+    "result": "cooking",
+    "reasoning": "Ramen broth simmers for 12-24 hours, time and heat Cooking mastery"
+  },
+  "brazier+ravioli": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+relish": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+rice": {
+    "result": "cooking",
+    "reasoning": "Steamed rice, heat and water transform hard grains into fluffy perfection"
+  },
+  "brazier+risotto": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+roast": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+rum": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+sake": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+salad": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+salsa": {
+    "result": "cooking",
+    "reasoning": "Roasted salsa (salsa roja) has a deeper, smokier Cooking flavor"
+  },
+  "brazier+salt": {
+    "result": "cooking",
+    "reasoning": "Salt enhances every heated dish, the most essential Cooking seasoning"
+  },
+  "brazier+sandwich": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+sausage": {
+    "result": "roast",
+    "reasoning": "Roasted sausages sizzle and split, a hearty Roast"
+  },
+  "brazier+scallop": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+scone": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+silo": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+smoothie": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+sorbet": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+souffle": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+soup": {
+    "result": "stew",
+    "reasoning": "Simmering soup for hours thickens it into hearty Stew"
+  },
+  "brazier+sourdough": {
+    "result": "toast",
+    "reasoning": "Sourdough Toast is tangy bread crisped to perfection"
+  },
+  "brazier+soy-sauce": {
+    "result": "cooking",
+    "reasoning": "Heated soy sauce in a wok creates smoky breath of the dragon"
+  },
+  "brazier+spaghetti": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+spice": {
+    "result": "curry",
+    "reasoning": "Toasting spices in oil blooms their essential oils, the start of Curry"
+  },
+  "brazier+starbucks": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+steak": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+stew": {
+    "result": "roast",
+    "reasoning": "Long slow heat transforms stew into a caramelized Roast"
+  },
+  "brazier+stomach-ache": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+sugar": {
+    "result": "caramel",
+    "reasoning": "Heat transforms white sugar into golden Caramel at 170 degrees C"
+  },
+  "brazier+sushi": {
+    "result": "tempura",
+    "reasoning": "Heat transforms raw sushi ingredients into crispy Tempura"
+  },
+  "brazier+taco": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+taffy": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+tea": {
+    "result": "brewing",
+    "reasoning": "Hot water extracts flavor from tea leaves, the art of Brewing"
+  },
+  "brazier+tempura": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+tiramisu": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+toast": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+tofu": {
+    "result": "stew",
+    "reasoning": "Fried tofu develops a crispy skin in Stew, a protein chameleon"
+  },
+  "brazier+tomato": {
+    "result": "soup",
+    "reasoning": "Roasted tomatoes blend into rich Soup, comfort in a bowl"
+  },
+  "brazier+tortilla": {
+    "result": "taco",
+    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
+  },
+  "brazier+tractor": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+truffle": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+tzatziki": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+vinaigrette": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brazier+vindaloo": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   }
 }

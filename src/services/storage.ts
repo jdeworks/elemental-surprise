@@ -37,9 +37,17 @@ function deobfuscate(data: string): string {
   return atob(xored);
 }
 
+/** Max save size before we trim discoveredRecipes (keep well under 5MB localStorage limit). */
+const MAX_SAVE_SIZE = 3 * 1024 * 1024; // 3MB
+
 export function saveGame(data: GameData): void {
   try {
-    const json = JSON.stringify(data);
+    let json = JSON.stringify(data);
+    // If save is too large, trim discoveredRecipes (largest array, reconstructible by replaying)
+    if (json.length > MAX_SAVE_SIZE && data.discoveredRecipes.length > 1000) {
+      const trimmed = { ...data, discoveredRecipes: data.discoveredRecipes.slice(-1000) };
+      json = JSON.stringify(trimmed);
+    }
     const obfuscated = obfuscate(json);
     localStorage.setItem(STORAGE_KEY, obfuscated);
   } catch (e) {

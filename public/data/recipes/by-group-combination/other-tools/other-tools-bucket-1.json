@@ -1,10 +1,882 @@
 {
-  "engine+fuel": {
-    "result": "rocket",
-    "reasoning": "Fuel-powered engine thrusting upward — a rocket"
+  "axe+cloth": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "engine+track": {
-    "result": "train",
-    "reasoning": "Crafting Engine with track produces Train"
+  "building+crossbow": {
+    "result": "armory",
+    "reasoning": "A building storing Crossbow — an Armory."
+  },
+  "building+dagger": {
+    "result": "armory",
+    "reasoning": "A building storing Dagger — an Armory."
+  },
+  "building+gun": {
+    "result": "armory",
+    "reasoning": "A building storing gun — an Armory."
+  },
+  "building+mace": {
+    "result": "armory",
+    "reasoning": "A building storing Mace — an Armory."
+  },
+  "building+ship": {
+    "result": "shipyard",
+    "reasoning": "Combine Building with Ship to create Shipyard."
+  },
+  "building+spear": {
+    "result": "armory",
+    "reasoning": "A building storing Spear — an Armory."
+  },
+  "building+sword": {
+    "result": "armory",
+    "reasoning": "A building storing Sword — an Armory."
+  },
+  "building+tool": {
+    "result": "workshop",
+    "reasoning": "A building full of tools is a Workshop"
+  },
+  "chemical-reaction+chisel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Chisel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+clamp": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Clamp = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+crossbow": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Crossbow = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+crowbar": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Crowbar = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+crucible": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Crucible = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+cylinder": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + cylinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+dagger": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Dagger = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+drawknife": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Drawknife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+drill": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Drill = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+dyeing": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Dyeing = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+dynamometer": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Dynamometer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+engine": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Engine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+eraser": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Eraser = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+forge-bellows": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Forge Bellows = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+forging": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Forging = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+funnel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Funnel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+garden-shed": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Garden Shed = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+gear": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Gear = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+gears": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Gears = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+generator": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Generator = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+gimbal": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Gimbal = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+gondola": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Gondola = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+grappling-hook": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Grappling Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+grinder": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Grinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+grinding": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Grinding = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+gun": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + gun = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hammer": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hammer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hand-saw": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hand Saw = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+helicopter": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Helicopter = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+helmet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Helmet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+highway": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Highway = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hoe": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hoe = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hook": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hot-air-balloon": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hot Air Balloon = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+hunting": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Hunting = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+invention": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + invention = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+jack": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Jack = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+junk-drawer": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Junk Drawer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+kettle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Kettle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+key": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + key = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+kitchen-gadget": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Kitchen Gadget = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+knife": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Knife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+knitting": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Knitting = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+ladle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Ladle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+lantern": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Lantern = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+level": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Level = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+lever": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Lever = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+lock": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Lock = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+loom": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Loom = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mace": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mace = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+machine": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + machine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+magnifying-glass": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Magnifying Glass = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mallet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mallet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+manacle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Manacle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mechanical": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mechanical = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mining": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mining = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mortar-and-pestle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mortar and Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+motor": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Motor = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+motorcycle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Motorcycle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+mousetrap": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Mousetrap = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+needle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Needle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+notebook": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Notebook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+oar": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Oar = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+padlock": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Padlock = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pen": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pen = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pencil": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pencil = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pestle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pick": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pick = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+piston": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Piston = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+plane": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Plane = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pliers": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pliers = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+plough": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Plough = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+plumb-bob": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Plumb Bob = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+power-tool": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Power Tool = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+protractor": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Protractor = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pulley": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pulley = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+pump": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Pump = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+purse": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Purse = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+quill": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Quill = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+quiver": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Quiver = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+raft": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Raft = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+railway": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Railway = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+rake": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Rake = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+ratchet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Ratchet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+rivet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Rivet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+road": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Road = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+rocket": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Rocket = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+ruler": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Ruler = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sailboat": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sailboat = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+satellite": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Satellite = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+saw": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Saw = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+scale": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Scale = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+scalpel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Scalpel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+scissors": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Scissors = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+screw": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Screw = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sextant": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sextant = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+ship": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + ship = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+shovel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Shovel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sickle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sickle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sieve": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sieve = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sled": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sled = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sledgehammer": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sledgehammer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+smelting": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Smelting = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+snorkel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Snorkel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+socket-wrench": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Socket Wrench = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+soldering-iron": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Soldering Iron = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+spear": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Spear = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+spindle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Spindle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+spring": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Spring = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+spyglass": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Spyglass = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+stapler": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Stapler = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+stencil": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Stencil = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+submarine": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Submarine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+subway": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Subway = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+suitcase": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Suitcase = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sundial": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sundial = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+swiss-army-knife": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Swiss Army Knife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+sword": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Sword = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+tanning": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Tanning = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+taxi": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Taxi = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+thermometer": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Thermometer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+tongs": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Tongs = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+tool": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + tool = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+traffic": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Traffic = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+train": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Train = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+trap": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Trap = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+trebuchet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Trebuchet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+tripod": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Tripod = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+trowel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Trowel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+truck": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Truck = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+turbine": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Turbine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+valve": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Valve = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+vise": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Vise = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wagon": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Wagon = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wallet": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Wallet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+weaving": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Weaving = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+weight": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + weight = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+welding": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Welding = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wheel": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Wheel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wheelbarrow": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Wheelbarrow = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+whetstone": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Whetstone = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+winch": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Winch = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wing": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + wing = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chemical-reaction+wrench": {
+    "result": "swiss-army-knife",
+    "reasoning": "Chemical reaction + Wrench = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+chisel": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Chisel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+clamp": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Clamp = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+crossbow": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Crossbow = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+crowbar": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Crowbar = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+crucible": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Crucible = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+cylinder": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + cylinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+dagger": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Dagger = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+drawknife": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Drawknife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+drill": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Drill = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+dyeing": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Dyeing = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+dynamometer": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Dynamometer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+engine": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Engine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+eraser": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Eraser = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+forge-bellows": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Forge Bellows = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+forging": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Forging = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+funnel": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Funnel = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+garden-shed": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Garden Shed = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+gear": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Gear = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+gears": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Gears = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+generator": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Generator = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+gimbal": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Gimbal = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+gondola": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Gondola = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+grappling-hook": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Grappling Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+grinder": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Grinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+grinding": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Grinding = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+gun": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + gun = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hammer": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hammer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hand-saw": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hand Saw = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+helicopter": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Helicopter = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+helmet": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Helmet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+highway": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Highway = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hoe": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hoe = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hook": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hot-air-balloon": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hot Air Balloon = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+hunting": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Hunting = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+invention": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + invention = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+jack": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Jack = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+junk-drawer": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Junk Drawer = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+kettle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Kettle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+key": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + key = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+kitchen-gadget": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Kitchen Gadget = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+knife": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Knife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+knitting": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Knitting = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+ladle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Ladle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+lantern": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Lantern = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+level": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Level = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+lever": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Lever = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+lock": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Lock = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+loom": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Loom = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mace": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mace = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+machine": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + machine = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+magnifying-glass": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Magnifying Glass = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mallet": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mallet = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+manacle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Manacle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mechanical": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mechanical = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mining": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mining = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mortar-and-pestle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mortar and Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+motor": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Motor = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+motorcycle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Motorcycle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+mousetrap": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Mousetrap = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+needle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Needle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+notebook": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Notebook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+oar": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Oar = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+padlock": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Padlock = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+pen": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Pen = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+pencil": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Pencil = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "chip+pestle": {
+    "result": "swiss-army-knife",
+    "reasoning": "chip + Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
   }
 }

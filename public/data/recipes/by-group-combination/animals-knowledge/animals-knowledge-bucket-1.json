@@ -1,46 +1,882 @@
 {
-  "animal+book": {
-    "result": "autobiography",
-    "reasoning": "animal meets book, chaos files a memo, and Autobiography walks out with the trophy."
+  "albatross+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "animal+code": {
-    "result": "hacker",
-    "reasoning": "animal plus Code is the weird recipe your alchemist friend swears by for making Hacker."
+  "alpaca+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "animal+experiment": {
-    "result": "zoology",
-    "reasoning": "animal and Experiment shake hands, reality shrugs, and Zoology is suddenly canon."
+  "anemone+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "animal+knowledge": {
-    "result": "scientist",
-    "reasoning": "animal and knowledge accidentally host a crossover episode; Scientist steals the finale."
+  "anglerfish+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "animal+newspaper": {
-    "result": "journalist",
-    "reasoning": "Someone mixed animal with Newspaper for science. The peer-reviewed conclusion: Journalist."
+  "animal-kingdom+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "animal+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
   "animal+story": {
     "result": "fable",
     "reasoning": "animal combined with Story leads to Fable"
   },
-  "animal+truth": {
-    "result": "trust",
-    "reasoning": "animal teams up with Truth; the side quest reward is Trust."
+  "ant+library": {
+    "result": "farm",
+    "reasoning": "Ant Farms let people observe colony life, glass-walled civilizations"
   },
-  "code+snake": {
-    "result": "python",
-    "reasoning": "Applying Code to Snake produces Python"
+  "anteater+anthology": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Anthology = a Field Guide. 'If it's colorful, don't touch it.'"
   },
-  "horse+word": {
-    "result": "mail",
-    "reasoning": "Horse and Word accidentally host a crossover episode; Mail steals the finale."
+  "anteater+aphorism": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Aphorism = a Field Guide. 'If it's colorful, don't touch it.'"
   },
-  "language+snake": {
-    "result": "python",
-    "reasoning": "Language and Snake shake hands, reality shrugs, and Python is suddenly canon."
+  "anteater+archetype": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Archetype = a Field Guide. 'If it's colorful, don't touch it.'"
   },
-  "logic+snake": {
-    "result": "python",
-    "reasoning": "Someone mixed Logic with Snake for science. The peer-reviewed conclusion: Python."
+  "anteater+autobiography": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Autobiography = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+axiom": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Axiom = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+biography": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Biography = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+blueprint": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Blueprint = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+book": {
+    "result": "field-guide",
+    "reasoning": "Anteater + book = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+braille": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Braille = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+calendar": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Calendar = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+chaos-theory": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Chaos Theory = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+cipher": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Cipher = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+code": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Code = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+cognitive-bias": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Cognitive Bias = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+comedy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Comedy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+conjecture": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Conjecture = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+consequence": {
+    "result": "field-guide",
+    "reasoning": "Anteater + consequence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+contract": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Contract = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+contradiction": {
+    "result": "field-guide",
+    "reasoning": "Anteater + contradiction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+cosmic-mystery": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Cosmic Mystery = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+cryptography": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Cryptography = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+debate": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Debate = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+deduction": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Deduction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+determinism": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Determinism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+diagram": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Diagram = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+dialectic": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Dialectic = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+diary": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Diary = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+discovery": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Discovery = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+document": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Document = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+drama": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Drama = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+education": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Education = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+emoji": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Emoji = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+empiricism": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Empiricism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+encyclopedia": {
+    "result": "field-guide",
+    "reasoning": "Anteater + encyclopedia = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+epistemology": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Epistemology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+ethics": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Ethics = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+etymology": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Etymology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+existence": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Existence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+experiment": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Experiment = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+fable": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Fable = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+fake-news": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Fake News = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+fallacy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Fallacy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+fibonacci": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Fibonacci = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+field-guide": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Field Guide = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+field-research": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Field Research = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+game-theory": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Game Theory = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+gestalt": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Gestalt = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+heisenberg-principle": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Heisenberg Principle = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+hieroglyph": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Hieroglyph = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+hypothesis": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Hypothesis = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+induction": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Induction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+information-overload": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Information Overload = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+instruction-manual": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Instruction Manual = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+irony": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Irony = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+joke": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Joke = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+journal": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Journal = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+jurisprudence": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Jurisprudence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+karma": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Karma = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+knowledge": {
+    "result": "field-guide",
+    "reasoning": "Anteater + knowledge = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+koan": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Koan = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+language": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Language = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+learning": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Learning = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+legend": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Legend = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+letter": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Letter = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "anteater+linguistics": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Linguistics = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+logarithm": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Logarithm = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+logic": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Logic = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+magazine": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Magazine = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+map": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Map = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+matrix": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Matrix = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+metaphor": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Metaphor = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+mnemonic": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Mnemonic = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+museum": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Museum = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+mystery": {
+    "result": "field-guide",
+    "reasoning": "Anteater + mystery = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+myth": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Myth = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+newspaper": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Newspaper = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+novel": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Novel = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+number": {
+    "result": "field-guide",
+    "reasoning": "Anteater + number = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+ontology": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Ontology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+paradigm": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Paradigm = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+paradox": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Paradox = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+patent": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Patent = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+pedagogy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Pedagogy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+peer-review": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Peer Review = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+periodic-table": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Periodic Table = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+philosophy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Philosophy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+photograph": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Photograph = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+placebo": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Placebo = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+poem": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Poem = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+postulate": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Postulate = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+proverb": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Proverb = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+question": {
+    "result": "field-guide",
+    "reasoning": "Anteater + question = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+reality": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Reality = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+reason": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Reason = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+renaissance": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Renaissance = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+research": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Research = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+research-paper": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Research Paper = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+rhetoric": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Rhetoric = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+riddle": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Riddle = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+school": {
+    "result": "field-guide",
+    "reasoning": "Anteater + school = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+schrodinger-cat": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Schrodinger Cat = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+scrapbook": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Scrapbook = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+script": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Script = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+scroll": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Scroll = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+secret": {
+    "result": "field-guide",
+    "reasoning": "Anteater + secret = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+sign": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Sign = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+simulation": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Simulation = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+socratic-method": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Socratic Method = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+stoicism": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Stoicism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+story": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Story = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+syllogism": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Syllogism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+symbol": {
+    "result": "field-guide",
+    "reasoning": "Anteater + symbol = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+synesthesia": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Synesthesia = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+tautology": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Tautology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+taxonomy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Taxonomy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+text": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Text = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+textbook": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Textbook = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+theorem": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Theorem = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+theory": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Theory = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+theory-of-relativity": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Theory of Relativity = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+thought-experiment": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Thought Experiment = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+tragedy": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Tragedy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+trivia": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Trivia = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+truth": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Truth = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+turing-test": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Turing Test = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+university": {
+    "result": "field-guide",
+    "reasoning": "Anteater + University = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+useless-fact": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Useless Fact = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+utopia": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Utopia = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+word": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Word = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+writing": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Writing = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+zeitgeist": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Zeitgeist = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "anteater+zen": {
+    "result": "field-guide",
+    "reasoning": "Anteater + Zen = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "antelope+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "armadillo+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "axolotl+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "baboon+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "badger+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "barnacle+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "barracuda+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "basilisk-lizard+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "bat+library": {
+    "result": "zoo",
+    "reasoning": "Nocturnal bat houses in Zoos let visitors experience the world upside-down"
+  },
+  "bear+library": {
+    "result": "zoo",
+    "reasoning": "Bear Zoo enclosures give these powerful animals space to roam"
+  },
+  "beaver+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "bee+library": {
+    "result": "farm",
+    "reasoning": "Bee Farms (apiaries) produce honey and pollinate surrounding crops"
+  },
+  "bird+library": {
+    "result": "house",
+    "reasoning": "Birdhouses provide nesting sites, backyard bird conservation"
+  },
+  "bison+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "blue-whale+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "boa-constrictor+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "boar+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "buffalo+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "bumblebee+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "butterfly+game-theory": {
+    "result": "chaos-theory",
+    "reasoning": "Combine Butterfly with Game Theory to create Chaos Theory."
+  },
+  "butterfly+library": {
+    "result": "greenhouse",
+    "reasoning": "Butterfly Greenhouses are glass-enclosed gardens where visitors walk among wings"
+  },
+  "butterfly+theory": {
+    "result": "chaos-theory",
+    "reasoning": "Combine Butterfly with Theory to create Chaos Theory."
+  },
+  "butterfly+theory-of-relativity": {
+    "result": "chaos-theory",
+    "reasoning": "Combine Butterfly with Theory Of Relativity to create Chaos Theory."
+  },
+  "camel+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "capybara+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "cardinal+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "caribou+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "cat+library": {
+    "result": "house",
+    "reasoning": "Cats rule the House, humans just pay the mortgage"
+  },
+  "caterpillar+library": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "chameleon+chaos-theory": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Chaos Theory = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+cipher": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Cipher = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+code": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Code = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+cognitive-bias": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Cognitive Bias = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+comedy": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Comedy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+conjecture": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Conjecture = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+consequence": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + consequence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+contract": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Contract = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+contradiction": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + contradiction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+cosmic-mystery": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Cosmic Mystery = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+cryptography": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Cryptography = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+debate": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Debate = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+deduction": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Deduction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+determinism": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Determinism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+diagram": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Diagram = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+dialectic": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Dialectic = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+diary": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Diary = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+discovery": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Discovery = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+document": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Document = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+drama": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Drama = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+education": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Education = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+emoji": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Emoji = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+empiricism": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Empiricism = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+encyclopedia": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + encyclopedia = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+epistemology": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Epistemology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+ethics": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Ethics = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+etymology": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Etymology = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+existence": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Existence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+experiment": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Experiment = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+fable": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Fable = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+fake-news": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Fake News = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+fallacy": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Fallacy = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+fibonacci": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Fibonacci = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+field-guide": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Field Guide = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+field-research": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Field Research = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+game-theory": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Game Theory = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+gestalt": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Gestalt = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+heisenberg-principle": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Heisenberg Principle = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+hieroglyph": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Hieroglyph = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+hypothesis": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Hypothesis = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+induction": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Induction = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+information-overload": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Information Overload = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+instruction-manual": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Instruction Manual = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+irony": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Irony = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+joke": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Joke = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+journal": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Journal = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+jurisprudence": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Jurisprudence = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+karma": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Karma = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+knowledge": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + knowledge = a Field Guide. 'If it's colorful, don't touch it.'"
+  },
+  "chameleon+koan": {
+    "result": "field-guide",
+    "reasoning": "Chameleon + Koan = a Field Guide. 'If it's colorful, don't touch it.'"
   }
 }

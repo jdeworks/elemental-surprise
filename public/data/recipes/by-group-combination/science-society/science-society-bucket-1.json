@@ -1,54 +1,882 @@
 {
-  "city+time": {
-    "result": "climate-change",
-    "reasoning": "When city and time collide, logic takes a coffee break and Climate Change appears anyway."
+  "bandage+farmer": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
   },
-  "clock+empire": {
-    "result": "big-ben",
-    "reasoning": "When Clock and Empire collide, logic takes a coffee break and Big Ben appears anyway."
+  "bell-tower+clock": {
+    "result": "clock-tower",
+    "reasoning": "Combine Bell Tower with Clock to create Clock Tower."
+  },
+  "bell-tower+food-science": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Food Science — a Library."
+  },
+  "bell-tower+rocket-science": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Rocket Science — a Library."
+  },
+  "bell-tower+science": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with science — a Library."
+  },
+  "biology+blacksmith-shop": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Blacksmith Shop = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+boardroom": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Boardroom = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+bootlegger": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Bootlegger = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+brand": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Brand = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+brazil": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Brazil = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+brewery": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Brewery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+bunker": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Bunker = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+bureaucracy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Bureaucracy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+canada": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Canada = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+canal": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Canal = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+cannery": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Cannery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+capital": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Capital = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+captain": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Captain = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+caravan": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Caravan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+carnival": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + carnival = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+cathedral": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Cathedral = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+celebration": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Celebration = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+centurion": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Centurion = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+ceo": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + CEO = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+chapel": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Chapel = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+chef": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Chef = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+china": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + China = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+choice": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + choice = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+citadel": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Citadel = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+city": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + city = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+civilization": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Civilization = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+clock-tower": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Clock Tower = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+coin": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Coin = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+colony": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Colony = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+colosseum": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Colosseum = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+community": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Community = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+company": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + company = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+conquistador": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Conquistador = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+construction-site": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Construction Site = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+consul": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Consul = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+consulate": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Consulate = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+corporation": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Corporation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+court": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Court = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+courthouse": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Courthouse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+courtyard": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Courtyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+credit-card": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Credit Card = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+crusader": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Crusader = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+crypt": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Crypt = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+culture": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Culture = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+customs": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Customs = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+czar": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Czar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+debt": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Debt = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+degree": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Degree = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+democracy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Democracy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+designer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Designer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+developer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Developer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+diplomacy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Diplomacy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+director": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Director = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+doctor": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Doctor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+drawbridge": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Drawbridge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+egypt": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Egypt = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+eiffel-tower": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Eiffel Tower = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+embassy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Embassy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+empire": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Empire = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+engineer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Engineer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+europe": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + europe = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+exam": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Exam = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+farmer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Farmer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+festival": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Festival = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+feudalism": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Feudalism = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+flag": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Flag = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+forge": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Forge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+foundry": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Foundry = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+france": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + France = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+freedom": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + freedom = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+garrison": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Garrison = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+gatehouse": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Gatehouse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+germany": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Germany = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+gladiator": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Gladiator = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+government": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + government = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+grammy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Grammy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+granary": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Granary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+grand-canyon": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Grand Canyon = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+great-barrier-reef": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Great Barrier Reef = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+great-wall": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Great Wall = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+guild": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Guild = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+harbor": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Harbor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+homework": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Homework = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+india": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + India = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+industrial-revolution": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Industrial Revolution = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+infirmary": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Infirmary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+infrastructure": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Infrastructure = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+inn": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Inn = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+inquisition": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Inquisition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+insurance": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Insurance = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+investment": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Investment = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+italy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Italy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+japan": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Japan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+journalist": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Journalist = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+judge": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Judge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+jury": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Jury = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+justice": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Justice = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+kaiser": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Kaiser = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+keep": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Keep = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+korea": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Korea = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+law": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + law = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+lawyer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Lawyer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+legionnaire": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Legionnaire = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+loan": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Loan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+machu-picchu": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Machu Picchu = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+magna-carta": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Magna Carta = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+market": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Market = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+marketing": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Marketing = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+media": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + media = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+mexico": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Mexico = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+mint": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Mint = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+moat": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Moat = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+monarchy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Monarchy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+monastery": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Monastery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+money": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + money = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+mortuary": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Mortuary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+mount-everest": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Mount Everest = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+musician": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Musician = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+musketeer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Musketeer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+nation": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Nation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+niagara-falls": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Niagara Falls = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+nobel-prize": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Nobel Prize = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+nurse": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Nurse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+obelisk": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Obelisk = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+olympic-games": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Olympic Games = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+orphanage": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Orphanage = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+oscar": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Oscar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+ottoman": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Ottoman = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+outpost": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Outpost = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pagoda": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pagoda = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+palace": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Palace = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+parliament": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Parliament = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+peace": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Peace = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pest-control": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pest Control = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pharaoh": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + pharaoh = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+philosopher": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Philosopher = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pier": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pier = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pilot": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pilot = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pirate-captain": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pirate Captain = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+plantation": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Plantation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+police": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Police = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+poverty": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Poverty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+professor": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Professor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+profit": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Profit = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+programmer": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Programmer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+prohibition": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Prohibition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+public-holiday": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Public Holiday = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+pyramids-of-giza": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Pyramids of Giza = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+quarry": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Quarry = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+red-tape": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Red Tape = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+reformation": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Reformation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+republic": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Republic = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+reservoir": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Reservoir = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+revolution": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Revolution = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+ritual": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Ritual = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+russia": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Russia = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+sawmill": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Sawmill = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+scientist": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Scientist = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+shipyard": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Shipyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+shogun": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Shogun = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+siege": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Siege = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+silk-road": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Silk Road = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+smart-city": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Smart City = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+smithy": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Smithy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+society": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + society = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+space-race": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Space Race = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+spartan": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Spartan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+stable": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Stable = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+startup": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Startup = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+statue-of-liberty": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Statue of Liberty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+stock": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Stock = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+stockade": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Stockade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+stonehenge": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Stonehenge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+student": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Student = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+sweden": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Sweden = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+switzerland": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Switzerland = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+taj-mahal": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Taj Mahal = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+tannery": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Tannery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+tavern": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Tavern = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+tax": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Tax = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+teacher": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Teacher = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+templar": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Templar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+toll-booth": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Toll Booth = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+town": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Town = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+trade": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + trade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+tradition": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Tradition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+treasury": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Treasury = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+treaty": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Treaty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+tribune": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Tribune = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+trojan-horse": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Trojan Horse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+turret": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Turret = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+uk": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + UK = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+usa": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + USA = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+viking": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Viking = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+village": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Village = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+vineyard": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Vineyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+vote": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + vote = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+war": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + War = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+watchtower": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Watchtower = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+wealth": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Wealth = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+windmill": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Windmill = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+workshop": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + Workshop = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "biology+world-cup": {
+    "result": "peer-pressure",
+    "reasoning": "Biology + World Cup = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "cathedral+food-science": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Food Science — a Library."
+  },
+  "cathedral+rocket-science": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Rocket Science — a Library."
+  },
+  "cathedral+science": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with science — a Library."
+  },
+  "centrifuge+farmer": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "change+inquisition": {
+    "result": "reformation",
+    "reasoning": "Combine Change with Inquisition to create Reformation."
+  },
+  "clock-tower+food-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+rocket-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
   },
   "clock+uk": {
     "result": "big-ben",
     "reasoning": "Clock and UK together shape Big Ben"
   },
-  "culture+time": {
-    "result": "tradition",
-    "reasoning": "Culture and time together shape Tradition"
+  "compass+farmer": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
   },
-  "future+money": {
-    "result": "investment",
-    "reasoning": "Future and money together shape Investment"
+  "convection+great-barrier-reef": {
+    "result": "insulation",
+    "reasoning": "Combine Great Barrier Reef with Convection to create Insulation."
   },
-  "money+science": {
-    "result": "economics",
-    "reasoning": "money and science explain the phenomenon of Economics"
-  },
-  "money+time": {
-    "result": "debt",
-    "reasoning": "money and time together shape Debt"
-  },
-  "science+society": {
-    "result": "sociology",
-    "reasoning": "science and society explain the phenomenon of Sociology"
-  },
-  "science+student": {
-    "result": "degree",
-    "reasoning": "science tags in with Student, and somehow the universe speedruns Degree."
-  },
-  "science+teacher": {
-    "result": "professor",
-    "reasoning": "science teams up with Teacher; the side quest reward is Professor."
-  },
-  "science+trade": {
-    "result": "economics",
-    "reasoning": "Someone mixed science with trade for science. The peer-reviewed conclusion: Economics."
-  },
-  "time+trade": {
-    "result": "debt",
-    "reasoning": "Someone mixed time with trade for science. The peer-reviewed conclusion: Debt."
-  },
-  "time+uk": {
-    "result": "big-ben",
-    "reasoning": "time tags in with UK, and somehow the universe speedruns Big Ben."
+  "coulombs-law+law": {
+    "result": "scaling-law",
+    "reasoning": "Combine Law with Coulombs Law to create Scaling Law."
   }
 }

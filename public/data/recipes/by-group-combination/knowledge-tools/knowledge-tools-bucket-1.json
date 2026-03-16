@@ -1,19 +1,695 @@
 {
-  "axe+number": {
-    "result": "ruler",
-    "reasoning": "Axe plus number is the weird recipe your alchemist friend swears by for making Ruler."
+  "abacus+axiom": {
+    "result": "logarithm",
+    "reasoning": "Combine Axiom with Abacus to create Logarithm."
   },
-  "axe+writing": {
-    "result": "sign",
-    "reasoning": "Axe teams up with Writing; the side quest reward is Sign."
+  "abacus+conjecture": {
+    "result": "gradient-descent",
+    "reasoning": "Combine Abacus with Conjecture to create Gradient Descent."
   },
-  "book+tool": {
-    "result": "science",
-    "reasoning": "book teams up with tool; the side quest reward is science."
+  "abacus+game-theory": {
+    "result": "gradient-descent",
+    "reasoning": "Combine Abacus with Game Theory to create Gradient Descent."
   },
-  "code+gear": {
-    "result": "compiler",
-    "reasoning": "Code meets Gear, chaos files a memo, and Compiler walks out with the trophy."
+  "abacus+logarithm": {
+    "result": "gradient-descent",
+    "reasoning": "Combine Abacus with Logarithm to create Gradient Descent."
+  },
+  "abacus+truth": {
+    "result": "axiom",
+    "reasoning": "Combine Truth with Abacus to create Axiom."
+  },
+  "action+forging": {
+    "result": "instruction-manual",
+    "reasoning": "action + Forging = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "action+gondola": {
+    "result": "instruction-manual",
+    "reasoning": "action + Gondola = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "action+quill": {
+    "result": "instruction-manual",
+    "reasoning": "action + Quill = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "action+thermometer": {
+    "result": "instruction-manual",
+    "reasoning": "action + Thermometer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+block-and-tackle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Block and Tackle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+boat": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Boat = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+bolt": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Bolt = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+bow": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Bow = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+brace": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Brace = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+brazier": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Brazier = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+broom": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Broom = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+bucket": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Bucket = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+bus": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Bus = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+caliper": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Caliper = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+canoe": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Canoe = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+canteen": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Canteen = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+car": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Car = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+carabiner": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Carabiner = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+carriage": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Carriage = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+cart": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Cart = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+carving": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Carving = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+catapult": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Catapult = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+chainmail": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Chainmail = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+chariot": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Chariot = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+chisel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Chisel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+clamp": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Clamp = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+crossbow": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Crossbow = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+crowbar": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Crowbar = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+crucible": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Crucible = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+cylinder": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + cylinder = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+dagger": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Dagger = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+drawknife": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Drawknife = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+drill": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Drill = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+dyeing": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Dyeing = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+dynamometer": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Dynamometer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+engine": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Engine = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+eraser": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Eraser = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+forge-bellows": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Forge Bellows = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+forging": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Forging = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+funnel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Funnel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+garden-shed": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Garden Shed = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+gear": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Gear = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+gears": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Gears = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+generator": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Generator = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+gimbal": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Gimbal = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+gondola": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Gondola = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+grappling-hook": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Grappling Hook = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+grinder": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Grinder = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+grinding": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Grinding = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+gun": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + gun = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hammer": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hammer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hand-saw": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hand Saw = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+helicopter": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Helicopter = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+helmet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Helmet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+highway": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Highway = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hoe": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hoe = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hook": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hook = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hot-air-balloon": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hot Air Balloon = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+hunting": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Hunting = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+invention": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + invention = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+jack": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Jack = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+junk-drawer": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Junk Drawer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+kettle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Kettle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+key": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + key = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+kitchen-gadget": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Kitchen Gadget = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+knife": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Knife = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+knitting": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Knitting = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+ladle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Ladle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+lantern": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Lantern = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+level": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Level = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+lever": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Lever = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+lock": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Lock = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+loom": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Loom = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mace": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mace = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+machine": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + machine = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+magnifying-glass": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Magnifying Glass = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mallet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mallet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+manacle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Manacle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mechanical": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mechanical = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mining": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mining = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mortar-and-pestle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mortar and Pestle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+motor": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Motor = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+motorcycle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Motorcycle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+mousetrap": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Mousetrap = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+needle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Needle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+notebook": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Notebook = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+oar": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Oar = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+padlock": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Padlock = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pen": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pen = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pencil": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pencil = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pestle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pestle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pick": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pick = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+piston": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Piston = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+plane": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Plane = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pliers": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pliers = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+plough": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Plough = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+plumb-bob": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Plumb Bob = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+power-tool": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Power Tool = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+protractor": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Protractor = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pulley": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pulley = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+pump": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Pump = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+purse": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Purse = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+quill": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Quill = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+quiver": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Quiver = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+raft": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Raft = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+railway": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Railway = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+rake": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Rake = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+ratchet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Ratchet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+rivet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Rivet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+road": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Road = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+rocket": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Rocket = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+ruler": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Ruler = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sailboat": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sailboat = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+satellite": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Satellite = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+saw": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Saw = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+scale": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Scale = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+scalpel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Scalpel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+scissors": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Scissors = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+screw": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Screw = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sextant": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sextant = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+ship": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + ship = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+shovel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Shovel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sickle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sickle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sieve": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sieve = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sled": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sled = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sledgehammer": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sledgehammer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+smelting": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Smelting = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+snorkel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Snorkel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+socket-wrench": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Socket Wrench = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+soldering-iron": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Soldering Iron = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+spear": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Spear = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+spindle": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Spindle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+spring": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Spring = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+spyglass": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Spyglass = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+stapler": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Stapler = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+stencil": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Stencil = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+submarine": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Submarine = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+subway": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Subway = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+suitcase": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Suitcase = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sundial": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sundial = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+swiss-army-knife": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Swiss Army Knife = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+sword": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Sword = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+tanning": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Tanning = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+taxi": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Taxi = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+thermometer": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Thermometer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+tongs": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Tongs = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+tool": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + tool = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+traffic": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Traffic = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+train": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Train = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+trap": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Trap = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+trebuchet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Trebuchet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+tripod": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Tripod = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+trowel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Trowel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+truck": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Truck = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+turbine": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Turbine = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+valve": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Valve = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+vise": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Vise = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wagon": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Wagon = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wallet": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Wallet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+weaving": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Weaving = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+weight": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + weight = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+welding": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Welding = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wheel": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Wheel = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wheelbarrow": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Wheelbarrow = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+whetstone": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Whetstone = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+winch": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Winch = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wing": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + wing = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "biography+wrench": {
+    "result": "instruction-manual",
+    "reasoning": "Biography + Wrench = an Instruction Manual. Nobody reads it until something breaks."
   },
   "code+machine": {
     "result": "compiler",
@@ -27,64 +703,180 @@
     "result": "patent",
     "reasoning": "Document combined with invention leads to Patent"
   },
-  "experiment+tool": {
-    "result": "experiment",
-    "reasoning": "Experiment and tool shake hands, reality shrugs, and Experiment is suddenly canon."
+  "experiment+forge-bellows": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Forge Bellows = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "invention+text": {
-    "result": "patent",
-    "reasoning": "invention plus Text is the weird recipe your alchemist friend swears by for making Patent."
+  "experiment+forging": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Forging = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "knowledge+tool": {
-    "result": "science",
-    "reasoning": "Knowledge applied through tools creates science"
+  "experiment+funnel": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Funnel = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "language+machine": {
-    "result": "compiler",
-    "reasoning": "When Language and machine collide, logic takes a coffee break and Compiler appears anyway."
+  "experiment+garden-shed": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Garden Shed = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "language+tool": {
-    "result": "framework",
-    "reasoning": "Someone mixed Language with tool for science. The peer-reviewed conclusion: Framework."
+  "experiment+gear": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Gear = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "logic+machine": {
-    "result": "compiler",
-    "reasoning": "Logic and machine shake hands, reality shrugs, and Compiler is suddenly canon."
+  "experiment+gears": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Gears = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "logic+tool": {
-    "result": "puzzle",
-    "reasoning": "When Logic and tool collide, logic takes a coffee break and Puzzle appears anyway."
+  "experiment+generator": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Generator = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "machine+text": {
-    "result": "newspaper",
-    "reasoning": "machine meets Text, chaos files a memo, and Newspaper walks out with the trophy."
+  "experiment+gimbal": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Gimbal = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "map+rocket": {
-    "result": "gps",
-    "reasoning": "Map and Rocket shake hands, reality shrugs, and GPS is suddenly canon."
+  "experiment+gondola": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Gondola = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "map+satellite": {
-    "result": "gps",
-    "reasoning": "Applying Map to Satellite produces GPS"
+  "experiment+grappling-hook": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Grappling Hook = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "number+tool": {
-    "result": "engineering",
-    "reasoning": "Someone mixed number with tool for science. The peer-reviewed conclusion: engineering."
+  "experiment+grinder": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Grinder = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "question+tool": {
-    "result": "research",
-    "reasoning": "question plus tool is the weird recipe your alchemist friend swears by for making Research."
+  "experiment+grinding": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Grinding = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "text+tool": {
-    "result": "book",
-    "reasoning": "When Text and tool collide, logic takes a coffee break and book appears anyway."
+  "experiment+gun": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + gun = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "tool+word": {
-    "result": "message",
-    "reasoning": "tool teams up with Word; the side quest reward is message."
+  "experiment+hammer": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hammer = an Instruction Manual. Nobody reads it until something breaks."
   },
-  "tool+writing": {
-    "result": "text",
-    "reasoning": "tool tags in with Writing, and somehow the universe speedruns Text."
+  "experiment+hand-saw": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hand Saw = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+helicopter": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Helicopter = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+helmet": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Helmet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+highway": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Highway = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+hoe": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hoe = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+hook": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hook = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+hot-air-balloon": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hot Air Balloon = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+hunting": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Hunting = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+invention": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + invention = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+jack": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Jack = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+junk-drawer": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Junk Drawer = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+kettle": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Kettle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+key": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + key = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+kitchen-gadget": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Kitchen Gadget = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+knife": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Knife = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+knitting": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Knitting = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+ladle": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Ladle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+lantern": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Lantern = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+level": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Level = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+lever": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Lever = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+lock": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Lock = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+loom": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Loom = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+mace": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Mace = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+machine": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + machine = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+magnifying-glass": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Magnifying Glass = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+mallet": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Mallet = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+manacle": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Manacle = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+mechanical": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Mechanical = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+mining": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Mining = an Instruction Manual. Nobody reads it until something breaks."
+  },
+  "experiment+mortar-and-pestle": {
+    "result": "instruction-manual",
+    "reasoning": "Experiment + Mortar and Pestle = an Instruction Manual. Nobody reads it until something breaks."
   }
 }

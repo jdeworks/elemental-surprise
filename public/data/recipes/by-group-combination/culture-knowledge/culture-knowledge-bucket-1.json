@@ -1,186 +1,882 @@
 {
+  "accordion+poem": {
+    "result": "ode",
+    "reasoning": "Combine Poem with Accordion to create Ode."
+  },
+  "action+puzzle": {
+    "result": "koan",
+    "reasoning": "Combine Puzzle with Action to create Koan."
+  },
   "album+art": {
     "result": "scrapbook",
     "reasoning": "Album combined with art leads to Scrapbook"
   },
-  "album+color": {
-    "result": "scrapbook",
-    "reasoning": "When Album and Color collide, logic takes a coffee break and Scrapbook appears anyway."
+  "allegory+humor": {
+    "result": "irony",
+    "reasoning": "Combine Humor with Allegory to create Irony."
   },
-  "art+code": {
-    "result": "css",
-    "reasoning": "art plus Code is the weird recipe your alchemist friend swears by for making CSS."
-  },
-  "art+knowledge": {
-    "result": "renaissance",
-    "reasoning": "art teams up with knowledge; the side quest reward is Renaissance."
+  "allegory+limerick": {
+    "result": "absurdity",
+    "reasoning": "Combine Allegory with Limerick to create Absurdity."
   },
   "art+newspaper": {
     "result": "magazine",
     "reasoning": "art combined with Newspaper leads to Magazine"
   },
-  "bank+symbol": {
-    "result": "loan",
-    "reasoning": "When Bank and symbol collide, logic takes a coffee break and Loan appears anyway."
+  "art+rhetoric": {
+    "result": "baroque",
+    "reasoning": "Combine Art with Rhetoric to create Baroque."
+  },
+  "art+utopia": {
+    "result": "surrealism",
+    "reasoning": "Combine Art with Utopia to create Surrealism."
+  },
+  "axiom+strategy": {
+    "result": "game-theory",
+    "reasoning": "Combine Strategy with Axiom to create Game Theory."
+  },
+  "ball+biography": {
+    "result": "trivia",
+    "reasoning": "Ball + Biography = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+blueprint": {
+    "result": "trivia",
+    "reasoning": "Ball + Blueprint = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+calendar": {
+    "result": "trivia",
+    "reasoning": "Ball + Calendar = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+diagram": {
+    "result": "trivia",
+    "reasoning": "Ball + Diagram = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+diary": {
+    "result": "trivia",
+    "reasoning": "Ball + Diary = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+emoji": {
+    "result": "trivia",
+    "reasoning": "Ball + Emoji = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+empiricism": {
+    "result": "trivia",
+    "reasoning": "Ball + Empiricism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+experiment": {
+    "result": "trivia",
+    "reasoning": "Ball + Experiment = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+field-research": {
+    "result": "trivia",
+    "reasoning": "Ball + Field Research = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+game-theory": {
+    "result": "trivia",
+    "reasoning": "Ball + Game Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+induction": {
+    "result": "trivia",
+    "reasoning": "Ball + Induction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+irony": {
+    "result": "trivia",
+    "reasoning": "Ball + Irony = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+journal": {
+    "result": "trivia",
+    "reasoning": "Ball + Journal = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+karma": {
+    "result": "trivia",
+    "reasoning": "Ball + Karma = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+koan": {
+    "result": "trivia",
+    "reasoning": "Ball + Koan = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+letter": {
+    "result": "trivia",
+    "reasoning": "Ball + Letter = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+library": {
+    "result": "trivia",
+    "reasoning": "Ball + Library = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+logarithm": {
+    "result": "trivia",
+    "reasoning": "Ball + Logarithm = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+matrix": {
+    "result": "trivia",
+    "reasoning": "Ball + Matrix = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+myth": {
+    "result": "trivia",
+    "reasoning": "Ball + Myth = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+newspaper": {
+    "result": "trivia",
+    "reasoning": "Ball + Newspaper = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+ontology": {
+    "result": "trivia",
+    "reasoning": "Ball + Ontology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+paradigm": {
+    "result": "trivia",
+    "reasoning": "Ball + Paradigm = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+philosophy": {
+    "result": "trivia",
+    "reasoning": "Ball + Philosophy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+proverb": {
+    "result": "trivia",
+    "reasoning": "Ball + Proverb = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+research": {
+    "result": "trivia",
+    "reasoning": "Ball + Research = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+rhetoric": {
+    "result": "trivia",
+    "reasoning": "Ball + Rhetoric = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+riddle": {
+    "result": "trivia",
+    "reasoning": "Ball + Riddle = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+school": {
+    "result": "trivia",
+    "reasoning": "Ball + school = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+stoicism": {
+    "result": "trivia",
+    "reasoning": "Ball + Stoicism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+tautology": {
+    "result": "trivia",
+    "reasoning": "Ball + Tautology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+text": {
+    "result": "trivia",
+    "reasoning": "Ball + Text = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+theorem": {
+    "result": "trivia",
+    "reasoning": "Ball + Theorem = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+trivia": {
+    "result": "trivia",
+    "reasoning": "Ball + Trivia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+truth": {
+    "result": "trivia",
+    "reasoning": "Ball + Truth = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+turing-test": {
+    "result": "trivia",
+    "reasoning": "Ball + Turing Test = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+university": {
+    "result": "trivia",
+    "reasoning": "Ball + University = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+utopia": {
+    "result": "trivia",
+    "reasoning": "Ball + Utopia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+word": {
+    "result": "trivia",
+    "reasoning": "Ball + Word = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+writing": {
+    "result": "trivia",
+    "reasoning": "Ball + Writing = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+zeitgeist": {
+    "result": "trivia",
+    "reasoning": "Ball + Zeitgeist = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ball+zen": {
+    "result": "trivia",
+    "reasoning": "Ball + Zen = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "ballad+story": {
+    "result": "allegory",
+    "reasoning": "Combine Story with Ballad to create Allegory."
+  },
+  "beauty+biography": {
+    "result": "trivia",
+    "reasoning": "beauty + Biography = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+blueprint": {
+    "result": "trivia",
+    "reasoning": "beauty + Blueprint = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+book": {
+    "result": "trivia",
+    "reasoning": "beauty + book = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+braille": {
+    "result": "trivia",
+    "reasoning": "beauty + Braille = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+calendar": {
+    "result": "trivia",
+    "reasoning": "beauty + Calendar = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+chaos-theory": {
+    "result": "trivia",
+    "reasoning": "beauty + Chaos Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+cipher": {
+    "result": "trivia",
+    "reasoning": "beauty + Cipher = Trivia. Useless knowledge that wins bar quizzes."
   },
   "beauty+code": {
     "result": "css",
     "reasoning": "Applying beauty to Code produces CSS"
   },
+  "beauty+cognitive-bias": {
+    "result": "trivia",
+    "reasoning": "beauty + Cognitive Bias = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+comedy": {
+    "result": "trivia",
+    "reasoning": "beauty + Comedy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+conjecture": {
+    "result": "trivia",
+    "reasoning": "beauty + Conjecture = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+consequence": {
+    "result": "trivia",
+    "reasoning": "beauty + consequence = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+contract": {
+    "result": "trivia",
+    "reasoning": "beauty + Contract = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+contradiction": {
+    "result": "trivia",
+    "reasoning": "beauty + contradiction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+cosmic-mystery": {
+    "result": "trivia",
+    "reasoning": "beauty + Cosmic Mystery = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+cryptography": {
+    "result": "trivia",
+    "reasoning": "beauty + Cryptography = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+debate": {
+    "result": "trivia",
+    "reasoning": "beauty + Debate = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+deduction": {
+    "result": "trivia",
+    "reasoning": "beauty + Deduction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+determinism": {
+    "result": "trivia",
+    "reasoning": "beauty + Determinism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+diagram": {
+    "result": "trivia",
+    "reasoning": "beauty + Diagram = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+dialectic": {
+    "result": "trivia",
+    "reasoning": "beauty + Dialectic = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+diary": {
+    "result": "trivia",
+    "reasoning": "beauty + Diary = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+discovery": {
+    "result": "trivia",
+    "reasoning": "beauty + Discovery = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+document": {
+    "result": "trivia",
+    "reasoning": "beauty + Document = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+drama": {
+    "result": "trivia",
+    "reasoning": "beauty + Drama = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+education": {
+    "result": "trivia",
+    "reasoning": "beauty + Education = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+emoji": {
+    "result": "trivia",
+    "reasoning": "beauty + Emoji = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+empiricism": {
+    "result": "trivia",
+    "reasoning": "beauty + Empiricism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+encyclopedia": {
+    "result": "trivia",
+    "reasoning": "beauty + encyclopedia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+epistemology": {
+    "result": "trivia",
+    "reasoning": "beauty + Epistemology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+ethics": {
+    "result": "trivia",
+    "reasoning": "beauty + Ethics = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+etymology": {
+    "result": "trivia",
+    "reasoning": "beauty + Etymology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+existence": {
+    "result": "trivia",
+    "reasoning": "beauty + Existence = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+experiment": {
+    "result": "trivia",
+    "reasoning": "beauty + Experiment = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+fable": {
+    "result": "trivia",
+    "reasoning": "beauty + Fable = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+fake-news": {
+    "result": "trivia",
+    "reasoning": "beauty + Fake News = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+fallacy": {
+    "result": "trivia",
+    "reasoning": "beauty + Fallacy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+fibonacci": {
+    "result": "trivia",
+    "reasoning": "beauty + Fibonacci = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+field-guide": {
+    "result": "trivia",
+    "reasoning": "beauty + Field Guide = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+field-research": {
+    "result": "trivia",
+    "reasoning": "beauty + Field Research = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+game-theory": {
+    "result": "trivia",
+    "reasoning": "beauty + Game Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+gestalt": {
+    "result": "trivia",
+    "reasoning": "beauty + Gestalt = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+heisenberg-principle": {
+    "result": "trivia",
+    "reasoning": "beauty + Heisenberg Principle = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+hieroglyph": {
+    "result": "trivia",
+    "reasoning": "beauty + Hieroglyph = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+hypothesis": {
+    "result": "trivia",
+    "reasoning": "beauty + Hypothesis = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+induction": {
+    "result": "trivia",
+    "reasoning": "beauty + Induction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+information-overload": {
+    "result": "trivia",
+    "reasoning": "beauty + Information Overload = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+instruction-manual": {
+    "result": "trivia",
+    "reasoning": "beauty + Instruction Manual = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+irony": {
+    "result": "trivia",
+    "reasoning": "beauty + Irony = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+joke": {
+    "result": "trivia",
+    "reasoning": "beauty + Joke = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+journal": {
+    "result": "trivia",
+    "reasoning": "beauty + Journal = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+jurisprudence": {
+    "result": "trivia",
+    "reasoning": "beauty + Jurisprudence = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+karma": {
+    "result": "trivia",
+    "reasoning": "beauty + Karma = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+knowledge": {
+    "result": "trivia",
+    "reasoning": "beauty + knowledge = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+koan": {
+    "result": "trivia",
+    "reasoning": "beauty + Koan = Trivia. Useless knowledge that wins bar quizzes."
+  },
   "beauty+language": {
-    "result": "css",
-    "reasoning": "beauty plus Language is the weird recipe your alchemist friend swears by for making CSS."
+    "result": "trivia",
+    "reasoning": "beauty + Language = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+learning": {
+    "result": "trivia",
+    "reasoning": "beauty + Learning = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+legend": {
+    "result": "trivia",
+    "reasoning": "beauty + Legend = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+letter": {
+    "result": "trivia",
+    "reasoning": "beauty + Letter = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+library": {
+    "result": "trivia",
+    "reasoning": "beauty + Library = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+linguistics": {
+    "result": "trivia",
+    "reasoning": "beauty + Linguistics = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+logarithm": {
+    "result": "trivia",
+    "reasoning": "beauty + Logarithm = Trivia. Useless knowledge that wins bar quizzes."
   },
   "beauty+logic": {
-    "result": "css",
-    "reasoning": "beauty tags in with Logic, and somehow the universe speedruns CSS."
+    "result": "trivia",
+    "reasoning": "beauty + Logic = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "book+camera": {
-    "result": "album",
-    "reasoning": "book meets camera, chaos files a memo, and Album walks out with the trophy."
+  "beauty+magazine": {
+    "result": "trivia",
+    "reasoning": "beauty + Magazine = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "book+darkness": {
-    "result": "diary",
-    "reasoning": "book meets Darkness, chaos files a memo, and Diary walks out with the trophy."
+  "beauty+map": {
+    "result": "trivia",
+    "reasoning": "beauty + Map = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "book+house": {
-    "result": "library",
-    "reasoning": "book combined with house leads to Library"
+  "beauty+matrix": {
+    "result": "trivia",
+    "reasoning": "beauty + Matrix = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "camera+code": {
-    "result": "qr-code",
-    "reasoning": "Applying camera to Code produces QR Code"
+  "beauty+metaphor": {
+    "result": "trivia",
+    "reasoning": "beauty + Metaphor = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "camera+language": {
-    "result": "film",
-    "reasoning": "camera meets Language, chaos files a memo, and Film walks out with the trophy."
+  "beauty+mnemonic": {
+    "result": "trivia",
+    "reasoning": "beauty + Mnemonic = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "camera+logic": {
-    "result": "qr-code",
-    "reasoning": "camera and Logic shake hands, reality shrugs, and QR Code is suddenly canon."
+  "beauty+museum": {
+    "result": "trivia",
+    "reasoning": "beauty + Museum = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "camera+story": {
-    "result": "film",
-    "reasoning": "camera and Story create Film"
+  "beauty+mystery": {
+    "result": "trivia",
+    "reasoning": "beauty + mystery = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "camera+word": {
-    "result": "film",
-    "reasoning": "camera plus Word is the weird recipe your alchemist friend swears by for making Film."
+  "beauty+myth": {
+    "result": "trivia",
+    "reasoning": "beauty + Myth = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+darkness": {
-    "result": "cipher",
-    "reasoning": "Code plus Darkness is the weird recipe your alchemist friend swears by for making Cipher."
+  "beauty+newspaper": {
+    "result": "trivia",
+    "reasoning": "beauty + Newspaper = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+factory": {
-    "result": "barcode",
-    "reasoning": "Code plus Factory is the weird recipe your alchemist friend swears by for making Barcode."
+  "beauty+novel": {
+    "result": "trivia",
+    "reasoning": "beauty + Novel = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+house": {
-    "result": "ide",
-    "reasoning": "Code teams up with house; the side quest reward is IDE."
+  "beauty+number": {
+    "result": "trivia",
+    "reasoning": "beauty + number = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+light": {
-    "result": "qr-code",
-    "reasoning": "Someone mixed Code with light for science. The peer-reviewed conclusion: QR Code."
+  "beauty+ontology": {
+    "result": "trivia",
+    "reasoning": "beauty + Ontology = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+tower": {
-    "result": "object",
-    "reasoning": "Code teams up with Tower; the side quest reward is Object."
+  "beauty+paradigm": {
+    "result": "trivia",
+    "reasoning": "beauty + Paradigm = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "code+wall": {
-    "result": "firewall",
-    "reasoning": "Code teams up with Wall; the side quest reward is Firewall."
+  "beauty+paradox": {
+    "result": "trivia",
+    "reasoning": "beauty + Paradox = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "dance+drama": {
-    "result": "ballet",
-    "reasoning": "Dance and Drama accidentally host a crossover episode; Ballet steals the finale."
+  "beauty+patent": {
+    "result": "trivia",
+    "reasoning": "beauty + Patent = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "darkness+knowledge": {
-    "result": "secret",
-    "reasoning": "Darkness combined with knowledge leads to secret"
+  "beauty+pedagogy": {
+    "result": "trivia",
+    "reasoning": "beauty + Pedagogy = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "darkness+question": {
-    "result": "mystery",
-    "reasoning": "When Darkness and question collide, logic takes a coffee break and mystery appears anyway."
+  "beauty+peer-review": {
+    "result": "trivia",
+    "reasoning": "beauty + Peer Review = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "darkness+word": {
-    "result": "password",
-    "reasoning": "Darkness and Word accidentally host a crossover episode; Password steals the finale."
+  "beauty+periodic-table": {
+    "result": "trivia",
+    "reasoning": "beauty + Periodic Table = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "drama+house": {
-    "result": "theater",
-    "reasoning": "Drama and house create theater"
+  "beauty+philosophy": {
+    "result": "trivia",
+    "reasoning": "beauty + Philosophy = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "drama+music": {
-    "result": "opera",
-    "reasoning": "Drama tags in with Music, and somehow the universe speedruns Opera."
+  "beauty+photograph": {
+    "result": "trivia",
+    "reasoning": "beauty + Photograph = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "drawing+story": {
-    "result": "animation",
-    "reasoning": "Drawing plus Story is the weird recipe your alchemist friend swears by for making Animation."
+  "beauty+placebo": {
+    "result": "trivia",
+    "reasoning": "beauty + Placebo = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "game+logic": {
-    "result": "puzzle",
-    "reasoning": "Game and Logic create Puzzle"
+  "beauty+poem": {
+    "result": "trivia",
+    "reasoning": "beauty + Poem = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "game+number": {
-    "result": "puzzle",
-    "reasoning": "Game tags in with number, and somehow the universe speedruns Puzzle."
+  "beauty+postulate": {
+    "result": "trivia",
+    "reasoning": "beauty + Postulate = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "game+secret": {
-    "result": "easter-egg",
-    "reasoning": "When Game and secret collide, logic takes a coffee break and Easter Egg appears anyway."
+  "beauty+proverb": {
+    "result": "trivia",
+    "reasoning": "beauty + Proverb = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "house+knowledge": {
-    "result": "school",
-    "reasoning": "house combined with knowledge leads to school"
+  "beauty+question": {
+    "result": "trivia",
+    "reasoning": "beauty + question = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "house+learning": {
-    "result": "education",
-    "reasoning": "Someone mixed house with Learning for science. The peer-reviewed conclusion: Education."
+  "beauty+reality": {
+    "result": "trivia",
+    "reasoning": "beauty + Reality = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "house+story": {
-    "result": "theater",
-    "reasoning": "When house and Story collide, logic takes a coffee break and theater appears anyway."
+  "beauty+reason": {
+    "result": "trivia",
+    "reasoning": "beauty + Reason = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "house+text": {
-    "result": "library",
-    "reasoning": "When house and Text collide, logic takes a coffee break and Library appears anyway."
+  "beauty+renaissance": {
+    "result": "trivia",
+    "reasoning": "beauty + Renaissance = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "house+truth": {
-    "result": "court",
-    "reasoning": "Someone mixed house with Truth for science. The peer-reviewed conclusion: Court."
+  "beauty+research": {
+    "result": "trivia",
+    "reasoning": "beauty + Research = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "knowledge+video-game": {
-    "result": "easter-egg",
-    "reasoning": "knowledge and Video Game accidentally host a crossover episode; Easter Egg steals the finale."
+  "beauty+research-paper": {
+    "result": "trivia",
+    "reasoning": "beauty + Research Paper = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "language+video-game": {
-    "result": "rpg",
-    "reasoning": "Language meets Video Game, chaos files a memo, and RPG walks out with the trophy."
+  "beauty+rhetoric": {
+    "result": "trivia",
+    "reasoning": "beauty + Rhetoric = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "light+word": {
-    "result": "signal",
-    "reasoning": "light and Word accidentally host a crossover episode; Signal steals the finale."
+  "beauty+riddle": {
+    "result": "trivia",
+    "reasoning": "beauty + Riddle = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "logic+play": {
-    "result": "puzzle",
-    "reasoning": "When Logic and play collide, logic takes a coffee break and Puzzle appears anyway."
+  "beauty+school": {
+    "result": "trivia",
+    "reasoning": "beauty + school = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "secret+video-game": {
-    "result": "easter-egg",
-    "reasoning": "secret and Video Game create Easter Egg"
+  "beauty+schrodinger-cat": {
+    "result": "trivia",
+    "reasoning": "beauty + Schrodinger Cat = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "story+theater": {
-    "result": "drama",
-    "reasoning": "Story combined with theater leads to Drama"
+  "beauty+scrapbook": {
+    "result": "trivia",
+    "reasoning": "beauty + Scrapbook = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "story+video-game": {
-    "result": "rpg",
-    "reasoning": "Story and Video Game create RPG"
+  "beauty+script": {
+    "result": "trivia",
+    "reasoning": "beauty + Script = Trivia. Useless knowledge that wins bar quizzes."
   },
-  "video-game+word": {
-    "result": "rpg",
-    "reasoning": "Video Game plus Word is the weird recipe your alchemist friend swears by for making RPG."
+  "beauty+scroll": {
+    "result": "trivia",
+    "reasoning": "beauty + Scroll = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+secret": {
+    "result": "trivia",
+    "reasoning": "beauty + secret = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+sign": {
+    "result": "trivia",
+    "reasoning": "beauty + Sign = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+simulation": {
+    "result": "trivia",
+    "reasoning": "beauty + Simulation = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+socratic-method": {
+    "result": "trivia",
+    "reasoning": "beauty + Socratic Method = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+stoicism": {
+    "result": "trivia",
+    "reasoning": "beauty + Stoicism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+story": {
+    "result": "trivia",
+    "reasoning": "beauty + Story = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+syllogism": {
+    "result": "trivia",
+    "reasoning": "beauty + Syllogism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+symbol": {
+    "result": "trivia",
+    "reasoning": "beauty + symbol = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+synesthesia": {
+    "result": "trivia",
+    "reasoning": "beauty + Synesthesia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+tautology": {
+    "result": "trivia",
+    "reasoning": "beauty + Tautology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+taxonomy": {
+    "result": "trivia",
+    "reasoning": "beauty + Taxonomy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+text": {
+    "result": "trivia",
+    "reasoning": "beauty + Text = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+textbook": {
+    "result": "trivia",
+    "reasoning": "beauty + Textbook = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+theorem": {
+    "result": "trivia",
+    "reasoning": "beauty + Theorem = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+theory": {
+    "result": "trivia",
+    "reasoning": "beauty + Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+theory-of-relativity": {
+    "result": "trivia",
+    "reasoning": "beauty + Theory of Relativity = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+thought-experiment": {
+    "result": "trivia",
+    "reasoning": "beauty + Thought Experiment = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+tragedy": {
+    "result": "trivia",
+    "reasoning": "beauty + Tragedy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+trivia": {
+    "result": "trivia",
+    "reasoning": "beauty + Trivia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+truth": {
+    "result": "trivia",
+    "reasoning": "beauty + Truth = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+turing-test": {
+    "result": "trivia",
+    "reasoning": "beauty + Turing Test = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+university": {
+    "result": "trivia",
+    "reasoning": "beauty + University = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+useless-fact": {
+    "result": "trivia",
+    "reasoning": "beauty + Useless Fact = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+utopia": {
+    "result": "trivia",
+    "reasoning": "beauty + Utopia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+word": {
+    "result": "trivia",
+    "reasoning": "beauty + Word = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+writing": {
+    "result": "trivia",
+    "reasoning": "beauty + Writing = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+zeitgeist": {
+    "result": "trivia",
+    "reasoning": "beauty + Zeitgeist = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "beauty+zen": {
+    "result": "trivia",
+    "reasoning": "beauty + Zen = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+book": {
+    "result": "trivia",
+    "reasoning": "Blues + book = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+braille": {
+    "result": "trivia",
+    "reasoning": "Blues + Braille = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+calendar": {
+    "result": "trivia",
+    "reasoning": "Blues + Calendar = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+chaos-theory": {
+    "result": "trivia",
+    "reasoning": "Blues + Chaos Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+cipher": {
+    "result": "trivia",
+    "reasoning": "Blues + Cipher = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+code": {
+    "result": "trivia",
+    "reasoning": "Blues + Code = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+cognitive-bias": {
+    "result": "trivia",
+    "reasoning": "Blues + Cognitive Bias = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+comedy": {
+    "result": "trivia",
+    "reasoning": "Blues + Comedy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+conjecture": {
+    "result": "trivia",
+    "reasoning": "Blues + Conjecture = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+consequence": {
+    "result": "trivia",
+    "reasoning": "Blues + consequence = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+contract": {
+    "result": "trivia",
+    "reasoning": "Blues + Contract = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+contradiction": {
+    "result": "trivia",
+    "reasoning": "Blues + contradiction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+cosmic-mystery": {
+    "result": "trivia",
+    "reasoning": "Blues + Cosmic Mystery = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+cryptography": {
+    "result": "trivia",
+    "reasoning": "Blues + Cryptography = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+debate": {
+    "result": "trivia",
+    "reasoning": "Blues + Debate = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+deduction": {
+    "result": "trivia",
+    "reasoning": "Blues + Deduction = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+determinism": {
+    "result": "trivia",
+    "reasoning": "Blues + Determinism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+diagram": {
+    "result": "trivia",
+    "reasoning": "Blues + Diagram = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+dialectic": {
+    "result": "trivia",
+    "reasoning": "Blues + Dialectic = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+diary": {
+    "result": "trivia",
+    "reasoning": "Blues + Diary = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+discovery": {
+    "result": "trivia",
+    "reasoning": "Blues + Discovery = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+document": {
+    "result": "trivia",
+    "reasoning": "Blues + Document = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+drama": {
+    "result": "trivia",
+    "reasoning": "Blues + Drama = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+education": {
+    "result": "trivia",
+    "reasoning": "Blues + Education = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+emoji": {
+    "result": "trivia",
+    "reasoning": "Blues + Emoji = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+empiricism": {
+    "result": "trivia",
+    "reasoning": "Blues + Empiricism = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+encyclopedia": {
+    "result": "trivia",
+    "reasoning": "Blues + encyclopedia = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+epistemology": {
+    "result": "trivia",
+    "reasoning": "Blues + Epistemology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+ethics": {
+    "result": "trivia",
+    "reasoning": "Blues + Ethics = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+etymology": {
+    "result": "trivia",
+    "reasoning": "Blues + Etymology = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+existence": {
+    "result": "trivia",
+    "reasoning": "Blues + Existence = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+experiment": {
+    "result": "trivia",
+    "reasoning": "Blues + Experiment = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+fable": {
+    "result": "trivia",
+    "reasoning": "Blues + Fable = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+fake-news": {
+    "result": "trivia",
+    "reasoning": "Blues + Fake News = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+fallacy": {
+    "result": "trivia",
+    "reasoning": "Blues + Fallacy = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+fibonacci": {
+    "result": "trivia",
+    "reasoning": "Blues + Fibonacci = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+field-guide": {
+    "result": "trivia",
+    "reasoning": "Blues + Field Guide = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+field-research": {
+    "result": "trivia",
+    "reasoning": "Blues + Field Research = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+game-theory": {
+    "result": "trivia",
+    "reasoning": "Blues + Game Theory = Trivia. Useless knowledge that wins bar quizzes."
+  },
+  "blues+gestalt": {
+    "result": "trivia",
+    "reasoning": "Blues + Gestalt = Trivia. Useless knowledge that wins bar quizzes."
   }
 }

@@ -1,30 +1,882 @@
 {
+  "allegory+hero": {
+    "result": "epic",
+    "reasoning": "Combine Hero with Allegory to create Epic."
+  },
+  "book+death-knight": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
   "book+hero": {
     "result": "biography",
     "reasoning": "book combined with hero leads to Biography"
   },
-  "drama+magic": {
-    "result": "magic-show",
-    "reasoning": "Drama meets Magic, chaos files a memo, and Magic Show walks out with the trophy."
+  "book+king": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
   },
-  "experiment+magic": {
-    "result": "alchemy",
-    "reasoning": "Experiment meets Magic, chaos files a memo, and Alchemy walks out with the trophy."
+  "book+knight": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
   },
-  "god+story": {
-    "result": "myth",
-    "reasoning": "god combined with Story leads to Myth"
+  "book+lich-king": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
   },
-  "hero+story": {
-    "result": "legend",
-    "reasoning": "hero combined with Story leads to Legend"
+  "book+magic": {
+    "result": "arcane-tome",
+    "reasoning": "Combine Magic with Book to create Arcane Tome."
   },
-  "hero+text": {
-    "result": "biography",
-    "reasoning": "When hero and Text collide, logic takes a coffee break and Biography appears anyway."
+  "book+philosopher-stone": {
+    "result": "geology",
+    "reasoning": "Studying Philosopher Stone through book — Geology."
   },
-  "magic+word": {
-    "result": "spell",
-    "reasoning": "Through mystical forces, Magic and Word become Spell"
+  "book+queen": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
+  "book+space-wizard": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
+  "book+spell": {
+    "result": "spell-book",
+    "reasoning": "Combine Spell with Book to create Spell Book."
+  },
+  "book+witch": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
+  "book+wizard": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
+  "chaos-theory+philosopher-stone": {
+    "result": "geology",
+    "reasoning": "Studying Philosopher Stone through Chaos Theory — Geology."
+  },
+  "code+death-knight": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+king": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+knight": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+lich-king": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+queen": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+space-wizard": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+witch": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "code+wizard": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "death-knight+experiment": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "death-knight+map": {
+    "result": "cartographer",
+    "reasoning": "Cartographers map the world — from Ptolemy to Google Maps"
+  },
+  "death-knight+newspaper": {
+    "result": "journalist",
+    "reasoning": "Journalists inform the public — democracy's watchdogs"
+  },
+  "death-knight+periodic-table": {
+    "result": "scientist",
+    "reasoning": "Mendeleev arranged 63 elements and predicted ones not yet discovered"
+  },
+  "death-knight+school": {
+    "result": "teacher",
+    "reasoning": "Teachers shape every other profession — the most important job"
+  },
+  "death-knight+scroll": {
+    "result": "scribe",
+    "reasoning": "Scribes unrolled scrolls to record laws, myths, and histories"
+  },
+  "death-knight+university": {
+    "result": "professor",
+    "reasoning": "Professors research and teach at the frontier of knowledge"
+  },
+  "dragon-egg+drama": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Drama = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+education": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Education = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+emoji": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Emoji = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+empiricism": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Empiricism = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+encyclopedia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + encyclopedia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+epistemology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Epistemology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+ethics": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Ethics = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+etymology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Etymology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+existence": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Existence = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+experiment": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Experiment = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+fable": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Fable = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+fake-news": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Fake News = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+fallacy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Fallacy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+fibonacci": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Fibonacci = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+field-guide": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Field Guide = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+field-research": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Field Research = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+game-theory": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Game Theory = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+gestalt": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Gestalt = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+heisenberg-principle": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Heisenberg Principle = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+hieroglyph": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Hieroglyph = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+hypothesis": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Hypothesis = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+induction": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Induction = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+information-overload": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Information Overload = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+instruction-manual": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Instruction Manual = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+irony": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Irony = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+joke": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Joke = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+journal": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Journal = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+jurisprudence": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Jurisprudence = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+karma": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Karma = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+knowledge": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + knowledge = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+koan": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Koan = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+language": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Language = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+learning": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Learning = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+legend": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Legend = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+letter": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Letter = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+library": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Library = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+linguistics": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Linguistics = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+logarithm": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Logarithm = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+logic": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Logic = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+magazine": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Magazine = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+map": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Map = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+matrix": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Matrix = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+metaphor": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Metaphor = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+mnemonic": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Mnemonic = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+museum": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Museum = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+mystery": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + mystery = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+myth": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Myth = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+newspaper": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Newspaper = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+novel": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Novel = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+number": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + number = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+ontology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Ontology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+paradigm": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Paradigm = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+paradox": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Paradox = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+patent": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Patent = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+pedagogy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Pedagogy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+peer-review": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Peer Review = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+periodic-table": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Periodic Table = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+philosophy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Philosophy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+photograph": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Photograph = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+placebo": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Placebo = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+poem": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Poem = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+postulate": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Postulate = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+proverb": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Proverb = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+question": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + question = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+reality": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Reality = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+reason": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Reason = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+renaissance": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Renaissance = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+research": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Research = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+research-paper": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Research Paper = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+rhetoric": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Rhetoric = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+riddle": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Riddle = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+school": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + school = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+schrodinger-cat": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Schrodinger Cat = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+scrapbook": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Scrapbook = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+script": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Script = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+scroll": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Scroll = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+secret": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + secret = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+sign": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Sign = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+simulation": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Simulation = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+socratic-method": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Socratic Method = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+stoicism": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Stoicism = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+story": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Story = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+syllogism": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Syllogism = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+symbol": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + symbol = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+synesthesia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Synesthesia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+tautology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Tautology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+taxonomy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Taxonomy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+text": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Text = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+textbook": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Textbook = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+theorem": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Theorem = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+theory": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Theory = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+theory-of-relativity": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Theory of Relativity = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+thought-experiment": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Thought Experiment = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+tragedy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Tragedy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+trivia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Trivia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+truth": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Truth = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+turing-test": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Turing Test = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+university": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + University = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+useless-fact": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Useless Fact = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+utopia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Utopia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+word": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Word = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+writing": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Writing = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+zeitgeist": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Zeitgeist = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "dragon-egg+zen": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Dragon Egg + Zen = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "education+philosopher-stone": {
+    "result": "geology",
+    "reasoning": "Studying Philosopher Stone through Education — Geology."
+  },
+  "enchanted-artifact+field-research": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Field Research = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+game-theory": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Game Theory = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+knowledge": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of knowledge = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+library": {
+    "result": "pyramid",
+    "reasoning": "An Enchanted Artifact Library = Pyramid — wonder of the world."
+  },
+  "enchanted-artifact+logic": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Logic = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+research": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Research = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+research-paper": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Research Paper = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+school": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of school = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+theory": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Theory = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+theory-of-relativity": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Theory of Relativity = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+university": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of University = Philosophy — love of wisdom."
+  },
+  "enchanted-kingdom+encyclopedia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + encyclopedia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+epistemology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Epistemology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+ethics": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Ethics = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+etymology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Etymology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+existence": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Existence = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+experiment": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Experiment = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+fable": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Fable = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+fake-news": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Fake News = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+fallacy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Fallacy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+fibonacci": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Fibonacci = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+field-guide": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Field Guide = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+field-research": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Field Research = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+game-theory": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Game Theory = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+gestalt": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Gestalt = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+heisenberg-principle": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Heisenberg Principle = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+hieroglyph": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Hieroglyph = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+hypothesis": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Hypothesis = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+induction": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Induction = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+information-overload": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Information Overload = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+instruction-manual": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Instruction Manual = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+irony": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Irony = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+joke": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Joke = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+journal": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Journal = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+jurisprudence": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Jurisprudence = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+karma": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Karma = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+knowledge": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + knowledge = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+koan": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Koan = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+language": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Language = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+learning": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Learning = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+legend": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Legend = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+letter": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Letter = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+library": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Library = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+linguistics": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Linguistics = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+logarithm": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Logarithm = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+logic": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Logic = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+magazine": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Magazine = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+map": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Map = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+matrix": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Matrix = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+metaphor": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Metaphor = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+mnemonic": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Mnemonic = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+museum": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Museum = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+mystery": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + mystery = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+myth": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Myth = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+newspaper": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Newspaper = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+novel": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Novel = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+number": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + number = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+ontology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Ontology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+paradigm": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Paradigm = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+paradox": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Paradox = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+patent": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Patent = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+pedagogy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Pedagogy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+peer-review": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Peer Review = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+periodic-table": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Periodic Table = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+philosophy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Philosophy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+photograph": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Photograph = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+placebo": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Placebo = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+poem": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Poem = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+postulate": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Postulate = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+proverb": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Proverb = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+question": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + question = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+reality": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Reality = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+reason": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Reason = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+renaissance": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Renaissance = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+research": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Research = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+research-paper": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Research Paper = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+rhetoric": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Rhetoric = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+riddle": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Riddle = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+school": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + school = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+schrodinger-cat": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Schrodinger Cat = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+scrapbook": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Scrapbook = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+script": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Script = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+scroll": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Scroll = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+secret": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + secret = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+sign": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Sign = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+simulation": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Simulation = Forbidden Knowledge. Some things were not meant to be known."
   }
 }

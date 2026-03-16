@@ -1,354 +1,882 @@
 {
+  "absurdity+self-driving-car": {
+    "result": "identity",
+    "reasoning": "Combine Self Driving Car with Absurdity to create Identity."
+  },
+  "alchemist+self-driving-car": {
+    "result": "identity",
+    "reasoning": "Combine Self Driving Car with Alchemist to create Identity."
+  },
   "algorithm+brain": {
     "result": "artificial-intelligence",
     "reasoning": "Algorithms mimicking the brain create artificial intelligence"
   },
+  "algorithm+child": {
+    "result": "programmer",
+    "reasoning": "Algorithms are step-by-step recipes that programmers write for computers"
+  },
   "algorithm+human": {
-    "result": "artificial-intelligence",
-    "reasoning": "When Algorithm and human collide, logic takes a coffee break and Artificial Intelligence appears anyway."
+    "result": "programmer",
+    "reasoning": "Algorithms are step-by-step recipes that programmers write for computers"
   },
-  "algorithm+memory": {
-    "result": "function",
-    "reasoning": "Algorithm and Memory shake hands, reality shrugs, and Function is suddenly canon."
+  "algorithm+man": {
+    "result": "programmer",
+    "reasoning": "Algorithms are step-by-step recipes that programmers write for computers"
   },
-  "algorithm+thought": {
-    "result": "artificial-intelligence",
-    "reasoning": "When Algorithm and Thought collide, logic takes a coffee break and Artificial Intelligence appears anyway."
+  "algorithm+monk": {
+    "result": "programmer",
+    "reasoning": "Algorithms are step-by-step recipes that programmers write for computers"
   },
-  "amplifier+human": {
-    "result": "headphone",
-    "reasoning": "Someone mixed Amplifier with human for science. The peer-reviewed conclusion: Headphone."
+  "algorithm+woman": {
+    "result": "programmer",
+    "reasoning": "Algorithms are step-by-step recipes that programmers write for computers"
   },
   "anger+online": {
     "result": "troll-internet",
     "reasoning": "Applying Anger to Online produces Troll Internet"
   },
-  "blockchain+creativity": {
-    "result": "nft",
-    "reasoning": "When Blockchain and Creativity collide, logic takes a coffee break and NFT appears anyway."
-  },
-  "blog+family": {
-    "result": "forum",
-    "reasoning": "blog plus Family is the weird recipe your alchemist friend swears by for making Forum."
-  },
-  "body+computer": {
-    "result": "prosthetic",
-    "reasoning": "When Body and Computer collide, logic takes a coffee break and Prosthetic appears anyway."
-  },
-  "body+electricity": {
-    "result": "eye",
-    "reasoning": "Someone mixed Body with Electricity for science. The peer-reviewed conclusion: eye."
-  },
-  "body+electronics": {
-    "result": "sensor",
-    "reasoning": "Body meets Electronics, chaos files a memo, and Sensor walks out with the trophy."
-  },
-  "body+robot": {
-    "result": "prosthetic",
-    "reasoning": "Body and Robot explain the phenomenon of Prosthetic"
-  },
-  "brain+computer": {
-    "result": "ai",
-    "reasoning": "Computing architecture inspired by the brain — neural networks"
-  },
-  "brain+data": {
-    "result": "neural-network",
-    "reasoning": "When Brain and data collide, logic takes a coffee break and Neural Network appears anyway."
-  },
-  "brain+processor": {
-    "result": "ai",
-    "reasoning": "When Brain and Processor collide, logic takes a coffee break and AI appears anyway."
-  },
-  "brain+robot": {
-    "result": "cyborg",
-    "reasoning": "Applying Brain to Robot produces Cyborg"
-  },
-  "brain+software": {
-    "result": "code-generation",
-    "reasoning": "Brain tags in with software, and somehow the universe speedruns Code Generation."
-  },
-  "brain+solar-panel": {
-    "result": "thought",
-    "reasoning": "Brain tags in with Solar Panel, and somehow the universe speedruns Thought."
-  },
-  "circuit+hearing": {
-    "result": "hearing-aid",
-    "reasoning": "When Circuit and Hearing collide, logic takes a coffee break and Hearing Aid appears anyway."
-  },
-  "circuit+heart": {
-    "result": "pacemaker",
-    "reasoning": "Circuit and Heart accidentally host a crossover episode; Pacemaker steals the finale."
-  },
-  "communication+speech": {
-    "result": "deception",
-    "reasoning": "Communication teams up with Speech; the side quest reward is deception."
-  },
-  "computer+creativity": {
-    "result": "generative-ai",
-    "reasoning": "When Computer and Creativity collide, logic takes a coffee break and Generative AI appears anyway."
-  },
-  "computer+hand": {
-    "result": "mouse-device",
-    "reasoning": "Applying Computer to hand produces Mouse Device"
-  },
-  "computer+human": {
-    "result": "bias",
-    "reasoning": "Computer plus human is the weird recipe your alchemist friend swears by for making Bias."
-  },
-  "computer+sense": {
-    "result": "vr-headset",
-    "reasoning": "When Computer and Sense collide, logic takes a coffee break and VR Headset appears anyway."
-  },
-  "computer+sight": {
-    "result": "vr-headset",
-    "reasoning": "Applying Computer to Sight produces VR Headset"
-  },
-  "computer+speech": {
-    "result": "speech-recognition",
-    "reasoning": "Computer tags in with Speech, and somehow the universe speedruns Speech Recognition."
-  },
-  "data+emotion": {
-    "result": "sentiment-analysis",
-    "reasoning": "data meets Emotion, chaos files a memo, and Sentiment Analysis walks out with the trophy."
-  },
-  "data+human": {
-    "result": "file",
-    "reasoning": "data tags in with human, and somehow the universe speedruns File."
-  },
-  "data+sight": {
-    "result": "computer-vision",
-    "reasoning": "data plus Sight is the weird recipe your alchemist friend swears by for making Computer Vision."
-  },
-  "data+thought": {
-    "result": "sort",
-    "reasoning": "data meets Thought, chaos files a memo, and Sort walks out with the trophy."
-  },
-  "electricity+hand": {
-    "result": "mouse-device",
-    "reasoning": "Electricity and hand accidentally host a crossover episode; Mouse Device steals the finale."
-  },
-  "electricity+human": {
-    "result": "angel",
-    "reasoning": "Electricity teams up with human; the side quest reward is Angel."
-  },
-  "electronics+hearing": {
-    "result": "hearing-aid",
-    "reasoning": "Electronics and Hearing explain the phenomenon of Hearing Aid"
-  },
-  "electronics+heart": {
-    "result": "pacemaker",
-    "reasoning": "Electronics and Heart explain the phenomenon of Pacemaker"
-  },
-  "electronics+love": {
-    "result": "pacemaker",
-    "reasoning": "Electronics and Love accidentally host a crossover episode; Pacemaker steals the finale."
-  },
-  "electronics+sense": {
-    "result": "sensor",
-    "reasoning": "Applying Electronics to Sense produces Sensor"
-  },
-  "emotion+online": {
-    "result": "troll-internet",
-    "reasoning": "Emotion plus Online is the weird recipe your alchemist friend swears by for making Troll Internet."
-  },
-  "emotion+post": {
-    "result": "like",
-    "reasoning": "Applying Emotion to Post produces Like"
-  },
-  "emotion+social-media": {
-    "result": "like",
-    "reasoning": "When Emotion and Social Media collide, logic takes a coffee break and Like appears anyway."
-  },
-  "emotion+troll-internet": {
-    "result": "cyberbullying",
-    "reasoning": "Emotion tags in with Troll Internet, and somehow the universe speedruns Cyberbullying."
-  },
-  "fame+human": {
-    "result": "celebrity",
-    "reasoning": "Applying fame to human produces Celebrity"
-  },
-  "fame+intelligence": {
-    "result": "celebrity",
-    "reasoning": "fame teams up with intelligence; the side quest reward is Celebrity."
-  },
-  "hand+processor": {
-    "result": "mouse-device",
-    "reasoning": "hand tags in with Processor, and somehow the universe speedruns Mouse Device."
-  },
-  "happiness+internet": {
-    "result": "meme",
-    "reasoning": "Happiness and internet shake hands, reality shrugs, and Meme is suddenly canon."
-  },
-  "heart+post": {
-    "result": "like",
-    "reasoning": "Heart meets Post, chaos files a memo, and Like walks out with the trophy."
-  },
-  "human+internet": {
-    "result": "online",
-    "reasoning": "Applying human to internet produces Online"
-  },
-  "human+magnet": {
-    "result": "headphone",
-    "reasoning": "human teams up with magnet; the side quest reward is Headphone."
-  },
-  "human+name": {
-    "result": "brand",
-    "reasoning": "human plus name is the weird recipe your alchemist friend swears by for making Brand."
-  },
-  "human+network": {
-    "result": "online",
-    "reasoning": "human and Network shake hands, reality shrugs, and Online is suddenly canon."
-  },
-  "human+operating-system": {
-    "result": "linux",
-    "reasoning": "Someone mixed human with Operating System for science. The peer-reviewed conclusion: Linux."
-  },
-  "human+pixel": {
-    "result": "pixel-art",
-    "reasoning": "human meets Pixel, chaos files a memo, and Pixel Art walks out with the trophy."
-  },
-  "human+press": {
-    "result": "journalist",
-    "reasoning": "human teams up with press; the side quest reward is Journalist."
-  },
-  "human+radio": {
-    "result": "fame",
-    "reasoning": "human tags in with Radio, and somehow the universe speedruns fame."
-  },
-  "human+robot": {
-    "result": "android",
-    "reasoning": "Applying human to Robot produces Android"
-  },
-  "human+screen": {
-    "result": "fame",
-    "reasoning": "human and screen accidentally host a crossover episode; fame steals the finale."
-  },
-  "human+smart-home": {
-    "result": "alexa",
-    "reasoning": "human tags in with Smart Home, and somehow the universe speedruns Alexa."
-  },
-  "human+smartphone": {
-    "result": "wearable",
-    "reasoning": "human plus Smartphone is the weird recipe your alchemist friend swears by for making Wearable."
-  },
-  "human+social-media": {
-    "result": "profile",
-    "reasoning": "Applying human to Social Media produces Profile"
-  },
-  "human+software": {
-    "result": "programmer",
-    "reasoning": "human and software together shape Programmer"
-  },
-  "human+speaker": {
-    "result": "headphone",
-    "reasoning": "Applying human to Speaker produces Headphone"
-  },
-  "human+television": {
-    "result": "fame",
-    "reasoning": "Applying human to Television produces fame"
-  },
-  "human+website": {
-    "result": "url",
-    "reasoning": "human plus Website is the weird recipe your alchemist friend swears by for making URL."
-  },
-  "intelligence+robot": {
-    "result": "android",
-    "reasoning": "intelligence and Robot shake hands, reality shrugs, and Android is suddenly canon."
-  },
-  "intelligence+social-media": {
-    "result": "profile",
-    "reasoning": "Someone mixed intelligence with Social Media for science. The peer-reviewed conclusion: Profile."
-  },
-  "intelligence+software": {
-    "result": "programmer",
-    "reasoning": "intelligence and software accidentally host a crossover episode; Programmer steals the finale."
-  },
-  "intelligence+supercomputer": {
-    "result": "superintelligence",
-    "reasoning": "intelligence plus Supercomputer is the weird recipe your alchemist friend swears by for making Superintelligence."
-  },
-  "internet+sight": {
-    "result": "metaverse",
-    "reasoning": "Someone mixed internet with Sight for science. The peer-reviewed conclusion: Metaverse."
-  },
-  "internet+thought": {
-    "result": "meme",
-    "reasoning": "internet and Thought shake hands, reality shrugs, and Meme is suddenly canon."
-  },
-  "lie+speech": {
-    "result": "deception",
-    "reasoning": "lie meets Speech, chaos files a memo, and deception walks out with the trophy."
-  },
-  "love+post": {
-    "result": "share",
-    "reasoning": "Love meets Post, chaos files a memo, and Share walks out with the trophy."
-  },
-  "love+social-media": {
-    "result": "follower",
-    "reasoning": "Love and Social Media shake hands, reality shrugs, and Follower is suddenly canon."
-  },
-  "memory+supercomputer": {
-    "result": "context-window",
-    "reasoning": "Memory teams up with Supercomputer; the side quest reward is Context Window."
-  },
-  "microchip+sight": {
-    "result": "vr-headset",
-    "reasoning": "Someone mixed Microchip with Sight for science. The peer-reviewed conclusion: VR Headset."
-  },
-  "microchip+thought": {
-    "result": "processor",
-    "reasoning": "Microchip plus Thought is the weird recipe your alchemist friend swears by for making Processor."
-  },
-  "online+sadness": {
-    "result": "cyberbullying",
-    "reasoning": "Online tags in with Sadness, and somehow the universe speedruns Cyberbullying."
-  },
-  "post+speech": {
-    "result": "comment",
-    "reasoning": "Applying Post to Speech produces Comment"
-  },
-  "post+thought": {
-    "result": "comment",
-    "reasoning": "Post and Thought accidentally host a crossover episode; Comment steals the finale."
-  },
-  "post+voice": {
-    "result": "comment",
-    "reasoning": "Post tags in with voice, and somehow the universe speedruns Comment."
-  },
-  "robot+thought": {
-    "result": "cyborg",
-    "reasoning": "Robot teams up with Thought; the side quest reward is Cyborg."
-  },
-  "sadness+troll-internet": {
-    "result": "cyberbullying",
-    "reasoning": "Applying Sadness to Troll Internet produces Cyberbullying"
-  },
-  "screen+skin": {
-    "result": "touchscreen",
-    "reasoning": "screen and skin accidentally host a crossover episode; Touchscreen steals the finale."
-  },
-  "screen+touch": {
-    "result": "touchscreen",
-    "reasoning": "Applying screen to Touch produces Touchscreen"
-  },
-  "social-media+thought": {
-    "result": "hashtag",
-    "reasoning": "Social Media plus Thought is the weird recipe your alchemist friend swears by for making Hashtag."
-  },
-  "software+speech": {
-    "result": "api",
-    "reasoning": "software plus Speech is the weird recipe your alchemist friend swears by for making API."
-  },
-  "software+thought": {
-    "result": "program",
-    "reasoning": "When software and Thought collide, logic takes a coffee break and Program appears anyway."
-  },
-  "solar-panel+thought": {
-    "result": "focus",
-    "reasoning": "Solar Panel tags in with Thought, and somehow the universe speedruns focus."
-  },
-  "thought+website": {
-    "result": "wiki",
-    "reasoning": "Someone mixed Thought with Website for science. The peer-reviewed conclusion: Wiki."
+  "apothecary+app": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + App = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+audio": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Audio = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+augmented-reality": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Augmented Reality = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+autoclave": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Autoclave = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+automation": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Automation = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+bandwidth": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Bandwidth = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+barcode": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Barcode = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+battery": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Battery = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+binary": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Binary = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+bit": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Bit = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+bitcoin": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Bitcoin = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+blockchain": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Blockchain = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+blog": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + blog = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+bluetooth": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Bluetooth = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+broadcast": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Broadcast = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+browser": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Browser = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+bug": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Bug = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+button": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + button = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+byte": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Byte = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cable": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cable = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+capacitor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Capacitor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cathode-ray-tube": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cathode Ray Tube = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+celebrity": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Celebrity = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+chronometer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Chronometer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+ci-cd": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + CI CD = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+circuit": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Circuit = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+circuit-board": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Circuit Board = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+class": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Class = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cloud-computing": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cloud Computing = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cloud-storage": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cloud Storage = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+comment": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Comment = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+communication": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Communication = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+compass-sensor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Compass Sensor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+compiler": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Compiler = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+compressor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Compressor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+computer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Computer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+conveyor-belt": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Conveyor Belt = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cryptocurrency": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cryptocurrency = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+css": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + CSS = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+current": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Current = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cyberbullying": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cyberbullying = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cybersecurity": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cybersecurity = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+cyborg": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Cyborg = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+dao": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + DAO = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+dark-web": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Dark Web = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+dashcam": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Dashcam = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+data": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + data = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+database": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Database = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+debug": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Debug = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+deception": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + deception = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+defi": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + DeFi = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+defibrillator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Defibrillator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+desktop": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Desktop = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+devops": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + DevOps = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+digital": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + digital = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+diode": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Diode = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+discord": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Discord = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+docker": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Docker = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+domain": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Domain = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+download": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Download = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+drone": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Drone = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+dynamo": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Dynamo = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+e-reader": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + E-Reader = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+edge-computing": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Edge Computing = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+electric-car": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Electric Car = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+electricity": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Electricity = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+electrode": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Electrode = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+electronics": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Electronics = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+email": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Email = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+encryption": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Encryption = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+error": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + error = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+escalator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Escalator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+ethernet": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Ethernet = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+fame": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + fame = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+fax-machine": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Fax Machine = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+fiber-optic": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Fiber Optic = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+file": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + File = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+firewall": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Firewall = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+flash-drive": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Flash Drive = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+flywheel": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Flywheel = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+folder": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Folder = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+follower": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Follower = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+forum": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Forum = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+framework": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Framework = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+friend": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + friend = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+fuel-cell": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Fuel Cell = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+function": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Function = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+gadget": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Gadget = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+galvanometer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Galvanometer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+geiger-counter": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Geiger Counter = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+git": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Git = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+github": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + GitHub = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+google-maps": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Google Maps = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+gps": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + GPS = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+graphql": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + GraphQL = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+gyroscope": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Gyroscope = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hacker": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hacker = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hacking": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hacking = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hard-drive": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hard Drive = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hash": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hash = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hashtag": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hashtag = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+headphone": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Headphone = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+heat-pump": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Heat Pump = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hologram": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hologram = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+html": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + HTML = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+hydraulic-press": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Hydraulic Press = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+incubator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Incubator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+influencer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Influencer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+inheritance": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Inheritance = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+instagram": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Instagram = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+intercom": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Intercom = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+interface": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Interface = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+internet": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + internet = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+iot": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + IoT = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+ip-address": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + IP Address = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+jackhammer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Jackhammer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+java": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Java = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+javascript": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + JavaScript = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+joystick": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Joystick = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+json": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + JSON = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+keyboard": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Keyboard = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+kiln": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Kiln = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+kubernetes": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Kubernetes = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+laptop": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Laptop = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+lathe": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Lathe = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+led": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + LED = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+library-software": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Library Software = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+lidar": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + LIDAR = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+lie": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + lie = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+like": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Like = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+linux": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Linux = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+loop": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Loop = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+loudspeaker": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Loudspeaker = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+magnet": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + magnet = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+mail": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Mail = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+mainframe": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Mainframe = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+malware": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Malware = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+markdown": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Markdown = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+meme": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Meme = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+message": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + message = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+metal-detector": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Metal Detector = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+metaverse": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Metaverse = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+metronome": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Metronome = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+microchip": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Microchip = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+micrometer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Micrometer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+microphone": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Microphone = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+microservice": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Microservice = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+midjourney": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Midjourney = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+modem": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Modem = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+monitor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Monitor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+morse-code": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Morse Code = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+motion-sensor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Motion Sensor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+mouse-device": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Mouse Device = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+multimeter": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Multimeter = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+name": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + name = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+navigation": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Navigation = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+neon-sign": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Neon Sign = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+netflix": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Netflix = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+network": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Network = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+neural-link": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Neural Link = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+neuralink": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Neuralink = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+newsletter": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Newsletter = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+nft": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + NFT = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+notification": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Notification = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+nuclear-reactor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Nuclear Reactor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+object": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Object = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+offline": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Offline = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+online": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Online = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+open-source": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Open Source = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+operating-system": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Operating System = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+oscillator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Oscillator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+oscilloscope": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Oscilloscope = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+particle-accelerator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Particle Accelerator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+password": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Password = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+pattern": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + pattern = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+periscope": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Periscope = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+phishing": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Phishing = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+phonograph": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Phonograph = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+photodiode": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Photodiode = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+piezoelectric": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Piezoelectric = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+pixel": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Pixel = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+pneumatic": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Pneumatic = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+podcast": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Podcast = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+polymorphism": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Polymorphism = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+post": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Post = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+post-office": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Post Office = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+potentiometer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Potentiometer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+power-grid": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Power Grid = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+power-plant": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Power Plant = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+power-strip": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Power Strip = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+press": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + press = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+pressure-cooker": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Pressure Cooker = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+printer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Printer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+printing": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Printing = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+privacy": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Privacy = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+processor": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Processor = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+product": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + product = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+profile": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Profile = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+program": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Program = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+propane-tank": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Propane Tank = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+python": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Python = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+qr-code": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + QR Code = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+quantum-computer": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Quantum Computer = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+queue": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Queue = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+radar": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Radar = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+radiator": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Radiator = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+radio": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Radio = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+ram": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + RAM = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+ransomware": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Ransomware = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+record-player": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Record Player = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
+  },
+  "apothecary+recursion": {
+    "result": "screen-addiction",
+    "reasoning": "Apothecary + Recursion = Screen Addiction. Average screen time: 7 hours/day. We're not judging. (We are.)"
   }
 }

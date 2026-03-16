@@ -1,26 +1,882 @@
 {
-  "animal+crown": {
-    "result": "king",
-    "reasoning": "Someone mixed animal with crown for science. The peer-reviewed conclusion: King."
+  "albatross+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
   },
-  "animal+god": {
-    "result": "religion",
-    "reasoning": "animal meets god, chaos files a memo, and religion walks out with the trophy."
+  "albatross+enchanted-forest": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "albatross+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "albatross+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "albatross+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "albatross+thunder-hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alchemy+ant": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "alchemy+bat": {
+    "result": "vampire",
+    "reasoning": "Vampire bats inspired vampire legends — blood-drinking creatures of the night"
+  },
+  "alchemy+bear": {
+    "result": "gryphon",
+    "reasoning": "Griffins are as powerful as bears — magic's apex predator"
+  },
+  "alchemy+bee": {
+    "result": "pixie-dust",
+    "reasoning": "Pixie dust is magical — bees make the closest real-world equivalent"
+  },
+  "alchemy+bird": {
+    "result": "phoenix",
+    "reasoning": "The phoenix dies in fire and is reborn — the most magical bird"
+  },
+  "alchemy+boar": {
+    "result": "manticore",
+    "reasoning": "The manticore combines a lion's body with other bestial features — boar-like ferocity"
+  },
+  "alchemy+buffalo": {
+    "result": "minotaur",
+    "reasoning": "The Minotaur — half bull, half human, trapped in the Labyrinth"
+  },
+  "alchemy+butterfly": {
+    "result": "fairy",
+    "reasoning": "Fairies flutter on butterfly wings through enchanted glades"
+  },
+  "alchemy+cat": {
+    "result": "familiar",
+    "reasoning": "Witches' familiars are magical cats — companions in sorcery"
+  },
+  "alchemy+chameleon": {
+    "result": "changeling",
+    "reasoning": "Changelings are magical shapeshifters — chameleons of the fairy world"
+  },
+  "alchemy+chicken": {
+    "result": "cockatrice",
+    "reasoning": "The cockatrice hatches from a rooster egg incubated by a serpent"
+  },
+  "alchemy+condor": {
+    "result": "thunderbird",
+    "reasoning": "Thunderbirds are massive magical raptors — condors of legend"
+  },
+  "alchemy+cow": {
+    "result": "minotaur",
+    "reasoning": "The Minotaur was born from Pasiphaë and a magical bull"
+  },
+  "alchemy+crab": {
+    "result": "golem",
+    "reasoning": "Golems are armored magical constructs — crabs of the arcane world"
+  },
+  "alchemy+crocodile": {
+    "result": "dragon",
+    "reasoning": "Chinese dragons evolved from crocodile worship — water dragons"
+  },
+  "alchemy+crow": {
+    "result": "raven",
+    "reasoning": "Ravens are already associated with magic — Odin's messengers"
+  },
+  "alchemy+deer": {
+    "result": "centaur",
+    "reasoning": "Magic merges deer-like grace with human intelligence — the centaur"
+  },
+  "alchemy+dog": {
+    "result": "cerberus",
+    "reasoning": "Cerberus — the three-headed dog guarding the Greek underworld"
+  },
+  "alchemy+dolphin": {
+    "result": "mermaid",
+    "reasoning": "Mermaids merge human and marine — dolphins inspired the legends"
+  },
+  "alchemy+dragonfly": {
+    "result": "fairy",
+    "reasoning": "Fairies ride dragonflies in Celtic mythology"
+  },
+  "alchemy+eagle": {
+    "result": "gryphon",
+    "reasoning": "Combine Eagle with Alchemy to create Gryphon."
+  },
+  "alchemy+eel": {
+    "result": "naga",
+    "reasoning": "Nagas are magical serpent-spirits of water — eels are their mortal cousins"
+  },
+  "alchemy+elephant": {
+    "result": "treant",
+    "reasoning": "Treants are massive magical beings — elephants of the forest"
+  },
+  "alchemy+falcon": {
+    "result": "thunderbird",
+    "reasoning": "Thunderbirds — Native American magical birds of lightning"
+  },
+  "alchemy+fish": {
+    "result": "kraken",
+    "reasoning": "The kraken — a magically massive sea creature from Norse legend"
+  },
+  "alchemy+flamingo": {
+    "result": "phoenix",
+    "reasoning": "Flamingoes and phoenixes both embody fire-colored plumage"
+  },
+  "alchemy+fox": {
+    "result": "shapeshifter",
+    "reasoning": "Kitsune — magical foxes who shapeshift in Japanese mythology"
+  },
+  "alchemy+frog": {
+    "result": "naga",
+    "reasoning": "Nagas are magical serpent-beings who control water — frog connection"
+  },
+  "alchemy+goose": {
+    "result": "roc",
+    "reasoning": "The roc is a goose magnified by magic to carry elephants"
+  },
+  "alchemy+horse": {
+    "result": "unicorn",
+    "reasoning": "Add a magical horn to a horse and you get the unicorn — symbol of purity"
+  },
+  "alchemy+jaguar": {
+    "result": "chimera",
+    "reasoning": "Jaguars were sacred to the Maya — magical jungle spirits"
+  },
+  "alchemy+jellyfish": {
+    "result": "will-o-wisp",
+    "reasoning": "Will-o-wisps glow like magical jellyfish floating in darkness"
+  },
+  "alchemy+komodo-dragon": {
+    "result": "dragon",
+    "reasoning": "Komodo dragons — the real-world creatures closest to actual dragons"
+  },
+  "alchemy+lion": {
+    "result": "chimera",
+    "reasoning": "The chimera combines lion, goat, and snake — a magical hybrid"
+  },
+  "alchemy+lizard": {
+    "result": "dragon",
+    "reasoning": "Dragons are essentially magical lizards scaled up to terrifying size"
+  },
+  "alchemy+lobster": {
+    "result": "hydra",
+    "reasoning": "Lobsters regenerate claws like hydras regrow heads"
+  },
+  "alchemy+monkey": {
+    "result": "imp",
+    "reasoning": "Imps are mischievous magical creatures — monkeys of the spirit world"
+  },
+  "alchemy+moth": {
+    "result": "fairy",
+    "reasoning": "Fairies have moth-like wings — magical insects of the forest"
+  },
+  "alchemy+octopus": {
+    "result": "kraken",
+    "reasoning": "Giant octopuses inspired kraken legends — tentacles from the deep"
+  },
+  "alchemy+owl": {
+    "result": "sphinx",
+    "reasoning": "The sphinx asks riddles — wise as an owl, magical as a lion"
+  },
+  "alchemy+panda": {
+    "result": "spirit",
+    "reasoning": "Spirit bears in mythology — pandas embody peaceful magic"
+  },
+  "alchemy+parrot": {
+    "result": "harpy",
+    "reasoning": "Harpies are magical bird-women — shrieking avian terrors"
+  },
+  "alchemy+peacock": {
+    "result": "phoenix",
+    "reasoning": "Peacocks and phoenixes both symbolize rebirth and dazzling plumage"
+  },
+  "alchemy+penguin": {
+    "result": "frost-giant",
+    "reasoning": "Frost giants rule the ice — penguins of the magical Arctic"
+  },
+  "alchemy+pig": {
+    "result": "ogre",
+    "reasoning": "Ogres are the brutish, pig-like creatures of fairy tales"
+  },
+  "alchemy+raven": {
+    "result": "banshee",
+    "reasoning": "Banshees wail like ravens — magical harbingers of death"
+  },
+  "alchemy+rooster": {
+    "result": "cockatrice",
+    "reasoning": "Cockatrices have a rooster's body and a serpent's tail"
+  },
+  "alchemy+salamander": {
+    "result": "fire-elemental",
+    "reasoning": "Medieval alchemists believed salamanders were born from fire"
+  },
+  "alchemy+scorpion": {
+    "result": "manticore",
+    "reasoning": "Manticores have scorpion tails — venomous magical hybrids"
+  },
+  "alchemy+seal": {
+    "result": "kelpie",
+    "reasoning": "Kelpies are magical water horses — selkies are magical seals"
+  },
+  "alchemy+shark": {
+    "result": "kraken",
+    "reasoning": "Kraken and sea monsters — sharks amplified by sorcery"
+  },
+  "alchemy+sheep": {
+    "result": "satyr",
+    "reasoning": "Satyrs are half-goat/sheep magical forest beings from Greek myth"
+  },
+  "alchemy+snake": {
+    "result": "basilisk",
+    "reasoning": "The basilisk — king of serpents, whose gaze turns you to stone"
+  },
+  "alchemy+spider": {
+    "result": "tarantula",
+    "reasoning": "Magic enlarges spiders into the giant tarantulas of fantasy"
+  },
+  "alchemy+squid": {
+    "result": "kraken",
+    "reasoning": "Giant squid reaching 43 feet fuel kraken mythology"
+  },
+  "alchemy+starfish": {
+    "result": "undine",
+    "reasoning": "Undines are magical water spirits — starfish are their earthly echoes"
+  },
+  "alchemy+stork": {
+    "result": "roc",
+    "reasoning": "The roc carries babies? No, elephants — stork legends meet Arabian Nights"
+  },
+  "alchemy+swan": {
+    "result": "siren",
+    "reasoning": "Sirens sing sailors to their doom — magical swan-like enchantresses"
+  },
+  "alchemy+tiger": {
+    "result": "chimera",
+    "reasoning": "Chimeras borrow tiger ferocity — magical apex hybrid predators"
+  },
+  "alchemy+turtle": {
+    "result": "hydra",
+    "reasoning": "Hydra's regenerating heads mirror the turtle's longevity — magical endurance"
+  },
+  "alchemy+vulture": {
+    "result": "harpy",
+    "reasoning": "Harpies are scavenger bird-women — vultures of Greek mythology"
+  },
+  "alchemy+whale": {
+    "result": "kraken",
+    "reasoning": "The kraken was often confused with whales by terrified sailors"
+  },
+  "alchemy+wolf": {
+    "result": "werewolf",
+    "reasoning": "Werewolves blur the line between human and wolf with dark magic"
+  },
+  "alchemy+worm": {
+    "result": "ouroboros",
+    "reasoning": "The ouroboros — a magical worm eating its own tail, symbol of infinity"
+  },
+  "alpaca+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "alpaca+enchanted-forest": {
+    "result": "wool",
+    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
+  },
+  "alpaca+fire-elemental": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "alpaca+thunder-hammer": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alpaca+witch": {
+    "result": "familiar",
+    "reasoning": "Combine Witch with Alpaca to create Familiar."
+  },
+  "amulet+eagle": {
+    "result": "gryphon",
+    "reasoning": "Combine Eagle with Amulet to create Gryphon."
+  },
+  "anemone+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anemone+enchanted-forest": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anemone+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anemone+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anemone+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anemone+thunder-hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "angel+eagle": {
+    "result": "gryphon",
+    "reasoning": "Combine Eagle with Angel to create Gryphon."
+  },
+  "anglerfish+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anglerfish+enchanted-forest": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anglerfish+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anglerfish+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anglerfish+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anglerfish+thunder-hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal-kingdom+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal-kingdom+enchanted-forest": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal-kingdom+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal-kingdom+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal-kingdom+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal-kingdom+thunder-hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal+death-knight": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
+  },
+  "animal+enchanted-forest": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal+king": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
+  },
+  "animal+knight": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
+  },
+  "animal+lich-king": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
   },
   "animal+magic": {
-    "result": "unicorn",
-    "reasoning": "animal teams up with Magic; the side quest reward is Unicorn."
+    "result": "shapeshifter",
+    "reasoning": "Combine Magic with Animal to create Shapeshifter."
   },
-  "horse+magic": {
-    "result": "unicorn",
-    "reasoning": "A horse touched by magic grows a horn — unicorn"
+  "animal+queen": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
   },
-  "insect+magic": {
-    "result": "fairy",
-    "reasoning": "Through mystical forces, Insect and Magic become Fairy"
+  "animal+shadow-realm": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
   },
-  "insect+spirit": {
-    "result": "fairy",
-    "reasoning": "Someone mixed Insect with Spirit for science. The peer-reviewed conclusion: Fairy."
+  "animal+space-wizard": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
+  },
+  "animal+thunder-hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+water-elemental": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+witch": {
+    "result": "familiar",
+    "reasoning": "Combine Witch with Animal to create Familiar."
+  },
+  "animal+wizard": {
+    "result": "veterinarian",
+    "reasoning": "Veterinarians heal animals — doctors for every species but ours"
+  },
+  "ant+dark-elf": {
+    "result": "termite",
+    "reasoning": "Termites live in perpetual darkness inside their mounds"
+  },
+  "ant+enchanted-forest": {
+    "result": "composting",
+    "reasoning": "Ants aerate soil and break down organic matter into Compost"
+  },
+  "ant+fairy": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+fairy-ring": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+magic": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+magic-carpet": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+magic-show": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+magic-wand": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+potion": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+rune": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+shadow-realm": {
+    "result": "termite",
+    "reasoning": "Termites live in perpetual darkness inside their mounds"
+  },
+  "ant+space-wizard": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+spell": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+spell-book": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+thunder-hammer": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+wand": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+water-elemental": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+witch": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "ant+wizard": {
+    "result": "golem",
+    "reasoning": "Golems are tireless workers like ants — animated by magic"
+  },
+  "anteater+arcane-tome": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Arcane Tome = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+banshee": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Banshee = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+basilisk": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Basilisk = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+beholder": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Beholder = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+brownie": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Brownie = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+centaur": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Centaur = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+cerberus": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Cerberus = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+changeling": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Changeling = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+chimera": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Chimera = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+chosen-one": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Chosen One = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+cockatrice": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Cockatrice = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+crown": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + crown = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+cryptid": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Cryptid = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+crystal-ball": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Crystal Ball = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+cyclops": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Cyclops = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dark-elf": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anteater+death-knight": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Death Knight = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+demon": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Demon = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+djinn": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Djinn = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dragon": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Dragon = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dragon-egg": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Dragon Egg = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dryad": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Dryad = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dungeon": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Dungeon = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+dwarf": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Dwarf = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+elf": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Elf = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+elixir": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Elixir = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+elixir-of-life": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Elixir of Life = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+enchanted-artifact": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Enchanted Artifact = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+enchanted-forest": {
+    "result": "root",
+    "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
+  },
+  "anteater+enchanted-glade": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Enchanted Glade = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+enchanted-kingdom": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Enchanted Kingdom = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+enchantment": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Enchantment = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+ethereal-plane": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Ethereal Plane = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+fairy": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Fairy = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+fairy-ring": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Fairy Ring = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+familiar": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Familiar = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+fever-dream": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Fever Dream = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+fire-elemental": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+forbidden-knowledge": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Forbidden Knowledge = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+frost-giant": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anteater+gargoyle": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Gargoyle = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+ghost": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Ghost = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+ghoul": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Ghoul = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+giant": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Giant = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+gnome": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Gnome = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+goblin": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Goblin = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+god": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + god = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+golem": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Golem = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+griffin": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Griffin = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+gryphon": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Gryphon = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+harpy": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Harpy = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+hellhound": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Hellhound = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+hero": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + hero = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+holy-grail": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Holy Grail = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+hydra": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Hydra = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+ice-dragon": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anteater+imp": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Imp = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+invisible-cloak": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Invisible Cloak = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+kelpie": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Kelpie = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+king": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + King = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+knight": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Knight = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+kraken": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Kraken = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+leprechaun": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Leprechaun = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+lich": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Lich = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+lich-king": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Lich King = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+mad-science": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Mad Science = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+magic": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Magic = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+magic-carpet": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Magic Carpet = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+magic-show": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Magic Show = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+magic-wand": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Magic Wand = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+manticore": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Manticore = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+maze": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Maze = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+medusa": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Medusa = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+mermaid": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Mermaid = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+minotaur": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Minotaur = a Mythical Beast. Part real, part impossible, 100% legendary."
+  },
+  "anteater+miracle": {
+    "result": "mythical-beast",
+    "reasoning": "Anteater + Miracle = a Mythical Beast. Part real, part impossible, 100% legendary."
   }
 }

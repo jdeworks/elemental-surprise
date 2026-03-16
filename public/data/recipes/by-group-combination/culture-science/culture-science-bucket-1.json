@@ -1,126 +1,882 @@
 {
+  "acceleration+light": {
+    "result": "fluorescence",
+    "reasoning": "Combine Light with Acceleration to create Fluorescence."
+  },
+  "aerodynamics+air": {
+    "result": "turbulence",
+    "reasoning": "Combine Air with Aerodynamics to create Turbulence."
+  },
+  "air+convection": {
+    "result": "turbulence",
+    "reasoning": "Combine Air with Convection to create Turbulence."
+  },
+  "air+solvent": {
+    "result": "foam",
+    "reasoning": "Combine Air with Solvent to create Foam."
+  },
+  "air+speed": {
+    "result": "aerodynamics",
+    "reasoning": "Combine Speed with Air to create Aerodynamics."
+  },
   "air+vibration": {
     "result": "sound",
     "reasoning": "air and Vibration create sound"
-  },
-  "air+wave": {
-    "result": "sound",
-    "reasoning": "When air and Wave collide, logic takes a coffee break and sound appears anyway."
   },
   "art+science": {
     "result": "renaissance",
     "reasoning": "art combined with science leads to Renaissance"
   },
-  "art+time": {
-    "result": "tradition",
-    "reasoning": "When art and time collide, logic takes a coffee break and Tradition appears anyway."
-  },
   "atom+light": {
     "result": "quantum",
     "reasoning": "Atom and light explain the phenomenon of Quantum"
   },
-  "board+wave": {
-    "result": "surfing",
-    "reasoning": "board and Wave create Surfing"
+  "ball+momentum": {
+    "result": "newtons-cradle",
+    "reasoning": "Combine Momentum with Ball to create Newtons Cradle."
   },
-  "change+video-game": {
-    "result": "speedrun",
-    "reasoning": "change and Video Game shake hands, reality shrugs, and Speedrun is suddenly canon."
+  "base+humor": {
+    "result": "irony",
+    "reasoning": "Combine Humor with Base to create Irony."
   },
-  "color+science": {
-    "result": "renaissance",
-    "reasoning": "Color tags in with science, and somehow the universe speedruns Renaissance."
+  "beauty+biology": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Biology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "electron+light": {
-    "result": "quantum",
-    "reasoning": "Electron plus light is the weird recipe your alchemist friend swears by for making Quantum."
+  "beauty+calculus": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Calculus = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "harmony+time": {
-    "result": "rhythm",
-    "reasoning": "harmony tags in with time, and somehow the universe speedruns Rhythm."
+  "beauty+coffin": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Coffin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "harmony+vibration": {
-    "result": "resonance",
-    "reasoning": "harmony and Vibration explain the phenomenon of Resonance"
+  "beauty+destiny": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Destiny = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "harmony+wave": {
-    "result": "resonance",
-    "reasoning": "harmony teams up with Wave; the side quest reward is Resonance."
+  "beauty+genetic-engineering": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Genetic Engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "history+house": {
-    "result": "museum",
-    "reasoning": "history combined with house leads to Museum"
+  "beauty+geology": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Geology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "house+medicine": {
-    "result": "hospital",
-    "reasoning": "house and Medicine create Hospital"
+  "beauty+geometry": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Geometry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "house+science": {
-    "result": "iss",
-    "reasoning": "house plus science is the weird recipe your alchemist friend swears by for making ISS."
+  "beauty+geothermal": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Geothermal = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "house+time": {
-    "result": "museum",
-    "reasoning": "house teams up with time; the side quest reward is Museum."
+  "beauty+green-energy": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Green Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "humor+speed": {
-    "result": "viral",
-    "reasoning": "humor and Speed accidentally host a crossover episode; Viral steals the finale."
+  "beauty+hydrogen": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Hydrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "instrument+time": {
-    "result": "rhythm",
-    "reasoning": "When Instrument and time collide, logic takes a coffee break and Rhythm appears anyway."
+  "beauty+insulation": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Insulation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "light+physics": {
-    "result": "theory-of-relativity",
-    "reasoning": "Physics of light — the Theory of Relativity"
+  "beauty+interference": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Interference = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "light+proton": {
-    "result": "quantum",
-    "reasoning": "light plus Proton is the weird recipe your alchemist friend swears by for making Quantum."
+  "beauty+joule": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Joule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "light+science": {
-    "result": "theory-of-relativity",
-    "reasoning": "light tags in with science, and somehow the universe speedruns Theory of Relativity."
+  "beauty+meteorology": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Meteorology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "light+shape": {
-    "result": "hologram",
-    "reasoning": "light and shape shake hands, reality shrugs, and Hologram is suddenly canon."
+  "beauty+plasma-state": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Plasma State = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "magnetism+music": {
-    "result": "rock-music",
-    "reasoning": "Magnetism teams up with Music; the side quest reward is Rock Music."
+  "beauty+point": {
+    "result": "science-fiction",
+    "reasoning": "beauty + point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "medicine+sound": {
-    "result": "stethoscope",
-    "reasoning": "Medicine and sound explain the phenomenon of Stethoscope"
+  "beauty+prophecy": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Prophecy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "music+time": {
-    "result": "rhythm",
-    "reasoning": "Music and time create Rhythm"
+  "beauty+radiation": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Radiation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "science+sound": {
-    "result": "stethoscope",
-    "reasoning": "When science and sound collide, logic takes a coffee break and Stethoscope appears anyway."
+  "beauty+surface-tension": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Surface Tension = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "shape+toy": {
-    "result": "lego",
-    "reasoning": "Someone mixed shape with Toy for science. The peer-reviewed conclusion: Lego."
+  "beauty+surgery": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Surgery = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "shape+video-game": {
-    "result": "minecraft",
-    "reasoning": "Someone mixed shape with Video Game for science. The peer-reviewed conclusion: Minecraft."
+  "beauty+sustainability": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Sustainability = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "sound+vibration": {
-    "result": "harmony",
-    "reasoning": "sound plus Vibration is the weird recipe your alchemist friend swears by for making harmony."
+  "beauty+toxicity": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Toxicity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "sound+wave": {
-    "result": "radio",
-    "reasoning": "Applying sound to Wave produces Radio"
+  "beauty+vibration": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Vibration = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "speed+video-game": {
-    "result": "speedrun",
-    "reasoning": "Speed and Video Game create Speedrun"
+  "beauty+wave": {
+    "result": "science-fiction",
+    "reasoning": "beauty + Wave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+boiling-point": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Boiling Point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+botany": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Botany = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+brownian-motion": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Brownian Motion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+buoyancy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Buoyancy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+calculus": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Calculus = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+capillary-action": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Capillary Action = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+carbon": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Carbon = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+catalyst": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Catalyst = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+centrifuge": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Centrifuge = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+centripetal-force": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Centripetal Force = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+change": {
+    "result": "science-fiction",
+    "reasoning": "Blues + change = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+chemistry": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Chemistry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+climate-change": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Climate Change = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+clock": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Clock = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+cloning": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Cloning = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+coffin": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Coffin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+combustion": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Combustion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+compass": {
+    "result": "science-fiction",
+    "reasoning": "Blues + compass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+compost": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Compost = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+conductivity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Conductivity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+contact-lens": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Contact Lens = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+convection": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Convection = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+coriolis-effect": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Coriolis Effect = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+coulombs-law": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Coulombs Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+crispr": {
+    "result": "science-fiction",
+    "reasoning": "Blues + CRISPR = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+critical-mass": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Critical Mass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+crutch": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Crutch = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+crystallization": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Crystallization = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+death": {
+    "result": "science-fiction",
+    "reasoning": "Blues + death = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+decay": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Decay = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+density": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Density = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+destiny": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Destiny = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+diffusion": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Diffusion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+direction": {
+    "result": "science-fiction",
+    "reasoning": "Blues + direction = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+distilling": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Distilling = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+doppler-effect": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Doppler Effect = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+drug": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Drug = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+ecology": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Ecology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+economics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Economics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+elasticity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Elasticity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+electrolysis": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Electrolysis = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+electromagnetic-spectrum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Electromagnetic Spectrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+electron": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Electron = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+element": {
+    "result": "science-fiction",
+    "reasoning": "Blues + element = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+engineering": {
+    "result": "science-fiction",
+    "reasoning": "Blues + engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+entropy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Entropy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+equilibrium": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Equilibrium = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+evaporation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Evaporation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+failed-experiment": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Failed Experiment = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fermentation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fermentation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fertilizer": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fertilizer = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fission": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fission = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fluorescence": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fluorescence = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+food-science": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Food Science = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fossil-fuel": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fossil Fuel = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fragility": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fragility = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+frequency": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Frequency = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fulcrum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fulcrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+fusion": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Fusion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+future": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Future = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+genetic-engineering": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Genetic Engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+geology": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Geology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+geometry": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Geometry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+geothermal": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Geothermal = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+glasses": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Glasses = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+global-warming": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Global Warming = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+grave": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Grave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+green-energy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Green Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+half-life": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Half-Life = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+harmonic": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Harmonic = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+hearing-aid": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Hearing Aid = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+helium": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Helium = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+history": {
+    "result": "science-fiction",
+    "reasoning": "Blues + history = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+hourglass": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Hourglass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+hydraulics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Hydraulics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+hydrogen": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Hydrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+hydropower": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Hydropower = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+ideal-gas-law": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Ideal Gas Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+impulse": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Impulse = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+inertia": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Inertia = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+infinity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Infinity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+insulation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Insulation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+interference": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Interference = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+ion": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Ion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+isotope": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Isotope = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+joule": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Joule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+kinetics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Kinetics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+lab-equipment": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Lab Equipment = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+lab-rat": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Lab Rat = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+laser": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Laser = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+lattice": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Lattice = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+line": {
+    "result": "science-fiction",
+    "reasoning": "Blues + line = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+luminescence": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Luminescence = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+mach-number": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Mach Number = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+magnetism": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Magnetism = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+mass": {
+    "result": "science-fiction",
+    "reasoning": "Blues + mass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+mathematics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + mathematics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+matter": {
+    "result": "science-fiction",
+    "reasoning": "Blues + matter = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+measurement": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Measurement = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+medicine": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Medicine = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+meditation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Meditation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+meteorology": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Meteorology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+microscope": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Microscope = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+molecule": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Molecule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+momentum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Momentum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+mri": {
+    "result": "science-fiction",
+    "reasoning": "Blues + MRI = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+neon": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Neon = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+neutron": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Neutron = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+newtons-cradle": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Newtons Cradle = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+nitrogen": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Nitrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+nuclear": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Nuclear = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+nutrition": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Nutrition = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+ohms-law": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Ohms Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+optics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Optics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+oscillation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Oscillation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+osmosis": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Osmosis = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+oxidation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Oxidation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+oxygen": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Oxygen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+pacemaker": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Pacemaker = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+pascals-law": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Pascals Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+past": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Past = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+peer-pressure": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Peer Pressure = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+pendulum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Pendulum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+phase-transition": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Phase Transition = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+physics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Physics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+piezoelectricity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Piezoelectricity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+pill": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Pill = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+plasma": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Plasma = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+plasma-state": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Plasma State = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+point": {
+    "result": "science-fiction",
+    "reasoning": "Blues + point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+polarization": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Polarization = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+pollution": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Pollution = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+polymer": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Polymer = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+prophecy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Prophecy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+prosthetic": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Prosthetic = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+proton": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Proton = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+psychology": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Psychology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+quantum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Quantum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+radiation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Radiation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+radioactivity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Radioactivity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+rebirth": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Rebirth = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+recycling": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Recycling = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+refraction": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Refraction = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+relativity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Relativity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+renewable-energy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Renewable Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+resonance": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Resonance = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+rocket-science": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Rocket Science = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+science": {
+    "result": "science-fiction",
+    "reasoning": "Blues + science = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+shape": {
+    "result": "science-fiction",
+    "reasoning": "Blues + shape = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+sharpness": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Sharpness = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+skeleton": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Skeleton = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+smog": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Smog = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+sociology": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Sociology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+solvent": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Solvent = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+spectrum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Spectrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+speed": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Speed = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+static": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Static = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+statistics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Statistics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+stethoscope": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Stethoscope = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+sublimation": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Sublimation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+superconductor": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Superconductor = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+supercooling": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Supercooling = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+surface-tension": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Surface Tension = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+surgery": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Surgery = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+sustainability": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Sustainability = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+syringe": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Syringe = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+therapy": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Therapy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+thermocline": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Thermocline = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+thermodynamics": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Thermodynamics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+time": {
+    "result": "science-fiction",
+    "reasoning": "Blues + time = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+torque": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Torque = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+toxicity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Toxicity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+transparency": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Transparency = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+turbulence": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Turbulence = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+vaccine": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Vaccine = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+vacuum": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Vacuum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+velocity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Velocity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+vibration": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Vibration = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+viscosity": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Viscosity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+vitamin": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Vitamin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+void": {
+    "result": "science-fiction",
+    "reasoning": "Blues + void = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+waste": {
+    "result": "science-fiction",
+    "reasoning": "Blues + waste = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+watch": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Watch = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+wave": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Wave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+wave-particle-duality": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Wave-Particle Duality = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  },
+  "blues+wavelength": {
+    "result": "science-fiction",
+    "reasoning": "Blues + Wavelength = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   }
 }

@@ -1,6 +1,882 @@
 {
+  "acceleration+chemical-reaction": {
+    "result": "catalyst",
+    "reasoning": "Combine Chemical Reaction with Acceleration to create Catalyst."
+  },
+  "acid+chemical-reaction": {
+    "result": "base",
+    "reasoning": "Combine Acid with Chemical Reaction to create Base."
+  },
+  "aerodynamics+chemical-reaction": {
+    "result": "catalyst",
+    "reasoning": "Combine Chemical Reaction with Aerodynamics to create Catalyst."
+  },
+  "base+chemical-reaction": {
+    "result": "solvent",
+    "reasoning": "Combine Chemical Reaction with Base to create Solvent."
+  },
+  "building+diffusion": {
+    "result": "amino-acid",
+    "reasoning": "Combine Building with Diffusion to create Amino Acid."
+  },
+  "building+food-science": {
+    "result": "library",
+    "reasoning": "A building filled with Food Science — a Library."
+  },
   "building+medicine": {
     "result": "hospital",
     "reasoning": "building and Medicine create Hospital"
+  },
+  "building+molecule": {
+    "result": "amino-acid",
+    "reasoning": "Combine Building with Molecule to create Amino Acid."
+  },
+  "building+rocket-science": {
+    "result": "library",
+    "reasoning": "A building filled with Rocket Science — a Library."
+  },
+  "building+science": {
+    "result": "library",
+    "reasoning": "A building filled with science — a Library."
+  },
+  "catalyst+chemical-reaction": {
+    "result": "solvent",
+    "reasoning": "Combine Chemical Reaction with Catalyst to create Solvent."
+  },
+  "chemical-reaction+chemistry": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Chemistry = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+climate-change": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Climate Change = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+clock": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Clock = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+cloning": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Cloning = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+coffin": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Coffin = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+combustion": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Combustion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+compass": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + compass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+compost": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Compost = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+conductivity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Conductivity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+contact-lens": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Contact Lens = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+convection": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Convection = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+coriolis-effect": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Coriolis Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+coulombs-law": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Coulombs Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+crispr": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + CRISPR = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+critical-mass": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Critical Mass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+crutch": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Crutch = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+crystallization": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Crystallization = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+death": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + death = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+decay": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Decay = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+density": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Density = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+destiny": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Destiny = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+diffusion": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Diffusion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+direction": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + direction = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+distilling": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Distilling = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+doppler-effect": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Doppler Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+drug": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Drug = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+ecology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Ecology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+economics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Economics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+elasticity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Elasticity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+electrolysis": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Electrolysis = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+electromagnetic-spectrum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Electromagnetic Spectrum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+electron": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Electron = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+element": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + element = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+engineering": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + engineering = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+entropy": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Entropy = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+equilibrium": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Equilibrium = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+evaporation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Evaporation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+failed-experiment": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Failed Experiment = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fermentation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fermentation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fertilizer": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fertilizer = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fission": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fission = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fluorescence": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fluorescence = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+food-science": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Food Science = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fossil-fuel": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fossil Fuel = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fragility": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fragility = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+frequency": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Frequency = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fulcrum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fulcrum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+fusion": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Fusion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+future": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Future = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+genetic-engineering": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Genetic Engineering = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+geology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Geology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+geometry": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Geometry = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+geothermal": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Geothermal = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+glasses": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Glasses = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+global-warming": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Global Warming = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+grave": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Grave = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+green-energy": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Green Energy = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+half-life": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Half-Life = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+harmonic": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Harmonic = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+hearing-aid": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Hearing Aid = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+helium": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Helium = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+history": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + history = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+hourglass": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Hourglass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+hydraulics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Hydraulics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+hydrogen": {
+    "result": "acid",
+    "reasoning": "Combine Hydrogen with Chemical Reaction to create Acid."
+  },
+  "chemical-reaction+hydropower": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Hydropower = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+ideal-gas-law": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Ideal Gas Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+impulse": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Impulse = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+inertia": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Inertia = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+infinity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Infinity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+insulation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Insulation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+interference": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Interference = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+ion": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Ion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+isotope": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Isotope = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+joule": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Joule = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+kinetics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Kinetics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+lab-equipment": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Lab Equipment = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+lab-rat": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Lab Rat = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+laser": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Laser = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+lattice": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Lattice = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+line": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + line = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+luminescence": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Luminescence = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+mach-number": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Mach Number = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+magnetism": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Magnetism = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+mass": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + mass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+mathematics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + mathematics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+matter": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + matter = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+measurement": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Measurement = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+medicine": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Medicine = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+meditation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Meditation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+meteorology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Meteorology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+microscope": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Microscope = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+molecule": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Molecule = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+momentum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Momentum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+mri": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + MRI = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+neon": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Neon = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+neutron": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Neutron = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+newtons-cradle": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Newtons Cradle = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+nitrogen": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Nitrogen = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+nuclear": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Nuclear = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+nutrition": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Nutrition = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+ohms-law": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Ohms Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+optics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Optics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+oscillation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Oscillation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+osmosis": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Osmosis = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+oxidation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Oxidation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+oxygen": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Oxygen = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+pacemaker": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Pacemaker = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+pascals-law": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Pascals Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+past": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Past = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+peer-pressure": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Peer Pressure = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+pendulum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Pendulum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+phase-transition": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Phase Transition = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+physics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Physics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+piezoelectricity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Piezoelectricity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+pill": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Pill = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+plasma": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Plasma = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+plasma-state": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Plasma State = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+point": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + point = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+polarization": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Polarization = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+pollution": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Pollution = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+polymer": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Polymer = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+prophecy": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Prophecy = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+prosthetic": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Prosthetic = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+proton": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Proton = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+psychology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Psychology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+quantum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Quantum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+radiation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Radiation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+radioactivity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Radioactivity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+rebirth": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Rebirth = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+recycling": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Recycling = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+refraction": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Refraction = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+relativity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Relativity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+renewable-energy": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Renewable Energy = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+resonance": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Resonance = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+rocket-science": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Rocket Science = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+science": {
+    "result": "solvent",
+    "reasoning": "Combine Chemical Reaction with Science to create Solvent."
+  },
+  "chemical-reaction+shape": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + shape = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+sharpness": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Sharpness = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+skeleton": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Skeleton = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+smog": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Smog = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+sociology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Sociology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+solvent": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Solvent = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+spectrum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Spectrum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+speed": {
+    "result": "catalyst",
+    "reasoning": "Combine Chemical Reaction with Speed to create Catalyst."
+  },
+  "chemical-reaction+static": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Static = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+statistics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Statistics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+stethoscope": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Stethoscope = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+sublimation": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Sublimation = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+superconductor": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Superconductor = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+supercooling": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Supercooling = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+surface-tension": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Surface Tension = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+surgery": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Surgery = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+sustainability": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Sustainability = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+syringe": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Syringe = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+therapy": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Therapy = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+thermocline": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Thermocline = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+thermodynamics": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Thermodynamics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+time": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + time = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+torque": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Torque = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+toxicity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Toxicity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+transparency": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Transparency = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+turbulence": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Turbulence = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+vaccine": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Vaccine = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+vacuum": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Vacuum = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+velocity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Velocity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+vibration": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Vibration = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+viscosity": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Viscosity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+vitamin": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Vitamin = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+void": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + void = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+waste": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + waste = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+watch": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Watch = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+wave": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Wave = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+wave-particle-duality": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Wave-Particle Duality = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+wavelength": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Wavelength = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+wheelchair": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Wheelchair = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+x-ray": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + X Ray = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+yoga": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Yoga = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+zero": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Zero = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chemical-reaction+zoology": {
+    "result": "hypothesis",
+    "reasoning": "Chemical reaction + Zoology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+climate-change": {
+    "result": "hypothesis",
+    "reasoning": "chip + Climate Change = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+clock": {
+    "result": "hypothesis",
+    "reasoning": "chip + Clock = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+cloning": {
+    "result": "hypothesis",
+    "reasoning": "chip + Cloning = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+coffin": {
+    "result": "hypothesis",
+    "reasoning": "chip + Coffin = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+combustion": {
+    "result": "hypothesis",
+    "reasoning": "chip + Combustion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+compass": {
+    "result": "hypothesis",
+    "reasoning": "chip + compass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+compost": {
+    "result": "hypothesis",
+    "reasoning": "chip + Compost = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+conductivity": {
+    "result": "hypothesis",
+    "reasoning": "chip + Conductivity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+contact-lens": {
+    "result": "hypothesis",
+    "reasoning": "chip + Contact Lens = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+convection": {
+    "result": "hypothesis",
+    "reasoning": "chip + Convection = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+coriolis-effect": {
+    "result": "hypothesis",
+    "reasoning": "chip + Coriolis Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+coulombs-law": {
+    "result": "hypothesis",
+    "reasoning": "chip + Coulombs Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+crispr": {
+    "result": "hypothesis",
+    "reasoning": "chip + CRISPR = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+critical-mass": {
+    "result": "hypothesis",
+    "reasoning": "chip + Critical Mass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+crutch": {
+    "result": "hypothesis",
+    "reasoning": "chip + Crutch = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+crystallization": {
+    "result": "hypothesis",
+    "reasoning": "chip + Crystallization = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+death": {
+    "result": "hypothesis",
+    "reasoning": "chip + death = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+decay": {
+    "result": "hypothesis",
+    "reasoning": "chip + Decay = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+density": {
+    "result": "hypothesis",
+    "reasoning": "chip + Density = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+destiny": {
+    "result": "hypothesis",
+    "reasoning": "chip + Destiny = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+diffusion": {
+    "result": "hypothesis",
+    "reasoning": "chip + Diffusion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+direction": {
+    "result": "hypothesis",
+    "reasoning": "chip + direction = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+distilling": {
+    "result": "hypothesis",
+    "reasoning": "chip + Distilling = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+doppler-effect": {
+    "result": "hypothesis",
+    "reasoning": "chip + Doppler Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+drug": {
+    "result": "hypothesis",
+    "reasoning": "chip + Drug = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+ecology": {
+    "result": "hypothesis",
+    "reasoning": "chip + Ecology = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+economics": {
+    "result": "hypothesis",
+    "reasoning": "chip + Economics = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+elasticity": {
+    "result": "hypothesis",
+    "reasoning": "chip + Elasticity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  },
+  "chip+electrolysis": {
+    "result": "hypothesis",
+    "reasoning": "chip + Electrolysis = a Hypothesis. An educated guess that someone will spend 5 years testing."
   }
 }

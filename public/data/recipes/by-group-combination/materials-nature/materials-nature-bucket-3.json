@@ -1,0 +1,882 @@
+{
+  "heat+ingot": {
+    "result": "alloy",
+    "reasoning": "Intense Heat fuses Ingot into an Alloy."
+  },
+  "heat+iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Iron with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+limestone": {
+    "result": "quicklite",
+    "reasoning": "Combine Limestone with Heat to create Quicklite."
+  },
+  "heat+marble": {
+    "result": "lava",
+    "reasoning": "Heat melts Marble into flowing Lava."
+  },
+  "heat+metal": {
+    "result": "tin",
+    "reasoning": "Processing Heat with metal yields Tin"
+  },
+  "heat+mineral": {
+    "result": "plaster",
+    "reasoning": "Heated calcium forms Plaster"
+  },
+  "heat+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "heat+natural-gas": {
+    "result": "evaporation",
+    "reasoning": "Combine Heat with Natural Gas to create Evaporation."
+  },
+  "heat+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+oil": {
+    "result": "tar",
+    "reasoning": "Combine Oil with Heat to create Tar."
+  },
+  "heat+petroleum": {
+    "result": "plastic",
+    "reasoning": "Processing Heat with Petroleum yields Plastic"
+  },
+  "heat+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "heat+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "heat+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+soil": {
+    "result": "lava",
+    "reasoning": "Heat melts Soil into flowing Lava."
+  },
+  "heat+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+tar": {
+    "result": "teflon",
+    "reasoning": "Combine Heat with Tar to create Teflon."
+  },
+  "heat+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "heat+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Heat creates an Ingot — the foundation of metallurgy."
+  },
+  "hot-spring+ingot": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Ingot — the slow destruction of Rust."
+  },
+  "hot-spring+iron": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Iron — the slow destruction of Rust."
+  },
+  "hot-spring+lead": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Lead — the slow destruction of Rust."
+  },
+  "hot-spring+limestone": {
+    "result": "mud",
+    "reasoning": "Hot Spring + Limestone = Mud — simple, squishy, essential."
+  },
+  "hot-spring+marble": {
+    "result": "mud",
+    "reasoning": "Hot Spring + Marble = Mud — simple, squishy, essential."
+  },
+  "hot-spring+metal": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes metal — the slow destruction of Rust."
+  },
+  "hot-spring+mineral": {
+    "result": "thermal-pool",
+    "reasoning": "Combine Hot Spring with Mineral to create Thermal Pool."
+  },
+  "hot-spring+nickel": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Nickel — the slow destruction of Rust."
+  },
+  "hot-spring+platinum": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Platinum — the slow destruction of Rust."
+  },
+  "hot-spring+silver": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Silver — the slow destruction of Rust."
+  },
+  "hot-spring+soil": {
+    "result": "mud",
+    "reasoning": "Hot Spring + Soil = Mud — simple, squishy, essential."
+  },
+  "hot-spring+steel": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Steel — the slow destruction of Rust."
+  },
+  "hot-spring+tin": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Tin — the slow destruction of Rust."
+  },
+  "hot-spring+titanium": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Titanium — the slow destruction of Rust."
+  },
+  "hot-spring+tungsten": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "hot-spring+zinc": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Zinc — the slow destruction of Rust."
+  },
+  "ice+soil": {
+    "result": "permafrost",
+    "reasoning": "Combine Soil with Ice to create Permafrost."
+  },
+  "iron+lightning": {
+    "result": "magnetism",
+    "reasoning": "Iron and Lightning explain the phenomenon of Magnetism"
+  },
+  "iron+rain": {
+    "result": "rust",
+    "reasoning": "Rainwater oxidizes iron, forming rust"
+  },
+  "iron+water": {
+    "result": "rust",
+    "reasoning": "Processing Iron with Water yields Rust"
+  },
+  "lagoon+lead": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Lead — the slow destruction of Rust."
+  },
+  "lagoon+limestone": {
+    "result": "mud",
+    "reasoning": "Lagoon + Limestone = Mud — simple, squishy, essential."
+  },
+  "lagoon+marble": {
+    "result": "mud",
+    "reasoning": "Lagoon + Marble = Mud — simple, squishy, essential."
+  },
+  "lagoon+metal": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes metal — the slow destruction of Rust."
+  },
+  "lagoon+mineral": {
+    "result": "mud",
+    "reasoning": "Lagoon + Mineral = Mud — simple, squishy, essential."
+  },
+  "lagoon+nickel": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Nickel — the slow destruction of Rust."
+  },
+  "lagoon+platinum": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Platinum — the slow destruction of Rust."
+  },
+  "lagoon+silver": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Silver — the slow destruction of Rust."
+  },
+  "lagoon+soil": {
+    "result": "mud",
+    "reasoning": "Lagoon + Soil = Mud — simple, squishy, essential."
+  },
+  "lagoon+steel": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Steel — the slow destruction of Rust."
+  },
+  "lagoon+tin": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Tin — the slow destruction of Rust."
+  },
+  "lagoon+titanium": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Titanium — the slow destruction of Rust."
+  },
+  "lagoon+tungsten": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "lagoon+zinc": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Zinc — the slow destruction of Rust."
+  },
+  "lake+lead": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Lead — the slow destruction of Rust."
+  },
+  "lake+limestone": {
+    "result": "mud",
+    "reasoning": "Lake + Limestone = Mud — simple, squishy, essential."
+  },
+  "lake+marble": {
+    "result": "mud",
+    "reasoning": "Lake + Marble = Mud — simple, squishy, essential."
+  },
+  "lake+metal": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes metal — the slow destruction of Rust."
+  },
+  "lake+mineral": {
+    "result": "mud",
+    "reasoning": "Lake + Mineral = Mud — simple, squishy, essential."
+  },
+  "lake+nickel": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Nickel — the slow destruction of Rust."
+  },
+  "lake+platinum": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Platinum — the slow destruction of Rust."
+  },
+  "lake+silver": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Silver — the slow destruction of Rust."
+  },
+  "lake+soil": {
+    "result": "mud",
+    "reasoning": "Lake + Soil = Mud — simple, squishy, essential."
+  },
+  "lake+steel": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Steel — the slow destruction of Rust."
+  },
+  "lake+tin": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Tin — the slow destruction of Rust."
+  },
+  "lake+titanium": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Titanium — the slow destruction of Rust."
+  },
+  "lake+tungsten": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "lake+zinc": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Zinc — the slow destruction of Rust."
+  },
+  "land+paper": {
+    "result": "map",
+    "reasoning": "land combined with Paper leads to Map"
+  },
+  "lava-field+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+limestone": {
+    "result": "lava",
+    "reasoning": "Lava Field melts Limestone into flowing Lava."
+  },
+  "lava-field+marble": {
+    "result": "lava",
+    "reasoning": "Lava Field melts Marble into flowing Lava."
+  },
+  "lava-field+metal": {
+    "result": "ingot",
+    "reasoning": "Smelting metal with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+mineral": {
+    "result": "lava",
+    "reasoning": "Lava Field melts Mineral into flowing Lava."
+  },
+  "lava-field+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-field+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava-field+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-field+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+soil": {
+    "result": "lava",
+    "reasoning": "Lava Field melts Soil into flowing Lava."
+  },
+  "lava-field+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+limestone": {
+    "result": "lava",
+    "reasoning": "Lava Tube melts Limestone into flowing Lava."
+  },
+  "lava-tube+marble": {
+    "result": "lava",
+    "reasoning": "Lava Tube melts Marble into flowing Lava."
+  },
+  "lava-tube+metal": {
+    "result": "ingot",
+    "reasoning": "Smelting metal with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+mineral": {
+    "result": "lava",
+    "reasoning": "Lava Tube melts Mineral into flowing Lava."
+  },
+  "lava-tube+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-tube+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava-tube+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-tube+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+soil": {
+    "result": "lava",
+    "reasoning": "Lava Tube melts Soil into flowing Lava."
+  },
+  "lava-tube+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+limestone": {
+    "result": "ceramic",
+    "reasoning": "Firing Limestone with Lava creates Ceramic."
+  },
+  "lava+marble": {
+    "result": "ceramic",
+    "reasoning": "Firing Marble with Lava creates Ceramic."
+  },
+  "lava+metal": {
+    "result": "ingot",
+    "reasoning": "Smelting metal with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+mineral": {
+    "result": "ceramic",
+    "reasoning": "Firing Mineral with Lava creates Ceramic."
+  },
+  "lava+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "lava+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "lava+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+soil": {
+    "result": "ceramic",
+    "reasoning": "Firing Soil with Lava creates Ceramic."
+  },
+  "lava+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lightning+metal": {
+    "result": "aluminum",
+    "reasoning": "Lightning channeled through metal — electricity"
+  },
+  "lightning+mirror": {
+    "result": "led",
+    "reasoning": "Lightning + Mirror = LED — efficient light that changed the world."
+  },
+  "lightning+nickel": {
+    "result": "magnet",
+    "reasoning": "Lightning through Nickel = Magnet — invisible force, visible wonder."
+  },
+  "lightning+platinum": {
+    "result": "magnet",
+    "reasoning": "Lightning through Platinum = Magnet — invisible force, visible wonder."
+  },
+  "lightning+prism": {
+    "result": "led",
+    "reasoning": "Lightning + Prism = LED — efficient light that changed the world."
+  },
+  "lightning+silver": {
+    "result": "magnet",
+    "reasoning": "Lightning through Silver = Magnet — invisible force, visible wonder."
+  },
+  "lightning+steel": {
+    "result": "magnet",
+    "reasoning": "Lightning through Steel = Magnet — invisible force, visible wonder."
+  },
+  "lightning+tin": {
+    "result": "magnet",
+    "reasoning": "Lightning through Tin = Magnet — invisible force, visible wonder."
+  },
+  "lightning+titanium": {
+    "result": "magnet",
+    "reasoning": "Lightning through Titanium = Magnet — invisible force, visible wonder."
+  },
+  "lightning+tungsten": {
+    "result": "magnet",
+    "reasoning": "Lightning through Tungsten = Magnet — invisible force, visible wonder."
+  },
+  "lightning+wire": {
+    "result": "electricity",
+    "reasoning": "Applying Lightning to Wire produces Electricity"
+  },
+  "lightning+zinc": {
+    "result": "magnet",
+    "reasoning": "Lightning through Zinc = Magnet — invisible force, visible wonder."
+  },
+  "limestone+pressure": {
+    "result": "chalk",
+    "reasoning": "Processing Limestone with Pressure yields Chalk"
+  },
+  "limestone+water": {
+    "result": "mortar",
+    "reasoning": "Limestone mixed with water makes Mortar"
+  },
+  "magma+mountain": {
+    "result": "lava",
+    "reasoning": "Magma melts mountain into flowing Lava."
+  },
+  "magma+mud": {
+    "result": "lava",
+    "reasoning": "Magma melts Mud into flowing Lava."
+  },
+  "magma+ocean": {
+    "result": "steam",
+    "reasoning": "Magma turns ocean to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+rain": {
+    "result": "steam",
+    "reasoning": "Magma turns Rain to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+river": {
+    "result": "steam",
+    "reasoning": "Magma turns River to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+sand": {
+    "result": "lava",
+    "reasoning": "Magma melts Sand into flowing Lava."
+  },
+  "magma+sand-bar": {
+    "result": "lava",
+    "reasoning": "Magma melts Sand Bar into flowing Lava."
+  },
+  "magma+sand-storm": {
+    "result": "lava",
+    "reasoning": "Magma melts Sand Storm into flowing Lava."
+  },
+  "magma+sea-cave": {
+    "result": "lava",
+    "reasoning": "Magma melts Sea Cave into flowing Lava."
+  },
+  "magma+sea-stack": {
+    "result": "steam",
+    "reasoning": "Magma turns Sea Stack to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+stone": {
+    "result": "granite",
+    "reasoning": "Processing Magma with Stone yields Granite"
+  },
+  "magma+stream": {
+    "result": "steam",
+    "reasoning": "Magma turns stream to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+swamp": {
+    "result": "steam",
+    "reasoning": "Magma turns Swamp to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+tide": {
+    "result": "steam",
+    "reasoning": "Magma turns Tide to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+tide-pool": {
+    "result": "steam",
+    "reasoning": "Magma turns Tide Pool to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+water": {
+    "result": "steam",
+    "reasoning": "Magma turns Water to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+waterfall": {
+    "result": "steam",
+    "reasoning": "Magma turns Waterfall to Steam — the force that powered the Industrial Revolution."
+  },
+  "metal+pressure": {
+    "result": "platinum",
+    "reasoning": "Processing metal with Pressure yields Platinum"
+  },
+  "metal+stone": {
+    "result": "copper",
+    "reasoning": "Processing metal with Stone yields Copper"
+  },
+  "metal+water": {
+    "result": "bucket",
+    "reasoning": "Combine Metal with Water to create Bucket."
+  },
+  "mineral+pressure": {
+    "result": "crystal",
+    "reasoning": "Processing Mineral with Pressure yields Crystal"
+  },
+  "mineral+stone": {
+    "result": "pigment",
+    "reasoning": "Crushing minerals on stone yields Pigment"
+  },
+  "mineral+water": {
+    "result": "plaster",
+    "reasoning": "Gypsum mixed with water makes Plaster"
+  },
+  "mirror+mist": {
+    "result": "erosion",
+    "reasoning": "Mirror + Mist = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+moraine": {
+    "result": "erosion",
+    "reasoning": "Mirror + Moraine = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+mountain": {
+    "result": "erosion",
+    "reasoning": "Mirror + mountain = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+mud": {
+    "result": "erosion",
+    "reasoning": "Mirror + Mud = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+mudflat": {
+    "result": "erosion",
+    "reasoning": "Mirror + Mudflat = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+mudslide": {
+    "result": "erosion",
+    "reasoning": "Mirror + Mudslide = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+muskeg": {
+    "result": "erosion",
+    "reasoning": "Mirror + Muskeg = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+national-park": {
+    "result": "erosion",
+    "reasoning": "Mirror + National Park = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+nature-documentary": {
+    "result": "erosion",
+    "reasoning": "Mirror + Nature Documentary = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+oasis": {
+    "result": "erosion",
+    "reasoning": "Mirror + Oasis = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+obsidian": {
+    "result": "erosion",
+    "reasoning": "Mirror + Obsidian = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+ocean": {
+    "result": "erosion",
+    "reasoning": "Mirror + ocean = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+peat": {
+    "result": "erosion",
+    "reasoning": "Mirror + Peat = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+pebble": {
+    "result": "erosion",
+    "reasoning": "Mirror + Pebble = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+peninsula": {
+    "result": "erosion",
+    "reasoning": "Mirror + Peninsula = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+phytoplankton-bloom": {
+    "result": "erosion",
+    "reasoning": "Mirror + Phytoplankton Bloom = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+plateau": {
+    "result": "erosion",
+    "reasoning": "Mirror + Plateau = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+prairie": {
+    "result": "erosion",
+    "reasoning": "Mirror + Prairie = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+pressure": {
+    "result": "erosion",
+    "reasoning": "Mirror + Pressure = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+puddle": {
+    "result": "erosion",
+    "reasoning": "Mirror + Puddle = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+quicksand": {
+    "result": "erosion",
+    "reasoning": "Mirror + Quicksand = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rain": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rain = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rainbow": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rainbow = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rainforest": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rainforest = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rapids": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rapids = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+ravine": {
+    "result": "erosion",
+    "reasoning": "Mirror + Ravine = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+reef": {
+    "result": "erosion",
+    "reasoning": "Mirror + Reef = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+ridge": {
+    "result": "erosion",
+    "reasoning": "Mirror + Ridge = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rift-valley": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rift Valley = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+river": {
+    "result": "erosion",
+    "reasoning": "Mirror + River = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+salt-flat": {
+    "result": "erosion",
+    "reasoning": "Mirror + Salt Flat = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sand": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sand = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sand-bar": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sand Bar = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sand-storm": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sand Storm = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+savanna": {
+    "result": "erosion",
+    "reasoning": "Mirror + Savanna = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+scrubland": {
+    "result": "erosion",
+    "reasoning": "Mirror + Scrubland = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sea-cave": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sea Cave = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sea-stack": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sea Stack = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sinkhole": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sinkhole = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+smoke": {
+    "result": "erosion",
+    "reasoning": "Mirror + Smoke = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+snow": {
+    "result": "erosion",
+    "reasoning": "Mirror + Snow = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stalactite": {
+    "result": "erosion",
+    "reasoning": "Mirror + Stalactite = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stalagmite": {
+    "result": "erosion",
+    "reasoning": "Mirror + Stalagmite = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+steam": {
+    "result": "erosion",
+    "reasoning": "Mirror + Steam = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+steppe": {
+    "result": "erosion",
+    "reasoning": "Mirror + Steppe = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stone": {
+    "result": "erosion",
+    "reasoning": "Mirror + Stone = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+storm": {
+    "result": "erosion",
+    "reasoning": "Mirror + Storm = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+strait": {
+    "result": "erosion",
+    "reasoning": "Mirror + Strait = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stream": {
+    "result": "erosion",
+    "reasoning": "Mirror + stream = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+swamp": {
+    "result": "erosion",
+    "reasoning": "Mirror + Swamp = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+taiga": {
+    "result": "erosion",
+    "reasoning": "Mirror + Taiga = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thermal-pool": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thermal Vent = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thicket": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thicket = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thunder": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thunder = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tide": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tide = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tide-pool": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tide Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tornado": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tornado = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tributary": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tributary = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tsunami": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tsunami = Erosion. Nature always wins. It just takes a while."
+  }
+}

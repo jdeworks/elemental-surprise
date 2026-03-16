@@ -1,34 +1,882 @@
 {
-  "anger+wine": {
-    "result": "france",
-    "reasoning": "Anger tags in with wine, and somehow the universe speedruns France."
+  "barn+monk": {
+    "result": "temple",
+    "reasoning": "A Barn for Monk — a Temple."
   },
-  "brain+food": {
-    "result": "taste",
-    "reasoning": "Brain plus food is the weird recipe your alchemist friend swears by for making Taste."
+  "barn+wisdom": {
+    "result": "library",
+    "reasoning": "A Barn filled with Wisdom — a Library."
   },
-  "creativity+wine": {
-    "result": "italy",
-    "reasoning": "Creativity and wine shake hands, reality shrugs, and Italy is suddenly canon."
+  "beer+human": {
+    "result": "brewer",
+    "reasoning": "Combine Human with Beer to create Brewer."
   },
-  "farm+human": {
-    "result": "farmer",
-    "reasoning": "farm and human together shape Farmer"
+  "blood+gruel": {
+    "result": "capillary",
+    "reasoning": "Combine Blood with Gruel to create Capillary."
   },
-  "farm+intelligence": {
-    "result": "farmer",
-    "reasoning": "Someone mixed farm with intelligence for science. The peer-reviewed conclusion: Farmer."
+  "bone+ceviche": {
+    "result": "gelatin",
+    "reasoning": "Combine Bone with Ceviche to create Gelatin."
   },
-  "food+human": {
+  "bone+coconut": {
+    "result": "gelatin",
+    "reasoning": "Combine Bone with Coconut to create Gelatin."
+  },
+  "bone+gelatin": {
+    "result": "bone-china",
+    "reasoning": "Combine Bone with Gelatin to create Bone China."
+  },
+  "bread+human": {
+    "result": "baker",
+    "reasoning": "A human who makes bread is a Baker"
+  },
+  "bruschetta+butcher": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Butcher = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+camping": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Camping = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+carpenter": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Carpenter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+cartographer": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Cartographer = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+catharsis": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Catharsis = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+charisma": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Charisma = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+child": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Child = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+compassion": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Compassion = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+conscience": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Conscience = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+consciousness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Consciousness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+contentment": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Contentment = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+courage": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + courage = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+creativity": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Creativity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+curiosity": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Curiosity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+deja-vu": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Deja Vu = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+despair": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Despair = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+determination": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Determination = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+dilemma": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Dilemma = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+diplomat": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Diplomat = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+diver": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Diver = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+diy-disaster": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + DIY Disaster = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+doubt": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Doubt = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+dream": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Dream = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+ecstasy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Ecstasy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+electrician": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Electrician = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+emotion": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Emotion = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+empathy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Empathy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+envy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Envy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+epiphany": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Epiphany = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+euphoria": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Euphoria = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+excitement": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Excitement = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+existential-crisis": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Existential Crisis = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+eye": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + eye = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+faith": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Faith = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+family": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Family = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+fear": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + fear = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+firefighter": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Firefighter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+florist": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Florist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+foot": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + foot = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+forgiveness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Forgiveness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+free-will": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Free Will = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+frustration": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Frustration = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+generosity": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Generosity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+geologist": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Geologist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+glassblower": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Glassblower = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+gratitude": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Gratitude = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+grief": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Grief = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+guard": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Guard = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+hand": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + hand = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+happiness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Happiness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+head": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + head = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+healer": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Healer = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+hearing": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Hearing = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+heart": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Heart = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+honor": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Honor = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+hope": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Hope = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+human": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + human = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+humility": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Humility = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+hunter": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Hunter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+hysteria": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Hysteria = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+idea": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Idea = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+identity": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Identity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+imagination": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + imagination = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+impostor-syndrome": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Impostor Syndrome = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+inspiration": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Inspiration = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+instinct": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Instinct = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+intelligence": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + intelligence = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+intuition": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Intuition = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+jealousy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Jealousy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+jeweler": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Jeweler = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+joy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Joy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+legacy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Legacy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+librarian": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Librarian = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+locksmith": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Locksmith = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+loneliness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Loneliness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+love": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Love = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+loyalty": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Loyalty = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+lumberjack": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Lumberjack = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+mad-scientist": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Mad Scientist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+man": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Man = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+mechanic": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Mechanic = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+melancholy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Melancholy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+memory": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Memory = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+merchant": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Merchant = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+midlife-crisis": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Midlife Crisis = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+mindfulness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Mindfulness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+miner": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Miner = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+monk": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Monk = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+navigator": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Navigator = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+nightmare": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Nightmare = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+nostalgia": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Nostalgia = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+obsession": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Obsession = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+office-politics": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Office Politics = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+overthinking": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Overthinking = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+paramedic": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Paramedic = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+patience": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Patience = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+perseverance": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Perseverance = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+pharmacist": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Pharmacist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+plumber": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Plumber = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+population": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + population = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+potter": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Potter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+prejudice": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Prejudice = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+pride": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Pride = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+ranger": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Ranger = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+redemption": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Redemption = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+regret": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Regret = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+resentment": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Resentment = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+resilience": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Resilience = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sacrifice": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sacrifice = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sadness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sadness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sailor": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sailor = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+screen-addiction": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Screen Addiction = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+scribe": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Scribe = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sense": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sense = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+serenity": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Serenity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+shame": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Shame = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+shepherd": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Shepherd = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sight": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sight = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+skepticism": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Skepticism = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+skin": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + skin = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sleep": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + sleep = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+smell": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Smell = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+solace": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Solace = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+soul": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Soul = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+space-madness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Space Madness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+speech": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Speech = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+spy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Spy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+stubbornness": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Stubbornness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+surgeon": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Surgeon = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+sympathy": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Sympathy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+tailor": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Tailor = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+taste": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Taste = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+taxidermist": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Taxidermist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+temptation": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Temptation = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+thief": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Thief = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+thought": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Thought = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+touch": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Touch = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+trauma": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Trauma = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+triumph": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Triumph = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+vengeance": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Vengeance = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+veterinarian": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Veterinarian = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+vigilance": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Vigilance = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+virtue": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Virtue = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+voice": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + voice = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+wanderlust": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Wanderlust = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+weaver": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Weaver = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+wisdom": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Wisdom = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+woman": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Woman = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+wonder": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Wonder = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "bruschetta+yearning": {
+    "result": "food-coma",
+    "reasoning": "Bruschetta + Yearning = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "child+cooking": {
     "result": "chef",
-    "reasoning": "food and human together shape Chef"
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
   },
-  "food+intelligence": {
-    "result": "chef",
-    "reasoning": "food plus intelligence is the weird recipe your alchemist friend swears by for making Chef."
+  "child+plow": {
+    "result": "farmer",
+    "reasoning": "The plow launched the agricultural revolution — farming feeds civilization"
   },
-  "food+sense": {
-    "result": "taste",
-    "reasoning": "The human experience of food and Sense manifests as Taste"
+  "child+tractor": {
+    "result": "farmer",
+    "reasoning": "Tractors mechanized farming — one machine replaces 20 horses"
+  },
+  "chili+compassion": {
+    "result": "food-coma",
+    "reasoning": "Chili + Compassion = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+conscience": {
+    "result": "food-coma",
+    "reasoning": "Chili + Conscience = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+consciousness": {
+    "result": "food-coma",
+    "reasoning": "Chili + Consciousness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+contentment": {
+    "result": "food-coma",
+    "reasoning": "Chili + Contentment = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+courage": {
+    "result": "food-coma",
+    "reasoning": "Chili + courage = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+creativity": {
+    "result": "food-coma",
+    "reasoning": "Chili + Creativity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+curiosity": {
+    "result": "food-coma",
+    "reasoning": "Chili + Curiosity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+deja-vu": {
+    "result": "food-coma",
+    "reasoning": "Chili + Deja Vu = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+despair": {
+    "result": "food-coma",
+    "reasoning": "Chili + Despair = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+determination": {
+    "result": "food-coma",
+    "reasoning": "Chili + Determination = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+dilemma": {
+    "result": "food-coma",
+    "reasoning": "Chili + Dilemma = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+diplomat": {
+    "result": "food-coma",
+    "reasoning": "Chili + Diplomat = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+diver": {
+    "result": "food-coma",
+    "reasoning": "Chili + Diver = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+diy-disaster": {
+    "result": "food-coma",
+    "reasoning": "Chili + DIY Disaster = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+doubt": {
+    "result": "food-coma",
+    "reasoning": "Chili + Doubt = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+dream": {
+    "result": "food-coma",
+    "reasoning": "Chili + Dream = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+ecstasy": {
+    "result": "food-coma",
+    "reasoning": "Chili + Ecstasy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+electrician": {
+    "result": "food-coma",
+    "reasoning": "Chili + Electrician = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+emotion": {
+    "result": "food-coma",
+    "reasoning": "Chili + Emotion = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+empathy": {
+    "result": "food-coma",
+    "reasoning": "Chili + Empathy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+envy": {
+    "result": "food-coma",
+    "reasoning": "Chili + Envy = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+epiphany": {
+    "result": "food-coma",
+    "reasoning": "Chili + Epiphany = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+euphoria": {
+    "result": "food-coma",
+    "reasoning": "Chili + Euphoria = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+excitement": {
+    "result": "food-coma",
+    "reasoning": "Chili + Excitement = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+existential-crisis": {
+    "result": "food-coma",
+    "reasoning": "Chili + Existential Crisis = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+eye": {
+    "result": "food-coma",
+    "reasoning": "Chili + eye = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+faith": {
+    "result": "food-coma",
+    "reasoning": "Chili + Faith = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+family": {
+    "result": "food-coma",
+    "reasoning": "Chili + Family = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+fear": {
+    "result": "food-coma",
+    "reasoning": "Chili + fear = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+firefighter": {
+    "result": "food-coma",
+    "reasoning": "Chili + Firefighter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+florist": {
+    "result": "food-coma",
+    "reasoning": "Chili + Florist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+foot": {
+    "result": "food-coma",
+    "reasoning": "Chili + foot = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+forgiveness": {
+    "result": "food-coma",
+    "reasoning": "Chili + Forgiveness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+free-will": {
+    "result": "food-coma",
+    "reasoning": "Chili + Free Will = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+frustration": {
+    "result": "food-coma",
+    "reasoning": "Chili + Frustration = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+generosity": {
+    "result": "food-coma",
+    "reasoning": "Chili + Generosity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+geologist": {
+    "result": "food-coma",
+    "reasoning": "Chili + Geologist = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+glassblower": {
+    "result": "food-coma",
+    "reasoning": "Chili + Glassblower = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+gratitude": {
+    "result": "food-coma",
+    "reasoning": "Chili + Gratitude = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+grief": {
+    "result": "food-coma",
+    "reasoning": "Chili + Grief = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+guard": {
+    "result": "food-coma",
+    "reasoning": "Chili + Guard = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+hand": {
+    "result": "food-coma",
+    "reasoning": "Chili + hand = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+happiness": {
+    "result": "food-coma",
+    "reasoning": "Chili + Happiness = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+head": {
+    "result": "food-coma",
+    "reasoning": "Chili + head = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+healer": {
+    "result": "food-coma",
+    "reasoning": "Chili + Healer = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+hearing": {
+    "result": "food-coma",
+    "reasoning": "Chili + Hearing = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+heart": {
+    "result": "food-coma",
+    "reasoning": "Chili + Heart = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+honor": {
+    "result": "food-coma",
+    "reasoning": "Chili + Honor = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+hope": {
+    "result": "food-coma",
+    "reasoning": "Chili + Hope = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+human": {
+    "result": "food-coma",
+    "reasoning": "Chili + human = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+humility": {
+    "result": "food-coma",
+    "reasoning": "Chili + Humility = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+hunter": {
+    "result": "food-coma",
+    "reasoning": "Chili + Hunter = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+hysteria": {
+    "result": "food-coma",
+    "reasoning": "Chili + Hysteria = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+idea": {
+    "result": "food-coma",
+    "reasoning": "Chili + Idea = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+identity": {
+    "result": "food-coma",
+    "reasoning": "Chili + Identity = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+imagination": {
+    "result": "food-coma",
+    "reasoning": "Chili + imagination = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+impostor-syndrome": {
+    "result": "food-coma",
+    "reasoning": "Chili + Impostor Syndrome = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+inspiration": {
+    "result": "food-coma",
+    "reasoning": "Chili + Inspiration = Food Coma. The post-feast nap is a biological imperative."
+  },
+  "chili+instinct": {
+    "result": "food-coma",
+    "reasoning": "Chili + Instinct = Food Coma. The post-feast nap is a biological imperative."
   }
 }

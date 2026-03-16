@@ -1,194 +1,882 @@
 {
+  "acoustics+gravitational-wave": {
+    "result": "oscilloscope",
+    "reasoning": "Combine Gravitational Wave with Acoustics to create Oscilloscope."
+  },
+  "acoustics+gravity-wave": {
+    "result": "gravitational-wave",
+    "reasoning": "Combine Gravity Wave with Acoustics to create Gravitational Wave."
+  },
+  "amplitude+gravity-wave": {
+    "result": "gravitational-wave",
+    "reasoning": "Combine Gravity Wave with Amplitude to create Gravitational Wave."
+  },
+  "asteroid-belt+void": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into void — a Black Hole, where not even light escapes."
+  },
+  "asteroid+void": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into void — a Black Hole, where not even light escapes."
+  },
   "atom+black-hole": {
     "result": "antimatter",
     "reasoning": "Atom and Black Hole explain the phenomenon of Antimatter"
-  },
-  "atom+day": {
-    "result": "radioactivity",
-    "reasoning": "Atom meets Day, chaos files a memo, and Radioactivity walks out with the trophy."
-  },
-  "atom+night": {
-    "result": "radioactivity",
-    "reasoning": "Atom teams up with Night; the side quest reward is Radioactivity."
-  },
-  "atom+star": {
-    "result": "antimatter",
-    "reasoning": "Atom and Star shake hands, reality shrugs, and Antimatter is suddenly canon."
   },
   "atom+sun": {
     "result": "radiation",
     "reasoning": "Atom and sun explain the phenomenon of Radiation"
   },
-  "atom+universe": {
-    "result": "multiverse",
-    "reasoning": "When Atom and Universe collide, logic takes a coffee break and Multiverse appears anyway."
+  "binary-star+green-energy": {
+    "result": "dyson-sphere",
+    "reasoning": "Combine Binary Star with Green Energy to create Dyson Sphere."
   },
-  "black-hole+proton": {
-    "result": "antimatter",
-    "reasoning": "Black Hole plus Proton is the weird recipe your alchemist friend swears by for making Antimatter."
+  "binary-star+void": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into void — a Black Hole, where not even light escapes."
   },
-  "black-hole+time": {
-    "result": "time-travel",
-    "reasoning": "Black Hole meets time, chaos files a memo, and Time Travel walks out with the trophy."
+  "biology+black-hole": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Black Hole = Rocket Science. It IS actually rocket science this time."
   },
-  "change+day": {
-    "result": "speed",
-    "reasoning": "change tags in with Day, and somehow the universe speedruns Speed."
+  "biology+brown-dwarf": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Brown Dwarf = Rocket Science. It IS actually rocket science this time."
   },
-  "change+night": {
-    "result": "speed",
-    "reasoning": "change plus Night is the weird recipe your alchemist friend swears by for making Speed."
+  "biology+comet": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Comet = Rocket Science. It IS actually rocket science this time."
   },
-  "chemistry+sun": {
-    "result": "chemical-reaction",
-    "reasoning": "Someone mixed Chemistry with sun for science. The peer-reviewed conclusion: Chemical reaction."
+  "biology+constellation": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Constellation = Rocket Science. It IS actually rocket science this time."
   },
-  "compost+sun": {
-    "result": "biomass",
-    "reasoning": "Compost meets sun, chaos files a memo, and Biomass walks out with the trophy."
+  "biology+corona": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Corona = Rocket Science. It IS actually rocket science this time."
   },
-  "day+physics": {
-    "result": "determinism",
-    "reasoning": "When Day and Physics collide, logic takes a coffee break and Determinism appears anyway."
+  "biology+cosmic-dust": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Cosmic Dust = Rocket Science. It IS actually rocket science this time."
   },
-  "day+pollution": {
-    "result": "climate-change",
-    "reasoning": "Someone mixed Day with Pollution for science. The peer-reviewed conclusion: Climate Change."
+  "biology+cosmic-ray": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Cosmic Ray = Rocket Science. It IS actually rocket science this time."
   },
-  "day+wave": {
-    "result": "frequency",
-    "reasoning": "Day meets Wave, chaos files a memo, and Frequency walks out with the trophy."
+  "biology+cosmic-string": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Cosmic String = Rocket Science. It IS actually rocket science this time."
   },
-  "electron+sun": {
-    "result": "radiation",
-    "reasoning": "Electron tags in with sun, and somehow the universe speedruns Radiation."
+  "biology+dark-energy": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dark Energy = Rocket Science. It IS actually rocket science this time."
   },
-  "element+space": {
-    "result": "helium",
-    "reasoning": "element and space accidentally host a crossover episode; Helium steals the finale."
+  "biology+dark-matter": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dark Matter = Rocket Science. It IS actually rocket science this time."
   },
-  "element+star": {
-    "result": "helium",
-    "reasoning": "element and Star explain the phenomenon of Helium"
+  "biology+dawn": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dawn = Rocket Science. It IS actually rocket science this time."
   },
-  "element+sun": {
-    "result": "hydrogen",
-    "reasoning": "element and sun explain the phenomenon of Hydrogen"
+  "biology+day": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Day = Rocket Science. It IS actually rocket science this time."
   },
-  "future+night": {
-    "result": "prophecy",
-    "reasoning": "Future teams up with Night; the side quest reward is Prophecy."
+  "biology+dwarf-planet": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dwarf Planet = Rocket Science. It IS actually rocket science this time."
   },
-  "future+space": {
-    "result": "destiny",
-    "reasoning": "Future plus space is the weird recipe your alchemist friend swears by for making Destiny."
+  "biology+dwarf-star": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dwarf Star = Rocket Science. It IS actually rocket science this time."
   },
-  "future+star": {
-    "result": "destiny",
-    "reasoning": "Future and Star explain the phenomenon of Destiny"
+  "biology+dyson-sphere": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Dyson Sphere = Rocket Science. It IS actually rocket science this time."
   },
-  "future+sun": {
-    "result": "sustainability",
-    "reasoning": "Future and sun shake hands, reality shrugs, and Sustainability is suddenly canon."
+  "biology+eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Eclipse = Rocket Science. It IS actually rocket science this time."
   },
-  "galaxy+quantum": {
-    "result": "multiverse",
-    "reasoning": "Galaxy tags in with Quantum, and somehow the universe speedruns Multiverse."
+  "biology+event-horizon": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Event Horizon = Rocket Science. It IS actually rocket science this time."
   },
-  "galaxy+time": {
-    "result": "infinity",
-    "reasoning": "Galaxy teams up with time; the side quest reward is Infinity."
+  "biology+exoplanet": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Exoplanet = Rocket Science. It IS actually rocket science this time."
   },
-  "gravity+matter": {
-    "result": "mass",
-    "reasoning": "Gravity and matter explain the phenomenon of mass"
+  "biology+extraterrestrial": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Extraterrestrial = Rocket Science. It IS actually rocket science this time."
   },
-  "gravity+speed": {
-    "result": "momentum",
-    "reasoning": "Gravity plus Speed is the weird recipe your alchemist friend swears by for making Momentum."
+  "biology+galactic-core": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Galactic Core = Rocket Science. It IS actually rocket science this time."
   },
-  "gravity+wave": {
-    "result": "gravity-wave",
-    "reasoning": "Gravity and Wave combine in the cosmos to create Gravity Wave"
+  "biology+galaxy": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Galaxy = Rocket Science. It IS actually rocket science this time."
   },
-  "hydrogen+sun": {
-    "result": "fusion",
-    "reasoning": "Someone mixed Hydrogen with sun for science. The peer-reviewed conclusion: Fusion."
+  "biology+gamma-ray-burst": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Gamma Ray Burst = Rocket Science. It IS actually rocket science this time."
   },
-  "mass+sky": {
-    "result": "gravity",
-    "reasoning": "mass plus Sky is the weird recipe your alchemist friend swears by for making Gravity."
+  "biology+globular-cluster": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Globular Cluster = Rocket Science. It IS actually rocket science this time."
   },
-  "mass+space": {
-    "result": "gravity",
-    "reasoning": "mass and space combine in the cosmos to create Gravity"
+  "biology+gravitational-wave": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Gravitational Wave = Rocket Science. It IS actually rocket science this time."
   },
-  "mass+universe": {
-    "result": "dark-matter",
-    "reasoning": "mass tags in with Universe, and somehow the universe speedruns Dark Matter."
+  "biology+gravity": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Gravity = Rocket Science. It IS actually rocket science this time."
   },
-  "matter+space": {
-    "result": "mass",
-    "reasoning": "matter teams up with space; the side quest reward is mass."
+  "biology+gravity-wave": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Gravity Wave = Rocket Science. It IS actually rocket science this time."
   },
-  "night+physics": {
-    "result": "determinism",
-    "reasoning": "Someone mixed Night with Physics for science. The peer-reviewed conclusion: Determinism."
+  "biology+heliopause": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Heliopause = Rocket Science. It IS actually rocket science this time."
   },
-  "night+wave": {
-    "result": "frequency",
-    "reasoning": "Night teams up with Wave; the side quest reward is Frequency."
+  "biology+hubble-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Hubble Telescope = Rocket Science. It IS actually rocket science this time."
   },
-  "oxygen+sun": {
-    "result": "molecule",
-    "reasoning": "When Oxygen and sun collide, logic takes a coffee break and Molecule appears anyway."
+  "biology+interstellar": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Interstellar = Rocket Science. It IS actually rocket science this time."
   },
-  "proton+star": {
-    "result": "helium",
-    "reasoning": "When Proton and Star collide, logic takes a coffee break and Helium appears anyway."
+  "biology+iss": {
+    "result": "rocket-science",
+    "reasoning": "Biology + ISS = Rocket Science. It IS actually rocket science this time."
   },
-  "proton+sun": {
-    "result": "hydrogen",
-    "reasoning": "Someone mixed Proton with sun for science. The peer-reviewed conclusion: Hydrogen."
+  "biology+james-webb": {
+    "result": "rocket-science",
+    "reasoning": "Biology + James Webb = Rocket Science. It IS actually rocket science this time."
   },
-  "quantum+universe": {
-    "result": "multiverse",
-    "reasoning": "Quantum and Universe combine in the cosmos to create Multiverse"
+  "biology+kuiper-belt": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Kuiper Belt = Rocket Science. It IS actually rocket science this time."
   },
-  "science+space-station": {
-    "result": "iss",
-    "reasoning": "science and Space Station combine in the cosmos to create ISS"
+  "biology+lagrange-point": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Lagrange Point = Rocket Science. It IS actually rocket science this time."
   },
-  "science+star": {
-    "result": "astronomy",
-    "reasoning": "science and Star explain the phenomenon of Astronomy"
+  "biology+light-year": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Light Year = Rocket Science. It IS actually rocket science this time."
   },
-  "science+sun": {
-    "result": "astronomy",
-    "reasoning": "science and sun shake hands, reality shrugs, and Astronomy is suddenly canon."
+  "biology+lunar-crater": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Lunar Crater = Rocket Science. It IS actually rocket science this time."
   },
-  "space+time": {
-    "result": "time-travel",
-    "reasoning": "space teams up with time; the side quest reward is Time Travel."
+  "biology+lunar-eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Lunar Eclipse = Rocket Science. It IS actually rocket science this time."
   },
-  "space+wave": {
-    "result": "gravity-wave",
-    "reasoning": "space plus Wave is the weird recipe your alchemist friend swears by for making Gravity Wave."
+  "biology+magnetar": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Magnetar = Rocket Science. It IS actually rocket science this time."
   },
-  "star+time": {
-    "result": "destiny",
-    "reasoning": "Star teams up with time; the side quest reward is Destiny."
+  "biology+mars": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Mars = Rocket Science. It IS actually rocket science this time."
   },
-  "sun+time": {
-    "result": "sap",
-    "reasoning": "sun teams up with time; the side quest reward is Sap."
+  "biology+mars-colony": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Mars Colony = Rocket Science. It IS actually rocket science this time."
   },
-  "time+universe": {
-    "result": "infinity",
-    "reasoning": "time and Universe explain the phenomenon of Infinity"
+  "biology+mars-rover": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Mars Rover = Rocket Science. It IS actually rocket science this time."
   },
-  "time+wormhole": {
-    "result": "time-travel",
-    "reasoning": "time and Wormhole combine in the cosmos to create Time Travel"
+  "biology+meteor": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Meteor = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+meteor-shower": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Meteor Shower = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+meteorite": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Meteorite = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+milky-way": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Milky Way = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+moon": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Moon = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+moon-base": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Moon Base = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+moon-landing": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Moon Landing = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+moonlight": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Moonlight = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+multiverse": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Multiverse = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+nasa": {
+    "result": "rocket-science",
+    "reasoning": "Biology + NASA = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+nebula": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Nebula = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+neutron-star": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Neutron Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+night": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Night = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+nova": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Nova = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+observatory": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Observatory = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+oort-cloud": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Oort Cloud = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+orbit": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Orbit = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+planet": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Planet = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+planetarium": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Planetarium = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+planetary-ring": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Planetary Ring = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+protostar": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Protostar = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+pulsar": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Pulsar = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+quasar": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Quasar = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+radio-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Radio Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+red-giant": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Red Giant = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+ring": {
+    "result": "rocket-science",
+    "reasoning": "Biology + ring = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+satellite-dish": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Satellite Dish = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+saturn": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Saturn = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+seti": {
+    "result": "rocket-science",
+    "reasoning": "Biology + SETI = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+sky": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Sky = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+solar-eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Solar Eclipse = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+solar-flare": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Solar Flare = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+solar-sail": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Solar Sail = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+solar-wind": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Solar Wind = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space": {
+    "result": "rocket-science",
+    "reasoning": "Biology + space = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-debris": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Debris = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-elevator": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Elevator = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-junk": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Junk = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-monkey": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Monkey = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-probe": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Probe = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-station": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Station = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-suit": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Suit = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+space-wrench": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Space Wrench = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+star": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+star-map": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Star Map = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+sun": {
+    "result": "rocket-science",
+    "reasoning": "Biology + sun = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+sunlight": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Sunlight = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+sunset": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Sunset = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+sunspot": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Sunspot = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+supernova": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Supernova = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+telescope": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+terraforming": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Terraforming = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+time-travel": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Time Travel = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+ufo": {
+    "result": "rocket-science",
+    "reasoning": "Biology + UFO = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+universe": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Universe = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+voyager-probe": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Voyager Probe = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+white-dwarf": {
+    "result": "rocket-science",
+    "reasoning": "Biology + White Dwarf = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+wormhole": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Wormhole = Rocket Science. It IS actually rocket science this time."
+  },
+  "biology+zero-gravity": {
+    "result": "rocket-science",
+    "reasoning": "Biology + Zero Gravity = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+comet": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Comet = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+constellation": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Constellation = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+corona": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Corona = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+cosmic-dust": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Cosmic Dust = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+cosmic-ray": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Cosmic Ray = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+cosmic-string": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Cosmic String = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dark-energy": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dark Energy = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dark-matter": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dark Matter = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dawn": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dawn = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+day": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Day = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dwarf-planet": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dwarf Planet = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dwarf-star": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dwarf Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+dyson-sphere": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Dyson Sphere = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Eclipse = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+event-horizon": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Event Horizon = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+exoplanet": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Exoplanet = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+extraterrestrial": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Extraterrestrial = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+galactic-core": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Galactic Core = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+galaxy": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Galaxy = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+gamma-ray-burst": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Gamma Ray Burst = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+globular-cluster": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Globular Cluster = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+gravitational-wave": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Gravitational Wave = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+gravity": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Gravity = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+gravity-wave": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Gravity Wave = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+heliopause": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Heliopause = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+hubble-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Hubble Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+interstellar": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Interstellar = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+iss": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + ISS = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+james-webb": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + James Webb = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+kuiper-belt": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Kuiper Belt = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+lagrange-point": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Lagrange Point = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+light-year": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Light Year = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+lunar-crater": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Lunar Crater = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+lunar-eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Lunar Eclipse = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+magnetar": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Magnetar = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+mars": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Mars = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+mars-colony": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Mars Colony = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+mars-rover": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Mars Rover = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+meteor": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Meteor = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+meteor-shower": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Meteor Shower = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+meteorite": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Meteorite = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+milky-way": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Milky Way = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+moon": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Moon = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+moon-base": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Moon Base = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+moon-landing": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Moon Landing = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+moonlight": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Moonlight = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+multiverse": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Multiverse = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+nasa": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + NASA = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+nebula": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Nebula = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+neutron-star": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Neutron Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+night": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Night = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+nova": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Nova = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+observatory": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Observatory = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+oort-cloud": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Oort Cloud = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+orbit": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Orbit = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+planet": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Planet = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+planetarium": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Planetarium = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+planetary-ring": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Planetary Ring = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+protostar": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Protostar = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+pulsar": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Pulsar = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+quasar": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Quasar = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+radio-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Radio Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+red-giant": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Red Giant = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+ring": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + ring = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+satellite-dish": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Satellite Dish = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+saturn": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Saturn = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+seti": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + SETI = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+sky": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Sky = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+solar-eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Solar Eclipse = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+solar-flare": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Solar Flare = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+solar-sail": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Solar Sail = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+solar-wind": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Solar Wind = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + space = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-debris": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Debris = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-elevator": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Elevator = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-junk": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Junk = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-monkey": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Monkey = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-probe": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Probe = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-station": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Station = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-suit": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Suit = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-telescope": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+space-wrench": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Space Wrench = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+star": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+star-map": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Star Map = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+sun": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + sun = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+sunlight": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Sunlight = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+sunset": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Sunset = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+sunspot": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Sunspot = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+supernova": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Supernova = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+telescope": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Telescope = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+terraforming": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Terraforming = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+time-travel": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Time Travel = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+ufo": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + UFO = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+universe": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Universe = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+voyager-probe": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Voyager Probe = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+white-dwarf": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + White Dwarf = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+wormhole": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Wormhole = Rocket Science. It IS actually rocket science this time."
+  },
+  "coffin+zero-gravity": {
+    "result": "rocket-science",
+    "reasoning": "Coffin + Zero Gravity = Rocket Science. It IS actually rocket science this time."
+  },
+  "comet+void": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into void — a Black Hole, where not even light escapes."
+  },
+  "constellation+void": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into void — a Black Hole, where not even light escapes."
+  },
+  "dark-energy+green-energy": {
+    "result": "gamma-ray-burst",
+    "reasoning": "Combine Dark Energy with Green Energy to create Gamma Ray Burst."
+  },
+  "dark-energy+renewable-energy": {
+    "result": "gamma-ray-burst",
+    "reasoning": "Combine Dark Energy with Renewable Energy to create Gamma Ray Burst."
+  },
+  "death+sky": {
+    "result": "vulture",
+    "reasoning": "Combine Death with Sky to create Vulture."
+  },
+  "death+sun": {
+    "result": "supernova",
+    "reasoning": "The death of a sun is a Supernova"
+  },
+  "decay+time-travel": {
+    "result": "half-life",
+    "reasoning": "Combine Decay with Time Travel to create Half-Life."
+  },
+  "destiny+dwarf-planet": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Dwarf Planet = Rocket Science. It IS actually rocket science this time."
+  },
+  "destiny+dwarf-star": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Dwarf Star = Rocket Science. It IS actually rocket science this time."
+  },
+  "destiny+dyson-sphere": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Dyson Sphere = Rocket Science. It IS actually rocket science this time."
+  },
+  "destiny+eclipse": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Eclipse = Rocket Science. It IS actually rocket science this time."
+  },
+  "destiny+event-horizon": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Event Horizon = Rocket Science. It IS actually rocket science this time."
+  },
+  "destiny+exoplanet": {
+    "result": "rocket-science",
+    "reasoning": "Destiny + Exoplanet = Rocket Science. It IS actually rocket science this time."
   }
 }

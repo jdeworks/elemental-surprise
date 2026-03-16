@@ -1,10 +1,882 @@
 {
+  "alchemy+building": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + building = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+chip": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+oven": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+phone": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "alchemy+track": {
+    "result": "plot-hole",
+    "reasoning": "Alchemy + track = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+building": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + building = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+chip": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+oven": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+phone": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "ambrosia+track": {
+    "result": "plot-hole",
+    "reasoning": "Ambrosia + track = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+building": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + building = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+chip": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+oven": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+phone": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "amulet+track": {
+    "result": "plot-hole",
+    "reasoning": "Amulet + track = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+building": {
+    "result": "plot-hole",
+    "reasoning": "Angel + building = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Angel + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+chip": {
+    "result": "plot-hole",
+    "reasoning": "Angel + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Angel + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Angel + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Angel + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Angel + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+oven": {
+    "result": "plot-hole",
+    "reasoning": "Angel + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+phone": {
+    "result": "plot-hole",
+    "reasoning": "Angel + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "angel+track": {
+    "result": "plot-hole",
+    "reasoning": "Angel + track = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+building": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + building = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+chip": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+oven": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+phone": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "arcane-tome+track": {
+    "result": "plot-hole",
+    "reasoning": "Arcane Tome + track = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+building": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + building = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+chip": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+oven": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+phone": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "banshee+track": {
+    "result": "plot-hole",
+    "reasoning": "Banshee + track = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+building": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + building = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+chip": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+oven": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+phone": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "basilisk+track": {
+    "result": "plot-hole",
+    "reasoning": "Basilisk + track = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+building": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + building = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+chip": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+oven": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+phone": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "beholder+track": {
+    "result": "plot-hole",
+    "reasoning": "Beholder + track = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+building": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + building = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+chip": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+oven": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+phone": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "brownie+track": {
+    "result": "plot-hole",
+    "reasoning": "Brownie + track = a Plot Hole. Don't think about it too hard."
+  },
+  "building+forbidden-knowledge": {
+    "result": "library",
+    "reasoning": "A building filled with Forbidden Knowledge — a Library."
+  },
   "building+god": {
     "result": "temple",
     "reasoning": "building and god create Temple"
   },
+  "building+holy-grail": {
+    "result": "temple",
+    "reasoning": "A building for Holy Grail — a Temple."
+  },
+  "building+king": {
+    "result": "palace",
+    "reasoning": "Combine Building with King to create Palace."
+  },
+  "building+mad-science": {
+    "result": "library",
+    "reasoning": "A building filled with Mad Science — a Library."
+  },
+  "building+prayer": {
+    "result": "temple",
+    "reasoning": "A building for Prayer — a Temple."
+  },
   "building+religion": {
     "result": "church",
     "reasoning": "A building dedicated to worship — a church"
+  },
+  "building+spell-book": {
+    "result": "library",
+    "reasoning": "A building filled with Spell Book — a Library."
+  },
+  "centaur+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+chip": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+oven": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+phone": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "centaur+track": {
+    "result": "plot-hole",
+    "reasoning": "Centaur + track = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+chip": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+oven": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+phone": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "cerberus+track": {
+    "result": "plot-hole",
+    "reasoning": "Cerberus + track = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+chemical-reaction": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + Chemical reaction = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+chip": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+oven": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+phone": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "changeling+track": {
+    "result": "plot-hole",
+    "reasoning": "Changeling + track = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+chip": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + chip = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+oven": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+phone": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "chimera+track": {
+    "result": "plot-hole",
+    "reasoning": "Chimera + track = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+cloth": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + cloth = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+oven": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+phone": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "chosen-one+track": {
+    "result": "plot-hole",
+    "reasoning": "Chosen One + track = a Plot Hole. Don't think about it too hard."
+  },
+  "cloth+magic": {
+    "result": "invisible-cloak",
+    "reasoning": "Combine Magic with Cloth to create Invisible Cloak."
+  },
+  "cloth+thunder-hammer": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "cockatrice+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "cockatrice+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "cockatrice+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "cockatrice+oven": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "cockatrice+phone": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "cockatrice+track": {
+    "result": "plot-hole",
+    "reasoning": "Cockatrice + track = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+oven": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+phone": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "cryptid+track": {
+    "result": "plot-hole",
+    "reasoning": "Cryptid + track = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+oven": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+phone": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "crystal-ball+track": {
+    "result": "plot-hole",
+    "reasoning": "Crystal Ball + track = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+oven": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+phone": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "cyclops+track": {
+    "result": "plot-hole",
+    "reasoning": "Cyclops + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dark-elf+track": {
+    "result": "plot-hole",
+    "reasoning": "Dark Elf + track = a Plot Hole. Don't think about it too hard."
+  },
+  "death-knight+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Death Knight + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "death-knight+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Death Knight + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "death-knight+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Death Knight + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "death-knight+oven": {
+    "result": "baker",
+    "reasoning": "Bakers have used ovens since ancient Egypt to create bread"
+  },
+  "death-knight+phone": {
+    "result": "plot-hole",
+    "reasoning": "Death Knight + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "death-knight+track": {
+    "result": "plot-hole",
+    "reasoning": "Death Knight + track = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Demon + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Demon + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Demon + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+oven": {
+    "result": "plot-hole",
+    "reasoning": "Demon + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+phone": {
+    "result": "plot-hole",
+    "reasoning": "Demon + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "demon+track": {
+    "result": "plot-hole",
+    "reasoning": "Demon + track = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+oven": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+phone": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "djinn+track": {
+    "result": "plot-hole",
+    "reasoning": "Djinn + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon-egg+track": {
+    "result": "plot-hole",
+    "reasoning": "Dragon Egg + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dragon+track": {
+    "result": "plot-hole",
+    "reasoning": "Dragon + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dryad+track": {
+    "result": "plot-hole",
+    "reasoning": "Dryad + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dungeon+track": {
+    "result": "plot-hole",
+    "reasoning": "Dungeon + track = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + Furnace = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+miscellaneous": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + Miscellaneous = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+oven": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + Oven = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+phone": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + Phone = a Plot Hole. Don't think about it too hard."
+  },
+  "dwarf+track": {
+    "result": "plot-hole",
+    "reasoning": "Dwarf + track = a Plot Hole. Don't think about it too hard."
+  },
+  "elf+fuel": {
+    "result": "plot-hole",
+    "reasoning": "Elf + fuel = a Plot Hole. Don't think about it too hard."
+  },
+  "elf+furnace": {
+    "result": "plot-hole",
+    "reasoning": "Elf + Furnace = a Plot Hole. Don't think about it too hard."
   }
 }

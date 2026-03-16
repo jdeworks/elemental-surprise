@@ -1,0 +1,770 @@
+{
+  "kiln+tide": {
+    "result": "steam",
+    "reasoning": "Kiln turns Tide to Steam — the force that powered the Industrial Revolution."
+  },
+  "kiln+tide-pool": {
+    "result": "steam",
+    "reasoning": "Kiln turns Tide Pool to Steam — the force that powered the Industrial Revolution."
+  },
+  "kiln+water": {
+    "result": "steam",
+    "reasoning": "Kiln turns Water to Steam — the force that powered the Industrial Revolution."
+  },
+  "kiln+waterfall": {
+    "result": "steam",
+    "reasoning": "Kiln turns Waterfall to Steam — the force that powered the Industrial Revolution."
+  },
+  "lagoon+metal-detector": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "lagoon+power-plant": {
+    "result": "garden",
+    "reasoning": "Lagoon + Power Plant + patience = a Garden."
+  },
+  "lagoon+tree-data": {
+    "result": "garden",
+    "reasoning": "Lagoon + Tree Data + patience = a Garden."
+  },
+  "lake+metal-detector": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "lake+power-plant": {
+    "result": "garden",
+    "reasoning": "Lake + Power Plant + patience = a Garden."
+  },
+  "lake+tree-data": {
+    "result": "garden",
+    "reasoning": "Lake + Tree Data + patience = a Garden."
+  },
+  "lava-field+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava-field+water-wheel": {
+    "result": "steam",
+    "reasoning": "Lava Field turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "lava-tube+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava-tube+water-wheel": {
+    "result": "steam",
+    "reasoning": "Lava Tube turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "lava+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "lava+water-wheel": {
+    "result": "steam",
+    "reasoning": "Lava turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "lightning+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Lightning through Metal Detector = Magnet — invisible force, visible wonder."
+  },
+  "ocean+power-plant": {
+    "result": "garden",
+    "reasoning": "ocean + Power Plant + patience = a Garden."
+  },
+  "ocean+tree-data": {
+    "result": "garden",
+    "reasoning": "ocean + Tree Data + patience = a Garden."
+  },
+  "pattern+stone": {
+    "result": "mosaic",
+    "reasoning": "Tiles in a pattern form a Mosaic"
+  },
+  "piezoelectric+pressure": {
+    "result": "piezoelectricity",
+    "reasoning": "Combine Piezoelectric with Pressure to create Piezoelectricity."
+  },
+  "power-grid+steam": {
+    "result": "steam-engine",
+    "reasoning": "Combine Steam with Power Grid to create Steam Engine."
+  },
+  "power-grid+water": {
+    "result": "water-wheel",
+    "reasoning": "Combine Water with Power Grid to create Water Wheel."
+  },
+  "power-plant+steam": {
+    "result": "steam-engine",
+    "reasoning": "Combine Steam with Power Plant to create Steam Engine."
+  },
+  "power-plant+swamp": {
+    "result": "peat",
+    "reasoning": "Combine Swamp with Power Plant to create Peat."
+  },
+  "power-plant+water": {
+    "result": "water-wheel",
+    "reasoning": "Combine Water with Power Plant to create Water Wheel."
+  },
+  "propane-tank+rain": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Rain = Aquarium."
+  },
+  "propane-tank+river": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of River = Aquarium."
+  },
+  "propane-tank+sea-cave": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Sea Cave = Aquarium."
+  },
+  "propane-tank+sea-stack": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Sea Stack = Aquarium."
+  },
+  "propane-tank+stream": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of stream = Aquarium."
+  },
+  "propane-tank+swamp": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Swamp = Aquarium."
+  },
+  "propane-tank+tide": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Tide = Aquarium."
+  },
+  "propane-tank+tide-pool": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Tide Pool = Aquarium."
+  },
+  "propane-tank+water": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Water = Aquarium."
+  },
+  "propane-tank+waterfall": {
+    "result": "aquarium",
+    "reasoning": "Propane Tank of Waterfall = Aquarium."
+  },
+  "rain+tree-data": {
+    "result": "garden",
+    "reasoning": "Rain + Tree Data + patience = a Garden."
+  },
+  "river+tree-data": {
+    "result": "garden",
+    "reasoning": "River + Tree Data + patience = a Garden."
+  },
+  "salt-flat+screen": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + screen = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+scuba": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + SCUBA = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+search-engine": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Search Engine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+self-driving-car": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Self Driving Car = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+selfie": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Selfie = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+semiconductor": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Semiconductor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+sensor": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Sensor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+server": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Server = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+share": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Share = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+signal": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Signal = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+sim-card": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + SIM Card = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+siri": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Siri = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+slack": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Slack = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+smart-contract": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Smart Contract = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+smart-home": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Smart Home = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+smart-speaker": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Smart Speaker = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+smartphone": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Smartphone = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+smartwatch": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Smartwatch = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+snowmobile": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Snowmobile = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+social-media": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Social Media = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+software": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + software = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+solar-panel": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Solar Panel = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+sonar": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Sonar = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+sort": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Sort = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+spacex": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + SpaceX = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+spam": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Spam = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+speaker": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Speaker = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+spectroscope": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Spectroscope = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+spotify": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Spotify = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+ssd": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + SSD = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+stable-diffusion": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Stable Diffusion = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+stack": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Stack = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+stack-overflow": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Stack Overflow = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+stamp": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Stamp = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+starlink": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Starlink = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+steam-engine": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Steam Engine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+streaming": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Streaming = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+supercomputer": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Supercomputer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+synthesizer": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Synthesizer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tablet": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Tablet = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+technical-debt": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Technical Debt = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+technology": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + technology = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+telegram": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Telegram = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+telegraph": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Telegraph = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+telephone": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Telephone = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+teletype": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Teletype = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+television": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Television = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tesla": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Tesla = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tesla-coil": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Tesla Coil = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+thermostat": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Thermostat = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tiktok": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + TikTok = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tor": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Tor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+touchscreen": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Touchscreen = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+transformer": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Transformer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+transistor": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Transistor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+tree-data": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Tree Data = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+troll-internet": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Troll Internet = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+twitter": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Twitter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+typewriter": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Typewriter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+uber": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Uber = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+upload": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Upload = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+url": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + URL = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+usb": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + USB = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+vacuum-tube": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Vacuum Tube = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+variable": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Variable = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+version": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Version = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+video": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + video = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+viral": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Viral = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+viral-video": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Viral Video = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+vlog": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Vlog = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+voltage": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Voltage = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+voltaic-pile": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Voltaic Pile = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+voltmeter": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Voltmeter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+vpn": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + VPN = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+vr-headset": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + VR Headset = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+water-wheel": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Water Wheel = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wearable": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wearable = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+weather-app": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Weather App = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+web-page": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Web Page = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+web3": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Web3 = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+webcam": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Webcam = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+website": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Website = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+welding-torch": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Welding Torch = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wi-fi": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wi-Fi = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wifi": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + WiFi = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wiki": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wiki = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wikipedia": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wikipedia = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wildlife-camera": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wildlife Camera = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+wind-turbine": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Wind Turbine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+windows-os": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Windows OS = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+x-ray-machine": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + X-Ray Machine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+xml": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + XML = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+youtube": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + YouTube = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+zeppelin": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Zeppelin = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "salt-flat+zoom": {
+    "result": "weather-app",
+    "reasoning": "Salt Flat + Zoom = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "sand+wind-turbine": {
+    "result": "sand-storm",
+    "reasoning": "Combine Sand with Wind Turbine to create Sand Storm."
+  },
+  "sea-stack+tree-data": {
+    "result": "garden",
+    "reasoning": "Sea Stack + Tree Data + patience = a Garden."
+  },
+  "snow+water-wheel": {
+    "result": "ice",
+    "reasoning": "Snow freezes Water Wheel into Ice — water's solid form."
+  },
+  "swamp+tree-data": {
+    "result": "garden",
+    "reasoning": "Swamp + Tree Data + patience = a Garden."
+  },
+  "tide-pool+tiktok": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + TikTok = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+tor": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Tor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+touchscreen": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Touchscreen = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+transformer": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Transformer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+transistor": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Transistor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+tree-data": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Tree Data = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+troll-internet": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Troll Internet = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+twitter": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Twitter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+typewriter": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Typewriter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+uber": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Uber = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+upload": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Upload = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+url": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + URL = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+usb": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + USB = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+vacuum-tube": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Vacuum Tube = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+variable": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Variable = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+version": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Version = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+video": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + video = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+viral": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Viral = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+viral-video": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Viral Video = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+vlog": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Vlog = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+voltage": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Voltage = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+voltaic-pile": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Voltaic Pile = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+voltmeter": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Voltmeter = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+vpn": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + VPN = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+vr-headset": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + VR Headset = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+water-wheel": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Water Wheel = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wearable": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wearable = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+weather-app": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Weather App = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+web-page": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Web Page = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+web3": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Web3 = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+webcam": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Webcam = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+website": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Website = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+welding-torch": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Welding Torch = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wi-fi": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wi-Fi = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wifi": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + WiFi = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wiki": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wiki = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wikipedia": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wikipedia = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wildlife-camera": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wildlife Camera = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+wind-turbine": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Wind Turbine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+windows-os": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Windows OS = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+x-ray-machine": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + X-Ray Machine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+xml": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + XML = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+youtube": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + YouTube = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+zeppelin": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Zeppelin = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide-pool+zoom": {
+    "result": "weather-app",
+    "reasoning": "Tide Pool + Zoom = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "tide+tree-data": {
+    "result": "garden",
+    "reasoning": "Tide + Tree Data + patience = a Garden."
+  },
+  "tree-data+water": {
+    "result": "boat",
+    "reasoning": "Tree Data on Water — a Boat. Humanity's first vehicle."
+  },
+  "tree-data+waterfall": {
+    "result": "boat",
+    "reasoning": "Tree Data on Waterfall — a Boat. Humanity's first vehicle."
+  },
+  "tundra+water-wheel": {
+    "result": "ice",
+    "reasoning": "Tundra freezes Water Wheel into Ice — water's solid form."
+  },
+  "volcano+water-wheel": {
+    "result": "steam",
+    "reasoning": "Volcano turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "water+water-wheel": {
+    "result": "archimedes-principle",
+    "reasoning": "Combine Water with Water Wheel to create Archimedes Principle."
+  },
+  "wind+wind-turbine": {
+    "result": "prairie",
+    "reasoning": "Combine Wind with Wind Turbine to create Prairie."
+  }
+}

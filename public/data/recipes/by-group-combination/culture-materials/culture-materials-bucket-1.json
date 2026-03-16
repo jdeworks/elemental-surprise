@@ -1,242 +1,882 @@
 {
-  "air+net": {
-    "result": "basketball",
-    "reasoning": "When air and Net collide, logic takes a coffee break and Basketball appears anyway."
+  "accordion+canvas": {
+    "result": "easel",
+    "reasoning": "Combine Canvas with Accordion to create Easel."
+  },
+  "air+foam": {
+    "result": "scuba",
+    "reasoning": "Combine Air with Foam to create SCUBA."
+  },
+  "air+gel": {
+    "result": "aerogel",
+    "reasoning": "Combine Air with Gel to create Aerogel."
   },
   "air+rubber": {
     "result": "ball",
     "reasoning": "air and Rubber create Ball"
   },
-  "air+wire": {
-    "result": "telephone",
-    "reasoning": "air teams up with Wire; the side quest reward is Telephone."
+  "air+titanium": {
+    "result": "aerogel",
+    "reasoning": "Combine Air with Titanium to create Aerogel."
+  },
+  "alloy+art": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by art — a Sculpture."
+  },
+  "alloy+bio-art": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Bio Art — a Sculpture."
+  },
+  "alloy+calligraphy": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Calligraphy — a Sculpture."
+  },
+  "alloy+castle": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Castle the strength to reach the sky — Skyscraper."
+  },
+  "alloy+church": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Church the strength to reach the sky — Skyscraper."
+  },
+  "alloy+drawing": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Drawing — a Sculpture."
+  },
+  "alloy+easel": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Easel — a Sculpture."
+  },
+  "alloy+factory": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Factory the strength to reach the sky — Skyscraper."
+  },
+  "alloy+fresco": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Fresco — a Sculpture."
+  },
+  "alloy+graffiti": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Graffiti — a Sculpture."
+  },
+  "alloy+house": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives house the strength to reach the sky — Skyscraper."
+  },
+  "alloy+lighthouse": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Lighthouse the strength to reach the sky — Skyscraper."
+  },
+  "alloy+mosaic": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Mosaic — a Sculpture."
+  },
+  "alloy+mural": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Mural — a Sculpture."
+  },
+  "alloy+origami": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Origami — a Sculpture."
+  },
+  "alloy+pixel-art": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Pixel Art — a Sculpture."
+  },
+  "alloy+pop-art": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Pop Art — a Sculpture."
+  },
+  "alloy+prison": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Prison the strength to reach the sky — Skyscraper."
+  },
+  "alloy+sculpture": {
+    "result": "jewelry",
+    "reasoning": "Precious Alloy crafted as Sculpture — Jewelry."
+  },
+  "alloy+temple": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Temple the strength to reach the sky — Skyscraper."
+  },
+  "alloy+tower": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Tower the strength to reach the sky — Skyscraper."
+  },
+  "alloy+warehouse": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Warehouse the strength to reach the sky — Skyscraper."
+  },
+  "alloy+watercolor": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Watercolor — a Sculpture."
+  },
+  "aluminum+art": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by art — a Sculpture."
+  },
+  "aluminum+bio-art": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Bio Art — a Sculpture."
+  },
+  "aluminum+calligraphy": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Calligraphy — a Sculpture."
+  },
+  "aluminum+castle": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Castle the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+church": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Church the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+drawing": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Drawing — a Sculpture."
+  },
+  "aluminum+easel": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Easel — a Sculpture."
+  },
+  "aluminum+factory": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Factory the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+fresco": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Fresco — a Sculpture."
+  },
+  "aluminum+graffiti": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Graffiti — a Sculpture."
+  },
+  "aluminum+house": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives house the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+lighthouse": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Lighthouse the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+mosaic": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Mosaic — a Sculpture."
+  },
+  "aluminum+mural": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Mural — a Sculpture."
+  },
+  "aluminum+origami": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Origami — a Sculpture."
+  },
+  "aluminum+pixel-art": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Pixel Art — a Sculpture."
+  },
+  "aluminum+pop-art": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Pop Art — a Sculpture."
+  },
+  "aluminum+prison": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Prison the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+rock-music": {
+    "result": "bauxite",
+    "reasoning": "Combine Aluminum with Rock Music to create Bauxite."
+  },
+  "aluminum+sculpture": {
+    "result": "jewelry",
+    "reasoning": "Precious Aluminum crafted as Sculpture — Jewelry."
+  },
+  "aluminum+temple": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Temple the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+tower": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Tower the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+warehouse": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Warehouse the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+watercolor": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Watercolor — a Sculpture."
   },
   "art+canvas": {
     "result": "painting",
     "reasoning": "art and canvas create Painting"
   },
   "art+fabric": {
-    "result": "dress",
-    "reasoning": "art plus Fabric is the weird recipe your alchemist friend swears by for making Dress."
+    "result": "tapestry",
+    "reasoning": "Fabric as art is a Tapestry"
+  },
+  "art+metal": {
+    "result": "etching",
+    "reasoning": "Combine Art with Metal to create Etching."
   },
   "art+paint": {
     "result": "painting",
     "reasoning": "art and Paint create Painting"
   },
+  "art+thread": {
+    "result": "weaving",
+    "reasoning": "Thread elevated to art is Weaving"
+  },
+  "asphalt+rock-music": {
+    "result": "sandstone",
+    "reasoning": "Combine Rock Music with Asphalt to create Sandstone."
+  },
   "ball+net": {
     "result": "basketball",
     "reasoning": "Ball and Net create Basketball"
   },
-  "ball+rope": {
-    "result": "basketball",
-    "reasoning": "When Ball and Rope collide, logic takes a coffee break and Basketball appears anyway."
+  "beauty+bitumen": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Bitumen = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "bank+gold": {
-    "result": "loan",
-    "reasoning": "Bank and Gold shake hands, reality shrugs, and Loan is suddenly canon."
+  "beauty+blade": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Blade = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+bone-ash": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Bone Ash = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+bone-china": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Bone China = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+brass": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Brass = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+brick": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Brick = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+bronze": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Bronze = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+burlap": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Burlap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+candle": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Candle = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+canvas": {
+    "result": "craft-fair",
+    "reasoning": "beauty + canvas = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cardboard": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cardboard = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cashmere": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cashmere = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cellophane": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cellophane = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+ceramic": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Ceramic = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+chain": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Chain = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+chalk": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Chalk = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+chamois": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Chamois = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+charcoal": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Charcoal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cinderblock": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cinderblock = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+coal": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Coal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cobalt": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cobalt = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+coil": {
+    "result": "craft-fair",
+    "reasoning": "beauty + coil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+concrete": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Concrete = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+copper": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Copper = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cork": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cork = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+cotton": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Cotton = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+crystal": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Crystal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+damask": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Damask = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+diamond": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Diamond = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+dry-ice": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Dry Ice = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+dye": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Dye = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+dynamite": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Dynamite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+e-waste": {
+    "result": "craft-fair",
+    "reasoning": "beauty + E-Waste = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+electroplate": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Electroplate = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+epoxy": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Epoxy = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "beauty+fabric": {
     "result": "dress",
     "reasoning": "beauty and Fabric create Dress"
   },
+  "beauty+felt": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Felt = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+fiber": {
+    "result": "craft-fair",
+    "reasoning": "beauty + fiber = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+fiberglass": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Fiberglass = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+firebrick": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Firebrick = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+firework": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Firework = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+fleece": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Fleece = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+flint": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Flint = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+foam": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Foam = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+food-packaging": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Food Packaging = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+fossil": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Fossil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+galvanized-steel": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Galvanized Steel = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+gel": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Gel = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+glass": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Glass = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+glue": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Glue = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+gold": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Gold = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+granite": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Granite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+graphite": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Graphite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+gunpowder": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Gunpowder = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+gutta-percha": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Gutta-Percha = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+ingot": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Ingot = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+iron": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Iron = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+ivory": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Ivory = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+kaolin": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Kaolin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+kevlar": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Kevlar = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+lacquer": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Lacquer = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+latex": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Latex = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+lead": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Lead = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+lens": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Lens = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+limestone": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Limestone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+linen": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Linen = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+magma": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Magma = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+marble": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Marble = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+medallion": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Medallion = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+metal": {
+    "result": "craft-fair",
+    "reasoning": "beauty + metal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+mica": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Mica = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+mineral": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Mineral = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+mirror": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Mirror = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+mortar": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Mortar = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+nacre": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Nacre = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+nail": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Nail = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+natural-gas": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Natural Gas = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+net": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Net = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+nickel": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Nickel = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+nylon": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Nylon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+oil": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Oil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+paint": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Paint = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+paper": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Paper = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+paste": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Paste = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+pewter": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Pewter = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+pigment": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Pigment = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+plank": {
+    "result": "craft-fair",
+    "reasoning": "beauty + plank = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+plaster": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Plaster = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+plastic": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Plastic = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+platinum": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Platinum = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+porcelain": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Porcelain = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+prism": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Prism = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+pumice": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Pumice = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+quartz": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Quartz = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+quicklite": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Quicklite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+rattan": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Rattan = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+raw-material": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Raw Material = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+rayon": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Rayon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
   "beauty+rope": {
-    "result": "purse",
-    "reasoning": "beauty plus Rope is the weird recipe your alchemist friend swears by for making Purse."
+    "result": "craft-fair",
+    "reasoning": "beauty + Rope = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+rubber": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Rubber = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+rust": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Rust = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+sail": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Sail = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+sandstone": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Sandstone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+satin": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Satin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+shale": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Shale = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+shield": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Shield = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+silicon": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Silicon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+silk": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Silk = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+silver": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Silver = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+slate": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Slate = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+soap": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Soap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+solder": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Solder = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+suede": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Suede = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+taffeta": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Taffeta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+tar": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Tar = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+taxidermy": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Taxidermy = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+teflon": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Teflon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "beauty+terracotta": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Terracotta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "beauty+thread": {
-    "result": "dress",
-    "reasoning": "beauty teams up with Thread; the side quest reward is Dress."
+    "result": "craft-fair",
+    "reasoning": "beauty + Thread = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "brick+film": {
-    "result": "cinema",
-    "reasoning": "Someone mixed Brick with Film for science. The peer-reviewed conclusion: Cinema."
+  "beauty+tin": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Tin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "brick+house": {
-    "result": "village",
-    "reasoning": "Brick teams up with house; the side quest reward is Village."
+  "beauty+titanium": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Titanium = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "camera+glass": {
-    "result": "photography",
-    "reasoning": "Someone mixed camera with Glass for science. The peer-reviewed conclusion: Photography."
+  "beauty+tungsten": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Tungsten = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "camera+paper": {
-    "result": "photograph",
-    "reasoning": "camera combined with Paper leads to Photograph"
+  "beauty+tweed": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Tweed = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "coal+house": {
-    "result": "skyscraper",
-    "reasoning": "Coal and house shake hands, reality shrugs, and Skyscraper is suddenly canon."
+  "beauty+varnish": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Varnish = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "crystal+lamp": {
-    "result": "chandelier",
-    "reasoning": "Crystal and Lamp create Chandelier"
+  "beauty+velvet": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Velvet = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "crystal+light": {
-    "result": "laser",
-    "reasoning": "Crystal and light explain the phenomenon of Laser"
+  "beauty+vermiculite": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Vermiculite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "crystal+necklace": {
-    "result": "jewelry",
-    "reasoning": "Crystal and Necklace accidentally host a crossover episode; Jewelry steals the finale."
+  "beauty+wax": {
+    "result": "craft-fair",
+    "reasoning": "beauty + wax = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "darkness+iron": {
-    "result": "key",
-    "reasoning": "When Darkness and Iron collide, logic takes a coffee break and key appears anyway."
+  "beauty+wire": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Wire = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "fabric+floor": {
-    "result": "carpet",
-    "reasoning": "Fabric and Floor create Carpet"
+  "beauty+wool": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Wool = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "fabric+window": {
-    "result": "curtain",
-    "reasoning": "Fabric and Window create Curtain"
+  "beauty+yarn": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Yarn = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "film+gold": {
-    "result": "oscar",
-    "reasoning": "Film and Gold together shape Oscar"
+  "beauty+zinc": {
+    "result": "craft-fair",
+    "reasoning": "beauty + Zinc = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "film+metal": {
-    "result": "oscar",
-    "reasoning": "Film teams up with metal; the side quest reward is Oscar."
+  "blade+shadow": {
+    "result": "assassin",
+    "reasoning": "A blade in the shadows — that's an Assassin"
   },
-  "film+paper": {
-    "result": "animation",
-    "reasoning": "Film and Paper accidentally host a crossover episode; Animation steals the finale."
+  "block+cement": {
+    "result": "cinderblock",
+    "reasoning": "Combine Cement with Block to create Cinderblock."
   },
-  "floor+thread": {
-    "result": "carpet",
-    "reasoning": "Floor meets Thread, chaos files a memo, and Carpet walks out with the trophy."
+  "blues+bone-ash": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Bone Ash = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "fun+paint": {
-    "result": "entertainment",
-    "reasoning": "fun plus Paint is the weird recipe your alchemist friend swears by for making entertainment."
+  "blues+bone-china": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Bone China = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "fun+steel": {
-    "result": "roller-coaster",
-    "reasoning": "Someone mixed fun with Steel for science. The peer-reviewed conclusion: Roller Coaster."
+  "blues+brass": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Brass = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "game+metal": {
-    "result": "controller",
-    "reasoning": "Game tags in with metal, and somehow the universe speedruns Controller."
+  "blues+brick": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Brick = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "gem+necklace": {
-    "result": "jewelry",
-    "reasoning": "Gem and Necklace create Jewelry"
+  "blues+bronze": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Bronze = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "glass+house": {
-    "result": "greenhouse",
-    "reasoning": "Combining Glass with house makes delicious Greenhouse"
+  "blues+burlap": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Burlap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "glass+light": {
-    "result": "screen",
-    "reasoning": "Applying Glass to light produces screen"
+  "blues+calico": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Calico = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "glass+tower": {
-    "result": "lighthouse",
-    "reasoning": "Glass teams up with Tower; the side quest reward is Lighthouse."
+  "blues+candle": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Candle = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "gold+instrument": {
-    "result": "grammy",
-    "reasoning": "Gold and Instrument accidentally host a crossover episode; Grammy steals the finale."
+  "blues+canvas": {
+    "result": "craft-fair",
+    "reasoning": "Blues + canvas = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "gold+music": {
-    "result": "grammy",
-    "reasoning": "Gold and Music together shape Grammy"
+  "blues+cardboard": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cardboard = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "gold+sound": {
-    "result": "grammy",
-    "reasoning": "When Gold and sound collide, logic takes a coffee break and Grammy appears anyway."
+  "blues+cashmere": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cashmere = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "house+lens": {
-    "result": "observatory",
-    "reasoning": "Someone mixed house with Lens for science. The peer-reviewed conclusion: Observatory."
+  "blues+cellophane": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cellophane = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "house+metal": {
-    "result": "door",
-    "reasoning": "house and metal create Door"
+  "blues+cement": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cement = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "house+steel": {
-    "result": "skyscraper",
-    "reasoning": "house and Steel create Skyscraper"
+  "blues+ceramic": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Ceramic = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "instrument+leather": {
-    "result": "drum",
-    "reasoning": "Instrument and Leather create Drum"
+  "blues+chain": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Chain = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "instrument+thread": {
-    "result": "guitar",
-    "reasoning": "Instrument meets Thread, chaos files a memo, and Guitar walks out with the trophy."
+  "blues+chalk": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Chalk = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "lamp+mineral": {
-    "result": "chandelier",
-    "reasoning": "Lamp teams up with Mineral; the side quest reward is Chandelier."
+  "blues+chamois": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Chamois = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "leather+shoe": {
-    "result": "boot",
-    "reasoning": "Leather and Shoe create Boot"
+  "blues+charcoal": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Charcoal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "leather+sound": {
-    "result": "drum",
-    "reasoning": "Leather and sound shake hands, reality shrugs, and Drum is suddenly canon."
+  "blues+chrome": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Chrome = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "lens+light": {
-    "result": "camera",
-    "reasoning": "Light captured through a lens — a camera"
+  "blues+cinderblock": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cinderblock = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "light+metal": {
-    "result": "lamp",
-    "reasoning": "light and metal create Lamp"
+  "blues+clinker": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Clinker = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "light+mineral": {
-    "result": "laser",
-    "reasoning": "light tags in with Mineral, and somehow the universe speedruns Laser."
+  "blues+coal": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Coal = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "light+prism": {
-    "result": "color",
-    "reasoning": "light and Prism create Color"
+  "blues+cobalt": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cobalt = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "light+silicon": {
-    "result": "led",
-    "reasoning": "Someone mixed light with Silicon for science. The peer-reviewed conclusion: LED."
+  "blues+coil": {
+    "result": "craft-fair",
+    "reasoning": "Blues + coil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "metal+music": {
-    "result": "grammy",
-    "reasoning": "metal meets Music, chaos files a memo, and Grammy walks out with the trophy."
+  "blues+concrete": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Concrete = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "metal+sound": {
-    "result": "telephone",
-    "reasoning": "Someone mixed metal with sound for science. The peer-reviewed conclusion: Telephone."
+  "blues+copper": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Copper = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "metal+video-game": {
-    "result": "arcade",
-    "reasoning": "metal teams up with Video Game; the side quest reward is Arcade."
+  "blues+cork": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cork = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "music+thread": {
-    "result": "string",
-    "reasoning": "Music and Thread create string"
-  },
-  "music+wire": {
-    "result": "rock-music",
-    "reasoning": "Music plus Wire is the weird recipe your alchemist friend swears by for making Rock Music."
-  },
-  "nail+temple": {
-    "result": "church",
-    "reasoning": "Someone mixed Nail with Temple for science. The peer-reviewed conclusion: Church."
-  },
-  "silicon+sound": {
-    "result": "microphone",
-    "reasoning": "Silicon and sound accidentally host a crossover episode; Microphone steals the finale."
-  },
-  "sound+thread": {
-    "result": "string",
-    "reasoning": "Someone mixed sound with Thread for science. The peer-reviewed conclusion: string."
-  },
-  "sound+wire": {
-    "result": "telephone",
-    "reasoning": "Applying sound to Wire produces Telephone"
-  },
-  "thread+window": {
-    "result": "curtain",
-    "reasoning": "Thread and Window shake hands, reality shrugs, and Curtain is suddenly canon."
+  "blues+cotton": {
+    "result": "craft-fair",
+    "reasoning": "Blues + Cotton = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   }
 }

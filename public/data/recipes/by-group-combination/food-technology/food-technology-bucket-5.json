@@ -1,0 +1,882 @@
+{
+  "kiln+tofu": {
+    "result": "stew",
+    "reasoning": "Fried tofu develops a crispy skin in Stew, a protein chameleon"
+  },
+  "kiln+tomato": {
+    "result": "soup",
+    "reasoning": "Roasted tomatoes blend into rich Soup, comfort in a bowl"
+  },
+  "kiln+tortilla": {
+    "result": "taco",
+    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
+  },
+  "kiln+tractor": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+truffle": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+tzatziki": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+vinaigrette": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+vindaloo": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+vinegar": {
+    "result": "cooking",
+    "reasoning": "Heated vinegar becomes a glaze, balsamic reduction is liquid gold"
+  },
+  "kiln+waffle": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+wasabi": {
+    "result": "cooking",
+    "reasoning": "Heat destroys wasabi's kick, always add it fresh in Cooking"
+  },
+  "kiln+wheat": {
+    "result": "bread",
+    "reasoning": "Wheat grains are milled and baked into Bread, the staff of life"
+  },
+  "kiln+whiskey": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+wild-game": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+wine": {
+    "result": "cooking",
+    "reasoning": "Cooking wine reduces it into rich sauces, French cuisine's secret"
+  },
+  "kiln+wonton": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "kiln+yogurt": {
+    "result": "cooking",
+    "reasoning": "Heated yogurt thickens sauces in Middle Eastern and Indian Cooking"
+  },
+  "kimchi+water-wheel": {
+    "result": "stew",
+    "reasoning": "Kimchi simmered in water becomes kimchi jjigae, Korean Stew"
+  },
+  "kimchi+welding-torch": {
+    "result": "stew",
+    "reasoning": "Kimchi jjigae, fermented kimchi becomes a bubbling spicy Stew"
+  },
+  "kombucha+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "kombucha+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "lasagna+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "lasagna+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "lawn+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "lawn+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "lemonade+water-wheel": {
+    "result": "juice",
+    "reasoning": "Lemon juice diluted with water is classic lemonade Juice"
+  },
+  "lemonade+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "macaroni+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "macaroni+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mango+water-wheel": {
+    "result": "smoothie",
+    "reasoning": "Mango blended with water, the tropical Smoothie base"
+  },
+  "mango+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "maple-syrup+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "maple-syrup+welding-torch": {
+    "result": "caramel",
+    "reasoning": "Boiling maple syrup further concentrates it into maple Caramel"
+  },
+  "marmalade+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "marmalade+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "matcha+water-wheel": {
+    "result": "tea",
+    "reasoning": "Whisking matcha powder into water creates frothy green Tea"
+  },
+  "matcha+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mcdonalds+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mcdonalds+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mead+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mead+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "meat+water-wheel": {
+    "result": "broth",
+    "reasoning": "Meat simmered in water for hours creates rich Broth, liquid gold"
+  },
+  "meat+welding-torch": {
+    "result": "steak",
+    "reasoning": "Searing meat over high heat creates a Steak with perfect crust"
+  },
+  "meringue+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "meringue+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mezcal+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mezcal+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "milk+water-wheel": {
+    "result": "cheese",
+    "reasoning": "Adding rennet to watered milk begins the Cheese-making process"
+  },
+  "milk+welding-torch": {
+    "result": "cream",
+    "reasoning": "Heating milk causes it to reduce and thicken into rich Cream"
+  },
+  "miso+water-wheel": {
+    "result": "soup",
+    "reasoning": "Miso dissolved in hot water, instant Soup, Japan's daily ritual"
+  },
+  "miso+welding-torch": {
+    "result": "soup",
+    "reasoning": "Hot water transforms miso paste into Soup at every Japanese meal"
+  },
+  "mochi+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mochi+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mousse+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mousse+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "muffin+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "muffin+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mushroom-soup+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mushroom-soup+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mystery-casserole+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mystery-casserole+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "mystery-meat+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "mystery-meat+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "naan+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "naan+welding-torch": {
+    "result": "bread",
+    "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
+  },
+  "nacho+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "nacho+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "noodle+water-wheel": {
+    "result": "ramen",
+    "reasoning": "Noodles in brothy water become Ramen, Japan's soul food"
+  },
+  "noodle+welding-torch": {
+    "result": "ramen",
+    "reasoning": "Noodles cooked in hot broth become Ramen, Japan's comfort food"
+  },
+  "okra+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "okra+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "olive-oil+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "olive-oil+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "olive+water-wheel": {
+    "result": "cooking",
+    "reasoning": "Olives cured in salt water, the brining process for Cooking"
+  },
+  "olive+welding-torch": {
+    "result": "olive-oil",
+    "reasoning": "Pressing heated olives yields Olive Oil, Mediterranean liquid gold"
+  },
+  "omelette+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "omelette+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "onion+water-wheel": {
+    "result": "soup",
+    "reasoning": "Onions simmered in water become French onion Soup, sweet and savory"
+  },
+  "onion+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Caramelized onions are slow-Cooked until sweet and golden"
+  },
+  "paella+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "paella+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pancake+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pancake+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "papaya+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "papaya+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pasta+water-wheel": {
+    "result": "soup",
+    "reasoning": "Pasta cooked in water with vegetables, Italian minestrone Soup"
+  },
+  "pasta+welding-torch": {
+    "result": "spaghetti",
+    "reasoning": "Boiling pasta al dente is the Italian art of perfect Spaghetti"
+  },
+  "peanut-butter+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "peanut-butter+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pecan-pie+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pecan-pie+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pepper+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pepper+welding-torch": {
+    "result": "roast",
+    "reasoning": "Roasted peppers are smoky, sweet, and silky, perfect Roast veggies"
+  },
+  "pesto+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pesto+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Warm pesto tossed with hot pasta releases its basil Cooking fragrance"
+  },
+  "pho+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pho+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pickle+water-wheel": {
+    "result": "soup",
+    "reasoning": "Pickle brine in water makes pickle Soup, a Polish and Russian tradition"
+  },
+  "pickle+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pie+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pie+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pierogi+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pierogi+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pizza+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pizza+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "plow+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "plow+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "popcorn+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "popcorn+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "porridge+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "porridge+welding-torch": {
+    "result": "toast",
+    "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
+  },
+  "potato+water-wheel": {
+    "result": "soup",
+    "reasoning": "Potatoes boiled in water make creamy potato Soup"
+  },
+  "potato+welding-torch": {
+    "result": "roast",
+    "reasoning": "Roast potatoes, crispy outside, fluffy inside, the perfect Roast"
+  },
+  "potluck+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "potluck+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "power-plant+spice": {
+    "result": "garlic",
+    "reasoning": "Combine Spice with Power Plant to create Garlic."
+  },
+  "pretzel+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pretzel+welding-torch": {
+    "result": "toast",
+    "reasoning": "Warm pretzels fresh from the oven become soft salty Toast"
+  },
+  "prosciutto+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "prosciutto+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "pudding+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "pudding+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "quiche+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "quiche+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "ramen+water-wheel": {
+    "result": "soup",
+    "reasoning": "Instant ramen plus hot water equals Soup in 3 minutes, a college lifeline"
+  },
+  "ramen+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Ramen broth simmers for 12-24 hours, time and heat Cooking mastery"
+  },
+  "ravioli+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "ravioli+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "relish+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "relish+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "rice+technology": {
+    "result": "korea",
+    "reasoning": "rice and technology together shape Korea"
+  },
+  "rice+water-wheel": {
+    "result": "porridge",
+    "reasoning": "Rice simmered in excess water becomes Porridge (congee), Asian comfort"
+  },
+  "rice+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Steamed rice, heat and water transform hard grains into fluffy perfection"
+  },
+  "risotto+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "risotto+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "roast+robot": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Robot = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+router": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Router = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+saas": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + SaaS = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+screen": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + screen = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+scuba": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + SCUBA = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+search-engine": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Search Engine = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+self-driving-car": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Self Driving Car = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+selfie": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Selfie = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+semiconductor": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Semiconductor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+sensor": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Sensor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+server": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Server = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+share": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Share = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+signal": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Signal = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+sim-card": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + SIM Card = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+siri": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Siri = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+slack": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Slack = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+smart-contract": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Smart Contract = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+smart-home": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Smart Home = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+smart-speaker": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Smart Speaker = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+smartphone": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Smartphone = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+smartwatch": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Smartwatch = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+snowmobile": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Snowmobile = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+social-media": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Social Media = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+software": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + software = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+solar-panel": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Solar Panel = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+sonar": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Sonar = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+sort": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Sort = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+spacex": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + SpaceX = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+spam": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Spam = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+speaker": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Speaker = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+spectroscope": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Spectroscope = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+spotify": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Spotify = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+ssd": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + SSD = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+stable-diffusion": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Stable Diffusion = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+stack": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Stack = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+stack-overflow": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Stack Overflow = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+stamp": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Stamp = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+starlink": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Starlink = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+steam-engine": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Steam Engine = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+streaming": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Streaming = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+supercomputer": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Supercomputer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+synthesizer": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Synthesizer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tablet": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Tablet = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+technical-debt": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Technical Debt = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+technology": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + technology = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+telegram": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Telegram = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+telegraph": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Telegraph = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+telephone": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Telephone = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+teletype": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Teletype = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+television": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Television = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tesla": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Tesla = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tesla-coil": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Tesla Coil = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+thermostat": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Thermostat = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tiktok": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + TikTok = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tor": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Tor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+touchscreen": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Touchscreen = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+transformer": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Transformer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+transistor": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Transistor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+tree-data": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Tree Data = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+troll-internet": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Troll Internet = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+twitter": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Twitter = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+typewriter": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Typewriter = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+uber": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Uber = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+upload": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Upload = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+url": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + URL = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+usb": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + USB = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+vacuum-tube": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Vacuum Tube = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+variable": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Variable = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+version": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Version = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+video": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + video = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+viral": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Viral = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+viral-video": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Viral Video = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+vlog": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Vlog = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+voltage": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Voltage = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+voltaic-pile": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Voltaic Pile = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+voltmeter": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Voltmeter = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+vpn": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + VPN = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+vr-headset": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + VR Headset = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "roast+wearable": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Wearable = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+weather-app": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Weather App = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+web-page": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Web Page = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+web3": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Web3 = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+webcam": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Webcam = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "roast+website": {
+    "result": "stomach-ache",
+    "reasoning": "Roast + Website = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  }
+}

@@ -1,0 +1,882 @@
+{
+  "crutch+farmer": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "culture+time": {
+    "result": "tradition",
+    "reasoning": "Culture and time together shape Tradition"
+  },
+  "density+forge": {
+    "result": "anvil",
+    "reasoning": "Combine Forge with Density to create Anvil."
+  },
+  "eiffel-tower+food-science": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Food Science — a Library."
+  },
+  "eiffel-tower+rocket-science": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Rocket Science — a Library."
+  },
+  "eiffel-tower+science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "evaporation+great-barrier-reef": {
+    "result": "insulation",
+    "reasoning": "Combine Great Barrier Reef with Evaporation to create Insulation."
+  },
+  "farmer+glasses": {
+    "result": "doctor",
+    "reasoning": "Eyeglasses were invented by Italian monks around 1286"
+  },
+  "farmer+medicine": {
+    "result": "doctor",
+    "reasoning": "Doctors have practiced medicine for over 5,000 years"
+  },
+  "farmer+microscope": {
+    "result": "scientist",
+    "reasoning": "Microscopes revealed the hidden world of cells and microbes"
+  },
+  "farmer+pill": {
+    "result": "pharmacist",
+    "reasoning": "Pharmacists are the pill experts — chemistry meets medicine"
+  },
+  "farmer+prosthetic": {
+    "result": "surgeon",
+    "reasoning": "Prosthetic limbs — surgeons give people back their mobility"
+  },
+  "farmer+stethoscope": {
+    "result": "doctor",
+    "reasoning": "The stethoscope — invented in 1816 because a doctor was too shy to press his ear to a woman's chest"
+  },
+  "farmer+syringe": {
+    "result": "doctor",
+    "reasoning": "Syringes deliver vaccines — the doctor's most impactful tool"
+  },
+  "farmer+vaccine": {
+    "result": "doctor",
+    "reasoning": "Edward Jenner's smallpox vaccine in 1796 launched modern medicine"
+  },
+  "farmer+wheelchair": {
+    "result": "doctor",
+    "reasoning": "Doctors prescribe wheelchairs to restore independence"
+  },
+  "farmer+x-ray": {
+    "result": "doctor",
+    "reasoning": "Wilhelm Röntgen discovered X-rays in 1895 — revolutionizing diagnosis"
+  },
+  "fermentation+law": {
+    "result": "prohibition",
+    "reasoning": "Combine Law with Fermentation to create Prohibition."
+  },
+  "food-science+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "fossil-fuel+inn": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel Inn = Pyramid — wonder of the world."
+  },
+  "fossil-fuel+palace": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel Palace = Pyramid — wonder of the world."
+  },
+  "fossil-fuel+tavern": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel Tavern = Pyramid — wonder of the world."
+  },
+  "future+money": {
+    "result": "investment",
+    "reasoning": "Future and money together shape Investment"
+  },
+  "genetic-engineering+germany": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Germany = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+gladiator": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Gladiator = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+government": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + government = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+grammy": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Grammy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+granary": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Granary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+grand-canyon": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Grand Canyon = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+great-barrier-reef": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Great Barrier Reef = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+great-wall": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Great Wall = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+guild": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Guild = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+harbor": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Harbor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+homework": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Homework = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+india": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + India = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+industrial-revolution": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Industrial Revolution = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+infirmary": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Infirmary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+infrastructure": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Infrastructure = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+inn": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Inn = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+inquisition": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Inquisition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+insurance": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Insurance = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+investment": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Investment = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+italy": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Italy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+japan": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Japan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+journalist": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Journalist = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+judge": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Judge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+jury": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Jury = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+justice": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Justice = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+kaiser": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Kaiser = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+keep": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Keep = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+korea": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Korea = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+law": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + law = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+lawyer": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Lawyer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+legionnaire": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Legionnaire = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+loan": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Loan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+machu-picchu": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Machu Picchu = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+magna-carta": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Magna Carta = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+market": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Market = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+marketing": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Marketing = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+media": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + media = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+mexico": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Mexico = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+mint": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Mint = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+moat": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Moat = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+monarchy": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Monarchy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+monastery": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Monastery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+money": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + money = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+mortuary": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Mortuary = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+mount-everest": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Mount Everest = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+musician": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Musician = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+musketeer": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Musketeer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+nation": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Nation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+niagara-falls": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Niagara Falls = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+nobel-prize": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Nobel Prize = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+nurse": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Nurse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+obelisk": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Obelisk = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+olympic-games": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Olympic Games = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+orphanage": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Orphanage = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+oscar": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Oscar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+ottoman": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Ottoman = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+outpost": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Outpost = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pagoda": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pagoda = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+palace": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Palace = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+parliament": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Parliament = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+peace": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Peace = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pest-control": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pest Control = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pharaoh": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + pharaoh = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+philosopher": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Philosopher = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pier": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pier = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pilot": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pilot = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pirate-captain": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pirate Captain = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+plantation": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Plantation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+police": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Police = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+poverty": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Poverty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+professor": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Professor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+profit": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Profit = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+programmer": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Programmer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+prohibition": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Prohibition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+public-holiday": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Public Holiday = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+pyramids-of-giza": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Pyramids of Giza = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+quarry": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Quarry = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+red-tape": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Red Tape = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+reformation": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Reformation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+republic": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Republic = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+reservoir": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Reservoir = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+revolution": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Revolution = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+ritual": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Ritual = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+russia": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Russia = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+sawmill": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Sawmill = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+scientist": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Scientist = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+shipyard": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Shipyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+shogun": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Shogun = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+siege": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Siege = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+silk-road": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Silk Road = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+smart-city": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Smart City = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+smithy": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Smithy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+society": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + society = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+space-race": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Space Race = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+spartan": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Spartan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+stable": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Stable = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+startup": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Startup = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+statue-of-liberty": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Statue of Liberty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+stock": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Stock = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+stockade": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Stockade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+stonehenge": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Stonehenge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+student": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Student = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+sweden": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Sweden = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+switzerland": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Switzerland = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+taj-mahal": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Taj Mahal = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+tannery": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Tannery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+tavern": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Tavern = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+tax": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Tax = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+teacher": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Teacher = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+templar": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Templar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+toll-booth": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Toll Booth = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+town": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Town = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+trade": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + trade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+tradition": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Tradition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+treasury": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Treasury = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+treaty": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Treaty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+tribune": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Tribune = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+trojan-horse": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Trojan Horse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+turret": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Turret = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+uk": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + UK = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+usa": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + USA = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+viking": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Viking = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+village": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Village = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+vineyard": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Vineyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+vote": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + vote = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+war": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + War = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+watchtower": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Watchtower = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+wealth": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Wealth = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+windmill": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Windmill = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+workshop": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + Workshop = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "genetic-engineering+world-cup": {
+    "result": "peer-pressure",
+    "reasoning": "Genetic Engineering + World Cup = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "inn+rocket-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "money+science": {
+    "result": "economics",
+    "reasoning": "money and science explain the phenomenon of Economics"
+  },
+  "money+time": {
+    "result": "debt",
+    "reasoning": "money and time together shape Debt"
+  },
+  "palace+rocket-science": {
+    "result": "library",
+    "reasoning": "A Palace filled with Rocket Science — a Library."
+  },
+  "palace+science": {
+    "result": "library",
+    "reasoning": "A Palace filled with science — a Library."
+  },
+  "peace+time": {
+    "result": "patience",
+    "reasoning": "Calm waiting is Patience"
+  },
+  "physics+war": {
+    "result": "trebuchet",
+    "reasoning": "Physics applied to siege creates a Trebuchet"
+  },
+  "point+police": {
+    "result": "peer-pressure",
+    "reasoning": "point + Police = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+poverty": {
+    "result": "peer-pressure",
+    "reasoning": "point + Poverty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+professor": {
+    "result": "peer-pressure",
+    "reasoning": "point + Professor = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+profit": {
+    "result": "peer-pressure",
+    "reasoning": "point + Profit = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+programmer": {
+    "result": "peer-pressure",
+    "reasoning": "point + Programmer = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+prohibition": {
+    "result": "peer-pressure",
+    "reasoning": "point + Prohibition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+public-holiday": {
+    "result": "peer-pressure",
+    "reasoning": "point + Public Holiday = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+pyramids-of-giza": {
+    "result": "peer-pressure",
+    "reasoning": "point + Pyramids of Giza = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+quarry": {
+    "result": "peer-pressure",
+    "reasoning": "point + Quarry = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+red-tape": {
+    "result": "peer-pressure",
+    "reasoning": "point + Red Tape = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+reformation": {
+    "result": "peer-pressure",
+    "reasoning": "point + Reformation = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+republic": {
+    "result": "peer-pressure",
+    "reasoning": "point + Republic = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+reservoir": {
+    "result": "peer-pressure",
+    "reasoning": "point + Reservoir = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+revolution": {
+    "result": "peer-pressure",
+    "reasoning": "point + Revolution = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+ritual": {
+    "result": "peer-pressure",
+    "reasoning": "point + Ritual = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+russia": {
+    "result": "peer-pressure",
+    "reasoning": "point + Russia = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+sawmill": {
+    "result": "peer-pressure",
+    "reasoning": "point + Sawmill = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+scientist": {
+    "result": "peer-pressure",
+    "reasoning": "point + Scientist = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+shipyard": {
+    "result": "peer-pressure",
+    "reasoning": "point + Shipyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+shogun": {
+    "result": "peer-pressure",
+    "reasoning": "point + Shogun = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+siege": {
+    "result": "peer-pressure",
+    "reasoning": "point + Siege = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+silk-road": {
+    "result": "peer-pressure",
+    "reasoning": "point + Silk Road = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+smart-city": {
+    "result": "peer-pressure",
+    "reasoning": "point + Smart City = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+smithy": {
+    "result": "peer-pressure",
+    "reasoning": "point + Smithy = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+society": {
+    "result": "peer-pressure",
+    "reasoning": "point + society = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+space-race": {
+    "result": "peer-pressure",
+    "reasoning": "point + Space Race = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+spartan": {
+    "result": "peer-pressure",
+    "reasoning": "point + Spartan = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+stable": {
+    "result": "peer-pressure",
+    "reasoning": "point + Stable = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+startup": {
+    "result": "peer-pressure",
+    "reasoning": "point + Startup = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+statue-of-liberty": {
+    "result": "peer-pressure",
+    "reasoning": "point + Statue of Liberty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+stock": {
+    "result": "peer-pressure",
+    "reasoning": "point + Stock = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+stockade": {
+    "result": "peer-pressure",
+    "reasoning": "point + Stockade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+stonehenge": {
+    "result": "peer-pressure",
+    "reasoning": "point + Stonehenge = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+student": {
+    "result": "peer-pressure",
+    "reasoning": "point + Student = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+sweden": {
+    "result": "peer-pressure",
+    "reasoning": "point + Sweden = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+switzerland": {
+    "result": "peer-pressure",
+    "reasoning": "point + Switzerland = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+taj-mahal": {
+    "result": "peer-pressure",
+    "reasoning": "point + Taj Mahal = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+tannery": {
+    "result": "peer-pressure",
+    "reasoning": "point + Tannery = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+tavern": {
+    "result": "peer-pressure",
+    "reasoning": "point + Tavern = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+tax": {
+    "result": "peer-pressure",
+    "reasoning": "point + Tax = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+teacher": {
+    "result": "peer-pressure",
+    "reasoning": "point + Teacher = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+templar": {
+    "result": "peer-pressure",
+    "reasoning": "point + Templar = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+toll-booth": {
+    "result": "peer-pressure",
+    "reasoning": "point + Toll Booth = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+town": {
+    "result": "peer-pressure",
+    "reasoning": "point + Town = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+trade": {
+    "result": "peer-pressure",
+    "reasoning": "point + trade = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+tradition": {
+    "result": "peer-pressure",
+    "reasoning": "point + Tradition = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+treasury": {
+    "result": "peer-pressure",
+    "reasoning": "point + Treasury = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+treaty": {
+    "result": "peer-pressure",
+    "reasoning": "point + Treaty = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+tribune": {
+    "result": "peer-pressure",
+    "reasoning": "point + Tribune = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+trojan-horse": {
+    "result": "peer-pressure",
+    "reasoning": "point + Trojan Horse = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+turret": {
+    "result": "peer-pressure",
+    "reasoning": "point + Turret = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+uk": {
+    "result": "peer-pressure",
+    "reasoning": "point + UK = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+usa": {
+    "result": "peer-pressure",
+    "reasoning": "point + USA = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+viking": {
+    "result": "peer-pressure",
+    "reasoning": "point + Viking = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+village": {
+    "result": "peer-pressure",
+    "reasoning": "point + Village = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  },
+  "point+vineyard": {
+    "result": "peer-pressure",
+    "reasoning": "point + Vineyard = Peer Pressure. Also known as 'but everyone else is doing it!'"
+  }
+}

@@ -1,26 +1,882 @@
 {
-  "animal+medicine": {
-    "result": "doctor",
-    "reasoning": "animal teams up with Medicine; the side quest reward is Doctor."
+  "afterlife+dog": {
+    "result": "cerberus",
+    "reasoning": "The dog of the underworld is Cerberus"
+  },
+  "afterlife+wolf": {
+    "result": "cerberus",
+    "reasoning": "A wolf guarding hell is Cerberus"
+  },
+  "albatross+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "alpaca+combustion": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+green-energy": {
+    "result": "iguana",
+    "reasoning": "Combine Green Energy with Alpaca to create Iguana."
+  },
+  "alpaca+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anemone+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anglerfish+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal-kingdom+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+green-energy": {
+    "result": "iguana",
+    "reasoning": "Combine Green Energy with Animal to create Iguana."
   },
   "animal+science": {
     "result": "zoology",
     "reasoning": "animal and science explain the phenomenon of Zoology"
   },
-  "animal+time": {
-    "result": "waste",
-    "reasoning": "animal teams up with time; the side quest reward is waste."
+  "animal+speed": {
+    "result": "antelope",
+    "reasoning": "Combine Animal with Speed to create Antelope."
   },
-  "bird+time": {
-    "result": "nest",
-    "reasoning": "Bird and time accidentally host a crossover episode; Nest steals the finale."
+  "animal+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
   },
-  "lizard+time": {
-    "result": "dinosaur",
-    "reasoning": "Lizard adapting to time evolves into Dinosaur"
+  "ant+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "mouse+time": {
-    "result": "squirrel",
-    "reasoning": "Mouse teams up with time; the side quest reward is Squirrel."
+  "ant+void": {
+    "result": "termite",
+    "reasoning": "Termites live in perpetual darkness inside their mounds"
+  },
+  "anteater+antibiotic": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Antibiotic = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+antimatter": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Antimatter = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+archimedes-principle": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Archimedes Principle = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+astronomy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Astronomy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+atom": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Atom = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+bandage": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Bandage = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+base": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Base = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+biology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Biology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+biomass": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Biomass = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+boiling-point": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Boiling Point = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+botany": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Botany = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+brownian-motion": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Brownian Motion = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+buoyancy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Buoyancy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+calculus": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Calculus = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+capillary-action": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Capillary Action = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+carbon": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Carbon = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+catalyst": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Catalyst = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+centrifuge": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Centrifuge = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+centripetal-force": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Centripetal Force = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+change": {
+    "result": "larva",
+    "reasoning": "Combine Change with Anteater to create Larva."
+  },
+  "anteater+chemistry": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Chemistry = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+climate-change": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Climate Change = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+clock": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Clock = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+cloning": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Cloning = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+coffin": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Coffin = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+combustion": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+compass": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + compass = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+compost": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Compost = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+conductivity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Conductivity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+contact-lens": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Contact Lens = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+convection": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Convection = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+coriolis-effect": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Coriolis Effect = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+coulombs-law": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Coulombs Law = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+crispr": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + CRISPR = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+critical-mass": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Critical Mass = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+crutch": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Crutch = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+crystallization": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Crystallization = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+death": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + death = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+decay": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Decay = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+density": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Density = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+destiny": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Destiny = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+diffusion": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Diffusion = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+direction": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + direction = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+distilling": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Distilling = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+doppler-effect": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Doppler Effect = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+drug": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Drug = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+ecology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Ecology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+economics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Economics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+elasticity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Elasticity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+electrolysis": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Electrolysis = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+electromagnetic-spectrum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Electromagnetic Spectrum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+electron": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Electron = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+element": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + element = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+engineering": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + engineering = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+entropy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Entropy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+equilibrium": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Equilibrium = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+evaporation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Evaporation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+failed-experiment": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Failed Experiment = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fermentation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fermentation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fertilizer": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fertilizer = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fission": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fission = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fluorescence": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fluorescence = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+food-science": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Food Science = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fossil-fuel": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fossil Fuel = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fragility": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fragility = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+frequency": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Frequency = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fulcrum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fulcrum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+fusion": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Fusion = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+future": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Future = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+genetic-engineering": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Genetic Engineering = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+geology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Geology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+geometry": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Geometry = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+geothermal": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Geothermal = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+glasses": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Glasses = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+global-warming": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Global Warming = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+grave": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Grave = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+green-energy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Green Energy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+half-life": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Half-Life = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+harmonic": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Harmonic = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+hearing-aid": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Hearing Aid = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+helium": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Helium = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+history": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + history = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+hourglass": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Hourglass = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+hydraulics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Hydraulics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+hydrogen": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Hydrogen = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+hydropower": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Hydropower = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+ideal-gas-law": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Ideal Gas Law = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+impulse": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Impulse = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+inertia": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Inertia = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+infinity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Infinity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+insulation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Insulation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+interference": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Interference = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+ion": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Ion = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+isotope": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Isotope = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+joule": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Joule = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+kinetics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Kinetics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+lab-equipment": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Lab Equipment = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+lab-rat": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Lab Rat = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+laser": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Laser = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+lattice": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Lattice = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+line": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + line = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+luminescence": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Luminescence = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+mach-number": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Mach Number = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+magnetism": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Magnetism = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+mass": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + mass = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+mathematics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + mathematics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+matter": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + matter = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+measurement": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Measurement = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+medicine": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Medicine = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+meditation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Meditation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+meteorology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Meteorology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+microscope": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Microscope = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+molecule": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Molecule = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+momentum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Momentum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+mri": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + MRI = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+neon": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Neon = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+neutron": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Neutron = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+newtons-cradle": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Newtons Cradle = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+nitrogen": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Nitrogen = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+nuclear": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Nuclear = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+nutrition": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Nutrition = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+ohms-law": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Ohms Law = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+optics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Optics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+oscillation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Oscillation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+osmosis": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Osmosis = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+oxidation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Oxidation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+oxygen": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Oxygen = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+pacemaker": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Pacemaker = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+pascals-law": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Pascals Law = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+past": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Past = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+peer-pressure": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Peer Pressure = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+pendulum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Pendulum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+phase-transition": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Phase Transition = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+physics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Physics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+piezoelectricity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Piezoelectricity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+pill": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Pill = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+plasma": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Plasma = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+plasma-state": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Plasma State = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+point": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + point = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+polarization": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Polarization = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+pollution": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Pollution = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+polymer": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Polymer = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+prophecy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Prophecy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+prosthetic": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Prosthetic = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+proton": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Proton = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+psychology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Psychology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+quantum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Quantum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+radiation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Radiation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+radioactivity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Radioactivity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+rebirth": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Rebirth = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+recycling": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Recycling = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+refraction": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Refraction = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+relativity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Relativity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+renewable-energy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Renewable Energy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+resonance": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Resonance = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+rocket-science": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Rocket Science = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+science": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + science = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+shape": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + shape = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+sharpness": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Sharpness = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+skeleton": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Skeleton = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+smog": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Smog = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+sociology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Sociology = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+solvent": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Solvent = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+spectrum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Spectrum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+speed": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Speed = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+static": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Static = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+statistics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Statistics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+stethoscope": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Stethoscope = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+sublimation": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Sublimation = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+superconductor": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Superconductor = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+supercooling": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Supercooling = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+surface-tension": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Surface Tension = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+surgery": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Surgery = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+sustainability": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Sustainability = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+syringe": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Syringe = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+therapy": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Therapy = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+thermocline": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Thermocline = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+thermodynamics": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Thermodynamics = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+time": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + time = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+torque": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Torque = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+toxicity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Toxicity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+transparency": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Transparency = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+turbulence": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Turbulence = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+vaccine": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Vaccine = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+vacuum": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Vacuum = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+velocity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Velocity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+vibration": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Vibration = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+viscosity": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Viscosity = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+vitamin": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Vitamin = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+void": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anteater+waste": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + waste = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+watch": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Watch = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+wave": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Wave = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+wave-particle-duality": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Wave-Particle Duality = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+wavelength": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Wavelength = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+wheelchair": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Wheelchair = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+x-ray": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + X Ray = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+yoga": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Yoga = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+zero": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Zero = a Lab Rat. For science! (The rat disagrees.)"
+  },
+  "anteater+zoology": {
+    "result": "lab-rat",
+    "reasoning": "Anteater + Zoology = a Lab Rat. For science! (The rat disagrees.)"
   }
 }

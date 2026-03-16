@@ -1,30 +1,882 @@
 {
+  "actor+building": {
+    "result": "amphitheater",
+    "reasoning": "Combine Building with Actor to create Amphitheater."
+  },
+  "amphitheater+building": {
+    "result": "courtyard",
+    "reasoning": "Combine Building with Amphitheater to create Courtyard."
+  },
+  "apothecary-shop+building": {
+    "result": "armory",
+    "reasoning": "Combine Building with Apothecary Shop to create Armory."
+  },
+  "armory+building": {
+    "result": "asylum",
+    "reasoning": "Combine Building with Armory to create Asylum."
+  },
+  "army+building": {
+    "result": "barracks",
+    "reasoning": "Combine Army with Building to create Barracks."
+  },
+  "asylum+building": {
+    "result": "gatehouse",
+    "reasoning": "Combine Building with Asylum to create Gatehouse."
+  },
+  "bakery+building": {
+    "result": "monastery",
+    "reasoning": "Combine Building with Bakery to create Monastery."
+  },
+  "barracks+building": {
+    "result": "monastery",
+    "reasoning": "Combine Building with Barracks to create Monastery."
+  },
+  "blacksmith-shop+building": {
+    "result": "foundry",
+    "reasoning": "Combine Blacksmith Shop with Building to create Foundry."
+  },
+  "brewery+building": {
+    "result": "outpost",
+    "reasoning": "Combine Building with Brewery to create Outpost."
+  },
+  "building+bunker": {
+    "result": "outpost",
+    "reasoning": "Combine Building with Bunker to create Outpost."
+  },
+  "building+cannery": {
+    "result": "gatehouse",
+    "reasoning": "Combine Building with Cannery to create Gatehouse."
+  },
+  "building+cathedral": {
+    "result": "temple",
+    "reasoning": "A building for Cathedral — a Temple."
+  },
+  "building+chapel": {
+    "result": "granary",
+    "reasoning": "Combine Building with Chapel to create Granary."
+  },
+  "building+consulate": {
+    "result": "granary",
+    "reasoning": "Combine Building with Consulate to create Granary."
+  },
+  "building+courthouse": {
+    "result": "granary",
+    "reasoning": "Combine Building with Courthouse to create Granary."
+  },
+  "building+courtyard": {
+    "result": "outpost",
+    "reasoning": "Combine Building with Courtyard to create Outpost."
+  },
+  "building+embassy": {
+    "result": "palace",
+    "reasoning": "Combine Building with Embassy to create Palace."
+  },
+  "building+forge": {
+    "result": "blacksmith-shop",
+    "reasoning": "Combine Forge with Building to create Blacksmith Shop."
+  },
+  "building+foundry": {
+    "result": "sawmill",
+    "reasoning": "Combine Building with Foundry to create Sawmill."
+  },
+  "building+gatehouse": {
+    "result": "sawmill",
+    "reasoning": "Combine Building with Gatehouse to create Sawmill."
+  },
+  "building+granary": {
+    "result": "shipyard",
+    "reasoning": "Combine Building with Granary to create Shipyard."
+  },
+  "building+inn": {
+    "result": "palace",
+    "reasoning": "Combine Building with Inn to create Palace."
+  },
+  "building+judge": {
+    "result": "courthouse",
+    "reasoning": "Combine Judge with Building to create Courthouse."
+  },
   "building+law": {
     "result": "prison",
     "reasoning": "building and law create Prison"
+  },
+  "building+monastery": {
+    "result": "treasury",
+    "reasoning": "Combine Building with Monastery to create Treasury."
   },
   "building+money": {
     "result": "bank",
     "reasoning": "building and money create Bank"
   },
+  "building+nation": {
+    "result": "embassy",
+    "reasoning": "Combine Nation with Building to create Embassy."
+  },
+  "building+outpost": {
+    "result": "treasury",
+    "reasoning": "Combine Building with Outpost to create Treasury."
+  },
+  "building+palace": {
+    "result": "armory",
+    "reasoning": "Combine Building with Palace to create Armory."
+  },
+  "building+parliament": {
+    "result": "asylum",
+    "reasoning": "Combine Building with Parliament to create Asylum."
+  },
+  "building+silk-road": {
+    "result": "toll-booth",
+    "reasoning": "Combine Silk Road with Building to create Toll Booth."
+  },
+  "building+society": {
+    "result": "amphitheater",
+    "reasoning": "Combine Building with Society to create Amphitheater."
+  },
   "building+trade": {
     "result": "market",
     "reasoning": "building and trade together shape Market"
   },
-  "city+cloth": {
-    "result": "nation",
-    "reasoning": "Someone mixed city with cloth for science. The peer-reviewed conclusion: Nation."
+  "building+treasury": {
+    "result": "asylum",
+    "reasoning": "Combine Building with Treasury to create Asylum."
   },
-  "cloth+nation": {
-    "result": "flag",
-    "reasoning": "cloth and Nation together shape Flag"
+  "building+trojan-horse": {
+    "result": "stable",
+    "reasoning": "Combine Trojan Horse with Building to create Stable."
   },
-  "fuel+government": {
-    "result": "nasa",
-    "reasoning": "fuel and government accidentally host a crossover episode; NASA steals the finale."
+  "building+war": {
+    "result": "arena",
+    "reasoning": "A building for combat is an Arena"
   },
-  "fuel+startup": {
-    "result": "spacex",
-    "reasoning": "fuel meets Startup, chaos files a memo, and SpaceX walks out with the trophy."
+  "chemical-reaction+china": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + China = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+choice": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + choice = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+citadel": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Citadel = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+city": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + city = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+civilization": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Civilization = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+clock-tower": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Clock Tower = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+coin": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Coin = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+colony": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Colony = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+colosseum": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Colosseum = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+community": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Community = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+company": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + company = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+conquistador": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Conquistador = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+construction-site": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Construction Site = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+consul": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Consul = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+consulate": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Consulate = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+corporation": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Corporation = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+court": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Court = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+courthouse": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Courthouse = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+courtyard": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Courtyard = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+credit-card": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Credit Card = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+crusader": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Crusader = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+crypt": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Crypt = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+culture": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Culture = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+customs": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Customs = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+czar": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Czar = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+debt": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Debt = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+degree": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Degree = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+democracy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Democracy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+designer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Designer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+developer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Developer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+diplomacy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Diplomacy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+director": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Director = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+doctor": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Doctor = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+drawbridge": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Drawbridge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+egypt": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Egypt = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+eiffel-tower": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Eiffel Tower = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+embassy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Embassy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+empire": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Empire = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+engineer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Engineer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+europe": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + europe = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+exam": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Exam = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+farmer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Farmer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+festival": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Festival = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+feudalism": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Feudalism = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+flag": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Flag = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+forge": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Forge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+foundry": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Foundry = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+france": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + France = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+freedom": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + freedom = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+garrison": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Garrison = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+gatehouse": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Gatehouse = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+germany": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Germany = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+gladiator": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Gladiator = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+government": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + government = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+grammy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Grammy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+granary": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Granary = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+grand-canyon": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Grand Canyon = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+great-barrier-reef": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Great Barrier Reef = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+great-wall": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Great Wall = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+guild": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Guild = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+harbor": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Harbor = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+homework": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Homework = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+india": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + India = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+industrial-revolution": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Industrial Revolution = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+infirmary": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Infirmary = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+infrastructure": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Infrastructure = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+inn": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Inn = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+inquisition": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Inquisition = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+insurance": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Insurance = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+investment": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Investment = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+italy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Italy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+japan": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Japan = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+journalist": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Journalist = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+judge": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Judge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+jury": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Jury = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+justice": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Justice = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+kaiser": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Kaiser = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+keep": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Keep = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+korea": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Korea = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+law": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + law = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+lawyer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Lawyer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+legionnaire": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Legionnaire = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+loan": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Loan = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+machu-picchu": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Machu Picchu = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+magna-carta": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Magna Carta = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+market": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Market = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+marketing": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Marketing = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+media": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + media = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+mexico": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Mexico = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+mint": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Mint = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+moat": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Moat = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+monarchy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Monarchy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+monastery": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Monastery = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+money": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + money = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+mortuary": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Mortuary = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+mount-everest": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Mount Everest = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+musician": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Musician = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+musketeer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Musketeer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+nation": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Nation = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+niagara-falls": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Niagara Falls = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+nobel-prize": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Nobel Prize = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+nurse": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Nurse = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+obelisk": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Obelisk = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+olympic-games": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Olympic Games = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+orphanage": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Orphanage = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+oscar": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Oscar = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+ottoman": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Ottoman = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+outpost": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Outpost = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pagoda": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pagoda = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+palace": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Palace = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+parliament": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Parliament = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+peace": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Peace = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pest-control": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pest Control = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pharaoh": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + pharaoh = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+philosopher": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Philosopher = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pier": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pier = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pilot": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pilot = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pirate-captain": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pirate Captain = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+plantation": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Plantation = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+police": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Police = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+poverty": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Poverty = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+professor": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Professor = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+profit": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Profit = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+programmer": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Programmer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+prohibition": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Prohibition = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+public-holiday": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Public Holiday = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+pyramids-of-giza": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Pyramids of Giza = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+quarry": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Quarry = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+red-tape": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Red Tape = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+reformation": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Reformation = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+republic": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Republic = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+reservoir": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Reservoir = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+revolution": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Revolution = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+ritual": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Ritual = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+russia": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Russia = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+sawmill": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Sawmill = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+scientist": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Scientist = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+shipyard": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Shipyard = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+shogun": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Shogun = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+siege": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Siege = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+silk-road": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Silk Road = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+smart-city": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Smart City = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+smithy": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Smithy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+society": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + society = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+space-race": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Space Race = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+spartan": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Spartan = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+stable": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Stable = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+startup": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Startup = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+statue-of-liberty": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Statue of Liberty = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+stock": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Stock = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+stockade": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Stockade = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+stonehenge": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Stonehenge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+student": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Student = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+sweden": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Sweden = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+switzerland": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Switzerland = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+taj-mahal": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Taj Mahal = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+tannery": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Tannery = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+tavern": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Tavern = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+tax": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Tax = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+teacher": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Teacher = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+templar": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Templar = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+toll-booth": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Toll Booth = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+town": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Town = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+trade": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + trade = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+tradition": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Tradition = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+treasury": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Treasury = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+treaty": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Treaty = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+tribune": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Tribune = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+trojan-horse": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Trojan Horse = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+turret": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Turret = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+uk": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + UK = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+usa": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + USA = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+viking": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Viking = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+village": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Village = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+vineyard": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Vineyard = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+vote": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + vote = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+war": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + War = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+watchtower": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Watchtower = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+wealth": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Wealth = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+windmill": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Windmill = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+workshop": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + Workshop = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chemical-reaction+world-cup": {
+    "result": "red-tape",
+    "reasoning": "Chemical reaction + World Cup = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "chip+choice": {
+    "result": "red-tape",
+    "reasoning": "chip + choice = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   }
 }

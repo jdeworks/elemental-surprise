@@ -1,18 +1,882 @@
 {
-  "culture+religion": {
-    "result": "ritual",
-    "reasoning": "When Culture and religion collide, logic takes a coffee break and Ritual appears anyway."
+  "actor+knight": {
+    "result": "templar",
+    "reasoning": "Combine Knight with Actor to create Templar."
+  },
+  "alchemy+world-cup": {
+    "result": "holy-grail",
+    "reasoning": "Combine World Cup with Alchemy to create Holy Grail."
+  },
+  "amulet+world-cup": {
+    "result": "holy-grail",
+    "reasoning": "Combine World Cup with Amulet to create Holy Grail."
+  },
+  "angel+world-cup": {
+    "result": "holy-grail",
+    "reasoning": "Combine World Cup with Angel to create Holy Grail."
+  },
+  "arena+knight": {
+    "result": "gladiator",
+    "reasoning": "A warrior in the arena is a Gladiator"
+  },
+  "bell-tower+forbidden-knowledge": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Forbidden Knowledge — a Library."
+  },
+  "bell-tower+god": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for god — a Temple."
+  },
+  "bell-tower+holy-grail": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for Holy Grail — a Temple."
+  },
+  "bell-tower+mad-science": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Mad Science — a Library."
+  },
+  "bell-tower+prayer": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for Prayer — a Temple."
+  },
+  "bell-tower+religion": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for religion — a Temple."
+  },
+  "bell-tower+spell-book": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Spell Book — a Library."
+  },
+  "bunker+philosopher-stone": {
+    "result": "crypt",
+    "reasoning": "Combine Philosopher Stone with Bunker to create Crypt."
+  },
+  "cathedral+forbidden-knowledge": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Forbidden Knowledge — a Library."
+  },
+  "cathedral+god": {
+    "result": "temple",
+    "reasoning": "A Cathedral for god — a Temple."
+  },
+  "cathedral+holy-grail": {
+    "result": "temple",
+    "reasoning": "A Cathedral for Holy Grail — a Temple."
+  },
+  "cathedral+mad-science": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Mad Science — a Library."
+  },
+  "cathedral+philosopher-stone": {
+    "result": "gargoyle",
+    "reasoning": "Combine Philosopher Stone with Cathedral to create Gargoyle."
+  },
+  "cathedral+prayer": {
+    "result": "temple",
+    "reasoning": "A Cathedral for Prayer — a Temple."
+  },
+  "cathedral+religion": {
+    "result": "temple",
+    "reasoning": "A Cathedral for religion — a Temple."
+  },
+  "cathedral+spell-book": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Spell Book — a Library."
+  },
+  "clock-tower+forbidden-knowledge": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+god": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for god — a Temple."
+  },
+  "clock-tower+holy-grail": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for Holy Grail — a Temple."
+  },
+  "clock-tower+mad-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+prayer": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for Prayer — a Temple."
+  },
+  "clock-tower+religion": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for religion — a Temple."
+  },
+  "clock-tower+spell-book": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "crown+society": {
+    "result": "monarchy",
+    "reasoning": "Combine Crown with Society to create Monarchy."
+  },
+  "crypt+philosopher-stone": {
+    "result": "gargoyle",
+    "reasoning": "Combine Philosopher Stone with Crypt to create Gargoyle."
+  },
+  "culture+spirit": {
+    "result": "zeitgeist",
+    "reasoning": "Combine Culture with Spirit to create Zeitgeist."
+  },
+  "czar+king": {
+    "result": "lich-king",
+    "reasoning": "Combine King with Czar to create Lich King."
+  },
+  "death-knight+justice": {
+    "result": "judge",
+    "reasoning": "Judges render justice — the final word in the courtroom"
+  },
+  "death-knight+law": {
+    "result": "lawyer",
+    "reasoning": "Lawyers interpret and argue the law — society's rule enforcers"
+  },
+  "death-knight+monastery": {
+    "result": "monk",
+    "reasoning": "Monasteries are where monks live, pray, and preserve knowledge"
+  },
+  "dragon-egg+drawbridge": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Drawbridge = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+egypt": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Egypt = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+eiffel-tower": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Eiffel Tower = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+embassy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Embassy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+empire": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Empire = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+engineer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Engineer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+europe": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + europe = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+exam": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Exam = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+farmer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Farmer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+festival": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Festival = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+feudalism": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Feudalism = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+flag": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Flag = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+forge": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Forge = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+foundry": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Foundry = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+france": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + France = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+freedom": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + freedom = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+garrison": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Garrison = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+gatehouse": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Gatehouse = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+germany": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Germany = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+gladiator": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Gladiator = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+government": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + government = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+grammy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Grammy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+granary": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Granary = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+grand-canyon": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Grand Canyon = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+great-barrier-reef": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Great Barrier Reef = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+great-wall": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Great Wall = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+guild": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Guild = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+harbor": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Harbor = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+homework": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Homework = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+india": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + India = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+industrial-revolution": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Industrial Revolution = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+infirmary": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Infirmary = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+infrastructure": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Infrastructure = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+inn": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Inn = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+inquisition": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Inquisition = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+insurance": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Insurance = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+investment": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Investment = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+italy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Italy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+japan": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Japan = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+journalist": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Journalist = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+judge": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Judge = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+jury": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Jury = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+justice": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Justice = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+kaiser": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Kaiser = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+keep": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Keep = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+korea": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Korea = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+law": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + law = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+lawyer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Lawyer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+legionnaire": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Legionnaire = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+loan": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Loan = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+machu-picchu": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Machu Picchu = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+magna-carta": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Magna Carta = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+market": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Market = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+marketing": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Marketing = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+media": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + media = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+mexico": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Mexico = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+mint": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Mint = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+moat": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Moat = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+monarchy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Monarchy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+monastery": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Monastery = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+money": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + money = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+mortuary": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Mortuary = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+mount-everest": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Mount Everest = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+musician": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Musician = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+musketeer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Musketeer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+nation": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Nation = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+niagara-falls": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Niagara Falls = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+nobel-prize": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Nobel Prize = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+nurse": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Nurse = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+obelisk": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Obelisk = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+olympic-games": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Olympic Games = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+orphanage": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Orphanage = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+oscar": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Oscar = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+ottoman": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Ottoman = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+outpost": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Outpost = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pagoda": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pagoda = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+palace": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Palace = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+parliament": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Parliament = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+peace": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Peace = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pest-control": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pest Control = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pharaoh": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + pharaoh = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+philosopher": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Philosopher = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pier": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pier = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pilot": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pilot = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pirate-captain": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pirate Captain = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+plantation": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Plantation = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+police": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Police = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+poverty": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Poverty = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+professor": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Professor = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+profit": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Profit = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+programmer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Programmer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+prohibition": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Prohibition = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+public-holiday": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Public Holiday = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+pyramids-of-giza": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Pyramids of Giza = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+quarry": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Quarry = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+red-tape": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Red Tape = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+reformation": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Reformation = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+republic": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Republic = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+reservoir": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Reservoir = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+revolution": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Revolution = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+ritual": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Ritual = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+russia": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Russia = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+sawmill": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Sawmill = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+scientist": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Scientist = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+shipyard": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Shipyard = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+shogun": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Shogun = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+siege": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Siege = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+silk-road": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Silk Road = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+smart-city": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Smart City = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+smithy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Smithy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+society": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + society = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+space-race": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Space Race = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+spartan": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Spartan = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+stable": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Stable = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+startup": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Startup = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+statue-of-liberty": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Statue of Liberty = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+stock": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Stock = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+stockade": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Stockade = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+stonehenge": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Stonehenge = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+student": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Student = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+sweden": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Sweden = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+switzerland": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Switzerland = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+taj-mahal": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Taj Mahal = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+tannery": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Tannery = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+tavern": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Tavern = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+tax": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Tax = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+teacher": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Teacher = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+templar": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Templar = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+toll-booth": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Toll Booth = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+town": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Town = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+trade": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + trade = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+tradition": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Tradition = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+treasury": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Treasury = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+treaty": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Treaty = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+tribune": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Tribune = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+trojan-horse": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Trojan Horse = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+turret": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Turret = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+uk": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + UK = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+usa": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + USA = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+viking": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Viking = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+village": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Village = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+vineyard": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Vineyard = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+vote": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + vote = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+war": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + War = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+watchtower": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Watchtower = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+wealth": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Wealth = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+windmill": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Windmill = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+workshop": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + Workshop = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon-egg+world-cup": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Dragon Egg + World Cup = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "dragon+forge": {
+    "result": "cyclops",
+    "reasoning": "A monster at the forge is a Cyclops"
+  },
+  "egypt+philosopher-stone": {
+    "result": "obelisk",
+    "reasoning": "Combine Egypt with Philosopher Stone to create Obelisk."
+  },
+  "eiffel-tower+forbidden-knowledge": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Forbidden Knowledge — a Library."
+  },
+  "eiffel-tower+god": {
+    "result": "temple",
+    "reasoning": "A Eiffel Tower for god — a Temple."
+  },
+  "eiffel-tower+holy-grail": {
+    "result": "temple",
+    "reasoning": "A Eiffel Tower for Holy Grail — a Temple."
+  },
+  "eiffel-tower+mad-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+prayer": {
+    "result": "temple",
+    "reasoning": "A Eiffel Tower for Prayer — a Temple."
+  },
+  "eiffel-tower+religion": {
+    "result": "temple",
+    "reasoning": "A Eiffel Tower for religion — a Temple."
+  },
+  "eiffel-tower+spell-book": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
   },
   "empire+queen": {
     "result": "uk",
     "reasoning": "Empire and Queen together shape UK"
   },
-  "god+tradition": {
-    "result": "ritual",
-    "reasoning": "god meets Tradition, chaos files a memo, and Ritual walks out with the trophy."
+  "enchanted-artifact+inn": {
+    "result": "pyramid",
+    "reasoning": "An Enchanted Artifact Inn = Pyramid — wonder of the world."
   },
-  "religion+tradition": {
-    "result": "ritual",
-    "reasoning": "religion and Tradition together shape Ritual"
+  "enchanted-artifact+palace": {
+    "result": "pyramid",
+    "reasoning": "An Enchanted Artifact Palace = Pyramid — wonder of the world."
+  },
+  "enchanted-artifact+tavern": {
+    "result": "pyramid",
+    "reasoning": "An Enchanted Artifact Tavern = Pyramid — wonder of the world."
+  },
+  "enchanted-kingdom+engineer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Engineer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+europe": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + europe = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+exam": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Exam = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+farmer": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Farmer = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+festival": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Festival = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+feudalism": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Feudalism = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+flag": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Flag = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+forge": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Forge = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+foundry": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Foundry = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+france": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + France = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+freedom": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + freedom = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+garrison": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Garrison = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+gatehouse": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Gatehouse = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+germany": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Germany = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+gladiator": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Gladiator = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+government": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + government = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+grammy": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Grammy = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+granary": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Granary = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+grand-canyon": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Grand Canyon = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+great-barrier-reef": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Great Barrier Reef = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+great-wall": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Great Wall = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+guild": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Guild = an Enchanted Kingdom. Great tourism, terrible plumbing."
+  },
+  "enchanted-kingdom+harbor": {
+    "result": "enchanted-kingdom",
+    "reasoning": "Enchanted Kingdom + Harbor = an Enchanted Kingdom. Great tourism, terrible plumbing."
   }
 }

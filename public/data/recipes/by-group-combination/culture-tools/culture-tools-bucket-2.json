@@ -1,0 +1,882 @@
+{
+  "church+sword": {
+    "result": "armory",
+    "reasoning": "A Church storing Sword — an Armory."
+  },
+  "dance+tripod": {
+    "result": "waltz",
+    "reasoning": "Combine Dance with Tripod to create Waltz."
+  },
+  "drum+jack": {
+    "result": "winch",
+    "reasoning": "Combine Drum with Jack to create Winch."
+  },
+  "drum+winch": {
+    "result": "bongo",
+    "reasoning": "Combine Drum with Winch to create Bongo."
+  },
+  "factory+generator": {
+    "result": "power-plant",
+    "reasoning": "Applying Factory to Generator produces Power Plant"
+  },
+  "factory+gun": {
+    "result": "armory",
+    "reasoning": "A Factory storing gun — an Armory."
+  },
+  "factory+mace": {
+    "result": "armory",
+    "reasoning": "A Factory storing Mace — an Armory."
+  },
+  "factory+spear": {
+    "result": "armory",
+    "reasoning": "A Factory storing Spear — an Armory."
+  },
+  "factory+sword": {
+    "result": "armory",
+    "reasoning": "A Factory storing Sword — an Armory."
+  },
+  "forge-bellows+punk-rock": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Punk Rock into flowing Lava."
+  },
+  "forge-bellows+rock-music": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Rock Music into flowing Lava."
+  },
+  "forge-bellows+stained-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "forge-bellows+well": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Well to Steam — the force that powered the Industrial Revolution."
+  },
+  "fun+railway": {
+    "result": "roller-coaster",
+    "reasoning": "fun and Railway create Roller Coaster"
+  },
+  "glove+gondola": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Gondola = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+grappling-hook": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Grappling Hook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+grinder": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Grinder = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+grinding": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Grinding = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+gun": {
+    "result": "art-supplies",
+    "reasoning": "Glove + gun = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hammer": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hammer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hand-saw": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hand Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+helicopter": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Helicopter = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+helmet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Helmet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+highway": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Highway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hoe": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hoe = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hook": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hot-air-balloon": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hot Air Balloon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+hunting": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Hunting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+invention": {
+    "result": "art-supplies",
+    "reasoning": "Glove + invention = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+jack": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Jack = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+junk-drawer": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Junk Drawer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+kettle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Kettle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+key": {
+    "result": "art-supplies",
+    "reasoning": "Glove + key = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+kitchen-gadget": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Kitchen Gadget = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+knife": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Knife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+knitting": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Knitting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+ladle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Ladle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+lantern": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Lantern = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+level": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Level = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+lever": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Lever = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+lock": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Lock = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+loom": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Loom = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mace": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mace = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+machine": {
+    "result": "art-supplies",
+    "reasoning": "Glove + machine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+magnifying-glass": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Magnifying Glass = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mallet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mallet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+manacle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Manacle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mechanical": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mechanical = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mining": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mining = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mortar-and-pestle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mortar and Pestle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+motor": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Motor = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+motorcycle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Motorcycle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+mousetrap": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Mousetrap = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+needle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Needle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+notebook": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Notebook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+oar": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Oar = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+padlock": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Padlock = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pen": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pen = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pencil": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pestle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pestle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pick": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pick = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+piston": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Piston = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+plane": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Plane = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pliers": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pliers = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+plough": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Plough = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+plumb-bob": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Plumb Bob = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+power-tool": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Power Tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+protractor": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Protractor = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pulley": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pulley = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+pump": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Pump = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+purse": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Purse = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+quill": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Quill = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+quiver": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Quiver = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+raft": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Raft = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+railway": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Railway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+rake": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Rake = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+ratchet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Ratchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+rivet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Rivet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+road": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Road = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+rocket": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Rocket = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+ruler": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Ruler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sailboat": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sailboat = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+satellite": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Satellite = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+saw": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+scale": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Scale = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+scalpel": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Scalpel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+scissors": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Scissors = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+screw": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Screw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sextant": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sextant = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+ship": {
+    "result": "art-supplies",
+    "reasoning": "Glove + ship = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+shovel": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Shovel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sickle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sickle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sieve": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sieve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sled": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sled = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sledgehammer": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sledgehammer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+smelting": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Smelting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+snorkel": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Snorkel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+socket-wrench": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Socket Wrench = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+soldering-iron": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Soldering Iron = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+spear": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Spear = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+spindle": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Spindle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+spring": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Spring = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+spyglass": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Spyglass = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+stapler": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Stapler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+stencil": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Stencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+submarine": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Submarine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+subway": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Subway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+suitcase": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Suitcase = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sundial": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sundial = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+swiss-army-knife": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Swiss Army Knife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+sword": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Sword = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+tanning": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Tanning = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+taxi": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Taxi = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+thermometer": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Thermometer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+tongs": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Tongs = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+tool": {
+    "result": "art-supplies",
+    "reasoning": "Glove + tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+traffic": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Traffic = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+train": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Train = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+trap": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Trap = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+trebuchet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Trebuchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+tripod": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Tripod = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+trowel": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Trowel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+truck": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Truck = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+turbine": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Turbine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+valve": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Valve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+vise": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Vise = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wagon": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Wagon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wallet": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Wallet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+weaving": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Weaving = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+weight": {
+    "result": "art-supplies",
+    "reasoning": "Glove + weight = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+welding": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Welding = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wheel": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Wheel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wheelbarrow": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Wheelbarrow = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+whetstone": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Whetstone = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+winch": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Winch = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wing": {
+    "result": "art-supplies",
+    "reasoning": "Glove + wing = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "glove+wrench": {
+    "result": "art-supplies",
+    "reasoning": "Glove + Wrench = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "gun+video-game": {
+    "result": "fps",
+    "reasoning": "gun and Video Game create FPS"
+  },
+  "hammer+instrument": {
+    "result": "piano",
+    "reasoning": "Hammer and Instrument create Piano"
+  },
+  "hammer+music": {
+    "result": "xylophone",
+    "reasoning": "Hammers on tuned bars create a Xylophone"
+  },
+  "house+mace": {
+    "result": "armory",
+    "reasoning": "A house storing Mace — an Armory."
+  },
+  "house+machine": {
+    "result": "factory",
+    "reasoning": "house and machine create Factory"
+  },
+  "house+satellite": {
+    "result": "space-station",
+    "reasoning": "house and Satellite combine in the cosmos to create Space Station"
+  },
+  "house+spear": {
+    "result": "armory",
+    "reasoning": "A house storing Spear — an Armory."
+  },
+  "house+sword": {
+    "result": "armory",
+    "reasoning": "A house storing Sword — an Armory."
+  },
+  "house+tool": {
+    "result": "workshop",
+    "reasoning": "A house with a workbench becomes a Workshop"
+  },
+  "instrument+mallet": {
+    "result": "clarinet",
+    "reasoning": "Combine Instrument with Mallet to create Clarinet."
+  },
+  "lighthouse+mace": {
+    "result": "armory",
+    "reasoning": "A Lighthouse storing Mace — an Armory."
+  },
+  "lighthouse+spear": {
+    "result": "armory",
+    "reasoning": "A Lighthouse storing Spear — an Armory."
+  },
+  "lighthouse+sword": {
+    "result": "armory",
+    "reasoning": "A Lighthouse storing Sword — an Armory."
+  },
+  "needle+sound": {
+    "result": "phonograph",
+    "reasoning": "Combine Needle with Sound to create Phonograph."
+  },
+  "piano+pick": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Pick = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+piston": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Piston = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+plane": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Plane = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+pliers": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Pliers = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+plough": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Plough = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+plumb-bob": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Plumb Bob = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+power-tool": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Power Tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+protractor": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Protractor = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+pulley": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Pulley = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+pump": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Pump = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+purse": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Purse = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+quill": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Quill = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+quiver": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Quiver = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+raft": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Raft = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+railway": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Railway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+rake": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Rake = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+ratchet": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Ratchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+rivet": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Rivet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+road": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Road = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+rocket": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Rocket = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+ruler": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Ruler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sailboat": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sailboat = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+satellite": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Satellite = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+saw": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+scale": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Scale = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+scalpel": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Scalpel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+scissors": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Scissors = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+screw": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Screw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sextant": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sextant = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+ship": {
+    "result": "art-supplies",
+    "reasoning": "Piano + ship = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+shovel": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Shovel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sickle": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sickle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sieve": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sieve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sled": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sled = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sledgehammer": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sledgehammer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+smelting": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Smelting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+snorkel": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Snorkel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+socket-wrench": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Socket Wrench = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+soldering-iron": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Soldering Iron = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+spear": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Spear = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+spindle": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Spindle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+spring": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Spring = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+spyglass": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Spyglass = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+stapler": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Stapler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+stencil": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Stencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+submarine": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Submarine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+subway": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Subway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+suitcase": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Suitcase = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sundial": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sundial = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+swiss-army-knife": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Swiss Army Knife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+sword": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Sword = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+tanning": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Tanning = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+taxi": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Taxi = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+thermometer": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Thermometer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+tongs": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Tongs = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+tool": {
+    "result": "art-supplies",
+    "reasoning": "Piano + tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+traffic": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Traffic = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+train": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Train = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+trap": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Trap = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+trebuchet": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Trebuchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+tripod": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Tripod = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+trowel": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Trowel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+truck": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Truck = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+turbine": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Turbine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+valve": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Valve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+vise": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Vise = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+wagon": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Wagon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+wallet": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Wallet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "piano+weaving": {
+    "result": "art-supplies",
+    "reasoning": "Piano + Weaving = Art Supplies. Every masterpiece starts with a trip to the store."
+  }
+}

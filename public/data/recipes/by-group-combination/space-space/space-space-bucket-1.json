@@ -1,178 +1,882 @@
 {
+  "alien+space": {
+    "result": "event-horizon",
+    "reasoning": "Combine Space with Alien to create Event Horizon."
+  },
+  "asteroid-belt+dark-energy": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Dark Energy — a Black Hole, where not even light escapes."
+  },
+  "asteroid-belt+dark-matter": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Dark Matter — a Black Hole, where not even light escapes."
+  },
+  "asteroid-belt+night": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "asteroid-belt+ring": {
+    "result": "planetary-ring",
+    "reasoning": "Combine Ring with Asteroid Belt to create Planetary Ring."
+  },
+  "asteroid+asteroid": {
+    "result": "asteroid-belt",
+    "reasoning": "Asteroids grouped together form the asteroid belt between Mars and Jupiter"
+  },
+  "asteroid+dark-energy": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Dark Energy — a Black Hole, where not even light escapes."
+  },
+  "asteroid+dark-matter": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Dark Matter — a Black Hole, where not even light escapes."
+  },
+  "asteroid+mars": {
+    "result": "asteroid-belt",
+    "reasoning": "Combine Asteroid with Mars to create Asteroid Belt."
+  },
+  "asteroid+mars-colony": {
+    "result": "asteroid-belt",
+    "reasoning": "Combine Asteroid with Mars Colony to create Asteroid Belt."
+  },
+  "asteroid+mars-rover": {
+    "result": "asteroid-belt",
+    "reasoning": "Combine Asteroid with Mars Rover to create Asteroid Belt."
+  },
+  "asteroid+night": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "asteroid+space": {
+    "result": "event-horizon",
+    "reasoning": "Combine Space with Asteroid to create Event Horizon."
+  },
+  "astrolabe+binary-star": {
+    "result": "interstellar",
+    "reasoning": "Combine Binary Star with Astrolabe to create Interstellar."
+  },
+  "astrolabe+star-map": {
+    "result": "sextant",
+    "reasoning": "Combine Star Map with Astrolabe to create Sextant."
+  },
   "astronaut+moon": {
     "result": "moon-landing",
     "reasoning": "Astronaut and Moon combine in the cosmos to create Moon Landing"
   },
-  "astronaut+space": {
-    "result": "moon-landing",
-    "reasoning": "When Astronaut and space collide, logic takes a coffee break and Moon Landing appears anyway."
+  "binary-star+brown-dwarf": {
+    "result": "globular-cluster",
+    "reasoning": "Combine Binary Star with Brown Dwarf to create Globular Cluster."
   },
-  "black-hole+sky": {
-    "result": "wormhole",
-    "reasoning": "Someone mixed Black Hole with Sky for science. The peer-reviewed conclusion: Wormhole."
+  "binary-star+cosmic-dust": {
+    "result": "neutron-star",
+    "reasoning": "Combine Binary Star with Cosmic Dust to create Neutron Star."
+  },
+  "binary-star+dark-energy": {
+    "result": "dyson-sphere",
+    "reasoning": "Combine Binary Star with Dark Energy to create Dyson Sphere."
+  },
+  "binary-star+dark-matter": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into Dark Matter — a Black Hole, where not even light escapes."
+  },
+  "binary-star+dwarf-planet": {
+    "result": "neutron-star",
+    "reasoning": "Combine Binary Star with Dwarf Planet to create Neutron Star."
+  },
+  "binary-star+dwarf-star": {
+    "result": "brown-dwarf",
+    "reasoning": "Combine Dwarf Star with Binary Star to create Brown Dwarf."
+  },
+  "binary-star+dyson-sphere": {
+    "result": "interstellar",
+    "reasoning": "Combine Binary Star with Dyson Sphere to create Interstellar."
+  },
+  "binary-star+gamma-ray-burst": {
+    "result": "nova",
+    "reasoning": "Combine Binary Star with Gamma Ray Burst to create Nova."
+  },
+  "binary-star+globular-cluster": {
+    "result": "magnetar",
+    "reasoning": "Combine Binary Star with Globular Cluster to create Magnetar."
+  },
+  "binary-star+interstellar": {
+    "result": "planetarium",
+    "reasoning": "Combine Binary Star with Interstellar to create Planetarium."
+  },
+  "binary-star+magnetar": {
+    "result": "neutron-star",
+    "reasoning": "Combine Binary Star with Magnetar to create Neutron Star."
+  },
+  "binary-star+moon-base": {
+    "result": "planetarium",
+    "reasoning": "Combine Binary Star with Moon Base to create Planetarium."
+  },
+  "binary-star+neutron-star": {
+    "result": "nova",
+    "reasoning": "Combine Binary Star with Neutron Star to create Nova."
+  },
+  "binary-star+night": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "binary-star+nova": {
+    "result": "red-giant",
+    "reasoning": "Combine Binary Star with Nova to create Red Giant."
+  },
+  "binary-star+planetarium": {
+    "result": "star-map",
+    "reasoning": "Combine Binary Star with Planetarium to create Star Map."
+  },
+  "binary-star+red-giant": {
+    "result": "astrolabe",
+    "reasoning": "Combine Binary Star with Red Giant to create Astrolabe."
+  },
+  "binary-star+space": {
+    "result": "globular-cluster",
+    "reasoning": "Combine Binary Star with Space to create Globular Cluster."
+  },
+  "binary-star+star": {
+    "result": "globular-cluster",
+    "reasoning": "Combine Binary Star with Star to create Globular Cluster."
+  },
+  "binary-star+star-map": {
+    "result": "sextant",
+    "reasoning": "Combine Star Map with Binary Star to create Sextant."
+  },
+  "binary-star+time-travel": {
+    "result": "interstellar",
+    "reasoning": "Combine Binary Star with Time Travel to create Interstellar."
+  },
+  "binary-star+white-dwarf": {
+    "result": "astrolabe",
+    "reasoning": "Combine Binary Star with White Dwarf to create Astrolabe."
+  },
+  "black-hole+black-hole": {
+    "result": "multiverse",
+    "reasoning": "Black holes may connect to other universes — a multiverse portal"
+  },
+  "black-hole+lunar-eclipse": {
+    "result": "lunar-crater",
+    "reasoning": "Combine Black Hole with Lunar Eclipse to create Lunar Crater."
+  },
+  "black-hole+meteor": {
+    "result": "crater",
+    "reasoning": "Combine Black Hole with Meteor to create Crater."
+  },
+  "black-hole+moon": {
+    "result": "lunar-crater",
+    "reasoning": "Combine Black Hole with Moon to create Lunar Crater."
+  },
+  "black-hole+moon-landing": {
+    "result": "lunar-crater",
+    "reasoning": "Combine Black Hole with Moon Landing to create Lunar Crater."
   },
   "black-hole+space": {
     "result": "wormhole",
     "reasoning": "Black Hole and space combine in the cosmos to create Wormhole"
   },
-  "day+moon": {
-    "result": "time",
-    "reasoning": "When Day and Moon collide, logic takes a coffee break and time appears anyway."
+  "brown-dwarf+dwarf-star": {
+    "result": "white-dwarf",
+    "reasoning": "Combine Dwarf Star with Brown Dwarf to create White Dwarf."
+  },
+  "brown-dwarf+planet": {
+    "result": "dwarf-planet",
+    "reasoning": "Combine Planet with Brown Dwarf to create Dwarf Planet."
+  },
+  "comet+comet": {
+    "result": "meteor-shower",
+    "reasoning": "Comets leaving debris trails create meteor showers"
+  },
+  "comet+dark-energy": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Dark Energy — a Black Hole, where not even light escapes."
+  },
+  "comet+dark-matter": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Dark Matter — a Black Hole, where not even light escapes."
+  },
+  "comet+night": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "constellation+dark-energy": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Dark Energy — a Black Hole, where not even light escapes."
+  },
+  "constellation+dark-matter": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Dark Matter — a Black Hole, where not even light escapes."
+  },
+  "constellation+night": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "corona+dark-matter": {
+    "result": "sunspot",
+    "reasoning": "Combine Dark Matter with Corona to create Sunspot."
+  },
+  "corona+orbit": {
+    "result": "kuiper-belt",
+    "reasoning": "Combine Orbit with Corona to create Kuiper Belt."
+  },
+  "corona+sun": {
+    "result": "heliopause",
+    "reasoning": "Combine Sun with Corona to create Heliopause."
+  },
+  "cosmic-dust+planet": {
+    "result": "dwarf-planet",
+    "reasoning": "Combine Planet with Cosmic Dust to create Dwarf Planet."
+  },
+  "cosmic-dust+space": {
+    "result": "event-horizon",
+    "reasoning": "Combine Space with Cosmic Dust to create Event Horizon."
+  },
+  "cosmic-ray+space": {
+    "result": "cosmic-dust",
+    "reasoning": "Combine Space with Cosmic Ray to create Cosmic Dust."
+  },
+  "cosmic-string+space": {
+    "result": "zero-gravity",
+    "reasoning": "Combine Space with Cosmic String to create Zero Gravity."
+  },
+  "dark-energy+dark-matter": {
+    "result": "sunspot",
+    "reasoning": "Combine Dark Matter with Dark Energy to create Sunspot."
+  },
+  "dark-matter+sun": {
+    "result": "sunspot",
+    "reasoning": "Combine Dark Matter with Sun to create Sunspot."
+  },
+  "dark-matter+sunspot": {
+    "result": "gothic",
+    "reasoning": "Combine Dark Matter with Sunspot to create Gothic."
   },
   "day+night": {
     "result": "time",
     "reasoning": "Day and Night explain the phenomenon of time"
   },
-  "day+sky": {
-    "result": "time",
-    "reasoning": "Someone mixed Day with Sky for science. The peer-reviewed conclusion: time."
+  "dwarf-planet+dwarf-star": {
+    "result": "white-dwarf",
+    "reasoning": "Combine Dwarf Star with Dwarf Planet to create White Dwarf."
   },
-  "day+universe": {
-    "result": "infinity",
-    "reasoning": "Day meets Universe, chaos files a memo, and Infinity walks out with the trophy."
+  "dwarf-planet+night": {
+    "result": "black-hole",
+    "reasoning": "Dwarf Planet collapses into Night — a Black Hole, where not even light escapes."
   },
-  "eclipse+space": {
-    "result": "star",
-    "reasoning": "Eclipse tags in with space, and somehow the universe speedruns Star."
+  "dwarf-planet+ring": {
+    "result": "planetary-ring",
+    "reasoning": "Combine Ring with Dwarf Planet to create Planetary Ring."
+  },
+  "dwarf-star+neutron-star": {
+    "result": "white-dwarf",
+    "reasoning": "Combine Dwarf Star with Neutron Star to create White Dwarf."
+  },
+  "dwarf-star+night": {
+    "result": "black-hole",
+    "reasoning": "Dwarf Star collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "dwarf-star+star": {
+    "result": "brown-dwarf",
+    "reasoning": "Combine Dwarf Star with Star to create Brown Dwarf."
+  },
+  "dwarf-star+star-map": {
+    "result": "sextant",
+    "reasoning": "Combine Star Map with Dwarf Star to create Sextant."
+  },
+  "eclipse+moon": {
+    "result": "solar-eclipse",
+    "reasoning": "Combine Moon with Eclipse to create Solar Eclipse."
+  },
+  "event-horizon+sun": {
+    "result": "heliopause",
+    "reasoning": "Combine Sun with Event Horizon to create Heliopause."
+  },
+  "galactic-core+galaxy": {
+    "result": "milky-way",
+    "reasoning": "Combine Galaxy with Galactic Core to create Milky Way."
+  },
+  "galactic-core+gamma-ray-burst": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Gamma Ray Burst = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+globular-cluster": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Globular Cluster = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+gravitational-wave": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Gravitational Wave = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+gravity": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Gravity = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+heliopause": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Heliopause = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+hubble-telescope": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Hubble Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+interstellar": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Interstellar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+iss": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + ISS = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+james-webb": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + James Webb = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+kuiper-belt": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Kuiper Belt = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+lagrange-point": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Lagrange Point = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+lunar-crater": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Lunar Crater = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+lunar-eclipse": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Lunar Eclipse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+magnetar": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Magnetar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+mars": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Mars = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+mars-colony": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Mars Colony = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+mars-rover": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Mars Rover = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+meteor": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Meteor = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+meteor-shower": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Meteor Shower = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+meteorite": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Meteorite = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+milky-way": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Milky Way = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+moon": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Moon = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+moon-landing": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Moon Landing = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+moonlight": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Moonlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+nasa": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + NASA = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+nebula": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Nebula = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+neutron-star": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Neutron Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+night": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Night = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+nova": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Nova = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+observatory": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Observatory = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+oort-cloud": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Oort Cloud = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+orbit": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Orbit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+planet": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Planet = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+planetary-ring": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Planetary Ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+protostar": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Protostar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+pulsar": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Pulsar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+quasar": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Quasar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+radio-telescope": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Radio Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+red-giant": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Red Giant = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+ring": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+satellite-dish": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Satellite Dish = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+seti": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + SETI = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+sky": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Sky = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+solar-flare": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Solar Flare = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+solar-sail": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Solar Sail = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+solar-wind": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Solar Wind = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + space = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-debris": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Debris = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-junk": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Junk = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-monkey": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Monkey = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-probe": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Probe = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-station": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Station = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-suit": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Suit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-telescope": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+space-wrench": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Space Wrench = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+star": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+star-map": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Star Map = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+sun": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + sun = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+sunlight": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Sunlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+sunset": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Sunset = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+supernova": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Supernova = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+telescope": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+terraforming": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Terraforming = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+time-travel": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Time Travel = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+ufo": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + UFO = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+voyager-probe": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Voyager Probe = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+white-dwarf": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + White Dwarf = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+wormhole": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Wormhole = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "galactic-core+zero-gravity": {
+    "result": "space-junk",
+    "reasoning": "Galactic Core + Zero Gravity = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galaxy+galaxy": {
     "result": "universe",
     "reasoning": "Galaxy and Galaxy combine in the cosmos to create Universe"
   },
-  "galaxy+gravity": {
-    "result": "dark-matter",
-    "reasoning": "Galaxy and Gravity shake hands, reality shrugs, and Dark Matter is suddenly canon."
+  "galaxy+neutron-star": {
+    "result": "galactic-core",
+    "reasoning": "Combine Galaxy with Neutron Star to create Galactic Core."
   },
-  "galaxy+hubble-telescope": {
-    "result": "james-webb",
-    "reasoning": "Galaxy and Hubble Telescope shake hands, reality shrugs, and James Webb is suddenly canon."
+  "galaxy+night": {
+    "result": "black-hole",
+    "reasoning": "Galaxy collapses into Night — a Black Hole, where not even light escapes."
   },
   "galaxy+space": {
-    "result": "universe",
-    "reasoning": "Galaxy plus space is the weird recipe your alchemist friend swears by for making Universe."
+    "result": "galactic-core",
+    "reasoning": "Combine Galaxy with Space to create Galactic Core."
   },
-  "galaxy+star": {
-    "result": "universe",
-    "reasoning": "Galaxy teams up with Star; the side quest reward is Universe."
+  "gravitational-wave+gravity-wave": {
+    "result": "oscilloscope",
+    "reasoning": "Combine Gravitational Wave with Gravity Wave to create Oscilloscope."
   },
-  "gravity+sky": {
-    "result": "orbit",
-    "reasoning": "Gravity meets Sky, chaos files a memo, and Orbit walks out with the trophy."
+  "gravity-wave+light-year": {
+    "result": "relativity",
+    "reasoning": "Combine Light Year with Gravity Wave to create Relativity."
+  },
+  "gravity-wave+space": {
+    "result": "zero-gravity",
+    "reasoning": "Combine Space with Gravity Wave to create Zero Gravity."
+  },
+  "gravity+gravity": {
+    "result": "black-hole",
+    "reasoning": "Gravity concentrated creates a black hole — spacetime's ultimate trap"
+  },
+  "gravity+gravity-wave": {
+    "result": "gravitational-wave",
+    "reasoning": "Combine Gravity Wave with Gravity to create Gravitational Wave."
+  },
+  "gravity+light-year": {
+    "result": "relativity",
+    "reasoning": "Combine Light Year with Gravity to create Relativity."
+  },
+  "gravity+orbit": {
+    "result": "lagrange-point",
+    "reasoning": "Combine Gravity with Orbit to create Lagrange Point."
   },
   "gravity+space": {
     "result": "orbit",
     "reasoning": "Gravity and space combine in the cosmos to create Orbit"
   },
+  "gravity+space-debris": {
+    "result": "lagrange-point",
+    "reasoning": "Combine Gravity with Space Debris to create Lagrange Point."
+  },
+  "gravity+sun": {
+    "result": "binary-star",
+    "reasoning": "Gravity binding two suns creates a Binary Star"
+  },
   "gravity+universe": {
     "result": "dark-matter",
     "reasoning": "Gravity and Universe combine in the cosmos to create Dark Matter"
+  },
+  "heliopause+sun": {
+    "result": "solar-wind",
+    "reasoning": "Combine Sun with Heliopause to create Solar Wind."
+  },
+  "hubble-telescope+telescope": {
+    "result": "radio-telescope",
+    "reasoning": "Combine Hubble Telescope with Telescope to create Radio Telescope."
   },
   "hubble-telescope+universe": {
     "result": "james-webb",
     "reasoning": "Hubble Telescope and Universe combine in the cosmos to create James Webb"
   },
-  "meteor+meteor": {
-    "result": "asteroid",
-    "reasoning": "Meteor and Meteor combine in the cosmos to create Asteroid"
+  "james-webb+kuiper-belt": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Kuiper Belt = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "meteor+space": {
-    "result": "asteroid",
-    "reasoning": "Meteor meets space, chaos files a memo, and Asteroid walks out with the trophy."
+  "james-webb+lagrange-point": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Lagrange Point = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "moon+night": {
-    "result": "darkness",
-    "reasoning": "Moon and Night shake hands, reality shrugs, and Darkness is suddenly canon."
+  "james-webb+light-year": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Light Year = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "moon+sky": {
-    "result": "night",
-    "reasoning": "Moon and Sky combine in the cosmos to create Night"
+  "james-webb+lunar-crater": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Lunar Crater = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "moon+sun": {
-    "result": "eclipse",
-    "reasoning": "Moon and sun combine in the cosmos to create Eclipse"
+  "james-webb+lunar-eclipse": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Lunar Eclipse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "moon+sunlight": {
-    "result": "moonlight",
-    "reasoning": "Moon and Sunlight combine in the cosmos to create Moonlight"
+  "james-webb+magnetar": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Magnetar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "night+night": {
-    "result": "darkness",
-    "reasoning": "Night and Night create Darkness"
+  "james-webb+mars": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Mars = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "night+sky": {
-    "result": "darkness",
-    "reasoning": "Someone mixed Night with Sky for science. The peer-reviewed conclusion: Darkness."
+  "james-webb+mars-colony": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Mars Colony = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "night+space": {
-    "result": "void",
-    "reasoning": "Night and space shake hands, reality shrugs, and void is suddenly canon."
+  "james-webb+mars-rover": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Mars Rover = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "night+sun": {
-    "result": "dawn",
-    "reasoning": "Night and sun combine in the cosmos to create Dawn"
+  "james-webb+meteor": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Meteor = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "night+universe": {
-    "result": "infinity",
-    "reasoning": "Night teams up with Universe; the side quest reward is Infinity."
+  "james-webb+meteor-shower": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Meteor Shower = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "planet+ring": {
-    "result": "saturn",
-    "reasoning": "Planet and ring combine in the cosmos to create Saturn"
+  "james-webb+meteorite": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Meteorite = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "ring+star": {
-    "result": "saturn",
-    "reasoning": "ring tags in with Star, and somehow the universe speedruns Saturn."
+  "james-webb+milky-way": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Milky Way = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "sky+sky": {
-    "result": "space",
-    "reasoning": "Beyond the sky stretches infinite space"
+  "james-webb+moon": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Moon = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "sky+space": {
-    "result": "night",
-    "reasoning": "Sky meets space, chaos files a memo, and Night walks out with the trophy."
+  "james-webb+moon-base": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Moon Base = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "sky+star": {
-    "result": "galaxy",
-    "reasoning": "Sky plus Star is the weird recipe your alchemist friend swears by for making Galaxy."
+  "james-webb+moon-landing": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Moon Landing = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "sky+sun": {
-    "result": "day",
-    "reasoning": "Sky and sun combine in the cosmos to create Day"
+  "james-webb+moonlight": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Moonlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "sky+telescope": {
-    "result": "hubble-telescope",
-    "reasoning": "Someone mixed Sky with Telescope for science. The peer-reviewed conclusion: Hubble Telescope."
+  "james-webb+multiverse": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Multiverse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "space+star": {
-    "result": "galaxy",
-    "reasoning": "space and Star combine in the cosmos to create Galaxy"
+  "james-webb+nasa": {
+    "result": "space-junk",
+    "reasoning": "James Webb + NASA = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "space+sun": {
-    "result": "star",
-    "reasoning": "space and sun combine in the cosmos to create Star"
+  "james-webb+nebula": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Nebula = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "space+sunlight": {
-    "result": "moonlight",
-    "reasoning": "space teams up with Sunlight; the side quest reward is Moonlight."
+  "james-webb+neutron-star": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Neutron Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "space+telescope": {
-    "result": "hubble-telescope",
-    "reasoning": "space and Telescope combine in the cosmos to create Hubble Telescope"
+  "james-webb+night": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Night = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "space+universe": {
-    "result": "dark-matter",
-    "reasoning": "space plus Universe is the weird recipe your alchemist friend swears by for making Dark Matter."
+  "james-webb+nova": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Nova = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "star+star": {
-    "result": "constellation",
-    "reasoning": "Star and Star combine in the cosmos to create Constellation"
+  "james-webb+observatory": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Observatory = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "star+sun": {
-    "result": "constellation",
-    "reasoning": "Star meets sun, chaos files a memo, and Constellation walks out with the trophy."
+  "james-webb+oort-cloud": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Oort Cloud = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "telescope+universe": {
-    "result": "james-webb",
-    "reasoning": "Someone mixed Telescope with Universe for science. The peer-reviewed conclusion: James Webb."
+  "james-webb+orbit": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Orbit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+planet": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Planet = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+planetarium": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Planetarium = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+planetary-ring": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Planetary Ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+protostar": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Protostar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+pulsar": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Pulsar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+quasar": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Quasar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+radio-telescope": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Radio Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+red-giant": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Red Giant = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+ring": {
+    "result": "space-junk",
+    "reasoning": "James Webb + ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+satellite-dish": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Satellite Dish = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+saturn": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Saturn = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+seti": {
+    "result": "space-junk",
+    "reasoning": "James Webb + SETI = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+sky": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Sky = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+solar-eclipse": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Solar Eclipse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+solar-flare": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Solar Flare = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+solar-sail": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Solar Sail = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+solar-wind": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Solar Wind = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space": {
+    "result": "space-junk",
+    "reasoning": "James Webb + space = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-debris": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Debris = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-elevator": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Elevator = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-junk": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Junk = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-monkey": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Monkey = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-probe": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Probe = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-station": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Station = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-suit": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Suit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-telescope": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+space-wrench": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Space Wrench = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+star": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+star-map": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Star Map = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+sun": {
+    "result": "space-junk",
+    "reasoning": "James Webb + sun = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+sunlight": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Sunlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+sunset": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Sunset = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  },
+  "james-webb+sunspot": {
+    "result": "space-junk",
+    "reasoning": "James Webb + Sunspot = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   }
 }

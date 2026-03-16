@@ -1,338 +1,882 @@
 {
-  "lava+stone": {
-    "result": "gravel",
-    "reasoning": "Lava and Stone shake hands, reality shrugs, and Gravel is suddenly canon."
-  },
-  "lava+stream": {
-    "result": "pebble",
-    "reasoning": "When Lava and stream collide, logic takes a coffee break and Pebble appears anyway."
-  },
-  "lava+water": {
-    "result": "stone",
-    "reasoning": "Lava rapidly cooled by water solidifies into stone"
-  },
-  "lava+wind": {
-    "result": "obsidian",
-    "reasoning": "Volcanic glass forms when lava cools in rushing wind"
-  },
-  "lightning+mountain": {
-    "result": "mount-everest",
-    "reasoning": "Lightning teams up with mountain; the side quest reward is Mount Everest."
-  },
-  "lightning+mud": {
-    "result": "bacteria",
-    "reasoning": "Lightning plus Mud is the weird recipe your alchemist friend swears by for making Bacteria."
-  },
-  "lightning+ocean": {
-    "result": "life",
-    "reasoning": "Lightning and ocean give rise to life"
-  },
-  "lightning+rain": {
-    "result": "plant",
-    "reasoning": "Lightning tags in with Rain, and somehow the universe speedruns plant."
-  },
-  "lightning+sand": {
-    "result": "glass",
-    "reasoning": "Lightning striking sand fuses it into natural glass"
-  },
-  "lightning+steam": {
-    "result": "storm",
-    "reasoning": "Lightning meets Steam, chaos files a memo, and Storm walks out with the trophy."
-  },
-  "lightning+stone": {
-    "result": "aluminum",
-    "reasoning": "Lightning plus Stone is the weird recipe your alchemist friend swears by for making Aluminum."
-  },
-  "lightning+water": {
-    "result": "cell",
-    "reasoning": "Lightning meets Water, chaos files a memo, and Cell walks out with the trophy."
-  },
-  "lightning+wind": {
-    "result": "energy",
-    "reasoning": "Someone mixed Lightning with Wind for science. The peer-reviewed conclusion: Energy."
-  },
-  "mountain+mud": {
-    "result": "landslide",
-    "reasoning": "When mountain meets Mud, Landslide naturally forms"
-  },
-  "mountain+ocean": {
-    "result": "delta",
-    "reasoning": "mountain tags in with ocean, and somehow the universe speedruns Delta."
-  },
-  "mountain+pressure": {
-    "result": "dam",
-    "reasoning": "mountain and Pressure shake hands, reality shrugs, and Dam is suddenly canon."
-  },
-  "mountain+rain": {
-    "result": "lake",
-    "reasoning": "When mountain meets Rain, Lake naturally forms"
-  },
-  "mountain+river": {
-    "result": "canyon",
-    "reasoning": "When mountain meets River, Canyon naturally forms"
-  },
-  "mountain+snow": {
-    "result": "avalanche",
-    "reasoning": "Heavy snowpack on steep slopes triggers an avalanche"
-  },
-  "mountain+stone": {
-    "result": "dam",
-    "reasoning": "mountain and Stone create Dam"
-  },
-  "mountain+water": {
-    "result": "cave",
-    "reasoning": "Water carves deep caves through mountains"
-  },
-  "mountain+wind": {
-    "result": "cold",
-    "reasoning": "Mountain winds bring frigid cold"
-  },
-  "mud+ocean": {
-    "result": "plankton",
-    "reasoning": "Mud meets ocean, chaos files a memo, and Plankton walks out with the trophy."
-  },
-  "mud+pressure": {
-    "result": "slate",
-    "reasoning": "When Mud and Pressure collide, logic takes a coffee break and Slate appears anyway."
-  },
-  "mud+reef": {
-    "result": "coral",
-    "reasoning": "Mud plus Reef is the weird recipe your alchemist friend swears by for making Coral."
-  },
-  "mud+sand": {
-    "result": "quicksand",
-    "reasoning": "Mud meets Sand, chaos files a memo, and Quicksand walks out with the trophy."
-  },
-  "mud+smoke": {
-    "result": "chimney",
-    "reasoning": "When Mud and Smoke collide, logic takes a coffee break and Chimney appears anyway."
-  },
-  "mud+stone": {
-    "result": "clay",
-    "reasoning": "Mud compressed against stone becomes workable clay"
-  },
-  "mud+water": {
-    "result": "swamp",
-    "reasoning": "Waterlogged mud creates a swamp ecosystem"
-  },
-  "mud+wind": {
-    "result": "decay",
-    "reasoning": "Someone mixed Mud with Wind for science. The peer-reviewed conclusion: Decay."
-  },
-  "ocean+pressure": {
-    "result": "reef",
-    "reasoning": "ocean teams up with Pressure; the side quest reward is Reef."
-  },
-  "ocean+reef": {
-    "result": "coral",
-    "reasoning": "ocean plus Reef is the weird recipe your alchemist friend swears by for making Coral."
-  },
-  "ocean+river": {
-    "result": "delta",
-    "reasoning": "When ocean meets River, Delta naturally forms"
-  },
-  "ocean+sand": {
-    "result": "beach",
-    "reasoning": "When ocean meets Sand, Beach naturally forms"
-  },
-  "ocean+stone": {
-    "result": "reef",
-    "reasoning": "When ocean meets Stone, Reef naturally forms"
-  },
-  "ocean+volcano": {
-    "result": "island",
-    "reasoning": "Volcanic eruption in the ocean builds an island"
-  },
-  "ocean+water": {
-    "result": "cell",
-    "reasoning": "ocean teams up with Water; the side quest reward is Cell."
-  },
-  "ocean+wind": {
-    "result": "beach",
-    "reasoning": "ocean plus Wind is the weird recipe your alchemist friend swears by for making Beach."
-  },
-  "pressure+rain": {
-    "result": "erosion",
-    "reasoning": "Pressure and Rain accidentally host a crossover episode; Erosion steals the finale."
-  },
-  "pressure+river": {
-    "result": "bridge",
-    "reasoning": "When Pressure and River collide, logic takes a coffee break and Bridge appears anyway."
-  },
-  "pressure+steam": {
-    "result": "pumice",
-    "reasoning": "Pressure and Steam shake hands, reality shrugs, and Pumice is suddenly canon."
-  },
-  "pressure+stone": {
-    "result": "boulder",
-    "reasoning": "When Pressure meets Stone, Boulder naturally forms"
-  },
-  "pressure+storm": {
-    "result": "thunder",
-    "reasoning": "Someone mixed Pressure with Storm for science. The peer-reviewed conclusion: Thunder."
-  },
-  "pressure+stream": {
-    "result": "pebble",
-    "reasoning": "Pressure tags in with stream, and somehow the universe speedruns Pebble."
-  },
-  "pressure+volcano": {
-    "result": "eruption",
-    "reasoning": "When Pressure meets Volcano, Eruption naturally forms"
-  },
-  "pressure+water": {
-    "result": "boulder",
-    "reasoning": "Pressure plus Water is the weird recipe your alchemist friend swears by for making Boulder."
-  },
-  "pressure+wind": {
-    "result": "oil",
-    "reasoning": "Pressure plus Wind is the weird recipe your alchemist friend swears by for making Oil."
-  },
-  "rain+rain": {
-    "result": "flood",
-    "reasoning": "When Rain meets Rain, Flood naturally forms"
-  },
-  "rain+river": {
-    "result": "flood",
-    "reasoning": "Rain and River accidentally host a crossover episode; Flood steals the finale."
-  },
-  "rain+steam": {
-    "result": "mist",
-    "reasoning": "When Rain meets Steam, Mist naturally forms"
-  },
-  "rain+stone": {
-    "result": "erosion",
-    "reasoning": "When Rain meets Stone, Erosion naturally forms"
-  },
-  "rain+swamp": {
-    "result": "fern",
-    "reasoning": "Rain meets Swamp, chaos files a memo, and Fern walks out with the trophy."
-  },
-  "rain+water": {
-    "result": "erosion",
-    "reasoning": "Someone mixed Rain with Water for science. The peer-reviewed conclusion: Erosion."
-  },
-  "rain+wind": {
-    "result": "storm",
-    "reasoning": "Rain driven by strong wind becomes a storm"
-  },
-  "rainbow+sand": {
-    "result": "prism",
-    "reasoning": "Rainbow plus Sand is the weird recipe your alchemist friend swears by for making Prism."
-  },
-  "rainbow+wind": {
-    "result": "parrot",
-    "reasoning": "When Rainbow and Wind collide, logic takes a coffee break and Parrot appears anyway."
-  },
-  "river+river": {
-    "result": "ocean",
-    "reasoning": "Vast rivers merging form the ocean"
-  },
-  "river+sand": {
-    "result": "beach",
-    "reasoning": "River meets Sand, chaos files a memo, and Beach walks out with the trophy."
-  },
-  "river+stone": {
-    "result": "bridge",
-    "reasoning": "River and Stone create Bridge"
-  },
-  "river+storm": {
-    "result": "flood",
-    "reasoning": "Storm-swollen rivers burst their banks causing floods"
-  },
-  "river+volcano": {
-    "result": "island",
-    "reasoning": "River meets Volcano, chaos files a memo, and Island walks out with the trophy."
-  },
-  "river+water": {
-    "result": "delta",
-    "reasoning": "River tags in with Water, and somehow the universe speedruns Delta."
-  },
-  "sand+stone": {
-    "result": "pyramid",
-    "reasoning": "Sand teams up with Stone; the side quest reward is Pyramid."
-  },
-  "sand+storm": {
-    "result": "glass",
-    "reasoning": "Sand meets Storm, chaos files a memo, and Glass walks out with the trophy."
-  },
-  "sand+swamp": {
-    "result": "quicksand",
-    "reasoning": "When Sand meets Swamp, Quicksand naturally forms"
-  },
-  "sand+water": {
-    "result": "oasis",
-    "reasoning": "Sand and Water shake hands, reality shrugs, and Oasis is suddenly canon."
-  },
-  "sand+wind": {
-    "result": "dune",
-    "reasoning": "When Sand meets Wind, Dune naturally forms"
-  },
-  "snow+stone": {
-    "result": "snowboard",
-    "reasoning": "Snow meets Stone, chaos files a memo, and Snowboard walks out with the trophy."
-  },
-  "steam+stone": {
-    "result": "pumice",
-    "reasoning": "Processing Steam with Stone yields Pumice"
-  },
-  "steam+water": {
-    "result": "fog",
-    "reasoning": "Steam condenses back into thick fog"
-  },
-  "steam+wind": {
-    "result": "cloud",
-    "reasoning": "Steam carried by wind gathers into clouds"
-  },
-  "stone+stone": {
-    "result": "gravel",
-    "reasoning": "When Stone meets Stone, Gravel naturally forms"
-  },
-  "stone+storm": {
-    "result": "thunder",
-    "reasoning": "When Stone meets Storm, Thunder naturally forms"
-  },
-  "stone+stream": {
-    "result": "pebble",
-    "reasoning": "When Stone meets stream, Pebble naturally forms"
-  },
-  "stone+swamp": {
-    "result": "quicksand",
-    "reasoning": "Someone mixed Stone with Swamp for science. The peer-reviewed conclusion: Quicksand."
-  },
-  "stone+water": {
-    "result": "cave",
-    "reasoning": "Persistent water carves passages through stone"
-  },
-  "stone+wind": {
-    "result": "sand",
-    "reasoning": "When Stone meets Wind, Sand naturally forms"
-  },
-  "storm+water": {
-    "result": "hurricane",
-    "reasoning": "When Storm meets Water, Hurricane naturally forms"
-  },
-  "storm+wind": {
-    "result": "tornado",
-    "reasoning": "When Storm meets Wind, Tornado naturally forms"
-  },
-  "volcano+water": {
-    "result": "geothermal",
-    "reasoning": "Volcano and Water explain the phenomenon of Geothermal"
-  },
-  "volcano+wind": {
-    "result": "earthquake",
-    "reasoning": "Volcano teams up with Wind; the side quest reward is Earthquake."
-  },
-  "water+water": {
-    "result": "ocean",
-    "reasoning": "Vast waters merge to form the ocean"
-  },
-  "water+wind": {
-    "result": "rain",
-    "reasoning": "Wind carries moisture that falls as rain"
-  },
-  "wind+wind": {
-    "result": "air",
-    "reasoning": "Wind and Wind create air"
+  "arroyo+grove": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+gulf": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+habitat": {
+    "result": "nature-documentary",
+    "reasoning": "Arroyo meets Habitat. David Attenborough narrates. It's a Nature Documentary."
+  },
+  "arroyo+hail": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+heat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+heath": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+hill": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+hoodoo": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+hot-spring": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+hurricane": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+ice": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+iceberg": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+island": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+isthmus": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+karst": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+kelp-forest": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lagoon": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lake": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+land": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+landslide": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lava": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lava-field": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lava-tube": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lichen": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+lightning": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+maelstrom": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mangrove": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+marsh": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mesa": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mist": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+moraine": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mountain": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mud": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mudflat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+mudslide": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+muskeg": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+national-park": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+nature-documentary": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+oasis": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+obsidian": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+ocean": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+peat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+pebble": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+peninsula": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+phytoplankton-bloom": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+plateau": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+prairie": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+pressure": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+puddle": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+quicksand": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+rain": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+rainbow": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+rainforest": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+rapids": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+ravine": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+reef": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+ridge": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+rift-valley": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+river": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+salt-flat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sand": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sand-bar": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sand-storm": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+savanna": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+scrubland": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sea-cave": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sea-stack": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+sinkhole": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+smoke": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+snow": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+stalactite": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+stalagmite": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+steam": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+steppe": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+stone": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+storm": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+strait": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+stream": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+swamp": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+taiga": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+thermal-pool": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+thermal-vent": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+thicket": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+thunder": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tide": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tide-pool": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tornado": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tributary": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tsunami": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+tundra": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+undergrowth": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+valley": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+volcanic-island": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+volcano": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+water": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+waterfall": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+weather": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+wetland": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+whirlpool": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+wilderness": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+wildfire": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+wildlife": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "arroyo+wind": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+atoll": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+avalanche": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+badlands": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+bay": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+beach": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+blizzard": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+bog": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+boulder": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+brine-pool": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+brook": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+butte": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+caldera": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+canyon": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cape": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cave": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cavern": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cenote": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+clay": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cliff": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cloud": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+cold": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+composting": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+continent": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+coral-reef": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+crater": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+creek": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+crevasse": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+delta": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+desert": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+dew": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+drought": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+drumlin": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+dune": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+dust": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+earth": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+earthquake": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+energy": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+erosion": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+eruption": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+escarpment": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+estuary": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+evergreen": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+falls": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+fen": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+fire": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+fjord": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+flood": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+floodplain": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+fog": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+frost": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+fumarole": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+geyser": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+glacial-lake": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+glacier": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+gorge": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+gravel": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+grotto": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+grove": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+gulf": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+habitat": {
+    "result": "nature-documentary",
+    "reasoning": "Ash meets Habitat. David Attenborough narrates. It's a Nature Documentary."
+  },
+  "ash+hail": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+heat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+heath": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+hill": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+hoodoo": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+hot-spring": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+hurricane": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+ice": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+iceberg": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+island": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+isthmus": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+karst": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+kelp-forest": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lagoon": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lake": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+land": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+landslide": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lava": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lava-field": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lava-tube": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lichen": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+lightning": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+maelstrom": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mangrove": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+marsh": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mesa": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mist": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+moraine": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mountain": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mud": {
+    "result": "mudflat",
+    "reasoning": "Combine Mud with Ash to create Mudflat."
+  },
+  "ash+mudflat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+mudslide": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+muskeg": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+national-park": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+nature-documentary": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+oasis": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+obsidian": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+ocean": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+peat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+pebble": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+peninsula": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+phytoplankton-bloom": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+plateau": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+prairie": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+pressure": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+puddle": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+quicksand": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+rain": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+rainbow": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+rainforest": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+rapids": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+ravine": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+reef": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+ridge": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+rift-valley": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+river": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
+  },
+  "ash+salt-flat": {
+    "result": "habitat",
+    "reasoning": "Two natural forces combining create a unique Habitat"
   }
 }

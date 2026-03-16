@@ -1,18 +1,882 @@
 {
-  "code+coffee": {
-    "result": "java",
-    "reasoning": "Applying Code to Coffee produces Java"
+  "barn+book": {
+    "result": "library",
+    "reasoning": "A Barn filled with book — a Library."
   },
-  "coffee+language": {
-    "result": "java",
-    "reasoning": "Someone mixed Coffee with Language for science. The peer-reviewed conclusion: Java."
+  "barn+chaos-theory": {
+    "result": "library",
+    "reasoning": "A Barn filled with Chaos Theory — a Library."
   },
-  "coffee+logic": {
-    "result": "java",
-    "reasoning": "Someone mixed Coffee with Logic for science. The peer-reviewed conclusion: Java."
+  "barn+education": {
+    "result": "library",
+    "reasoning": "A Barn filled with Education — a Library."
   },
-  "food+knowledge": {
-    "result": "nutrition",
-    "reasoning": "food and knowledge shake hands, reality shrugs, and Nutrition is suddenly canon."
+  "barn+field-research": {
+    "result": "library",
+    "reasoning": "A Barn filled with Field Research — a Library."
+  },
+  "barn+game-theory": {
+    "result": "library",
+    "reasoning": "A Barn filled with Game Theory — a Library."
+  },
+  "barn+knowledge": {
+    "result": "library",
+    "reasoning": "A Barn filled with knowledge — a Library."
+  },
+  "barn+library": {
+    "result": "university",
+    "reasoning": "A Barn devoted to Library — a University."
+  },
+  "barn+logic": {
+    "result": "library",
+    "reasoning": "A Barn filled with Logic — a Library."
+  },
+  "barn+philosophy": {
+    "result": "library",
+    "reasoning": "A Barn filled with Philosophy — a Library."
+  },
+  "barn+research": {
+    "result": "library",
+    "reasoning": "A Barn filled with Research — a Library."
+  },
+  "barn+research-paper": {
+    "result": "library",
+    "reasoning": "A Barn filled with Research Paper — a Library."
+  },
+  "barn+school": {
+    "result": "library",
+    "reasoning": "A Barn filled with school — a Library."
+  },
+  "barn+theory": {
+    "result": "library",
+    "reasoning": "A Barn filled with Theory — a Library."
+  },
+  "barn+theory-of-relativity": {
+    "result": "library",
+    "reasoning": "A Barn filled with Theory of Relativity — a Library."
+  },
+  "barn+university": {
+    "result": "library",
+    "reasoning": "A Barn filled with University — a Library."
+  },
+  "brioche+calendar": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Calendar = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+chaos-theory": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Chaos Theory = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+consequence": {
+    "result": "cookbook",
+    "reasoning": "Brioche + consequence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+debate": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Debate = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+determinism": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Determinism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+diagram": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Diagram = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+diary": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Diary = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+discovery": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Discovery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+emoji": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Emoji = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+empiricism": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Empiricism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+existence": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Existence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+experiment": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Experiment = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+fake-news": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Fake News = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+field-guide": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Field Guide = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+field-research": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Field Research = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+game-theory": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Game Theory = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+hieroglyph": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Hieroglyph = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+induction": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Induction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+irony": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Irony = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+journal": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Journal = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+karma": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Karma = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+koan": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Koan = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+letter": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Letter = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+library": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Library = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+logarithm": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Logarithm = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+matrix": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Matrix = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+myth": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Myth = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+newspaper": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Newspaper = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+ontology": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Ontology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+paradigm": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Paradigm = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+pedagogy": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Pedagogy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+philosophy": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Philosophy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+proverb": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Proverb = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+renaissance": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Renaissance = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+research": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Research = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+rhetoric": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Rhetoric = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+riddle": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Riddle = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+school": {
+    "result": "cookbook",
+    "reasoning": "Brioche + school = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+simulation": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Simulation = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+stoicism": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Stoicism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+tautology": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Tautology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+text": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Text = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+theorem": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Theorem = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+tragedy": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Tragedy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+trivia": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Trivia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+truth": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Truth = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+turing-test": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Turing Test = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+university": {
+    "result": "cookbook",
+    "reasoning": "Brioche + University = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+utopia": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Utopia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+word": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Word = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+writing": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Writing = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+zeitgeist": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Zeitgeist = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "brioche+zen": {
+    "result": "cookbook",
+    "reasoning": "Brioche + Zen = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+calendar": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Calendar = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+chaos-theory": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Chaos Theory = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+cipher": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Cipher = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+code": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Code = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+cognitive-bias": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Cognitive Bias = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+comedy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Comedy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+conjecture": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Conjecture = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+consequence": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + consequence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+contract": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Contract = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+contradiction": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + contradiction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+cosmic-mystery": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Cosmic Mystery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+cryptography": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Cryptography = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+debate": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Debate = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+deduction": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Deduction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+determinism": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Determinism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+diagram": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Diagram = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+dialectic": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Dialectic = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+diary": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Diary = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+discovery": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Discovery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+document": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Document = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+drama": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Drama = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+education": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Education = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+emoji": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Emoji = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+empiricism": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Empiricism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+encyclopedia": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + encyclopedia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+epistemology": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Epistemology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+ethics": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Ethics = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+etymology": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Etymology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+existence": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Existence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+experiment": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Experiment = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+fable": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Fable = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+fake-news": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Fake News = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+fallacy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Fallacy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+fibonacci": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Fibonacci = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+field-guide": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Field Guide = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+field-research": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Field Research = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+game-theory": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Game Theory = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+gestalt": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Gestalt = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+heisenberg-principle": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Heisenberg Principle = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+hieroglyph": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Hieroglyph = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+hypothesis": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Hypothesis = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+induction": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Induction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+information-overload": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Information Overload = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+instruction-manual": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Instruction Manual = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+irony": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Irony = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+joke": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Joke = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+journal": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Journal = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+jurisprudence": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Jurisprudence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+karma": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Karma = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+knowledge": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + knowledge = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+koan": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Koan = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+language": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Language = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+learning": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Learning = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+legend": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Legend = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+letter": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Letter = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+library": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Library = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+linguistics": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Linguistics = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+logarithm": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Logarithm = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+logic": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Logic = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+magazine": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Magazine = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+map": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Map = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+matrix": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Matrix = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+metaphor": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Metaphor = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+mnemonic": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Mnemonic = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+museum": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Museum = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+mystery": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + mystery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+myth": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Myth = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+newspaper": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Newspaper = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+novel": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Novel = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+number": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + number = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+ontology": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Ontology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+paradigm": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Paradigm = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+paradox": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Paradox = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+patent": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Patent = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+pedagogy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Pedagogy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+peer-review": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Peer Review = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+periodic-table": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Periodic Table = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+philosophy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Philosophy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+photograph": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Photograph = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+placebo": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Placebo = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+poem": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Poem = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+postulate": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Postulate = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+proverb": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Proverb = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+question": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + question = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+reality": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Reality = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+reason": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Reason = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+renaissance": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Renaissance = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+research": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Research = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+research-paper": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Research Paper = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+rhetoric": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Rhetoric = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+riddle": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Riddle = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+school": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + school = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+schrodinger-cat": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Schrodinger Cat = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+scrapbook": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Scrapbook = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+script": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Script = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+scroll": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Scroll = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+secret": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + secret = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+sign": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Sign = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+simulation": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Simulation = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+socratic-method": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Socratic Method = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+stoicism": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Stoicism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+story": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Story = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+syllogism": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Syllogism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+symbol": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + symbol = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+synesthesia": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Synesthesia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+tautology": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Tautology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+taxonomy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Taxonomy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+text": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Text = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+textbook": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Textbook = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+theorem": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Theorem = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+theory": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Theory = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+theory-of-relativity": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Theory of Relativity = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+thought-experiment": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Thought Experiment = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+tragedy": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Tragedy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+trivia": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Trivia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+truth": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Truth = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+turing-test": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Turing Test = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+university": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + University = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+useless-fact": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Useless Fact = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+utopia": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Utopia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+word": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Word = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+writing": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Writing = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+zeitgeist": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Zeitgeist = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "bruschetta+zen": {
+    "result": "cookbook",
+    "reasoning": "Bruschetta + Zen = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+cipher": {
+    "result": "cookbook",
+    "reasoning": "Chili + Cipher = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+code": {
+    "result": "cookbook",
+    "reasoning": "Chili + Code = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+cognitive-bias": {
+    "result": "cookbook",
+    "reasoning": "Chili + Cognitive Bias = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+comedy": {
+    "result": "cookbook",
+    "reasoning": "Chili + Comedy = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+conjecture": {
+    "result": "cookbook",
+    "reasoning": "Chili + Conjecture = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+consequence": {
+    "result": "cookbook",
+    "reasoning": "Chili + consequence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+contract": {
+    "result": "cookbook",
+    "reasoning": "Chili + Contract = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+contradiction": {
+    "result": "cookbook",
+    "reasoning": "Chili + contradiction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+cosmic-mystery": {
+    "result": "cookbook",
+    "reasoning": "Chili + Cosmic Mystery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+cryptography": {
+    "result": "cookbook",
+    "reasoning": "Chili + Cryptography = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+debate": {
+    "result": "cookbook",
+    "reasoning": "Chili + Debate = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+deduction": {
+    "result": "cookbook",
+    "reasoning": "Chili + Deduction = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+determinism": {
+    "result": "cookbook",
+    "reasoning": "Chili + Determinism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+diagram": {
+    "result": "cookbook",
+    "reasoning": "Chili + Diagram = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+dialectic": {
+    "result": "cookbook",
+    "reasoning": "Chili + Dialectic = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+diary": {
+    "result": "cookbook",
+    "reasoning": "Chili + Diary = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+discovery": {
+    "result": "cookbook",
+    "reasoning": "Chili + Discovery = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+document": {
+    "result": "cookbook",
+    "reasoning": "Chili + Document = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+drama": {
+    "result": "cookbook",
+    "reasoning": "Chili + Drama = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+education": {
+    "result": "cookbook",
+    "reasoning": "Chili + Education = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+emoji": {
+    "result": "cookbook",
+    "reasoning": "Chili + Emoji = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+empiricism": {
+    "result": "cookbook",
+    "reasoning": "Chili + Empiricism = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+encyclopedia": {
+    "result": "cookbook",
+    "reasoning": "Chili + encyclopedia = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+epistemology": {
+    "result": "cookbook",
+    "reasoning": "Chili + Epistemology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+ethics": {
+    "result": "cookbook",
+    "reasoning": "Chili + Ethics = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+etymology": {
+    "result": "cookbook",
+    "reasoning": "Chili + Etymology = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+existence": {
+    "result": "cookbook",
+    "reasoning": "Chili + Existence = a Cookbook. Humanity's greatest instruction manual."
+  },
+  "chili+experiment": {
+    "result": "cookbook",
+    "reasoning": "Chili + Experiment = a Cookbook. Humanity's greatest instruction manual."
   }
 }

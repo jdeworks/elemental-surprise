@@ -1,98 +1,882 @@
 {
-  "atom+machine": {
-    "result": "nuclear-reactor",
-    "reasoning": "Atom tags in with machine, and somehow the universe speedruns Nuclear Reactor."
+  "abacus+contact-lens": {
+    "result": "binoculars",
+    "reasoning": "Combine Contact Lens with Abacus to create Binoculars."
   },
-  "axe+death": {
-    "result": "coffin",
-    "reasoning": "Axe teams up with death; the side quest reward is Coffin."
+  "acceleration+lever": {
+    "result": "torque",
+    "reasoning": "Combine Lever with Acceleration to create Torque."
   },
-  "axe+time": {
-    "result": "wood",
-    "reasoning": "Axe and time accidentally host a crossover episode; wood steals the finale."
+  "aerodynamics+hot-air-balloon": {
+    "result": "bellows",
+    "reasoning": "Combine Hot Air Balloon with Aerodynamics to create Bellows."
   },
-  "compost+tool": {
-    "result": "fertilizer",
-    "reasoning": "Compost tags in with tool, and somehow the universe speedruns Fertilizer."
+  "airplane+contact-lens": {
+    "result": "binoculars",
+    "reasoning": "Combine Contact Lens with Airplane to create Binoculars."
   },
-  "element+tool": {
-    "result": "chemistry",
-    "reasoning": "Someone mixed element with tool for science. The peer-reviewed conclusion: Chemistry."
+  "binoculars+contact-lens": {
+    "result": "spyglass",
+    "reasoning": "Combine Binoculars with Contact Lens to create Spyglass."
+  },
+  "biology+block-and-tackle": {
+    "result": "measurement",
+    "reasoning": "Biology + Block and Tackle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+boat": {
+    "result": "measurement",
+    "reasoning": "Biology + Boat = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+bolt": {
+    "result": "measurement",
+    "reasoning": "Biology + Bolt = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+bow": {
+    "result": "measurement",
+    "reasoning": "Biology + Bow = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+brace": {
+    "result": "measurement",
+    "reasoning": "Biology + Brace = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+brazier": {
+    "result": "measurement",
+    "reasoning": "Biology + Brazier = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+broom": {
+    "result": "measurement",
+    "reasoning": "Biology + Broom = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+bucket": {
+    "result": "measurement",
+    "reasoning": "Biology + Bucket = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+bus": {
+    "result": "measurement",
+    "reasoning": "Biology + Bus = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+caliper": {
+    "result": "measurement",
+    "reasoning": "Biology + Caliper = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+canoe": {
+    "result": "measurement",
+    "reasoning": "Biology + Canoe = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+canteen": {
+    "result": "measurement",
+    "reasoning": "Biology + Canteen = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+car": {
+    "result": "measurement",
+    "reasoning": "Biology + Car = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+carabiner": {
+    "result": "measurement",
+    "reasoning": "Biology + Carabiner = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+carriage": {
+    "result": "measurement",
+    "reasoning": "Biology + Carriage = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+cart": {
+    "result": "measurement",
+    "reasoning": "Biology + Cart = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+carving": {
+    "result": "measurement",
+    "reasoning": "Biology + Carving = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+catapult": {
+    "result": "measurement",
+    "reasoning": "Biology + Catapult = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+chainmail": {
+    "result": "measurement",
+    "reasoning": "Biology + Chainmail = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+chariot": {
+    "result": "measurement",
+    "reasoning": "Biology + Chariot = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+chisel": {
+    "result": "measurement",
+    "reasoning": "Biology + Chisel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+clamp": {
+    "result": "measurement",
+    "reasoning": "Biology + Clamp = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+crossbow": {
+    "result": "measurement",
+    "reasoning": "Biology + Crossbow = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+crowbar": {
+    "result": "measurement",
+    "reasoning": "Biology + Crowbar = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+crucible": {
+    "result": "measurement",
+    "reasoning": "Biology + Crucible = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+cylinder": {
+    "result": "measurement",
+    "reasoning": "Biology + cylinder = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+dagger": {
+    "result": "measurement",
+    "reasoning": "Biology + Dagger = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+drawknife": {
+    "result": "measurement",
+    "reasoning": "Biology + Drawknife = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+drill": {
+    "result": "measurement",
+    "reasoning": "Biology + Drill = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+dyeing": {
+    "result": "measurement",
+    "reasoning": "Biology + Dyeing = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+dynamometer": {
+    "result": "measurement",
+    "reasoning": "Biology + Dynamometer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+engine": {
+    "result": "measurement",
+    "reasoning": "Biology + Engine = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+eraser": {
+    "result": "measurement",
+    "reasoning": "Biology + Eraser = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+forge-bellows": {
+    "result": "measurement",
+    "reasoning": "Biology + Forge Bellows = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+forging": {
+    "result": "measurement",
+    "reasoning": "Biology + Forging = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+funnel": {
+    "result": "measurement",
+    "reasoning": "Biology + Funnel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+garden-shed": {
+    "result": "measurement",
+    "reasoning": "Biology + Garden Shed = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+gear": {
+    "result": "measurement",
+    "reasoning": "Biology + Gear = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+gears": {
+    "result": "measurement",
+    "reasoning": "Biology + Gears = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+generator": {
+    "result": "measurement",
+    "reasoning": "Biology + Generator = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+gimbal": {
+    "result": "measurement",
+    "reasoning": "Biology + Gimbal = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+gondola": {
+    "result": "measurement",
+    "reasoning": "Biology + Gondola = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+grappling-hook": {
+    "result": "measurement",
+    "reasoning": "Biology + Grappling Hook = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+grinder": {
+    "result": "measurement",
+    "reasoning": "Biology + Grinder = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+grinding": {
+    "result": "measurement",
+    "reasoning": "Biology + Grinding = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+gun": {
+    "result": "measurement",
+    "reasoning": "Biology + gun = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hammer": {
+    "result": "measurement",
+    "reasoning": "Biology + Hammer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hand-saw": {
+    "result": "measurement",
+    "reasoning": "Biology + Hand Saw = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+helicopter": {
+    "result": "measurement",
+    "reasoning": "Biology + Helicopter = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+helmet": {
+    "result": "measurement",
+    "reasoning": "Biology + Helmet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+highway": {
+    "result": "measurement",
+    "reasoning": "Biology + Highway = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hoe": {
+    "result": "measurement",
+    "reasoning": "Biology + Hoe = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hook": {
+    "result": "measurement",
+    "reasoning": "Biology + Hook = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hot-air-balloon": {
+    "result": "measurement",
+    "reasoning": "Biology + Hot Air Balloon = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+hunting": {
+    "result": "measurement",
+    "reasoning": "Biology + Hunting = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+invention": {
+    "result": "measurement",
+    "reasoning": "Biology + invention = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+jack": {
+    "result": "measurement",
+    "reasoning": "Biology + Jack = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+junk-drawer": {
+    "result": "measurement",
+    "reasoning": "Biology + Junk Drawer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+kettle": {
+    "result": "measurement",
+    "reasoning": "Biology + Kettle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+key": {
+    "result": "measurement",
+    "reasoning": "Biology + key = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+kitchen-gadget": {
+    "result": "measurement",
+    "reasoning": "Biology + Kitchen Gadget = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+knife": {
+    "result": "measurement",
+    "reasoning": "Biology + Knife = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+knitting": {
+    "result": "measurement",
+    "reasoning": "Biology + Knitting = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+ladle": {
+    "result": "measurement",
+    "reasoning": "Biology + Ladle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+lantern": {
+    "result": "measurement",
+    "reasoning": "Biology + Lantern = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+level": {
+    "result": "measurement",
+    "reasoning": "Biology + Level = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+lever": {
+    "result": "measurement",
+    "reasoning": "Biology + Lever = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+lock": {
+    "result": "measurement",
+    "reasoning": "Biology + Lock = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+loom": {
+    "result": "measurement",
+    "reasoning": "Biology + Loom = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mace": {
+    "result": "measurement",
+    "reasoning": "Biology + Mace = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+machine": {
+    "result": "measurement",
+    "reasoning": "Biology + machine = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+magnifying-glass": {
+    "result": "measurement",
+    "reasoning": "Biology + Magnifying Glass = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mallet": {
+    "result": "measurement",
+    "reasoning": "Biology + Mallet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+manacle": {
+    "result": "measurement",
+    "reasoning": "Biology + Manacle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mechanical": {
+    "result": "measurement",
+    "reasoning": "Biology + Mechanical = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mining": {
+    "result": "measurement",
+    "reasoning": "Biology + Mining = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mortar-and-pestle": {
+    "result": "measurement",
+    "reasoning": "Biology + Mortar and Pestle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+motor": {
+    "result": "measurement",
+    "reasoning": "Biology + Motor = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+motorcycle": {
+    "result": "measurement",
+    "reasoning": "Biology + Motorcycle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+mousetrap": {
+    "result": "measurement",
+    "reasoning": "Biology + Mousetrap = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+needle": {
+    "result": "measurement",
+    "reasoning": "Biology + Needle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+notebook": {
+    "result": "measurement",
+    "reasoning": "Biology + Notebook = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+oar": {
+    "result": "measurement",
+    "reasoning": "Biology + Oar = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+padlock": {
+    "result": "measurement",
+    "reasoning": "Biology + Padlock = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pen": {
+    "result": "measurement",
+    "reasoning": "Biology + Pen = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pencil": {
+    "result": "measurement",
+    "reasoning": "Biology + Pencil = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pestle": {
+    "result": "measurement",
+    "reasoning": "Biology + Pestle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pick": {
+    "result": "measurement",
+    "reasoning": "Biology + Pick = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+piston": {
+    "result": "measurement",
+    "reasoning": "Biology + Piston = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+plane": {
+    "result": "measurement",
+    "reasoning": "Biology + Plane = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pliers": {
+    "result": "measurement",
+    "reasoning": "Biology + Pliers = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+plough": {
+    "result": "measurement",
+    "reasoning": "Biology + Plough = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+plumb-bob": {
+    "result": "measurement",
+    "reasoning": "Biology + Plumb Bob = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+power-tool": {
+    "result": "measurement",
+    "reasoning": "Biology + Power Tool = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+protractor": {
+    "result": "measurement",
+    "reasoning": "Biology + Protractor = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pulley": {
+    "result": "measurement",
+    "reasoning": "Biology + Pulley = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+pump": {
+    "result": "measurement",
+    "reasoning": "Biology + Pump = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+purse": {
+    "result": "measurement",
+    "reasoning": "Biology + Purse = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+quill": {
+    "result": "measurement",
+    "reasoning": "Biology + Quill = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+quiver": {
+    "result": "measurement",
+    "reasoning": "Biology + Quiver = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+raft": {
+    "result": "measurement",
+    "reasoning": "Biology + Raft = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+railway": {
+    "result": "measurement",
+    "reasoning": "Biology + Railway = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+rake": {
+    "result": "measurement",
+    "reasoning": "Biology + Rake = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+ratchet": {
+    "result": "measurement",
+    "reasoning": "Biology + Ratchet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+rivet": {
+    "result": "measurement",
+    "reasoning": "Biology + Rivet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+road": {
+    "result": "measurement",
+    "reasoning": "Biology + Road = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+rocket": {
+    "result": "measurement",
+    "reasoning": "Biology + Rocket = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+ruler": {
+    "result": "measurement",
+    "reasoning": "Biology + Ruler = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sailboat": {
+    "result": "measurement",
+    "reasoning": "Biology + Sailboat = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+satellite": {
+    "result": "measurement",
+    "reasoning": "Biology + Satellite = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+saw": {
+    "result": "measurement",
+    "reasoning": "Biology + Saw = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+scale": {
+    "result": "measurement",
+    "reasoning": "Biology + Scale = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+scalpel": {
+    "result": "measurement",
+    "reasoning": "Biology + Scalpel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+scissors": {
+    "result": "measurement",
+    "reasoning": "Biology + Scissors = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+screw": {
+    "result": "measurement",
+    "reasoning": "Biology + Screw = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sextant": {
+    "result": "measurement",
+    "reasoning": "Biology + Sextant = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+ship": {
+    "result": "measurement",
+    "reasoning": "Biology + ship = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+shovel": {
+    "result": "measurement",
+    "reasoning": "Biology + Shovel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sickle": {
+    "result": "measurement",
+    "reasoning": "Biology + Sickle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sieve": {
+    "result": "measurement",
+    "reasoning": "Biology + Sieve = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sled": {
+    "result": "measurement",
+    "reasoning": "Biology + Sled = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sledgehammer": {
+    "result": "measurement",
+    "reasoning": "Biology + Sledgehammer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+smelting": {
+    "result": "measurement",
+    "reasoning": "Biology + Smelting = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+snorkel": {
+    "result": "measurement",
+    "reasoning": "Biology + Snorkel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+socket-wrench": {
+    "result": "measurement",
+    "reasoning": "Biology + Socket Wrench = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+soldering-iron": {
+    "result": "measurement",
+    "reasoning": "Biology + Soldering Iron = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+spear": {
+    "result": "measurement",
+    "reasoning": "Biology + Spear = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+spindle": {
+    "result": "measurement",
+    "reasoning": "Biology + Spindle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+spring": {
+    "result": "measurement",
+    "reasoning": "Biology + Spring = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+spyglass": {
+    "result": "measurement",
+    "reasoning": "Biology + Spyglass = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+stapler": {
+    "result": "measurement",
+    "reasoning": "Biology + Stapler = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+stencil": {
+    "result": "measurement",
+    "reasoning": "Biology + Stencil = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+submarine": {
+    "result": "measurement",
+    "reasoning": "Biology + Submarine = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+subway": {
+    "result": "measurement",
+    "reasoning": "Biology + Subway = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+suitcase": {
+    "result": "measurement",
+    "reasoning": "Biology + Suitcase = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sundial": {
+    "result": "measurement",
+    "reasoning": "Biology + Sundial = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+swiss-army-knife": {
+    "result": "measurement",
+    "reasoning": "Biology + Swiss Army Knife = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+sword": {
+    "result": "measurement",
+    "reasoning": "Biology + Sword = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+tanning": {
+    "result": "measurement",
+    "reasoning": "Biology + Tanning = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+taxi": {
+    "result": "measurement",
+    "reasoning": "Biology + Taxi = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+thermometer": {
+    "result": "measurement",
+    "reasoning": "Biology + Thermometer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+tongs": {
+    "result": "measurement",
+    "reasoning": "Biology + Tongs = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+tool": {
+    "result": "measurement",
+    "reasoning": "Biology + tool = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+traffic": {
+    "result": "measurement",
+    "reasoning": "Biology + Traffic = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+train": {
+    "result": "measurement",
+    "reasoning": "Biology + Train = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+trap": {
+    "result": "measurement",
+    "reasoning": "Biology + Trap = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+trebuchet": {
+    "result": "measurement",
+    "reasoning": "Biology + Trebuchet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+tripod": {
+    "result": "measurement",
+    "reasoning": "Biology + Tripod = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+trowel": {
+    "result": "measurement",
+    "reasoning": "Biology + Trowel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+truck": {
+    "result": "measurement",
+    "reasoning": "Biology + Truck = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+turbine": {
+    "result": "measurement",
+    "reasoning": "Biology + Turbine = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+valve": {
+    "result": "measurement",
+    "reasoning": "Biology + Valve = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+vise": {
+    "result": "measurement",
+    "reasoning": "Biology + Vise = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wagon": {
+    "result": "measurement",
+    "reasoning": "Biology + Wagon = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wallet": {
+    "result": "measurement",
+    "reasoning": "Biology + Wallet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+weaving": {
+    "result": "measurement",
+    "reasoning": "Biology + Weaving = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+weight": {
+    "result": "measurement",
+    "reasoning": "Biology + weight = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+welding": {
+    "result": "measurement",
+    "reasoning": "Biology + Welding = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wheel": {
+    "result": "measurement",
+    "reasoning": "Biology + Wheel = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wheelbarrow": {
+    "result": "measurement",
+    "reasoning": "Biology + Wheelbarrow = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+whetstone": {
+    "result": "measurement",
+    "reasoning": "Biology + Whetstone = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+winch": {
+    "result": "measurement",
+    "reasoning": "Biology + Winch = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wing": {
+    "result": "measurement",
+    "reasoning": "Biology + wing = Measurement. If you can't measure it, you can't improve it."
+  },
+  "biology+wrench": {
+    "result": "measurement",
+    "reasoning": "Biology + Wrench = Measurement. If you can't measure it, you can't improve it."
+  },
+  "brazier+contact-lens": {
+    "result": "lens",
+    "reasoning": "Shaping heated Contact Lens creates a Lens — focusing light since ancient Rome."
+  },
+  "bucket+evaporation": {
+    "result": "kettle",
+    "reasoning": "Combine Bucket with Evaporation to create Kettle."
+  },
+  "carbon+pencil": {
+    "result": "graphite",
+    "reasoning": "Combine Carbon with Pencil to create Graphite."
+  },
+  "centrifuge+lever": {
+    "result": "torque",
+    "reasoning": "Combine Lever with Centrifuge to create Torque."
+  },
+  "centripetal-force+spring": {
+    "result": "dynamometer",
+    "reasoning": "Combine Spring with Centripetal Force to create Dynamometer."
+  },
+  "combustion+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "crystallization+magnifying-glass": {
+    "result": "thermometer",
+    "reasoning": "Combine Magnifying Glass with Crystallization to create Thermometer."
+  },
+  "density+hammer": {
+    "result": "sledgehammer",
+    "reasoning": "Combine Hammer with Density to create Sledgehammer."
   },
   "engine+magnetism": {
     "result": "generator",
     "reasoning": "Crafting Engine with Magnetism produces Generator"
   },
-  "engineering+gear": {
-    "result": "mechanical",
-    "reasoning": "engineering tags in with Gear, and somehow the universe speedruns Mechanical."
-  },
   "engineering+machine": {
     "result": "mechanical",
     "reasoning": "Crafting engineering with machine produces Mechanical"
   },
-  "gear+nuclear": {
-    "result": "nuclear-reactor",
-    "reasoning": "Gear and Nuclear shake hands, reality shrugs, and Nuclear Reactor is suddenly canon."
+  "equilibrium+lever": {
+    "result": "torque",
+    "reasoning": "Combine Lever with Equilibrium to create Torque."
+  },
+  "equilibrium+tool": {
+    "result": "level",
+    "reasoning": "Combine Tool with Equilibrium to create Level."
   },
   "gear+time": {
     "result": "clock",
     "reasoning": "Gears turning to measure time — a clock"
   },
-  "gear+waste": {
-    "result": "recycling",
-    "reasoning": "Gear meets waste, chaos files a memo, and Recycling walks out with the trophy."
+  "genetic-engineering+gimbal": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Gimbal = Measurement. If you can't measure it, you can't improve it."
   },
-  "machine+magnetism": {
-    "result": "generator",
-    "reasoning": "machine plus Magnetism is the weird recipe your alchemist friend swears by for making Generator."
+  "genetic-engineering+gondola": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Gondola = Measurement. If you can't measure it, you can't improve it."
   },
-  "machine+mathematics": {
-    "result": "mechanical",
-    "reasoning": "When machine and mathematics collide, logic takes a coffee break and Mechanical appears anyway."
+  "genetic-engineering+grappling-hook": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Grappling Hook = Measurement. If you can't measure it, you can't improve it."
   },
-  "machine+nuclear": {
-    "result": "nuclear-reactor",
-    "reasoning": "Applying machine to Nuclear produces Nuclear Reactor"
+  "genetic-engineering+grinder": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Grinder = Measurement. If you can't measure it, you can't improve it."
   },
-  "machine+time": {
-    "result": "clock",
-    "reasoning": "machine and time explain the phenomenon of Clock"
+  "genetic-engineering+grinding": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Grinding = Measurement. If you can't measure it, you can't improve it."
   },
-  "machine+waste": {
-    "result": "recycling",
-    "reasoning": "machine and waste explain the phenomenon of Recycling"
+  "genetic-engineering+gun": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + gun = Measurement. If you can't measure it, you can't improve it."
   },
-  "magnetism+needle": {
-    "result": "compass",
-    "reasoning": "Magnetism and Needle explain the phenomenon of compass"
+  "genetic-engineering+hammer": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hammer = Measurement. If you can't measure it, you can't improve it."
   },
-  "mathematics+tool": {
-    "result": "engineering",
-    "reasoning": "mathematics and tool explain the phenomenon of engineering"
+  "genetic-engineering+hand-saw": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hand Saw = Measurement. If you can't measure it, you can't improve it."
   },
-  "medicine+needle": {
-    "result": "syringe",
-    "reasoning": "Medicine and Needle explain the phenomenon of Syringe"
+  "genetic-engineering+helicopter": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Helicopter = Measurement. If you can't measure it, you can't improve it."
   },
-  "medicine+traffic": {
-    "result": "hospital",
-    "reasoning": "Medicine teams up with Traffic; the side quest reward is Hospital."
+  "genetic-engineering+helmet": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Helmet = Measurement. If you can't measure it, you can't improve it."
   },
-  "saw+wave": {
-    "result": "surfing",
-    "reasoning": "When Saw and Wave collide, logic takes a coffee break and Surfing appears anyway."
+  "genetic-engineering+highway": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Highway = Measurement. If you can't measure it, you can't improve it."
   },
-  "science+tool": {
-    "result": "experiment",
-    "reasoning": "science combined with tool leads to Experiment"
+  "genetic-engineering+hoe": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hoe = Measurement. If you can't measure it, you can't improve it."
   },
-  "speed+tool": {
-    "result": "jimmy-plugin",
-    "reasoning": "Speed teams up with tool; the side quest reward is Jimmy Plugin."
+  "genetic-engineering+hook": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hook = Measurement. If you can't measure it, you can't improve it."
   },
-  "time+tool": {
-    "result": "harvest",
-    "reasoning": "time and tool accidentally host a crossover episode; Harvest steals the finale."
+  "genetic-engineering+hot-air-balloon": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hot Air Balloon = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+hunting": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Hunting = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+invention": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + invention = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+jack": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Jack = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+junk-drawer": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Junk Drawer = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+kettle": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Kettle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+key": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + key = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+kitchen-gadget": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Kitchen Gadget = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+knife": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Knife = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+knitting": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Knitting = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+ladle": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Ladle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+lantern": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Lantern = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+level": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Level = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+lever": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Lever = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+lock": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Lock = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+loom": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Loom = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+mace": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Mace = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+machine": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + machine = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+magnifying-glass": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Magnifying Glass = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+mallet": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Mallet = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+manacle": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Manacle = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+mechanical": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Mechanical = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+mining": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Mining = Measurement. If you can't measure it, you can't improve it."
+  },
+  "genetic-engineering+mortar-and-pestle": {
+    "result": "measurement",
+    "reasoning": "Genetic Engineering + Mortar and Pestle = Measurement. If you can't measure it, you can't improve it."
   }
 }

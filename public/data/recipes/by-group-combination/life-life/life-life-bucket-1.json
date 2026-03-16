@@ -1,146 +1,882 @@
 {
-  "bacteria+cell": {
-    "result": "immune-system",
-    "reasoning": "Someone mixed Bacteria with Cell for science. The peer-reviewed conclusion: Immune System."
+  "adrenaline+dna": {
+    "result": "genome",
+    "reasoning": "Combine Dna with Adrenaline to create Genome."
   },
-  "bacteria+immune-system": {
-    "result": "antibody",
-    "reasoning": "Bacteria and Immune System shake hands, reality shrugs, and Antibody is suddenly canon."
+  "adrenaline+hormone": {
+    "result": "insulin",
+    "reasoning": "Combine Hormone with Adrenaline to create Insulin."
+  },
+  "adrenaline+life": {
+    "result": "biome",
+    "reasoning": "Combine Life with Adrenaline to create Biome."
+  },
+  "adrenaline+organ": {
+    "result": "appendix",
+    "reasoning": "Combine Organ with Adrenaline to create Appendix."
+  },
+  "algae+algae": {
+    "result": "coral-reef",
+    "reasoning": "Algae colonies form the symbiotic basis of coral reefs"
+  },
+  "algae+fungus": {
+    "result": "lichen",
+    "reasoning": "Combine Algae with Fungus to create Lichen."
+  },
+  "algae+life": {
+    "result": "biome",
+    "reasoning": "Combine Life with Algae to create Biome."
+  },
+  "algae+organ": {
+    "result": "appendix",
+    "reasoning": "Combine Organ with Algae to create Appendix."
+  },
+  "alveolus+cell": {
+    "result": "organelle",
+    "reasoning": "Combine Cell with Alveolus to create Organelle."
+  },
+  "alveolus+life": {
+    "result": "ecosystem",
+    "reasoning": "Combine Life with Alveolus to create Ecosystem."
+  },
+  "amino-acid+biome": {
+    "result": "prion",
+    "reasoning": "Combine Amino Acid with Biome to create Prion."
+  },
+  "amino-acid+cell": {
+    "result": "golgi-apparatus",
+    "reasoning": "Combine Cell with Amino Acid to create Golgi Apparatus."
+  },
+  "amino-acid+collagen": {
+    "result": "prion",
+    "reasoning": "Combine Amino Acid with Collagen to create Prion."
+  },
+  "amino-acid+keratin": {
+    "result": "prion",
+    "reasoning": "Combine Amino Acid with Keratin to create Prion."
+  },
+  "amino-acid+life": {
+    "result": "cartilage",
+    "reasoning": "Combine Life with Amino Acid to create Cartilage."
+  },
+  "amoeba+life": {
+    "result": "cartilage",
+    "reasoning": "Combine Life with Amoeba to create Cartilage."
+  },
+  "antibody+life": {
+    "result": "ecosystem",
+    "reasoning": "Combine Life with Antibody to create Ecosystem."
+  },
+  "appendix+cell": {
+    "result": "organelle",
+    "reasoning": "Combine Cell with Appendix to create Organelle."
+  },
+  "artery+bone-marrow": {
+    "result": "marrow",
+    "reasoning": "Combine Bone Marrow with Artery to create Marrow."
+  },
+  "artery+capillary": {
+    "result": "vein",
+    "reasoning": "Combine Artery with Capillary to create Vein."
+  },
+  "artery+hemoglobin": {
+    "result": "vein",
+    "reasoning": "Combine Artery with Hemoglobin to create Vein."
+  },
+  "axon+bacteria": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Bacteria dissolve into Primordial Soup — where all life began."
+  },
+  "axon+bark": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Bark dissolve into Primordial Soup — where all life began."
+  },
+  "axon+bean": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and bean dissolve into Primordial Soup — where all life began."
+  },
+  "axon+bile": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Bile dissolve into Primordial Soup — where all life began."
+  },
+  "axon+biodiversity": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Biodiversity dissolve into Primordial Soup — where all life began."
+  },
+  "axon+biofilm": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Biofilm dissolve into Primordial Soup — where all life began."
+  },
+  "axon+biome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Biome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+blastocyst": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Blastocyst dissolve into Primordial Soup — where all life began."
+  },
+  "axon+bone-marrow": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Bone Marrow dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cactus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cactus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+capillary": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Capillary dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cartilage": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cartilage dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cell": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cell dissolve into Primordial Soup — where all life began."
+  },
+  "axon+chitin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Chitin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+chloroplast": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Chloroplast dissolve into Primordial Soup — where all life began."
+  },
+  "axon+chromosome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Chromosome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cilium": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cilium dissolve into Primordial Soup — where all life began."
+  },
+  "axon+clone": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Clone dissolve into Primordial Soup — where all life began."
+  },
+  "axon+codon": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Codon dissolve into Primordial Soup — where all life began."
+  },
+  "axon+collagen": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Collagen dissolve into Primordial Soup — where all life began."
+  },
+  "axon+coral": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Coral dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cortex": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cortex dissolve into Primordial Soup — where all life began."
+  },
+  "axon+cytokinesis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Cytokinesis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+dendrite": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Dendrite dissolve into Primordial Soup — where all life began."
+  },
+  "axon+digestion": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Digestion dissolve into Primordial Soup — where all life began."
+  },
+  "axon+dissection": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Dissection dissolve into Primordial Soup — where all life began."
+  },
+  "axon+dna": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and DNA dissolve into Primordial Soup — where all life began."
+  },
+  "axon+dna-discovery": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and DNA Discovery dissolve into Primordial Soup — where all life began."
+  },
+  "axon+dopamine": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Dopamine dissolve into Primordial Soup — where all life began."
+  },
+  "axon+ecosystem": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Ecosystem dissolve into Primordial Soup — where all life began."
+  },
+  "axon+embryo": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Embryo dissolve into Primordial Soup — where all life began."
+  },
+  "axon+endorphin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Endorphin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+enzyme": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Enzyme dissolve into Primordial Soup — where all life began."
+  },
+  "axon+epidermis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Epidermis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+epigenetics": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Epigenetics dissolve into Primordial Soup — where all life began."
+  },
+  "axon+evolution": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Evolution dissolve into Primordial Soup — where all life began."
+  },
+  "axon+exoskeleton": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Exoskeleton dissolve into Primordial Soup — where all life began."
+  },
+  "axon+fern": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Fern dissolve into Primordial Soup — where all life began."
+  },
+  "axon+flagellum": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Flagellum dissolve into Primordial Soup — where all life began."
+  },
+  "axon+flower": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and flower dissolve into Primordial Soup — where all life began."
+  },
+  "axon+food-chain": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Food Chain dissolve into Primordial Soup — where all life began."
+  },
+  "axon+forest": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Forest dissolve into Primordial Soup — where all life began."
+  },
+  "axon+fruit": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Fruit dissolve into Primordial Soup — where all life began."
+  },
+  "axon+fungus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Fungus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+ganglia": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Ganglia dissolve into Primordial Soup — where all life began."
+  },
+  "axon+gene": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Gene dissolve into Primordial Soup — where all life began."
+  },
+  "axon+genome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Genome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+golgi-apparatus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Golgi Apparatus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+grape": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and grape dissolve into Primordial Soup — where all life began."
+  },
+  "axon+grass": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Grass dissolve into Primordial Soup — where all life began."
+  },
+  "axon+gut-flora": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Gut Flora dissolve into Primordial Soup — where all life began."
+  },
+  "axon+haploid": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Haploid dissolve into Primordial Soup — where all life began."
+  },
+  "axon+hemoglobin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Hemoglobin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+herb": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Herb dissolve into Primordial Soup — where all life began."
+  },
+  "axon+hormone": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Hormone dissolve into Primordial Soup — where all life began."
+  },
+  "axon+immune-system": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Immune System dissolve into Primordial Soup — where all life began."
+  },
+  "axon+insulin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Insulin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+jungle": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Jungle dissolve into Primordial Soup — where all life began."
+  },
+  "axon+keratin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Keratin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+larva": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Larva dissolve into Primordial Soup — where all life began."
+  },
+  "axon+leaf": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Leaf dissolve into Primordial Soup — where all life began."
+  },
+  "axon+life": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and life dissolve into Primordial Soup — where all life began."
+  },
+  "axon+lignin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Lignin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+lipid-bilayer": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Lipid Bilayer dissolve into Primordial Soup — where all life began."
+  },
+  "axon+lysosome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Lysosome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+marrow": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Marrow dissolve into Primordial Soup — where all life began."
+  },
+  "axon+meiosis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Meiosis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+melanin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Melanin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+melatonin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Melatonin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+membrane": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Membrane dissolve into Primordial Soup — where all life began."
+  },
+  "axon+metabolite": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Metabolite dissolve into Primordial Soup — where all life began."
+  },
+  "axon+microbiome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Microbiome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mitochondria": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mitochondria dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mitosis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mitosis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mold": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mold dissolve into Primordial Soup — where all life began."
+  },
+  "axon+moss": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Moss dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mucus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mucus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mushroom": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mushroom dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mutation": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mutation dissolve into Primordial Soup — where all life began."
+  },
+  "axon+mycelium": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Mycelium dissolve into Primordial Soup — where all life began."
+  },
+  "axon+neuron": {
+    "result": "ganglia",
+    "reasoning": "Combine Neuron with Axon to create Ganglia."
+  },
+  "axon+nucleus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Nucleus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+organ": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Organ dissolve into Primordial Soup — where all life began."
+  },
+  "axon+organelle": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Organelle dissolve into Primordial Soup — where all life began."
+  },
+  "axon+ovum": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Ovum dissolve into Primordial Soup — where all life began."
+  },
+  "axon+pandemic": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Pandemic dissolve into Primordial Soup — where all life began."
+  },
+  "axon+parasite": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Parasite dissolve into Primordial Soup — where all life began."
+  },
+  "axon+penicillin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Penicillin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+petri-dish": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Petri Dish dissolve into Primordial Soup — where all life began."
+  },
+  "axon+pheromone": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Pheromone dissolve into Primordial Soup — where all life began."
+  },
+  "axon+photosynthesis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Photosynthesis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+phytoplankton": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Phytoplankton dissolve into Primordial Soup — where all life began."
+  },
+  "axon+plankton": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Plankton dissolve into Primordial Soup — where all life began."
+  },
+  "axon+plant": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and plant dissolve into Primordial Soup — where all life began."
+  },
+  "axon+platelet": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Platelet dissolve into Primordial Soup — where all life began."
+  },
+  "axon+pollen": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Pollen dissolve into Primordial Soup — where all life began."
+  },
+  "axon+primordial-soup": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Primordial Soup dissolve into Primordial Soup — where all life began."
+  },
+  "axon+prion": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Prion dissolve into Primordial Soup — where all life began."
+  },
+  "axon+resin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Resin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+retina": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Retina dissolve into Primordial Soup — where all life began."
+  },
+  "axon+ribosome": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Ribosome dissolve into Primordial Soup — where all life began."
+  },
+  "axon+root": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Root dissolve into Primordial Soup — where all life began."
+  },
+  "axon+sap": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Sap dissolve into Primordial Soup — where all life began."
+  },
+  "axon+seaweed": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Seaweed dissolve into Primordial Soup — where all life began."
+  },
+  "axon+seed": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and seed dissolve into Primordial Soup — where all life began."
+  },
+  "axon+serotonin": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Serotonin dissolve into Primordial Soup — where all life began."
+  },
+  "axon+spore": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Spore dissolve into Primordial Soup — where all life began."
+  },
+  "axon+stem-cell": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Stem Cell dissolve into Primordial Soup — where all life began."
+  },
+  "axon+stomata": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Stomata dissolve into Primordial Soup — where all life began."
+  },
+  "axon+symbiosis": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Symbiosis dissolve into Primordial Soup — where all life began."
+  },
+  "axon+synapse": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Synapse dissolve into Primordial Soup — where all life began."
+  },
+  "axon+tendon": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Tendon dissolve into Primordial Soup — where all life began."
+  },
+  "axon+trachea": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Trachea dissolve into Primordial Soup — where all life began."
+  },
+  "axon+tree": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and tree dissolve into Primordial Soup — where all life began."
+  },
+  "axon+vacuole": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Vacuole dissolve into Primordial Soup — where all life began."
+  },
+  "axon+vegetable": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Vegetable dissolve into Primordial Soup — where all life began."
+  },
+  "axon+vein": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Vein dissolve into Primordial Soup — where all life began."
+  },
+  "axon+vertebra": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Vertebra dissolve into Primordial Soup — where all life began."
+  },
+  "axon+vine": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Vine dissolve into Primordial Soup — where all life began."
+  },
+  "axon+virus": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Virus dissolve into Primordial Soup — where all life began."
+  },
+  "axon+wood": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and wood dissolve into Primordial Soup — where all life began."
+  },
+  "axon+yeast": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Yeast dissolve into Primordial Soup — where all life began."
+  },
+  "axon+zooplankton": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Zooplankton dissolve into Primordial Soup — where all life began."
+  },
+  "axon+zygote": {
+    "result": "primordial-soup",
+    "reasoning": "Axon and Zygote dissolve into Primordial Soup — where all life began."
+  },
+  "bacteria+bacteria": {
+    "result": "biofilm",
+    "reasoning": "Bacteria group into biofilms — microbial cities"
+  },
+  "bacteria+biofilm": {
+    "result": "gut-flora",
+    "reasoning": "Combine Bacteria with Biofilm to create Gut Flora."
   },
   "bacteria+life": {
-    "result": "parasite",
-    "reasoning": "Bacteria and life accidentally host a crossover episode; Parasite steals the finale."
+    "result": "microbiome",
+    "reasoning": "Combine Bacteria with Life to create Microbiome."
   },
-  "bean+fruit": {
-    "result": "chocolate",
-    "reasoning": "When bean and Fruit collide, logic takes a coffee break and Chocolate appears anyway."
+  "bacteria+microbiome": {
+    "result": "gut-flora",
+    "reasoning": "Combine Bacteria with Microbiome to create Gut Flora."
+  },
+  "bacteria+plant": {
+    "result": "composting",
+    "reasoning": "Plants broken down by bacteria create Composting"
+  },
+  "bark+tree": {
+    "result": "cork",
+    "reasoning": "Combine Bark with Tree to create Cork."
+  },
+  "bile+cell": {
+    "result": "lipid-bilayer",
+    "reasoning": "Combine Cell with Bile to create Lipid Bilayer."
+  },
+  "biome+cell": {
+    "result": "flagellum",
+    "reasoning": "Combine Cell with Biome to create Flagellum."
+  },
+  "biome+dna": {
+    "result": "genome",
+    "reasoning": "Combine Dna with Biome to create Genome."
+  },
+  "biome+genome": {
+    "result": "symbiosis",
+    "reasoning": "Combine Genome with Biome to create Symbiosis."
+  },
+  "biome+leaf": {
+    "result": "stomata",
+    "reasoning": "Combine Leaf with Biome to create Stomata."
+  },
+  "biome+life": {
+    "result": "cartilage",
+    "reasoning": "Combine Life with Biome to create Cartilage."
+  },
+  "blastocyst+cell": {
+    "result": "cilium",
+    "reasoning": "Combine Cell with Blastocyst to create Cilium."
+  },
+  "bone-marrow+cell": {
+    "result": "embryo",
+    "reasoning": "Combine Cell with Bone Marrow to create Embryo."
+  },
+  "bone-marrow+embryo": {
+    "result": "blastocyst",
+    "reasoning": "Combine Embryo with Bone Marrow to create Blastocyst."
+  },
+  "bone-marrow+marrow": {
+    "result": "tendon",
+    "reasoning": "Combine Bone Marrow with Marrow to create Tendon."
+  },
+  "bone-marrow+tendon": {
+    "result": "vertebra",
+    "reasoning": "Combine Bone Marrow with Tendon to create Vertebra."
   },
   "cell+cell": {
     "result": "dna",
     "reasoning": "Cell and Cell give rise to DNA"
   },
+  "cell+chromosome": {
+    "result": "haploid",
+    "reasoning": "Combine Cell with Chromosome to create Haploid."
+  },
+  "cell+cilium": {
+    "result": "cytokinesis",
+    "reasoning": "Combine Cell with Cilium to create Cytokinesis."
+  },
+  "cell+clone": {
+    "result": "mitosis",
+    "reasoning": "Combine Cell with Clone to create Mitosis."
+  },
+  "cell+collagen": {
+    "result": "golgi-apparatus",
+    "reasoning": "Combine Cell with Collagen to create Golgi Apparatus."
+  },
+  "cell+cytokinesis": {
+    "result": "golgi-apparatus",
+    "reasoning": "Combine Cell with Cytokinesis to create Golgi Apparatus."
+  },
+  "cell+dna": {
+    "result": "chromosome",
+    "reasoning": "DNA organized in a cell forms a Chromosome"
+  },
+  "cell+dna-discovery": {
+    "result": "nucleus",
+    "reasoning": "Combine Cell with Dna Discovery to create Nucleus."
+  },
+  "cell+ecosystem": {
+    "result": "haploid",
+    "reasoning": "Combine Cell with Ecosystem to create Haploid."
+  },
+  "cell+embryo": {
+    "result": "flagellum",
+    "reasoning": "Combine Cell with Embryo to create Flagellum."
+  },
+  "cell+flagellum": {
+    "result": "nucleus",
+    "reasoning": "Combine Cell with Flagellum to create Nucleus."
+  },
+  "cell+gene": {
+    "result": "ribosome",
+    "reasoning": "A cell's gene-reading machinery is a Ribosome"
+  },
+  "cell+genome": {
+    "result": "nucleus",
+    "reasoning": "Combine Cell with Genome to create Nucleus."
+  },
+  "cell+golgi-apparatus": {
+    "result": "haploid",
+    "reasoning": "Combine Cell with Golgi Apparatus to create Haploid."
+  },
+  "cell+haploid": {
+    "result": "lysosome",
+    "reasoning": "Combine Cell with Haploid to create Lysosome."
+  },
+  "cell+keratin": {
+    "result": "cilium",
+    "reasoning": "Combine Cell with Keratin to create Cilium."
+  },
   "cell+life": {
     "result": "stem-cell",
     "reasoning": "Cell and life give rise to Stem Cell"
+  },
+  "cell+lipid-bilayer": {
+    "result": "lysosome",
+    "reasoning": "Combine Cell with Lipid Bilayer to create Lysosome."
+  },
+  "cell+lysosome": {
+    "result": "meiosis",
+    "reasoning": "Combine Cell with Lysosome to create Meiosis."
+  },
+  "cell+meiosis": {
+    "result": "mitosis",
+    "reasoning": "Combine Cell with Meiosis to create Mitosis."
+  },
+  "cell+membrane": {
+    "result": "lipid-bilayer",
+    "reasoning": "Combine Cell with Membrane to create Lipid Bilayer."
+  },
+  "cell+metabolite": {
+    "result": "zygote",
+    "reasoning": "Combine Cell with Metabolite to create Zygote."
+  },
+  "cell+nucleus": {
+    "result": "zygote",
+    "reasoning": "Combine Cell with Nucleus to create Zygote."
+  },
+  "cell+organ": {
+    "result": "organelle",
+    "reasoning": "Combine Cell with Organ to create Organelle."
+  },
+  "cell+ovum": {
+    "result": "zygote",
+    "reasoning": "Combine Cell with Ovum to create Zygote."
+  },
+  "cell+stem-cell": {
+    "result": "embryo",
+    "reasoning": "Combine Cell with Stem Cell to create Embryo."
   },
   "cell+virus": {
     "result": "immune-system",
     "reasoning": "Cell and Virus give rise to Immune System"
   },
-  "dna+life": {
-    "result": "gene",
-    "reasoning": "DNA and life give rise to Gene"
+  "cell+zygote": {
+    "result": "cilium",
+    "reasoning": "Combine Cell with Zygote to create Cilium."
   },
-  "dna+wood": {
-    "result": "crispr",
-    "reasoning": "DNA tags in with wood, and somehow the universe speedruns CRISPR."
+  "chitin+larva": {
+    "result": "exoskeleton",
+    "reasoning": "Combine Chitin with Larva to create Exoskeleton."
   },
-  "flower+grass": {
-    "result": "butterfly",
-    "reasoning": "flower and Grass shake hands, reality shrugs, and Butterfly is suddenly canon."
+  "clone+codon": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Codon dissolve into Primordial Soup — where all life began."
   },
-  "flower+life": {
-    "result": "heart",
-    "reasoning": "flower plus life is the weird recipe your alchemist friend swears by for making Heart."
+  "clone+collagen": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Collagen dissolve into Primordial Soup — where all life began."
   },
-  "forest+life": {
-    "result": "elf",
-    "reasoning": "Someone mixed Forest with life for science. The peer-reviewed conclusion: Elf."
+  "clone+coral": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Coral dissolve into Primordial Soup — where all life began."
   },
-  "forest+wood": {
-    "result": "wildfire",
-    "reasoning": "Someone mixed Forest with wood for science. The peer-reviewed conclusion: Wildfire."
+  "clone+cortex": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Cortex dissolve into Primordial Soup — where all life began."
   },
-  "fruit+plant": {
-    "result": "grape",
-    "reasoning": "Fruit and plant accidentally host a crossover episode; grape steals the finale."
+  "clone+cytokinesis": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Cytokinesis dissolve into Primordial Soup — where all life began."
   },
-  "fruit+tree": {
-    "result": "grape",
-    "reasoning": "Fruit meets tree, chaos files a memo, and grape walks out with the trophy."
+  "clone+dendrite": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Dendrite dissolve into Primordial Soup — where all life began."
   },
-  "fruit+vine": {
-    "result": "grape",
-    "reasoning": "Fruit and Vine give rise to grape"
+  "clone+digestion": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Digestion dissolve into Primordial Soup — where all life began."
   },
-  "fruit+yeast": {
-    "result": "alcohol",
-    "reasoning": "Someone mixed Fruit with Yeast for science. The peer-reviewed conclusion: Alcohol."
+  "clone+dissection": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Dissection dissolve into Primordial Soup — where all life began."
   },
-  "fungus+plant": {
-    "result": "mold",
-    "reasoning": "Fungus teams up with plant; the side quest reward is Mold."
+  "clone+dna": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and DNA dissolve into Primordial Soup — where all life began."
   },
-  "grass+life": {
-    "result": "insect",
-    "reasoning": "When Grass and life collide, logic takes a coffee break and Insect appears anyway."
+  "clone+dna-discovery": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and DNA Discovery dissolve into Primordial Soup — where all life began."
   },
-  "grass+wood": {
-    "result": "lawn",
-    "reasoning": "Grass tags in with wood, and somehow the universe speedruns Lawn."
+  "clone+dopamine": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Dopamine dissolve into Primordial Soup — where all life began."
   },
-  "grass+yeast": {
-    "result": "beer",
-    "reasoning": "Grass and Yeast shake hands, reality shrugs, and Beer is suddenly canon."
+  "clone+ecosystem": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Ecosystem dissolve into Primordial Soup — where all life began."
   },
-  "immune-system+virus": {
-    "result": "antibody",
-    "reasoning": "Immune System and Virus give rise to Antibody"
+  "clone+embryo": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Embryo dissolve into Primordial Soup — where all life began."
   },
-  "leaf+life": {
-    "result": "deer",
-    "reasoning": "Someone mixed Leaf with life for science. The peer-reviewed conclusion: Deer."
+  "clone+endorphin": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Endorphin dissolve into Primordial Soup — where all life began."
   },
-  "life+seed": {
-    "result": "rabbit",
-    "reasoning": "life meets seed, chaos files a memo, and Rabbit walks out with the trophy."
+  "clone+enzyme": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Enzyme dissolve into Primordial Soup — where all life began."
   },
-  "life+tree": {
-    "result": "vine",
-    "reasoning": "Someone mixed life with tree for science. The peer-reviewed conclusion: Vine."
+  "clone+epidermis": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Epidermis dissolve into Primordial Soup — where all life began."
   },
-  "life+virus": {
-    "result": "parasite",
-    "reasoning": "life and Virus give rise to Parasite"
+  "clone+epigenetics": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Epigenetics dissolve into Primordial Soup — where all life began."
   },
-  "life+wood": {
-    "result": "coffin",
-    "reasoning": "When life and wood collide, logic takes a coffee break and Coffin appears anyway."
+  "clone+evolution": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Evolution dissolve into Primordial Soup — where all life began."
   },
-  "plant+tree": {
-    "result": "vine",
-    "reasoning": "plant and tree give rise to Vine"
+  "clone+exoskeleton": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Exoskeleton dissolve into Primordial Soup — where all life began."
   },
-  "plant+vegetable": {
-    "result": "salad",
-    "reasoning": "plant meets Vegetable, chaos files a memo, and Salad walks out with the trophy."
+  "clone+fern": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Fern dissolve into Primordial Soup — where all life began."
   },
-  "plant+wood": {
-    "result": "spice",
-    "reasoning": "plant and wood accidentally host a crossover episode; Spice steals the finale."
+  "clone+flagellum": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Flagellum dissolve into Primordial Soup — where all life began."
   },
-  "seed+tree": {
-    "result": "vine",
-    "reasoning": "seed meets tree, chaos files a memo, and Vine walks out with the trophy."
+  "clone+flower": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and flower dissolve into Primordial Soup — where all life began."
   },
-  "seed+wood": {
-    "result": "popcorn",
-    "reasoning": "seed tags in with wood, and somehow the universe speedruns Popcorn."
+  "clone+food-chain": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Food Chain dissolve into Primordial Soup — where all life began."
   },
-  "tree+tree": {
-    "result": "forest",
-    "reasoning": "Many trees together form a forest"
+  "clone+forest": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Forest dissolve into Primordial Soup — where all life began."
   },
-  "tree+wood": {
-    "result": "floor",
-    "reasoning": "tree meets wood, chaos files a memo, and Floor walks out with the trophy."
+  "clone+fruit": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Fruit dissolve into Primordial Soup — where all life began."
   },
-  "vegetable+vegetable": {
-    "result": "salad",
-    "reasoning": "Combining Vegetable with Vegetable makes delicious Salad"
+  "clone+fungus": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Fungus dissolve into Primordial Soup — where all life began."
   },
-  "wood+wood": {
-    "result": "floor",
-    "reasoning": "wood and wood create Floor"
+  "clone+ganglia": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Ganglia dissolve into Primordial Soup — where all life began."
+  },
+  "clone+gene": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Gene dissolve into Primordial Soup — where all life began."
+  },
+  "clone+genome": {
+    "result": "primordial-soup",
+    "reasoning": "Clone and Genome dissolve into Primordial Soup — where all life began."
   }
 }

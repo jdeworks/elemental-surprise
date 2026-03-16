@@ -1,30 +1,882 @@
 {
+  "alchemy+algae": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Algae into an Enchanted Forest."
+  },
+  "alchemy+cactus": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Cactus into an Enchanted Forest."
+  },
+  "alchemy+coral": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "alchemy+fern": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Fern into an Enchanted Forest."
+  },
+  "alchemy+flower": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms flower into an Enchanted Forest."
+  },
+  "alchemy+forest": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Forest into an Enchanted Forest."
+  },
+  "alchemy+fungus": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Fungus into an Enchanted Forest."
+  },
+  "alchemy+grass": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Grass into an Enchanted Forest."
+  },
+  "alchemy+herb": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Herb into an Enchanted Forest."
+  },
+  "alchemy+leaf": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Leaf into an Enchanted Forest."
+  },
   "alchemy+life": {
     "result": "elixir",
     "reasoning": "Through mystical forces, Alchemy and life become Elixir"
   },
-  "god+life": {
-    "result": "miracle",
-    "reasoning": "Through mystical forces, god and life become Miracle"
+  "alchemy+moss": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Moss into an Enchanted Forest."
   },
-  "grass+magic": {
-    "result": "fairy",
-    "reasoning": "Someone mixed Grass with Magic for science. The peer-reviewed conclusion: Fairy."
+  "alchemy+mushroom": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Mushroom into an Enchanted Forest."
   },
-  "life+magic": {
-    "result": "wizard",
-    "reasoning": "Someone mixed life with Magic for science. The peer-reviewed conclusion: Wizard."
+  "alchemy+plant": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms plant into an Enchanted Forest."
   },
-  "magic+tree": {
-    "result": "wand",
-    "reasoning": "Magic meets tree, chaos files a memo, and Wand walks out with the trophy."
+  "alchemy+pollen": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Pollen into an Enchanted Forest."
   },
-  "magic+wood": {
-    "result": "wand",
-    "reasoning": "Through mystical forces, Magic and wood become Wand"
+  "alchemy+root": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Root into an Enchanted Forest."
   },
-  "spirit+wood": {
-    "result": "wand",
-    "reasoning": "Spirit and wood accidentally host a crossover episode; Wand steals the finale."
+  "alchemy+seaweed": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Seaweed into an Enchanted Forest."
+  },
+  "alchemy+seed": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms seed into an Enchanted Forest."
+  },
+  "alchemy+spore": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Spore into an Enchanted Forest."
+  },
+  "alchemy+tree": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms tree into an Enchanted Forest."
+  },
+  "alchemy+vine": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Vine into an Enchanted Forest."
+  },
+  "bark+water-elemental": {
+    "result": "boat",
+    "reasoning": "Bark on Water Elemental — a Boat. Humanity's first vehicle."
+  },
+  "cell+water-elemental": {
+    "result": "vacuole",
+    "reasoning": "Combine Cell with Water Elemental to create Vacuole."
+  },
+  "cell+wyvern": {
+    "result": "cytokinesis",
+    "reasoning": "Combine Cell with Wyvern to create Cytokinesis."
+  },
+  "coral+fairy": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+fairy-ring": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+magic": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+magic-carpet": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+magic-show": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+magic-wand": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+potion": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+rune": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+space-wizard": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+spell": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+spell-book": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+wand": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+witch": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "coral+wizard": {
+    "result": "enchanted-forest",
+    "reasoning": "Magical underwater forests of living coral"
+  },
+  "death-knight+flower": {
+    "result": "florist",
+    "reasoning": "Florists arrange flowers into living art"
+  },
+  "death-knight+herb": {
+    "result": "pharmacist",
+    "reasoning": "Pharmacists evolved from herbalists — plants were the first medicine"
+  },
+  "death-knight+seed": {
+    "result": "farmer",
+    "reasoning": "Farmers plant seeds — the act that separates civilization from nomadism"
+  },
+  "dragon-egg+ecosystem": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Ecosystem = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+embryo": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Embryo = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+endorphin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Endorphin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+enzyme": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Enzyme = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+epidermis": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Epidermis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+epigenetics": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Epigenetics = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+evolution": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Evolution = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+exoskeleton": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Exoskeleton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+fern": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Fern = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+flagellum": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Flagellum = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+flower": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + flower = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+food-chain": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Food Chain = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+forest": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Forest = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+fruit": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Fruit = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+fungus": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Fungus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+ganglia": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Ganglia = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+gene": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Gene = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+genome": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Genome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+golgi-apparatus": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Golgi Apparatus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+grape": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + grape = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+grass": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Grass = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+gut-flora": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Gut Flora = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+haploid": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Haploid = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+hemoglobin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Hemoglobin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+herb": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Herb = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+hormone": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Hormone = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+immune-system": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Immune System = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+insulin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Insulin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+jungle": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Jungle = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+keratin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Keratin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+larva": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Larva = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+leaf": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Leaf = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+life": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + life = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+lignin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Lignin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+lipid-bilayer": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Lipid Bilayer = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+lysosome": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Lysosome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+marrow": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Marrow = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+meiosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Meiosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+melanin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Melanin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+melatonin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Melatonin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+membrane": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Membrane = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+metabolite": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Metabolite = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+microbiome": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Microbiome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mitochondria": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mitochondria = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mitosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mitosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mold": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mold = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+moss": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Moss = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mucus": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mucus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mushroom": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mushroom = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mutation": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mutation = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+mycelium": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Mycelium = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+neuron": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Neuron = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+nucleus": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Nucleus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+organ": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Organ = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+organelle": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Organelle = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+ovum": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Ovum = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+pandemic": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Pandemic = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+parasite": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Parasite = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+penicillin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Penicillin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+petri-dish": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Petri Dish = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+pheromone": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Pheromone = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+photosynthesis": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Photosynthesis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+phytoplankton": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Phytoplankton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+plankton": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Plankton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+plant": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + plant = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+platelet": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Platelet = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+pollen": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Pollen = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+primordial-soup": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Primordial Soup = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+prion": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Prion = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+resin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Resin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+retina": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Retina = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+ribosome": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Ribosome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+root": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Root = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+sap": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Sap = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+seaweed": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Seaweed = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+seed": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + seed = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+serotonin": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Serotonin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+spore": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Spore = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+stem-cell": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Stem Cell = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+stomata": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Stomata = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+symbiosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Symbiosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+synapse": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Synapse = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+tendon": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Tendon = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+trachea": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Trachea = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+tree": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + tree = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+vacuole": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Vacuole = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+vegetable": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Vegetable = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+vein": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Vein = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+vertebra": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Vertebra = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+vine": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Vine = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+virus": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Virus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+wood": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + wood = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+yeast": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Yeast = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+zooplankton": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Zooplankton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dragon-egg+zygote": {
+    "result": "elixir-of-life",
+    "reasoning": "Dragon Egg + Zygote = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "dryad+tree": {
+    "result": "treant",
+    "reasoning": "Combine Tree with Dryad to create Treant."
+  },
+  "enchanted-kingdom+endorphin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Endorphin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+enzyme": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Enzyme = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+epidermis": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Epidermis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+epigenetics": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Epigenetics = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+evolution": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Evolution = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+exoskeleton": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Exoskeleton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+fern": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Fern = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+flagellum": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Flagellum = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+flower": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + flower = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+food-chain": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Food Chain = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+forest": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Forest = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+fruit": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Fruit = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+fungus": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Fungus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+ganglia": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Ganglia = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+gene": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Gene = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+genome": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Genome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+golgi-apparatus": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Golgi Apparatus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+grape": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + grape = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+grass": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Grass = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+gut-flora": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Gut Flora = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+haploid": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Haploid = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+hemoglobin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Hemoglobin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+herb": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Herb = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+hormone": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Hormone = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+immune-system": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Immune System = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+insulin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Insulin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+jungle": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Jungle = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+keratin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Keratin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+larva": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Larva = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+leaf": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Leaf = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+life": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + life = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+lignin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Lignin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+lipid-bilayer": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Lipid Bilayer = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+lysosome": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Lysosome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+marrow": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Marrow = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+meiosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Meiosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+melanin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Melanin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+melatonin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Melatonin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+membrane": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Membrane = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+metabolite": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Metabolite = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+microbiome": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Microbiome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mitochondria": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mitochondria = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mitosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mitosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mold": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mold = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+moss": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Moss = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mucus": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mucus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mushroom": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mushroom = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mutation": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mutation = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+mycelium": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Mycelium = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+neuron": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Neuron = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+nucleus": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Nucleus = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+organ": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Organ = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+organelle": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Organelle = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+ovum": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Ovum = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+pandemic": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Pandemic = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+parasite": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Parasite = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+penicillin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Penicillin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+petri-dish": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Petri Dish = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+pheromone": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Pheromone = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+photosynthesis": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Photosynthesis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+phytoplankton": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Phytoplankton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+plankton": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Plankton = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+plant": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + plant = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+platelet": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Platelet = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+pollen": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Pollen = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+primordial-soup": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Primordial Soup = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+prion": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Prion = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+resin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Resin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+retina": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Retina = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+ribosome": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Ribosome = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+root": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Root = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+sap": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Sap = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+seaweed": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Seaweed = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+seed": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + seed = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+serotonin": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Serotonin = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+spore": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Spore = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+stem-cell": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Stem Cell = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+stomata": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Stomata = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+symbiosis": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Symbiosis = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+synapse": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Synapse = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+tendon": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Tendon = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+trachea": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + Trachea = the Elixir of Life. Alchemists spent centuries searching. Still looking."
+  },
+  "enchanted-kingdom+tree": {
+    "result": "elixir-of-life",
+    "reasoning": "Enchanted Kingdom + tree = the Elixir of Life. Alchemists spent centuries searching. Still looking."
   }
 }

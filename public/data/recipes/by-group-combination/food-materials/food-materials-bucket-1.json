@@ -1,38 +1,882 @@
 {
-  "blade+bread": {
-    "result": "hamburger",
-    "reasoning": "Blade plus Bread is the weird recipe your alchemist friend swears by for making Hamburger."
+  "aioli+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alloy+barn": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives Barn the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+barn": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives Barn the strength to reach the sky — Skyscraper."
+  },
+  "asphalt+olive-oil": {
+    "result": "bitumen",
+    "reasoning": "Combine Asphalt with Olive Oil to create Bitumen."
+  },
+  "astronaut-food+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bagel+magma": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "baklava+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+canvas": {
+    "result": "museum",
+    "reasoning": "A Barn preserving canvas — a Museum."
+  },
+  "barn+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+paint": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Paint — a Museum."
+  },
+  "barn+shield": {
+    "result": "armory",
+    "reasoning": "A Barn storing Shield — an Armory."
+  },
+  "batter+iron": {
+    "result": "waffle",
+    "reasoning": "Combine Batter with Iron to create Waffle."
+  },
+  "batter+magma": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+oil": {
+    "result": "tempura",
+    "reasoning": "Combine Batter with Oil to create Tempura."
+  },
+  "beer+magma": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "biscuit+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
   "blade+dough": {
     "result": "noodle",
     "reasoning": "Combining Blade with Dough makes delicious Noodle"
   },
-  "blade+flour": {
-    "result": "noodle",
-    "reasoning": "Blade tags in with Flour, and somehow the universe speedruns Noodle."
+  "blade+granola": {
+    "result": "sickle",
+    "reasoning": "Combine Blade with Granola to create Sickle."
   },
-  "blade+spice": {
-    "result": "sausage",
-    "reasoning": "Blade meets Spice, chaos files a memo, and Sausage walks out with the trophy."
+  "bone-china+gelatin": {
+    "result": "ivory",
+    "reasoning": "Combine Bone China with Gelatin to create Ivory."
   },
-  "brick+food": {
-    "result": "kitchen",
-    "reasoning": "Brick teams up with food; the side quest reward is Kitchen."
+  "bread+magma": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
   },
-  "farm+steel": {
-    "result": "silo",
-    "reasoning": "Combining farm with Steel makes delicious Silo"
+  "brewing+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "marble+spice": {
-    "result": "taj-mahal",
-    "reasoning": "When Marble and Spice collide, logic takes a coffee break and Taj Mahal appears anyway."
+  "brioche+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "paint+wine": {
-    "result": "italy",
-    "reasoning": "Paint and wine shake hands, reality shrugs, and Italy is suddenly canon."
+  "broth+magma": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
   },
-  "steel+wine": {
-    "result": "eiffel-tower",
-    "reasoning": "Steel tags in with wine, and somehow the universe speedruns Eiffel Tower."
+  "bruschetta+burlap": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Burlap = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+calico": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Calico = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+candle": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Candle = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+canvas": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + canvas = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cardboard": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cardboard = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cashmere": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cashmere = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cellophane": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cellophane = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cement": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cement = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+ceramic": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Ceramic = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+chain": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Chain = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+chalk": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Chalk = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+chamois": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Chamois = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+charcoal": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Charcoal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+chrome": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Chrome = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cinderblock": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cinderblock = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+clinker": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Clinker = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+coal": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Coal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cobalt": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cobalt = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+coil": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + coil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+concrete": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Concrete = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+copper": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Copper = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cork": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cork = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+cotton": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Cotton = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+crystal": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Crystal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+damask": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Damask = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+denim": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Denim = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+diamond": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Diamond = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+dry-ice": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Dry Ice = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+dye": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Dye = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+dynamite": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Dynamite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+e-waste": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + E-Waste = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+electroplate": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Electroplate = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+enamel": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Enamel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+epoxy": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Epoxy = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fabric": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Fabric = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fat": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + fat = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+felt": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Felt = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fiber": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + fiber = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fiberglass": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Fiberglass = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+firebrick": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Firebrick = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+firework": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Firework = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fleece": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Fleece = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+flint": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Flint = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+foam": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Foam = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+food-packaging": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Food Packaging = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fossil": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Fossil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+fullerene": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Fullerene = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+galvanized-steel": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Galvanized Steel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+gel": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Gel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+gem": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Gem = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+glass": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Glass = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+glue": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Glue = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+gold": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Gold = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+granite": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Granite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+graphene": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Graphene = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+graphite": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Graphite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+gunpowder": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Gunpowder = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+gutta-percha": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Gutta-Percha = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+hemp": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Hemp = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+ingot": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Ingot = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+ink": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Ink = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+iron": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Iron = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+ivory": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Ivory = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+jute": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Jute = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+kaolin": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Kaolin = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+kevlar": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Kevlar = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+lacquer": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Lacquer = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+latex": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Latex = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+lead": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Lead = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+leather": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Leather = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+lens": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Lens = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+limestone": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Limestone = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+linen": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Linen = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+marble": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Marble = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+medallion": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Medallion = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+metal": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + metal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+mica": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Mica = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+mineral": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Mineral = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+mirror": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Mirror = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+mortar": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Mortar = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+nacre": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Nacre = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+nail": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Nail = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+natural-gas": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Natural Gas = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+net": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Net = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+nickel": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Nickel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+nylon": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Nylon = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+oil": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Oil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+organza": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Organza = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+paint": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Paint = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+paper": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Paper = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+papyrus": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Papyrus = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+parchment": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Parchment = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+paste": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Paste = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+permafrost": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Permafrost = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+petroleum": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Petroleum = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+pewter": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Pewter = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+pigment": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Pigment = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+plank": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + plank = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+plaster": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Plaster = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+plastic": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Plastic = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+platinum": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Platinum = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+plywood": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Plywood = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+porcelain": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Porcelain = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+prism": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Prism = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+pulp": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Pulp = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+pumice": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Pumice = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+quartz": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Quartz = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+quicklite": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Quicklite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+rattan": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Rattan = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+raw-material": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Raw Material = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+rayon": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Rayon = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+rope": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Rope = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+rubber": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Rubber = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+rust": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Rust = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+sail": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Sail = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+sandstone": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Sandstone = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+satin": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Satin = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+scrap-heap": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Scrap Heap = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+shale": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Shale = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+shield": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Shield = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+silicon": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Silicon = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+silicone": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Silicone = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+silk": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Silk = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+silver": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Silver = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+slate": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Slate = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+soap": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Soap = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+soil": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Soil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+solder": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Solder = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+steel": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Steel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+suede": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Suede = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+taffeta": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Taffeta = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+tar": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Tar = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+taxidermy": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Taxidermy = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+teflon": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Teflon = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+terracotta": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Terracotta = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+thread": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Thread = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+tin": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Tin = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+titanium": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Titanium = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+tungsten": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Tungsten = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+tweed": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Tweed = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+varnish": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Varnish = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+velvet": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Velvet = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+vermiculite": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Vermiculite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+wax": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + wax = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+wire": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Wire = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+wool": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Wool = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+yarn": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Yarn = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "bruschetta+zinc": {
+    "result": "food-packaging",
+    "reasoning": "Bruschetta + Zinc = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "burrito+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "butter+magma": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "cake+magma": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "candy+magma": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "caramel+magma": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caviar+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "ceviche+magma": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cheese+magma": {
+    "result": "fondue",
+    "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
+  },
+  "chili+chrome": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Chrome = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+cinderblock": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Cinderblock = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+clinker": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Clinker = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+coal": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Coal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+cobalt": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Cobalt = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+coil": {
+    "result": "food-packaging",
+    "reasoning": "Chili + coil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+concrete": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Concrete = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+copper": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Copper = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+cork": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Cork = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+cotton": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Cotton = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+crystal": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Crystal = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+damask": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Damask = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+denim": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Denim = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+diamond": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Diamond = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+dry-ice": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Dry Ice = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+dye": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Dye = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+dynamite": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Dynamite = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+e-waste": {
+    "result": "food-packaging",
+    "reasoning": "Chili + E-Waste = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+electroplate": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Electroplate = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+enamel": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Enamel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+epoxy": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Epoxy = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fabric": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Fabric = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fat": {
+    "result": "food-packaging",
+    "reasoning": "Chili + fat = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+felt": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Felt = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fiber": {
+    "result": "food-packaging",
+    "reasoning": "Chili + fiber = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fiberglass": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Fiberglass = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+firebrick": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Firebrick = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+firework": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Firework = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fleece": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Fleece = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+flint": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Flint = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+foam": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Foam = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+food-packaging": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Food Packaging = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fossil": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Fossil = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+fullerene": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Fullerene = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+galvanized-steel": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Galvanized Steel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+gel": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Gel = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+gem": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Gem = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+glass": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Glass = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
+  },
+  "chili+glue": {
+    "result": "food-packaging",
+    "reasoning": "Chili + Glue = Food Packaging. Humanity creates 380M tons of plastic/year. Most wraps sandwiches."
   }
 }

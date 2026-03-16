@@ -1,170 +1,882 @@
 {
-  "3d-printer+line": {
-    "result": "3d-model",
-    "reasoning": "3D Printer tags in with line, and somehow the universe speedruns 3D Model."
+  "3d-model+change": {
+    "result": "paradigm",
+    "reasoning": "Combine 3D Model with Change to create Paradigm."
+  },
+  "3d-model+climate-change": {
+    "result": "paradigm",
+    "reasoning": "Combine 3D Model with Climate Change to create Paradigm."
   },
   "3d-printer+shape": {
     "result": "3d-model",
     "reasoning": "Applying 3D Printer to shape produces 3D Model"
   },
-  "antenna+wave": {
-    "result": "broadcast",
-    "reasoning": "antenna plus Wave is the weird recipe your alchemist friend swears by for making Broadcast."
+  "acceleration+stable-diffusion": {
+    "result": "equilibrium",
+    "reasoning": "Combine Stable Diffusion with Acceleration to create Equilibrium."
   },
-  "api+point": {
-    "result": "graphql",
-    "reasoning": "API plus point is the weird recipe your alchemist friend swears by for making GraphQL."
+  "app+food-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "App + Food Science = AI — humanity's greatest amplifier."
   },
-  "api+speed": {
-    "result": "jimmy-api",
-    "reasoning": "API and Speed shake hands, reality shrugs, and Jimmy API is suddenly canon."
+  "app+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "App + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "app+science": {
+    "result": "artificial-intelligence",
+    "reasoning": "App + science = AI — humanity's greatest amplifier."
   },
   "atom+electricity": {
-    "result": "quantum",
-    "reasoning": "Atom plus Electricity is the weird recipe your alchemist friend swears by for making Quantum."
+    "result": "ion",
+    "reasoning": "Combine Atom with Electricity to create Ion."
   },
-  "atom+solar-panel": {
-    "result": "proton",
-    "reasoning": "Atom plus Solar Panel is the weird recipe your alchemist friend swears by for making Proton."
+  "battery+contact-lens": {
+    "result": "led",
+    "reasoning": "Battery + Contact Lens = LED — efficient light that changed the world."
   },
-  "change+internet": {
-    "result": "bandwidth",
-    "reasoning": "Someone mixed change with internet for science. The peer-reviewed conclusion: Bandwidth."
+  "biology+bit": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Bit = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "change+meme": {
-    "result": "viral",
-    "reasoning": "change and Meme shake hands, reality shrugs, and Viral is suddenly canon."
+  "biology+bitcoin": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Bitcoin = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "class+shape": {
-    "result": "polymorphism",
-    "reasoning": "Class and shape shake hands, reality shrugs, and Polymorphism is suddenly canon."
+  "biology+blockchain": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Blockchain = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "computer+shape": {
-    "result": "3d-model",
-    "reasoning": "Computer teams up with shape; the side quest reward is 3D Model."
+  "biology+blog": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + blog = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "computer+speed": {
-    "result": "speedrun",
-    "reasoning": "Computer and Speed shake hands, reality shrugs, and Speedrun is suddenly canon."
+  "biology+bluetooth": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Bluetooth = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "computer+watch": {
-    "result": "smartwatch",
-    "reasoning": "Applying Computer to Watch produces Smartwatch"
+  "biology+broadcast": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Broadcast = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "computer+wave": {
-    "result": "wifi",
-    "reasoning": "Computer teams up with Wave; the side quest reward is WiFi."
+  "biology+browser": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Browser = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "data+mathematics": {
-    "result": "statistics",
-    "reasoning": "data and mathematics explain the phenomenon of Statistics"
+  "biology+bug": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Bug = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "data+time": {
-    "result": "queue",
-    "reasoning": "When data and time collide, logic takes a coffee break and Queue appears anyway."
+  "biology+button": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + button = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "digital+vibration": {
-    "result": "audio",
-    "reasoning": "Someone mixed digital with Vibration for science. The peer-reviewed conclusion: Audio."
+  "biology+byte": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Byte = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "electricity+watch": {
-    "result": "smartwatch",
-    "reasoning": "Electricity and Watch accidentally host a crossover episode; Smartwatch steals the finale."
+  "biology+cable": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cable = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "electronics+vibration": {
-    "result": "microphone",
-    "reasoning": "Electronics plus Vibration is the weird recipe your alchemist friend swears by for making Microphone."
+  "biology+capacitor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Capacitor = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "internet+speed": {
-    "result": "bandwidth",
-    "reasoning": "Applying internet to Speed produces Bandwidth"
+  "biology+cathode-ray-tube": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cathode Ray Tube = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "internet+time": {
-    "result": "github",
-    "reasoning": "internet plus time is the weird recipe your alchemist friend swears by for making GitHub."
+  "biology+celebrity": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Celebrity = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "line+object": {
-    "result": "polymorphism",
-    "reasoning": "line and Object accidentally host a crossover episode; Polymorphism steals the finale."
+  "biology+chronometer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Chronometer = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "magnetism+message": {
-    "result": "telegram",
-    "reasoning": "Magnetism meets message, chaos files a memo, and Telegram walks out with the trophy."
+  "biology+ci-cd": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + CI CD = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "magnetism+microchip": {
-    "result": "hard-drive",
-    "reasoning": "Applying Magnetism to Microchip produces Hard Drive"
+  "biology+circuit": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Circuit = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "magnetism+transistor": {
-    "result": "hard-drive",
-    "reasoning": "Magnetism and Transistor shake hands, reality shrugs, and Hard Drive is suddenly canon."
+  "biology+circuit-board": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Circuit Board = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "meme+speed": {
-    "result": "viral",
-    "reasoning": "Applying Meme to Speed produces Viral"
+  "biology+class": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Class = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "microchip+speed": {
-    "result": "ram",
-    "reasoning": "Applying Microchip to Speed produces RAM"
+  "biology+cloud-computing": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cloud Computing = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "microchip+time": {
-    "result": "ram",
-    "reasoning": "Microchip teams up with time; the side quest reward is RAM."
+  "biology+cloud-storage": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cloud Storage = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "network+speed": {
-    "result": "bandwidth",
-    "reasoning": "When Network and Speed collide, logic takes a coffee break and Bandwidth appears anyway."
+  "biology+comment": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Comment = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "network+wave": {
-    "result": "wifi",
-    "reasoning": "Applying Network to Wave produces WiFi"
+  "biology+communication": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Communication = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "object+shape": {
-    "result": "polymorphism",
-    "reasoning": "Applying Object to shape produces Polymorphism"
+  "biology+compass-sensor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Compass Sensor = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "online+void": {
-    "result": "offline",
-    "reasoning": "Applying Online to void produces Offline"
+  "biology+compiler": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Compiler = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "printer+shape": {
-    "result": "3d-model",
-    "reasoning": "Printer and shape accidentally host a crossover episode; 3D Model steals the finale."
+  "biology+compressor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Compressor = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radio+wave": {
-    "result": "broadcast",
-    "reasoning": "Radio teams up with Wave; the side quest reward is Broadcast."
+  "biology+computer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Computer = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "science+solar-panel": {
-    "result": "physics",
-    "reasoning": "science tags in with Solar Panel, and somehow the universe speedruns Physics."
+  "biology+conveyor-belt": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Conveyor Belt = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "screen+watch": {
-    "result": "smartwatch",
-    "reasoning": "screen teams up with Watch; the side quest reward is Smartwatch."
+  "biology+cryptocurrency": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cryptocurrency = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "search-engine+speed": {
-    "result": "jimmy-search",
-    "reasoning": "Search Engine plus Speed is the weird recipe your alchemist friend swears by for making Jimmy Search."
+  "biology+css": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + CSS = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "solar-panel+time": {
-    "result": "change",
-    "reasoning": "Solar Panel tags in with time, and somehow the universe speedruns change."
+  "biology+current": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Current = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "speed+supercomputer": {
-    "result": "chatjimmy-pro",
-    "reasoning": "Speed tags in with Supercomputer, and somehow the universe speedruns ChatJimmy Pro."
+  "biology+cyberbullying": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cyberbullying = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "speed+transistor": {
-    "result": "ram",
-    "reasoning": "Someone mixed Speed with Transistor for science. The peer-reviewed conclusion: RAM."
+  "biology+cybersecurity": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cybersecurity = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "stack+time": {
-    "result": "queue",
-    "reasoning": "Applying Stack to time produces Queue"
+  "biology+cyborg": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Cyborg = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "transistor+vibration": {
-    "result": "amplifier",
-    "reasoning": "When Transistor and Vibration collide, logic takes a coffee break and Amplifier appears anyway."
+  "biology+dao": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + DAO = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+dark-web": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Dark Web = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+dashcam": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Dashcam = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+data": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + data = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+database": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Database = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+debug": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Debug = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+deception": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + deception = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+defi": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + DeFi = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+defibrillator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Defibrillator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+desktop": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Desktop = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+devops": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + DevOps = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+digital": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + digital = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+diode": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Diode = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+discord": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Discord = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+docker": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Docker = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+domain": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Domain = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+download": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Download = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+drone": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Drone = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+dynamo": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Dynamo = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+e-reader": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + E-Reader = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+edge-computing": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Edge Computing = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+electric-car": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Electric Car = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+electricity": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Electricity = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+electrode": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Electrode = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+electronics": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Electronics = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+email": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Email = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+encryption": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Encryption = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+error": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + error = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+escalator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Escalator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+ethernet": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Ethernet = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+fame": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + fame = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+fax-machine": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Fax Machine = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+fiber-optic": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Fiber Optic = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+file": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + File = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+firewall": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Firewall = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+flash-drive": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Flash Drive = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+flywheel": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Flywheel = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+folder": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Folder = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+follower": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Follower = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+forum": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Forum = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+framework": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Framework = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+friend": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + friend = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+fuel-cell": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Fuel Cell = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+function": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Function = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+gadget": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Gadget = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+galvanometer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Galvanometer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+geiger-counter": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Geiger Counter = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+git": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Git = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+github": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + GitHub = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+google-maps": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Google Maps = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+gps": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + GPS = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+graphql": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + GraphQL = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+gyroscope": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Gyroscope = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hacker": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hacker = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hacking": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hacking = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hard-drive": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hard Drive = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hash": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hash = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hashtag": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hashtag = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+headphone": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Headphone = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+heat-pump": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Heat Pump = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hologram": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hologram = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+html": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + HTML = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+hydraulic-press": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Hydraulic Press = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+incubator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Incubator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+influencer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Influencer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+inheritance": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Inheritance = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+instagram": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Instagram = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+intercom": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Intercom = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+interface": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Interface = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+internet": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + internet = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+iot": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + IoT = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+ip-address": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + IP Address = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+jackhammer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Jackhammer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+java": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Java = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+javascript": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + JavaScript = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+joystick": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Joystick = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+json": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + JSON = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+keyboard": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Keyboard = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+kiln": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Kiln = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+kubernetes": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Kubernetes = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+laptop": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Laptop = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+lathe": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Lathe = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+led": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + LED = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+library-software": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Library Software = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+lidar": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + LIDAR = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+lie": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + lie = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+like": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Like = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+linux": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Linux = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+loop": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Loop = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+loudspeaker": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Loudspeaker = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+magnet": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + magnet = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+mail": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Mail = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+mainframe": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Mainframe = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+malware": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Malware = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+markdown": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Markdown = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+meme": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Meme = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+message": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + message = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+metal-detector": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Metal Detector = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+metaverse": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Metaverse = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+metronome": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Metronome = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+microchip": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Microchip = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+micrometer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Micrometer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+microphone": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Microphone = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+microservice": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Microservice = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+midjourney": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Midjourney = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+modem": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Modem = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+monitor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Monitor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+morse-code": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Morse Code = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+motion-sensor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Motion Sensor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+mouse-device": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Mouse Device = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+multimeter": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Multimeter = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+name": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + name = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+navigation": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Navigation = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+neon-sign": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Neon Sign = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+netflix": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Netflix = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+network": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Network = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+neural-link": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Neural Link = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+neuralink": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Neuralink = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+newsletter": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Newsletter = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+nft": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + NFT = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+notification": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Notification = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+nuclear-reactor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Nuclear Reactor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+object": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Object = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+offline": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Offline = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+online": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Online = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+open-source": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Open Source = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+operating-system": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Operating System = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+oscillator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Oscillator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+oscilloscope": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Oscilloscope = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+particle-accelerator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Particle Accelerator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+password": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Password = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+pattern": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + pattern = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+periscope": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Periscope = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+phishing": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Phishing = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+phonograph": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Phonograph = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+photodiode": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Photodiode = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+piezoelectric": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Piezoelectric = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+pixel": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Pixel = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+pneumatic": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Pneumatic = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+podcast": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Podcast = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+polymorphism": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Polymorphism = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+post": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Post = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+post-office": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Post Office = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+potentiometer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Potentiometer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+power-grid": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Power Grid = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+power-plant": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Power Plant = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+power-strip": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Power Strip = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+press": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + press = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+pressure-cooker": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Pressure Cooker = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+printer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Printer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+printing": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Printing = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+privacy": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Privacy = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+processor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Processor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+product": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + product = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+profile": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Profile = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+program": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Program = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+propane-tank": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Propane Tank = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+python": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Python = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+qr-code": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + QR Code = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+quantum-computer": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Quantum Computer = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+queue": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Queue = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+radar": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Radar = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+radiator": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Radiator = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+radio": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Radio = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+ram": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + RAM = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+ransomware": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Ransomware = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+record-player": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Record Player = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+recursion": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Recursion = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+reddit": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Reddit = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+regex": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Regex = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+relay": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Relay = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+remote": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Remote = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+resistor": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Resistor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+resolution": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Resolution = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+rest-api": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + REST API = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+robot": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Robot = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "biology+router": {
+    "result": "lab-equipment",
+    "reasoning": "Biology + Router = Lab Equipment. Expensive, fragile, and always being borrowed."
   }
 }

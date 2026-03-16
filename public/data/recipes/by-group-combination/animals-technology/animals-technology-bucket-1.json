@@ -1,54 +1,882 @@
 {
-  "animal+fame": {
-    "result": "celebrity",
-    "reasoning": "animal and fame accidentally host a crossover episode; Celebrity steals the finale."
+  "albatross+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
   },
-  "animal+internet": {
-    "result": "online",
-    "reasoning": "Someone mixed animal with internet for science. The peer-reviewed conclusion: Online."
+  "albatross+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "animal+message": {
-    "result": "mail",
-    "reasoning": "animal and message shake hands, reality shrugs, and Mail is suddenly canon."
+  "albatross+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "animal+robot": {
-    "result": "android",
-    "reasoning": "animal plus Robot is the weird recipe your alchemist friend swears by for making Android."
+  "albatross+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "animal+social-media": {
-    "result": "profile",
-    "reasoning": "animal plus Social Media is the weird recipe your alchemist friend swears by for making Profile."
+  "albatross+power-plant": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
   },
-  "animal+software": {
-    "result": "programmer",
-    "reasoning": "animal plus software is the weird recipe your alchemist friend swears by for making Programmer."
+  "albatross+tree-data": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
   },
-  "animal+technology": {
-    "result": "pokemon",
-    "reasoning": "animal teams up with technology; the side quest reward is Pokemon."
+  "albatross+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
   },
-  "bird+internet": {
-    "result": "twitter",
-    "reasoning": "Bird teams up with internet; the side quest reward is Twitter."
+  "albatross+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "bird+social-media": {
-    "result": "twitter",
-    "reasoning": "Applying Bird to Social Media produces Twitter"
+  "alpaca+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
   },
-  "electronics+fish": {
-    "result": "sony",
-    "reasoning": "Electronics and Fish shake hands, reality shrugs, and Sony is suddenly canon."
+  "alpaca+heat-pump": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
   },
-  "feather+robot": {
-    "result": "drone",
-    "reasoning": "Feather tags in with Robot, and somehow the universe speedruns Drone."
+  "alpaca+kiln": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
   },
-  "fish+technology": {
-    "result": "japan",
-    "reasoning": "Fish and technology together shape Japan"
+  "alpaca+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
   },
-  "horse+message": {
-    "result": "mail",
-    "reasoning": "Applying Horse to message produces Mail"
+  "alpaca+power-plant": {
+    "result": "wool",
+    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
+  },
+  "alpaca+tree-data": {
+    "result": "wool",
+    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
+  },
+  "alpaca+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alpaca+welding-torch": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "anemone+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anemone+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "anemone+power-plant": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anemone+tree-data": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anemone+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anemone+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anglerfish+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "anglerfish+power-plant": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anglerfish+tree-data": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anglerfish+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anglerfish+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal-kingdom+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "animal-kingdom+power-plant": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal-kingdom+tree-data": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal-kingdom+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal-kingdom+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "animal+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "animal+power-plant": {
+    "result": "habitat",
+    "reasoning": "Combine Animal with Power Plant to create Habitat."
+  },
+  "animal+smart-home": {
+    "result": "habitat",
+    "reasoning": "Combine Animal with Smart Home to create Habitat."
+  },
+  "animal+tree-data": {
+    "result": "koala",
+    "reasoning": "Combine Animal with Tree Data to create Koala."
+  },
+  "animal+water-wheel": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+dark-web": {
+    "result": "termite",
+    "reasoning": "Termites live in perpetual darkness inside their mounds"
+  },
+  "ant+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+library-software": {
+    "result": "farm",
+    "reasoning": "Ant Farms let people observe colony life, glass-walled civilizations"
+  },
+  "ant+power-plant": {
+    "result": "composting",
+    "reasoning": "Ants aerate soil and break down organic matter into Compost"
+  },
+  "ant+tree-data": {
+    "result": "composting",
+    "reasoning": "Ants aerate soil and break down organic matter into Compost"
+  },
+  "ant+water-wheel": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+welding-torch": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+antenna": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + antenna = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+antivirus": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Antivirus = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+api": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + API = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+app": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + App = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+audio": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Audio = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+augmented-reality": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Augmented Reality = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+autoclave": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Autoclave = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+automation": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Automation = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+bandwidth": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Bandwidth = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+barcode": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Barcode = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+battery": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Battery = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+binary": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Binary = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+bit": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Bit = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+bitcoin": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Bitcoin = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+blockchain": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Blockchain = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+blog": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + blog = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+bluetooth": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Bluetooth = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+broadcast": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Broadcast = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+browser": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Browser = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+bug": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Bug = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+button": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + button = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+byte": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Byte = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cable": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cable = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+capacitor": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Capacitor = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cathode-ray-tube": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cathode Ray Tube = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+celebrity": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Celebrity = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+chronometer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Chronometer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+ci-cd": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + CI CD = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+circuit": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Circuit = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+circuit-board": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Circuit Board = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+class": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Class = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cloud-computing": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cloud Computing = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cloud-storage": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cloud Storage = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+comment": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Comment = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+communication": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Communication = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+compass-sensor": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Compass Sensor = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+compiler": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Compiler = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+compressor": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Compressor = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+computer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Computer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+conveyor-belt": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Conveyor Belt = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cryptocurrency": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cryptocurrency = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+css": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + CSS = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+current": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Current = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cyberbullying": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cyberbullying = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cybersecurity": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cybersecurity = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+cyborg": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Cyborg = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+dao": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + DAO = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+dark-web": {
+    "result": "bat",
+    "reasoning": "Bats are THE nocturnal animal — 1,400 species ruling the night sky"
+  },
+  "anteater+dashcam": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Dashcam = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+data": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + data = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+database": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Database = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+debug": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Debug = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+deception": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + deception = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+defi": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + DeFi = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+defibrillator": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Defibrillator = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+desktop": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Desktop = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+devops": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + DevOps = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+digital": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + digital = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+diode": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Diode = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+discord": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Discord = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+docker": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Docker = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+domain": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Domain = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+download": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Download = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+drone": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Drone = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+dynamo": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Dynamo = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+e-reader": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + E-Reader = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+edge-computing": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Edge Computing = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+electric-car": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Electric Car = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+electricity": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Electricity = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+electrode": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Electrode = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+electronics": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Electronics = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+email": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Email = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+encryption": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Encryption = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+error": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + error = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+escalator": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Escalator = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+ethernet": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Ethernet = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+fame": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + fame = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+fax-machine": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Fax Machine = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+fiber-optic": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Fiber Optic = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+file": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + File = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+firewall": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Firewall = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+flash-drive": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Flash Drive = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+flywheel": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Flywheel = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+folder": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Folder = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+follower": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Follower = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+forum": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Forum = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+framework": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Framework = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+friend": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + friend = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+fuel-cell": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Fuel Cell = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+function": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Function = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+gadget": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Gadget = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+galvanometer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Galvanometer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+geiger-counter": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Geiger Counter = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+git": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Git = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+github": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + GitHub = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+google-maps": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Google Maps = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+gps": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + GPS = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+graphql": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + GraphQL = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+gyroscope": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Gyroscope = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hacker": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hacker = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hacking": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hacking = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hard-drive": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hard Drive = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hash": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hash = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hashtag": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hashtag = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+headphone": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Headphone = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+heat-pump": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+hologram": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hologram = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+html": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + HTML = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+hydraulic-press": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Hydraulic Press = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+incubator": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Incubator = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+influencer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Influencer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+inheritance": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Inheritance = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+instagram": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Instagram = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+intercom": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Intercom = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+interface": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Interface = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+internet": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + internet = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+iot": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + IoT = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+ip-address": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + IP Address = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+jackhammer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Jackhammer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+java": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Java = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+javascript": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + JavaScript = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+joystick": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Joystick = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+json": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + JSON = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+keyboard": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Keyboard = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+kiln": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+kubernetes": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Kubernetes = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+laptop": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Laptop = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+lathe": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Lathe = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+led": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + LED = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+library-software": {
+    "result": "zoo",
+    "reasoning": "Zoos house animals from around the world for education and conservation"
+  },
+  "anteater+lidar": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + LIDAR = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+lie": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + lie = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+like": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Like = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+linux": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Linux = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+loop": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Loop = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+loudspeaker": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Loudspeaker = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+magnet": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + magnet = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+mail": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Mail = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+mainframe": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Mainframe = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+malware": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Malware = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+markdown": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Markdown = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+meme": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Meme = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+message": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + message = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+metal-detector": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Metal Detector = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+metaverse": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Metaverse = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+metronome": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Metronome = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+microchip": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Microchip = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+micrometer": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Micrometer = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+microphone": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Microphone = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+microservice": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Microservice = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+midjourney": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Midjourney = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+modem": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Modem = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+monitor": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Monitor = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+morse-code": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Morse Code = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+motion-sensor": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Motion Sensor = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+mouse-device": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Mouse Device = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+multimeter": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Multimeter = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+name": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + name = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+navigation": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Navigation = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+neon-sign": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Neon Sign = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+netflix": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Netflix = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+network": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Network = a Wildlife Camera. Catching nature's candid moments since 1990."
+  },
+  "anteater+neural-link": {
+    "result": "wildlife-camera",
+    "reasoning": "Anteater + Neural Link = a Wildlife Camera. Catching nature's candid moments since 1990."
   }
 }

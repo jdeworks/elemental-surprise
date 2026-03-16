@@ -1,51 +1,315 @@
 {
-  "axe+boat": {
-    "result": "canoe",
-    "reasoning": "Someone mixed Axe with Boat for science. The peer-reviewed conclusion: Canoe."
+  "abacus+arrow": {
+    "result": "quiver",
+    "reasoning": "Combine Arrow with Abacus to create Quiver."
   },
-  "axe+engine": {
-    "result": "car",
-    "reasoning": "When Axe and Engine collide, logic takes a coffee break and Car appears anyway."
+  "abacus+gear": {
+    "result": "ratchet",
+    "reasoning": "Combine Gear with Abacus to create Ratchet."
   },
-  "axe+saw": {
-    "result": "board",
-    "reasoning": "Axe plus Saw is the weird recipe your alchemist friend swears by for making board."
+  "airplane+airport": {
+    "result": "abacus",
+    "reasoning": "Combine Airplane with Airport to create Abacus."
   },
-  "axe+tool": {
-    "result": "table",
-    "reasoning": "Axe and tool accidentally host a crossover episode; Table steals the finale."
+  "airplane+arrow": {
+    "result": "abacus",
+    "reasoning": "Combine Airplane with Arrow to create Abacus."
   },
-  "axe+wheel": {
-    "result": "cart",
-    "reasoning": "Axe plus Wheel is the weird recipe your alchemist friend swears by for making Cart."
+  "airplane+axe": {
+    "result": "abacus",
+    "reasoning": "Combine Airplane with Axe to create Abacus."
+  },
+  "airplane+gear": {
+    "result": "ratchet",
+    "reasoning": "Combine Gear with Airplane to create Ratchet."
+  },
+  "airport+arrow": {
+    "result": "quiver",
+    "reasoning": "Combine Arrow with Airport to create Quiver."
+  },
+  "anvil+hammer": {
+    "result": "sledgehammer",
+    "reasoning": "Combine Hammer with Anvil to create Sledgehammer."
+  },
+  "arrow+bow": {
+    "result": "archery",
+    "reasoning": "Arrows hitting a target — that's Archery"
+  },
+  "auger+drill": {
+    "result": "brace",
+    "reasoning": "Combine Drill with Auger to create Brace."
+  },
+  "axe+soldering-iron": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  },
+  "backpack+spring": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Spring = Aquarium."
+  },
+  "bag+spring": {
+    "result": "aquarium",
+    "reasoning": "bag of Spring = Aquarium."
+  },
+  "bellows+hot-air-balloon": {
+    "result": "forge-bellows",
+    "reasoning": "Combine Bellows with Hot Air Balloon to create Forge Bellows."
+  },
+  "bellows+pliers": {
+    "result": "tongs",
+    "reasoning": "Combine Pliers with Bellows to create Tongs."
+  },
+  "bellows+pump": {
+    "result": "forge-bellows",
+    "reasoning": "Combine Bellows with Pump to create Forge Bellows."
   },
   "bicycle+engine": {
     "result": "motorcycle",
     "reasoning": "Crafting Bicycle with Engine produces Motorcycle"
   },
-  "bicycle+machine": {
-    "result": "motorcycle",
-    "reasoning": "Bicycle tags in with machine, and somehow the universe speedruns Motorcycle."
+  "binoculars+magnifying-glass": {
+    "result": "spyglass",
+    "reasoning": "Combine Binoculars with Magnifying Glass to create Spyglass."
+  },
+  "block-and-tackle+hook": {
+    "result": "grappling-hook",
+    "reasoning": "Combine Hook with Block And Tackle to create Grappling Hook."
+  },
+  "boat+level": {
+    "result": "oar",
+    "reasoning": "Combine Boat with Level to create Oar."
+  },
+  "boat+mallet": {
+    "result": "oar",
+    "reasoning": "Combine Boat with Mallet to create Oar."
+  },
+  "bolt+bucket": {
+    "result": "cymbal",
+    "reasoning": "Combine Bolt with Bucket to create Cymbal."
+  },
+  "bolt+chisel": {
+    "result": "cymbal",
+    "reasoning": "Combine Bolt with Chisel to create Cymbal."
+  },
+  "bolt+clamp": {
+    "result": "vise",
+    "reasoning": "Combine Clamp with Bolt to create Vise."
+  },
+  "bolt+key": {
+    "result": "padlock",
+    "reasoning": "Combine Key with Bolt to create Padlock."
+  },
+  "bolt+lever": {
+    "result": "crowbar",
+    "reasoning": "Combine Lever with Bolt to create Crowbar."
+  },
+  "bolt+pliers": {
+    "result": "tongs",
+    "reasoning": "Combine Pliers with Bolt to create Tongs."
+  },
+  "bolt+socket-wrench": {
+    "result": "wrench",
+    "reasoning": "Combine Socket Wrench with Bolt to create Wrench."
+  },
+  "bolt+tool": {
+    "result": "socket-wrench",
+    "reasoning": "Combine Tool with Bolt to create Socket Wrench."
+  },
+  "bow+machine": {
+    "result": "crossbow",
+    "reasoning": "A bow with a mechanism is a Crossbow"
+  },
+  "brazier+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "brazier+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Brazier creates an Ingot — the foundation of metallurgy."
+  },
+  "brazier+spring": {
+    "result": "steam",
+    "reasoning": "Brazier turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "bucket+kettle": {
+    "result": "radiator",
+    "reasoning": "Combine Kettle with Bucket to create Radiator."
+  },
+  "bucket+key": {
+    "result": "padlock",
+    "reasoning": "Combine Key with Bucket to create Padlock."
+  },
+  "bucket+socket-wrench": {
+    "result": "wrench",
+    "reasoning": "Combine Socket Wrench with Bucket to create Wrench."
+  },
+  "bucket+spring": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Spring = Aquarium."
+  },
+  "bucket+wheel": {
+    "result": "wheelbarrow",
+    "reasoning": "Combine Wheel with Bucket to create Wheelbarrow."
+  },
+  "caliper+spring": {
+    "result": "dynamometer",
+    "reasoning": "Combine Spring with Caliper to create Dynamometer."
   },
   "car+car": {
     "result": "bus",
     "reasoning": "Crafting Car with Car produces Bus"
   },
-  "car+engine": {
-    "result": "bus",
-    "reasoning": "Someone mixed Car with Engine for science. The peer-reviewed conclusion: Bus."
+  "car+lever": {
+    "result": "jack",
+    "reasoning": "Combine Car with Lever to create Jack."
   },
   "car+road": {
     "result": "highway",
     "reasoning": "Crafting Car with Road produces Highway"
   },
-  "car+wheel": {
-    "result": "bus",
-    "reasoning": "Car plus Wheel is the weird recipe your alchemist friend swears by for making Bus."
+  "carabiner+hook": {
+    "result": "grappling-hook",
+    "reasoning": "Combine Hook with Carabiner to create Grappling Hook."
   },
-  "engine+road": {
-    "result": "highway",
-    "reasoning": "Engine plus Road is the weird recipe your alchemist friend swears by for making Highway."
+  "catapult+weight": {
+    "result": "trebuchet",
+    "reasoning": "A catapult using weight is a Trebuchet"
+  },
+  "chisel+soldering-iron": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  },
+  "clamp+crossbow": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Crossbow goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+crowbar": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Crowbar goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+cylinder": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + cylinder goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+eraser": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Eraser goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+forging": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Forging goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+funnel": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Funnel goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+gear": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Gear goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+gondola": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Gondola goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+motorcycle": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Motorcycle goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+needle": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Needle goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+notebook": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Notebook goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+pencil": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Pencil goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+pliers": {
+    "result": "vise",
+    "reasoning": "Combine Clamp with Pliers to create Vise."
+  },
+  "clamp+plough": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Plough goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+pulley": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Pulley goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+quill": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Quill goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+rivet": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Rivet goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+rocket": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Rocket goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+saw": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Saw goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+spring": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Spring goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+sundial": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Sundial goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+thermometer": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Thermometer goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+tongs": {
+    "result": "vise",
+    "reasoning": "Combine Clamp with Tongs to create Vise."
+  },
+  "clamp+trowel": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Trowel goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+vise": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Vise goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+wagon": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Wagon goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+weaving": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Weaving goes straight into the Junk Drawer. Every home has one."
+  },
+  "clamp+whetstone": {
+    "result": "junk-drawer",
+    "reasoning": "Clamp + Whetstone goes straight into the Junk Drawer. Every home has one."
+  },
+  "drawknife+saw": {
+    "result": "hand-saw",
+    "reasoning": "Combine Drawknife with Saw to create Hand Saw."
+  },
+  "drill+mallet": {
+    "result": "auger",
+    "reasoning": "Combine Drill with Mallet to create Auger."
+  },
+  "drill+oar": {
+    "result": "auger",
+    "reasoning": "Combine Drill with Oar to create Auger."
+  },
+  "drill+socket-wrench": {
+    "result": "brace",
+    "reasoning": "Combine Drill with Socket Wrench to create Brace."
+  },
+  "drill+soldering-iron": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
   },
   "engine+wheel": {
     "result": "car",
@@ -55,68 +319,564 @@
     "result": "airplane",
     "reasoning": "Engines mounted on wings — an airplane"
   },
+  "forge-bellows+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "forge-bellows+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Forge Bellows creates an Ingot — the foundation of metallurgy."
+  },
+  "forge-bellows+spring": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "forging+funnel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Funnel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+garden-shed": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Garden Shed goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+gear": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Gear goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+gears": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Gears goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+generator": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Generator goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+gimbal": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Gimbal goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+gondola": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Gondola goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+grappling-hook": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Grappling Hook goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+grinder": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Grinder goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+grinding": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Grinding goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+gun": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + gun goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hammer": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hammer goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hand-saw": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hand Saw goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+helicopter": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Helicopter goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+helmet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Helmet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+highway": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Highway goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hoe": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hoe goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hook": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hook goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hot-air-balloon": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hot Air Balloon goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+hunting": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Hunting goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+invention": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + invention goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+jack": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Jack goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+junk-drawer": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Junk Drawer goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+kettle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Kettle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+key": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + key goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+kitchen-gadget": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Kitchen Gadget goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+knife": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Knife goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+knitting": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Knitting goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+ladle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Ladle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+lantern": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Lantern goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+level": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Level goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+lever": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Lever goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+lock": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Lock goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+loom": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Loom goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mace": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mace goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+machine": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + machine goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+magnifying-glass": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Magnifying Glass goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mallet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mallet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+manacle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Manacle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mechanical": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mechanical goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mining": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mining goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mortar-and-pestle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mortar and Pestle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+motor": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Motor goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+motorcycle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Motorcycle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+mousetrap": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Mousetrap goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+needle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Needle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+notebook": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Notebook goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+oar": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Oar goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+padlock": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Padlock goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pen": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pen goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pencil": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pencil goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pestle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pestle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pick": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pick goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+piston": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Piston goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+plane": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Plane goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pliers": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pliers goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+plough": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Plough goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+plumb-bob": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Plumb Bob goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+power-tool": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Power Tool goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+protractor": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Protractor goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pulley": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pulley goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+pump": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Pump goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+purse": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Purse goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+quill": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Quill goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+quiver": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Quiver goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+raft": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Raft goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+railway": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Railway goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+rake": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Rake goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+ratchet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Ratchet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+rivet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Rivet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+road": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Road goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+rocket": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Rocket goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+ruler": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Ruler goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sailboat": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sailboat goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+satellite": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Satellite goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+saw": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Saw goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+scale": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Scale goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+scalpel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Scalpel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+scissors": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Scissors goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+screw": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Screw goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sextant": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sextant goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+ship": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + ship goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+shovel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Shovel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sickle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sickle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sieve": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sieve goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sled": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sled goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sledgehammer": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sledgehammer goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+smelting": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Smelting goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+snorkel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Snorkel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+socket-wrench": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Socket Wrench goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+soldering-iron": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Soldering Iron goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+spear": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Spear goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+spindle": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Spindle goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+spring": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Spring goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+spyglass": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Spyglass goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+stapler": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Stapler goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+stencil": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Stencil goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+submarine": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Submarine goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+subway": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Subway goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+suitcase": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Suitcase goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sundial": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sundial goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+swiss-army-knife": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Swiss Army Knife goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+sword": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Sword goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+tanning": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Tanning goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+taxi": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Taxi goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+thermometer": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Thermometer goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+tongs": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Tongs goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+tool": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + tool goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+traffic": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Traffic goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+train": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Train goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+trap": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Trap goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+trebuchet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Trebuchet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+tripod": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Tripod goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+trowel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Trowel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+truck": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Truck goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+turbine": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Turbine goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+valve": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Valve goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+vise": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Vise goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wagon": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Wagon goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wallet": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Wallet goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+weaving": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Weaving goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+weight": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + weight goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+welding": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Welding goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wheel": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Wheel goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wheelbarrow": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Wheelbarrow goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+whetstone": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Whetstone goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+winch": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Winch goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wing": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + wing goes straight into the Junk Drawer. Every home has one."
+  },
+  "forging+wrench": {
+    "result": "junk-drawer",
+    "reasoning": "Forging + Wrench goes straight into the Junk Drawer. Every home has one."
+  },
   "gear+gear": {
     "result": "machine",
     "reasoning": "Interlocking gears create a working machine"
   },
-  "gear+wheel": {
-    "result": "machine",
-    "reasoning": "Gear teams up with Wheel; the side quest reward is machine."
+  "gears+tool": {
+    "result": "rake",
+    "reasoning": "Combine Tool with Gears to create Rake."
   },
-  "generator+machine": {
-    "result": "power-plant",
-    "reasoning": "Generator tags in with machine, and somehow the universe speedruns Power Plant."
+  "gears+wheel": {
+    "result": "wheelbarrow",
+    "reasoning": "Combine Wheel with Gears to create Wheelbarrow."
   },
-  "highway+road": {
-    "result": "fuel",
-    "reasoning": "Highway combined with Road yields fuel"
+  "gondola+grappling-hook": {
+    "result": "junk-drawer",
+    "reasoning": "Gondola + Grappling Hook goes straight into the Junk Drawer. Every home has one."
   },
-  "lever+weight": {
-    "result": "scale",
-    "reasoning": "Crafting Lever with weight produces Scale"
+  "gondola+grinder": {
+    "result": "junk-drawer",
+    "reasoning": "Gondola + Grinder goes straight into the Junk Drawer. Every home has one."
   },
-  "machine+tool": {
-    "result": "mechanical",
-    "reasoning": "machine and tool accidentally host a crossover episode; Mechanical steals the finale."
+  "gondola+grinding": {
+    "result": "junk-drawer",
+    "reasoning": "Gondola + Grinding goes straight into the Junk Drawer. Every home has one."
   },
-  "machine+wing": {
-    "result": "drone",
-    "reasoning": "Someone mixed machine with wing for science. The peer-reviewed conclusion: Drone."
+  "gondola+gun": {
+    "result": "junk-drawer",
+    "reasoning": "Gondola + gun goes straight into the Junk Drawer. Every home has one."
   },
-  "pen+tool": {
-    "result": "notebook",
-    "reasoning": "Pen and tool shake hands, reality shrugs, and Notebook is suddenly canon."
-  },
-  "pencil+tool": {
-    "result": "drawing",
-    "reasoning": "Pencil teams up with tool; the side quest reward is Drawing."
-  },
-  "railway+subway": {
-    "result": "chip",
-    "reasoning": "Railway combined with Subway yields chip"
-  },
-  "railway+train": {
-    "result": "chip",
-    "reasoning": "Railway teams up with Train; the side quest reward is chip."
-  },
-  "road+satellite": {
-    "result": "navigation",
-    "reasoning": "Road plus Satellite is the weird recipe your alchemist friend swears by for making Navigation."
-  },
-  "road+wheel": {
-    "result": "highway",
-    "reasoning": "When Road and Wheel collide, logic takes a coffee break and Highway appears anyway."
-  },
-  "rocket+satellite": {
-    "result": "track",
-    "reasoning": "Rocket and Satellite shake hands, reality shrugs, and track is suddenly canon."
-  },
-  "subway+train": {
-    "result": "chip",
-    "reasoning": "Subway plus Train is the weird recipe your alchemist friend swears by for making chip."
-  },
-  "wheel+wheel": {
-    "result": "bicycle",
-    "reasoning": "Crafting Wheel with Wheel produces Bicycle"
+  "gondola+hammer": {
+    "result": "junk-drawer",
+    "reasoning": "Gondola + Hammer goes straight into the Junk Drawer. Every home has one."
   }
 }

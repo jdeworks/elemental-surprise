@@ -1,154 +1,882 @@
 {
-  "atom+coal": {
-    "result": "carbon",
-    "reasoning": "Atom teams up with Coal; the side quest reward is Carbon."
+  "acceleration+crystal": {
+    "result": "crystallization",
+    "reasoning": "Combine Crystal with Acceleration to create Crystallization."
+  },
+  "acid+crystal": {
+    "result": "lattice",
+    "reasoning": "Combine Crystal with Acid to create Lattice."
+  },
+  "aerogel+carbon": {
+    "result": "fullerene",
+    "reasoning": "Combine Carbon with Aerogel to create Fullerene."
+  },
+  "alabaster+carbon": {
+    "result": "fullerene",
+    "reasoning": "Combine Carbon with Alabaster to create Fullerene."
+  },
+  "alloy+carbon": {
+    "result": "graphite",
+    "reasoning": "Combine Carbon with Alloy to create Graphite."
+  },
+  "aluminum+carbon": {
+    "result": "graphite",
+    "reasoning": "Combine Carbon with Aluminum to create Graphite."
   },
   "blade+medicine": {
     "result": "surgery",
     "reasoning": "Blade and Medicine explain the phenomenon of Surgery"
   },
-  "blade+science": {
-    "result": "surgery",
-    "reasoning": "Blade tags in with science, and somehow the universe speedruns Surgery."
+  "boiling-point+natural-gas": {
+    "result": "ideal-gas-law",
+    "reasoning": "Combine Natural Gas with Boiling Point to create Ideal Gas Law."
   },
-  "blade+time": {
-    "result": "bark",
-    "reasoning": "Blade tags in with time, and somehow the universe speedruns Bark."
+  "carbon+epoxy": {
+    "result": "graphene",
+    "reasoning": "Combine Carbon with Epoxy to create Graphene."
   },
-  "carbon+metal": {
-    "result": "resistor",
-    "reasoning": "Carbon meets metal, chaos files a memo, and Resistor walks out with the trophy."
+  "carbon+fiberglass": {
+    "result": "graphene",
+    "reasoning": "Combine Carbon with Fiberglass to create Graphene."
   },
-  "carbon+paper": {
-    "result": "drawing",
-    "reasoning": "Carbon meets Paper, chaos files a memo, and Drawing walks out with the trophy."
+  "carbon+fullerene": {
+    "result": "graphene",
+    "reasoning": "Combine Carbon with Fullerene to create Graphene."
   },
-  "carbon+rubber": {
-    "result": "eraser",
-    "reasoning": "Carbon plus Rubber is the weird recipe your alchemist friend swears by for making Eraser."
+  "carbon+graphite": {
+    "result": "fullerene",
+    "reasoning": "Combine Carbon with Graphite to create Fullerene."
   },
   "carbon+wire": {
     "result": "resistor",
     "reasoning": "Applying Carbon to Wire produces Resistor"
   },
+  "chain+molecule": {
+    "result": "polymer",
+    "reasoning": "Combine Molecule with Chain to create Polymer."
+  },
+  "chain+nuclear": {
+    "result": "critical-mass",
+    "reasoning": "Combine Nuclear with Chain to create Critical Mass."
+  },
   "coal+element": {
     "result": "carbon",
     "reasoning": "Coal and element explain the phenomenon of Carbon"
   },
-  "coal+proton": {
-    "result": "carbon",
-    "reasoning": "Someone mixed Coal with Proton for science. The peer-reviewed conclusion: Carbon."
+  "coil+combustion": {
+    "result": "periodic-table",
+    "reasoning": "coil + Combustion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "engineering+paper": {
-    "result": "blueprint",
-    "reasoning": "engineering combined with Paper leads to Blueprint"
+  "coil+compass": {
+    "result": "periodic-table",
+    "reasoning": "coil + compass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "fabric+medicine": {
-    "result": "bandage",
-    "reasoning": "Fabric and Medicine explain the phenomenon of Bandage"
+  "coil+compost": {
+    "result": "periodic-table",
+    "reasoning": "coil + Compost = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "fabric+science": {
-    "result": "bandage",
-    "reasoning": "Fabric teams up with science; the side quest reward is Bandage."
+  "coil+conductivity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Conductivity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "fossil+time": {
-    "result": "amber",
-    "reasoning": "Fossil and time accidentally host a crossover episode; Amber steals the finale."
+  "coil+contact-lens": {
+    "result": "periodic-table",
+    "reasoning": "coil + Contact Lens = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "future+gold": {
-    "result": "investment",
-    "reasoning": "Future and Gold accidentally host a crossover episode; Investment steals the finale."
+  "coil+convection": {
+    "result": "periodic-table",
+    "reasoning": "coil + Convection = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "glass+magnetism": {
-    "result": "light",
-    "reasoning": "Glass meets Magnetism, chaos files a memo, and light walks out with the trophy."
+  "coil+coriolis-effect": {
+    "result": "periodic-table",
+    "reasoning": "coil + Coriolis Effect = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "glass+science": {
-    "result": "microscope",
-    "reasoning": "Glass and science shake hands, reality shrugs, and Microscope is suddenly canon."
+  "coil+coulombs-law": {
+    "result": "periodic-table",
+    "reasoning": "coil + Coulombs Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "gold+science": {
-    "result": "nobel-prize",
-    "reasoning": "Science's highest honor — the Nobel Prize"
+  "coil+crispr": {
+    "result": "periodic-table",
+    "reasoning": "coil + CRISPR = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "ink+line": {
-    "result": "graph",
-    "reasoning": "Ink and line shake hands, reality shrugs, and graph is suddenly canon."
+  "coil+critical-mass": {
+    "result": "periodic-table",
+    "reasoning": "coil + Critical Mass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "ink+point": {
-    "result": "line",
-    "reasoning": "When Ink and point collide, logic takes a coffee break and line appears anyway."
+  "coil+crutch": {
+    "result": "periodic-table",
+    "reasoning": "coil + Crutch = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "iron+magnetism": {
-    "result": "magnet",
-    "reasoning": "Iron tags in with Magnetism, and somehow the universe speedruns magnet."
+  "coil+crystallization": {
+    "result": "periodic-table",
+    "reasoning": "coil + Crystallization = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "iron+medicine": {
-    "result": "syringe",
-    "reasoning": "Iron meets Medicine, chaos files a memo, and Syringe walks out with the trophy."
+  "coil+death": {
+    "result": "periodic-table",
+    "reasoning": "coil + death = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "lens+science": {
-    "result": "microscope",
-    "reasoning": "Lens and science explain the phenomenon of Microscope"
+  "coil+decay": {
+    "result": "periodic-table",
+    "reasoning": "coil + Decay = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "line+metal": {
-    "result": "cylinder",
-    "reasoning": "line plus metal is the weird recipe your alchemist friend swears by for making cylinder."
+  "coil+density": {
+    "result": "periodic-table",
+    "reasoning": "coil + Density = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "line+paper": {
-    "result": "graph",
-    "reasoning": "line and Paper accidentally host a crossover episode; graph steals the finale."
+  "coil+destiny": {
+    "result": "periodic-table",
+    "reasoning": "coil + Destiny = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "magnetism+metal": {
-    "result": "compass",
-    "reasoning": "Magnetism and metal explain the phenomenon of compass"
+  "coil+diffusion": {
+    "result": "periodic-table",
+    "reasoning": "coil + Diffusion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "magnetism+silicon": {
-    "result": "hard-drive",
-    "reasoning": "Magnetism and Silicon shake hands, reality shrugs, and Hard Drive is suddenly canon."
+  "coil+direction": {
+    "result": "periodic-table",
+    "reasoning": "coil + direction = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "magnetism+thread": {
-    "result": "compass",
-    "reasoning": "Magnetism teams up with Thread; the side quest reward is compass."
+  "coil+distilling": {
+    "result": "periodic-table",
+    "reasoning": "coil + Distilling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "magnetism+wire": {
-    "result": "electricity",
-    "reasoning": "Applying Magnetism to Wire produces Electricity"
+  "coil+doppler-effect": {
+    "result": "periodic-table",
+    "reasoning": "coil + Doppler Effect = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "mathematics+paper": {
-    "result": "diagram",
-    "reasoning": "mathematics combined with Paper leads to Diagram"
+  "coil+drug": {
+    "result": "periodic-table",
+    "reasoning": "coil + Drug = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "medicine+thread": {
-    "result": "bandage",
-    "reasoning": "Medicine and Thread accidentally host a crossover episode; Bandage steals the finale."
+  "coil+ecology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Ecology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "metal+shape": {
-    "result": "cylinder",
-    "reasoning": "Crafting metal with shape produces cylinder"
+  "coil+economics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Economics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "metal+wave": {
-    "result": "antenna",
-    "reasoning": "Applying metal to Wave produces antenna"
+  "coil+elasticity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Elasticity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "paper+point": {
-    "result": "line",
-    "reasoning": "Paper and point accidentally host a crossover episode; line steals the finale."
+  "coil+electrolysis": {
+    "result": "periodic-table",
+    "reasoning": "coil + Electrolysis = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "paper+shape": {
-    "result": "stamp",
-    "reasoning": "Paper and shape shake hands, reality shrugs, and Stamp is suddenly canon."
+  "coil+electromagnetic-spectrum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Electromagnetic Spectrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "paper+time": {
-    "result": "calendar",
-    "reasoning": "Paper combined with time leads to Calendar"
+  "coil+electron": {
+    "result": "periodic-table",
+    "reasoning": "coil + Electron = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "silicon+speed": {
-    "result": "ram",
-    "reasoning": "Someone mixed Silicon with Speed for science. The peer-reviewed conclusion: RAM."
+  "coil+element": {
+    "result": "periodic-table",
+    "reasoning": "coil + element = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "wave+wire": {
-    "result": "wifi",
-    "reasoning": "Wave teams up with Wire; the side quest reward is WiFi."
+  "coil+engineering": {
+    "result": "periodic-table",
+    "reasoning": "coil + engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+entropy": {
+    "result": "periodic-table",
+    "reasoning": "coil + Entropy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+equilibrium": {
+    "result": "periodic-table",
+    "reasoning": "coil + Equilibrium = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+evaporation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Evaporation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+failed-experiment": {
+    "result": "periodic-table",
+    "reasoning": "coil + Failed Experiment = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fermentation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fermentation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fertilizer": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fertilizer = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fission": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fission = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fluorescence": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fluorescence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+food-science": {
+    "result": "periodic-table",
+    "reasoning": "coil + Food Science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fossil-fuel": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fossil Fuel = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fragility": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fragility = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+frequency": {
+    "result": "periodic-table",
+    "reasoning": "coil + Frequency = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fulcrum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fulcrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+fusion": {
+    "result": "periodic-table",
+    "reasoning": "coil + Fusion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+future": {
+    "result": "periodic-table",
+    "reasoning": "coil + Future = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+genetic-engineering": {
+    "result": "periodic-table",
+    "reasoning": "coil + Genetic Engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+geology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Geology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+geometry": {
+    "result": "periodic-table",
+    "reasoning": "coil + Geometry = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+geothermal": {
+    "result": "periodic-table",
+    "reasoning": "coil + Geothermal = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+glasses": {
+    "result": "periodic-table",
+    "reasoning": "coil + Glasses = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+global-warming": {
+    "result": "periodic-table",
+    "reasoning": "coil + Global Warming = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+grave": {
+    "result": "periodic-table",
+    "reasoning": "coil + Grave = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+green-energy": {
+    "result": "periodic-table",
+    "reasoning": "coil + Green Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+half-life": {
+    "result": "periodic-table",
+    "reasoning": "coil + Half-Life = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+harmonic": {
+    "result": "periodic-table",
+    "reasoning": "coil + Harmonic = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+hearing-aid": {
+    "result": "periodic-table",
+    "reasoning": "coil + Hearing Aid = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+helium": {
+    "result": "periodic-table",
+    "reasoning": "coil + Helium = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+history": {
+    "result": "periodic-table",
+    "reasoning": "coil + history = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+hourglass": {
+    "result": "periodic-table",
+    "reasoning": "coil + Hourglass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+hydraulics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Hydraulics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+hydrogen": {
+    "result": "periodic-table",
+    "reasoning": "coil + Hydrogen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+hydropower": {
+    "result": "periodic-table",
+    "reasoning": "coil + Hydropower = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+ideal-gas-law": {
+    "result": "periodic-table",
+    "reasoning": "coil + Ideal Gas Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+impulse": {
+    "result": "periodic-table",
+    "reasoning": "coil + Impulse = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+inertia": {
+    "result": "periodic-table",
+    "reasoning": "coil + Inertia = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+infinity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Infinity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+insulation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Insulation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+interference": {
+    "result": "periodic-table",
+    "reasoning": "coil + Interference = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+ion": {
+    "result": "periodic-table",
+    "reasoning": "coil + Ion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+isotope": {
+    "result": "periodic-table",
+    "reasoning": "coil + Isotope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+joule": {
+    "result": "periodic-table",
+    "reasoning": "coil + Joule = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+kinetics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Kinetics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+lab-equipment": {
+    "result": "periodic-table",
+    "reasoning": "coil + Lab Equipment = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+lab-rat": {
+    "result": "periodic-table",
+    "reasoning": "coil + Lab Rat = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+laser": {
+    "result": "periodic-table",
+    "reasoning": "coil + Laser = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+lattice": {
+    "result": "periodic-table",
+    "reasoning": "coil + Lattice = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+line": {
+    "result": "periodic-table",
+    "reasoning": "coil + line = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+luminescence": {
+    "result": "periodic-table",
+    "reasoning": "coil + Luminescence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+mach-number": {
+    "result": "periodic-table",
+    "reasoning": "coil + Mach Number = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+magnetism": {
+    "result": "periodic-table",
+    "reasoning": "coil + Magnetism = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+mass": {
+    "result": "periodic-table",
+    "reasoning": "coil + mass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+mathematics": {
+    "result": "periodic-table",
+    "reasoning": "coil + mathematics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+matter": {
+    "result": "periodic-table",
+    "reasoning": "coil + matter = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+measurement": {
+    "result": "periodic-table",
+    "reasoning": "coil + Measurement = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+medicine": {
+    "result": "periodic-table",
+    "reasoning": "coil + Medicine = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+meditation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Meditation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+meteorology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Meteorology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+microscope": {
+    "result": "periodic-table",
+    "reasoning": "coil + Microscope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+molecule": {
+    "result": "periodic-table",
+    "reasoning": "coil + Molecule = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+momentum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Momentum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+mri": {
+    "result": "periodic-table",
+    "reasoning": "coil + MRI = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+neon": {
+    "result": "periodic-table",
+    "reasoning": "coil + Neon = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+neutron": {
+    "result": "periodic-table",
+    "reasoning": "coil + Neutron = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+newtons-cradle": {
+    "result": "periodic-table",
+    "reasoning": "coil + Newtons Cradle = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+nitrogen": {
+    "result": "periodic-table",
+    "reasoning": "coil + Nitrogen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+nuclear": {
+    "result": "periodic-table",
+    "reasoning": "coil + Nuclear = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+nutrition": {
+    "result": "periodic-table",
+    "reasoning": "coil + Nutrition = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+ohms-law": {
+    "result": "periodic-table",
+    "reasoning": "coil + Ohms Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+optics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Optics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+oscillation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Oscillation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+osmosis": {
+    "result": "periodic-table",
+    "reasoning": "coil + Osmosis = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+oxidation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Oxidation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+oxygen": {
+    "result": "periodic-table",
+    "reasoning": "coil + Oxygen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+pacemaker": {
+    "result": "periodic-table",
+    "reasoning": "coil + Pacemaker = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+pascals-law": {
+    "result": "periodic-table",
+    "reasoning": "coil + Pascals Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+past": {
+    "result": "periodic-table",
+    "reasoning": "coil + Past = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+peer-pressure": {
+    "result": "periodic-table",
+    "reasoning": "coil + Peer Pressure = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+pendulum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Pendulum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+phase-transition": {
+    "result": "periodic-table",
+    "reasoning": "coil + Phase Transition = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+physics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Physics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+piezoelectricity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Piezoelectricity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+pill": {
+    "result": "periodic-table",
+    "reasoning": "coil + Pill = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+plasma": {
+    "result": "periodic-table",
+    "reasoning": "coil + Plasma = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+plasma-state": {
+    "result": "periodic-table",
+    "reasoning": "coil + Plasma State = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+point": {
+    "result": "periodic-table",
+    "reasoning": "coil + point = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+polarization": {
+    "result": "periodic-table",
+    "reasoning": "coil + Polarization = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+pollution": {
+    "result": "periodic-table",
+    "reasoning": "coil + Pollution = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+polymer": {
+    "result": "periodic-table",
+    "reasoning": "coil + Polymer = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+prophecy": {
+    "result": "periodic-table",
+    "reasoning": "coil + Prophecy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+prosthetic": {
+    "result": "periodic-table",
+    "reasoning": "coil + Prosthetic = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+proton": {
+    "result": "periodic-table",
+    "reasoning": "coil + Proton = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+psychology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Psychology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+quantum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Quantum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+radiation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Radiation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+radioactivity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Radioactivity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+rebirth": {
+    "result": "periodic-table",
+    "reasoning": "coil + Rebirth = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+recycling": {
+    "result": "periodic-table",
+    "reasoning": "coil + Recycling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+refraction": {
+    "result": "periodic-table",
+    "reasoning": "coil + Refraction = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+relativity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Relativity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+renewable-energy": {
+    "result": "periodic-table",
+    "reasoning": "coil + Renewable Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+resonance": {
+    "result": "periodic-table",
+    "reasoning": "coil + Resonance = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+rocket-science": {
+    "result": "periodic-table",
+    "reasoning": "coil + Rocket Science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+science": {
+    "result": "periodic-table",
+    "reasoning": "coil + science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+shape": {
+    "result": "periodic-table",
+    "reasoning": "coil + shape = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+sharpness": {
+    "result": "periodic-table",
+    "reasoning": "coil + Sharpness = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+skeleton": {
+    "result": "periodic-table",
+    "reasoning": "coil + Skeleton = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+smog": {
+    "result": "periodic-table",
+    "reasoning": "coil + Smog = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+sociology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Sociology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+solvent": {
+    "result": "periodic-table",
+    "reasoning": "coil + Solvent = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+spectrum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Spectrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+speed": {
+    "result": "periodic-table",
+    "reasoning": "coil + Speed = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+static": {
+    "result": "periodic-table",
+    "reasoning": "coil + Static = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+statistics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Statistics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+stethoscope": {
+    "result": "periodic-table",
+    "reasoning": "coil + Stethoscope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+sublimation": {
+    "result": "periodic-table",
+    "reasoning": "coil + Sublimation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+superconductor": {
+    "result": "periodic-table",
+    "reasoning": "coil + Superconductor = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+supercooling": {
+    "result": "periodic-table",
+    "reasoning": "coil + Supercooling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+surface-tension": {
+    "result": "periodic-table",
+    "reasoning": "coil + Surface Tension = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+surgery": {
+    "result": "periodic-table",
+    "reasoning": "coil + Surgery = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+sustainability": {
+    "result": "periodic-table",
+    "reasoning": "coil + Sustainability = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+syringe": {
+    "result": "periodic-table",
+    "reasoning": "coil + Syringe = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+therapy": {
+    "result": "periodic-table",
+    "reasoning": "coil + Therapy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+thermocline": {
+    "result": "periodic-table",
+    "reasoning": "coil + Thermocline = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+thermodynamics": {
+    "result": "periodic-table",
+    "reasoning": "coil + Thermodynamics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+time": {
+    "result": "periodic-table",
+    "reasoning": "coil + time = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+torque": {
+    "result": "periodic-table",
+    "reasoning": "coil + Torque = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+toxicity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Toxicity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+transparency": {
+    "result": "periodic-table",
+    "reasoning": "coil + Transparency = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+turbulence": {
+    "result": "periodic-table",
+    "reasoning": "coil + Turbulence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+vaccine": {
+    "result": "periodic-table",
+    "reasoning": "coil + Vaccine = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+vacuum": {
+    "result": "periodic-table",
+    "reasoning": "coil + Vacuum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+velocity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Velocity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+vibration": {
+    "result": "periodic-table",
+    "reasoning": "coil + Vibration = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+viscosity": {
+    "result": "periodic-table",
+    "reasoning": "coil + Viscosity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+vitamin": {
+    "result": "periodic-table",
+    "reasoning": "coil + Vitamin = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+void": {
+    "result": "periodic-table",
+    "reasoning": "coil + void = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+waste": {
+    "result": "periodic-table",
+    "reasoning": "coil + waste = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+watch": {
+    "result": "periodic-table",
+    "reasoning": "coil + Watch = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+wave": {
+    "result": "periodic-table",
+    "reasoning": "coil + Wave = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+wave-particle-duality": {
+    "result": "periodic-table",
+    "reasoning": "coil + Wave-Particle Duality = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+wavelength": {
+    "result": "periodic-table",
+    "reasoning": "coil + Wavelength = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+wheelchair": {
+    "result": "periodic-table",
+    "reasoning": "coil + Wheelchair = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+x-ray": {
+    "result": "periodic-table",
+    "reasoning": "coil + X Ray = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+yoga": {
+    "result": "periodic-table",
+    "reasoning": "coil + Yoga = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+zero": {
+    "result": "periodic-table",
+    "reasoning": "coil + Zero = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "coil+zoology": {
+    "result": "periodic-table",
+    "reasoning": "coil + Zoology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "combustion+copper": {
+    "result": "ingot",
+    "reasoning": "Smelting Copper with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+crystal": {
+    "result": "lens",
+    "reasoning": "Shaping heated Crystal creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+galvanized-steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Galvanized Steel with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+gold": {
+    "result": "ingot",
+    "reasoning": "Smelting Gold with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+ingot": {
+    "result": "alloy",
+    "reasoning": "Intense Combustion fuses Ingot into an Alloy."
+  },
+  "combustion+iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Iron with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+limestone": {
+    "result": "lava",
+    "reasoning": "Combustion melts Limestone into flowing Lava."
+  },
+  "combustion+marble": {
+    "result": "lava",
+    "reasoning": "Combustion melts Marble into flowing Lava."
+  },
+  "combustion+mineral": {
+    "result": "lava",
+    "reasoning": "Combustion melts Mineral into flowing Lava."
+  },
+  "combustion+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "combustion+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "combustion+soil": {
+    "result": "lava",
+    "reasoning": "Combustion melts Soil into flowing Lava."
+  },
+  "combustion+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Combustion creates an Ingot — the foundation of metallurgy."
+  },
+  "contact-lens+glass": {
+    "result": "magnifying-glass",
+    "reasoning": "Combine Glass with Contact Lens to create Magnifying Glass."
+  },
+  "contact-lens+lens": {
+    "result": "optics",
+    "reasoning": "Combine Contact Lens with Lens to create Optics."
+  },
+  "contact-lens+mirror": {
+    "result": "optics",
+    "reasoning": "Combine Contact Lens with Mirror to create Optics."
+  },
+  "cork+destiny": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Destiny = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+evaporation": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Evaporation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+fulcrum": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Fulcrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+genetic-engineering": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Genetic Engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+geology": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Geology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+geometry": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Geometry = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+geothermal": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Geothermal = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  },
+  "cork+green-energy": {
+    "result": "periodic-table",
+    "reasoning": "Cork + Green Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   }
 }

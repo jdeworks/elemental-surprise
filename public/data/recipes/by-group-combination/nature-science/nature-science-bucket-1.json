@@ -1,15 +1,23 @@
 {
-  "atom+earth": {
-    "result": "nuclear",
-    "reasoning": "Atom plus Earth is the weird recipe your alchemist friend swears by for making Nuclear."
+  "absolute-zero+cold": {
+    "result": "supercooling",
+    "reasoning": "Combine Cold with Absolute Zero to create Supercooling."
+  },
+  "absolute-zero+water": {
+    "result": "thermocline",
+    "reasoning": "Combine Water with Absolute Zero to create Thermocline."
+  },
+  "amplitude+energy": {
+    "result": "dark-energy",
+    "reasoning": "Combine Energy with Amplitude to create Dark Energy."
+  },
+  "archimedes-principle+water": {
+    "result": "thermocline",
+    "reasoning": "Combine Water with Archimedes Principle to create Thermocline."
   },
   "atom+energy": {
     "result": "proton",
     "reasoning": "Atom and Energy explain the phenomenon of Proton"
-  },
-  "atom+fire": {
-    "result": "periodic-table",
-    "reasoning": "Atom meets Fire, chaos files a memo, and Periodic Table walks out with the trophy."
   },
   "atom+lightning": {
     "result": "electron",
@@ -19,61 +27,25 @@
     "result": "nuclear",
     "reasoning": "Atom and Pressure explain the phenomenon of Nuclear"
   },
-  "atom+storm": {
-    "result": "electron",
-    "reasoning": "Atom and Storm shake hands, reality shrugs, and Electron is suddenly canon."
+  "bay+point": {
+    "result": "cape",
+    "reasoning": "Combine Bay with Point to create Cape."
   },
-  "atom+wind": {
-    "result": "nitrogen",
-    "reasoning": "Atom teams up with Wind; the side quest reward is Nitrogen."
+  "boiling-point+cold": {
+    "result": "supercooling",
+    "reasoning": "Combine Cold with Boiling Point to create Supercooling."
   },
-  "calculus+earth": {
-    "result": "vibration",
-    "reasoning": "Calculus and Earth accidentally host a crossover episode; Vibration steals the finale."
+  "boiling-point+water": {
+    "result": "thermocline",
+    "reasoning": "Combine Water with Boiling Point to create Thermocline."
   },
-  "carbon+energy": {
-    "result": "resistor",
-    "reasoning": "When Carbon and Energy collide, logic takes a coffee break and Resistor appears anyway."
-  },
-  "cave+vibration": {
-    "result": "echo",
-    "reasoning": "Cave and Vibration shake hands, reality shrugs, and Echo is suddenly canon."
+  "cape+point": {
+    "result": "fulcrum",
+    "reasoning": "Combine Point with Cape to create Fulcrum."
   },
   "chemistry+energy": {
     "result": "chemical-reaction",
     "reasoning": "Chemistry combined with Energy yields Chemical reaction"
-  },
-  "chemistry+fire": {
-    "result": "chemical-reaction",
-    "reasoning": "Chemistry and Fire shake hands, reality shrugs, and Chemical reaction is suddenly canon."
-  },
-  "clay+death": {
-    "result": "ghost",
-    "reasoning": "Someone mixed Clay with death for science. The peer-reviewed conclusion: Ghost."
-  },
-  "clay+engineering": {
-    "result": "engineer",
-    "reasoning": "Clay plus engineering is the weird recipe your alchemist friend swears by for making Engineer."
-  },
-  "clay+medicine": {
-    "result": "doctor",
-    "reasoning": "Clay and Medicine accidentally host a crossover episode; Doctor steals the finale."
-  },
-  "clay+science": {
-    "result": "medicine",
-    "reasoning": "Clay teams up with science; the side quest reward is Medicine."
-  },
-  "clay+speed": {
-    "result": "running",
-    "reasoning": "Clay teams up with Speed; the side quest reward is Running."
-  },
-  "climate-change+energy": {
-    "result": "global-warming",
-    "reasoning": "Climate Change tags in with Energy, and somehow the universe speedruns Global Warming."
-  },
-  "climate-change+fire": {
-    "result": "global-warming",
-    "reasoning": "Climate Change plus Fire is the weird recipe your alchemist friend swears by for making Global Warming."
   },
   "climate-change+heat": {
     "result": "global-warming",
@@ -83,9 +55,57 @@
     "result": "switzerland",
     "reasoning": "Clock and mountain together shape Switzerland"
   },
-  "cloud+science": {
-    "result": "meteorology",
-    "reasoning": "Cloud teams up with science; the side quest reward is Meteorology."
+  "cold+phase-transition": {
+    "result": "supercooling",
+    "reasoning": "Combine Cold with Phase Transition to create Supercooling."
+  },
+  "cold+zero": {
+    "result": "absolute-zero",
+    "reasoning": "Combine Zero with Cold to create Absolute Zero."
+  },
+  "combustion+earth": {
+    "result": "lava",
+    "reasoning": "Combustion melts Earth into flowing Lava."
+  },
+  "combustion+fire": {
+    "result": "flint",
+    "reasoning": "Combine Fire with Combustion to create Flint."
+  },
+  "combustion+gravel": {
+    "result": "lava",
+    "reasoning": "Combustion melts Gravel into flowing Lava."
+  },
+  "combustion+mountain": {
+    "result": "lava",
+    "reasoning": "Combustion melts mountain into flowing Lava."
+  },
+  "combustion+mud": {
+    "result": "lava",
+    "reasoning": "Combustion melts Mud into flowing Lava."
+  },
+  "combustion+sand": {
+    "result": "lava",
+    "reasoning": "Combustion melts Sand into flowing Lava."
+  },
+  "combustion+sand-bar": {
+    "result": "lava",
+    "reasoning": "Combustion melts Sand Bar into flowing Lava."
+  },
+  "combustion+sand-storm": {
+    "result": "lava",
+    "reasoning": "Combustion melts Sand Storm into flowing Lava."
+  },
+  "combustion+sea-cave": {
+    "result": "lava",
+    "reasoning": "Combustion melts Sea Cave into flowing Lava."
+  },
+  "combustion+stone": {
+    "result": "lava",
+    "reasoning": "Combustion melts Stone into flowing Lava."
+  },
+  "compass+ocean": {
+    "result": "navigator",
+    "reasoning": "Combine Compass with Ocean to create Navigator."
   },
   "compass+wind": {
     "result": "direction",
@@ -99,300 +119,764 @@
     "result": "biomass",
     "reasoning": "Compost and Energy explain the phenomenon of Biomass"
   },
-  "compost+wind": {
-    "result": "biomass",
-    "reasoning": "Compost plus Wind is the weird recipe your alchemist friend swears by for making Biomass."
+  "convection+heat": {
+    "result": "evaporation",
+    "reasoning": "Combine Heat with Convection to create Evaporation."
   },
-  "continent+death": {
-    "result": "grave",
-    "reasoning": "continent meets death, chaos files a memo, and Grave walks out with the trophy."
+  "crater+crispr": {
+    "result": "climate-change",
+    "reasoning": "Crater + CRISPR = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+critical-mass": {
+    "result": "climate-change",
+    "reasoning": "Crater + Critical Mass = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+crutch": {
+    "result": "climate-change",
+    "reasoning": "Crater + Crutch = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+crystallization": {
+    "result": "climate-change",
+    "reasoning": "Crater + Crystallization = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+death": {
+    "result": "climate-change",
+    "reasoning": "Crater + death = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+decay": {
+    "result": "climate-change",
+    "reasoning": "Crater + Decay = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+density": {
+    "result": "climate-change",
+    "reasoning": "Crater + Density = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+destiny": {
+    "result": "climate-change",
+    "reasoning": "Crater + Destiny = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+diffusion": {
+    "result": "climate-change",
+    "reasoning": "Crater + Diffusion = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+direction": {
+    "result": "climate-change",
+    "reasoning": "Crater + direction = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+distilling": {
+    "result": "climate-change",
+    "reasoning": "Crater + Distilling = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+doppler-effect": {
+    "result": "climate-change",
+    "reasoning": "Crater + Doppler Effect = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+drug": {
+    "result": "climate-change",
+    "reasoning": "Crater + Drug = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+ecology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Ecology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+economics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Economics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+elasticity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Elasticity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+electrolysis": {
+    "result": "climate-change",
+    "reasoning": "Crater + Electrolysis = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+electromagnetic-spectrum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Electromagnetic Spectrum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+electron": {
+    "result": "climate-change",
+    "reasoning": "Crater + Electron = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+element": {
+    "result": "climate-change",
+    "reasoning": "Crater + element = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+engineering": {
+    "result": "climate-change",
+    "reasoning": "Crater + engineering = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+entropy": {
+    "result": "climate-change",
+    "reasoning": "Crater + Entropy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+equilibrium": {
+    "result": "climate-change",
+    "reasoning": "Crater + Equilibrium = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+evaporation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Evaporation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+failed-experiment": {
+    "result": "climate-change",
+    "reasoning": "Crater + Failed Experiment = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fermentation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fermentation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fertilizer": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fertilizer = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fission": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fission = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fluorescence": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fluorescence = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+food-science": {
+    "result": "climate-change",
+    "reasoning": "Crater + Food Science = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fossil-fuel": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fossil Fuel = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fragility": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fragility = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+frequency": {
+    "result": "climate-change",
+    "reasoning": "Crater + Frequency = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fulcrum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fulcrum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+fusion": {
+    "result": "climate-change",
+    "reasoning": "Crater + Fusion = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+future": {
+    "result": "climate-change",
+    "reasoning": "Crater + Future = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+genetic-engineering": {
+    "result": "climate-change",
+    "reasoning": "Crater + Genetic Engineering = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+geology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Geology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+geometry": {
+    "result": "climate-change",
+    "reasoning": "Crater + Geometry = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+geothermal": {
+    "result": "climate-change",
+    "reasoning": "Crater + Geothermal = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+glasses": {
+    "result": "climate-change",
+    "reasoning": "Crater + Glasses = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+global-warming": {
+    "result": "climate-change",
+    "reasoning": "Crater + Global Warming = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+grave": {
+    "result": "climate-change",
+    "reasoning": "Crater + Grave = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+green-energy": {
+    "result": "climate-change",
+    "reasoning": "Crater + Green Energy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+half-life": {
+    "result": "climate-change",
+    "reasoning": "Crater + Half-Life = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+harmonic": {
+    "result": "climate-change",
+    "reasoning": "Crater + Harmonic = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+hearing-aid": {
+    "result": "climate-change",
+    "reasoning": "Crater + Hearing Aid = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+helium": {
+    "result": "climate-change",
+    "reasoning": "Crater + Helium = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+history": {
+    "result": "climate-change",
+    "reasoning": "Crater + history = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+hourglass": {
+    "result": "climate-change",
+    "reasoning": "Crater + Hourglass = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+hydraulics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Hydraulics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+hydrogen": {
+    "result": "climate-change",
+    "reasoning": "Crater + Hydrogen = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+hydropower": {
+    "result": "climate-change",
+    "reasoning": "Crater + Hydropower = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+ideal-gas-law": {
+    "result": "climate-change",
+    "reasoning": "Crater + Ideal Gas Law = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+impulse": {
+    "result": "climate-change",
+    "reasoning": "Crater + Impulse = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+inertia": {
+    "result": "climate-change",
+    "reasoning": "Crater + Inertia = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+infinity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Infinity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+insulation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Insulation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+interference": {
+    "result": "climate-change",
+    "reasoning": "Crater + Interference = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+ion": {
+    "result": "climate-change",
+    "reasoning": "Crater + Ion = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+isotope": {
+    "result": "climate-change",
+    "reasoning": "Crater + Isotope = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+joule": {
+    "result": "climate-change",
+    "reasoning": "Crater + Joule = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+kinetics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Kinetics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+lab-equipment": {
+    "result": "climate-change",
+    "reasoning": "Crater + Lab Equipment = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+lab-rat": {
+    "result": "climate-change",
+    "reasoning": "Crater + Lab Rat = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+laser": {
+    "result": "climate-change",
+    "reasoning": "Crater + Laser = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+lattice": {
+    "result": "climate-change",
+    "reasoning": "Crater + Lattice = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+line": {
+    "result": "climate-change",
+    "reasoning": "Crater + line = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+luminescence": {
+    "result": "climate-change",
+    "reasoning": "Crater + Luminescence = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+mach-number": {
+    "result": "climate-change",
+    "reasoning": "Crater + Mach Number = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+magnetism": {
+    "result": "climate-change",
+    "reasoning": "Crater + Magnetism = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+mass": {
+    "result": "climate-change",
+    "reasoning": "Crater + mass = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+mathematics": {
+    "result": "climate-change",
+    "reasoning": "Crater + mathematics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+matter": {
+    "result": "climate-change",
+    "reasoning": "Crater + matter = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+measurement": {
+    "result": "climate-change",
+    "reasoning": "Crater + Measurement = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+medicine": {
+    "result": "climate-change",
+    "reasoning": "Crater + Medicine = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+meditation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Meditation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+meteorology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Meteorology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+microscope": {
+    "result": "climate-change",
+    "reasoning": "Crater + Microscope = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+molecule": {
+    "result": "climate-change",
+    "reasoning": "Crater + Molecule = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+momentum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Momentum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+mri": {
+    "result": "climate-change",
+    "reasoning": "Crater + MRI = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+neon": {
+    "result": "climate-change",
+    "reasoning": "Crater + Neon = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+neutron": {
+    "result": "climate-change",
+    "reasoning": "Crater + Neutron = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+newtons-cradle": {
+    "result": "climate-change",
+    "reasoning": "Crater + Newtons Cradle = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+nitrogen": {
+    "result": "climate-change",
+    "reasoning": "Crater + Nitrogen = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+nuclear": {
+    "result": "climate-change",
+    "reasoning": "Crater + Nuclear = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+nutrition": {
+    "result": "climate-change",
+    "reasoning": "Crater + Nutrition = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+ohms-law": {
+    "result": "climate-change",
+    "reasoning": "Crater + Ohms Law = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+optics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Optics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+oscillation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Oscillation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+osmosis": {
+    "result": "climate-change",
+    "reasoning": "Crater + Osmosis = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+oxidation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Oxidation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+oxygen": {
+    "result": "climate-change",
+    "reasoning": "Crater + Oxygen = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+pacemaker": {
+    "result": "climate-change",
+    "reasoning": "Crater + Pacemaker = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+pascals-law": {
+    "result": "climate-change",
+    "reasoning": "Crater + Pascals Law = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+past": {
+    "result": "climate-change",
+    "reasoning": "Crater + Past = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+peer-pressure": {
+    "result": "climate-change",
+    "reasoning": "Crater + Peer Pressure = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+pendulum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Pendulum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+phase-transition": {
+    "result": "climate-change",
+    "reasoning": "Crater + Phase Transition = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+physics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Physics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+piezoelectricity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Piezoelectricity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+pill": {
+    "result": "climate-change",
+    "reasoning": "Crater + Pill = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+plasma": {
+    "result": "climate-change",
+    "reasoning": "Crater + Plasma = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+plasma-state": {
+    "result": "climate-change",
+    "reasoning": "Crater + Plasma State = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+point": {
+    "result": "climate-change",
+    "reasoning": "Crater + point = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+polarization": {
+    "result": "climate-change",
+    "reasoning": "Crater + Polarization = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+pollution": {
+    "result": "climate-change",
+    "reasoning": "Crater + Pollution = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+polymer": {
+    "result": "climate-change",
+    "reasoning": "Crater + Polymer = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+prophecy": {
+    "result": "climate-change",
+    "reasoning": "Crater + Prophecy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+prosthetic": {
+    "result": "climate-change",
+    "reasoning": "Crater + Prosthetic = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+proton": {
+    "result": "climate-change",
+    "reasoning": "Crater + Proton = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+psychology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Psychology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+quantum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Quantum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+radiation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Radiation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+radioactivity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Radioactivity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+rebirth": {
+    "result": "climate-change",
+    "reasoning": "Crater + Rebirth = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+recycling": {
+    "result": "climate-change",
+    "reasoning": "Crater + Recycling = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+refraction": {
+    "result": "climate-change",
+    "reasoning": "Crater + Refraction = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+relativity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Relativity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+renewable-energy": {
+    "result": "climate-change",
+    "reasoning": "Crater + Renewable Energy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+resonance": {
+    "result": "climate-change",
+    "reasoning": "Crater + Resonance = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+rocket-science": {
+    "result": "climate-change",
+    "reasoning": "Crater + Rocket Science = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+science": {
+    "result": "climate-change",
+    "reasoning": "Crater + science = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+shape": {
+    "result": "climate-change",
+    "reasoning": "Crater + shape = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+sharpness": {
+    "result": "climate-change",
+    "reasoning": "Crater + Sharpness = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+skeleton": {
+    "result": "climate-change",
+    "reasoning": "Crater + Skeleton = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+smog": {
+    "result": "climate-change",
+    "reasoning": "Crater + Smog = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+sociology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Sociology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+solvent": {
+    "result": "climate-change",
+    "reasoning": "Crater + Solvent = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+spectrum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Spectrum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+speed": {
+    "result": "climate-change",
+    "reasoning": "Crater + Speed = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+static": {
+    "result": "climate-change",
+    "reasoning": "Crater + Static = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+statistics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Statistics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+stethoscope": {
+    "result": "climate-change",
+    "reasoning": "Crater + Stethoscope = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+sublimation": {
+    "result": "climate-change",
+    "reasoning": "Crater + Sublimation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+superconductor": {
+    "result": "climate-change",
+    "reasoning": "Crater + Superconductor = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+supercooling": {
+    "result": "climate-change",
+    "reasoning": "Crater + Supercooling = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+surface-tension": {
+    "result": "climate-change",
+    "reasoning": "Crater + Surface Tension = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+surgery": {
+    "result": "climate-change",
+    "reasoning": "Crater + Surgery = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+sustainability": {
+    "result": "climate-change",
+    "reasoning": "Crater + Sustainability = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+syringe": {
+    "result": "climate-change",
+    "reasoning": "Crater + Syringe = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+therapy": {
+    "result": "climate-change",
+    "reasoning": "Crater + Therapy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+thermocline": {
+    "result": "climate-change",
+    "reasoning": "Crater + Thermocline = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+thermodynamics": {
+    "result": "climate-change",
+    "reasoning": "Crater + Thermodynamics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+time": {
+    "result": "climate-change",
+    "reasoning": "Crater + time = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+torque": {
+    "result": "climate-change",
+    "reasoning": "Crater + Torque = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+toxicity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Toxicity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+transparency": {
+    "result": "climate-change",
+    "reasoning": "Crater + Transparency = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+turbulence": {
+    "result": "climate-change",
+    "reasoning": "Crater + Turbulence = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+vaccine": {
+    "result": "climate-change",
+    "reasoning": "Crater + Vaccine = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+vacuum": {
+    "result": "climate-change",
+    "reasoning": "Crater + Vacuum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+velocity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Velocity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+vibration": {
+    "result": "climate-change",
+    "reasoning": "Crater + Vibration = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+viscosity": {
+    "result": "climate-change",
+    "reasoning": "Crater + Viscosity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+vitamin": {
+    "result": "climate-change",
+    "reasoning": "Crater + Vitamin = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+void": {
+    "result": "climate-change",
+    "reasoning": "Crater + void = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+waste": {
+    "result": "climate-change",
+    "reasoning": "Crater + waste = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+watch": {
+    "result": "climate-change",
+    "reasoning": "Crater + Watch = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+wave": {
+    "result": "climate-change",
+    "reasoning": "Crater + Wave = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+wave-particle-duality": {
+    "result": "climate-change",
+    "reasoning": "Crater + Wave-Particle Duality = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+wavelength": {
+    "result": "climate-change",
+    "reasoning": "Crater + Wavelength = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+wheelchair": {
+    "result": "climate-change",
+    "reasoning": "Crater + Wheelchair = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+x-ray": {
+    "result": "climate-change",
+    "reasoning": "Crater + X Ray = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+yoga": {
+    "result": "climate-change",
+    "reasoning": "Crater + Yoga = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+zero": {
+    "result": "climate-change",
+    "reasoning": "Crater + Zero = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crater+zoology": {
+    "result": "climate-change",
+    "reasoning": "Crater + Zoology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "crystallization+heat": {
+    "result": "thermostat",
+    "reasoning": "Combine Heat with Crystallization to create Thermostat."
   },
   "death+earth": {
     "result": "grave",
     "reasoning": "death and Earth explain the phenomenon of Grave"
   },
-  "death+energy": {
-    "result": "rebirth",
-    "reasoning": "Someone mixed death with Energy for science. The peer-reviewed conclusion: Rebirth."
-  },
-  "death+mud": {
-    "result": "rebirth",
-    "reasoning": "death and Mud shake hands, reality shrugs, and Rebirth is suddenly canon."
-  },
-  "death+ocean": {
-    "result": "rebirth",
-    "reasoning": "death and ocean shake hands, reality shrugs, and Rebirth is suddenly canon."
-  },
-  "death+stone": {
-    "result": "coffin",
-    "reasoning": "When death and Stone collide, logic takes a coffee break and Coffin appears anyway."
-  },
-  "death+wind": {
-    "result": "ghost",
-    "reasoning": "death plus Wind is the weird recipe your alchemist friend swears by for making Ghost."
-  },
-  "decay+earth": {
-    "result": "soil",
-    "reasoning": "Decay meets Earth, chaos files a memo, and Soil walks out with the trophy."
-  },
-  "earth+element": {
-    "result": "carbon",
-    "reasoning": "Earth meets element, chaos files a memo, and Carbon walks out with the trophy."
-  },
-  "earth+magnetism": {
-    "result": "mri",
-    "reasoning": "Earth plus Magnetism is the weird recipe your alchemist friend swears by for making MRI."
-  },
-  "earth+matter": {
-    "result": "mass",
-    "reasoning": "Earth teams up with matter; the side quest reward is mass."
-  },
-  "earth+meditation": {
-    "result": "yoga",
-    "reasoning": "When Earth and Meditation collide, logic takes a coffee break and Yoga appears anyway."
-  },
-  "earth+radiation": {
-    "result": "x-ray",
-    "reasoning": "Earth and Radiation shake hands, reality shrugs, and X Ray is suddenly canon."
-  },
-  "earth+science": {
-    "result": "geology",
-    "reasoning": "Earth and science explain the phenomenon of Geology"
-  },
-  "earth+time": {
-    "result": "root",
-    "reasoning": "Earth plus time is the weird recipe your alchemist friend swears by for making Root."
-  },
-  "earth+wave": {
-    "result": "vibration",
-    "reasoning": "Earth and Wave explain the phenomenon of Vibration"
-  },
-  "electron+energy": {
-    "result": "proton",
-    "reasoning": "Someone mixed Electron with Energy for science. The peer-reviewed conclusion: Proton."
-  },
-  "electron+lightning": {
-    "result": "electron",
-    "reasoning": "Someone mixed Electron with Lightning for science. The peer-reviewed conclusion: Electron."
-  },
-  "electron+pressure": {
-    "result": "nuclear",
-    "reasoning": "Electron teams up with Pressure; the side quest reward is Nuclear."
-  },
-  "element+energy": {
-    "result": "chemical-reaction",
-    "reasoning": "element and Energy accidentally host a crossover episode; Chemical reaction steals the finale."
-  },
-  "element+fire": {
-    "result": "periodic-table",
-    "reasoning": "element combined with Fire leads to Periodic Table"
-  },
-  "element+lightning": {
-    "result": "neon",
-    "reasoning": "element and Lightning explain the phenomenon of Neon"
-  },
-  "element+rain": {
-    "result": "oxygen",
-    "reasoning": "When element and Rain collide, logic takes a coffee break and Oxygen appears anyway."
-  },
-  "element+storm": {
-    "result": "neon",
-    "reasoning": "element plus Storm is the weird recipe your alchemist friend swears by for making Neon."
-  },
-  "element+wind": {
-    "result": "nitrogen",
-    "reasoning": "element and Wind explain the phenomenon of Nitrogen"
-  },
-  "energy+future": {
-    "result": "sustainability",
-    "reasoning": "Energy and Future explain the phenomenon of Sustainability"
-  },
-  "energy+magnetism": {
-    "result": "generator",
-    "reasoning": "Energy and Magnetism accidentally host a crossover episode; Generator steals the finale."
-  },
-  "energy+neutron": {
-    "result": "fission",
-    "reasoning": "Energy and Neutron accidentally host a crossover episode; Fission steals the finale."
-  },
-  "energy+proton": {
-    "result": "element",
-    "reasoning": "When Energy and Proton collide, logic takes a coffee break and element appears anyway."
-  },
-  "energy+science": {
-    "result": "physics",
-    "reasoning": "Energy and science explain the phenomenon of Physics"
-  },
-  "energy+time": {
-    "result": "change",
-    "reasoning": "Energy and time explain the phenomenon of change"
-  },
-  "energy+waste": {
-    "result": "biomass",
-    "reasoning": "Someone mixed Energy with waste for science. The peer-reviewed conclusion: Biomass."
-  },
-  "engineering+water": {
-    "result": "blueprint",
-    "reasoning": "engineering plus Water is the weird recipe your alchemist friend swears by for making Blueprint."
-  },
-  "erosion+time": {
-    "result": "hourglass",
-    "reasoning": "Erosion and time shake hands, reality shrugs, and Hourglass is suddenly canon."
-  },
-  "fire+future": {
-    "result": "sustainability",
-    "reasoning": "Someone mixed Fire with Future for science. The peer-reviewed conclusion: Sustainability."
-  },
-  "fire+proton": {
-    "result": "periodic-table",
-    "reasoning": "Fire and Proton shake hands, reality shrugs, and Periodic Table is suddenly canon."
-  },
-  "fire+science": {
-    "result": "nutrition",
-    "reasoning": "Fire and science shake hands, reality shrugs, and Nutrition is suddenly canon."
-  },
-  "fire+shape": {
-    "result": "cylinder",
-    "reasoning": "Fire meets shape, chaos files a memo, and cylinder walks out with the trophy."
-  },
-  "fire+time": {
-    "result": "ash",
-    "reasoning": "Fire meets time, chaos files a memo, and Ash walks out with the trophy."
-  },
-  "fire+void": {
-    "result": "zero",
-    "reasoning": "Fire and void shake hands, reality shrugs, and Zero is suddenly canon."
-  },
-  "fire+wave": {
-    "result": "antenna",
-    "reasoning": "When Fire and Wave collide, logic takes a coffee break and antenna appears anyway."
-  },
-  "fog+pollution": {
-    "result": "smog",
-    "reasoning": "Fog and Pollution explain the phenomenon of Smog"
-  },
-  "heat+pollution": {
-    "result": "global-warming",
-    "reasoning": "Heat tags in with Pollution, and somehow the universe speedruns Global Warming."
-  },
-  "heat+time": {
-    "result": "rubber",
-    "reasoning": "Heat meets time, chaos files a memo, and Rubber walks out with the trophy."
-  },
-  "land+science": {
-    "result": "zoology",
-    "reasoning": "Someone mixed land with science for science. The peer-reviewed conclusion: Zoology."
-  },
-  "lava+shape": {
-    "result": "block",
-    "reasoning": "Lava and shape accidentally host a crossover episode; block steals the finale."
-  },
-  "lightning+proton": {
-    "result": "neon",
-    "reasoning": "Lightning and Proton accidentally host a crossover episode; Neon steals the finale."
-  },
-  "lightning+time": {
-    "result": "evolution",
-    "reasoning": "Lightning and time shake hands, reality shrugs, and Evolution is suddenly canon."
-  },
-  "line+stone": {
-    "result": "block",
-    "reasoning": "When line and Stone collide, logic takes a coffee break and block appears anyway."
-  },
-  "magnetism+water": {
-    "result": "hydropower",
-    "reasoning": "Magnetism meets Water, chaos files a memo, and Hydropower walks out with the trophy."
-  },
-  "mathematics+stone": {
-    "result": "algebra",
-    "reasoning": "mathematics teams up with Stone; the side quest reward is Algebra."
-  },
-  "mathematics+water": {
-    "result": "diagram",
-    "reasoning": "mathematics and Water accidentally host a crossover episode; Diagram steals the finale."
-  },
-  "medicine+mud": {
-    "result": "antibiotic",
-    "reasoning": "Medicine and Mud shake hands, reality shrugs, and Antibiotic is suddenly canon."
-  },
-  "medicine+stone": {
-    "result": "surgery",
-    "reasoning": "Someone mixed Medicine with Stone for science. The peer-reviewed conclusion: Surgery."
-  },
-  "mountain+time": {
-    "result": "switzerland",
-    "reasoning": "mountain teams up with time; the side quest reward is Switzerland."
-  },
-  "mud+science": {
-    "result": "biology",
-    "reasoning": "Mud meets science, chaos files a memo, and Biology walks out with the trophy."
-  },
-  "mud+waste": {
-    "result": "compost",
-    "reasoning": "Mud teams up with waste; the side quest reward is Compost."
-  },
-  "pollution+steam": {
-    "result": "smog",
-    "reasoning": "When Pollution and Steam collide, logic takes a coffee break and Smog appears anyway."
-  },
-  "pressure+proton": {
-    "result": "nuclear",
-    "reasoning": "Pressure teams up with Proton; the side quest reward is Nuclear."
-  },
-  "proton+wind": {
-    "result": "nitrogen",
-    "reasoning": "Proton and Wind shake hands, reality shrugs, and Nitrogen is suddenly canon."
-  },
-  "rain+science": {
-    "result": "botany",
-    "reasoning": "Rain plus science is the weird recipe your alchemist friend swears by for making Botany."
-  },
-  "sand+time": {
-    "result": "hourglass",
-    "reasoning": "Sand and time explain the phenomenon of Hourglass"
-  },
-  "science+stone": {
-    "result": "experiment",
-    "reasoning": "science and Stone accidentally host a crossover episode; Experiment steals the finale."
-  },
-  "science+weather": {
-    "result": "meteorology",
-    "reasoning": "science and weather explain the phenomenon of Meteorology"
-  },
-  "shape+steam": {
-    "result": "piston",
-    "reasoning": "When shape and Steam collide, logic takes a coffee break and Piston appears anyway."
-  },
-  "shape+stone": {
-    "result": "block",
-    "reasoning": "shape and Stone create block"
-  },
-  "shape+water": {
-    "result": "block",
-    "reasoning": "shape plus Water is the weird recipe your alchemist friend swears by for making block."
-  },
-  "smoke+time": {
+  "dew+diffusion": {
     "result": "climate-change",
-    "reasoning": "Someone mixed Smoke with time for science. The peer-reviewed conclusion: Climate Change."
+    "reasoning": "Dew + Diffusion = Climate Change. The data is in. The planet is warming. Time to act."
   },
-  "stone+time": {
-    "result": "hourglass",
-    "reasoning": "Stone and time accidentally host a crossover episode; Hourglass steals the finale."
+  "dew+direction": {
+    "result": "climate-change",
+    "reasoning": "Dew + direction = Climate Change. The data is in. The planet is warming. Time to act."
   },
-  "stone+wave": {
-    "result": "antenna",
-    "reasoning": "Stone plus Wave is the weird recipe your alchemist friend swears by for making antenna."
+  "dew+distilling": {
+    "result": "climate-change",
+    "reasoning": "Dew + Distilling = Climate Change. The data is in. The planet is warming. Time to act."
   },
-  "time+water": {
-    "result": "frequency",
-    "reasoning": "time and Water shake hands, reality shrugs, and Frequency is suddenly canon."
+  "dew+doppler-effect": {
+    "result": "climate-change",
+    "reasoning": "Dew + Doppler Effect = Climate Change. The data is in. The planet is warming. Time to act."
   },
-  "time+wind": {
-    "result": "dinosaur",
-    "reasoning": "When time and Wind collide, logic takes a coffee break and Dinosaur appears anyway."
+  "dew+drug": {
+    "result": "climate-change",
+    "reasoning": "Dew + Drug = Climate Change. The data is in. The planet is warming. Time to act."
   },
-  "vibration+wind": {
-    "result": "sound",
-    "reasoning": "Vibration teams up with Wind; the side quest reward is sound."
+  "dew+ecology": {
+    "result": "climate-change",
+    "reasoning": "Dew + Ecology = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+economics": {
+    "result": "climate-change",
+    "reasoning": "Dew + Economics = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+elasticity": {
+    "result": "climate-change",
+    "reasoning": "Dew + Elasticity = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+electrolysis": {
+    "result": "climate-change",
+    "reasoning": "Dew + Electrolysis = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+electromagnetic-spectrum": {
+    "result": "climate-change",
+    "reasoning": "Dew + Electromagnetic Spectrum = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+electron": {
+    "result": "climate-change",
+    "reasoning": "Dew + Electron = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+element": {
+    "result": "climate-change",
+    "reasoning": "Dew + element = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+engineering": {
+    "result": "climate-change",
+    "reasoning": "Dew + engineering = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+entropy": {
+    "result": "climate-change",
+    "reasoning": "Dew + Entropy = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+equilibrium": {
+    "result": "climate-change",
+    "reasoning": "Dew + Equilibrium = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+evaporation": {
+    "result": "climate-change",
+    "reasoning": "Dew + Evaporation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+failed-experiment": {
+    "result": "climate-change",
+    "reasoning": "Dew + Failed Experiment = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+fermentation": {
+    "result": "climate-change",
+    "reasoning": "Dew + Fermentation = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+fertilizer": {
+    "result": "climate-change",
+    "reasoning": "Dew + Fertilizer = Climate Change. The data is in. The planet is warming. Time to act."
+  },
+  "dew+fission": {
+    "result": "climate-change",
+    "reasoning": "Dew + Fission = Climate Change. The data is in. The planet is warming. Time to act."
   }
 }

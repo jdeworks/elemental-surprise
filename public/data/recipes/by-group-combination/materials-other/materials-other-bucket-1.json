@@ -1,10 +1,882 @@
 {
-  "building+gold": {
-    "result": "bank",
-    "reasoning": "When building and Gold collide, logic takes a coffee break and Bank appears anyway."
+  "alabaster+building": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + building = Raw Material. Potential energy, waiting for a purpose."
   },
-  "steel+track": {
-    "result": "railway",
-    "reasoning": "Steel plus track is the weird recipe your alchemist friend swears by for making Railway."
+  "alabaster+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+chip": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+cloth": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+fuel": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+furnace": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+oven": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+phone": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alabaster+track": {
+    "result": "raw-material",
+    "reasoning": "Alabaster + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+building": {
+    "result": "skyscraper",
+    "reasoning": "Alloy gives building the strength to reach the sky — Skyscraper."
+  },
+  "alloy+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Alloy + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+chip": {
+    "result": "raw-material",
+    "reasoning": "Alloy + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+cloth": {
+    "result": "raw-material",
+    "reasoning": "Alloy + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+fuel": {
+    "result": "raw-material",
+    "reasoning": "Alloy + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+furnace": {
+    "result": "raw-material",
+    "reasoning": "Alloy + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Alloy + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+oven": {
+    "result": "raw-material",
+    "reasoning": "Alloy + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+phone": {
+    "result": "raw-material",
+    "reasoning": "Alloy + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "alloy+track": {
+    "result": "raw-material",
+    "reasoning": "Alloy + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+building": {
+    "result": "skyscraper",
+    "reasoning": "Aluminum gives building the strength to reach the sky — Skyscraper."
+  },
+  "aluminum+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+chip": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+cloth": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+fuel": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+furnace": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+oven": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+phone": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "aluminum+track": {
+    "result": "raw-material",
+    "reasoning": "Aluminum + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+building": {
+    "result": "raw-material",
+    "reasoning": "Amber + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Amber + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+chip": {
+    "result": "raw-material",
+    "reasoning": "Amber + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+cloth": {
+    "result": "raw-material",
+    "reasoning": "Amber + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+fuel": {
+    "result": "raw-material",
+    "reasoning": "Amber + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+furnace": {
+    "result": "raw-material",
+    "reasoning": "Amber + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Amber + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+oven": {
+    "result": "raw-material",
+    "reasoning": "Amber + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+phone": {
+    "result": "raw-material",
+    "reasoning": "Amber + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "amber+track": {
+    "result": "raw-material",
+    "reasoning": "Amber + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+building": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+chip": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+cloth": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+fuel": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+furnace": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+oven": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+phone": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "asphalt+track": {
+    "result": "raw-material",
+    "reasoning": "Asphalt + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+building": {
+    "result": "raw-material",
+    "reasoning": "Basalt + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Basalt + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+chip": {
+    "result": "raw-material",
+    "reasoning": "Basalt + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+cloth": {
+    "result": "raw-material",
+    "reasoning": "Basalt + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+fuel": {
+    "result": "raw-material",
+    "reasoning": "Basalt + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+furnace": {
+    "result": "raw-material",
+    "reasoning": "Basalt + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Basalt + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+oven": {
+    "result": "raw-material",
+    "reasoning": "Basalt + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+phone": {
+    "result": "raw-material",
+    "reasoning": "Basalt + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "basalt+track": {
+    "result": "raw-material",
+    "reasoning": "Basalt + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+building": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+chip": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+cloth": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+fuel": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+furnace": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+oven": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+phone": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bauxite+track": {
+    "result": "raw-material",
+    "reasoning": "Bauxite + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "blade+cloth": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "bone-ash+building": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+chip": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+cloth": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+fuel": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+furnace": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+oven": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+phone": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-ash+track": {
+    "result": "raw-material",
+    "reasoning": "Bone Ash + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+building": {
+    "result": "raw-material",
+    "reasoning": "Bone China + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Bone China + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+chip": {
+    "result": "raw-material",
+    "reasoning": "Bone China + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+cloth": {
+    "result": "raw-material",
+    "reasoning": "Bone China + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+fuel": {
+    "result": "raw-material",
+    "reasoning": "Bone China + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+furnace": {
+    "result": "raw-material",
+    "reasoning": "Bone China + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Bone China + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+oven": {
+    "result": "raw-material",
+    "reasoning": "Bone China + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+phone": {
+    "result": "raw-material",
+    "reasoning": "Bone China + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bone-china+track": {
+    "result": "raw-material",
+    "reasoning": "Bone China + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+building": {
+    "result": "skyscraper",
+    "reasoning": "Brass gives building the strength to reach the sky — Skyscraper."
+  },
+  "brass+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Brass + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+chip": {
+    "result": "raw-material",
+    "reasoning": "Brass + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+cloth": {
+    "result": "raw-material",
+    "reasoning": "Brass + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+fuel": {
+    "result": "raw-material",
+    "reasoning": "Brass + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+furnace": {
+    "result": "raw-material",
+    "reasoning": "Brass + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Brass + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+oven": {
+    "result": "raw-material",
+    "reasoning": "Brass + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+phone": {
+    "result": "raw-material",
+    "reasoning": "Brass + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brass+track": {
+    "result": "raw-material",
+    "reasoning": "Brass + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+building": {
+    "result": "raw-material",
+    "reasoning": "Brick + building = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Brick + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+chip": {
+    "result": "raw-material",
+    "reasoning": "Brick + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+cloth": {
+    "result": "raw-material",
+    "reasoning": "Brick + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+fuel": {
+    "result": "raw-material",
+    "reasoning": "Brick + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+furnace": {
+    "result": "raw-material",
+    "reasoning": "Brick + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Brick + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+oven": {
+    "result": "raw-material",
+    "reasoning": "Brick + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+phone": {
+    "result": "raw-material",
+    "reasoning": "Brick + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "brick+track": {
+    "result": "raw-material",
+    "reasoning": "Brick + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+building": {
+    "result": "skyscraper",
+    "reasoning": "Bronze gives building the strength to reach the sky — Skyscraper."
+  },
+  "bronze+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Bronze + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+chip": {
+    "result": "raw-material",
+    "reasoning": "Bronze + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+cloth": {
+    "result": "raw-material",
+    "reasoning": "Bronze + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+fuel": {
+    "result": "raw-material",
+    "reasoning": "Bronze + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+furnace": {
+    "result": "raw-material",
+    "reasoning": "Bronze + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Bronze + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+oven": {
+    "result": "raw-material",
+    "reasoning": "Bronze + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+phone": {
+    "result": "raw-material",
+    "reasoning": "Bronze + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "bronze+track": {
+    "result": "raw-material",
+    "reasoning": "Bronze + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "building+canvas": {
+    "result": "museum",
+    "reasoning": "A building preserving canvas — a Museum."
+  },
+  "building+gold": {
+    "result": "treasury",
+    "reasoning": "Combine Building with Gold to create Treasury."
+  },
+  "building+leather": {
+    "result": "tannery",
+    "reasoning": "Combine Building with Leather to create Tannery."
+  },
+  "building+paint": {
+    "result": "museum",
+    "reasoning": "A building preserving Paint — a Museum."
+  },
+  "building+shield": {
+    "result": "armory",
+    "reasoning": "A building storing Shield — an Armory."
+  },
+  "candle+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Candle + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+chip": {
+    "result": "raw-material",
+    "reasoning": "Candle + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+cloth": {
+    "result": "raw-material",
+    "reasoning": "Candle + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+fuel": {
+    "result": "raw-material",
+    "reasoning": "Candle + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+furnace": {
+    "result": "raw-material",
+    "reasoning": "Candle + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Candle + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+oven": {
+    "result": "raw-material",
+    "reasoning": "Candle + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+phone": {
+    "result": "raw-material",
+    "reasoning": "Candle + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "candle+track": {
+    "result": "raw-material",
+    "reasoning": "Candle + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "canvas + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+chip": {
+    "result": "raw-material",
+    "reasoning": "canvas + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+cloth": {
+    "result": "raw-material",
+    "reasoning": "canvas + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+fuel": {
+    "result": "raw-material",
+    "reasoning": "canvas + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+furnace": {
+    "result": "raw-material",
+    "reasoning": "canvas + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "canvas + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+oven": {
+    "result": "raw-material",
+    "reasoning": "canvas + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+phone": {
+    "result": "raw-material",
+    "reasoning": "canvas + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "canvas+track": {
+    "result": "raw-material",
+    "reasoning": "canvas + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+chip": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+cloth": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+fuel": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+furnace": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+oven": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+phone": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cardboard+track": {
+    "result": "raw-material",
+    "reasoning": "Cardboard + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+chip": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+cloth": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+fuel": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+furnace": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+oven": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+phone": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cashmere+track": {
+    "result": "raw-material",
+    "reasoning": "Cashmere + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+chip": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+cloth": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+fuel": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+furnace": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+oven": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+phone": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cellophane+track": {
+    "result": "raw-material",
+    "reasoning": "Cellophane + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+chip": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+cloth": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+fuel": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+furnace": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+oven": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+phone": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "ceramic+track": {
+    "result": "raw-material",
+    "reasoning": "Ceramic + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Chain + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+chip": {
+    "result": "raw-material",
+    "reasoning": "Chain + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+cloth": {
+    "result": "raw-material",
+    "reasoning": "Chain + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+fuel": {
+    "result": "raw-material",
+    "reasoning": "Chain + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+furnace": {
+    "result": "raw-material",
+    "reasoning": "Chain + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Chain + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+oven": {
+    "result": "raw-material",
+    "reasoning": "Chain + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+phone": {
+    "result": "raw-material",
+    "reasoning": "Chain + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chain+track": {
+    "result": "raw-material",
+    "reasoning": "Chain + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Chalk + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+chip": {
+    "result": "raw-material",
+    "reasoning": "Chalk + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+cloth": {
+    "result": "raw-material",
+    "reasoning": "Chalk + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+fuel": {
+    "result": "raw-material",
+    "reasoning": "Chalk + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+furnace": {
+    "result": "raw-material",
+    "reasoning": "Chalk + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Chalk + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+oven": {
+    "result": "raw-material",
+    "reasoning": "Chalk + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+phone": {
+    "result": "raw-material",
+    "reasoning": "Chalk + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chalk+track": {
+    "result": "raw-material",
+    "reasoning": "Chalk + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+chemical-reaction": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + Chemical reaction = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+chip": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + chip = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+cloth": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+fuel": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+furnace": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+oven": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+phone": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "charcoal+track": {
+    "result": "raw-material",
+    "reasoning": "Charcoal + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "chemical-reaction+leather": {
+    "result": "tanning",
+    "reasoning": "Treating leather with chemicals is Tanning"
+  },
+  "chemical-reaction+oil": {
+    "result": "varnish",
+    "reasoning": "Oil and chemicals combine into Varnish"
+  },
+  "chip+copper": {
+    "result": "circuit-board",
+    "reasoning": "Combine Chip with Copper to create Circuit Board."
+  },
+  "cinderblock+cloth": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + cloth = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+fuel": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+furnace": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + Furnace = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+miscellaneous": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + Miscellaneous = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+oven": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + Oven = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+phone": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + Phone = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cinderblock+track": {
+    "result": "raw-material",
+    "reasoning": "Cinderblock + track = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "cloth+paint": {
+    "result": "tapestry",
+    "reasoning": "cloth woven as Paint — a Tapestry."
+  },
+  "coal+fuel": {
+    "result": "raw-material",
+    "reasoning": "Coal + fuel = Raw Material. Potential energy, waiting for a purpose."
+  },
+  "coal+furnace": {
+    "result": "raw-material",
+    "reasoning": "Coal + Furnace = Raw Material. Potential energy, waiting for a purpose."
   }
 }

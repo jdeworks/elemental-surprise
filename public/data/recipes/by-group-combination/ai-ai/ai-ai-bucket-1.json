@@ -1,7 +1,63 @@
 {
-  "ai-art+chat": {
-    "result": "midjourney",
-    "reasoning": "AI Art and Chat shake hands, reality shrugs, and Midjourney is suddenly canon."
+  "adversarial-attack+agent-framework": {
+    "result": "edge-ai",
+    "reasoning": "Combine Agent Framework with Adversarial Attack to create Edge AI."
+  },
+  "adversarial-attack+hallucination": {
+    "result": "agent-framework",
+    "reasoning": "Combine Hallucination with Adversarial Attack to create Agent Framework."
+  },
+  "adversarial-attack+large-language-model": {
+    "result": "foundation-model",
+    "reasoning": "Combine Large Language Model with Adversarial Attack to create Foundation Model."
+  },
+  "agent-framework+big-data": {
+    "result": "data-augmentation",
+    "reasoning": "Combine Big Data with Agent Framework to create Data Augmentation."
+  },
+  "agent-framework+edge-ai": {
+    "result": "safety-filter",
+    "reasoning": "Combine Agent Framework with Edge Ai to create Safety Filter."
+  },
+  "agent-framework+hallucination": {
+    "result": "edge-ai",
+    "reasoning": "Combine Agent Framework with Hallucination to create Edge AI."
+  },
+  "agent-framework+jimmy-api": {
+    "result": "tool-use",
+    "reasoning": "Combine Agent Framework with Jimmy Api to create Tool Use."
+  },
+  "agent-framework+reinforcement-learning": {
+    "result": "tool-use",
+    "reasoning": "Combine Agent Framework with Reinforcement Learning to create Tool Use."
+  },
+  "agent-framework+safety": {
+    "result": "safety-filter",
+    "reasoning": "Combine Agent Framework with Safety to create Safety Filter."
+  },
+  "agent-framework+safety-filter": {
+    "result": "tool-use",
+    "reasoning": "Combine Agent Framework with Safety Filter to create Tool Use."
+  },
+  "agi+big-data": {
+    "result": "classification",
+    "reasoning": "Combine Big Data with Agi to create Classification."
+  },
+  "agi+hallucination-ai": {
+    "result": "hallucination",
+    "reasoning": "Combine Hallucination Ai with Agi to create Hallucination."
+  },
+  "agi+large-language-model": {
+    "result": "overfitting",
+    "reasoning": "Combine Large Language Model with Agi to create Overfitting."
+  },
+  "ai-art+ai-generated-art": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating AI Generated Art in 3D."
+  },
+  "ai-art+big-data": {
+    "result": "encoder",
+    "reasoning": "Combine Big Data with Ai Art to create Encoder."
   },
   "ai-art+chatbot": {
     "result": "midjourney",
@@ -15,45 +71,385 @@
     "result": "dall-e",
     "reasoning": "AI Art enhanced with GPT creates DALL-E"
   },
-  "ai-art+llm": {
-    "result": "dall-e",
-    "reasoning": "When AI Art and LLM collide, logic takes a coffee break and DALL-E appears anyway."
+  "ai-art+hallucination-ai": {
+    "result": "hallucination",
+    "reasoning": "Combine Hallucination Ai with Ai Art to create Hallucination."
+  },
+  "ai-art+jimmy-art": {
+    "result": "rhetoric",
+    "reasoning": "Combine Ai Art with Jimmy Art to create Rhetoric."
   },
   "ai-art+openai": {
     "result": "dall-e",
     "reasoning": "AI Art enhanced with OpenAI creates DALL-E"
   },
-  "ai-art+pioneer": {
-    "result": "dall-e",
-    "reasoning": "AI Art teams up with Pioneer; the side quest reward is DALL-E."
+  "ai-ethics+big-data": {
+    "result": "encoder",
+    "reasoning": "Combine Big Data with Ai Ethics to create Encoder."
+  },
+  "ai-generated-art+ai-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming AI Music — Spotify."
+  },
+  "ai-generated-art+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Jimmy Art in 3D."
+  },
+  "ai-generated-art+knowledge-graph": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + Knowledge Graph = AI — humanity's greatest amplifier."
+  },
+  "ai+ai-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating AI Art in 3D."
+  },
+  "ai+ai-ethics": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + AI Ethics = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+ai-generated-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating AI Generated Art in 3D."
+  },
+  "ai+ai-music": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + AI Music = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+alignment": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Alignment = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+anthropic": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Anthropic = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+artificial-intelligence": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Artificial Intelligence = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+attention": {
-    "result": "transformer",
-    "reasoning": "AI teams up with attention; the side quest reward is Transformer."
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + attention = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+attention-mechanism": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Attention Mechanism = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+backpropagation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Backpropagation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+batch-processing": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Batch Processing = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+benchmark": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Benchmark = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+bias": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Bias = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+big-data": {
+    "result": "classification",
+    "reasoning": "Combine Big Data with Ai to create Classification."
+  },
+  "ai+bioinformatics": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Bioinformatics = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+chain-of-thought": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Chain of Thought = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+chat": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Chat = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+chatbot": {
-    "result": "chatgpt",
-    "reasoning": "AI and Chatbot accidentally host a crossover episode; ChatGPT steals the finale."
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Chatbot = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+chatgpt": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + ChatGPT = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+chatjimmy": {
-    "result": "jimmy-code",
-    "reasoning": "AI and ChatJimmy accidentally host a crossover episode; Jimmy Code steals the finale."
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + ChatJimmy = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+chatjimmy-pro": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + ChatJimmy Pro = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+classification": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Classification = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+claude": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Claude = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+climate-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Climate Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+clustering": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Clustering = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+code-generation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Code Generation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+computer-vision": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Computer Vision = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+context-window": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Context Window = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+conversation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + conversation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+convolutional-network": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Convolutional Network = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+copilot": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Copilot = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+cursor": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Cursor = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+dall-e": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + DALL-E = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+data-augmentation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Data Augmentation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+data-pipeline": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Data Pipeline = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+dataset": {
     "result": "synthetic-data",
     "reasoning": "AI enhanced with Dataset creates Synthetic Data"
   },
+  "ai+decision-tree": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Decision Tree = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+deep-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Deep Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+deepfake": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Deepfake = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+deepmind": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + DeepMind = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+diffusion-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Diffusion Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+edge-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Edge AI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+embedding": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Embedding = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+encoder": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Encoder = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+error-404": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Error 404 = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+federated-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Federated Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+fine-tuning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Fine Tuning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+focus": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + focus = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+foundation-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Foundation Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+gan": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + GAN = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+gemini": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Gemini = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+generative-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Generative AI = an Infinite Loop. The machines are talking to themselves again."
+  },
   "ai+google": {
     "result": "gemini",
     "reasoning": "AI enhanced with Google creates Gemini"
+  },
+  "ai+google-cloud": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Google Cloud = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+gpt": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + GPT = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+gpu": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + GPU = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+gradient-descent": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Gradient Descent = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+graph": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + graph = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+hallucination": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Hallucination = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+hallucination-ai": {
+    "result": "hallucination",
+    "reasoning": "Combine Hallucination Ai with Ai to create Hallucination."
+  },
+  "ai+honesty": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Honesty = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+hyperparameter": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Hyperparameter = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+ide": {
     "result": "cursor",
     "reasoning": "AI integrated into an IDE becomes Cursor"
   },
+  "ai+image-generation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Image Generation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+infinite-loop": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Infinite Loop = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-api": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy API = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating Jimmy Art in 3D."
+  },
+  "ai+jimmy-code": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy Code = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-plugin": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy Plugin = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-search": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy Search = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-translate": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy Translate = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+jimmy-voice": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Jimmy Voice = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+knowledge-graph": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Knowledge Graph = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+large-language-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Large Language Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+latent-space": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Latent Space = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+llm": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + LLM = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+loss-function": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Loss Function = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+machine-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Machine Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+mistral": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Mistral = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+multimodal-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Multimodal AI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+natural-language-processing": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Natural Language Processing = an Infinite Loop. The machines are talking to themselves again."
+  },
   "ai+neural-network": {
-    "result": "deep-learning",
-    "reasoning": "AI teams up with Neural Network; the side quest reward is Deep Learning."
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Neural Network = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+nlp": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + NLP = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+openai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + OpenAI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+overfitting": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Overfitting = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+parallel": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + parallel = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+perceptron": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Perceptron = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+pioneer": {
     "result": "openai",
@@ -63,45 +459,269 @@
     "result": "recommendation",
     "reasoning": "AI enhanced with preference creates Recommendation"
   },
+  "ai+prompt": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Prompt = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+prompt-engineering": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Prompt Engineering = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+rag": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + RAG = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+recipe-bot": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Recipe Bot = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+recommendation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Recommendation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+recurrent-network": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Recurrent Network = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+regularization": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Regularization = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+reinforcement-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Reinforcement Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+retrieval": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Retrieval = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+rlhf": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + RLHF = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+robot-pet": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Robot Pet = an Infinite Loop. The machines are talking to themselves again."
+  },
   "ai+safety": {
     "result": "anthropic",
     "reasoning": "AI focused on safety — that's Anthropic"
+  },
+  "ai+safety-filter": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Safety Filter = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+scaling-law": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Scaling Law = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+self-supervised": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Self-Supervised = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+semantic-search": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Semantic Search = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+sentient-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Sentient AI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+sentiment-analysis": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Sentiment Analysis = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+sigmoid": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Sigmoid = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+singularity": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Singularity = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+smart-material": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Smart Material = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+social-credit": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Social Credit = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+softmax": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Softmax = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+space-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + HAL 9000 = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+sparse-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Sparse Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+speech-recognition": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Speech Recognition = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+superintelligence": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Superintelligence = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+synthetic-data": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Synthetic Data = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+temperature": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Temperature = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+tensor": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Tensor = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+text-generation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Text Generation = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+token": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Token = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+tokenizer": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Tokenizer = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+tool-use": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Tool Use = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+training": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Training = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+transfer-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Transfer Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+translation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Translation = an Infinite Loop. The machines are talking to themselves again."
   },
   "ai+trust": {
     "result": "anthropic",
     "reasoning": "AI enhanced with Trust creates Anthropic"
   },
+  "ai+uncanny-valley": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Uncanny Valley = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+variational-autoencoder": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Variational Autoencoder = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+vector-database": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Vector Database = an Infinite Loop. The machines are talking to themselves again."
+  },
   "ai+virtual-assistant": {
-    "result": "alexa",
-    "reasoning": "AI tags in with Virtual Assistant, and somehow the universe speedruns Alexa."
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Virtual Assistant = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+vision-language-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Vision-Language Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+voice-clone": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Voice Clone = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+word2vec": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Word2Vec = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "ai+zero-shot": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? AI + Zero-Shot = an Infinite Loop. The machines are talking to themselves again."
   },
   "anthropic+chatbot": {
     "result": "claude",
     "reasoning": "Anthropic's helpful AI — Claude"
   },
-  "anthropic+large-language-model": {
-    "result": "claude",
-    "reasoning": "When Anthropic and Large Language Model collide, logic takes a coffee break and Claude appears anyway."
-  },
   "anthropic+llm": {
     "result": "claude",
     "reasoning": "Anthropic enhanced with LLM creates Claude"
   },
-  "artificial-intelligence+dataset": {
-    "result": "synthetic-data",
-    "reasoning": "Artificial Intelligence and Dataset accidentally host a crossover episode; Synthetic Data steals the finale."
+  "attention-mechanism+backpropagation": {
+    "result": "gan",
+    "reasoning": "Combine Attention Mechanism with Backpropagation to create GAN."
   },
-  "artificial-intelligence+preference": {
-    "result": "recommendation",
-    "reasoning": "Artificial Intelligence and preference shake hands, reality shrugs, and Recommendation is suddenly canon."
+  "attention-mechanism+convolutional-network": {
+    "result": "gan",
+    "reasoning": "Combine Attention Mechanism with Convolutional Network to create GAN."
   },
-  "artificial-intelligence+safety": {
-    "result": "anthropic",
-    "reasoning": "When Artificial Intelligence and Safety collide, logic takes a coffee break and Anthropic appears anyway."
+  "attention-mechanism+diffusion-model": {
+    "result": "gan",
+    "reasoning": "Combine Attention Mechanism with Diffusion Model to create GAN."
+  },
+  "attention-mechanism+image-generation": {
+    "result": "convolutional-network",
+    "reasoning": "Combine Image Generation with Attention Mechanism to create Convolutional Network."
+  },
+  "attention+focus": {
+    "result": "attention-mechanism",
+    "reasoning": "Combine Focus with Attention to create Attention Mechanism."
   },
   "attention+neural-network": {
     "result": "transformer",
     "reasoning": "Applying attention to Neural Network produces Transformer"
+  },
+  "backpropagation+convolutional-network": {
+    "result": "recurrent-network",
+    "reasoning": "Combine Convolutional Network with Backpropagation to create Recurrent Network."
+  },
+  "backpropagation+federated-learning": {
+    "result": "self-supervised",
+    "reasoning": "Combine Backpropagation with Federated Learning to create Self-Supervised."
+  },
+  "backpropagation+image-generation": {
+    "result": "convolutional-network",
+    "reasoning": "Combine Image Generation with Backpropagation to create Convolutional Network."
+  },
+  "backpropagation+scaling-law": {
+    "result": "self-supervised",
+    "reasoning": "Combine Backpropagation with Scaling Law to create Self-Supervised."
+  },
+  "batch-processing+big-data": {
+    "result": "classification",
+    "reasoning": "Combine Big Data with Batch Processing to create Classification."
+  },
+  "batch-processing+synthetic-data": {
+    "result": "clustering",
+    "reasoning": "Combine Batch Processing with Synthetic Data to create Clustering."
+  },
+  "big-data+classification": {
+    "result": "data-pipeline",
+    "reasoning": "Combine Big Data with Classification to create Data Pipeline."
+  },
+  "big-data+clustering": {
+    "result": "data-pipeline",
+    "reasoning": "Combine Big Data with Clustering to create Data Pipeline."
+  },
+  "big-data+data-pipeline": {
+    "result": "encoder",
+    "reasoning": "Combine Big Data with Data Pipeline to create Encoder."
+  },
+  "big-data+encoder": {
+    "result": "data-augmentation",
+    "reasoning": "Combine Big Data with Encoder to create Data Augmentation."
+  },
+  "big-data+hallucination": {
+    "result": "data-augmentation",
+    "reasoning": "Combine Big Data with Hallucination to create Data Augmentation."
+  },
+  "big-data+synthetic-data": {
+    "result": "batch-processing",
+    "reasoning": "Combine Big Data with Synthetic Data to create Batch Processing."
   },
   "chatbot+google": {
     "result": "gemini",
@@ -127,52 +747,136 @@
     "result": "jimmy-voice",
     "reasoning": "ChatJimmy enhanced with Voice Clone creates Jimmy Voice"
   },
-  "code-generation+llm": {
-    "result": "jimmy-code",
-    "reasoning": "Code Generation teams up with LLM; the side quest reward is Jimmy Code."
+  "code-generation+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Jimmy Art in 3D."
   },
-  "conversation+large-language-model": {
-    "result": "chat",
-    "reasoning": "conversation plus Large Language Model is the weird recipe your alchemist friend swears by for making Chat."
+  "code-generation+knowledge-graph": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + Knowledge Graph = AI — humanity's greatest amplifier."
+  },
+  "computer-vision+large-language-model": {
+    "result": "nlp",
+    "reasoning": "Combine Computer Vision with Large Language Model to create NLP."
+  },
+  "computer-vision+natural-language-processing": {
+    "result": "nlp",
+    "reasoning": "Combine Computer Vision with Natural Language Processing to create NLP."
+  },
+  "computer-vision+text-generation": {
+    "result": "nlp",
+    "reasoning": "Combine Computer Vision with Text Generation to create NLP."
   },
   "conversation+llm": {
     "result": "chat",
     "reasoning": "conversation enhanced with LLM creates Chat"
   },
-  "dataset+model": {
-    "result": "fine-tuning",
-    "reasoning": "Dataset enhanced with Model creates Fine Tuning"
+  "convolutional-network+neural-network": {
+    "result": "recurrent-network",
+    "reasoning": "Combine Convolutional Network with Neural Network to create Recurrent Network."
   },
-  "dataset+training": {
-    "result": "fine-tuning",
-    "reasoning": "When Dataset and Training collide, logic takes a coffee break and Fine Tuning appears anyway."
+  "copilot+cursor": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Cursor = an Infinite Loop. The machines are talking to themselves again."
   },
-  "google+llm": {
-    "result": "gemini",
-    "reasoning": "Google applying LLM technology creates Gemini"
+  "copilot+dall-e": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + DALL-E = an Infinite Loop. The machines are talking to themselves again."
   },
-  "large-language-model+text-generation": {
-    "result": "gpt",
-    "reasoning": "Large Language Model teams up with Text Generation; the side quest reward is GPT."
+  "copilot+data-augmentation": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Data Augmentation = an Infinite Loop. The machines are talking to themselves again."
   },
-  "llm+openai": {
-    "result": "gpt",
-    "reasoning": "LLM enhanced with OpenAI creates GPT"
+  "copilot+data-pipeline": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Data Pipeline = an Infinite Loop. The machines are talking to themselves again."
   },
-  "llm+pioneer": {
-    "result": "gpt",
-    "reasoning": "LLM and Pioneer shake hands, reality shrugs, and GPT is suddenly canon."
+  "copilot+dataset": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Dataset = an Infinite Loop. The machines are talking to themselves again."
   },
-  "llm+text-generation": {
-    "result": "gpt",
-    "reasoning": "LLM enhanced with Text Generation creates GPT"
+  "copilot+decision-tree": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Decision Tree = an Infinite Loop. The machines are talking to themselves again."
   },
-  "llm+voice-clone": {
-    "result": "jimmy-voice",
-    "reasoning": "Someone mixed LLM with Voice Clone for science. The peer-reviewed conclusion: Jimmy Voice."
+  "copilot+deep-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Deep Learning = an Infinite Loop. The machines are talking to themselves again."
   },
-  "neural-network+neural-network": {
-    "result": "deep-learning",
-    "reasoning": "Neural Network enhanced with Neural Network creates Deep Learning"
+  "copilot+deepfake": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Deepfake = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+deepmind": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + DeepMind = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+diffusion-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Diffusion Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+edge-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Edge AI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+embedding": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Embedding = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+encoder": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Encoder = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+error-404": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Error 404 = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+federated-learning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Federated Learning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+fine-tuning": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Fine Tuning = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+focus": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + focus = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+foundation-model": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Foundation Model = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+gan": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + GAN = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+gemini": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Gemini = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+generative-ai": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Generative AI = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+google": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Google = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+google-cloud": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Google Cloud = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+gpt": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + GPT = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+gpu": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + GPU = an Infinite Loop. The machines are talking to themselves again."
+  },
+  "copilot+gradient-descent": {
+    "result": "infinite-loop",
+    "reasoning": "Two AI things combined? Copilot + Gradient Descent = an Infinite Loop. The machines are talking to themselves again."
   }
 }

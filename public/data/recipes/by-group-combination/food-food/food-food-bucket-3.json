@@ -1,0 +1,882 @@
+{
+  "chocolate+milk": {
+    "result": "mochi",
+    "reasoning": "Chocolate milk — a beloved childhood drink worldwide"
+  },
+  "chocolate+peanut-butter": {
+    "result": "candy",
+    "reasoning": "Reese's cups — the iconic chocolate-PB combo since 1928"
+  },
+  "chocolate+sugar": {
+    "result": "candy",
+    "reasoning": "Chocolate candy — the world's $130 billion confection industry"
+  },
+  "chutney+mango": {
+    "result": "papaya",
+    "reasoning": "Combine Mango with Chutney to create Papaya."
+  },
+  "chutney+vinegar": {
+    "result": "relish",
+    "reasoning": "Combine Vinegar with Chutney to create Relish."
+  },
+  "cider+rice": {
+    "result": "sake",
+    "reasoning": "Combine Rice with Cider to create Sake."
+  },
+  "cider+salt": {
+    "result": "miso",
+    "reasoning": "Combine Salt with Cider to create Miso."
+  },
+  "cider+spice": {
+    "result": "kimchi",
+    "reasoning": "Combine Spice with Cider to create Kimchi."
+  },
+  "cider+sugar": {
+    "result": "rum",
+    "reasoning": "Combine Sugar with Cider to create Rum."
+  },
+  "cobbler+dough": {
+    "result": "mochi",
+    "reasoning": "Combine Dough with Cobbler to create Mochi."
+  },
+  "cobbler+egg-food": {
+    "result": "souffle",
+    "reasoning": "Combine Egg Food with Cobbler to create Souffle."
+  },
+  "cobbler+mango": {
+    "result": "papaya",
+    "reasoning": "Combine Mango with Cobbler to create Papaya."
+  },
+  "cobbler+spice": {
+    "result": "chutney",
+    "reasoning": "Combine Spice with Cobbler to create Chutney."
+  },
+  "cobbler+sugar": {
+    "result": "marmalade",
+    "reasoning": "Combine Sugar with Cobbler to create Marmalade."
+  },
+  "coconut+coffee": {
+    "result": "espresso",
+    "reasoning": "Combine Coffee with Coconut to create Espresso."
+  },
+  "coconut+flour": {
+    "result": "gravy",
+    "reasoning": "Combine Flour with Coconut to create Gravy."
+  },
+  "coconut+gruel": {
+    "result": "whiskey",
+    "reasoning": "Combine Gruel with Coconut to create Whiskey."
+  },
+  "coconut+milk": {
+    "result": "curry",
+    "reasoning": "Coconut milk — the creamy base of Thai and Indian curries"
+  },
+  "coconut+rice": {
+    "result": "sake",
+    "reasoning": "Combine Rice with Coconut to create Sake."
+  },
+  "coconut+rum": {
+    "result": "juice",
+    "reasoning": "Piña colada — rum and coconut, tropical paradise in a glass"
+  },
+  "coconut+sugar": {
+    "result": "lemonade",
+    "reasoning": "Combine Sugar with Coconut to create Lemonade."
+  },
+  "coffee+cream": {
+    "result": "espresso",
+    "reasoning": "Espresso con panna — cream atop a shot of espresso"
+  },
+  "coffee+egg-food": {
+    "result": "tiramisu",
+    "reasoning": "Combine Egg Food with Coffee to create Tiramisu."
+  },
+  "coffee+ice-cream": {
+    "result": "tiramisu",
+    "reasoning": "Affogato — drowning ice cream in espresso"
+  },
+  "coffee+milk": {
+    "result": "espresso",
+    "reasoning": "Latte — espresso softened with steamed milk"
+  },
+  "coffee+sugar": {
+    "result": "espresso",
+    "reasoning": "Sweet espresso — Italians always add sugar to their shot"
+  },
+  "cookie+cream": {
+    "result": "cake",
+    "reasoning": "Oreos — sandwich cookies with cream filling since 1912"
+  },
+  "cookie+ice-cream": {
+    "result": "cake",
+    "reasoning": "Ice cream sandwich — cookies hugging frozen cream"
+  },
+  "corn+cornbread": {
+    "result": "tortilla",
+    "reasoning": "Combine Corn with Cornbread to create Tortilla."
+  },
+  "corn+cracker": {
+    "result": "tortilla",
+    "reasoning": "Combine Corn with Cracker to create Tortilla."
+  },
+  "corn+flour": {
+    "result": "tortilla",
+    "reasoning": "Combine Corn with Flour to create Tortilla."
+  },
+  "corn+salsa": {
+    "result": "nacho",
+    "reasoning": "Chips and salsa — the Mexican appetizer of the Americas"
+  },
+  "corn+salt": {
+    "result": "popcorn",
+    "reasoning": "Salted corn → popcorn — the simplest snack"
+  },
+  "cornbread+egg-food": {
+    "result": "souffle",
+    "reasoning": "Combine Egg Food with Cornbread to create Souffle."
+  },
+  "cracker+dough": {
+    "result": "pretzel",
+    "reasoning": "Combine Dough with Cracker to create Pretzel."
+  },
+  "cracker+egg-food": {
+    "result": "muffin",
+    "reasoning": "Combine Egg Food with Cracker to create Muffin."
+  },
+  "cracker+meat": {
+    "result": "prosciutto",
+    "reasoning": "Combine Meat with Cracker to create Prosciutto."
+  },
+  "cream+egg-food": {
+    "result": "custard",
+    "reasoning": "Crème brûlée starts with eggs and cream"
+  },
+  "cream+garlic": {
+    "result": "aioli",
+    "reasoning": "Garlic cream sauce — the French answer to mayo"
+  },
+  "cream+ice-cream": {
+    "result": "clam-chowder",
+    "reasoning": "Combine Cream with Ice Cream to create Clam Chowder."
+  },
+  "cream+milk": {
+    "result": "butter",
+    "reasoning": "Churning cream from milk creates butter"
+  },
+  "cream+pasta": {
+    "result": "lasagna",
+    "reasoning": "Fettuccine Alfredo — cream makes pasta luxurious"
+  },
+  "cream+potato": {
+    "result": "clam-chowder",
+    "reasoning": "Combine Cream with Potato to create Clam Chowder."
+  },
+  "cream+soup": {
+    "result": "stew",
+    "reasoning": "Cream of mushroom, cream of tomato — cream elevates any soup"
+  },
+  "cream+sugar": {
+    "result": "ice-cream",
+    "reasoning": "Cream + sugar → ice cream — the frozen dessert revolution"
+  },
+  "crepe+egg-food": {
+    "result": "flan",
+    "reasoning": "Combine Egg Food with Crepe to create Flan."
+  },
+  "croissant+dough": {
+    "result": "pretzel",
+    "reasoning": "Combine Dough with Croissant to create Pretzel."
+  },
+  "curry+gumbo": {
+    "result": "paella",
+    "reasoning": "Combine Curry with Gumbo to create Paella."
+  },
+  "curry+rice": {
+    "result": "paella",
+    "reasoning": "Combine Curry with Rice to create Paella."
+  },
+  "curry+soup": {
+    "result": "gumbo",
+    "reasoning": "Combine Soup with Curry to create Gumbo."
+  },
+  "curry+spice": {
+    "result": "guacamole",
+    "reasoning": "Combine Spice with Curry to create Guacamole."
+  },
+  "custard+egg-food": {
+    "result": "eggnog",
+    "reasoning": "Combine Egg Food with Custard to create Eggnog."
+  },
+  "custard+eggnog": {
+    "result": "pudding",
+    "reasoning": "Combine Custard with Eggnog to create Pudding."
+  },
+  "custard+milk": {
+    "result": "pudding",
+    "reasoning": "Combine Custard with Milk to create Pudding."
+  },
+  "custard+sugar": {
+    "result": "marmalade",
+    "reasoning": "Combine Sugar with Custard to create Marmalade."
+  },
+  "dim-sum+dough": {
+    "result": "gyoza",
+    "reasoning": "Combine Dim Sum with Dough to create Gyoza."
+  },
+  "dim-sum+dumpling": {
+    "result": "gyoza",
+    "reasoning": "Combine Dim Sum with Dumpling to create Gyoza."
+  },
+  "dim-sum+gyoza": {
+    "result": "wonton",
+    "reasoning": "Combine Dim Sum with Gyoza to create Wonton."
+  },
+  "dim-sum+meat": {
+    "result": "goulash",
+    "reasoning": "Combine Meat with Dim Sum to create Goulash."
+  },
+  "dim-sum+soup": {
+    "result": "wonton",
+    "reasoning": "Combine Dim Sum with Soup to create Wonton."
+  },
+  "dough+dumpling": {
+    "result": "baklava",
+    "reasoning": "Combine Dough with Dumpling to create Baklava."
+  },
+  "dough+egg-food": {
+    "result": "cobbler",
+    "reasoning": "Combine Dough with Egg Food to create Cobbler."
+  },
+  "dough+granola": {
+    "result": "baklava",
+    "reasoning": "Combine Dough with Granola to create Baklava."
+  },
+  "dough+gyoza": {
+    "result": "pierogi",
+    "reasoning": "Combine Dough with Gyoza to create Pierogi."
+  },
+  "dough+meat": {
+    "result": "dumpling",
+    "reasoning": "Combine Dough with Meat to create Dumpling."
+  },
+  "dough+olive-oil": {
+    "result": "focaccia",
+    "reasoning": "Focaccia — olive oil makes the dough tender and golden"
+  },
+  "dough+potato": {
+    "result": "pierogi",
+    "reasoning": "Combine Dough with Potato to create Pierogi."
+  },
+  "dough+rice": {
+    "result": "mochi",
+    "reasoning": "Combine Dough with Rice to create Mochi."
+  },
+  "dough+salt": {
+    "result": "pretzel",
+    "reasoning": "Combine Dough with Salt to create Pretzel."
+  },
+  "dough+spice": {
+    "result": "naan",
+    "reasoning": "Naan — spiced flatbread baked in a tandoor oven"
+  },
+  "dough+sugar": {
+    "result": "cake",
+    "reasoning": "Combining Dough with sugar makes delicious Cake"
+  },
+  "dough+tomato": {
+    "result": "pizza",
+    "reasoning": "Marinara pizza — the original tomato-on-dough masterpiece"
+  },
+  "dumpling+lasagna": {
+    "result": "spaghetti",
+    "reasoning": "Combine Lasagna with Dumpling to create Spaghetti."
+  },
+  "dumpling+meat": {
+    "result": "kebab",
+    "reasoning": "Combine Meat with Dumpling to create Kebab."
+  },
+  "dumpling+wheat": {
+    "result": "couscous",
+    "reasoning": "Combine Wheat with Dumpling to create Couscous."
+  },
+  "egg-food+eggnog": {
+    "result": "meringue",
+    "reasoning": "Combine Egg Food with Eggnog to create Meringue."
+  },
+  "egg-food+espresso": {
+    "result": "tiramisu",
+    "reasoning": "Combine Egg Food with Espresso to create Tiramisu."
+  },
+  "egg-food+flour": {
+    "result": "cracker",
+    "reasoning": "Combine Flour with Egg Food to create Cracker."
+  },
+  "egg-food+food": {
+    "result": "mousse",
+    "reasoning": "Combine Egg Food with Food to create Mousse."
+  },
+  "egg-food+gravy": {
+    "result": "muffin",
+    "reasoning": "Combine Egg Food with Gravy to create Muffin."
+  },
+  "egg-food+gruel": {
+    "result": "crepe",
+    "reasoning": "Combine Egg Food with Gruel to create Crepe."
+  },
+  "egg-food+hummus": {
+    "result": "aioli",
+    "reasoning": "Combine Egg Food with Hummus to create Aioli."
+  },
+  "egg-food+lemonade": {
+    "result": "muffin",
+    "reasoning": "Combine Egg Food with Lemonade to create Muffin."
+  },
+  "egg-food+maple-syrup": {
+    "result": "flan",
+    "reasoning": "Combine Egg Food with Maple Syrup to create Flan."
+  },
+  "egg-food+marmalade": {
+    "result": "flan",
+    "reasoning": "Combine Egg Food with Marmalade to create Flan."
+  },
+  "egg-food+meat": {
+    "result": "burrito",
+    "reasoning": "Combine Meat with Egg Food to create Burrito."
+  },
+  "egg-food+meringue": {
+    "result": "mousse",
+    "reasoning": "Combine Egg Food with Meringue to create Mousse."
+  },
+  "egg-food+milk": {
+    "result": "custard",
+    "reasoning": "Combine Egg Food with Milk to create Custard."
+  },
+  "egg-food+mousse": {
+    "result": "ramen",
+    "reasoning": "Combine Egg Food with Mousse to create Ramen."
+  },
+  "egg-food+muffin": {
+    "result": "pasta",
+    "reasoning": "Combine Egg Food with Muffin to create Pasta."
+  },
+  "egg-food+mushroom-soup": {
+    "result": "truffle",
+    "reasoning": "Combine Mushroom Soup with Egg Food to create Truffle."
+  },
+  "egg-food+noodle": {
+    "result": "ramen",
+    "reasoning": "Combine Egg Food with Noodle to create Ramen."
+  },
+  "egg-food+olive-oil": {
+    "result": "aioli",
+    "reasoning": "Combine Egg Food with Olive Oil to create Aioli."
+  },
+  "egg-food+pasta": {
+    "result": "crepe",
+    "reasoning": "Combine Egg Food with Pasta to create Crepe."
+  },
+  "egg-food+pecan-pie": {
+    "result": "quiche",
+    "reasoning": "Combine Egg Food with Pecan Pie to create Quiche."
+  },
+  "egg-food+pie": {
+    "result": "quiche",
+    "reasoning": "Combine Egg Food with Pie to create Quiche."
+  },
+  "egg-food+potato": {
+    "result": "omelette",
+    "reasoning": "Spanish tortilla — potato and egg, tapas perfection"
+  },
+  "egg-food+rice": {
+    "result": "omelette",
+    "reasoning": "Omurice — Japanese omelette rice, a comfort food icon"
+  },
+  "egg-food+salt": {
+    "result": "omelette",
+    "reasoning": "A pinch of salt is all an egg needs to become an omelette"
+  },
+  "egg-food+spice": {
+    "result": "eggnog",
+    "reasoning": "Combine Egg Food with Spice to create Eggnog."
+  },
+  "egg-food+sugar": {
+    "result": "custard",
+    "reasoning": "Combine Egg Food with Sugar to create Custard."
+  },
+  "egg-food+tea": {
+    "result": "matcha",
+    "reasoning": "Combine Tea with Egg Food to create Matcha."
+  },
+  "egg-food+tiramisu": {
+    "result": "quiche",
+    "reasoning": "Combine Egg Food with Tiramisu to create Quiche."
+  },
+  "egg-food+truffle": {
+    "result": "omelette",
+    "reasoning": "Truffle omelette — a French luxury in three ingredients"
+  },
+  "eggnog+milk": {
+    "result": "yogurt",
+    "reasoning": "Combine Milk with Eggnog to create Yogurt."
+  },
+  "eggnog+spice": {
+    "result": "guacamole",
+    "reasoning": "Combine Spice with Eggnog to create Guacamole."
+  },
+  "espresso+gruel": {
+    "result": "whiskey",
+    "reasoning": "Combine Gruel with Espresso to create Whiskey."
+  },
+  "falafel+olive": {
+    "result": "olive-oil",
+    "reasoning": "Combine Olive with Falafel to create Olive Oil."
+  },
+  "falafel+olive-oil": {
+    "result": "peanut-butter",
+    "reasoning": "Combine Olive Oil with Falafel to create Peanut Butter."
+  },
+  "falafel+spice": {
+    "result": "kimchi",
+    "reasoning": "Combine Spice with Falafel to create Kimchi."
+  },
+  "farm+wine": {
+    "result": "vineyard",
+    "reasoning": "Combine Farm with Wine to create Vineyard."
+  },
+  "flan+sugar": {
+    "result": "kombucha",
+    "reasoning": "Combine Sugar with Flan to create Kombucha."
+  },
+  "flour+food": {
+    "result": "cracker",
+    "reasoning": "Combine Flour with Food to create Cracker."
+  },
+  "flour+meat": {
+    "result": "gravy",
+    "reasoning": "Combine Flour with Meat to create Gravy."
+  },
+  "flour+milk": {
+    "result": "pancake",
+    "reasoning": "Flour and milk make a Pancake"
+  },
+  "flour+salt": {
+    "result": "cracker",
+    "reasoning": "Combine Flour with Salt to create Cracker."
+  },
+  "flour+sugar": {
+    "result": "cake",
+    "reasoning": "Combining Flour with sugar makes delicious Cake"
+  },
+  "food+meat": {
+    "result": "burrito",
+    "reasoning": "Combine Meat with Food to create Burrito."
+  },
+  "garlic+olive-oil": {
+    "result": "pesto",
+    "reasoning": "Garlic and oil — the Mediterranean flavor base"
+  },
+  "garlic+pasta": {
+    "result": "spaghetti",
+    "reasoning": "Aglio e olio — garlic and pasta, Italy's midnight snack"
+  },
+  "garlic+spice": {
+    "result": "ginger",
+    "reasoning": "Combine Garlic with Spice to create Ginger."
+  },
+  "garlic+tomato": {
+    "result": "salsa",
+    "reasoning": "Salsa — tomatoes and garlic blended into a zesty dip"
+  },
+  "garlic+yogurt": {
+    "result": "tzatziki",
+    "reasoning": "Tzatziki — Greek yogurt-garlic-cucumber sauce"
+  },
+  "gelatin+ginger": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Ginger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+goulash": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Goulash = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+granola": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Granola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+gravy": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Gravy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+greenhouse": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Greenhouse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+gruel": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Gruel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+guacamole": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Guacamole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+gumbo": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Gumbo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+gyoza": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Gyoza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+hamburger": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Hamburger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+harvest": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Harvest = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+hummus": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Hummus = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+ice-cream": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Ice Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+irrigation": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Irrigation = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+jam": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Jam = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+jerky": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Jerky = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+juice": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Juice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+kebab": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Kebab = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+kimchi": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Kimchi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+kombucha": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Kombucha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+lasagna": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Lasagna = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+lawn": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Lawn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+lemonade": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Lemonade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+macaroni": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Macaroni = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mango": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mango = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+maple-syrup": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Maple Syrup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+marmalade": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Marmalade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+matcha": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Matcha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mcdonalds": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + McDonalds = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mead": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mead = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+meat": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+meringue": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Meringue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mezcal": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mezcal = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+milk": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + milk = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+miso": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Miso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mochi": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mochi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mousse": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mousse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+muffin": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Muffin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mushroom-soup": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mushroom Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mystery-casserole": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mystery Casserole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+mystery-meat": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Mystery Meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+naan": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Naan = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+nacho": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Nacho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+noodle": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Noodle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+okra": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Okra = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+olive": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Olive = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+olive-oil": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Olive Oil = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+omelette": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Omelette = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+onion": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Onion = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+paella": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Paella = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pancake": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pancake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+papaya": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Papaya = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pasta": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pasta = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+peanut-butter": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Peanut Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pecan-pie": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pecan Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pepper": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pepper = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pesto": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pesto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pho": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pickle": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pickle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pie": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pierogi": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pierogi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pizza": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pizza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+plow": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Plow = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+popcorn": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Popcorn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+porridge": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Porridge = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+potato": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Potato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+potluck": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Potluck = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pretzel": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pretzel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+prosciutto": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Prosciutto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+pudding": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Pudding = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+quiche": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Quiche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+ramen": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Ramen = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+ravioli": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Ravioli = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+relish": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Relish = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+rice": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + rice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+risotto": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Risotto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+roast": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Roast = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+rum": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Rum = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+sake": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Sake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+salad": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Salad = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+salsa": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Salsa = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+salt": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Salt = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+sandwich": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Sandwich = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+sausage": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Sausage = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+scallop": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Scallop = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+scone": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Scone = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+silo": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Silo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+smoothie": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Smoothie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+sorbet": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Sorbet = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+souffle": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Souffle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+soup": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+sourdough": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Sourdough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+soy-sauce": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Soy Sauce = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+spaghetti": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Spaghetti = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+spice": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Spice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+starbucks": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Starbucks = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "gelatin+steak": {
+    "result": "mystery-casserole",
+    "reasoning": "Gelatin + Steak = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  }
+}

@@ -1,23 +1,299 @@
 {
-  "advertisement+war": {
-    "result": "marketing",
-    "reasoning": "Advertisement meets War, chaos files a memo, and Marketing walks out with the trophy."
+  "actor+army": {
+    "result": "siege",
+    "reasoning": "Combine Army with Actor to create Siege."
+  },
+  "actor+consul": {
+    "result": "centurion",
+    "reasoning": "Combine Consul with Actor to create Centurion."
+  },
+  "actor+empire": {
+    "result": "ottoman",
+    "reasoning": "Combine Empire with Actor to create Ottoman."
+  },
+  "actor+judge": {
+    "result": "jury",
+    "reasoning": "Combine Judge with Actor to create Jury."
+  },
+  "actor+law": {
+    "result": "magna-carta",
+    "reasoning": "Combine Law with Actor to create Magna Carta."
+  },
+  "actor+market": {
+    "result": "bazaar",
+    "reasoning": "Combine Market with Actor to create Bazaar."
+  },
+  "actor+society": {
+    "result": "consul",
+    "reasoning": "Combine Society with Actor to create Consul."
+  },
+  "advertisement+society": {
+    "result": "consul",
+    "reasoning": "Combine Society with Advertisement to create Consul."
+  },
+  "africa+society": {
+    "result": "consul",
+    "reasoning": "Combine Society with Africa to create Consul."
+  },
+  "amphitheater+army": {
+    "result": "barracks",
+    "reasoning": "Combine Army with Amphitheater to create Barracks."
+  },
+  "amphitheater+asylum": {
+    "result": "infirmary",
+    "reasoning": "Combine Asylum with Amphitheater to create Infirmary."
+  },
+  "amphitheater+blacksmith-shop": {
+    "result": "smithy",
+    "reasoning": "Combine Blacksmith Shop with Amphitheater to create Smithy."
+  },
+  "amphitheater+embassy": {
+    "result": "consulate",
+    "reasoning": "Combine Embassy with Amphitheater to create Consulate."
+  },
+  "amphitheater+law": {
+    "result": "parliament",
+    "reasoning": "Combine Law with Amphitheater to create Parliament."
+  },
+  "amphitheater+nation": {
+    "result": "embassy",
+    "reasoning": "Combine Nation with Amphitheater to create Embassy."
+  },
+  "amphitheater+outpost": {
+    "result": "chapel",
+    "reasoning": "Combine Outpost with Amphitheater to create Chapel."
+  },
+  "amphitheater+silk-road": {
+    "result": "toll-booth",
+    "reasoning": "Combine Silk Road with Amphitheater to create Toll Booth."
+  },
+  "amphitheater+society": {
+    "result": "conquistador",
+    "reasoning": "Combine Society with Amphitheater to create Conquistador."
+  },
+  "amphitheater+war": {
+    "result": "bunker",
+    "reasoning": "Combine War with Amphitheater to create Bunker."
+  },
+  "apothecary-shop+asylum": {
+    "result": "infirmary",
+    "reasoning": "Combine Asylum with Apothecary Shop to create Infirmary."
+  },
+  "apothecary-shop+embassy": {
+    "result": "consulate",
+    "reasoning": "Combine Embassy with Apothecary Shop to create Consulate."
+  },
+  "apothecary-shop+forge": {
+    "result": "blacksmith-shop",
+    "reasoning": "Combine Forge with Apothecary Shop to create Blacksmith Shop."
+  },
+  "apothecary-shop+outpost": {
+    "result": "chapel",
+    "reasoning": "Combine Outpost with Apothecary Shop to create Chapel."
+  },
+  "aqueduct+society": {
+    "result": "conquistador",
+    "reasoning": "Combine Society with Aqueduct to create Conquistador."
+  },
+  "architect+society": {
+    "result": "conquistador",
+    "reasoning": "Combine Society with Architect to create Conquistador."
+  },
+  "arena+society": {
+    "result": "utopia",
+    "reasoning": "Combine Society with Arena to create Utopia."
+  },
+  "armory+asylum": {
+    "result": "infirmary",
+    "reasoning": "Combine Asylum with Armory to create Infirmary."
   },
   "army+army": {
     "result": "war",
     "reasoning": "Army and Army together shape War"
   },
-  "army+nation": {
-    "result": "empire",
-    "reasoning": "Someone mixed Army with Nation for science. The peer-reviewed conclusion: Empire."
+  "army+bakery": {
+    "result": "barracks",
+    "reasoning": "Combine Army with Bakery to create Barracks."
+  },
+  "army+barracks": {
+    "result": "garrison",
+    "reasoning": "Combine Army with Barracks to create Garrison."
+  },
+  "army+centurion": {
+    "result": "legionnaire",
+    "reasoning": "Combine Army with Centurion to create Legionnaire."
+  },
+  "army+citadel": {
+    "result": "garrison",
+    "reasoning": "Combine Army with Citadel to create Garrison."
+  },
+  "army+consul": {
+    "result": "legionnaire",
+    "reasoning": "Combine Army with Consul to create Legionnaire."
+  },
+  "army+garrison": {
+    "result": "siege",
+    "reasoning": "Combine Army with Garrison to create Siege."
+  },
+  "army+japan": {
+    "result": "shogun",
+    "reasoning": "A Japanese general is a Shogun"
+  },
+  "army+siege": {
+    "result": "legionnaire",
+    "reasoning": "Combine Army with Siege to create Legionnaire."
+  },
+  "army+society": {
+    "result": "garrison",
+    "reasoning": "Combine Army with Society to create Garrison."
+  },
+  "artist+society": {
+    "result": "utopia",
+    "reasoning": "Combine Society with Artist to create Utopia."
+  },
+  "asylum+bakery": {
+    "result": "orphanage",
+    "reasoning": "Combine Asylum with Bakery to create Orphanage."
+  },
+  "asylum+infirmary": {
+    "result": "orphanage",
+    "reasoning": "Combine Asylum with Infirmary to create Orphanage."
+  },
+  "attic+ballroom": {
+    "result": "boardroom",
+    "reasoning": "Combine Attic with Ballroom to create Boardroom."
+  },
+  "attic+bank-vault": {
+    "result": "boardroom",
+    "reasoning": "Combine Attic with Bank Vault to create Boardroom."
+  },
+  "attic+society": {
+    "result": "boardroom",
+    "reasoning": "Combine Attic with Society to create Boardroom."
+  },
+  "bakery+law": {
+    "result": "parliament",
+    "reasoning": "Combine Law with Bakery to create Parliament."
+  },
+  "bakery+nation": {
+    "result": "embassy",
+    "reasoning": "Combine Nation with Bakery to create Embassy."
+  },
+  "bakery+war": {
+    "result": "bunker",
+    "reasoning": "Combine War with Bakery to create Bunker."
+  },
+  "barracks+consul": {
+    "result": "centurion",
+    "reasoning": "Combine Consul with Barracks to create Centurion."
+  },
+  "barracks+france": {
+    "result": "musketeer",
+    "reasoning": "Combine France with Barracks to create Musketeer."
+  },
+  "barracks+war": {
+    "result": "bunker",
+    "reasoning": "Combine War with Barracks to create Bunker."
+  },
+  "bazaar+tax": {
+    "result": "customs",
+    "reasoning": "Combine Tax with Bazaar to create Customs."
+  },
+  "bazaar+trade": {
+    "result": "caravan",
+    "reasoning": "Combine Trade with Bazaar to create Caravan."
+  },
+  "bell-tower+cathedral": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for Cathedral — a Temple."
+  },
+  "bell-tower+chapel": {
+    "result": "turret",
+    "reasoning": "Combine Bell Tower with Chapel to create Turret."
+  },
+  "bell-tower+citadel": {
+    "result": "keep",
+    "reasoning": "Combine Bell Tower with Citadel to create Keep."
+  },
+  "bell-tower+clock-tower": {
+    "result": "keep",
+    "reasoning": "Combine Bell Tower with Clock Tower to create Keep."
+  },
+  "bell-tower+drawbridge": {
+    "result": "turret",
+    "reasoning": "Combine Bell Tower with Drawbridge to create Turret."
+  },
+  "bell-tower+eiffel-tower": {
+    "result": "clock-tower",
+    "reasoning": "Combine Bell Tower with Eiffel Tower to create Clock Tower."
+  },
+  "bell-tower+keep": {
+    "result": "pagoda",
+    "reasoning": "Combine Bell Tower with Keep to create Pagoda."
+  },
+  "bell-tower+moat": {
+    "result": "turret",
+    "reasoning": "Combine Bell Tower with Moat to create Turret."
+  },
+  "bell-tower+watchtower": {
+    "result": "pagoda",
+    "reasoning": "Combine Bell Tower with Watchtower to create Pagoda."
+  },
+  "blacksmith-shop+coin": {
+    "result": "mint",
+    "reasoning": "Combine Blacksmith Shop with Coin to create Mint."
+  },
+  "blacksmith-shop+forge": {
+    "result": "smithy",
+    "reasoning": "Combine Blacksmith Shop with Forge to create Smithy."
+  },
+  "blacksmith-shop+foundry": {
+    "result": "mint",
+    "reasoning": "Combine Blacksmith Shop with Foundry to create Mint."
   },
   "brand+media": {
     "result": "advertisement",
     "reasoning": "Brand and media together shape Advertisement"
   },
-  "choice+government": {
-    "result": "democracy",
-    "reasoning": "choice meets government, chaos files a memo, and Democracy walks out with the trophy."
+  "caravan+tax": {
+    "result": "customs",
+    "reasoning": "Combine Tax with Caravan to create Customs."
+  },
+  "caravan+trade": {
+    "result": "guild",
+    "reasoning": "Combine Trade with Caravan to create Guild."
+  },
+  "cathedral+clock-tower": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for Cathedral = Temple."
+  },
+  "cathedral+eiffel-tower": {
+    "result": "temple",
+    "reasoning": "A Eiffel Tower for Cathedral = Temple."
+  },
+  "cathedral+inn": {
+    "result": "temple",
+    "reasoning": "A Inn for Cathedral = Temple."
+  },
+  "cathedral+palace": {
+    "result": "temple",
+    "reasoning": "A Palace for Cathedral = Temple."
+  },
+  "cathedral+tavern": {
+    "result": "temple",
+    "reasoning": "A Tavern for Cathedral = Temple."
+  },
+  "centurion+france": {
+    "result": "musketeer",
+    "reasoning": "Combine France with Centurion to create Musketeer."
+  },
+  "citadel+city": {
+    "result": "canal",
+    "reasoning": "Combine City with Citadel to create Canal."
+  },
+  "city+city": {
+    "result": "nation",
+    "reasoning": "Cities united form a nation — civilization scales up"
   },
   "city+flag": {
     "result": "nation",
@@ -27,21 +303,25 @@
     "result": "capital",
     "reasoning": "city and government together shape Capital"
   },
-  "city+law": {
-    "result": "capital",
-    "reasoning": "city plus law is the weird recipe your alchemist friend swears by for making Capital."
-  },
   "city+society": {
-    "result": "capital",
-    "reasoning": "city meets society, chaos files a memo, and Capital walks out with the trophy."
+    "result": "citadel",
+    "reasoning": "Combine City with Society to create Citadel."
   },
   "city+trade": {
     "result": "market",
     "reasoning": "city and trade together shape Market"
   },
-  "city+war": {
-    "result": "empire",
-    "reasoning": "city plus War is the weird recipe your alchemist friend swears by for making Empire."
+  "coin+coin": {
+    "result": "money",
+    "reasoning": "Coins accumulated become money — wealth made countable"
+  },
+  "colosseum+war": {
+    "result": "gladiator",
+    "reasoning": "Roman combat produced Gladiators"
+  },
+  "community+community": {
+    "result": "village",
+    "reasoning": "Communities growing become villages"
   },
   "company+company": {
     "result": "corporation",
@@ -51,116 +331,552 @@
     "result": "stock",
     "reasoning": "company and money together shape Stock"
   },
-  "company+trade": {
-    "result": "corporation",
-    "reasoning": "company plus trade is the weird recipe your alchemist friend swears by for making Corporation."
+  "consul+government": {
+    "result": "republic",
+    "reasoning": "Combine Government with Consul to create Republic."
   },
-  "court+justice": {
-    "result": "judge",
-    "reasoning": "Court meets Justice, chaos files a memo, and Judge walks out with the trophy."
+  "consul+jury": {
+    "result": "tribune",
+    "reasoning": "Combine Consul with Jury to create Tribune."
+  },
+  "consul+republic": {
+    "result": "tribune",
+    "reasoning": "Combine Consul with Republic to create Tribune."
+  },
+  "consul+society": {
+    "result": "tribune",
+    "reasoning": "Combine Consul with Society to create Tribune."
+  },
+  "consul+tribune": {
+    "result": "centurion",
+    "reasoning": "Combine Consul with Tribune to create Centurion."
   },
   "court+lawyer": {
     "result": "judge",
     "reasoning": "Court and Lawyer together shape Judge"
   },
-  "flag+france": {
-    "result": "europe",
-    "reasoning": "Flag plus France is the weird recipe your alchemist friend swears by for making europe."
+  "courthouse+judge": {
+    "result": "prejudice",
+    "reasoning": "Combine Judge with Courthouse to create Prejudice."
   },
-  "flag+nation": {
-    "result": "war",
-    "reasoning": "Flag meets Nation, chaos files a memo, and War walks out with the trophy."
+  "courthouse+law": {
+    "result": "scaling-law",
+    "reasoning": "Combine Law with Courthouse to create Scaling Law."
   },
-  "flag+war": {
-    "result": "empire",
-    "reasoning": "Flag and War shake hands, reality shrugs, and Empire is suddenly canon."
+  "credit-card+crusader": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Crusader = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "france+nation": {
-    "result": "europe",
-    "reasoning": "France and Nation together shape europe"
+  "credit-card+crypt": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Crypt = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "freedom+nation": {
-    "result": "usa",
-    "reasoning": "A nation founded on freedom — the USA"
+  "credit-card+culture": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Culture = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "government+money": {
-    "result": "tax",
-    "reasoning": "government and money together shape Tax"
+  "credit-card+customs": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Customs = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "government+town": {
-    "result": "capital",
-    "reasoning": "government plus Town is the weird recipe your alchemist friend swears by for making Capital."
+  "credit-card+czar": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Czar = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "government+trade": {
-    "result": "tax",
-    "reasoning": "Someone mixed government with trade for science. The peer-reviewed conclusion: Tax."
+  "credit-card+debt": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Debt = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "government+vote": {
-    "result": "democracy",
-    "reasoning": "government and vote together shape Democracy"
+  "credit-card+degree": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Degree = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "justice+lawyer": {
-    "result": "judge",
-    "reasoning": "Someone mixed Justice with Lawyer for science. The peer-reviewed conclusion: Judge."
+  "credit-card+democracy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Democracy = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "justice+society": {
-    "result": "law",
-    "reasoning": "Justice and society together shape law"
+  "credit-card+designer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Designer = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "law+society": {
-    "result": "government",
-    "reasoning": "law and society together shape government"
+  "credit-card+developer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Developer = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "law+village": {
-    "result": "government",
-    "reasoning": "law meets Village, chaos files a memo, and government walks out with the trophy."
+  "credit-card+diplomacy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Diplomacy = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "money+money": {
-    "result": "wealth",
-    "reasoning": "money and money together shape Wealth"
+  "credit-card+director": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Director = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "money+society": {
-    "result": "tax",
-    "reasoning": "money meets society, chaos files a memo, and Tax walks out with the trophy."
+  "credit-card+doctor": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Doctor = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "money+trade": {
-    "result": "profit",
-    "reasoning": "money and trade together shape Profit"
+  "credit-card+drawbridge": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Drawbridge = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "nation+nation": {
-    "result": "war",
-    "reasoning": "Nation and Nation together shape War"
+  "credit-card+egypt": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Egypt = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "nation+revolution": {
-    "result": "europe",
-    "reasoning": "Nation and Revolution shake hands, reality shrugs, and europe is suddenly canon."
+  "credit-card+eiffel-tower": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Eiffel Tower = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "nation+war": {
-    "result": "empire",
-    "reasoning": "Nation and War together shape Empire"
+  "credit-card+embassy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Embassy = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "peace+war": {
-    "result": "peace",
-    "reasoning": "When Peace and War collide, logic takes a coffee break and Peace appears anyway."
+  "credit-card+empire": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Empire = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "society+vote": {
-    "result": "democracy",
-    "reasoning": "society teams up with vote; the side quest reward is Democracy."
+  "credit-card+engineer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Engineer = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "town+town": {
-    "result": "city",
-    "reasoning": "Towns merging become a city"
+  "credit-card+europe": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + europe = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "town+village": {
-    "result": "city",
-    "reasoning": "Town meets Village, chaos files a memo, and city walks out with the trophy."
+  "credit-card+exam": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Exam = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "treaty+war": {
-    "result": "peace",
-    "reasoning": "Treaty and War together shape Peace"
+  "credit-card+farmer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Farmer = Bureaucracy. Please fill out form 27B/6 in triplicate."
   },
-  "village+village": {
-    "result": "town",
-    "reasoning": "Villages growing together become a city"
+  "credit-card+festival": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Festival = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+feudalism": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Feudalism = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+flag": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Flag = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+forge": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Forge = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+foundry": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Foundry = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+france": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + France = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+freedom": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + freedom = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+garrison": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Garrison = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+gatehouse": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Gatehouse = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+germany": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Germany = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+gladiator": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Gladiator = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+government": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + government = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+grammy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Grammy = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+granary": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Granary = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+grand-canyon": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Grand Canyon = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+great-barrier-reef": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Great Barrier Reef = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+great-wall": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Great Wall = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+guild": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Guild = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+harbor": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Harbor = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+homework": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Homework = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+india": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + India = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+industrial-revolution": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Industrial Revolution = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+infirmary": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Infirmary = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+infrastructure": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Infrastructure = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+inn": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Inn = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+inquisition": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Inquisition = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+insurance": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Insurance = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+investment": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Investment = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+italy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Italy = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+japan": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Japan = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+journalist": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Journalist = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+judge": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Judge = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+jury": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Jury = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+justice": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Justice = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+kaiser": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Kaiser = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+keep": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Keep = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+korea": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Korea = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+law": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + law = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+lawyer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Lawyer = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+legionnaire": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Legionnaire = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+loan": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Loan = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+machu-picchu": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Machu Picchu = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+magna-carta": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Magna Carta = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+market": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Market = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+marketing": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Marketing = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+media": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + media = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+mexico": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Mexico = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+mint": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Mint = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+moat": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Moat = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+monarchy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Monarchy = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+monastery": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Monastery = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+money": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + money = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+mortuary": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Mortuary = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+mount-everest": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Mount Everest = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+musician": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Musician = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+musketeer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Musketeer = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+nation": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Nation = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+niagara-falls": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Niagara Falls = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+nobel-prize": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Nobel Prize = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+nurse": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Nurse = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+obelisk": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Obelisk = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+olympic-games": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Olympic Games = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+orphanage": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Orphanage = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+oscar": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Oscar = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+ottoman": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Ottoman = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+outpost": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Outpost = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pagoda": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pagoda = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+palace": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Palace = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+parliament": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Parliament = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+peace": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Peace = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pest-control": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pest Control = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pharaoh": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + pharaoh = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+philosopher": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Philosopher = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pier": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pier = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pilot": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pilot = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pirate-captain": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pirate Captain = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+plantation": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Plantation = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+police": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Police = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+poverty": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Poverty = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+professor": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Professor = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+profit": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Profit = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+programmer": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Programmer = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+prohibition": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Prohibition = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+public-holiday": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Public Holiday = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+pyramids-of-giza": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Pyramids of Giza = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+quarry": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Quarry = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+red-tape": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Red Tape = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+reformation": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Reformation = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+republic": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Republic = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+reservoir": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Reservoir = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+revolution": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Revolution = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+ritual": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Ritual = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+russia": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Russia = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+sawmill": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Sawmill = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+scientist": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Scientist = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+shipyard": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Shipyard = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+shogun": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Shogun = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+siege": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Siege = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+silk-road": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Silk Road = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+smart-city": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Smart City = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+smithy": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Smithy = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+society": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + society = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+space-race": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Space Race = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+spartan": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Spartan = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+stable": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Stable = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+startup": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Startup = Bureaucracy. Please fill out form 27B/6 in triplicate."
+  },
+  "credit-card+statue-of-liberty": {
+    "result": "bureaucracy",
+    "reasoning": "Credit Card + Statue of Liberty = Bureaucracy. Please fill out form 27B/6 in triplicate."
   }
 }

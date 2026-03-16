@@ -1,70 +1,882 @@
 {
+  "aioli+batter": {
+    "result": "tempura",
+    "reasoning": "Combine Batter with Aioli to create Tempura."
+  },
+  "aioli+egg-food": {
+    "result": "brioche",
+    "reasoning": "Combine Egg Food with Aioli to create Brioche."
+  },
+  "aioli+garlic": {
+    "result": "tzatziki",
+    "reasoning": "Combine Aioli with Garlic to create Tzatziki."
+  },
+  "aioli+hummus": {
+    "result": "tzatziki",
+    "reasoning": "Combine Aioli with Hummus to create Tzatziki."
+  },
+  "aioli+yogurt": {
+    "result": "tzatziki",
+    "reasoning": "Combine Aioli with Yogurt to create Tzatziki."
+  },
+  "alcohol+caramel": {
+    "result": "fermentation",
+    "reasoning": "Combine Alcohol with Caramel to create Fermentation."
+  },
+  "alcohol+coconut": {
+    "result": "mead",
+    "reasoning": "Combine Alcohol with Coconut to create Mead."
+  },
+  "alcohol+espresso": {
+    "result": "mead",
+    "reasoning": "Combine Alcohol with Espresso to create Mead."
+  },
+  "alcohol+mead": {
+    "result": "bootlegger",
+    "reasoning": "Combine Alcohol with Mead to create Bootlegger."
+  },
+  "alcohol+sugar": {
+    "result": "fermentation",
+    "reasoning": "Combine Alcohol with Sugar to create Fermentation."
+  },
+  "bagel+bread": {
+    "result": "cornbread",
+    "reasoning": "Combine Bread with Bagel to create Cornbread."
+  },
+  "bagel+butter": {
+    "result": "croissant",
+    "reasoning": "Combine Butter with Bagel to create Croissant."
+  },
+  "bagel+dim-sum": {
+    "result": "gyoza",
+    "reasoning": "Combine Dim Sum with Bagel to create Gyoza."
+  },
+  "bagel+dough": {
+    "result": "cobbler",
+    "reasoning": "Combine Dough with Bagel to create Cobbler."
+  },
+  "bagel+dumpling": {
+    "result": "dim-sum",
+    "reasoning": "Combine Dumpling with Bagel to create Dim Sum."
+  },
+  "bagel+egg-food": {
+    "result": "brioche",
+    "reasoning": "Combine Egg Food with Bagel to create Brioche."
+  },
+  "baklava+dim-sum": {
+    "result": "wonton",
+    "reasoning": "Combine Dim Sum with Baklava to create Wonton."
+  },
+  "baklava+dough": {
+    "result": "pierogi",
+    "reasoning": "Combine Dough with Baklava to create Pierogi."
+  },
+  "baklava+dumpling": {
+    "result": "dim-sum",
+    "reasoning": "Combine Dumpling with Baklava to create Dim Sum."
+  },
+  "baklava+pie": {
+    "result": "pecan-pie",
+    "reasoning": "Combine Pie with Baklava to create Pecan Pie."
+  },
+  "batter+chocolate": {
+    "result": "cake",
+    "reasoning": "Chocolate batter → the world's favorite cake"
+  },
+  "batter+egg-food": {
+    "result": "waffle",
+    "reasoning": "Combine Batter with Egg Food to create Waffle."
+  },
+  "batter+milk": {
+    "result": "crepe",
+    "reasoning": "Thin milk batter → crêpes, France's street food"
+  },
+  "batter+olive-oil": {
+    "result": "tempura",
+    "reasoning": "Combine Batter with Olive Oil to create Tempura."
+  },
+  "batter+sugar": {
+    "result": "waffle",
+    "reasoning": "Sweet batter → waffles, the Belgian breakfast"
+  },
+  "beer+bread": {
+    "result": "sourdough",
+    "reasoning": "Ancient Egyptians used the same yeast for beer and bread"
+  },
+  "beer+wheat": {
+    "result": "brewing",
+    "reasoning": "Grain becomes beer through Brewing"
+  },
+  "biscuit+bread": {
+    "result": "naan",
+    "reasoning": "Combine Bread with Biscuit to create Naan."
+  },
+  "biscuit+egg-food": {
+    "result": "brioche",
+    "reasoning": "Combine Egg Food with Biscuit to create Brioche."
+  },
   "bread+bread": {
     "result": "sandwich",
     "reasoning": "Combining Bread with Bread makes delicious Sandwich"
+  },
+  "bread+brioche": {
+    "result": "focaccia",
+    "reasoning": "Combine Bread with Brioche to create Focaccia."
+  },
+  "bread+bruschetta": {
+    "result": "focaccia",
+    "reasoning": "Combine Bread with Bruschetta to create Focaccia."
+  },
+  "bread+butter": {
+    "result": "toast",
+    "reasoning": "Buttered toast — humanity's simplest and most satisfying breakfast"
+  },
+  "bread+caviar": {
+    "result": "bruschetta",
+    "reasoning": "Caviar on toast — the luxury canapé of Russian aristocrats"
+  },
+  "bread+cheese": {
+    "result": "sandwich",
+    "reasoning": "Grilled cheese — the ultimate comfort food sandwich"
+  },
+  "bread+chocolate": {
+    "result": "crepe",
+    "reasoning": "Pain au chocolat — French bakers put chocolate in everything"
+  },
+  "bread+cobbler": {
+    "result": "naan",
+    "reasoning": "Combine Bread with Cobbler to create Naan."
+  },
+  "bread+corn": {
+    "result": "cornbread",
+    "reasoning": "Combine Bread with Corn to create Cornbread."
+  },
+  "bread+cornbread": {
+    "result": "bakery",
+    "reasoning": "Combine Bread with Cornbread to create Bakery."
+  },
+  "bread+dough": {
+    "result": "bagel",
+    "reasoning": "Combine Bread with Dough to create Bagel."
+  },
+  "bread+egg-food": {
+    "result": "bagel",
+    "reasoning": "Combine Bread with Egg Food to create Bagel."
+  },
+  "bread+garlic": {
+    "result": "bruschetta",
+    "reasoning": "Garlic bread — the irresistible sidekick to every Italian meal"
+  },
+  "bread+gravy": {
+    "result": "stew",
+    "reasoning": "Bread soaked in gravy — the working-class feast"
+  },
+  "bread+hummus": {
+    "result": "falafel",
+    "reasoning": "Hummus on pita bread — the Middle Eastern lunch staple"
   },
   "bread+meat": {
     "result": "hamburger",
     "reasoning": "Combining Bread with meat makes delicious Hamburger"
   },
+  "bread+olive": {
+    "result": "bruschetta",
+    "reasoning": "Combine Bread with Olive to create Bruschetta."
+  },
+  "bread+olive-oil": {
+    "result": "bruschetta",
+    "reasoning": "Combine Bread with Olive Oil to create Bruschetta."
+  },
+  "bread+onion": {
+    "result": "focaccia",
+    "reasoning": "Onion focaccia — caramelized onions on Italian bread"
+  },
+  "bread+peanut-butter": {
+    "result": "sandwich",
+    "reasoning": "Peanut butter sandwich — 3 ingredients, infinite nostalgia"
+  },
+  "bread+pickle": {
+    "result": "sandwich",
+    "reasoning": "Pickle on a sandwich — the deli essential"
+  },
+  "bread+prosciutto": {
+    "result": "sandwich",
+    "reasoning": "Prosciutto on crusty bread — the Italian panino"
+  },
+  "bread+soup": {
+    "result": "stew",
+    "reasoning": "Bread thickens soup into stew — medieval potage"
+  },
   "bread+spice": {
     "result": "taco",
     "reasoning": "Combining Bread with Spice makes delicious Taco"
   },
-  "bread+wheat": {
-    "result": "sandwich",
-    "reasoning": "When Bread and wheat collide, logic takes a coffee break and Sandwich appears anyway."
+  "bread+tomato": {
+    "result": "bruschetta",
+    "reasoning": "Combine Bread with Tomato to create Bruschetta."
   },
-  "cheese+dough": {
-    "result": "pizza",
-    "reasoning": "Combining cheese with Dough makes delicious Pizza"
+  "brioche+egg-food": {
+    "result": "crepe",
+    "reasoning": "Combine Egg Food with Brioche to create Crepe."
   },
-  "cheese+flour": {
-    "result": "pizza",
-    "reasoning": "cheese tags in with Flour, and somehow the universe speedruns Pizza."
+  "broth+egg-food": {
+    "result": "ramen",
+    "reasoning": "Combine Egg Food with Broth to create Ramen."
   },
-  "dough+sugar": {
-    "result": "cake",
-    "reasoning": "Combining Dough with sugar makes delicious Cake"
+  "broth+garlic": {
+    "result": "soup",
+    "reasoning": "Garlic broth — the French cure for everything"
   },
-  "flour+meat": {
-    "result": "hamburger",
-    "reasoning": "Someone mixed Flour with meat for science. The peer-reviewed conclusion: Hamburger."
+  "broth+meat": {
+    "result": "stew",
+    "reasoning": "Meat broth becomes stew — slow-cooked perfection"
   },
-  "flour+spice": {
-    "result": "taco",
-    "reasoning": "Flour plus Spice is the weird recipe your alchemist friend swears by for making Taco."
+  "broth+noodle": {
+    "result": "pho",
+    "reasoning": "Combine Broth with Noodle to create Pho."
   },
-  "flour+sugar": {
-    "result": "cake",
-    "reasoning": "Combining Flour with sugar makes delicious Cake"
+  "broth+pasta": {
+    "result": "ramen",
+    "reasoning": "Noodle soup — pasta in broth is comfort in every culture"
   },
-  "meat+spice": {
-    "result": "sausage",
-    "reasoning": "Combining meat with Spice makes delicious Sausage"
+  "broth+ramen": {
+    "result": "pho",
+    "reasoning": "Combine Broth with Ramen to create Pho."
   },
-  "meat+wheat": {
-    "result": "hamburger",
-    "reasoning": "meat tags in with wheat, and somehow the universe speedruns Hamburger."
+  "broth+rice": {
+    "result": "porridge",
+    "reasoning": "Congee/porridge — rice simmered in broth, the comfort food of Asia"
   },
-  "rice+salad": {
-    "result": "korea",
-    "reasoning": "Someone mixed rice with Salad for science. The peer-reviewed conclusion: Korea."
+  "broth+spice": {
+    "result": "pho",
+    "reasoning": "Pho — Vietnamese spiced broth simmered for 24 hours"
   },
-  "rice+stew": {
-    "result": "korea",
-    "reasoning": "When rice and Stew collide, logic takes a coffee break and Korea appears anyway."
+  "bruschetta+burrito": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Burrito = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
-  "salad+soup": {
-    "result": "technology",
-    "reasoning": "Someone mixed Salad with Soup for science. The peer-reviewed conclusion: technology."
+  "bruschetta+butter": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
-  "salad+stew": {
-    "result": "technology",
-    "reasoning": "Applying Salad to Stew produces technology"
+  "bruschetta+cake": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
-  "sugar+wheat": {
-    "result": "cake",
-    "reasoning": "sugar teams up with wheat; the side quest reward is Cake."
+  "bruschetta+candy": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Candy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+caramel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Caramel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+caviar": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Caviar = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ceviche": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ceviche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cheese": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + cheese = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chili": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chili = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chocolate": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chocolate = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chutney": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chutney = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cider": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cider = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+clam-chowder": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Clam Chowder = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cobbler": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cobbler = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coca-cola": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coca Cola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coconut": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coconut = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coffee": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coffee = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cookbook": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cookbook = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cookie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cookie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cooking": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cooking = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+corn": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Corn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cornbread": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cornbread = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+couscous": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Couscous = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cracker": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cracker = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cream": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+crepe": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Crepe = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+croissant": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Croissant = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+curry": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Curry = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+custard": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Custard = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dim-sum": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dim Sum = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dough": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dumpling": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dumpling = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+egg-food": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Egg Food = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+eggnog": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Eggnog = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+espresso": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Espresso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+falafel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Falafel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+farm": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + farm = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+fermenting": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fermenting = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+fishing": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fishing = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+flan": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Flan = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+flour": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Flour = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+focaccia": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Focaccia = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+fondue": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fondue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+food": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + food = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+food-coma": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Food Coma = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+foraging": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Foraging = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+garden": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Garden = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+garlic": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Garlic = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gelatin": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gelatin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ginger": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ginger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+goulash": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Goulash = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+granola": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Granola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gravy": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gravy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+greenhouse": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Greenhouse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gruel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gruel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+guacamole": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Guacamole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gumbo": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gumbo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gyoza": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gyoza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+hamburger": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Hamburger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+harvest": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Harvest = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+hummus": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Hummus = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ice-cream": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ice Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+irrigation": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Irrigation = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+jam": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Jam = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+jerky": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Jerky = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+juice": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Juice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+kebab": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Kebab = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+kimchi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Kimchi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+kombucha": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Kombucha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+lasagna": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Lasagna = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+lawn": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Lawn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+lemonade": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Lemonade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+macaroni": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Macaroni = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mango": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mango = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+maple-syrup": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Maple Syrup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+marmalade": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Marmalade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+matcha": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Matcha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mcdonalds": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + McDonalds = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mead": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mead = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+meat": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+meringue": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Meringue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mezcal": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mezcal = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+milk": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + milk = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+miso": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Miso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mochi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mochi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mousse": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mousse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+muffin": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Muffin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mushroom-soup": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mushroom Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mystery-casserole": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mystery Casserole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mystery-meat": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mystery Meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+naan": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Naan = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+nacho": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Nacho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+noodle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Noodle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+okra": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Okra = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+olive": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Olive = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+olive-oil": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Olive Oil = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+omelette": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Omelette = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+onion": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Onion = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+paella": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Paella = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pancake": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pancake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+papaya": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Papaya = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pasta": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pasta = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+peanut-butter": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Peanut Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pecan-pie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pecan Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pepper": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pepper = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pesto": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pesto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pho": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pickle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pickle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pierogi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pierogi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pizza": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pizza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+plow": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Plow = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+popcorn": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Popcorn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+porridge": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Porridge = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+potato": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Potato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+potluck": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Potluck = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pretzel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pretzel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+prosciutto": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Prosciutto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pudding": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pudding = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+quiche": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Quiche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ramen": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ramen = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ravioli": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ravioli = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+relish": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Relish = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+rice": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + rice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+risotto": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Risotto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+roast": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Roast = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+rum": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Rum = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sake": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+salad": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Salad = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+salsa": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Salsa = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+salt": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Salt = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sandwich": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sandwich = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sausage": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sausage = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+scallop": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Scallop = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+scone": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Scone = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+silo": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Silo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+smoothie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Smoothie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sorbet": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sorbet = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+souffle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Souffle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+soup": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sourdough": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sourdough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+soy-sauce": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Soy Sauce = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+spaghetti": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Spaghetti = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+spice": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Spice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+starbucks": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Starbucks = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+steak": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Steak = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+stew": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Stew = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+stomach-ache": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Stomach Ache = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sugar": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + sugar = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sushi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sushi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+taco": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Taco = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+taffy": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Taffy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tea": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tea = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tempura": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tempura = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tiramisu": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tiramisu = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+toast": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Toast = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tofu": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tofu = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   }
 }

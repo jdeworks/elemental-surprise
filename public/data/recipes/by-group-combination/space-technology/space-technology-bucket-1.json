@@ -1,62 +1,882 @@
 {
-  "alien+antenna": {
-    "result": "seti",
-    "reasoning": "Alien teams up with antenna; the side quest reward is SETI."
-  },
   "alien+radio": {
     "result": "seti",
     "reasoning": "Alien and Radio combine in the cosmos to create SETI"
   },
-  "computer+mars": {
-    "result": "mars-rover",
-    "reasoning": "Computer and Mars shake hands, reality shrugs, and Mars Rover is suddenly canon."
+  "asteroid-belt+dark-web": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Dark Web — a Black Hole, where not even light escapes."
   },
-  "day+stack": {
-    "result": "queue",
-    "reasoning": "Day teams up with Stack; the side quest reward is Queue."
+  "asteroid+dark-web": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Dark Web — a Black Hole, where not even light escapes."
   },
-  "electricity+sun": {
-    "result": "solar-panel",
-    "reasoning": "Electricity meets sun, chaos files a memo, and Solar Panel walks out with the trophy."
+  "binary-star+dark-web": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into Dark Web — a Black Hole, where not even light escapes."
   },
-  "internet+night": {
-    "result": "dark-web",
-    "reasoning": "internet and Night accidentally host a crossover episode; Dark Web steals the finale."
+  "binary-star+navigation": {
+    "result": "astrolabe",
+    "reasoning": "Combine Binary Star with Navigation to create Astrolabe."
   },
-  "internet+orbit": {
-    "result": "starlink",
-    "reasoning": "internet teams up with Orbit; the side quest reward is Starlink."
+  "binary+binary-star": {
+    "result": "perceptron",
+    "reasoning": "Combine Binary with Binary Star to create Perceptron."
+  },
+  "circuit+gravitational-wave": {
+    "result": "oscillator",
+    "reasoning": "Combine Circuit with Gravitational Wave to create Oscillator."
+  },
+  "circuit+gravity-wave": {
+    "result": "oscillator",
+    "reasoning": "Combine Circuit with Gravity Wave to create Oscillator."
+  },
+  "cloud-computing+sun": {
+    "result": "oort-cloud",
+    "reasoning": "Combine Sun with Cloud Computing to create Oort Cloud."
+  },
+  "comet+dark-web": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Dark Web — a Black Hole, where not even light escapes."
+  },
+  "constellation+dark-web": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Dark Web — a Black Hole, where not even light escapes."
+  },
+  "cosmic-ray+screen": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Combine Screen with Cosmic Ray to create Cathode Ray Tube."
+  },
+  "dark-energy+dynamo": {
+    "result": "flywheel",
+    "reasoning": "Combine Dark Energy with Dynamo to create Flywheel."
+  },
+  "dark-energy+gyroscope": {
+    "result": "flywheel",
+    "reasoning": "Combine Dark Energy with Gyroscope to create Flywheel."
+  },
+  "dark-matter+dark-web": {
+    "result": "basalt",
+    "reasoning": "Combine Dark Matter with Dark Web to create Basalt."
+  },
+  "fiber-optic+space-wrench": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "galaxy+smart-home": {
+    "result": "milky-way",
+    "reasoning": "Combine Galaxy with Smart Home to create Milky Way."
+  },
+  "gyroscope+planetary-ring": {
+    "result": "gimbal",
+    "reasoning": "Combine Gyroscope with Planetary Ring to create Gimbal."
+  },
+  "gyroscope+ring": {
+    "result": "gimbal",
+    "reasoning": "Combine Gyroscope with Ring to create Gimbal."
+  },
+  "hubble-telescope+radar": {
+    "result": "radio-telescope",
+    "reasoning": "Combine Hubble Telescope with Radar to create Radio Telescope."
+  },
+  "hubble-telescope+radio": {
+    "result": "radio-telescope",
+    "reasoning": "Combine Hubble Telescope with Radio to create Radio Telescope."
   },
   "mars+robot": {
     "result": "mars-rover",
     "reasoning": "Mars and Robot combine in the cosmos to create Mars Rover"
   },
-  "night+stack": {
-    "result": "queue",
-    "reasoning": "Night meets Stack, chaos files a memo, and Queue walks out with the trophy."
+  "message+space-probe": {
+    "result": "voyager-probe",
+    "reasoning": "Combine Space Probe with Message to create Voyager Probe."
   },
-  "online+space": {
-    "result": "offline",
-    "reasoning": "Online and space shake hands, reality shrugs, and Offline is suddenly canon."
+  "metal-detector+space-wrench": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
   },
-  "planet+radio": {
-    "result": "seti",
-    "reasoning": "Someone mixed Planet with Radio for science. The peer-reviewed conclusion: SETI."
+  "meteor+metronome": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Metronome = a Space Telescope. JWST cost $10B and worth every penny."
   },
-  "semiconductor+sun": {
-    "result": "solar-panel",
-    "reasoning": "Applying Semiconductor to sun produces Solar Panel"
+  "meteor+microchip": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Microchip = a Space Telescope. JWST cost $10B and worth every penny."
   },
-  "sky+social-media": {
-    "result": "twitter",
-    "reasoning": "Sky and Social Media accidentally host a crossover episode; Twitter steals the finale."
+  "meteor+micrometer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Micrometer = a Space Telescope. JWST cost $10B and worth every penny."
   },
-  "solar-panel+space": {
-    "result": "matter",
-    "reasoning": "Solar Panel meets space, chaos files a memo, and matter walks out with the trophy."
+  "meteor+microphone": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Microphone = a Space Telescope. JWST cost $10B and worth every penny."
   },
-  "solar-panel+sun": {
-    "result": "energy",
-    "reasoning": "Solar panels convert sunlight directly into energy"
+  "meteor+microservice": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Microservice = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+midjourney": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Midjourney = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+modem": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Modem = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+monitor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Monitor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+morse-code": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Morse Code = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+motion-sensor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Motion Sensor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+mouse-device": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Mouse Device = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+multimeter": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Multimeter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+name": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + name = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+navigation": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Navigation = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+neon-sign": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Neon Sign = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+netflix": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Netflix = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+network": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Network = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+neural-link": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Neural Link = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+neuralink": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Neuralink = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+newsletter": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Newsletter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+nft": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + NFT = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+notification": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Notification = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+nuclear-reactor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Nuclear Reactor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+object": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Object = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+offline": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Offline = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+online": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Online = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+open-source": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Open Source = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+operating-system": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Operating System = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+oscillator": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Oscillator = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+oscilloscope": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Oscilloscope = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+particle-accelerator": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Particle Accelerator = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+password": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Password = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+pattern": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + pattern = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+periscope": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Periscope = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+phishing": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Phishing = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+phonograph": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Phonograph = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+photodiode": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Photodiode = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+piezoelectric": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Piezoelectric = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+pixel": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Pixel = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+pneumatic": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Pneumatic = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+podcast": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Podcast = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+polymorphism": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Polymorphism = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+post": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Post = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+post-office": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Post Office = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+potentiometer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Potentiometer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+power-grid": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Power Grid = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+power-plant": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Power Plant = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+power-strip": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Power Strip = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+press": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + press = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+pressure-cooker": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Pressure Cooker = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+printer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Printer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+printing": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Printing = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+privacy": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Privacy = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+processor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Processor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+product": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + product = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+profile": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Profile = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+program": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Program = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+propane-tank": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Propane Tank = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+python": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Python = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+qr-code": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + QR Code = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+quantum-computer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Quantum Computer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+queue": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Queue = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+radar": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Radar = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+radiator": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Radiator = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+radio": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Radio = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+ram": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + RAM = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+ransomware": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Ransomware = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+record-player": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Record Player = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+recursion": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Recursion = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+reddit": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Reddit = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+regex": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Regex = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+relay": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Relay = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+remote": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Remote = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+resistor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Resistor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+resolution": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Resolution = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+rest-api": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + REST API = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+robot": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Robot = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+router": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Router = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+saas": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + SaaS = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+screen": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + screen = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+scuba": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + SCUBA = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+search-engine": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Search Engine = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+self-driving-car": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Self Driving Car = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+selfie": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Selfie = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+semiconductor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Semiconductor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+sensor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Sensor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+server": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Server = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+share": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Share = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+signal": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Signal = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+sim-card": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + SIM Card = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+siri": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Siri = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+slack": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Slack = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+smart-contract": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Smart Contract = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+smart-home": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Smart Home = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+smart-speaker": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Smart Speaker = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+smartphone": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Smartphone = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+smartwatch": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Smartwatch = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+snowmobile": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Snowmobile = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+social-media": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Social Media = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+software": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + software = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+solar-panel": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Solar Panel = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+sonar": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Sonar = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+sort": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Sort = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+spacex": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + SpaceX = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+spam": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Spam = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+speaker": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Speaker = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+spectroscope": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Spectroscope = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+spotify": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Spotify = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+ssd": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + SSD = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+stable-diffusion": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Stable Diffusion = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+stack": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Stack = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+stack-overflow": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Stack Overflow = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+stamp": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Stamp = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+starlink": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Starlink = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+steam-engine": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Steam Engine = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+streaming": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Streaming = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+supercomputer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Supercomputer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+synthesizer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Synthesizer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tablet": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Tablet = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+technical-debt": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Technical Debt = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+technology": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + technology = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+telegram": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Telegram = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+telegraph": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Telegraph = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+telephone": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Telephone = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+teletype": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Teletype = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+television": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Television = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tesla": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Tesla = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tesla-coil": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Tesla Coil = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+thermostat": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Thermostat = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tiktok": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + TikTok = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Tor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+touchscreen": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Touchscreen = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+transformer": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Transformer = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+transistor": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Transistor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+tree-data": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Tree Data = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+troll-internet": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Troll Internet = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+twitter": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Twitter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+typewriter": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Typewriter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+uber": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Uber = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+upload": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Upload = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+url": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + URL = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+usb": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + USB = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+vacuum-tube": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Vacuum Tube = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+variable": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Variable = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+version": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Version = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+video": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + video = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+viral": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Viral = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+viral-video": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Viral Video = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+vlog": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Vlog = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+voltage": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Voltage = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+voltaic-pile": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Voltaic Pile = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+voltmeter": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Voltmeter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+vpn": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + VPN = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+vr-headset": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + VR Headset = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+water-wheel": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Water Wheel = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wearable": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wearable = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+weather-app": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Weather App = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+web-page": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Web Page = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+web3": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Web3 = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+webcam": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Webcam = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+website": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Website = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+welding-torch": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Welding Torch = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wi-fi": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wi-Fi = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wifi": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + WiFi = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wiki": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wiki = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wikipedia": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wikipedia = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wildlife-camera": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wildlife Camera = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+wind-turbine": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Wind Turbine = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+windows-os": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Windows OS = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+x-ray-machine": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + X-Ray Machine = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+xml": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + XML = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+youtube": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + YouTube = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+zeppelin": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Zeppelin = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "meteor+zoom": {
+    "result": "space-telescope",
+    "reasoning": "Meteor + Zoom = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+modem": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Modem = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+monitor": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Monitor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+morse-code": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Morse Code = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+motion-sensor": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Motion Sensor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+mouse-device": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Mouse Device = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+multimeter": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Multimeter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+name": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + name = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+navigation": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Navigation = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+neon-sign": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Neon Sign = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+netflix": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Netflix = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+network": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Network = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+neural-link": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Neural Link = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+neuralink": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Neuralink = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+newsletter": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Newsletter = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+nft": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + NFT = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+notification": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Notification = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+nuclear-reactor": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Nuclear Reactor = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+object": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Object = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+offline": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Offline = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+online": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Online = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+open-source": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Open Source = a Space Telescope. JWST cost $10B and worth every penny."
+  },
+  "milky-way+operating-system": {
+    "result": "space-telescope",
+    "reasoning": "Milky Way + Operating System = a Space Telescope. JWST cost $10B and worth every penny."
   }
 }

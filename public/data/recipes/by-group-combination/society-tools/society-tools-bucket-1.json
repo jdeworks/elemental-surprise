@@ -3,13 +3,93 @@
     "result": "airport",
     "reasoning": "Crafting Airplane with city produces Airport"
   },
-  "airplane+town": {
-    "result": "airport",
-    "reasoning": "Airplane plus Town is the weird recipe your alchemist friend swears by for making Airport."
+  "airplane+farmer": {
+    "result": "pilot",
+    "reasoning": "Pilots navigate aircraft through the skies"
   },
-  "army+sword": {
-    "result": "war",
-    "reasoning": "Army and Sword shake hands, reality shrugs, and War is suddenly canon."
+  "amphitheater+ship": {
+    "result": "shipyard",
+    "reasoning": "Combine Ship with Amphitheater to create Shipyard."
+  },
+  "anvil+blacksmith-shop": {
+    "result": "smithy",
+    "reasoning": "Combine Blacksmith Shop with Anvil to create Smithy."
+  },
+  "anvil+farmer": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "arrow+farmer": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "axe+farmer": {
+    "result": "lumberjack",
+    "reasoning": "Lumberjacks fell trees with axes — the original forest industry"
+  },
+  "axe+silk-road": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "backpack+reservoir": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Reservoir = Aquarium."
+  },
+  "bag+reservoir": {
+    "result": "aquarium",
+    "reasoning": "bag of Reservoir = Aquarium."
+  },
+  "bell-tower+bow": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Bow — an Armory."
+  },
+  "bell-tower+crossbow": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Crossbow — an Armory."
+  },
+  "bell-tower+dagger": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Dagger — an Armory."
+  },
+  "bell-tower+gun": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing gun — an Armory."
+  },
+  "bell-tower+mace": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Mace — an Armory."
+  },
+  "bell-tower+spear": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Spear — an Armory."
+  },
+  "bell-tower+sword": {
+    "result": "armory",
+    "reasoning": "A Bell Tower storing Sword — an Armory."
+  },
+  "binoculars+choice": {
+    "result": "dilemma",
+    "reasoning": "Combine Choice with Binoculars to create Dilemma."
+  },
+  "binoculars+farmer": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
+  },
+  "boat+city": {
+    "result": "gondola",
+    "reasoning": "A city boat is a Gondola"
+  },
+  "bow+farmer": {
+    "result": "ranger",
+    "reasoning": "Rangers are master archers, patrolling the wilderness"
+  },
+  "brazier+reservoir": {
+    "result": "steam",
+    "reasoning": "Brazier turns Reservoir to Steam — the force that powered the Industrial Revolution."
+  },
+  "bucket+reservoir": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Reservoir = Aquarium."
   },
   "car+city": {
     "result": "traffic",
@@ -23,68 +103,780 @@
     "result": "taxi",
     "reasoning": "Crafting Car with money produces Taxi"
   },
-  "car+town": {
-    "result": "traffic",
-    "reasoning": "Car plus Town is the weird recipe your alchemist friend swears by for making Traffic."
+  "catapult+farmer": {
+    "result": "centurion",
+    "reasoning": "Roman centurions deployed catapults during sieges"
   },
-  "city+engine": {
-    "result": "airport",
-    "reasoning": "city and Engine accidentally host a crossover episode; Airport steals the finale."
+  "cathedral+crossbow": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing Crossbow — an Armory."
   },
-  "city+wheel": {
-    "result": "traffic",
-    "reasoning": "city meets Wheel, chaos files a memo, and Traffic walks out with the trophy."
+  "cathedral+dagger": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing Dagger — an Armory."
   },
-  "city+wing": {
-    "result": "airport",
-    "reasoning": "city meets wing, chaos files a memo, and Airport walks out with the trophy."
+  "cathedral+gun": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing gun — an Armory."
   },
-  "engine+government": {
-    "result": "nasa",
-    "reasoning": "When Engine and government collide, logic takes a coffee break and NASA appears anyway."
+  "cathedral+mace": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing Mace — an Armory."
   },
-  "engine+money": {
-    "result": "taxi",
-    "reasoning": "When Engine and money collide, logic takes a coffee break and Taxi appears anyway."
+  "cathedral+spear": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing Spear — an Armory."
   },
-  "government+rocket": {
-    "result": "nasa",
-    "reasoning": "Government space agency — NASA"
+  "cathedral+sword": {
+    "result": "armory",
+    "reasoning": "A Cathedral storing Sword — an Armory."
   },
-  "invention+law": {
-    "result": "patent",
-    "reasoning": "When invention and law collide, logic takes a coffee break and Patent appears anyway."
+  "chisel+farmer": {
+    "result": "carpenter",
+    "reasoning": "Carpenters chisel joints with precision — no nails needed"
   },
-  "japan+pencil": {
-    "result": "manga",
-    "reasoning": "Japan teams up with Pencil; the side quest reward is Manga."
+  "chisel+silk-road": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "japan+tool": {
-    "result": "origami",
-    "reasoning": "When Japan and tool collide, logic takes a coffee break and Origami appears anyway."
+  "clock-tower+crossbow": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing Crossbow — an Armory."
   },
-  "law+rocket": {
-    "result": "nasa",
-    "reasoning": "law teams up with Rocket; the side quest reward is NASA."
+  "clock-tower+dagger": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing Dagger — an Armory."
   },
-  "law+tool": {
-    "result": "rule",
-    "reasoning": "Someone mixed law with tool for science. The peer-reviewed conclusion: Rule."
+  "clock-tower+gun": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing gun — an Armory."
   },
-  "money+tool": {
-    "result": "bill",
-    "reasoning": "money teams up with tool; the side quest reward is Bill."
+  "clock-tower+mace": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing Mace — an Armory."
   },
-  "rocket+startup": {
-    "result": "spacex",
-    "reasoning": "Applying Rocket to Startup produces SpaceX"
+  "clock-tower+spear": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing Spear — an Armory."
   },
-  "society+tool": {
-    "result": "sociology",
-    "reasoning": "Someone mixed society with tool for science. The peer-reviewed conclusion: Sociology."
+  "clock-tower+sword": {
+    "result": "armory",
+    "reasoning": "A Clock Tower storing Sword — an Armory."
   },
-  "trade+traffic": {
-    "result": "market",
-    "reasoning": "trade plus Traffic is the weird recipe your alchemist friend swears by for making Market."
+  "credit-card+crossbow": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Crossbow = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+crowbar": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Crowbar = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+crucible": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Crucible = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+cylinder": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + cylinder = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+dagger": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Dagger = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+drawknife": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Drawknife = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+drill": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Drill = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+dyeing": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Dyeing = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+dynamometer": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Dynamometer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+engine": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Engine = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+eraser": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Eraser = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+forge-bellows": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Forge Bellows = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+forging": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Forging = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+funnel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Funnel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+garden-shed": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Garden Shed = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+gear": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Gear = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+gears": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Gears = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+generator": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Generator = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+gimbal": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Gimbal = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+gondola": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Gondola = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+grappling-hook": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Grappling Hook = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+grinder": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Grinder = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+grinding": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Grinding = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+gun": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + gun = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hammer": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hammer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hand-saw": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hand Saw = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+helicopter": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Helicopter = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+helmet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Helmet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+highway": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Highway = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hoe": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hoe = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hook": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hook = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hot-air-balloon": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hot Air Balloon = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+hunting": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Hunting = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+invention": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + invention = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+jack": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Jack = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+junk-drawer": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Junk Drawer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+kettle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Kettle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+key": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + key = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+kitchen-gadget": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Kitchen Gadget = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+knife": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Knife = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+knitting": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Knitting = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+ladle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Ladle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+lantern": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Lantern = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+level": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Level = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+lever": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Lever = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+lock": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Lock = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+loom": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Loom = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mace": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mace = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+machine": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + machine = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+magnifying-glass": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Magnifying Glass = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mallet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mallet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+manacle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Manacle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mechanical": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mechanical = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mining": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mining = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mortar-and-pestle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mortar and Pestle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+motor": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Motor = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+motorcycle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Motorcycle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+mousetrap": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Mousetrap = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+needle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Needle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+notebook": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Notebook = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+oar": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Oar = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+padlock": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Padlock = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pen": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pen = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pencil": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pencil = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pestle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pestle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pick": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pick = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+piston": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Piston = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+plane": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Plane = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pliers": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pliers = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+plough": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Plough = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+plumb-bob": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Plumb Bob = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+power-tool": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Power Tool = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+protractor": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Protractor = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pulley": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pulley = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+pump": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Pump = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+purse": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Purse = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+quill": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Quill = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+quiver": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Quiver = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+raft": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Raft = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+railway": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Railway = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+rake": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Rake = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+ratchet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Ratchet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+rivet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Rivet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+road": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Road = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+rocket": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Rocket = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+ruler": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Ruler = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sailboat": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sailboat = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+satellite": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Satellite = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+saw": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Saw = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+scale": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Scale = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+scalpel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Scalpel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+scissors": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Scissors = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+screw": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Screw = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sextant": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sextant = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+ship": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + ship = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+shovel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Shovel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sickle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sickle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sieve": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sieve = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sled": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sled = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sledgehammer": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sledgehammer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+smelting": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Smelting = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+snorkel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Snorkel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+socket-wrench": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Socket Wrench = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+soldering-iron": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Soldering Iron = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+spear": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Spear = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+spindle": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Spindle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+spring": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Spring = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+spyglass": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Spyglass = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+stapler": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Stapler = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+stencil": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Stencil = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+submarine": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Submarine = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+subway": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Subway = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+suitcase": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Suitcase = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sundial": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sundial = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+swiss-army-knife": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Swiss Army Knife = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+sword": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Sword = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+tanning": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Tanning = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+taxi": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Taxi = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+thermometer": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Thermometer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+tongs": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Tongs = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+tool": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + tool = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+traffic": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Traffic = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+train": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Train = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+trap": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Trap = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+trebuchet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Trebuchet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+tripod": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Tripod = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+trowel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Trowel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+truck": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Truck = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+turbine": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Turbine = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+valve": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Valve = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+vise": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Vise = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wagon": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Wagon = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wallet": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Wallet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+weaving": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Weaving = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+weight": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + weight = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+welding": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Welding = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wheel": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Wheel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wheelbarrow": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Wheelbarrow = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+whetstone": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Whetstone = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+winch": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Winch = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wing": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + wing = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "credit-card+wrench": {
+    "result": "infrastructure",
+    "reasoning": "Credit Card + Wrench = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "crossbow+farmer": {
+    "result": "ranger",
+    "reasoning": "Crossbows democratized archery — less training, more power"
+  },
+  "crucible+farmer": {
+    "result": "alchemist",
+    "reasoning": "Alchemists used crucibles to attempt transmuting lead into gold"
+  },
+  "dagger+farmer": {
+    "result": "assassin",
+    "reasoning": "Assassins favor daggers — silent, concealable, and deadly"
+  },
+  "designer+drawknife": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Drawknife = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+drill": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Drill = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+dyeing": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Dyeing = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+dynamometer": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Dynamometer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+engine": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Engine = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+eraser": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Eraser = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+forge-bellows": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Forge Bellows = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+forging": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Forging = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+funnel": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Funnel = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+garden-shed": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Garden Shed = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+gear": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Gear = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+gears": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Gears = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+generator": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Generator = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+gimbal": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Gimbal = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+gondola": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Gondola = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+grappling-hook": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Grappling Hook = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+grinder": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Grinder = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+grinding": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Grinding = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+gun": {
+    "result": "infrastructure",
+    "reasoning": "Designer + gun = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hammer": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hammer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hand-saw": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hand Saw = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+helicopter": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Helicopter = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+helmet": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Helmet = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+highway": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Highway = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hoe": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hoe = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hook": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hook = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hot-air-balloon": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hot Air Balloon = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+hunting": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Hunting = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+invention": {
+    "result": "infrastructure",
+    "reasoning": "Designer + invention = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+jack": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Jack = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+junk-drawer": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Junk Drawer = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+kettle": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Kettle = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+key": {
+    "result": "infrastructure",
+    "reasoning": "Designer + key = Infrastructure. Roads, bridges, pipes — boring until they break."
+  },
+  "designer+kitchen-gadget": {
+    "result": "infrastructure",
+    "reasoning": "Designer + Kitchen Gadget = Infrastructure. Roads, bridges, pipes — boring until they break."
   }
 }

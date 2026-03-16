@@ -1,326 +1,882 @@
 {
+  "abstract+knowledge": {
+    "result": "gestalt",
+    "reasoning": "Combine Knowledge with Abstract to create Gestalt."
+  },
+  "abstract+logic": {
+    "result": "deduction",
+    "reasoning": "Combine Logic with Abstract to create Deduction."
+  },
+  "abstract+philosophy": {
+    "result": "stoicism",
+    "reasoning": "Combine Philosophy with Abstract to create Stoicism."
+  },
+  "action+album": {
+    "result": "information-overload",
+    "reasoning": "action + Album = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+allegory": {
+    "result": "information-overload",
+    "reasoning": "action + Allegory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+alphabet": {
+    "result": "information-overload",
+    "reasoning": "action + Alphabet = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+analogy": {
+    "result": "information-overload",
+    "reasoning": "action + Analogy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+answer": {
+    "result": "information-overload",
+    "reasoning": "action + Answer = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+anthology": {
+    "result": "information-overload",
+    "reasoning": "action + Anthology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+aphorism": {
+    "result": "information-overload",
+    "reasoning": "action + Aphorism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+archetype": {
+    "result": "information-overload",
+    "reasoning": "action + Archetype = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+autobiography": {
+    "result": "information-overload",
+    "reasoning": "action + Autobiography = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+axiom": {
+    "result": "information-overload",
+    "reasoning": "action + Axiom = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+biography": {
+    "result": "information-overload",
+    "reasoning": "action + Biography = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+blueprint": {
+    "result": "information-overload",
+    "reasoning": "action + Blueprint = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+book": {
+    "result": "information-overload",
+    "reasoning": "action + book = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+braille": {
+    "result": "information-overload",
+    "reasoning": "action + Braille = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+calendar": {
+    "result": "information-overload",
+    "reasoning": "action + Calendar = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+chaos-theory": {
+    "result": "information-overload",
+    "reasoning": "action + Chaos Theory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+cipher": {
+    "result": "information-overload",
+    "reasoning": "action + Cipher = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+code": {
+    "result": "information-overload",
+    "reasoning": "action + Code = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+cognitive-bias": {
+    "result": "information-overload",
+    "reasoning": "action + Cognitive Bias = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+comedy": {
+    "result": "information-overload",
+    "reasoning": "action + Comedy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+conjecture": {
+    "result": "information-overload",
+    "reasoning": "action + Conjecture = Information Overload. Too much knowledge, not enough wisdom."
+  },
   "action+consequence": {
     "result": "karma",
     "reasoning": "action combined with consequence leads to Karma"
   },
+  "action+contract": {
+    "result": "information-overload",
+    "reasoning": "action + Contract = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+contradiction": {
+    "result": "information-overload",
+    "reasoning": "action + contradiction = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+cosmic-mystery": {
+    "result": "information-overload",
+    "reasoning": "action + Cosmic Mystery = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+cryptography": {
+    "result": "information-overload",
+    "reasoning": "action + Cryptography = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+debate": {
+    "result": "information-overload",
+    "reasoning": "action + Debate = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+deduction": {
+    "result": "information-overload",
+    "reasoning": "action + Deduction = Information Overload. Too much knowledge, not enough wisdom."
+  },
   "action+determinism": {
-    "result": "algorithm",
-    "reasoning": "When action and Determinism collide, logic takes a coffee break and Algorithm appears anyway."
+    "result": "information-overload",
+    "reasoning": "action + Determinism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+diagram": {
+    "result": "information-overload",
+    "reasoning": "action + Diagram = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+dialectic": {
+    "result": "information-overload",
+    "reasoning": "action + Dialectic = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+diary": {
+    "result": "information-overload",
+    "reasoning": "action + Diary = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+discovery": {
+    "result": "information-overload",
+    "reasoning": "action + Discovery = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+document": {
+    "result": "information-overload",
+    "reasoning": "action + Document = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+drama": {
+    "result": "information-overload",
+    "reasoning": "action + Drama = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+education": {
+    "result": "information-overload",
+    "reasoning": "action + Education = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+emoji": {
+    "result": "information-overload",
+    "reasoning": "action + Emoji = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+empiricism": {
+    "result": "information-overload",
+    "reasoning": "action + Empiricism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+encyclopedia": {
+    "result": "information-overload",
+    "reasoning": "action + encyclopedia = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+epistemology": {
+    "result": "information-overload",
+    "reasoning": "action + Epistemology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+ethics": {
+    "result": "information-overload",
+    "reasoning": "action + Ethics = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+etymology": {
+    "result": "information-overload",
+    "reasoning": "action + Etymology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+existence": {
+    "result": "information-overload",
+    "reasoning": "action + Existence = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+experiment": {
+    "result": "information-overload",
+    "reasoning": "action + Experiment = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+fable": {
+    "result": "information-overload",
+    "reasoning": "action + Fable = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+fake-news": {
+    "result": "information-overload",
+    "reasoning": "action + Fake News = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+fallacy": {
+    "result": "information-overload",
+    "reasoning": "action + Fallacy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+fibonacci": {
+    "result": "information-overload",
+    "reasoning": "action + Fibonacci = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+field-guide": {
+    "result": "information-overload",
+    "reasoning": "action + Field Guide = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+field-research": {
+    "result": "information-overload",
+    "reasoning": "action + Field Research = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+game-theory": {
+    "result": "information-overload",
+    "reasoning": "action + Game Theory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+gestalt": {
+    "result": "information-overload",
+    "reasoning": "action + Gestalt = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+heisenberg-principle": {
+    "result": "information-overload",
+    "reasoning": "action + Heisenberg Principle = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+hieroglyph": {
+    "result": "information-overload",
+    "reasoning": "action + Hieroglyph = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+hypothesis": {
+    "result": "information-overload",
+    "reasoning": "action + Hypothesis = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+induction": {
+    "result": "information-overload",
+    "reasoning": "action + Induction = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+information-overload": {
+    "result": "information-overload",
+    "reasoning": "action + Information Overload = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+instruction-manual": {
+    "result": "information-overload",
+    "reasoning": "action + Instruction Manual = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+irony": {
+    "result": "information-overload",
+    "reasoning": "action + Irony = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+joke": {
+    "result": "information-overload",
+    "reasoning": "action + Joke = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+journal": {
+    "result": "information-overload",
+    "reasoning": "action + Journal = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+jurisprudence": {
+    "result": "information-overload",
+    "reasoning": "action + Jurisprudence = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+karma": {
+    "result": "information-overload",
+    "reasoning": "action + Karma = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+knowledge": {
+    "result": "gestalt",
+    "reasoning": "Combine Knowledge with Action to create Gestalt."
+  },
+  "action+koan": {
+    "result": "information-overload",
+    "reasoning": "action + Koan = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+language": {
+    "result": "information-overload",
+    "reasoning": "action + Language = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+learning": {
+    "result": "reinforcement-learning",
+    "reasoning": "Combine Action with Learning to create Reinforcement Learning."
+  },
+  "action+legend": {
+    "result": "information-overload",
+    "reasoning": "action + Legend = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+letter": {
+    "result": "information-overload",
+    "reasoning": "action + Letter = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+library": {
+    "result": "information-overload",
+    "reasoning": "action + Library = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+linguistics": {
+    "result": "information-overload",
+    "reasoning": "action + Linguistics = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+logarithm": {
+    "result": "information-overload",
+    "reasoning": "action + Logarithm = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+logic": {
+    "result": "syllogism",
+    "reasoning": "Combine Logic with Action to create Syllogism."
+  },
+  "action+magazine": {
+    "result": "information-overload",
+    "reasoning": "action + Magazine = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+map": {
+    "result": "information-overload",
+    "reasoning": "action + Map = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+matrix": {
+    "result": "information-overload",
+    "reasoning": "action + Matrix = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+metaphor": {
+    "result": "information-overload",
+    "reasoning": "action + Metaphor = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+mnemonic": {
+    "result": "information-overload",
+    "reasoning": "action + Mnemonic = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+museum": {
+    "result": "information-overload",
+    "reasoning": "action + Museum = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+mystery": {
+    "result": "information-overload",
+    "reasoning": "action + mystery = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+myth": {
+    "result": "information-overload",
+    "reasoning": "action + Myth = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+newspaper": {
+    "result": "information-overload",
+    "reasoning": "action + Newspaper = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+novel": {
+    "result": "information-overload",
+    "reasoning": "action + Novel = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+number": {
+    "result": "information-overload",
+    "reasoning": "action + number = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+ontology": {
+    "result": "information-overload",
+    "reasoning": "action + Ontology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+paradigm": {
+    "result": "information-overload",
+    "reasoning": "action + Paradigm = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+paradox": {
+    "result": "information-overload",
+    "reasoning": "action + Paradox = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+patent": {
+    "result": "information-overload",
+    "reasoning": "action + Patent = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+pedagogy": {
+    "result": "information-overload",
+    "reasoning": "action + Pedagogy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+peer-review": {
+    "result": "information-overload",
+    "reasoning": "action + Peer Review = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+periodic-table": {
+    "result": "information-overload",
+    "reasoning": "action + Periodic Table = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+philosophy": {
+    "result": "information-overload",
+    "reasoning": "action + Philosophy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+photograph": {
+    "result": "information-overload",
+    "reasoning": "action + Photograph = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+placebo": {
+    "result": "information-overload",
+    "reasoning": "action + Placebo = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+poem": {
+    "result": "information-overload",
+    "reasoning": "action + Poem = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+postulate": {
+    "result": "information-overload",
+    "reasoning": "action + Postulate = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+proverb": {
+    "result": "information-overload",
+    "reasoning": "action + Proverb = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+question": {
+    "result": "information-overload",
+    "reasoning": "action + question = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+reality": {
+    "result": "information-overload",
+    "reasoning": "action + Reality = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+reason": {
+    "result": "dialectic",
+    "reasoning": "Combine Reason with Action to create Dialectic."
+  },
+  "action+renaissance": {
+    "result": "information-overload",
+    "reasoning": "action + Renaissance = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+research": {
+    "result": "information-overload",
+    "reasoning": "action + Research = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+research-paper": {
+    "result": "information-overload",
+    "reasoning": "action + Research Paper = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+rhetoric": {
+    "result": "information-overload",
+    "reasoning": "action + Rhetoric = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+riddle": {
+    "result": "information-overload",
+    "reasoning": "action + Riddle = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+school": {
+    "result": "information-overload",
+    "reasoning": "action + school = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+schrodinger-cat": {
+    "result": "information-overload",
+    "reasoning": "action + Schrodinger Cat = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+scrapbook": {
+    "result": "information-overload",
+    "reasoning": "action + Scrapbook = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+script": {
+    "result": "information-overload",
+    "reasoning": "action + Script = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+scroll": {
+    "result": "information-overload",
+    "reasoning": "action + Scroll = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+secret": {
+    "result": "information-overload",
+    "reasoning": "action + secret = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+sign": {
+    "result": "information-overload",
+    "reasoning": "action + Sign = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+simulation": {
+    "result": "information-overload",
+    "reasoning": "action + Simulation = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+socratic-method": {
+    "result": "information-overload",
+    "reasoning": "action + Socratic Method = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+stoicism": {
+    "result": "information-overload",
+    "reasoning": "action + Stoicism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+story": {
+    "result": "information-overload",
+    "reasoning": "action + Story = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+syllogism": {
+    "result": "information-overload",
+    "reasoning": "action + Syllogism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+symbol": {
+    "result": "information-overload",
+    "reasoning": "action + symbol = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+synesthesia": {
+    "result": "information-overload",
+    "reasoning": "action + Synesthesia = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+tautology": {
+    "result": "information-overload",
+    "reasoning": "action + Tautology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+taxonomy": {
+    "result": "information-overload",
+    "reasoning": "action + Taxonomy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+text": {
+    "result": "information-overload",
+    "reasoning": "action + Text = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+textbook": {
+    "result": "information-overload",
+    "reasoning": "action + Textbook = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+theorem": {
+    "result": "information-overload",
+    "reasoning": "action + Theorem = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+theory": {
+    "result": "information-overload",
+    "reasoning": "action + Theory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+theory-of-relativity": {
+    "result": "information-overload",
+    "reasoning": "action + Theory of Relativity = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+thought-experiment": {
+    "result": "information-overload",
+    "reasoning": "action + Thought Experiment = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+tragedy": {
+    "result": "information-overload",
+    "reasoning": "action + Tragedy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+trivia": {
+    "result": "information-overload",
+    "reasoning": "action + Trivia = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+truth": {
+    "result": "information-overload",
+    "reasoning": "action + Truth = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+turing-test": {
+    "result": "information-overload",
+    "reasoning": "action + Turing Test = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+university": {
+    "result": "information-overload",
+    "reasoning": "action + University = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+useless-fact": {
+    "result": "information-overload",
+    "reasoning": "action + Useless Fact = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+utopia": {
+    "result": "information-overload",
+    "reasoning": "action + Utopia = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+word": {
+    "result": "information-overload",
+    "reasoning": "action + Word = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+writing": {
+    "result": "information-overload",
+    "reasoning": "action + Writing = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+zeitgeist": {
+    "result": "information-overload",
+    "reasoning": "action + Zeitgeist = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "action+zen": {
+    "result": "information-overload",
+    "reasoning": "action + Zen = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "album+knowledge": {
+    "result": "taxonomy",
+    "reasoning": "Combine Knowledge with Album to create Taxonomy."
+  },
+  "album+logic": {
+    "result": "tautology",
+    "reasoning": "Combine Logic with Album to create Tautology."
+  },
+  "allegory+irony": {
+    "result": "absurdity",
+    "reasoning": "Combine Allegory with Irony to create Absurdity."
+  },
+  "allegory+knowledge": {
+    "result": "taxonomy",
+    "reasoning": "Combine Knowledge with Allegory to create Taxonomy."
+  },
+  "allegory+logic": {
+    "result": "tautology",
+    "reasoning": "Combine Logic with Allegory to create Tautology."
+  },
+  "allegory+metaphor": {
+    "result": "absurdity",
+    "reasoning": "Combine Allegory with Metaphor to create Absurdity."
+  },
+  "allegory+word": {
+    "result": "metaphor",
+    "reasoning": "Combine Word with Allegory to create Metaphor."
+  },
+  "alphabet+knowledge": {
+    "result": "taxonomy",
+    "reasoning": "Combine Knowledge with Alphabet to create Taxonomy."
+  },
+  "alphabet+logic": {
+    "result": "deduction",
+    "reasoning": "Combine Logic with Alphabet to create Deduction."
   },
   "alphabet+text": {
     "result": "letter",
     "reasoning": "Alphabet combined with Text leads to Letter"
   },
-  "alphabet+writing": {
-    "result": "letter",
-    "reasoning": "Alphabet tags in with Writing, and somehow the universe speedruns Letter."
+  "answer+answer": {
+    "result": "knowledge",
+    "reasoning": "Answers accumulated become knowledge"
   },
   "answer+question": {
     "result": "philosophy",
     "reasoning": "Answer combined with question leads to Philosophy"
   },
-  "book+code": {
-    "result": "library-software",
-    "reasoning": "Applying book to Code produces Library Software"
-  },
-  "book+knowledge": {
-    "result": "encyclopedia",
-    "reasoning": "book combined with knowledge leads to encyclopedia"
-  },
-  "book+language": {
-    "result": "library-software",
-    "reasoning": "book and Language accidentally host a crossover episode; Library Software steals the finale."
-  },
-  "book+logic": {
-    "result": "library-software",
-    "reasoning": "Someone mixed book with Logic for science. The peer-reviewed conclusion: Library Software."
-  },
-  "book+photograph": {
-    "result": "album",
-    "reasoning": "book combined with Photograph leads to Album"
-  },
-  "book+question": {
-    "result": "answer",
-    "reasoning": "book tags in with question, and somehow the universe speedruns Answer."
-  },
-  "book+school": {
-    "result": "homework",
-    "reasoning": "book teams up with school; the side quest reward is Homework."
-  },
-  "book+secret": {
-    "result": "diary",
-    "reasoning": "book combined with secret leads to Diary"
-  },
-  "book+story": {
-    "result": "novel",
-    "reasoning": "book combined with Story leads to Novel"
-  },
-  "book+word": {
-    "result": "novel",
-    "reasoning": "book teams up with Word; the side quest reward is Novel."
-  },
-  "cipher+code": {
-    "result": "encryption",
-    "reasoning": "Cipher teams up with Code; the side quest reward is Encryption."
-  },
-  "cipher+logic": {
-    "result": "contradiction",
-    "reasoning": "Cipher and Logic shake hands, reality shrugs, and contradiction is suddenly canon."
-  },
-  "cipher+number": {
-    "result": "encryption",
-    "reasoning": "Cipher meets number, chaos files a memo, and Encryption walks out with the trophy."
-  },
-  "code+contradiction": {
-    "result": "error",
-    "reasoning": "Applying Code to contradiction produces error"
-  },
-  "code+knowledge": {
-    "result": "cipher",
-    "reasoning": "Code and knowledge shake hands, reality shrugs, and Cipher is suddenly canon."
-  },
-  "code+logic": {
-    "result": "algorithm",
-    "reasoning": "Logical instructions in code create algorithms"
-  },
-  "code+number": {
-    "result": "data",
-    "reasoning": "Applying Code to number produces data"
-  },
-  "code+question": {
-    "result": "stack-overflow",
-    "reasoning": "Applying Code to question produces Stack Overflow"
-  },
-  "code+secret": {
-    "result": "cipher",
-    "reasoning": "Code combined with secret leads to Cipher"
-  },
-  "code+symbol": {
-    "result": "data",
-    "reasoning": "Code plus symbol is the weird recipe your alchemist friend swears by for making data."
-  },
-  "code+text": {
-    "result": "html",
-    "reasoning": "Applying Code to Text produces HTML"
-  },
-  "code+writing": {
-    "result": "html",
-    "reasoning": "When Code and Writing collide, logic takes a coffee break and HTML appears anyway."
-  },
-  "contradiction+language": {
-    "result": "error",
-    "reasoning": "contradiction plus Language is the weird recipe your alchemist friend swears by for making error."
-  },
-  "contradiction+logic": {
-    "result": "paradox",
-    "reasoning": "Someone mixed contradiction with Logic for science. The peer-reviewed conclusion: Paradox."
-  },
-  "contradiction+philosophy": {
-    "result": "paradox",
-    "reasoning": "contradiction meets Philosophy, chaos files a memo, and Paradox walks out with the trophy."
-  },
-  "contradiction+truth": {
-    "result": "paradox",
-    "reasoning": "contradiction combined with Truth leads to Paradox"
-  },
-  "document+writing": {
-    "result": "contract",
-    "reasoning": "Document tags in with Writing, and somehow the universe speedruns Contract."
-  },
-  "drama+story": {
-    "result": "drama",
-    "reasoning": "Drama meets Story, chaos files a memo, and Drama walks out with the trophy."
-  },
-  "drama+text": {
-    "result": "script",
-    "reasoning": "Drama combined with Text leads to Script"
-  },
-  "drama+writing": {
-    "result": "script",
-    "reasoning": "Drama and Writing accidentally host a crossover episode; Script steals the finale."
-  },
-  "encyclopedia+knowledge": {
-    "result": "wikipedia",
-    "reasoning": "encyclopedia meets knowledge, chaos files a memo, and Wikipedia walks out with the trophy."
-  },
-  "experiment+question": {
-    "result": "research",
-    "reasoning": "When Experiment and question collide, logic takes a coffee break and Research appears anyway."
-  },
-  "experiment+school": {
-    "result": "university",
-    "reasoning": "Experiment meets school, chaos files a memo, and University walks out with the trophy."
-  },
-  "experiment+theory": {
-    "result": "science",
-    "reasoning": "Experiment and Theory explain the phenomenon of science"
-  },
-  "knowledge+question": {
-    "result": "answer",
-    "reasoning": "knowledge combined with question leads to Answer"
-  },
-  "knowledge+school": {
-    "result": "education",
-    "reasoning": "Someone mixed knowledge with school for science. The peer-reviewed conclusion: Education."
-  },
-  "knowledge+text": {
-    "result": "encyclopedia",
-    "reasoning": "knowledge tags in with Text, and somehow the universe speedruns encyclopedia."
-  },
-  "knowledge+word": {
-    "result": "answer",
-    "reasoning": "When knowledge and Word collide, logic takes a coffee break and Answer appears anyway."
-  },
-  "language+language": {
-    "result": "translation",
-    "reasoning": "Language enhanced with Language creates Translation"
-  },
-  "language+logic": {
-    "result": "code",
-    "reasoning": "Language combined with Logic leads to Code"
-  },
-  "language+number": {
-    "result": "data",
-    "reasoning": "Language teams up with number; the side quest reward is data."
-  },
-  "language+question": {
-    "result": "stack-overflow",
-    "reasoning": "Language meets question, chaos files a memo, and Stack Overflow walks out with the trophy."
-  },
-  "language+symbol": {
-    "result": "translation",
-    "reasoning": "Language teams up with symbol; the side quest reward is Translation."
-  },
-  "language+text": {
-    "result": "html",
-    "reasoning": "Language and Text shake hands, reality shrugs, and HTML is suddenly canon."
-  },
-  "learning+school": {
-    "result": "education",
-    "reasoning": "Learning combined with school leads to Education"
-  },
-  "logic+logic": {
-    "result": "contradiction",
-    "reasoning": "Logic combined with Logic leads to contradiction"
-  },
-  "logic+number": {
-    "result": "mathematics",
-    "reasoning": "Logic applied to numbers creates mathematics"
-  },
-  "logic+philosophy": {
-    "result": "truth",
-    "reasoning": "Logic combined with Philosophy leads to Truth"
-  },
-  "logic+question": {
-    "result": "stack-overflow",
-    "reasoning": "Logic plus question is the weird recipe your alchemist friend swears by for making Stack Overflow."
-  },
-  "logic+secret": {
-    "result": "cipher",
-    "reasoning": "Logic meets secret, chaos files a memo, and Cipher walks out with the trophy."
-  },
-  "logic+symbol": {
-    "result": "number",
-    "reasoning": "Logic combined with symbol leads to number"
-  },
-  "logic+text": {
-    "result": "html",
-    "reasoning": "Someone mixed Logic with Text for science. The peer-reviewed conclusion: HTML."
-  },
-  "logic+truth": {
-    "result": "paradox",
-    "reasoning": "Logic and Truth accidentally host a crossover episode; Paradox steals the finale."
-  },
-  "logic+word": {
-    "result": "embedding",
-    "reasoning": "Logic teams up with Word; the side quest reward is Embedding."
-  },
-  "number+number": {
-    "result": "binary",
-    "reasoning": "Applying number to number produces Binary"
-  },
-  "number+philosophy": {
-    "result": "truth",
-    "reasoning": "number teams up with Philosophy; the side quest reward is Truth."
-  },
-  "number+symbol": {
-    "result": "binary",
-    "reasoning": "When number and symbol collide, logic takes a coffee break and Binary appears anyway."
-  },
-  "number+text": {
-    "result": "json",
-    "reasoning": "Someone mixed number with Text for science. The peer-reviewed conclusion: JSON."
-  },
-  "number+word": {
-    "result": "token",
-    "reasoning": "number enhanced with Word creates Token"
-  },
-  "question+school": {
-    "result": "exam",
-    "reasoning": "question tags in with school, and somehow the universe speedruns Exam."
-  },
-  "question+secret": {
-    "result": "mystery",
-    "reasoning": "question combined with secret leads to mystery"
-  },
-  "question+text": {
-    "result": "prompt",
-    "reasoning": "question enhanced with Text creates Prompt"
-  },
-  "question+theory": {
-    "result": "hypothesis",
-    "reasoning": "question combined with Theory leads to Hypothesis"
-  },
-  "question+writing": {
-    "result": "prompt",
-    "reasoning": "question and Writing shake hands, reality shrugs, and Prompt is suddenly canon."
-  },
-  "research+school": {
-    "result": "university",
-    "reasoning": "Research combined with school leads to University"
-  },
-  "school+university": {
-    "result": "degree",
-    "reasoning": "school and University accidentally host a crossover episode; Degree steals the finale."
-  },
-  "secret+text": {
-    "result": "diary",
-    "reasoning": "secret and Text shake hands, reality shrugs, and Diary is suddenly canon."
-  },
-  "secret+word": {
-    "result": "password",
-    "reasoning": "Applying secret to Word produces Password"
-  },
-  "story+text": {
-    "result": "script",
-    "reasoning": "Story tags in with Text, and somehow the universe speedruns Script."
-  },
-  "symbol+text": {
-    "result": "markdown",
-    "reasoning": "Applying symbol to Text produces Markdown"
-  },
-  "symbol+word": {
-    "result": "alphabet",
-    "reasoning": "symbol combined with Word leads to Alphabet"
-  },
-  "symbol+writing": {
-    "result": "markdown",
-    "reasoning": "symbol teams up with Writing; the side quest reward is Markdown."
-  },
-  "text+word": {
-    "result": "letter",
-    "reasoning": "Text plus Word is the weird recipe your alchemist friend swears by for making Letter."
-  },
-  "theory+word": {
-    "result": "hypothesis",
-    "reasoning": "Theory plus Word is the weird recipe your alchemist friend swears by for making Hypothesis."
-  },
-  "truth+writing": {
-    "result": "justice",
-    "reasoning": "Someone mixed Truth with Writing for science. The peer-reviewed conclusion: Justice."
-  },
-  "word+word": {
-    "result": "story",
-    "reasoning": "Word combined with Word leads to Story"
+  "axiom+conjecture": {
+    "result": "logarithm",
+    "reasoning": "Combine Axiom with Conjecture to create Logarithm."
+  },
+  "axiom+game-theory": {
+    "result": "logarithm",
+    "reasoning": "Combine Axiom with Game Theory to create Logarithm."
+  },
+  "axiom+knowledge": {
+    "result": "postulate",
+    "reasoning": "Combine Axiom with Knowledge to create Postulate."
+  },
+  "axiom+logarithm": {
+    "result": "postulate",
+    "reasoning": "Combine Axiom with Logarithm to create Postulate."
+  },
+  "axiom+postulate": {
+    "result": "theorem",
+    "reasoning": "Combine Axiom with Postulate to create Theorem."
+  },
+  "axiom+tautology": {
+    "result": "theorem",
+    "reasoning": "Combine Axiom with Tautology to create Theorem."
+  },
+  "axiom+truth": {
+    "result": "postulate",
+    "reasoning": "Combine Axiom with Truth to create Postulate."
+  },
+  "biography+blueprint": {
+    "result": "information-overload",
+    "reasoning": "Biography + Blueprint = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+book": {
+    "result": "information-overload",
+    "reasoning": "Biography + book = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+braille": {
+    "result": "information-overload",
+    "reasoning": "Biography + Braille = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+calendar": {
+    "result": "information-overload",
+    "reasoning": "Biography + Calendar = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+chaos-theory": {
+    "result": "information-overload",
+    "reasoning": "Biography + Chaos Theory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+cipher": {
+    "result": "information-overload",
+    "reasoning": "Biography + Cipher = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+code": {
+    "result": "information-overload",
+    "reasoning": "Biography + Code = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+cognitive-bias": {
+    "result": "information-overload",
+    "reasoning": "Biography + Cognitive Bias = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+comedy": {
+    "result": "information-overload",
+    "reasoning": "Biography + Comedy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+conjecture": {
+    "result": "information-overload",
+    "reasoning": "Biography + Conjecture = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+consequence": {
+    "result": "information-overload",
+    "reasoning": "Biography + consequence = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+contract": {
+    "result": "information-overload",
+    "reasoning": "Biography + Contract = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+contradiction": {
+    "result": "information-overload",
+    "reasoning": "Biography + contradiction = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+cosmic-mystery": {
+    "result": "information-overload",
+    "reasoning": "Biography + Cosmic Mystery = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+cryptography": {
+    "result": "information-overload",
+    "reasoning": "Biography + Cryptography = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+debate": {
+    "result": "information-overload",
+    "reasoning": "Biography + Debate = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+deduction": {
+    "result": "information-overload",
+    "reasoning": "Biography + Deduction = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+determinism": {
+    "result": "information-overload",
+    "reasoning": "Biography + Determinism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+diagram": {
+    "result": "information-overload",
+    "reasoning": "Biography + Diagram = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+dialectic": {
+    "result": "information-overload",
+    "reasoning": "Biography + Dialectic = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+diary": {
+    "result": "information-overload",
+    "reasoning": "Biography + Diary = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+discovery": {
+    "result": "information-overload",
+    "reasoning": "Biography + Discovery = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+document": {
+    "result": "information-overload",
+    "reasoning": "Biography + Document = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+drama": {
+    "result": "information-overload",
+    "reasoning": "Biography + Drama = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+education": {
+    "result": "information-overload",
+    "reasoning": "Biography + Education = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+emoji": {
+    "result": "information-overload",
+    "reasoning": "Biography + Emoji = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+empiricism": {
+    "result": "information-overload",
+    "reasoning": "Biography + Empiricism = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+encyclopedia": {
+    "result": "information-overload",
+    "reasoning": "Biography + encyclopedia = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+epistemology": {
+    "result": "information-overload",
+    "reasoning": "Biography + Epistemology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+ethics": {
+    "result": "information-overload",
+    "reasoning": "Biography + Ethics = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+etymology": {
+    "result": "information-overload",
+    "reasoning": "Biography + Etymology = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+existence": {
+    "result": "information-overload",
+    "reasoning": "Biography + Existence = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+experiment": {
+    "result": "information-overload",
+    "reasoning": "Biography + Experiment = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+fable": {
+    "result": "information-overload",
+    "reasoning": "Biography + Fable = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+fake-news": {
+    "result": "information-overload",
+    "reasoning": "Biography + Fake News = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+fallacy": {
+    "result": "information-overload",
+    "reasoning": "Biography + Fallacy = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+fibonacci": {
+    "result": "information-overload",
+    "reasoning": "Biography + Fibonacci = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+field-guide": {
+    "result": "information-overload",
+    "reasoning": "Biography + Field Guide = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+field-research": {
+    "result": "information-overload",
+    "reasoning": "Biography + Field Research = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+game-theory": {
+    "result": "information-overload",
+    "reasoning": "Biography + Game Theory = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+gestalt": {
+    "result": "information-overload",
+    "reasoning": "Biography + Gestalt = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+heisenberg-principle": {
+    "result": "information-overload",
+    "reasoning": "Biography + Heisenberg Principle = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+hieroglyph": {
+    "result": "information-overload",
+    "reasoning": "Biography + Hieroglyph = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+hypothesis": {
+    "result": "information-overload",
+    "reasoning": "Biography + Hypothesis = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+induction": {
+    "result": "information-overload",
+    "reasoning": "Biography + Induction = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+information-overload": {
+    "result": "information-overload",
+    "reasoning": "Biography + Information Overload = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+instruction-manual": {
+    "result": "information-overload",
+    "reasoning": "Biography + Instruction Manual = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+irony": {
+    "result": "information-overload",
+    "reasoning": "Biography + Irony = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+joke": {
+    "result": "information-overload",
+    "reasoning": "Biography + Joke = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+journal": {
+    "result": "information-overload",
+    "reasoning": "Biography + Journal = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+jurisprudence": {
+    "result": "information-overload",
+    "reasoning": "Biography + Jurisprudence = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+karma": {
+    "result": "information-overload",
+    "reasoning": "Biography + Karma = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+knowledge": {
+    "result": "information-overload",
+    "reasoning": "Biography + knowledge = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+koan": {
+    "result": "information-overload",
+    "reasoning": "Biography + Koan = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+language": {
+    "result": "information-overload",
+    "reasoning": "Biography + Language = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+learning": {
+    "result": "information-overload",
+    "reasoning": "Biography + Learning = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+legend": {
+    "result": "information-overload",
+    "reasoning": "Biography + Legend = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+letter": {
+    "result": "information-overload",
+    "reasoning": "Biography + Letter = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+library": {
+    "result": "information-overload",
+    "reasoning": "Biography + Library = Information Overload. Too much knowledge, not enough wisdom."
+  },
+  "biography+linguistics": {
+    "result": "information-overload",
+    "reasoning": "Biography + Linguistics = Information Overload. Too much knowledge, not enough wisdom."
   }
 }

@@ -1,34 +1,882 @@
 {
+  "acceleration+espresso": {
+    "result": "hydraulics",
+    "reasoning": "Combine Espresso with Acceleration to create Hydraulics."
+  },
+  "aioli+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+fermentation": {
+    "result": "bootlegger",
+    "reasoning": "Combine Alcohol with Fermentation to create Bootlegger."
+  },
+  "astronaut-food+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bagel+combustion": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "baklava+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+food-science": {
+    "result": "library",
+    "reasoning": "A Barn filled with Food Science — a Library."
+  },
+  "barn+rocket-science": {
+    "result": "library",
+    "reasoning": "A Barn filled with Rocket Science — a Library."
+  },
+  "barn+science": {
+    "result": "library",
+    "reasoning": "A Barn filled with science — a Library."
+  },
+  "batter+combustion": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "beer+combustion": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
   "beer+engineering": {
     "result": "germany",
     "reasoning": "Beer and engineering together shape Germany"
   },
-  "beer+mathematics": {
-    "result": "germany",
-    "reasoning": "Beer tags in with mathematics, and somehow the universe speedruns Germany."
+  "biscuit+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "engineering+wheat": {
-    "result": "germany",
-    "reasoning": "engineering tags in with wheat, and somehow the universe speedruns Germany."
+  "bread+combustion": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
   },
-  "farm+time": {
-    "result": "harvest",
-    "reasoning": "Combining farm with time makes delicious Harvest"
+  "brewing+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "food+science": {
-    "result": "nutrition",
-    "reasoning": "food and science explain the phenomenon of Nutrition"
+  "brioche+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "food+time": {
-    "result": "waste",
-    "reasoning": "food and time explain the phenomenon of waste"
+  "broth+combustion": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
   },
-  "history+pizza": {
-    "result": "italy",
-    "reasoning": "history and Pizza together shape Italy"
+  "bruschetta+buoyancy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Buoyancy = Food Science. Why does toast always land butter-side down? Science wants to know."
   },
-  "time+wine": {
-    "result": "vinegar",
-    "reasoning": "Combining time with wine makes delicious Vinegar"
+  "bruschetta+calculus": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Calculus = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+capillary-action": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Capillary Action = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+carbon": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Carbon = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+catalyst": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Catalyst = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+centrifuge": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Centrifuge = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+centripetal-force": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Centripetal Force = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+change": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + change = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+chemistry": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Chemistry = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+climate-change": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Climate Change = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+clock": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Clock = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+cloning": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Cloning = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+coffin": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Coffin = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+compass": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + compass = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+compost": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Compost = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+conductivity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Conductivity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+contact-lens": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Contact Lens = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+convection": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Convection = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+coriolis-effect": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Coriolis Effect = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+coulombs-law": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Coulombs Law = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+crispr": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + CRISPR = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+critical-mass": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Critical Mass = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+crutch": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Crutch = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+crystallization": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Crystallization = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+death": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + death = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+decay": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Decay = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+density": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Density = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+destiny": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Destiny = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+diffusion": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Diffusion = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+direction": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + direction = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+distilling": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Distilling = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+doppler-effect": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Doppler Effect = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+drug": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Drug = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+ecology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Ecology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+economics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Economics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+elasticity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Elasticity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+electrolysis": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Electrolysis = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+electromagnetic-spectrum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Electromagnetic Spectrum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+electron": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Electron = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+element": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + element = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+engineering": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + engineering = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+entropy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Entropy = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+equilibrium": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Equilibrium = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+evaporation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Evaporation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+failed-experiment": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Failed Experiment = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fermentation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fermentation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fertilizer": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fertilizer = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fission": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fission = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fluorescence": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fluorescence = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+food-science": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Food Science = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fossil-fuel": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fossil Fuel = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fragility": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fragility = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+frequency": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Frequency = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fulcrum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fulcrum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+fusion": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Fusion = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+future": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Future = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+genetic-engineering": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Genetic Engineering = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+geology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Geology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+geometry": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Geometry = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+geothermal": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Geothermal = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+glasses": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Glasses = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+global-warming": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Global Warming = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+grave": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Grave = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+green-energy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Green Energy = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+half-life": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Half-Life = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+harmonic": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Harmonic = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+hearing-aid": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Hearing Aid = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+helium": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Helium = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+history": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + history = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+hourglass": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Hourglass = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+hydraulics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Hydraulics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+hydrogen": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Hydrogen = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+hydropower": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Hydropower = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+ideal-gas-law": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Ideal Gas Law = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+impulse": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Impulse = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+inertia": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Inertia = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+infinity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Infinity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+insulation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Insulation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+interference": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Interference = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+ion": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Ion = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+isotope": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Isotope = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+joule": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Joule = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+kinetics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Kinetics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+lab-equipment": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Lab Equipment = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+lab-rat": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Lab Rat = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+laser": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Laser = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+lattice": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Lattice = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+line": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + line = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+luminescence": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Luminescence = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+mach-number": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Mach Number = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+magnetism": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Magnetism = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+mass": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + mass = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+mathematics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + mathematics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+matter": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + matter = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+measurement": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Measurement = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+medicine": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Medicine = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+meditation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Meditation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+meteorology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Meteorology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+microscope": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Microscope = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+molecule": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Molecule = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+momentum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Momentum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+mri": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + MRI = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+neon": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Neon = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+neutron": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Neutron = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+newtons-cradle": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Newtons Cradle = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+nitrogen": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Nitrogen = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+nuclear": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Nuclear = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+nutrition": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Nutrition = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+ohms-law": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Ohms Law = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+optics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Optics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+oscillation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Oscillation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+osmosis": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Osmosis = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+oxidation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Oxidation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+oxygen": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Oxygen = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+pacemaker": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Pacemaker = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+pascals-law": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Pascals Law = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+past": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Past = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+peer-pressure": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Peer Pressure = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+pendulum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Pendulum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+phase-transition": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Phase Transition = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+physics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Physics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+piezoelectricity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Piezoelectricity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+pill": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Pill = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+plasma": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Plasma = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+plasma-state": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Plasma State = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+point": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + point = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+polarization": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Polarization = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+pollution": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Pollution = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+polymer": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Polymer = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+prophecy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Prophecy = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+prosthetic": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Prosthetic = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+proton": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Proton = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+psychology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Psychology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+quantum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Quantum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+radiation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Radiation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+radioactivity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Radioactivity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+rebirth": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Rebirth = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+recycling": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Recycling = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+refraction": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Refraction = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+relativity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Relativity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+renewable-energy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Renewable Energy = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+resonance": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Resonance = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+rocket-science": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Rocket Science = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+science": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + science = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+shape": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + shape = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+sharpness": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Sharpness = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+skeleton": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Skeleton = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+smog": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Smog = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+sociology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Sociology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+solvent": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Solvent = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+spectrum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Spectrum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+speed": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Speed = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+static": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Static = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+statistics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Statistics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+stethoscope": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Stethoscope = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+sublimation": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Sublimation = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+superconductor": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Superconductor = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+supercooling": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Supercooling = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+surface-tension": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Surface Tension = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+surgery": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Surgery = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+sustainability": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Sustainability = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+syringe": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Syringe = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+therapy": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Therapy = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+thermocline": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Thermocline = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+thermodynamics": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Thermodynamics = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+time": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + time = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+torque": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Torque = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+toxicity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Toxicity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+transparency": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Transparency = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+turbulence": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Turbulence = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+vaccine": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Vaccine = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+vacuum": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Vacuum = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+velocity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Velocity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+vibration": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Vibration = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+viscosity": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Viscosity = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+vitamin": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Vitamin = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+void": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + void = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+waste": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + waste = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+watch": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Watch = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+wave": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Wave = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+wave-particle-duality": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Wave-Particle Duality = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+wavelength": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Wavelength = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+wheelchair": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Wheelchair = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+x-ray": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + X Ray = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+yoga": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Yoga = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+zero": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Zero = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "bruschetta+zoology": {
+    "result": "food-science",
+    "reasoning": "Bruschetta + Zoology = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "burrito+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "butter+combustion": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "cake+combustion": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "candy+combustion": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "caramel+combustion": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caviar+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "centrifuge+espresso": {
+    "result": "hydraulics",
+    "reasoning": "Combine Espresso with Centrifuge to create Hydraulics."
+  },
+  "ceviche+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cheese+combustion": {
+    "result": "fondue",
+    "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
+  },
+  "chili+climate-change": {
+    "result": "food-science",
+    "reasoning": "Chili + Climate Change = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "chili+clock": {
+    "result": "food-science",
+    "reasoning": "Chili + Clock = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "chili+coffin": {
+    "result": "food-science",
+    "reasoning": "Chili + Coffin = Food Science. Why does toast always land butter-side down? Science wants to know."
+  },
+  "chili+combustion": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   }
 }

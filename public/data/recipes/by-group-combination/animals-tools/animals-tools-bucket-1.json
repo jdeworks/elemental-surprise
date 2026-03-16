@@ -1,54 +1,882 @@
 {
-  "animal+cart": {
-    "result": "wagon",
-    "reasoning": "When animal and Cart collide, logic takes a coffee break and Wagon appears anyway."
+  "airplane+honey": {
+    "result": "hummingbird",
+    "reasoning": "Flight sustained by nectar — a Hummingbird"
   },
-  "animal+rocket": {
-    "result": "astronaut",
-    "reasoning": "animal tags in with Rocket, and somehow the universe speedruns Astronaut."
+  "albatross+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
   },
-  "animal+ship": {
-    "result": "pirate",
-    "reasoning": "animal meets ship, chaos files a memo, and Pirate walks out with the trophy."
+  "albatross+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+garden-shed": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "albatross+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+pick": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+pliers": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+rake": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+scissors": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+shovel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+socket-wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "albatross+swiss-army-knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "alpaca+axe": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+brazier": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+chisel": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+drill": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+forge-bellows": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+garden-shed": {
+    "result": "wool",
+    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
+  },
+  "alpaca+hammer": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+hand-saw": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+knife": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+pick": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+pliers": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+rake": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+saw": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+scissors": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+shovel": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+smelting": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+socket-wrench": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alpaca+swiss-army-knife": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+welding": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+wheel": {
+    "result": "hamster",
+    "reasoning": "Combine Wheel with Alpaca to create Hamster."
+  },
+  "alpaca+wrench": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "anemone+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+garden-shed": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anemone+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+pick": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+pliers": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+rake": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+scissors": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+shovel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+socket-wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anemone+swiss-army-knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+garden-shed": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anglerfish+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+pick": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+pliers": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+rake": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+scissors": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+shovel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+socket-wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anglerfish+swiss-army-knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+garden-shed": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal-kingdom+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+pick": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+pliers": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+rake": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+scissors": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+shovel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+socket-wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal-kingdom+swiss-army-knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+garden-shed": {
+    "result": "ecosystem",
+    "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "animal+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+pick": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+pliers": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+rake": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+scale": {
+    "result": "pangolin",
+    "reasoning": "A scaled mammal is a Pangolin"
+  },
+  "animal+scissors": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+shovel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+socket-wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+spring": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+swiss-army-knife": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal+sword": {
+    "result": "hunting",
+    "reasoning": "A weapon used on animals is Hunting"
   },
   "animal+tool": {
     "result": "leather",
     "reasoning": "Processing animal with tool yields Leather"
   },
+  "animal+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
   "animal+wheel": {
-    "result": "wheelchair",
-    "reasoning": "animal meets Wheel, chaos files a memo, and Wheelchair walks out with the trophy."
+    "result": "hamster",
+    "reasoning": "Combine Animal with Wheel to create Hamster."
   },
-  "bird+tool": {
-    "result": "chicken",
-    "reasoning": "When Bird and tool collide, logic takes a coffee break and Chicken appears anyway."
+  "animal+wrench": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
   },
-  "car+fish": {
-    "result": "toyota",
-    "reasoning": "When Car and Fish collide, logic takes a coffee break and Toyota appears anyway."
+  "ant+axe": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
   },
-  "cart+horse": {
-    "result": "wagon",
-    "reasoning": "Crafting Cart with Horse produces Wagon"
+  "ant+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "cow+machine": {
-    "result": "cream",
-    "reasoning": "When Cow and machine collide, logic takes a coffee break and Cream appears anyway."
+  "ant+chisel": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
   },
-  "engine+feather": {
-    "result": "airplane",
-    "reasoning": "Engine tags in with Feather, and somehow the universe speedruns Airplane."
+  "ant+drill": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
   },
-  "horse+wheel": {
-    "result": "wagon",
-    "reasoning": "Someone mixed Horse with Wheel for science. The peer-reviewed conclusion: Wagon."
+  "ant+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "spider+tool": {
-    "result": "web",
-    "reasoning": "Spider tags in with tool, and somehow the universe speedruns Web."
+  "ant+garden-shed": {
+    "result": "composting",
+    "reasoning": "Ants aerate soil and break down organic matter into Compost"
   },
-  "tool+worm": {
-    "result": "silk",
-    "reasoning": "tool and worm shake hands, reality shrugs, and Silk is suddenly canon."
+  "ant+hammer": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+hand-saw": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+knife": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+pick": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+pliers": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+rake": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+saw": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+scissors": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+shovel": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+smelting": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+socket-wrench": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+spring": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+swiss-army-knife": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+welding": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+wrench": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "anteater+anvil": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Anvil = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+arrow": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Arrow = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+art-supplies": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Art Supplies = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+auger": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Auger = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+axe": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+backpack": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Backpack = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bag": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + bag = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+battering-ram": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Battering Ram = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bellows": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bellows = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bicycle": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bicycle = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+binoculars": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Binoculars = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+block-and-tackle": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Block and Tackle = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+boat": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Boat = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bolt": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bolt = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bow": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bow = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+brace": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Brace = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+brazier": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+broom": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Broom = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bucket": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bucket = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+bus": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Bus = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+caliper": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Caliper = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+canoe": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Canoe = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+canteen": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Canteen = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+car": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Car = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+carabiner": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Carabiner = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+carriage": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Carriage = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+cart": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Cart = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+carving": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Carving = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+catapult": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Catapult = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+chainmail": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Chainmail = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+chariot": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Chariot = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+chisel": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+clamp": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Clamp = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+crossbow": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Crossbow = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+crowbar": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Crowbar = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+crucible": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Crucible = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+cylinder": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + cylinder = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+dagger": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Dagger = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+drawknife": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Drawknife = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+drill": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+dyeing": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Dyeing = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+dynamometer": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Dynamometer = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+engine": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Engine = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+eraser": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Eraser = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+forge-bellows": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+forging": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Forging = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+funnel": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Funnel = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+garden-shed": {
+    "result": "root",
+    "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
+  },
+  "anteater+gear": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Gear = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+gears": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Gears = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+generator": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Generator = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+gimbal": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Gimbal = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+gondola": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Gondola = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+grappling-hook": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Grappling Hook = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+grinder": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Grinder = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+grinding": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Grinding = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+gun": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + gun = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+hammer": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+hand-saw": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+helicopter": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Helicopter = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+helmet": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Helmet = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+highway": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Highway = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+hoe": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Hoe = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+hook": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Hook = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+hot-air-balloon": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Hot Air Balloon = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+hunting": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + Hunting = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
+  },
+  "anteater+invention": {
+    "result": "mousetrap",
+    "reasoning": "Anteater + invention = a Mousetrap. 'Build a better mousetrap and the world will beat a path to your door.'"
   }
 }

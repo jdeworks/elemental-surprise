@@ -3,41 +3,229 @@
     "result": "hologram",
     "reasoning": "Applying 3D Model to light produces Hologram"
   },
-  "3d-printer+light": {
-    "result": "hologram",
-    "reasoning": "3D Printer tags in with light, and somehow the universe speedruns Hologram."
+  "air+air-conditioner": {
+    "result": "compressor",
+    "reasoning": "Combine Air Conditioner with Air to create Compressor."
   },
-  "air+antenna": {
-    "result": "radio",
-    "reasoning": "air and antenna accidentally host a crossover episode; Radio steals the finale."
+  "air+scuba": {
+    "result": "air-conditioner",
+    "reasoning": "Combine Air with Scuba to create Air Conditioner."
   },
-  "air+digital": {
-    "result": "audio",
-    "reasoning": "air and digital shake hands, reality shrugs, and Audio is suddenly canon."
+  "algorithm+art": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating art in 3D."
   },
-  "air+electronics": {
-    "result": "microphone",
-    "reasoning": "air meets Electronics, chaos files a memo, and Microphone walks out with the trophy."
+  "algorithm+bio-art": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Bio Art in 3D."
+  },
+  "algorithm+calligraphy": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Calligraphy in 3D."
+  },
+  "algorithm+drawing": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Drawing in 3D."
+  },
+  "algorithm+easel": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Easel in 3D."
+  },
+  "algorithm+fresco": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Fresco in 3D."
+  },
+  "algorithm+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Graffiti in 3D."
+  },
+  "algorithm+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Mosaic in 3D."
+  },
+  "algorithm+mural": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Mural in 3D."
+  },
+  "algorithm+origami": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Origami in 3D."
+  },
+  "algorithm+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Pixel Art in 3D."
+  },
+  "algorithm+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Pop Art in 3D."
+  },
+  "algorithm+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Sculpture in 3D."
+  },
+  "algorithm+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Watercolor in 3D."
   },
   "antenna+sound": {
     "result": "radio",
     "reasoning": "Applying antenna to sound produces Radio"
   },
+  "app+art": {
+    "result": "3d-model",
+    "reasoning": "App creating art in 3D."
+  },
+  "app+banjo": {
+    "result": "spotify",
+    "reasoning": "App streaming Banjo — Spotify."
+  },
+  "app+bio-art": {
+    "result": "3d-model",
+    "reasoning": "App creating Bio Art in 3D."
+  },
+  "app+calligraphy": {
+    "result": "3d-model",
+    "reasoning": "App creating Calligraphy in 3D."
+  },
+  "app+cello": {
+    "result": "spotify",
+    "reasoning": "App streaming Cello — Spotify."
+  },
+  "app+classical-music": {
+    "result": "spotify",
+    "reasoning": "App streaming Classical Music — Spotify."
+  },
+  "app+country-music": {
+    "result": "spotify",
+    "reasoning": "App streaming Country Music — Spotify."
+  },
+  "app+drawing": {
+    "result": "3d-model",
+    "reasoning": "App creating Drawing in 3D."
+  },
+  "app+drum": {
+    "result": "spotify",
+    "reasoning": "App streaming Drum — Spotify."
+  },
+  "app+easel": {
+    "result": "3d-model",
+    "reasoning": "App creating Easel in 3D."
+  },
+  "app+flute": {
+    "result": "spotify",
+    "reasoning": "App streaming Flute — Spotify."
+  },
+  "app+folk-music": {
+    "result": "spotify",
+    "reasoning": "App streaming Folk Music — Spotify."
+  },
+  "app+fresco": {
+    "result": "3d-model",
+    "reasoning": "App creating Fresco in 3D."
+  },
+  "app+graffiti": {
+    "result": "3d-model",
+    "reasoning": "App creating Graffiti in 3D."
+  },
+  "app+guitar": {
+    "result": "spotify",
+    "reasoning": "App streaming Guitar — Spotify."
+  },
+  "app+harmonica": {
+    "result": "spotify",
+    "reasoning": "App streaming Harmonica — Spotify."
+  },
+  "app+harp": {
+    "result": "spotify",
+    "reasoning": "App streaming Harp — Spotify."
+  },
   "app+house": {
     "result": "airbnb",
     "reasoning": "Applying App to house produces Airbnb"
   },
-  "apple-company+computer": {
-    "result": "iphone",
-    "reasoning": "Someone mixed Apple Company with Computer for science. The peer-reviewed conclusion: iPhone."
+  "app+lyre": {
+    "result": "spotify",
+    "reasoning": "App streaming Lyre — Spotify."
+  },
+  "app+mosaic": {
+    "result": "3d-model",
+    "reasoning": "App creating Mosaic in 3D."
+  },
+  "app+mural": {
+    "result": "3d-model",
+    "reasoning": "App creating Mural in 3D."
+  },
+  "app+music": {
+    "result": "spotify",
+    "reasoning": "App streaming Music — Spotify."
+  },
+  "app+orchestra": {
+    "result": "spotify",
+    "reasoning": "App streaming Orchestra — Spotify."
+  },
+  "app+origami": {
+    "result": "3d-model",
+    "reasoning": "App creating Origami in 3D."
+  },
+  "app+piano": {
+    "result": "spotify",
+    "reasoning": "App streaming Piano — Spotify."
+  },
+  "app+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "App creating Pixel Art in 3D."
+  },
+  "app+pop-art": {
+    "result": "3d-model",
+    "reasoning": "App creating Pop Art in 3D."
+  },
+  "app+rock-music": {
+    "result": "spotify",
+    "reasoning": "App streaming Rock Music — Spotify."
+  },
+  "app+saxophone": {
+    "result": "spotify",
+    "reasoning": "App streaming Saxophone — Spotify."
+  },
+  "app+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "App + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "app+sculpture": {
+    "result": "3d-model",
+    "reasoning": "App creating Sculpture in 3D."
+  },
+  "app+song": {
+    "result": "spotify",
+    "reasoning": "App streaming Song — Spotify."
+  },
+  "app+soul-music": {
+    "result": "spotify",
+    "reasoning": "App streaming Soul Music — Spotify."
+  },
+  "app+symphony": {
+    "result": "spotify",
+    "reasoning": "App streaming Symphony — Spotify."
+  },
+  "app+trumpet": {
+    "result": "spotify",
+    "reasoning": "App streaming Trumpet — Spotify."
+  },
+  "app+ukulele": {
+    "result": "spotify",
+    "reasoning": "App streaming Ukulele — Spotify."
+  },
+  "app+violin": {
+    "result": "spotify",
+    "reasoning": "App streaming Violin — Spotify."
+  },
+  "app+watercolor": {
+    "result": "3d-model",
+    "reasoning": "App creating Watercolor in 3D."
   },
   "apple-company+smartphone": {
     "result": "iphone",
     "reasoning": "Apple Company and Smartphone create iPhone"
-  },
-  "apple-company+telephone": {
-    "result": "iphone",
-    "reasoning": "Apple Company meets Telephone, chaos files a memo, and iPhone walks out with the trophy."
   },
   "art+blockchain": {
     "result": "nft",
@@ -47,340 +235,648 @@
     "result": "pixel-art",
     "reasoning": "art and Pixel create Pixel Art"
   },
-  "art+press": {
-    "result": "magazine",
-    "reasoning": "art and press shake hands, reality shrugs, and Magazine is suddenly canon."
-  },
-  "art+screen": {
-    "result": "pixel-art",
-    "reasoning": "art teams up with screen; the side quest reward is Pixel Art."
-  },
   "bank+cryptocurrency": {
     "result": "defi",
     "reasoning": "Applying Bank to Cryptocurrency produces DeFi"
   },
-  "binary+sound": {
-    "result": "audio",
-    "reasoning": "When Binary and sound collide, logic takes a coffee break and Audio appears anyway."
+  "battery+cello": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Cello — a Synthesizer. Music was never the same."
   },
-  "block+computer": {
-    "result": "minecraft",
-    "reasoning": "block meets Computer, chaos files a memo, and Minecraft walks out with the trophy."
+  "battery+classical-music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Classical Music — a Synthesizer. Music was never the same."
   },
-  "blockchain+color": {
-    "result": "nft",
-    "reasoning": "Blockchain plus Color is the weird recipe your alchemist friend swears by for making NFT."
+  "battery+country-music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Country Music — a Synthesizer. Music was never the same."
   },
-  "bridge+class": {
-    "result": "inheritance",
-    "reasoning": "Bridge tags in with Class, and somehow the universe speedruns Inheritance."
+  "battery+drum": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Drum — a Synthesizer. Music was never the same."
+  },
+  "battery+flute": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Flute — a Synthesizer. Music was never the same."
+  },
+  "battery+folk-music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Folk Music — a Synthesizer. Music was never the same."
+  },
+  "battery+guitar": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Guitar — a Synthesizer. Music was never the same."
+  },
+  "battery+harmonica": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Harmonica — a Synthesizer. Music was never the same."
+  },
+  "battery+harp": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Harp — a Synthesizer. Music was never the same."
+  },
+  "battery+lyre": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Lyre — a Synthesizer. Music was never the same."
+  },
+  "battery+music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Music — a Synthesizer. Music was never the same."
+  },
+  "battery+orchestra": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Orchestra — a Synthesizer. Music was never the same."
+  },
+  "battery+piano": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Piano — a Synthesizer. Music was never the same."
+  },
+  "battery+rock-music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Rock Music — a Synthesizer. Music was never the same."
+  },
+  "battery+saxophone": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Saxophone — a Synthesizer. Music was never the same."
+  },
+  "battery+song": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Song — a Synthesizer. Music was never the same."
+  },
+  "battery+soul-music": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Soul Music — a Synthesizer. Music was never the same."
+  },
+  "battery+stained-glass": {
+    "result": "led",
+    "reasoning": "Battery + Stained Glass = LED — efficient light that changed the world."
+  },
+  "battery+symphony": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Symphony — a Synthesizer. Music was never the same."
+  },
+  "battery+trumpet": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Trumpet — a Synthesizer. Music was never the same."
+  },
+  "battery+ukulele": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Ukulele — a Synthesizer. Music was never the same."
+  },
+  "battery+violin": {
+    "result": "synthesizer",
+    "reasoning": "Battery creating Violin — a Synthesizer. Music was never the same."
+  },
+  "blues+circuit-board": {
+    "result": "viral-video",
+    "reasoning": "Blues + Circuit Board = a Viral Video. 10 million views and counting."
+  },
+  "blues+data": {
+    "result": "viral-video",
+    "reasoning": "Blues + data = a Viral Video. 10 million views and counting."
+  },
+  "blues+drone": {
+    "result": "viral-video",
+    "reasoning": "Blues + Drone = a Viral Video. 10 million views and counting."
+  },
+  "blues+e-reader": {
+    "result": "viral-video",
+    "reasoning": "Blues + E-Reader = a Viral Video. 10 million views and counting."
+  },
+  "blues+electric-car": {
+    "result": "viral-video",
+    "reasoning": "Blues + Electric Car = a Viral Video. 10 million views and counting."
+  },
+  "blues+git": {
+    "result": "viral-video",
+    "reasoning": "Blues + Git = a Viral Video. 10 million views and counting."
+  },
+  "blues+hashtag": {
+    "result": "viral-video",
+    "reasoning": "Blues + Hashtag = a Viral Video. 10 million views and counting."
+  },
+  "blues+hologram": {
+    "result": "viral-video",
+    "reasoning": "Blues + Hologram = a Viral Video. 10 million views and counting."
+  },
+  "blues+html": {
+    "result": "viral-video",
+    "reasoning": "Blues + HTML = a Viral Video. 10 million views and counting."
+  },
+  "blues+hydraulic-press": {
+    "result": "viral-video",
+    "reasoning": "Blues + Hydraulic Press = a Viral Video. 10 million views and counting."
+  },
+  "blues+laptop": {
+    "result": "viral-video",
+    "reasoning": "Blues + Laptop = a Viral Video. 10 million views and counting."
+  },
+  "blues+loudspeaker": {
+    "result": "viral-video",
+    "reasoning": "Blues + Loudspeaker = a Viral Video. 10 million views and counting."
+  },
+  "blues+morse-code": {
+    "result": "viral-video",
+    "reasoning": "Blues + Morse Code = a Viral Video. 10 million views and counting."
+  },
+  "blues+notification": {
+    "result": "viral-video",
+    "reasoning": "Blues + Notification = a Viral Video. 10 million views and counting."
+  },
+  "blues+open-source": {
+    "result": "viral-video",
+    "reasoning": "Blues + Open Source = a Viral Video. 10 million views and counting."
+  },
+  "blues+pneumatic": {
+    "result": "viral-video",
+    "reasoning": "Blues + Pneumatic = a Viral Video. 10 million views and counting."
+  },
+  "blues+propane-tank": {
+    "result": "viral-video",
+    "reasoning": "Blues + Propane Tank = a Viral Video. 10 million views and counting."
+  },
+  "blues+snowmobile": {
+    "result": "viral-video",
+    "reasoning": "Blues + Snowmobile = a Viral Video. 10 million views and counting."
+  },
+  "blues+speaker": {
+    "result": "viral-video",
+    "reasoning": "Blues + Speaker = a Viral Video. 10 million views and counting."
+  },
+  "blues+spotify": {
+    "result": "viral-video",
+    "reasoning": "Blues + Spotify = a Viral Video. 10 million views and counting."
+  },
+  "blues+tablet": {
+    "result": "viral-video",
+    "reasoning": "Blues + Tablet = a Viral Video. 10 million views and counting."
+  },
+  "blues+transformer": {
+    "result": "viral-video",
+    "reasoning": "Blues + Transformer = a Viral Video. 10 million views and counting."
+  },
+  "blues+wiki": {
+    "result": "viral-video",
+    "reasoning": "Blues + Wiki = a Viral Video. 10 million views and counting."
+  },
+  "bug+shadow": {
+    "result": "mantis",
+    "reasoning": "A stealthy bug is a Mantis"
   },
   "button+game": {
     "result": "controller",
     "reasoning": "button and Game create Controller"
   },
-  "button+play": {
-    "result": "controller",
-    "reasoning": "button and play shake hands, reality shrugs, and Controller is suddenly canon."
+  "cable+etching": {
+    "result": "voltaic-pile",
+    "reasoning": "Combine Cable with Etching to create Voltaic Pile."
   },
-  "camera+computer": {
-    "result": "augmented-reality",
-    "reasoning": "camera meets Computer, chaos files a memo, and Augmented Reality walks out with the trophy."
+  "camera+electric-car": {
+    "result": "dashcam",
+    "reasoning": "Combine Electric Car with Camera to create Dashcam."
   },
-  "camera+digital": {
-    "result": "video",
-    "reasoning": "Someone mixed camera with digital for science. The peer-reviewed conclusion: video."
-  },
-  "camera+electricity": {
-    "result": "photography",
-    "reasoning": "camera tags in with Electricity, and somehow the universe speedruns Photography."
-  },
-  "camera+smartphone": {
-    "result": "selfie",
-    "reasoning": "Someone mixed camera with Smartphone for science. The peer-reviewed conclusion: Selfie."
-  },
-  "camera+streaming": {
-    "result": "netflix",
-    "reasoning": "camera meets Streaming, chaos files a memo, and Netflix walks out with the trophy."
+  "camera+internet": {
+    "result": "webcam",
+    "reasoning": "Combine Internet with Camera to create Webcam."
   },
   "camera+vr-headset": {
     "result": "augmented-reality",
     "reasoning": "Applying camera to VR Headset produces Augmented Reality"
   },
-  "circuit+light": {
+  "castle+library-software": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "church+library-software": {
+    "result": "library",
+    "reasoning": "A Church filled with Library Software — a Library."
+  },
+  "circuit-board+classical-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Classical Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+country-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Country Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+drum": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Drum — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+flute": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Flute — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+folk-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Folk Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+guitar": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Guitar — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+harmonica": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Harmonica — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+harp": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Harp — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+lyre": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Lyre — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+orchestra": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Orchestra — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+piano": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Piano — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+rock-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Rock Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+saxophone": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Saxophone — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+song": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Song — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+soul-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Soul Music — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+stained-glass": {
     "result": "led",
-    "reasoning": "Circuit and light shake hands, reality shrugs, and LED is suddenly canon."
+    "reasoning": "Circuit Board + Stained Glass = LED — efficient light that changed the world."
   },
-  "circuit+sound": {
-    "result": "amplifier",
-    "reasoning": "Circuit tags in with sound, and somehow the universe speedruns Amplifier."
+  "circuit-board+symphony": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Symphony — a Synthesizer. Music was never the same."
   },
-  "clothing+computer": {
-    "result": "wearable",
-    "reasoning": "Clothing and Computer accidentally host a crossover episode; Wearable steals the finale."
+  "circuit-board+trumpet": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Trumpet — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+ukulele": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Ukulele — a Synthesizer. Music was never the same."
+  },
+  "circuit-board+violin": {
+    "result": "synthesizer",
+    "reasoning": "Circuit Board creating Violin — a Synthesizer. Music was never the same."
+  },
+  "circuit+classical-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Classical Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+country-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Country Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+drum": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Drum — a Synthesizer. Music was never the same."
+  },
+  "circuit+flute": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Flute — a Synthesizer. Music was never the same."
+  },
+  "circuit+folk-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Folk Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+guitar": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Guitar — a Synthesizer. Music was never the same."
+  },
+  "circuit+harmonica": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Harmonica — a Synthesizer. Music was never the same."
+  },
+  "circuit+harp": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Harp — a Synthesizer. Music was never the same."
+  },
+  "circuit+lyre": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Lyre — a Synthesizer. Music was never the same."
+  },
+  "circuit+music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+orchestra": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Orchestra — a Synthesizer. Music was never the same."
+  },
+  "circuit+piano": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Piano — a Synthesizer. Music was never the same."
+  },
+  "circuit+rock-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Rock Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+saxophone": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Saxophone — a Synthesizer. Music was never the same."
+  },
+  "circuit+song": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Song — a Synthesizer. Music was never the same."
+  },
+  "circuit+soul-music": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Soul Music — a Synthesizer. Music was never the same."
+  },
+  "circuit+stained-glass": {
+    "result": "led",
+    "reasoning": "Circuit + Stained Glass = LED — efficient light that changed the world."
+  },
+  "circuit+symphony": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Symphony — a Synthesizer. Music was never the same."
+  },
+  "circuit+trumpet": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Trumpet — a Synthesizer. Music was never the same."
+  },
+  "circuit+ukulele": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Ukulele — a Synthesizer. Music was never the same."
+  },
+  "circuit+violin": {
+    "result": "synthesizer",
+    "reasoning": "Circuit creating Violin — a Synthesizer. Music was never the same."
+  },
+  "clarinet+wind-turbine": {
+    "result": "oboe",
+    "reasoning": "Combine Clarinet with Wind Turbine to create Oboe."
+  },
+  "classical-music+keyboard": {
+    "result": "synthesizer",
+    "reasoning": "Combine Keyboard with Classical Music to create Synthesizer."
+  },
+  "classical-music+metronome": {
+    "result": "country-music",
+    "reasoning": "Combine Classical Music with Metronome to create Country Music."
+  },
+  "classical-music+record-player": {
+    "result": "country-music",
+    "reasoning": "Combine Classical Music with Record Player to create Country Music."
   },
   "clothing+smartphone": {
     "result": "wearable",
     "reasoning": "Applying Clothing to Smartphone produces Wearable"
   },
-  "cloud-computing+film": {
-    "result": "streaming",
-    "reasoning": "When Cloud Computing and Film collide, logic takes a coffee break and Streaming appears anyway."
+  "cloud-computing+country-music": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Country Music — Spotify."
+  },
+  "cloud-computing+drawing": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Drawing in 3D."
+  },
+  "cloud-computing+drum": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Drum — Spotify."
+  },
+  "cloud-computing+easel": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Easel in 3D."
+  },
+  "cloud-computing+flute": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Flute — Spotify."
+  },
+  "cloud-computing+folk-music": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Folk Music — Spotify."
+  },
+  "cloud-computing+fresco": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Fresco in 3D."
+  },
+  "cloud-computing+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Graffiti in 3D."
+  },
+  "cloud-computing+guitar": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Guitar — Spotify."
+  },
+  "cloud-computing+harmonica": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Harmonica — Spotify."
+  },
+  "cloud-computing+harp": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Harp — Spotify."
+  },
+  "cloud-computing+lyre": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Lyre — Spotify."
+  },
+  "cloud-computing+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Mosaic in 3D."
+  },
+  "cloud-computing+mural": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Mural in 3D."
   },
   "cloud-computing+music": {
     "result": "spotify",
-    "reasoning": "Cloud Computing teams up with Music; the side quest reward is Spotify."
+    "reasoning": "Cloud Computing streaming Music — Spotify."
   },
-  "communication+darkness": {
-    "result": "deception",
-    "reasoning": "Communication and Darkness accidentally host a crossover episode; deception steals the finale."
+  "cloud-computing+orchestra": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Orchestra — Spotify."
+  },
+  "cloud-computing+origami": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Origami in 3D."
+  },
+  "cloud-computing+piano": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Piano — Spotify."
+  },
+  "cloud-computing+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Pixel Art in 3D."
+  },
+  "cloud-computing+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Pop Art in 3D."
+  },
+  "cloud-computing+rock-music": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Rock Music — Spotify."
+  },
+  "cloud-computing+saxophone": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Saxophone — Spotify."
+  },
+  "cloud-computing+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "Cloud Computing + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "cloud-computing+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Sculpture in 3D."
+  },
+  "cloud-computing+song": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Song — Spotify."
+  },
+  "cloud-computing+soul-music": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Soul Music — Spotify."
+  },
+  "cloud-computing+symphony": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Symphony — Spotify."
+  },
+  "cloud-computing+trumpet": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Trumpet — Spotify."
+  },
+  "cloud-computing+ukulele": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Ukulele — Spotify."
+  },
+  "cloud-computing+violin": {
+    "result": "spotify",
+    "reasoning": "Cloud Computing streaming Violin — Spotify."
+  },
+  "cloud-computing+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Watercolor in 3D."
+  },
+  "cloud-storage+drawing": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Drawing in 3D."
+  },
+  "cloud-storage+easel": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Easel in 3D."
+  },
+  "cloud-storage+fresco": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Fresco in 3D."
+  },
+  "cloud-storage+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Graffiti in 3D."
+  },
+  "cloud-storage+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Mosaic in 3D."
+  },
+  "cloud-storage+mural": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Mural in 3D."
+  },
+  "cloud-storage+origami": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Origami in 3D."
+  },
+  "cloud-storage+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Pixel Art in 3D."
+  },
+  "cloud-storage+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Pop Art in 3D."
+  },
+  "cloud-storage+roof": {
+    "result": "attic",
+    "reasoning": "Combine Cloud Storage with Roof to create Attic."
+  },
+  "cloud-storage+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Sculpture in 3D."
+  },
+  "cloud-storage+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Watercolor in 3D."
+  },
+  "computer+country-music": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Country Music — Spotify."
+  },
+  "computer+drum": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Drum — Spotify."
+  },
+  "computer+easel": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Easel in 3D."
+  },
+  "computer+flute": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Flute — Spotify."
+  },
+  "computer+folk-music": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Folk Music — Spotify."
+  },
+  "computer+fresco": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Fresco in 3D."
   },
   "computer+game": {
     "result": "video-game",
     "reasoning": "Computer and Game create Video Game"
   },
+  "computer+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Graffiti in 3D."
+  },
+  "computer+guitar": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Guitar — Spotify."
+  },
+  "computer+harmonica": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Harmonica — Spotify."
+  },
+  "computer+harp": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Harp — Spotify."
+  },
   "computer+house": {
     "result": "desktop",
     "reasoning": "Applying Computer to house produces Desktop"
   },
-  "computer+nintendo": {
-    "result": "mario",
-    "reasoning": "When Computer and Nintendo collide, logic takes a coffee break and Mario appears anyway."
-  },
-  "computer+painting": {
-    "result": "ai-art",
-    "reasoning": "Computer tags in with Painting, and somehow the universe speedruns AI Art."
-  },
-  "computer+photography": {
-    "result": "selfie",
-    "reasoning": "Computer and Photography accidentally host a crossover episode; Selfie steals the finale."
-  },
-  "computer+sport": {
-    "result": "esports",
-    "reasoning": "Computer tags in with sport, and somehow the universe speedruns Esports."
-  },
-  "computer+wall": {
-    "result": "firewall",
-    "reasoning": "Computer meets Wall, chaos files a memo, and Firewall walks out with the trophy."
-  },
-  "computer+window": {
-    "result": "windows-os",
-    "reasoning": "Computer plus Window is the weird recipe your alchemist friend swears by for making Windows OS."
-  },
-  "cryptocurrency+house": {
-    "result": "defi",
-    "reasoning": "Cryptocurrency and house shake hands, reality shrugs, and DeFi is suddenly canon."
-  },
-  "darkness+internet": {
-    "result": "dark-web",
-    "reasoning": "Applying Darkness to internet produces Dark Web"
-  },
-  "darkness+network": {
-    "result": "dark-web",
-    "reasoning": "Darkness and Network shake hands, reality shrugs, and Dark Web is suddenly canon."
-  },
-  "darkness+online": {
-    "result": "offline",
-    "reasoning": "Darkness plus Online is the weird recipe your alchemist friend swears by for making Offline."
-  },
-  "data+painting": {
-    "result": "ai-art",
-    "reasoning": "Someone mixed data with Painting for science. The peer-reviewed conclusion: AI Art."
-  },
-  "digital+film": {
-    "result": "video",
-    "reasoning": "Applying digital to Film produces video"
-  },
-  "digital+sound": {
-    "result": "audio",
-    "reasoning": "Applying digital to sound produces Audio"
-  },
-  "electricity+game": {
-    "result": "video-game",
-    "reasoning": "Electricity teams up with Game; the side quest reward is Video Game."
-  },
-  "electricity+music": {
-    "result": "rock-music",
-    "reasoning": "Electricity and Music create Rock Music"
-  },
-  "electricity+sound": {
-    "result": "rock-music",
-    "reasoning": "Electricity tags in with sound, and somehow the universe speedruns Rock Music."
-  },
-  "electricity+tower": {
-    "result": "lighthouse",
-    "reasoning": "Someone mixed Electricity with Tower for science. The peer-reviewed conclusion: Lighthouse."
-  },
-  "electronics+film": {
-    "result": "video",
-    "reasoning": "Someone mixed Electronics with Film for science. The peer-reviewed conclusion: video."
-  },
-  "electronics+light": {
-    "result": "led",
-    "reasoning": "Applying Electronics to light produces LED"
-  },
-  "electronics+sound": {
-    "result": "microphone",
-    "reasoning": "Applying Electronics to sound produces Microphone"
-  },
-  "electronics+video-game": {
-    "result": "playstation",
-    "reasoning": "Electronics plus Video Game is the weird recipe your alchemist friend swears by for making PlayStation."
-  },
-  "esports+streaming": {
-    "result": "twitch",
-    "reasoning": "Esports and Streaming create Twitch"
-  },
-  "film+social-media": {
-    "result": "tiktok",
-    "reasoning": "Film and Social Media shake hands, reality shrugs, and TikTok is suddenly canon."
-  },
-  "film+streaming": {
-    "result": "netflix",
-    "reasoning": "Applying Film to Streaming produces Netflix"
-  },
-  "film+video": {
-    "result": "netflix",
-    "reasoning": "Film meets video, chaos files a memo, and Netflix walks out with the trophy."
-  },
-  "game+vr-headset": {
-    "result": "vr-game",
-    "reasoning": "Game and VR Headset shake hands, reality shrugs, and VR Game is suddenly canon."
-  },
-  "house+mail": {
-    "result": "post-office",
-    "reasoning": "Applying house to Mail produces Post Office"
-  },
-  "house+message": {
-    "result": "post-office",
-    "reasoning": "When house and message collide, logic takes a coffee break and Post Office appears anyway."
-  },
-  "house+microchip": {
-    "result": "desktop",
-    "reasoning": "When house and Microchip collide, logic takes a coffee break and Desktop appears anyway."
-  },
-  "house+smartphone": {
-    "result": "airbnb",
-    "reasoning": "house teams up with Smartphone; the side quest reward is Airbnb."
-  },
-  "humor+internet": {
-    "result": "meme",
-    "reasoning": "Applying humor to internet produces Meme"
-  },
-  "humor+network": {
-    "result": "meme",
-    "reasoning": "humor tags in with Network, and somehow the universe speedruns Meme."
-  },
-  "internet+photography": {
-    "result": "instagram",
-    "reasoning": "When internet and Photography collide, logic takes a coffee break and Instagram appears anyway."
-  },
-  "internet+rpg": {
-    "result": "mmorpg",
-    "reasoning": "internet and RPG create MMORPG"
-  },
-  "internet+sound": {
-    "result": "podcast",
-    "reasoning": "internet and sound shake hands, reality shrugs, and Podcast is suddenly canon."
-  },
-  "internet+video-game": {
-    "result": "mmorpg",
-    "reasoning": "internet meets Video Game, chaos files a memo, and MMORPG walks out with the trophy."
-  },
-  "light+message": {
-    "result": "signal",
-    "reasoning": "Applying light to message produces Signal"
-  },
-  "light+pixel": {
-    "result": "resolution",
-    "reasoning": "light and Pixel shake hands, reality shrugs, and Resolution is suddenly canon."
-  },
-  "light+screen": {
-    "result": "pixel",
-    "reasoning": "Applying light to screen produces Pixel"
-  },
-  "light+social-media": {
-    "result": "instagram",
-    "reasoning": "When light and Social Media collide, logic takes a coffee break and Instagram appears anyway."
-  },
-  "light+vr-headset": {
-    "result": "augmented-reality",
-    "reasoning": "When light and VR Headset collide, logic takes a coffee break and Augmented Reality appears anyway."
-  },
-  "magnet+sound": {
-    "result": "speaker",
-    "reasoning": "magnet and sound shake hands, reality shrugs, and Speaker is suddenly canon."
-  },
-  "music+streaming": {
+  "computer+lyre": {
     "result": "spotify",
-    "reasoning": "Applying Music to Streaming produces Spotify"
+    "reasoning": "Computer streaming Lyre — Spotify."
   },
-  "network+rpg": {
-    "result": "mmorpg",
-    "reasoning": "Network tags in with RPG, and somehow the universe speedruns MMORPG."
+  "computer+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Mosaic in 3D."
   },
-  "network+sound": {
-    "result": "bluetooth",
-    "reasoning": "Network meets sound, chaos files a memo, and Bluetooth walks out with the trophy."
+  "computer+mural": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Mural in 3D."
   },
-  "open-source+painting": {
-    "result": "stable-diffusion",
-    "reasoning": "Open Source tags in with Painting, and somehow the universe speedruns Stable Diffusion."
-  },
-  "operating-system+window": {
-    "result": "windows-os",
-    "reasoning": "Applying Operating System to Window produces Windows OS"
-  },
-  "photography+smartphone": {
-    "result": "selfie",
-    "reasoning": "Applying Photography to Smartphone produces Selfie"
-  },
-  "photography+social-media": {
-    "result": "instagram",
-    "reasoning": "Applying Photography to Social Media produces Instagram"
-  },
-  "screen+sound": {
-    "result": "television",
-    "reasoning": "screen meets sound, chaos files a memo, and Television walks out with the trophy."
-  },
-  "semiconductor+sound": {
-    "result": "amplifier",
-    "reasoning": "Semiconductor plus sound is the weird recipe your alchemist friend swears by for making Amplifier."
-  },
-  "software+video-game": {
-    "result": "xbox",
-    "reasoning": "When software and Video Game collide, logic takes a coffee break and Xbox appears anyway."
-  },
-  "software+wall": {
-    "result": "firewall",
-    "reasoning": "Applying software to Wall produces Firewall"
-  },
-  "software+window": {
-    "result": "windows-os",
-    "reasoning": "software plus Window is the weird recipe your alchemist friend swears by for making Windows OS."
-  },
-  "sound+streaming": {
+  "computer+music": {
     "result": "spotify",
-    "reasoning": "sound teams up with Streaming; the side quest reward is Spotify."
+    "reasoning": "Computer streaming Music — Spotify."
   },
-  "sound+transistor": {
-    "result": "amplifier",
-    "reasoning": "Applying sound to Transistor produces Amplifier"
-  },
-  "sport+streaming": {
-    "result": "twitch",
-    "reasoning": "sport meets Streaming, chaos files a memo, and Twitch walks out with the trophy."
-  },
-  "sport+technology": {
-    "result": "karate",
-    "reasoning": "sport and technology accidentally host a crossover episode; Karate steals the finale."
-  },
-  "streaming+video-game": {
-    "result": "twitch",
-    "reasoning": "Streaming tags in with Video Game, and somehow the universe speedruns Twitch."
-  },
-  "video-game+vr-headset": {
-    "result": "vr-game",
-    "reasoning": "Video Game and VR Headset create VR Game"
+  "computer+orchestra": {
+    "result": "spotify",
+    "reasoning": "Computer streaming Orchestra — Spotify."
   }
 }

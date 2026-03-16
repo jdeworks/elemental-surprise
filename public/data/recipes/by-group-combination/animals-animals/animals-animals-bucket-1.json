@@ -1,46 +1,882 @@
 {
+  "albatross+anemone": {
+    "result": "cormorant",
+    "reasoning": "Combine Albatross with Anemone to create Cormorant."
+  },
+  "albatross+barnacle": {
+    "result": "scallop",
+    "reasoning": "Combine Barnacle with Albatross to create Scallop."
+  },
+  "albatross+bird": {
+    "result": "cockatoo",
+    "reasoning": "Combine Bird with Albatross to create Cockatoo."
+  },
+  "albatross+cardinal": {
+    "result": "cockatoo",
+    "reasoning": "Combine Albatross with Cardinal to create Cockatoo."
+  },
+  "albatross+cockatoo": {
+    "result": "kiwi",
+    "reasoning": "Combine Albatross with Cockatoo to create Kiwi."
+  },
+  "albatross+fish": {
+    "result": "flying-fish",
+    "reasoning": "Combine Fish with Albatross to create Flying Fish."
+  },
+  "albatross+puffin": {
+    "result": "cormorant",
+    "reasoning": "Combine Albatross with Puffin to create Cormorant."
+  },
+  "albatross+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "albatross+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "albatross+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+animal": {
+    "result": "anteater",
+    "reasoning": "Combine Animal with Alpaca to create Anteater."
+  },
+  "alpaca+anteater": {
+    "result": "chinchilla",
+    "reasoning": "Combine Alpaca with Anteater to create Chinchilla."
+  },
+  "alpaca+antelope": {
+    "result": "chinchilla",
+    "reasoning": "Combine Alpaca with Antelope to create Chinchilla."
+  },
+  "alpaca+armadillo": {
+    "result": "llama",
+    "reasoning": "Combine Alpaca with Armadillo to create Llama."
+  },
+  "alpaca+axolotl": {
+    "result": "newt",
+    "reasoning": "Combine Axolotl with Alpaca to create Newt."
+  },
+  "alpaca+baboon": {
+    "result": "giraffe",
+    "reasoning": "Combine Baboon with Alpaca to create Giraffe."
+  },
+  "alpaca+badger": {
+    "result": "hedgehog",
+    "reasoning": "Combine Badger with Alpaca to create Hedgehog."
+  },
+  "alpaca+beaver": {
+    "result": "yak",
+    "reasoning": "Combine Alpaca with Beaver to create Yak."
+  },
+  "alpaca+bird": {
+    "result": "cardinal",
+    "reasoning": "Combine Bird with Alpaca to create Cardinal."
+  },
+  "alpaca+blue-whale": {
+    "result": "narwhal",
+    "reasoning": "Combine Blue Whale with Alpaca to create Narwhal."
+  },
+  "alpaca+cat": {
+    "result": "jaguar",
+    "reasoning": "Combine Cat with Alpaca to create Jaguar."
+  },
+  "alpaca+chinchilla": {
+    "result": "llama",
+    "reasoning": "Combine Alpaca with Chinchilla to create Llama."
+  },
+  "alpaca+clam": {
+    "result": "lobster",
+    "reasoning": "Combine Clam with Alpaca to create Lobster."
+  },
+  "alpaca+fish": {
+    "result": "barracuda",
+    "reasoning": "Combine Fish with Alpaca to create Barracuda."
+  },
+  "alpaca+horse": {
+    "result": "donkey",
+    "reasoning": "Combine Horse with Alpaca to create Donkey."
+  },
+  "alpaca+insect": {
+    "result": "moth",
+    "reasoning": "Combine Insect with Alpaca to create Moth."
+  },
+  "alpaca+llama": {
+    "result": "yak",
+    "reasoning": "Combine Alpaca with Llama to create Yak."
+  },
+  "alpaca+raccoon": {
+    "result": "opossum",
+    "reasoning": "Combine Raccoon with Alpaca to create Opossum."
+  },
+  "alpaca+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alpaca+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "alpaca+seal": {
+    "result": "walrus",
+    "reasoning": "Combine Seal with Alpaca to create Walrus."
+  },
+  "alpaca+snake": {
+    "result": "boa-constrictor",
+    "reasoning": "Combine Snake with Alpaca to create Boa Constrictor."
+  },
+  "alpaca+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anemone+barnacle": {
+    "result": "scallop",
+    "reasoning": "Combine Barnacle with Anemone to create Scallop."
+  },
+  "anemone+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anemone+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anemone+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anglerfish+bird": {
+    "result": "kingfisher",
+    "reasoning": "Combine Bird with Anglerfish to create Kingfisher."
+  },
+  "anglerfish+fish": {
+    "result": "flying-fish",
+    "reasoning": "Combine Fish with Anglerfish to create Flying Fish."
+  },
+  "anglerfish+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anglerfish+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anglerfish+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal-kingdom+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal-kingdom+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal-kingdom+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal+ant": {
+    "result": "alpaca",
+    "reasoning": "Combine Animal with Ant to create Alpaca."
+  },
+  "animal+anteater": {
+    "result": "antelope",
+    "reasoning": "Combine Animal with Anteater to create Antelope."
+  },
+  "animal+antelope": {
+    "result": "armadillo",
+    "reasoning": "Combine Animal with Antelope to create Armadillo."
+  },
+  "animal+armadillo": {
+    "result": "axolotl",
+    "reasoning": "Combine Animal with Armadillo to create Axolotl."
+  },
+  "animal+axolotl": {
+    "result": "baboon",
+    "reasoning": "Combine Animal with Axolotl to create Baboon."
+  },
+  "animal+baboon": {
+    "result": "badger",
+    "reasoning": "Combine Animal with Baboon to create Badger."
+  },
+  "animal+badger": {
+    "result": "beaver",
+    "reasoning": "Combine Animal with Badger to create Beaver."
+  },
+  "animal+barracuda": {
+    "result": "bison",
+    "reasoning": "Combine Animal with Barracuda to create Bison."
+  },
+  "animal+bat": {
+    "result": "alpaca",
+    "reasoning": "Combine Animal with Bat to create Alpaca."
+  },
+  "animal+bear": {
+    "result": "anteater",
+    "reasoning": "Combine Animal with Bear to create Anteater."
+  },
+  "animal+beaver": {
+    "result": "bison",
+    "reasoning": "Combine Animal with Beaver to create Bison."
+  },
+  "animal+bee": {
+    "result": "antelope",
+    "reasoning": "Combine Animal with Bee to create Antelope."
+  },
   "animal+bird": {
-    "result": "egg",
-    "reasoning": "When animal and Bird collide, logic takes a coffee break and Egg appears anyway."
+    "result": "armadillo",
+    "reasoning": "Combine Animal with Bird to create Armadillo."
   },
-  "animal+cow": {
-    "result": "minotaur",
-    "reasoning": "animal and Cow accidentally host a crossover episode; Minotaur steals the finale."
+  "animal+bison": {
+    "result": "blue-whale",
+    "reasoning": "Combine Animal with Bison to create Blue Whale."
   },
-  "animal+fish": {
-    "result": "mermaid",
-    "reasoning": "animal tags in with Fish, and somehow the universe speedruns Mermaid."
+  "animal+blue-whale": {
+    "result": "boar",
+    "reasoning": "Combine Animal with Blue Whale to create Boar."
+  },
+  "animal+boa-constrictor": {
+    "result": "boar",
+    "reasoning": "Combine Animal with Boa Constrictor to create Boar."
+  },
+  "animal+boar": {
+    "result": "capybara",
+    "reasoning": "Combine Animal with Boar to create Capybara."
+  },
+  "animal+buffalo": {
+    "result": "capybara",
+    "reasoning": "Combine Animal with Buffalo to create Capybara."
+  },
+  "animal+butterfly": {
+    "result": "armadillo",
+    "reasoning": "Combine Animal with Butterfly to create Armadillo."
+  },
+  "animal+camel": {
+    "result": "axolotl",
+    "reasoning": "Combine Animal with Camel to create Axolotl."
+  },
+  "animal+capybara": {
+    "result": "caribou",
+    "reasoning": "Combine Animal with Capybara to create Caribou."
+  },
+  "animal+caribou": {
+    "result": "cheetah",
+    "reasoning": "Combine Animal with Caribou to create Cheetah."
+  },
+  "animal+cat": {
+    "result": "axolotl",
+    "reasoning": "Combine Animal with Cat to create Axolotl."
+  },
+  "animal+chameleon": {
+    "result": "baboon",
+    "reasoning": "Combine Animal with Chameleon to create Baboon."
+  },
+  "animal+cheetah": {
+    "result": "chimpanzee",
+    "reasoning": "Combine Animal with Cheetah to create Chimpanzee."
+  },
+  "animal+chicken": {
+    "result": "badger",
+    "reasoning": "Combine Animal with Chicken to create Badger."
+  },
+  "animal+chimpanzee": {
+    "result": "clam",
+    "reasoning": "Combine Animal with Chimpanzee to create Clam."
+  },
+  "animal+chinchilla": {
+    "result": "clam",
+    "reasoning": "Combine Animal with Chinchilla to create Clam."
+  },
+  "animal+clam": {
+    "result": "elk",
+    "reasoning": "Combine Animal with Clam to create Elk."
+  },
+  "animal+cobra": {
+    "result": "badger",
+    "reasoning": "Combine Animal with Cobra to create Badger."
+  },
+  "animal+coyote": {
+    "result": "meerkat",
+    "reasoning": "Combine Animal with Coyote to create Meerkat."
+  },
+  "animal+egg": {
+    "result": "platypus",
+    "reasoning": "Combine Animal with Egg to create Platypus."
+  },
+  "animal+elk": {
+    "result": "hedgehog",
+    "reasoning": "Combine Animal with Elk to create Hedgehog."
+  },
+  "animal+gazelle": {
+    "result": "pronghorn",
+    "reasoning": "Combine Animal with Gazelle to create Pronghorn."
+  },
+  "animal+giraffe": {
+    "result": "hyena",
+    "reasoning": "Combine Animal with Giraffe to create Hyena."
+  },
+  "animal+hamster": {
+    "result": "weasel",
+    "reasoning": "Combine Animal with Hamster to create Weasel."
+  },
+  "animal+hedgehog": {
+    "result": "moose",
+    "reasoning": "Combine Animal with Hedgehog to create Moose."
+  },
+  "animal+hippopotamus": {
+    "result": "manatee",
+    "reasoning": "Combine Animal with Hippopotamus to create Manatee."
+  },
+  "animal+horse": {
+    "result": "donkey",
+    "reasoning": "Combine Animal with Horse to create Donkey."
+  },
+  "animal+hyena": {
+    "result": "zebra",
+    "reasoning": "Combine Animal with Hyena to create Zebra."
+  },
+  "animal+insect": {
+    "result": "anteater",
+    "reasoning": "Combine Animal with Insect to create Anteater."
+  },
+  "animal+jaguar": {
+    "result": "leopard",
+    "reasoning": "Combine Animal with Jaguar to create Leopard."
+  },
+  "animal+kangaroo": {
+    "result": "koala",
+    "reasoning": "Combine Animal with Kangaroo to create Koala."
+  },
+  "animal+koala": {
+    "result": "lemur",
+    "reasoning": "Combine Animal with Koala to create Lemur."
+  },
+  "animal+lemur": {
+    "result": "orangutan",
+    "reasoning": "Combine Animal with Lemur to create Orangutan."
+  },
+  "animal+leopard": {
+    "result": "lynx",
+    "reasoning": "Combine Animal with Leopard to create Lynx."
+  },
+  "animal+lobster": {
+    "result": "narwhal",
+    "reasoning": "Combine Animal with Lobster to create Narwhal."
+  },
+  "animal+manatee": {
+    "result": "newt",
+    "reasoning": "Combine Animal with Manatee to create Newt."
+  },
+  "animal+monkey": {
+    "result": "baboon",
+    "reasoning": "Combine Animal with Monkey to create Baboon."
+  },
+  "animal+moose": {
+    "result": "rhinoceros",
+    "reasoning": "Combine Animal with Moose to create Rhinoceros."
+  },
+  "animal+narwhal": {
+    "result": "orca",
+    "reasoning": "Combine Animal with Narwhal to create Orca."
+  },
+  "animal+newt": {
+    "result": "otter",
+    "reasoning": "Combine Animal with Newt to create Otter."
+  },
+  "animal+ocelot": {
+    "result": "tapir",
+    "reasoning": "Combine Animal with Ocelot to create Tapir."
+  },
+  "animal+orangutan": {
+    "result": "sloth",
+    "reasoning": "Combine Animal with Orangutan to create Sloth."
+  },
+  "animal+orca": {
+    "result": "seal",
+    "reasoning": "Combine Animal with Orca to create Seal."
+  },
+  "animal+otter": {
+    "result": "platypus",
+    "reasoning": "Combine Animal with Otter to create Platypus."
+  },
+  "animal+panda": {
+    "result": "red-panda",
+    "reasoning": "Combine Animal with Panda to create Red Panda."
+  },
+  "animal+pig": {
+    "result": "boar",
+    "reasoning": "Combine Animal with Pig to create Boar."
+  },
+  "animal+raccoon": {
+    "result": "weasel",
+    "reasoning": "Combine Animal with Raccoon to create Weasel."
+  },
+  "animal+sea-cucumber": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+sea-urchin": {
+    "result": "fish",
+    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+seal": {
+    "result": "squid",
+    "reasoning": "Combine Animal with Seal to create Squid."
+  },
+  "animal+sloth": {
+    "result": "red-panda",
+    "reasoning": "Combine Animal with Sloth to create Red Panda."
   },
   "animal+snake": {
-    "result": "hydra",
-    "reasoning": "Someone mixed animal with Snake for science. The peer-reviewed conclusion: Hydra."
+    "result": "boa-constrictor",
+    "reasoning": "Combine Snake with Animal to create Boa Constrictor."
   },
-  "bird+bird": {
-    "result": "egg",
-    "reasoning": "Bird adapting to Bird evolves into Egg"
+  "animal+snow-leopard": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "bird+egg": {
-    "result": "egg",
-    "reasoning": "Bird tags in with Egg, and somehow the universe speedruns Egg."
+  "animal+weasel": {
+    "result": "ferret",
+    "reasoning": "Combine Animal with Weasel to create Ferret."
   },
-  "bird+horse": {
-    "result": "pegasus",
-    "reasoning": "Through mystical forces, Bird and Horse become Pegasus"
+  "animal+whale": {
+    "result": "blue-whale",
+    "reasoning": "Combine Animal with Whale to create Blue Whale."
   },
-  "cat+eagle": {
-    "result": "griffin",
-    "reasoning": "Cat plus Eagle is the weird recipe your alchemist friend swears by for making Griffin."
+  "animal+wolf": {
+    "result": "coyote",
+    "reasoning": "Combine Animal with Wolf to create Coyote."
   },
-  "eagle+lion": {
-    "result": "griffin",
-    "reasoning": "Through mystical forces, Eagle and Lion become Griffin"
+  "ant+ant": {
+    "result": "colony",
+    "reasoning": "Ants combined form a colony — nature's superorganism"
   },
-  "egg+horse": {
-    "result": "pegasus",
-    "reasoning": "Egg and Horse shake hands, reality shrugs, and Pegasus is suddenly canon."
+  "ant+bird": {
+    "result": "cardinal",
+    "reasoning": "Combine Bird with Ant to create Cardinal."
   },
-  "snake+snake": {
-    "result": "hydra",
-    "reasoning": "Through mystical forces, Snake and Snake become Hydra"
+  "ant+sea-cucumber": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+sea-urchin": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "anteater+antelope": {
+    "result": "pronghorn",
+    "reasoning": "Combine Antelope with Anteater to create Pronghorn."
+  },
+  "anteater+armadillo": {
+    "result": "meerkat",
+    "reasoning": "Combine Armadillo with Anteater to create Meerkat."
+  },
+  "anteater+axolotl": {
+    "result": "otter",
+    "reasoning": "Combine Axolotl with Anteater to create Otter."
+  },
+  "anteater+baboon": {
+    "result": "giraffe",
+    "reasoning": "Combine Baboon with Anteater to create Giraffe."
+  },
+  "anteater+badger": {
+    "result": "gopher",
+    "reasoning": "Combine Badger with Anteater to create Gopher."
+  },
+  "anteater+barnacle": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Barnacle — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+barracuda": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Barracuda — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+basilisk-lizard": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Basilisk Lizard — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+bat": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Bat — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+bear": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Bear — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+beaver": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Beaver — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+bee": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets bee — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+bird": {
+    "result": "emu",
+    "reasoning": "Combine Bird with Anteater to create Emu."
+  },
+  "anteater+bison": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Bison — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+blue-whale": {
+    "result": "orca",
+    "reasoning": "Combine Blue Whale with Anteater to create Orca."
+  },
+  "anteater+boa-constrictor": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Boa Constrictor — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+boar": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Boar — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+buffalo": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Buffalo — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+bumblebee": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Bumblebee — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+butterfly": {
+    "result": "caterpillar",
+    "reasoning": "Combine Butterfly with Anteater to create Caterpillar."
+  },
+  "anteater+camel": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Camel — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+capybara": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Capybara — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cardinal": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cardinal — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+caribou": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Caribou — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cat": {
+    "result": "leopard",
+    "reasoning": "Combine Cat with Anteater to create Leopard."
+  },
+  "anteater+caterpillar": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Caterpillar — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+chameleon": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Chameleon — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cheetah": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cheetah — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+chicken": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Chicken — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+chimpanzee": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Chimpanzee — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+chinchilla": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Chinchilla — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cicada": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cicada — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+clam": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Clam — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cobra": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cobra — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cockatoo": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cockatoo — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+condor": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Condor — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cormorant": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cormorant — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+cow": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Cow — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+coyote": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Coyote — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+crab": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Crab — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+crane": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Crane — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+crocodile": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Crocodile — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+crow": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Crow — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+deer": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Deer — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+dinosaur": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Dinosaur — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+dog": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Dog — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+dolphin": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Dolphin — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+donkey": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Donkey — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+dragonfly": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Dragonfly — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+duck": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Duck — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+eagle": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Eagle — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+eel": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Eel — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+egg": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Egg — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+electric-eel": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Electric Eel — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+elephant": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Elephant — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+elk": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Elk — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+emu": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Emu — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+falcon": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Falcon — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+feather": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Feather — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+ferret": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Ferret — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+fireant": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Fireant — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+firefly": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Firefly — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+fish": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Fish — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+flamingo": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Flamingo — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+flying-fish": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Flying Fish — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+fox": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Fox — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+frog": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Frog — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+gazelle": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Gazelle — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+giraffe": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Giraffe — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+goldfish": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Goldfish — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+goose": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Goose — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+gopher": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Gopher — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+gorilla": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Gorilla — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+grasshopper": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Grasshopper — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+grizzly-bear": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Grizzly Bear — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hamster": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hamster — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hedgehog": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hedgehog — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hermit-crab": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hermit Crab — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+heron": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Heron — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hippopotamus": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hippopotamus — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+honey": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Honey — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hornet": {
+    "result": "wasp",
+    "reasoning": "Combine Hornet with Anteater to create Wasp."
+  },
+  "anteater+horse": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Horse — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hummingbird": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hummingbird — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+hyena": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Hyena — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+ibis": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Ibis — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+iguana": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Iguana — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+insect": {
+    "result": "dragonfly",
+    "reasoning": "Combine Insect with Anteater to create Dragonfly."
+  },
+  "anteater+jaguar": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Jaguar — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+jellyfish": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Jellyfish — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+kangaroo": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Kangaroo — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+kingfisher": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Kingfisher — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+kiwi": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Kiwi — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+koala": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Koala — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+komodo-dragon": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Komodo Dragon — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+ladybug": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Ladybug — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+lamprey": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Lamprey — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+lemur": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Lemur — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+leopard": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Leopard — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+lion": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Lion — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+lizard": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Lizard — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+llama": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Llama — welcome to the Animal Kingdom, where anything goes."
+  },
+  "anteater+lobster": {
+    "result": "animal-kingdom",
+    "reasoning": "Anteater meets Lobster — welcome to the Animal Kingdom, where anything goes."
   }
 }

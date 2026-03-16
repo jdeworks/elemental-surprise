@@ -1,30 +1,882 @@
 {
+  "ai-art+art-supplies": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Art Supplies in 3D."
+  },
+  "ai-generated-art+art-supplies": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Art Supplies in 3D."
+  },
+  "ai-music+needle": {
+    "result": "record-player",
+    "reasoning": "Combine Ai Music with Needle to create Record Player."
+  },
+  "ai+airplane": {
+    "result": "automation",
+    "reasoning": "AI + Airplane = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+airport": {
+    "result": "automation",
+    "reasoning": "AI + Airport = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+anvil": {
+    "result": "automation",
+    "reasoning": "AI + Anvil = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+arrow": {
+    "result": "automation",
+    "reasoning": "AI + Arrow = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+art-supplies": {
+    "result": "3d-model",
+    "reasoning": "AI creating Art Supplies in 3D."
+  },
+  "ai+auger": {
+    "result": "automation",
+    "reasoning": "AI + Auger = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+backpack": {
+    "result": "automation",
+    "reasoning": "AI + Backpack = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bag": {
+    "result": "automation",
+    "reasoning": "AI + bag = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+battering-ram": {
+    "result": "automation",
+    "reasoning": "AI + Battering Ram = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bellows": {
+    "result": "automation",
+    "reasoning": "AI + Bellows = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bicycle": {
+    "result": "automation",
+    "reasoning": "AI + Bicycle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+binoculars": {
+    "result": "automation",
+    "reasoning": "AI + Binoculars = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+block-and-tackle": {
+    "result": "automation",
+    "reasoning": "AI + Block and Tackle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bolt": {
+    "result": "automation",
+    "reasoning": "AI + Bolt = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bow": {
+    "result": "automation",
+    "reasoning": "AI + Bow = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+brace": {
+    "result": "automation",
+    "reasoning": "AI + Brace = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+brazier": {
+    "result": "automation",
+    "reasoning": "AI + Brazier = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+broom": {
+    "result": "automation",
+    "reasoning": "AI + Broom = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bucket": {
+    "result": "automation",
+    "reasoning": "AI + Bucket = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+bus": {
+    "result": "automation",
+    "reasoning": "AI + Bus = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+caliper": {
+    "result": "automation",
+    "reasoning": "AI + Caliper = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+canoe": {
+    "result": "automation",
+    "reasoning": "AI + Canoe = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+canteen": {
+    "result": "automation",
+    "reasoning": "AI + Canteen = Automation. The robot took the job. The human took a nap."
+  },
   "ai+car": {
     "result": "self-driving-car",
     "reasoning": "Applying AI to Car produces Self Driving Car"
   },
+  "ai+carabiner": {
+    "result": "automation",
+    "reasoning": "AI + Carabiner = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+carriage": {
+    "result": "automation",
+    "reasoning": "AI + Carriage = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+cart": {
+    "result": "automation",
+    "reasoning": "AI + Cart = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+carving": {
+    "result": "automation",
+    "reasoning": "AI + Carving = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+catapult": {
+    "result": "automation",
+    "reasoning": "AI + Catapult = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+chainmail": {
+    "result": "automation",
+    "reasoning": "AI + Chainmail = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+chariot": {
+    "result": "automation",
+    "reasoning": "AI + Chariot = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+chisel": {
+    "result": "automation",
+    "reasoning": "AI + Chisel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+clamp": {
+    "result": "automation",
+    "reasoning": "AI + Clamp = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+crossbow": {
+    "result": "automation",
+    "reasoning": "AI + Crossbow = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+crowbar": {
+    "result": "automation",
+    "reasoning": "AI + Crowbar = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+crucible": {
+    "result": "automation",
+    "reasoning": "AI + Crucible = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+cylinder": {
+    "result": "automation",
+    "reasoning": "AI + cylinder = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+dagger": {
+    "result": "automation",
+    "reasoning": "AI + Dagger = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+drawknife": {
+    "result": "automation",
+    "reasoning": "AI + Drawknife = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+drill": {
+    "result": "automation",
+    "reasoning": "AI + Drill = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+engine": {
+    "result": "automation",
+    "reasoning": "AI + Engine = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+eraser": {
+    "result": "automation",
+    "reasoning": "AI + Eraser = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+forge-bellows": {
+    "result": "automation",
+    "reasoning": "AI + Forge Bellows = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+forging": {
+    "result": "automation",
+    "reasoning": "AI + Forging = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+funnel": {
+    "result": "automation",
+    "reasoning": "AI + Funnel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+garden-shed": {
+    "result": "automation",
+    "reasoning": "AI + Garden Shed = Automation. The robot took the job. The human took a nap."
+  },
   "ai+gear": {
     "result": "automation",
-    "reasoning": "AI and Gear shake hands, reality shrugs, and Automation is suddenly canon."
+    "reasoning": "AI + Gear = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+gears": {
+    "result": "automation",
+    "reasoning": "AI + Gears = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+generator": {
+    "result": "automation",
+    "reasoning": "AI + Generator = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+gimbal": {
+    "result": "automation",
+    "reasoning": "AI + Gimbal = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+gondola": {
+    "result": "automation",
+    "reasoning": "AI + Gondola = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+grappling-hook": {
+    "result": "automation",
+    "reasoning": "AI + Grappling Hook = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+grinder": {
+    "result": "automation",
+    "reasoning": "AI + Grinder = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+grinding": {
+    "result": "automation",
+    "reasoning": "AI + Grinding = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+gun": {
+    "result": "automation",
+    "reasoning": "AI + gun = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hammer": {
+    "result": "automation",
+    "reasoning": "AI + Hammer = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hand-saw": {
+    "result": "automation",
+    "reasoning": "AI + Hand Saw = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+helicopter": {
+    "result": "automation",
+    "reasoning": "AI + Helicopter = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+helmet": {
+    "result": "automation",
+    "reasoning": "AI + Helmet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+highway": {
+    "result": "automation",
+    "reasoning": "AI + Highway = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hoe": {
+    "result": "automation",
+    "reasoning": "AI + Hoe = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hook": {
+    "result": "automation",
+    "reasoning": "AI + Hook = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hot-air-balloon": {
+    "result": "automation",
+    "reasoning": "AI + Hot Air Balloon = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+hunting": {
+    "result": "automation",
+    "reasoning": "AI + Hunting = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+invention": {
+    "result": "automation",
+    "reasoning": "AI + invention = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+jack": {
+    "result": "automation",
+    "reasoning": "AI + Jack = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+junk-drawer": {
+    "result": "automation",
+    "reasoning": "AI + Junk Drawer = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+kettle": {
+    "result": "automation",
+    "reasoning": "AI + Kettle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+key": {
+    "result": "automation",
+    "reasoning": "AI + key = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+kitchen-gadget": {
+    "result": "automation",
+    "reasoning": "AI + Kitchen Gadget = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+knife": {
+    "result": "automation",
+    "reasoning": "AI + Knife = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+knitting": {
+    "result": "automation",
+    "reasoning": "AI + Knitting = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+ladle": {
+    "result": "automation",
+    "reasoning": "AI + Ladle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+lantern": {
+    "result": "automation",
+    "reasoning": "AI + Lantern = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+lock": {
+    "result": "automation",
+    "reasoning": "AI + Lock = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+loom": {
+    "result": "automation",
+    "reasoning": "AI + Loom = Automation. The robot took the job. The human took a nap."
   },
   "ai+machine": {
     "result": "automation",
     "reasoning": "Applying AI to machine produces Automation"
   },
-  "artificial-intelligence+car": {
-    "result": "self-driving-car",
-    "reasoning": "Artificial Intelligence teams up with Car; the side quest reward is Self Driving Car."
+  "ai+magnifying-glass": {
+    "result": "automation",
+    "reasoning": "AI + Magnifying Glass = Automation. The robot took the job. The human took a nap."
   },
-  "chatbot+tool": {
-    "result": "jimmy-plugin",
-    "reasoning": "Chatbot teams up with tool; the side quest reward is Jimmy Plugin."
+  "ai+mallet": {
+    "result": "automation",
+    "reasoning": "AI + Mallet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+manacle": {
+    "result": "automation",
+    "reasoning": "AI + Manacle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+mechanical": {
+    "result": "automation",
+    "reasoning": "AI + Mechanical = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+mining": {
+    "result": "automation",
+    "reasoning": "AI + Mining = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+mortar-and-pestle": {
+    "result": "automation",
+    "reasoning": "AI + Mortar and Pestle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+motor": {
+    "result": "automation",
+    "reasoning": "AI + Motor = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+motorcycle": {
+    "result": "automation",
+    "reasoning": "AI + Motorcycle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+mousetrap": {
+    "result": "automation",
+    "reasoning": "AI + Mousetrap = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+needle": {
+    "result": "automation",
+    "reasoning": "AI + Needle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+notebook": {
+    "result": "automation",
+    "reasoning": "AI + Notebook = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+oar": {
+    "result": "automation",
+    "reasoning": "AI + Oar = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+padlock": {
+    "result": "automation",
+    "reasoning": "AI + Padlock = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pen": {
+    "result": "automation",
+    "reasoning": "AI + Pen = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pencil": {
+    "result": "automation",
+    "reasoning": "AI + Pencil = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pestle": {
+    "result": "automation",
+    "reasoning": "AI + Pestle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pick": {
+    "result": "automation",
+    "reasoning": "AI + Pick = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+piston": {
+    "result": "automation",
+    "reasoning": "AI + Piston = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+plane": {
+    "result": "automation",
+    "reasoning": "AI + Plane = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pliers": {
+    "result": "automation",
+    "reasoning": "AI + Pliers = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+plough": {
+    "result": "automation",
+    "reasoning": "AI + Plough = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+plumb-bob": {
+    "result": "automation",
+    "reasoning": "AI + Plumb Bob = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+power-tool": {
+    "result": "automation",
+    "reasoning": "AI + Power Tool = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+protractor": {
+    "result": "automation",
+    "reasoning": "AI + Protractor = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pulley": {
+    "result": "automation",
+    "reasoning": "AI + Pulley = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+pump": {
+    "result": "automation",
+    "reasoning": "AI + Pump = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+purse": {
+    "result": "automation",
+    "reasoning": "AI + Purse = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+quill": {
+    "result": "automation",
+    "reasoning": "AI + Quill = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+quiver": {
+    "result": "automation",
+    "reasoning": "AI + Quiver = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+raft": {
+    "result": "automation",
+    "reasoning": "AI + Raft = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+railway": {
+    "result": "automation",
+    "reasoning": "AI + Railway = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+rake": {
+    "result": "automation",
+    "reasoning": "AI + Rake = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+ratchet": {
+    "result": "automation",
+    "reasoning": "AI + Ratchet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+rivet": {
+    "result": "automation",
+    "reasoning": "AI + Rivet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+road": {
+    "result": "automation",
+    "reasoning": "AI + Road = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+rocket": {
+    "result": "automation",
+    "reasoning": "AI + Rocket = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sailboat": {
+    "result": "automation",
+    "reasoning": "AI + Sailboat = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+satellite": {
+    "result": "automation",
+    "reasoning": "AI + Satellite = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+saw": {
+    "result": "automation",
+    "reasoning": "AI + Saw = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+scale": {
+    "result": "automation",
+    "reasoning": "AI + Scale = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+scalpel": {
+    "result": "automation",
+    "reasoning": "AI + Scalpel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+scissors": {
+    "result": "automation",
+    "reasoning": "AI + Scissors = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+screw": {
+    "result": "automation",
+    "reasoning": "AI + Screw = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sextant": {
+    "result": "automation",
+    "reasoning": "AI + Sextant = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+ship": {
+    "result": "automation",
+    "reasoning": "AI + ship = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+shovel": {
+    "result": "automation",
+    "reasoning": "AI + Shovel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sickle": {
+    "result": "automation",
+    "reasoning": "AI + Sickle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sieve": {
+    "result": "automation",
+    "reasoning": "AI + Sieve = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sled": {
+    "result": "automation",
+    "reasoning": "AI + Sled = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sledgehammer": {
+    "result": "automation",
+    "reasoning": "AI + Sledgehammer = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+smelting": {
+    "result": "automation",
+    "reasoning": "AI + Smelting = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+snorkel": {
+    "result": "automation",
+    "reasoning": "AI + Snorkel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+socket-wrench": {
+    "result": "automation",
+    "reasoning": "AI + Socket Wrench = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+soldering-iron": {
+    "result": "automation",
+    "reasoning": "AI + Soldering Iron = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+spear": {
+    "result": "automation",
+    "reasoning": "AI + Spear = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+spindle": {
+    "result": "automation",
+    "reasoning": "AI + Spindle = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+spring": {
+    "result": "automation",
+    "reasoning": "AI + Spring = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+spyglass": {
+    "result": "automation",
+    "reasoning": "AI + Spyglass = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+stapler": {
+    "result": "automation",
+    "reasoning": "AI + Stapler = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+stencil": {
+    "result": "automation",
+    "reasoning": "AI + Stencil = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+submarine": {
+    "result": "automation",
+    "reasoning": "AI + Submarine = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+subway": {
+    "result": "automation",
+    "reasoning": "AI + Subway = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+suitcase": {
+    "result": "automation",
+    "reasoning": "AI + Suitcase = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sundial": {
+    "result": "automation",
+    "reasoning": "AI + Sundial = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+swiss-army-knife": {
+    "result": "automation",
+    "reasoning": "AI + Swiss Army Knife = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+sword": {
+    "result": "automation",
+    "reasoning": "AI + Sword = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+tanning": {
+    "result": "automation",
+    "reasoning": "AI + Tanning = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+taxi": {
+    "result": "automation",
+    "reasoning": "AI + Taxi = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+thermometer": {
+    "result": "automation",
+    "reasoning": "AI + Thermometer = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+tongs": {
+    "result": "automation",
+    "reasoning": "AI + Tongs = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+tool": {
+    "result": "automation",
+    "reasoning": "AI + tool = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+traffic": {
+    "result": "automation",
+    "reasoning": "AI + Traffic = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+train": {
+    "result": "automation",
+    "reasoning": "AI + Train = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+trap": {
+    "result": "automation",
+    "reasoning": "AI + Trap = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+trebuchet": {
+    "result": "automation",
+    "reasoning": "AI + Trebuchet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+tripod": {
+    "result": "automation",
+    "reasoning": "AI + Tripod = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+trowel": {
+    "result": "automation",
+    "reasoning": "AI + Trowel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+truck": {
+    "result": "automation",
+    "reasoning": "AI + Truck = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+turbine": {
+    "result": "automation",
+    "reasoning": "AI + Turbine = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+valve": {
+    "result": "automation",
+    "reasoning": "AI + Valve = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+vise": {
+    "result": "automation",
+    "reasoning": "AI + Vise = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wagon": {
+    "result": "automation",
+    "reasoning": "AI + Wagon = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wallet": {
+    "result": "automation",
+    "reasoning": "AI + Wallet = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+weaving": {
+    "result": "automation",
+    "reasoning": "AI + Weaving = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+weight": {
+    "result": "automation",
+    "reasoning": "AI + weight = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+welding": {
+    "result": "automation",
+    "reasoning": "AI + Welding = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wheel": {
+    "result": "automation",
+    "reasoning": "AI + Wheel = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wheelbarrow": {
+    "result": "automation",
+    "reasoning": "AI + Wheelbarrow = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+whetstone": {
+    "result": "automation",
+    "reasoning": "AI + Whetstone = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+winch": {
+    "result": "automation",
+    "reasoning": "AI + Winch = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wing": {
+    "result": "automation",
+    "reasoning": "AI + wing = Automation. The robot took the job. The human took a nap."
+  },
+  "ai+wrench": {
+    "result": "automation",
+    "reasoning": "AI + Wrench = Automation. The robot took the job. The human took a nap."
+  },
+  "attention-mechanism+weight": {
+    "result": "plumb-bob",
+    "reasoning": "Combine Weight with Attention Mechanism to create Plumb Bob."
+  },
+  "brazier+decision-tree": {
+    "result": "charcoal",
+    "reasoning": "Burning Decision Tree slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "caliper+loss-function": {
+    "result": "benchmark",
+    "reasoning": "Combine Loss Function with Caliper to create Benchmark."
   },
   "chatjimmy+tool": {
     "result": "jimmy-plugin",
     "reasoning": "ChatJimmy enhanced with tool creates Jimmy Plugin"
   },
-  "machine+neural-network": {
+  "decision-tree+spring": {
+    "result": "boat",
+    "reasoning": "Decision Tree on Spring — a Boat. Humanity's first vehicle."
+  },
+  "dynamometer+loss-function": {
+    "result": "benchmark",
+    "reasoning": "Combine Loss Function with Dynamometer to create Benchmark."
+  },
+  "focus+weight": {
+    "result": "attention-mechanism",
+    "reasoning": "Combine Focus with Weight to create Attention Mechanism."
+  },
+  "gemini+generator": {
     "result": "automation",
-    "reasoning": "Someone mixed machine with Neural Network for science. The peer-reviewed conclusion: Automation."
+    "reasoning": "Gemini + Generator = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+gimbal": {
+    "result": "automation",
+    "reasoning": "Gemini + Gimbal = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+gondola": {
+    "result": "automation",
+    "reasoning": "Gemini + Gondola = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+grappling-hook": {
+    "result": "automation",
+    "reasoning": "Gemini + Grappling Hook = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+grinder": {
+    "result": "automation",
+    "reasoning": "Gemini + Grinder = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+grinding": {
+    "result": "automation",
+    "reasoning": "Gemini + Grinding = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+gun": {
+    "result": "automation",
+    "reasoning": "Gemini + gun = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hammer": {
+    "result": "automation",
+    "reasoning": "Gemini + Hammer = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hand-saw": {
+    "result": "automation",
+    "reasoning": "Gemini + Hand Saw = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+helicopter": {
+    "result": "automation",
+    "reasoning": "Gemini + Helicopter = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+helmet": {
+    "result": "automation",
+    "reasoning": "Gemini + Helmet = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+highway": {
+    "result": "automation",
+    "reasoning": "Gemini + Highway = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hoe": {
+    "result": "automation",
+    "reasoning": "Gemini + Hoe = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hook": {
+    "result": "automation",
+    "reasoning": "Gemini + Hook = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hot-air-balloon": {
+    "result": "automation",
+    "reasoning": "Gemini + Hot Air Balloon = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+hunting": {
+    "result": "automation",
+    "reasoning": "Gemini + Hunting = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+invention": {
+    "result": "automation",
+    "reasoning": "Gemini + invention = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+jack": {
+    "result": "automation",
+    "reasoning": "Gemini + Jack = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+junk-drawer": {
+    "result": "automation",
+    "reasoning": "Gemini + Junk Drawer = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+kettle": {
+    "result": "automation",
+    "reasoning": "Gemini + Kettle = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+key": {
+    "result": "automation",
+    "reasoning": "Gemini + key = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+kitchen-gadget": {
+    "result": "automation",
+    "reasoning": "Gemini + Kitchen Gadget = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+knife": {
+    "result": "automation",
+    "reasoning": "Gemini + Knife = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+knitting": {
+    "result": "automation",
+    "reasoning": "Gemini + Knitting = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+ladle": {
+    "result": "automation",
+    "reasoning": "Gemini + Ladle = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+lantern": {
+    "result": "automation",
+    "reasoning": "Gemini + Lantern = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+level": {
+    "result": "automation",
+    "reasoning": "Gemini + Level = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+lever": {
+    "result": "automation",
+    "reasoning": "Gemini + Lever = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+lock": {
+    "result": "automation",
+    "reasoning": "Gemini + Lock = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+loom": {
+    "result": "automation",
+    "reasoning": "Gemini + Loom = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mace": {
+    "result": "automation",
+    "reasoning": "Gemini + Mace = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+machine": {
+    "result": "automation",
+    "reasoning": "Gemini + machine = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+magnifying-glass": {
+    "result": "automation",
+    "reasoning": "Gemini + Magnifying Glass = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mallet": {
+    "result": "automation",
+    "reasoning": "Gemini + Mallet = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+manacle": {
+    "result": "automation",
+    "reasoning": "Gemini + Manacle = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mechanical": {
+    "result": "automation",
+    "reasoning": "Gemini + Mechanical = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mining": {
+    "result": "automation",
+    "reasoning": "Gemini + Mining = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mortar-and-pestle": {
+    "result": "automation",
+    "reasoning": "Gemini + Mortar and Pestle = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+motor": {
+    "result": "automation",
+    "reasoning": "Gemini + Motor = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+motorcycle": {
+    "result": "automation",
+    "reasoning": "Gemini + Motorcycle = Automation. The robot took the job. The human took a nap."
+  },
+  "gemini+mousetrap": {
+    "result": "automation",
+    "reasoning": "Gemini + Mousetrap = Automation. The robot took the job. The human took a nap."
   }
 }

@@ -1,138 +1,882 @@
 {
+  "abacus+idea": {
+    "result": "conjecture",
+    "reasoning": "Combine Idea with Abacus to create Conjecture."
+  },
+  "airplane+child": {
+    "result": "pilot",
+    "reasoning": "Pilots navigate aircraft through the skies"
+  },
   "airplane+human": {
     "result": "pilot",
     "reasoning": "Airplane and human together shape Pilot"
   },
-  "airplane+intelligence": {
-    "result": "ufo",
-    "reasoning": "Airplane teams up with intelligence; the side quest reward is UFO."
+  "airplane+man": {
+    "result": "pilot",
+    "reasoning": "Pilots navigate aircraft through the skies"
+  },
+  "airplane+monk": {
+    "result": "pilot",
+    "reasoning": "Pilots navigate aircraft through the skies"
+  },
+  "airplane+woman": {
+    "result": "pilot",
+    "reasoning": "Pilots navigate aircraft through the skies"
+  },
+  "ambition+machine": {
+    "result": "mechanic",
+    "reasoning": "Combine Machine with Ambition to create Mechanic."
+  },
+  "anger+art-supplies": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "anvil+child": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "anvil+human": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "anvil+man": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "anvil+monk": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "anvil+woman": {
+    "result": "blacksmith",
+    "reasoning": "The anvil is the blacksmith's altar — where raw metal becomes useful"
+  },
+  "anxiety+art-supplies": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "apothecary+arrow": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Arrow = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+art-supplies": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Art Supplies = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+auger": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Auger = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+axe": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Axe = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+backpack": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Backpack = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bag": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + bag = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+battering-ram": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Battering Ram = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bellows": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bellows = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bicycle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bicycle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+binoculars": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Binoculars = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+block-and-tackle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Block and Tackle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+boat": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Boat = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bolt": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bolt = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bow": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bow = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+brace": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Brace = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+brazier": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Brazier = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+broom": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Broom = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bucket": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bucket = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+bus": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Bus = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+caliper": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Caliper = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+canoe": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Canoe = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+canteen": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Canteen = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+car": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Car = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+carabiner": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Carabiner = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+carriage": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Carriage = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+cart": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Cart = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+carving": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Carving = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+catapult": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Catapult = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+chainmail": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Chainmail = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+chariot": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Chariot = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+chisel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Chisel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+clamp": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Clamp = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+crossbow": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Crossbow = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+crowbar": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Crowbar = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+crucible": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Crucible = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+cylinder": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + cylinder = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+dagger": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Dagger = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+drawknife": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Drawknife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+drill": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Drill = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+dyeing": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Dyeing = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+dynamometer": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Dynamometer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+engine": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Engine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+eraser": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Eraser = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+forge-bellows": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Forge Bellows = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+forging": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Forging = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+funnel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Funnel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+garden-shed": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Garden Shed = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+gear": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Gear = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+gears": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Gears = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+generator": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Generator = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+gimbal": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Gimbal = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+gondola": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Gondola = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+grappling-hook": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Grappling Hook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+grinder": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Grinder = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+grinding": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Grinding = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+gun": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + gun = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hammer": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hammer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hand-saw": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hand Saw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+helicopter": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Helicopter = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+helmet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Helmet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+highway": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Highway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hoe": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hoe = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hook": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hot-air-balloon": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hot Air Balloon = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+hunting": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Hunting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+invention": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + invention = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+jack": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Jack = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+junk-drawer": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Junk Drawer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+kettle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Kettle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+key": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + key = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+kitchen-gadget": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Kitchen Gadget = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+knife": {
+    "result": "surgeon",
+    "reasoning": "Combine Apothecary with Knife to create Surgeon."
+  },
+  "apothecary+knitting": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Knitting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+ladle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Ladle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+lantern": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Lantern = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+level": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Level = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+lever": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Lever = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+lock": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Lock = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+loom": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Loom = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mace": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mace = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+machine": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + machine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+magnifying-glass": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Magnifying Glass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mallet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mallet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+manacle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Manacle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mechanical": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mechanical = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mining": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mining = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mortar-and-pestle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mortar and Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+motor": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Motor = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+motorcycle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Motorcycle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+mousetrap": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Mousetrap = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+needle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Needle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+notebook": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Notebook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+oar": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Oar = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+padlock": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Padlock = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pen": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pen = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pencil": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pencil = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pestle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pick": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pick = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+piston": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Piston = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+plane": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Plane = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pliers": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pliers = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+plough": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Plough = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+plumb-bob": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Plumb Bob = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+power-tool": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Power Tool = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+protractor": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Protractor = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pulley": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pulley = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+pump": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Pump = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+purse": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Purse = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+quill": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Quill = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+quiver": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Quiver = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+raft": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Raft = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+railway": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Railway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+rake": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Rake = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+ratchet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Ratchet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+rivet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Rivet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+road": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Road = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+rocket": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Rocket = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+ruler": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Ruler = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sailboat": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sailboat = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+satellite": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Satellite = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+saw": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Saw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+scale": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Scale = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+scalpel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Scalpel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+scissors": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Scissors = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+screw": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Screw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sextant": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sextant = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+ship": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + ship = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+shovel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Shovel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sickle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sickle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sieve": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sieve = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sled": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sled = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sledgehammer": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sledgehammer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+smelting": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Smelting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+snorkel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Snorkel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+socket-wrench": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Socket Wrench = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+soldering-iron": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Soldering Iron = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+spear": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Spear = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+spindle": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Spindle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+spring": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Spring = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+spyglass": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Spyglass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+stapler": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Stapler = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+stencil": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Stencil = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+submarine": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Submarine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+subway": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Subway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+suitcase": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Suitcase = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sundial": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sundial = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+swiss-army-knife": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Swiss Army Knife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+sword": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Sword = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+tanning": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Tanning = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+taxi": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Taxi = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+thermometer": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Thermometer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+tongs": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Tongs = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+tool": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + tool = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+traffic": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Traffic = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+train": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Train = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+trap": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Trap = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+trebuchet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Trebuchet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+tripod": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Tripod = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+trowel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Trowel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+truck": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Truck = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+turbine": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Turbine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+valve": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Valve = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+vise": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Vise = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wagon": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Wagon = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wallet": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Wallet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+weaving": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Weaving = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+weight": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + weight = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+welding": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Welding = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wheel": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Wheel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wheelbarrow": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Wheelbarrow = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+whetstone": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Whetstone = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+winch": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Winch = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wing": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + wing = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "apothecary+wrench": {
+    "result": "diy-disaster",
+    "reasoning": "Apothecary + Wrench = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "arrow+child": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "arrow+human": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "arrow+man": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "arrow+monk": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "arrow+resilience": {
+    "result": "quiver",
+    "reasoning": "Combine Arrow with Resilience to create Quiver."
+  },
+  "arrow+woman": {
+    "result": "ranger",
+    "reasoning": "Arrows require a skilled ranger to hit their mark"
+  },
+  "art-supplies+awe": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+courage": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+despair": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+emotion": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+empathy": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+excitement": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+fear": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+grief": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+happiness": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+hope": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+joy": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+love": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+nostalgia": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+pride": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+sadness": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "art-supplies+shame": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "axe+child": {
+    "result": "lumberjack",
+    "reasoning": "Lumberjacks fell trees with axes — the original forest industry"
   },
   "axe+human": {
-    "result": "crutch",
-    "reasoning": "Someone mixed Axe with human for science. The peer-reviewed conclusion: Crutch."
+    "result": "miner",
+    "reasoning": "A human with a pickaxe is a Miner"
   },
-  "bag+human": {
-    "result": "purse",
-    "reasoning": "bag and human shake hands, reality shrugs, and Purse is suddenly canon."
+  "axe+man": {
+    "result": "lumberjack",
+    "reasoning": "Lumberjacks fell trees with axes — the original forest industry"
   },
-  "body+machine": {
-    "result": "prosthetic",
-    "reasoning": "Someone mixed Body with machine for science. The peer-reviewed conclusion: Prosthetic."
+  "axe+monk": {
+    "result": "lumberjack",
+    "reasoning": "Lumberjacks fell trees with axes — the original forest industry"
   },
-  "body+tool": {
-    "result": "hand",
-    "reasoning": "The human experience of Body and tool manifests as hand"
+  "axe+woman": {
+    "result": "lumberjack",
+    "reasoning": "Lumberjacks fell trees with axes — the original forest industry"
   },
-  "brain+machine": {
-    "result": "cyborg",
-    "reasoning": "Brain plus machine is the weird recipe your alchemist friend swears by for making Cyborg."
+  "binoculars+child": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
   },
-  "brain+traffic": {
-    "result": "building",
-    "reasoning": "Brain meets Traffic, chaos files a memo, and building walks out with the trophy."
+  "binoculars+human": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
   },
-  "car+head": {
-    "result": "building",
-    "reasoning": "Car and head accidentally host a crossover episode; building steals the finale."
+  "binoculars+man": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
   },
-  "courage+ship": {
-    "result": "captain",
-    "reasoning": "courage and ship together shape Captain"
+  "binoculars+monk": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
   },
-  "engine+human": {
-    "result": "pilot",
-    "reasoning": "Engine plus human is the weird recipe your alchemist friend swears by for making Pilot."
-  },
-  "fear+ship": {
-    "result": "captain",
-    "reasoning": "When fear and ship collide, logic takes a coffee break and Captain appears anyway."
-  },
-  "foot+tool": {
-    "result": "shoe",
-    "reasoning": "foot teams up with tool; the side quest reward is Shoe."
-  },
-  "hand+tool": {
-    "result": "glove",
-    "reasoning": "When hand and tool collide, logic takes a coffee break and Glove appears anyway."
-  },
-  "happiness+railway": {
-    "result": "roller-coaster",
-    "reasoning": "Happiness and Railway shake hands, reality shrugs, and Roller Coaster is suddenly canon."
-  },
-  "happiness+tool": {
-    "result": "game",
-    "reasoning": "Happiness plus tool is the weird recipe your alchemist friend swears by for making Game."
-  },
-  "head+traffic": {
-    "result": "building",
-    "reasoning": "head combined with Traffic yields building"
-  },
-  "heart+ship": {
-    "result": "captain",
-    "reasoning": "Someone mixed Heart with ship for science. The peer-reviewed conclusion: Captain."
-  },
-  "human+machine": {
-    "result": "watch",
-    "reasoning": "human meets machine, chaos files a memo, and Watch walks out with the trophy."
-  },
-  "human+needle": {
-    "result": "syringe",
-    "reasoning": "human plus Needle is the weird recipe your alchemist friend swears by for making Syringe."
-  },
-  "human+rocket": {
-    "result": "astronaut",
-    "reasoning": "human and Rocket combine in the cosmos to create Astronaut"
-  },
-  "human+ship": {
-    "result": "pirate",
-    "reasoning": "Through mystical forces, human and ship become Pirate"
-  },
-  "human+sword": {
-    "result": "army",
-    "reasoning": "human and Sword together shape Army"
-  },
-  "human+tool": {
-    "result": "hand",
-    "reasoning": "Someone mixed human with tool for science. The peer-reviewed conclusion: hand."
-  },
-  "human+wheel": {
-    "result": "wheelchair",
-    "reasoning": "human and Wheel explain the phenomenon of Wheelchair"
-  },
-  "human+wing": {
-    "result": "pilot",
-    "reasoning": "When human and wing collide, logic takes a coffee break and Pilot appears anyway."
-  },
-  "idea+machine": {
-    "result": "product",
-    "reasoning": "Idea meets machine, chaos files a memo, and product walks out with the trophy."
-  },
-  "idea+rocket": {
-    "result": "spacex",
-    "reasoning": "Idea tags in with Rocket, and somehow the universe speedruns SpaceX."
-  },
-  "idea+tool": {
-    "result": "invention",
-    "reasoning": "Crafting Idea with tool produces invention"
-  },
-  "intelligence+rocket": {
-    "result": "astronaut",
-    "reasoning": "When intelligence and Rocket collide, logic takes a coffee break and Astronaut appears anyway."
-  },
-  "intelligence+sword": {
-    "result": "army",
-    "reasoning": "intelligence teams up with Sword; the side quest reward is Army."
-  },
-  "speech+tool": {
-    "result": "communication",
-    "reasoning": "Applying Speech to tool produces Communication"
-  },
-  "thought+tool": {
-    "result": "communication",
-    "reasoning": "Thought meets tool, chaos files a memo, and Communication walks out with the trophy."
-  },
-  "tool+voice": {
-    "result": "communication",
-    "reasoning": "When tool and voice collide, logic takes a coffee break and Communication appears anyway."
+  "binoculars+woman": {
+    "result": "navigator",
+    "reasoning": "Navigators scan the horizon with binoculars — watching for land"
   }
 }

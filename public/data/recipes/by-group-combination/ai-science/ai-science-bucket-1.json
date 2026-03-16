@@ -1,50 +1,882 @@
 {
-  "agi+infinity": {
-    "result": "singularity",
-    "reasoning": "When AGI and Infinity collide, logic takes a coffee break and Singularity appears anyway."
+  "absolute-zero+large-language-model": {
+    "result": "sparse-model",
+    "reasoning": "Combine Absolute Zero with Large Language Model to create Sparse Model."
   },
-  "ai-art+speed": {
-    "result": "jimmy-art",
-    "reasoning": "AI Art tags in with Speed, and somehow the universe speedruns Jimmy Art."
+  "absolute-zero+model": {
+    "result": "sparse-model",
+    "reasoning": "Combine Absolute Zero with Model to create Sparse Model."
+  },
+  "absolute-zero+scaling-law": {
+    "result": "zero-shot",
+    "reasoning": "Combine Absolute Zero with Scaling Law to create Zero-Shot."
+  },
+  "absolute-zero+self-supervised": {
+    "result": "zero-shot",
+    "reasoning": "Combine Absolute Zero with Self Supervised to create Zero-Shot."
+  },
+  "absolute-zero+sparse-model": {
+    "result": "zero-shot",
+    "reasoning": "Combine Absolute Zero with Sparse Model to create Zero-Shot."
+  },
+  "agent-framework+brownian-motion": {
+    "result": "temperature",
+    "reasoning": "Combine Brownian Motion with Agent Framework to create Temperature."
+  },
+  "ai-generated-art+food-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + Food Science = AI — humanity's greatest amplifier."
+  },
+  "ai-generated-art+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "ai-generated-art+science": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + science = AI — humanity's greatest amplifier."
+  },
+  "ai-music+frequency": {
+    "result": "harmonic",
+    "reasoning": "Combine Frequency with Ai Music to create Harmonic."
+  },
+  "ai+algebra": {
+    "result": "deepmind",
+    "reasoning": "AI + Algebra = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+allotrope": {
+    "result": "deepmind",
+    "reasoning": "AI + Allotrope = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+amplitude": {
+    "result": "deepmind",
+    "reasoning": "AI + Amplitude = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+archimedes-principle": {
+    "result": "deepmind",
+    "reasoning": "AI + Archimedes Principle = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+astronomy": {
+    "result": "deepmind",
+    "reasoning": "AI + Astronomy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+atom": {
+    "result": "deepmind",
+    "reasoning": "AI + Atom = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+bandage": {
+    "result": "deepmind",
+    "reasoning": "AI + Bandage = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+base": {
+    "result": "deepmind",
+    "reasoning": "AI + Base = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+biology": {
+    "result": "deepmind",
+    "reasoning": "AI + Biology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+biomass": {
+    "result": "deepmind",
+    "reasoning": "AI + Biomass = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+boiling-point": {
+    "result": "deepmind",
+    "reasoning": "AI + Boiling Point = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+brownian-motion": {
+    "result": "deepmind",
+    "reasoning": "AI + Brownian Motion = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+buoyancy": {
+    "result": "deepmind",
+    "reasoning": "AI + Buoyancy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+calculus": {
+    "result": "deepmind",
+    "reasoning": "AI + Calculus = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+capillary-action": {
+    "result": "deepmind",
+    "reasoning": "AI + Capillary Action = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+carbon": {
+    "result": "deepmind",
+    "reasoning": "AI + Carbon = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+catalyst": {
+    "result": "deepmind",
+    "reasoning": "AI + Catalyst = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+centrifuge": {
+    "result": "deepmind",
+    "reasoning": "AI + Centrifuge = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+centripetal-force": {
+    "result": "deepmind",
+    "reasoning": "AI + Centripetal Force = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+change": {
+    "result": "deepmind",
+    "reasoning": "AI + change = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+climate-change": {
+    "result": "deepmind",
+    "reasoning": "AI + Climate Change = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+clock": {
+    "result": "deepmind",
+    "reasoning": "AI + Clock = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+cloning": {
+    "result": "deepmind",
+    "reasoning": "AI + Cloning = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+coffin": {
+    "result": "deepmind",
+    "reasoning": "AI + Coffin = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+combustion": {
+    "result": "deepmind",
+    "reasoning": "AI + Combustion = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+compass": {
+    "result": "deepmind",
+    "reasoning": "AI + compass = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+conductivity": {
+    "result": "deepmind",
+    "reasoning": "AI + Conductivity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+contact-lens": {
+    "result": "deepmind",
+    "reasoning": "AI + Contact Lens = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+convection": {
+    "result": "deepmind",
+    "reasoning": "AI + Convection = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+crispr": {
+    "result": "deepmind",
+    "reasoning": "AI + CRISPR = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+critical-mass": {
+    "result": "deepmind",
+    "reasoning": "AI + Critical Mass = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+crutch": {
+    "result": "deepmind",
+    "reasoning": "AI + Crutch = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+crystallization": {
+    "result": "deepmind",
+    "reasoning": "AI + Crystallization = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+death": {
+    "result": "deepmind",
+    "reasoning": "AI + death = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+decay": {
+    "result": "deepmind",
+    "reasoning": "AI + Decay = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+density": {
+    "result": "deepmind",
+    "reasoning": "AI + Density = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+destiny": {
+    "result": "deepmind",
+    "reasoning": "AI + Destiny = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+diffusion": {
+    "result": "deepmind",
+    "reasoning": "AI + Diffusion = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+distilling": {
+    "result": "deepmind",
+    "reasoning": "AI + Distilling = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+doppler-effect": {
+    "result": "deepmind",
+    "reasoning": "AI + Doppler Effect = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+drug": {
+    "result": "deepmind",
+    "reasoning": "AI + Drug = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+ecology": {
+    "result": "deepmind",
+    "reasoning": "AI + Ecology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+elasticity": {
+    "result": "deepmind",
+    "reasoning": "AI + Elasticity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+electrolysis": {
+    "result": "deepmind",
+    "reasoning": "AI + Electrolysis = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+electromagnetic-spectrum": {
+    "result": "deepmind",
+    "reasoning": "AI + Electromagnetic Spectrum = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+electron": {
+    "result": "deepmind",
+    "reasoning": "AI + Electron = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+engineering": {
+    "result": "deepmind",
+    "reasoning": "AI + engineering = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+entropy": {
+    "result": "deepmind",
+    "reasoning": "AI + Entropy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+equilibrium": {
+    "result": "deepmind",
+    "reasoning": "AI + Equilibrium = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+evaporation": {
+    "result": "deepmind",
+    "reasoning": "AI + Evaporation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+failed-experiment": {
+    "result": "deepmind",
+    "reasoning": "AI + Failed Experiment = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fermentation": {
+    "result": "deepmind",
+    "reasoning": "AI + Fermentation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fertilizer": {
+    "result": "deepmind",
+    "reasoning": "AI + Fertilizer = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fission": {
+    "result": "deepmind",
+    "reasoning": "AI + Fission = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fluorescence": {
+    "result": "deepmind",
+    "reasoning": "AI + Fluorescence = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+food-science": {
+    "result": "deepmind",
+    "reasoning": "AI + Food Science = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fragility": {
+    "result": "deepmind",
+    "reasoning": "AI + Fragility = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+frequency": {
+    "result": "deepmind",
+    "reasoning": "AI + Frequency = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fulcrum": {
+    "result": "deepmind",
+    "reasoning": "AI + Fulcrum = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+fusion": {
+    "result": "deepmind",
+    "reasoning": "AI + Fusion = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+future": {
+    "result": "deepmind",
+    "reasoning": "AI + Future = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+genetic-engineering": {
+    "result": "deepmind",
+    "reasoning": "AI + Genetic Engineering = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+geology": {
+    "result": "deepmind",
+    "reasoning": "AI + Geology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+geometry": {
+    "result": "deepmind",
+    "reasoning": "AI + Geometry = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+geothermal": {
+    "result": "deepmind",
+    "reasoning": "AI + Geothermal = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+glasses": {
+    "result": "deepmind",
+    "reasoning": "AI + Glasses = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+global-warming": {
+    "result": "deepmind",
+    "reasoning": "AI + Global Warming = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+grave": {
+    "result": "deepmind",
+    "reasoning": "AI + Grave = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+green-energy": {
+    "result": "deepmind",
+    "reasoning": "AI + Green Energy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+half-life": {
+    "result": "deepmind",
+    "reasoning": "AI + Half-Life = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+harmonic": {
+    "result": "deepmind",
+    "reasoning": "AI + Harmonic = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+hearing-aid": {
+    "result": "deepmind",
+    "reasoning": "AI + Hearing Aid = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+helium": {
+    "result": "deepmind",
+    "reasoning": "AI + Helium = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+history": {
+    "result": "deepmind",
+    "reasoning": "AI + history = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+hourglass": {
+    "result": "deepmind",
+    "reasoning": "AI + Hourglass = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+hydraulics": {
+    "result": "deepmind",
+    "reasoning": "AI + Hydraulics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+hydrogen": {
+    "result": "deepmind",
+    "reasoning": "AI + Hydrogen = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+hydropower": {
+    "result": "deepmind",
+    "reasoning": "AI + Hydropower = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+ideal-gas-law": {
+    "result": "deepmind",
+    "reasoning": "AI + Ideal Gas Law = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+impulse": {
+    "result": "deepmind",
+    "reasoning": "AI + Impulse = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+inertia": {
+    "result": "deepmind",
+    "reasoning": "AI + Inertia = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+infinity": {
+    "result": "deepmind",
+    "reasoning": "AI + Infinity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+insulation": {
+    "result": "deepmind",
+    "reasoning": "AI + Insulation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+interference": {
+    "result": "deepmind",
+    "reasoning": "AI + Interference = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+isotope": {
+    "result": "deepmind",
+    "reasoning": "AI + Isotope = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+joule": {
+    "result": "deepmind",
+    "reasoning": "AI + Joule = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+lab-equipment": {
+    "result": "deepmind",
+    "reasoning": "AI + Lab Equipment = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+lab-rat": {
+    "result": "deepmind",
+    "reasoning": "AI + Lab Rat = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+laser": {
+    "result": "deepmind",
+    "reasoning": "AI + Laser = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+lattice": {
+    "result": "deepmind",
+    "reasoning": "AI + Lattice = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+luminescence": {
+    "result": "deepmind",
+    "reasoning": "AI + Luminescence = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+magnetism": {
+    "result": "deepmind",
+    "reasoning": "AI + Magnetism = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+mathematics": {
+    "result": "deepmind",
+    "reasoning": "AI + mathematics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+matter": {
+    "result": "deepmind",
+    "reasoning": "AI + matter = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+measurement": {
+    "result": "deepmind",
+    "reasoning": "AI + Measurement = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+medicine": {
+    "result": "deepmind",
+    "reasoning": "AI + Medicine = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+meditation": {
+    "result": "deepmind",
+    "reasoning": "AI + Meditation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+meteorology": {
+    "result": "deepmind",
+    "reasoning": "AI + Meteorology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+molecule": {
+    "result": "deepmind",
+    "reasoning": "AI + Molecule = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+momentum": {
+    "result": "deepmind",
+    "reasoning": "AI + Momentum = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+neon": {
+    "result": "deepmind",
+    "reasoning": "AI + Neon = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+neutron": {
+    "result": "deepmind",
+    "reasoning": "AI + Neutron = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+newtons-cradle": {
+    "result": "deepmind",
+    "reasoning": "AI + Newtons Cradle = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+nitrogen": {
+    "result": "deepmind",
+    "reasoning": "AI + Nitrogen = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+nuclear": {
+    "result": "deepmind",
+    "reasoning": "AI + Nuclear = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+nutrition": {
+    "result": "deepmind",
+    "reasoning": "AI + Nutrition = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+ohms-law": {
+    "result": "deepmind",
+    "reasoning": "AI + Ohms Law = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+optics": {
+    "result": "deepmind",
+    "reasoning": "AI + Optics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+oscillation": {
+    "result": "deepmind",
+    "reasoning": "AI + Oscillation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+osmosis": {
+    "result": "deepmind",
+    "reasoning": "AI + Osmosis = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+oxidation": {
+    "result": "deepmind",
+    "reasoning": "AI + Oxidation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+oxygen": {
+    "result": "deepmind",
+    "reasoning": "AI + Oxygen = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+pacemaker": {
+    "result": "deepmind",
+    "reasoning": "AI + Pacemaker = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+pascals-law": {
+    "result": "deepmind",
+    "reasoning": "AI + Pascals Law = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+peer-pressure": {
+    "result": "deepmind",
+    "reasoning": "AI + Peer Pressure = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+phase-transition": {
+    "result": "deepmind",
+    "reasoning": "AI + Phase Transition = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+physics": {
+    "result": "deepmind",
+    "reasoning": "AI + Physics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+pill": {
+    "result": "deepmind",
+    "reasoning": "AI + Pill = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+plasma": {
+    "result": "deepmind",
+    "reasoning": "AI + Plasma = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+plasma-state": {
+    "result": "deepmind",
+    "reasoning": "AI + Plasma State = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+point": {
+    "result": "deepmind",
+    "reasoning": "AI + point = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+polarization": {
+    "result": "deepmind",
+    "reasoning": "AI + Polarization = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+pollution": {
+    "result": "deepmind",
+    "reasoning": "AI + Pollution = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+polymer": {
+    "result": "deepmind",
+    "reasoning": "AI + Polymer = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+prophecy": {
+    "result": "deepmind",
+    "reasoning": "AI + Prophecy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+prosthetic": {
+    "result": "deepmind",
+    "reasoning": "AI + Prosthetic = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+proton": {
+    "result": "deepmind",
+    "reasoning": "AI + Proton = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+psychology": {
+    "result": "deepmind",
+    "reasoning": "AI + Psychology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+quantum": {
+    "result": "deepmind",
+    "reasoning": "AI + Quantum = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+radiation": {
+    "result": "deepmind",
+    "reasoning": "AI + Radiation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+radioactivity": {
+    "result": "deepmind",
+    "reasoning": "AI + Radioactivity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+rebirth": {
+    "result": "deepmind",
+    "reasoning": "AI + Rebirth = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+recycling": {
+    "result": "deepmind",
+    "reasoning": "AI + Recycling = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+refraction": {
+    "result": "deepmind",
+    "reasoning": "AI + Refraction = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+relativity": {
+    "result": "deepmind",
+    "reasoning": "AI + Relativity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+resonance": {
+    "result": "deepmind",
+    "reasoning": "AI + Resonance = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+rocket-science": {
+    "result": "deepmind",
+    "reasoning": "AI + Rocket Science = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+science": {
+    "result": "deepmind",
+    "reasoning": "AI + science = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+sharpness": {
+    "result": "deepmind",
+    "reasoning": "AI + Sharpness = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+skeleton": {
+    "result": "deepmind",
+    "reasoning": "AI + Skeleton = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+smog": {
+    "result": "deepmind",
+    "reasoning": "AI + Smog = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+sociology": {
+    "result": "deepmind",
+    "reasoning": "AI + Sociology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+solvent": {
+    "result": "deepmind",
+    "reasoning": "AI + Solvent = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+spectrum": {
+    "result": "deepmind",
+    "reasoning": "AI + Spectrum = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+speed": {
+    "result": "deepmind",
+    "reasoning": "AI + Speed = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+static": {
+    "result": "deepmind",
+    "reasoning": "AI + Static = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+statistics": {
+    "result": "deepmind",
+    "reasoning": "AI + Statistics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+sublimation": {
+    "result": "deepmind",
+    "reasoning": "AI + Sublimation = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+superconductor": {
+    "result": "deepmind",
+    "reasoning": "AI + Superconductor = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+supercooling": {
+    "result": "deepmind",
+    "reasoning": "AI + Supercooling = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+surface-tension": {
+    "result": "deepmind",
+    "reasoning": "AI + Surface Tension = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+surgery": {
+    "result": "deepmind",
+    "reasoning": "AI + Surgery = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+sustainability": {
+    "result": "deepmind",
+    "reasoning": "AI + Sustainability = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+syringe": {
+    "result": "deepmind",
+    "reasoning": "AI + Syringe = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+therapy": {
+    "result": "deepmind",
+    "reasoning": "AI + Therapy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+thermocline": {
+    "result": "deepmind",
+    "reasoning": "AI + Thermocline = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+time": {
+    "result": "deepmind",
+    "reasoning": "AI + time = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+torque": {
+    "result": "deepmind",
+    "reasoning": "AI + Torque = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+toxicity": {
+    "result": "deepmind",
+    "reasoning": "AI + Toxicity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+transparency": {
+    "result": "deepmind",
+    "reasoning": "AI + Transparency = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+turbulence": {
+    "result": "deepmind",
+    "reasoning": "AI + Turbulence = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+vaccine": {
+    "result": "deepmind",
+    "reasoning": "AI + Vaccine = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+velocity": {
+    "result": "deepmind",
+    "reasoning": "AI + Velocity = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+vibration": {
+    "result": "deepmind",
+    "reasoning": "AI + Vibration = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+vitamin": {
+    "result": "deepmind",
+    "reasoning": "AI + Vitamin = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+void": {
+    "result": "deepmind",
+    "reasoning": "AI + void = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+waste": {
+    "result": "deepmind",
+    "reasoning": "AI + waste = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+wave": {
+    "result": "deepmind",
+    "reasoning": "AI + Wave = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+wavelength": {
+    "result": "deepmind",
+    "reasoning": "AI + Wavelength = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+wheelchair": {
+    "result": "deepmind",
+    "reasoning": "AI + Wheelchair = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+x-ray": {
+    "result": "deepmind",
+    "reasoning": "AI + X Ray = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+yoga": {
+    "result": "deepmind",
+    "reasoning": "AI + Yoga = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+zero": {
+    "result": "deepmind",
+    "reasoning": "AI + Zero = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "ai+zoology": {
+    "result": "deepmind",
+    "reasoning": "AI + Zoology = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "big-data+convection": {
+    "result": "data-pipeline",
+    "reasoning": "Combine Big Data with Convection to create Data Pipeline."
   },
   "chatbot+speed": {
     "result": "chatjimmy",
     "reasoning": "A fast chatbot becomes ChatJimmy"
   },
-  "code-generation+speed": {
-    "result": "jimmy-code",
-    "reasoning": "Code Generation teams up with Speed; the side quest reward is Jimmy Code."
+  "code-generation+food-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + Food Science = AI — humanity's greatest amplifier."
+  },
+  "code-generation+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "code-generation+science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + science = AI — humanity's greatest amplifier."
+  },
+  "combustion+decision-tree": {
+    "result": "charcoal",
+    "reasoning": "Burning Decision Tree slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "data-pipeline+food-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Data Pipeline + Food Science = AI — humanity's greatest amplifier."
+  },
+  "data-pipeline+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Data Pipeline + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "data-pipeline+science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Data Pipeline + science = AI — humanity's greatest amplifier."
+  },
+  "edge-ai+food-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Edge AI + Food Science = AI — humanity's greatest amplifier."
+  },
+  "edge-ai+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Edge AI + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "edge-ai+science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Edge AI + science = AI — humanity's greatest amplifier."
   },
   "engineering+prompt": {
     "result": "prompt-engineering",
     "reasoning": "engineering enhanced with Prompt creates Prompt Engineering"
   },
-  "infinity+superintelligence": {
-    "result": "singularity",
-    "reasoning": "Infinity enhanced with Superintelligence creates Singularity"
+  "focus+pendulum": {
+    "result": "attention-mechanism",
+    "reasoning": "Combine Focus with Pendulum to create Attention Mechanism."
   },
-  "llm+speed": {
-    "result": "chatjimmy",
-    "reasoning": "LLM enhanced with Speed creates ChatJimmy"
+  "fossil-fuel+knowledge-graph": {
+    "result": "philosophy",
+    "reasoning": "Fossil Fuel pursuit of Knowledge Graph = Philosophy — love of wisdom."
   },
-  "llm+time": {
-    "result": "context-window",
-    "reasoning": "Someone mixed LLM with time for science. The peer-reviewed conclusion: Context Window."
+  "gemini+genetic-engineering": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Genetic Engineering = DeepMind-level AI. It solved protein folding. What's next?"
   },
-  "mathematics+prompt": {
-    "result": "prompt-engineering",
-    "reasoning": "Someone mixed mathematics with Prompt for science. The peer-reviewed conclusion: Prompt Engineering."
+  "gemini+geology": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Geology = DeepMind-level AI. It solved protein folding. What's next?"
   },
-  "speed+translation": {
-    "result": "jimmy-translate",
-    "reasoning": "Speed plus Translation is the weird recipe your alchemist friend swears by for making Jimmy Translate."
+  "gemini+geometry": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Geometry = DeepMind-level AI. It solved protein folding. What's next?"
   },
-  "speed+voice-clone": {
-    "result": "jimmy-voice",
-    "reasoning": "Someone mixed Speed with Voice Clone for science. The peer-reviewed conclusion: Jimmy Voice."
+  "gemini+geothermal": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Geothermal = DeepMind-level AI. It solved protein folding. What's next?"
   },
-  "superintelligence+time": {
-    "result": "singularity",
-    "reasoning": "Superintelligence and time shake hands, reality shrugs, and Singularity is suddenly canon."
+  "gemini+glasses": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Glasses = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+global-warming": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Global Warming = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+grave": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Grave = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+green-energy": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Green Energy = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+half-life": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Half-Life = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+harmonic": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Harmonic = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+hearing-aid": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Hearing Aid = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+helium": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Helium = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+history": {
+    "result": "deepmind",
+    "reasoning": "Gemini + history = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+hourglass": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Hourglass = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+hydraulics": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Hydraulics = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+hydrogen": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Hydrogen = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+hydropower": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Hydropower = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+ideal-gas-law": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Ideal Gas Law = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+impulse": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Impulse = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+inertia": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Inertia = DeepMind-level AI. It solved protein folding. What's next?"
+  },
+  "gemini+infinity": {
+    "result": "deepmind",
+    "reasoning": "Gemini + Infinity = DeepMind-level AI. It solved protein folding. What's next?"
   }
 }

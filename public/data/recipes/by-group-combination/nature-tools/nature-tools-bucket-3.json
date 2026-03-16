@@ -1,0 +1,882 @@
+{
+  "fire+hot-air-balloon": {
+    "result": "bellows",
+    "reasoning": "Combine Hot Air Balloon with Fire to create Bellows."
+  },
+  "fire+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "fire+pliers": {
+    "result": "tongs",
+    "reasoning": "Combine Pliers with Fire to create Tongs."
+  },
+  "fire+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Fire creates an Ingot — the foundation of metallurgy."
+  },
+  "fire+spring": {
+    "result": "steam",
+    "reasoning": "Fire turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "fire+tongs": {
+    "result": "brazier",
+    "reasoning": "Combine Tongs with Fire to create Brazier."
+  },
+  "flood+garden-shed": {
+    "result": "garden",
+    "reasoning": "Flood + Garden Shed + patience = a Garden."
+  },
+  "flood+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Flood oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "forge-bellows+glacial-lake": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Glacial Lake to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+gravel": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Gravel into flowing Lava."
+  },
+  "forge-bellows+hot-spring": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Hot Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+lagoon": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Lagoon to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+lake": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Lake to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+mountain": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts mountain into flowing Lava."
+  },
+  "forge-bellows+mud": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Mud into flowing Lava."
+  },
+  "forge-bellows+ocean": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns ocean to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+rain": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Rain to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+river": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns River to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+sand": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Sand into flowing Lava."
+  },
+  "forge-bellows+sand-bar": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Sand Bar into flowing Lava."
+  },
+  "forge-bellows+sand-storm": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Sand Storm into flowing Lava."
+  },
+  "forge-bellows+sea-cave": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Sea Cave into flowing Lava."
+  },
+  "forge-bellows+sea-stack": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Sea Stack to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+stone": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Stone into flowing Lava."
+  },
+  "forge-bellows+stream": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns stream to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+swamp": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Swamp to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+tide": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Tide to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+tide-pool": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Tide Pool to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+water": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Water to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+waterfall": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Waterfall to Steam — the force that powered the Industrial Revolution."
+  },
+  "frost+spring": {
+    "result": "ice",
+    "reasoning": "Frost freezes Spring into Ice — water's solid form."
+  },
+  "generator+water": {
+    "result": "hydropower",
+    "reasoning": "Generator and Water explain the phenomenon of Hydropower"
+  },
+  "glacial-lake+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "glacier+spring": {
+    "result": "ice",
+    "reasoning": "Glacier freezes Spring into Ice — water's solid form."
+  },
+  "hammer+stone": {
+    "result": "sculpture",
+    "reasoning": "Hammer and Stone create Sculpture"
+  },
+  "hammer+thunder": {
+    "result": "thunder-hammer",
+    "reasoning": "Combine Hammer with Thunder to create Thunder Hammer."
+  },
+  "heat+kettle": {
+    "result": "soldering-iron",
+    "reasoning": "Combine Kettle with Heat to create Soldering Iron."
+  },
+  "heat+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "heat+soldering-iron": {
+    "result": "heat-pump",
+    "reasoning": "Combine Heat with Soldering Iron to create Heat Pump."
+  },
+  "heat+spring": {
+    "result": "steam",
+    "reasoning": "Heat turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "hot-air-balloon+hot-spring": {
+    "result": "thermal-pool",
+    "reasoning": "Combine Hot Spring with Hot Air Balloon to create Thermal Pool."
+  },
+  "hot-spring+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Hot Spring oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "hot-spring+spring": {
+    "result": "dynamometer",
+    "reasoning": "Combine Spring with Hot Spring to create Dynamometer."
+  },
+  "ice+motorcycle": {
+    "result": "snowmobile",
+    "reasoning": "A motorcycle adapted for ice is a Snowmobile"
+  },
+  "ice+spring": {
+    "result": "glacier",
+    "reasoning": "Millennia of Ice compact Spring into a massive Glacier."
+  },
+  "kettle+water": {
+    "result": "snorkel",
+    "reasoning": "Combine Water with Kettle to create Snorkel."
+  },
+  "lagoon+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Lagoon oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "lake+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Lake oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "lava-field+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-field+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Lava Field creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-field+spring": {
+    "result": "steam",
+    "reasoning": "Lava Field turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "lava-tube+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "lava-tube+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Lava Tube creates an Ingot — the foundation of metallurgy."
+  },
+  "lava-tube+spring": {
+    "result": "steam",
+    "reasoning": "Lava Tube turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "lava+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "lava+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Lava creates an Ingot — the foundation of metallurgy."
+  },
+  "lava+spring": {
+    "result": "steam",
+    "reasoning": "Lava turns Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "lever+stone": {
+    "result": "lever",
+    "reasoning": "Crafting Lever with Stone produces Lever"
+  },
+  "lightning+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Lightning + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "lightning+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Lightning through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "machine+water": {
+    "result": "pump",
+    "reasoning": "Crafting machine with Water produces Pump"
+  },
+  "mist+mortar-and-pestle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Mortar and Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+motor": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Motor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+motorcycle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Motorcycle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+mousetrap": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Mousetrap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+needle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Needle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+notebook": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Notebook = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+oar": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Oar = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+padlock": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Padlock = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pen": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pen = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pencil": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pestle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pick": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pick = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+piston": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Piston = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+plane": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Plane = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pliers": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pliers = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+plough": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Plough = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+plumb-bob": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Plumb Bob = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+power-tool": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Power Tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+protractor": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Protractor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pulley": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pulley = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+pump": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Pump = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+purse": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Purse = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+quill": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Quill = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+quiver": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Quiver = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+raft": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Raft = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+railway": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Railway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+rake": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Rake = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+ratchet": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Ratchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+rivet": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Rivet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+road": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Road = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+rocket": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Rocket = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+ruler": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Ruler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sailboat": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sailboat = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+satellite": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Satellite = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+saw": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+scale": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Scale = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+scalpel": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Scalpel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+scissors": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Scissors = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+screw": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Screw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sextant": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sextant = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+ship": {
+    "result": "garden-shed",
+    "reasoning": "Mist + ship = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+shovel": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Shovel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sickle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sickle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sieve": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sieve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sled": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sled = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sledgehammer": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sledgehammer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+smelting": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Smelting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+snorkel": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Snorkel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+socket-wrench": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Socket Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+soldering-iron": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Soldering Iron = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+spear": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Spear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+spindle": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Spindle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+spring": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Spring = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+spyglass": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Spyglass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+stapler": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Stapler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+stencil": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Stencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+submarine": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Submarine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+subway": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Subway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+suitcase": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Suitcase = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sundial": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sundial = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+swiss-army-knife": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Swiss Army Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+sword": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Sword = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+tanning": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Tanning = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+taxi": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Taxi = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+thermometer": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Thermometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+tongs": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+tool": {
+    "result": "garden-shed",
+    "reasoning": "Mist + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+traffic": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Traffic = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+train": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Train = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+trap": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Trap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+trebuchet": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Trebuchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+tripod": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Tripod = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+trowel": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Trowel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+truck": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Truck = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+turbine": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Turbine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+valve": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Valve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+vise": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Vise = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wagon": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Wagon = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wallet": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Wallet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+weaving": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Weaving = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+weight": {
+    "result": "garden-shed",
+    "reasoning": "Mist + weight = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+welding": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Welding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wheel": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Wheel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wheelbarrow": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Wheelbarrow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+whetstone": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Whetstone = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+winch": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Winch = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wing": {
+    "result": "garden-shed",
+    "reasoning": "Mist + wing = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mist+wrench": {
+    "result": "garden-shed",
+    "reasoning": "Mist + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "mortar-and-pestle+stone": {
+    "result": "pestle",
+    "reasoning": "Combine Mortar And Pestle with Stone to create Pestle."
+  },
+  "ocean+ship": {
+    "result": "submarine",
+    "reasoning": "Crafting ocean with ship produces Submarine"
+  },
+  "ocean+soldering-iron": {
+    "result": "rust",
+    "reasoning": "ocean oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "piston+steam": {
+    "result": "steam-engine",
+    "reasoning": "Combine Steam with Piston to create Steam Engine."
+  },
+  "pump+stone": {
+    "result": "fountain",
+    "reasoning": "Pump and Stone create Fountain"
+  },
+  "rain+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Rain oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "river+soldering-iron": {
+    "result": "rust",
+    "reasoning": "River oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "salt-flat+satellite": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Satellite = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+saw": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+scale": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Scale = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+scalpel": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Scalpel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+scissors": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Scissors = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+screw": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Screw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sextant": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sextant = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+ship": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + ship = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+shovel": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Shovel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sickle": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sickle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sieve": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sieve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sled": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sled = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sledgehammer": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sledgehammer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+smelting": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Smelting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+snorkel": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Snorkel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+socket-wrench": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Socket Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+soldering-iron": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Soldering Iron = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+spear": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Spear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+spindle": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Spindle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+spring": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Spring = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+spyglass": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Spyglass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+stapler": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Stapler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+stencil": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Stencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+submarine": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Submarine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+subway": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Subway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+suitcase": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Suitcase = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sundial": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sundial = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+swiss-army-knife": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Swiss Army Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+sword": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Sword = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+tanning": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Tanning = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+taxi": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Taxi = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+thermometer": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Thermometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+tongs": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+tool": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+traffic": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Traffic = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+train": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Train = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+trap": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Trap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+trebuchet": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Trebuchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+tripod": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Tripod = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+trowel": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Trowel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+truck": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Truck = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+turbine": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Turbine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+valve": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Valve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+vise": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Vise = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wagon": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Wagon = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wallet": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Wallet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+weaving": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Weaving = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+weight": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + weight = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+welding": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Welding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wheel": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Wheel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wheelbarrow": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Wheelbarrow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+whetstone": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Whetstone = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+winch": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Winch = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wing": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + wing = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "salt-flat+wrench": {
+    "result": "garden-shed",
+    "reasoning": "Salt Flat + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "sea-stack+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "smelting+stone": {
+    "result": "lava",
+    "reasoning": "Smelting melts Stone into flowing Lava."
+  },
+  "snow+spring": {
+    "result": "ice",
+    "reasoning": "Snow freezes Spring into Ice — water's solid form."
+  },
+  "spring+stone": {
+    "result": "mud",
+    "reasoning": "Spring + Stone = Mud — simple, squishy, essential."
+  },
+  "stone+sword": {
+    "result": "catapult",
+    "reasoning": "A weapon that throws stone is a Catapult"
+  },
+  "stone+tool": {
+    "result": "hammer",
+    "reasoning": "Crafting Stone with tool produces Hammer"
+  },
+  "stone+wheel": {
+    "result": "grinder",
+    "reasoning": "Combine Wheel with Stone to create Grinder."
+  },
+  "tide-pool+tongs": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+tool": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  }
+}

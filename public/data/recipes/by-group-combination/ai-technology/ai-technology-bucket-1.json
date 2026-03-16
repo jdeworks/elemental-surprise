@@ -1,4 +1,16 @@
 {
+  "3d-model+image-generation": {
+    "result": "diffusion-model",
+    "reasoning": "Combine Image Generation with 3D Model to create Diffusion Model."
+  },
+  "3d-model+large-language-model": {
+    "result": "paradigm",
+    "reasoning": "Combine 3D Model with Large Language Model to create Paradigm."
+  },
+  "agent-framework+mouse-device": {
+    "result": "edge-ai",
+    "reasoning": "Combine Agent Framework with Mouse Device to create Edge AI."
+  },
   "agi+supercomputer": {
     "result": "superintelligence",
     "reasoning": "AGI enhanced with Supercomputer creates Superintelligence"
@@ -7,61 +19,45 @@
     "result": "stable-diffusion",
     "reasoning": "Applying AI Art to Open Source produces Stable Diffusion"
   },
-  "ai-art+software": {
-    "result": "midjourney",
-    "reasoning": "AI Art teams up with software; the side quest reward is Midjourney."
+  "ai-generated-art+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + Library Software = AI — humanity's greatest amplifier."
   },
-  "ai+battery": {
-    "result": "tesla",
-    "reasoning": "When AI and Battery collide, logic takes a coffee break and Tesla appears anyway."
+  "ai-music+galvanometer": {
+    "result": "record-player",
+    "reasoning": "Combine Ai Music with Galvanometer to create Record Player."
   },
-  "ai+computer": {
-    "result": "matrix",
-    "reasoning": "AI and Computer accidentally host a crossover episode; Matrix steals the finale."
+  "ai-music+keyboard": {
+    "result": "synthesizer",
+    "reasoning": "Combine Keyboard with Ai Music to create Synthesizer."
+  },
+  "ai-music+metronome": {
+    "result": "record-player",
+    "reasoning": "Combine Ai Music with Metronome to create Record Player."
+  },
+  "ai-music+synthesizer": {
+    "result": "metronome",
+    "reasoning": "Combine Ai Music with Synthesizer to create Metronome."
   },
   "ai+data": {
     "result": "machine-learning",
     "reasoning": "AI learning patterns from data — machine learning"
   },
-  "ai+digital": {
-    "result": "deepfake",
-    "reasoning": "AI meets digital, chaos files a memo, and Deepfake walks out with the trophy."
-  },
-  "ai+open-source": {
-    "result": "stable-diffusion",
-    "reasoning": "AI tags in with Open Source, and somehow the universe speedruns Stable Diffusion."
-  },
   "ai+software": {
     "result": "code-generation",
     "reasoning": "AI enhanced with software creates Code Generation"
-  },
-  "ai+supercomputer": {
-    "result": "superintelligence",
-    "reasoning": "When AI and Supercomputer collide, logic takes a coffee break and Superintelligence appears anyway."
   },
   "ai+video": {
     "result": "deepfake",
     "reasoning": "AI enhanced with video creates Deepfake"
   },
-  "algorithm+dataset": {
-    "result": "fine-tuning",
-    "reasoning": "Algorithm meets Dataset, chaos files a memo, and Fine Tuning walks out with the trophy."
-  },
-  "algorithm+machine-learning": {
-    "result": "model",
-    "reasoning": "Algorithm and Machine Learning accidentally host a crossover episode; Model steals the finale."
+  "algorithm+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Jimmy Art in 3D."
   },
   "algorithm+training": {
     "result": "model",
     "reasoning": "Algorithm enhanced with Training creates Model"
-  },
-  "anthropic+supercomputer": {
-    "result": "claude",
-    "reasoning": "Anthropic and Supercomputer shake hands, reality shrugs, and Claude is suddenly canon."
-  },
-  "api+chatbot": {
-    "result": "jimmy-api",
-    "reasoning": "API and Chatbot accidentally host a crossover episode; Jimmy API steals the finale."
   },
   "api+chatjimmy": {
     "result": "jimmy-api",
@@ -71,37 +67,57 @@
     "result": "graphql",
     "reasoning": "Applying API to graph produces GraphQL"
   },
+  "app+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "App creating Jimmy Art in 3D."
+  },
+  "app+knowledge-graph": {
+    "result": "artificial-intelligence",
+    "reasoning": "App + Knowledge Graph = AI — humanity's greatest amplifier."
+  },
   "artificial-intelligence+computer": {
     "result": "ai",
     "reasoning": "Artificial Intelligence enhanced with Computer creates AI"
   },
-  "artificial-intelligence+data": {
-    "result": "machine-learning",
-    "reasoning": "Artificial Intelligence and data shake hands, reality shrugs, and Machine Learning is suddenly canon."
+  "attention-mechanism+error": {
+    "result": "backpropagation",
+    "reasoning": "Combine Error with Attention Mechanism to create Backpropagation."
   },
-  "artificial-intelligence+screen": {
-    "result": "ai",
-    "reasoning": "When Artificial Intelligence and screen collide, logic takes a coffee break and AI appears anyway."
+  "backpropagation+error": {
+    "result": "loss-function",
+    "reasoning": "Combine Error with Backpropagation to create Loss Function."
+  },
+  "backpropagation+privacy": {
+    "result": "federated-learning",
+    "reasoning": "Combine Privacy with Backpropagation to create Federated Learning."
+  },
+  "backpropagation+self-driving-car": {
+    "result": "self-supervised",
+    "reasoning": "Combine Backpropagation with Self Driving Car to create Self-Supervised."
+  },
+  "batch-processing+data": {
+    "result": "clustering",
+    "reasoning": "Combine Batch Processing with Data to create Clustering."
+  },
+  "batch-processing+tree-data": {
+    "result": "clustering",
+    "reasoning": "Combine Batch Processing with Tree Data to create Clustering."
+  },
+  "big-data+data": {
+    "result": "batch-processing",
+    "reasoning": "Combine Big Data with Data to create Batch Processing."
   },
   "big-data+search-engine": {
     "result": "google",
     "reasoning": "Big Data enhanced with Search Engine creates Google"
   },
+  "big-data+tree-data": {
+    "result": "batch-processing",
+    "reasoning": "Combine Big Data with Tree Data to create Batch Processing."
+  },
   "chat+software": {
     "result": "chatbot",
     "reasoning": "Chat enhanced with software creates Chatbot"
-  },
-  "chatbot+search-engine": {
-    "result": "jimmy-search",
-    "reasoning": "Chatbot plus Search Engine is the weird recipe your alchemist friend swears by for making Jimmy Search."
-  },
-  "chatbot+smart-home": {
-    "result": "alexa",
-    "reasoning": "Chatbot meets Smart Home, chaos files a memo, and Alexa walks out with the trophy."
-  },
-  "chatbot+smartphone": {
-    "result": "siri",
-    "reasoning": "Chatbot meets Smartphone, chaos files a memo, and Siri walks out with the trophy."
   },
   "chatjimmy+search-engine": {
     "result": "jimmy-search",
@@ -115,37 +131,41 @@
     "result": "google-cloud",
     "reasoning": "Cloud Computing enhanced with Google creates Google Cloud"
   },
-  "communication+graph": {
-    "result": "graphql",
-    "reasoning": "Communication tags in with graph, and somehow the universe speedruns GraphQL."
+  "cloud-computing+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Computing creating Jimmy Art in 3D."
   },
-  "computer+dataset": {
-    "result": "synthetic-data",
-    "reasoning": "Computer meets Dataset, chaos files a memo, and Synthetic Data walks out with the trophy."
+  "cloud-computing+knowledge-graph": {
+    "result": "artificial-intelligence",
+    "reasoning": "Cloud Computing + Knowledge Graph = AI — humanity's greatest amplifier."
   },
-  "computer+google": {
-    "result": "gemini",
-    "reasoning": "Computer meets Google, chaos files a memo, and Gemini walks out with the trophy."
+  "cloud-storage+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "Cloud Storage creating Jimmy Art in 3D."
   },
-  "conversation+software": {
-    "result": "chatbot",
-    "reasoning": "conversation tags in with software, and somehow the universe speedruns Chatbot."
+  "code-generation+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + Library Software = AI — humanity's greatest amplifier."
   },
-  "conversation+supercomputer": {
-    "result": "chat",
-    "reasoning": "conversation plus Supercomputer is the weird recipe your alchemist friend swears by for making Chat."
+  "computer+jimmy-art": {
+    "result": "3d-model",
+    "reasoning": "Computer creating Jimmy Art in 3D."
+  },
+  "computer+knowledge-graph": {
+    "result": "artificial-intelligence",
+    "reasoning": "Computer + Knowledge Graph = AI — humanity's greatest amplifier."
   },
   "copilot+software": {
     "result": "cursor",
     "reasoning": "Copilot enhanced with software creates Cursor"
   },
+  "data-pipeline+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "Data Pipeline + Library Software = AI — humanity's greatest amplifier."
+  },
   "data+machine-learning": {
     "result": "training",
     "reasoning": "data enhanced with Machine Learning creates Training"
-  },
-  "data+model": {
-    "result": "fine-tuning",
-    "reasoning": "data meets Model, chaos files a memo, and Fine Tuning walks out with the trophy."
   },
   "data+neural-network": {
     "result": "ai",
@@ -155,80 +175,708 @@
     "result": "vector-database",
     "reasoning": "Database enhanced with Embedding creates Vector Database"
   },
-  "database+large-language-model": {
-    "result": "rag",
-    "reasoning": "Database teams up with Large Language Model; the side quest reward is RAG."
-  },
   "database+llm": {
     "result": "rag",
     "reasoning": "Database enhanced with LLM creates RAG"
   },
-  "deep-learning+supercomputer": {
-    "result": "llm",
-    "reasoning": "Deep Learning and Supercomputer accidentally host a crossover episode; LLM steals the finale."
+  "decision-tree+water-wheel": {
+    "result": "boat",
+    "reasoning": "Decision Tree on Water Wheel — a Boat. Humanity's first vehicle."
   },
-  "embedding+server": {
-    "result": "vector-database",
-    "reasoning": "Embedding meets Server, chaos files a memo, and Vector Database walks out with the trophy."
+  "deep-learning+privacy": {
+    "result": "federated-learning",
+    "reasoning": "Combine Privacy with Deep Learning to create Federated Learning."
   },
-  "google+server": {
-    "result": "google-cloud",
-    "reasoning": "Google plus Server is the weird recipe your alchemist friend swears by for making Google Cloud."
+  "edge-ai+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "Edge AI + Library Software = AI — humanity's greatest amplifier."
   },
-  "graph+software": {
-    "result": "graphql",
-    "reasoning": "When graph and software collide, logic takes a coffee break and GraphQL appears anyway."
+  "error+gradient-descent": {
+    "result": "loss-function",
+    "reasoning": "Combine Error with Gradient Descent to create Loss Function."
   },
-  "large-language-model+mainframe": {
-    "result": "llm",
-    "reasoning": "Large Language Model tags in with Mainframe, and somehow the universe speedruns LLM."
+  "fiber-optic+jimmy-art": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Jimmy Art — a Tapestry."
   },
-  "large-language-model+supercomputer": {
-    "result": "llm",
-    "reasoning": "LLMs running on supercomputers reach full scale"
+  "function+loss-function": {
+    "result": "sigmoid",
+    "reasoning": "Combine Function with Loss Function to create Sigmoid."
   },
-  "llm+search-engine": {
-    "result": "jimmy-search",
-    "reasoning": "LLM plus Search Engine is the weird recipe your alchemist friend swears by for making Jimmy Search."
+  "function+sigmoid": {
+    "result": "softmax",
+    "reasoning": "Combine Sigmoid with Function to create Softmax."
   },
-  "llm+server": {
-    "result": "rag",
-    "reasoning": "LLM and Server accidentally host a crossover episode; RAG steals the finale."
+  "gemini+git": {
+    "result": "singularity",
+    "reasoning": "Gemini + Git = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "llm+software": {
-    "result": "chatbot",
-    "reasoning": "LLM meets software, chaos files a memo, and Chatbot walks out with the trophy."
+  "gemini+google-maps": {
+    "result": "singularity",
+    "reasoning": "Gemini + Google Maps = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "llm+supercomputer": {
-    "result": "chatjimmy-pro",
-    "reasoning": "LLM tags in with Supercomputer, and somehow the universe speedruns ChatJimmy Pro."
+  "gemini+graphql": {
+    "result": "singularity",
+    "reasoning": "Gemini + GraphQL = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "microchip+parallel": {
-    "result": "gpu",
-    "reasoning": "Microchip teams up with parallel; the side quest reward is GPU."
+  "gemini+gyroscope": {
+    "result": "singularity",
+    "reasoning": "Gemini + Gyroscope = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "neural-network+software": {
-    "result": "code-generation",
-    "reasoning": "Neural Network teams up with software; the side quest reward is Code Generation."
+  "gemini+hacker": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hacker = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "neural-network+video": {
-    "result": "deepfake",
-    "reasoning": "Neural Network and video accidentally host a crossover episode; Deepfake steals the finale."
+  "gemini+hacking": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hacking = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "parallel+processor": {
-    "result": "gpu",
-    "reasoning": "parallel enhanced with Processor creates GPU"
+  "gemini+hard-drive": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hard Drive = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "smart-home+virtual-assistant": {
-    "result": "alexa",
-    "reasoning": "Applying Smart Home to Virtual Assistant produces Alexa"
+  "gemini+hashtag": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hashtag = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "smartphone+virtual-assistant": {
-    "result": "siri",
-    "reasoning": "Applying Smartphone to Virtual Assistant produces Siri"
+  "gemini+heat-pump": {
+    "result": "singularity",
+    "reasoning": "Gemini + Heat Pump = the Singularity. When AI improves itself faster than we can keep up."
   },
-  "telephone+virtual-assistant": {
-    "result": "siri",
-    "reasoning": "Telephone plus Virtual Assistant is the weird recipe your alchemist friend swears by for making Siri."
+  "gemini+hologram": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hologram = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+html": {
+    "result": "singularity",
+    "reasoning": "Gemini + HTML = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+hydraulic-press": {
+    "result": "singularity",
+    "reasoning": "Gemini + Hydraulic Press = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+influencer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Influencer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+inheritance": {
+    "result": "singularity",
+    "reasoning": "Gemini + Inheritance = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+instagram": {
+    "result": "singularity",
+    "reasoning": "Gemini + Instagram = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+intercom": {
+    "result": "singularity",
+    "reasoning": "Gemini + Intercom = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+internet": {
+    "result": "singularity",
+    "reasoning": "Gemini + internet = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+iot": {
+    "result": "singularity",
+    "reasoning": "Gemini + IoT = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+ip-address": {
+    "result": "singularity",
+    "reasoning": "Gemini + IP Address = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+jackhammer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Jackhammer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+java": {
+    "result": "singularity",
+    "reasoning": "Gemini + Java = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+keyboard": {
+    "result": "singularity",
+    "reasoning": "Gemini + Keyboard = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+kiln": {
+    "result": "singularity",
+    "reasoning": "Gemini + Kiln = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+laptop": {
+    "result": "singularity",
+    "reasoning": "Gemini + Laptop = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+library-software": {
+    "result": "singularity",
+    "reasoning": "Gemini + Library Software = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+like": {
+    "result": "singularity",
+    "reasoning": "Gemini + Like = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+linux": {
+    "result": "singularity",
+    "reasoning": "Gemini + Linux = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+loop": {
+    "result": "singularity",
+    "reasoning": "Gemini + Loop = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+loudspeaker": {
+    "result": "singularity",
+    "reasoning": "Gemini + Loudspeaker = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+mail": {
+    "result": "singularity",
+    "reasoning": "Gemini + Mail = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+mainframe": {
+    "result": "singularity",
+    "reasoning": "Gemini + Mainframe = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+markdown": {
+    "result": "singularity",
+    "reasoning": "Gemini + Markdown = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+meme": {
+    "result": "singularity",
+    "reasoning": "Gemini + Meme = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+message": {
+    "result": "singularity",
+    "reasoning": "Gemini + message = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+metronome": {
+    "result": "singularity",
+    "reasoning": "Gemini + Metronome = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+microchip": {
+    "result": "singularity",
+    "reasoning": "Gemini + Microchip = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+micrometer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Micrometer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+modem": {
+    "result": "singularity",
+    "reasoning": "Gemini + Modem = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+morse-code": {
+    "result": "singularity",
+    "reasoning": "Gemini + Morse Code = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+motion-sensor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Motion Sensor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+name": {
+    "result": "singularity",
+    "reasoning": "Gemini + name = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+neon-sign": {
+    "result": "singularity",
+    "reasoning": "Gemini + Neon Sign = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+netflix": {
+    "result": "singularity",
+    "reasoning": "Gemini + Netflix = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+network": {
+    "result": "singularity",
+    "reasoning": "Gemini + Network = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+neuralink": {
+    "result": "singularity",
+    "reasoning": "Gemini + Neuralink = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+notification": {
+    "result": "singularity",
+    "reasoning": "Gemini + Notification = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+nuclear-reactor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Nuclear Reactor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+object": {
+    "result": "singularity",
+    "reasoning": "Gemini + Object = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+open-source": {
+    "result": "singularity",
+    "reasoning": "Gemini + Open Source = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+oscillator": {
+    "result": "singularity",
+    "reasoning": "Gemini + Oscillator = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+password": {
+    "result": "singularity",
+    "reasoning": "Gemini + Password = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+periscope": {
+    "result": "singularity",
+    "reasoning": "Gemini + Periscope = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+phishing": {
+    "result": "singularity",
+    "reasoning": "Gemini + Phishing = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+piezoelectric": {
+    "result": "singularity",
+    "reasoning": "Gemini + Piezoelectric = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+pixel": {
+    "result": "singularity",
+    "reasoning": "Gemini + Pixel = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+pneumatic": {
+    "result": "singularity",
+    "reasoning": "Gemini + Pneumatic = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+polymorphism": {
+    "result": "singularity",
+    "reasoning": "Gemini + Polymorphism = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+post": {
+    "result": "singularity",
+    "reasoning": "Gemini + Post = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+potentiometer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Potentiometer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+power-grid": {
+    "result": "singularity",
+    "reasoning": "Gemini + Power Grid = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+power-plant": {
+    "result": "singularity",
+    "reasoning": "Gemini + Power Plant = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+press": {
+    "result": "singularity",
+    "reasoning": "Gemini + press = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+pressure-cooker": {
+    "result": "singularity",
+    "reasoning": "Gemini + Pressure Cooker = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+printing": {
+    "result": "singularity",
+    "reasoning": "Gemini + Printing = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+privacy": {
+    "result": "singularity",
+    "reasoning": "Gemini + Privacy = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+processor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Processor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+product": {
+    "result": "singularity",
+    "reasoning": "Gemini + product = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+program": {
+    "result": "singularity",
+    "reasoning": "Gemini + Program = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+propane-tank": {
+    "result": "singularity",
+    "reasoning": "Gemini + Propane Tank = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+python": {
+    "result": "singularity",
+    "reasoning": "Gemini + Python = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+qr-code": {
+    "result": "singularity",
+    "reasoning": "Gemini + QR Code = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+queue": {
+    "result": "singularity",
+    "reasoning": "Gemini + Queue = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+radiator": {
+    "result": "singularity",
+    "reasoning": "Gemini + Radiator = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+radio": {
+    "result": "singularity",
+    "reasoning": "Gemini + Radio = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+ram": {
+    "result": "singularity",
+    "reasoning": "Gemini + RAM = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+ransomware": {
+    "result": "singularity",
+    "reasoning": "Gemini + Ransomware = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+recursion": {
+    "result": "singularity",
+    "reasoning": "Gemini + Recursion = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+relay": {
+    "result": "singularity",
+    "reasoning": "Gemini + Relay = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+remote": {
+    "result": "singularity",
+    "reasoning": "Gemini + Remote = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+resistor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Resistor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+resolution": {
+    "result": "singularity",
+    "reasoning": "Gemini + Resolution = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+rest-api": {
+    "result": "singularity",
+    "reasoning": "Gemini + REST API = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+robot": {
+    "result": "singularity",
+    "reasoning": "Gemini + Robot = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+router": {
+    "result": "singularity",
+    "reasoning": "Gemini + Router = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+saas": {
+    "result": "singularity",
+    "reasoning": "Gemini + SaaS = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+screen": {
+    "result": "singularity",
+    "reasoning": "Gemini + screen = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+scuba": {
+    "result": "singularity",
+    "reasoning": "Gemini + SCUBA = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+self-driving-car": {
+    "result": "singularity",
+    "reasoning": "Gemini + Self Driving Car = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+semiconductor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Semiconductor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+sensor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Sensor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+signal": {
+    "result": "singularity",
+    "reasoning": "Gemini + Signal = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+sim-card": {
+    "result": "singularity",
+    "reasoning": "Gemini + SIM Card = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+siri": {
+    "result": "singularity",
+    "reasoning": "Gemini + Siri = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+smart-contract": {
+    "result": "singularity",
+    "reasoning": "Gemini + Smart Contract = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+smart-home": {
+    "result": "singularity",
+    "reasoning": "Gemini + Smart Home = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+smart-speaker": {
+    "result": "singularity",
+    "reasoning": "Gemini + Smart Speaker = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+smartphone": {
+    "result": "singularity",
+    "reasoning": "Gemini + Smartphone = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+snowmobile": {
+    "result": "singularity",
+    "reasoning": "Gemini + Snowmobile = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+social-media": {
+    "result": "singularity",
+    "reasoning": "Gemini + Social Media = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+software": {
+    "result": "singularity",
+    "reasoning": "Gemini + software = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+sort": {
+    "result": "singularity",
+    "reasoning": "Gemini + Sort = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+spacex": {
+    "result": "singularity",
+    "reasoning": "Gemini + SpaceX = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+spam": {
+    "result": "singularity",
+    "reasoning": "Gemini + Spam = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+speaker": {
+    "result": "singularity",
+    "reasoning": "Gemini + Speaker = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+spotify": {
+    "result": "singularity",
+    "reasoning": "Gemini + Spotify = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+ssd": {
+    "result": "singularity",
+    "reasoning": "Gemini + SSD = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+stable-diffusion": {
+    "result": "singularity",
+    "reasoning": "Gemini + Stable Diffusion = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+stack": {
+    "result": "singularity",
+    "reasoning": "Gemini + Stack = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+stack-overflow": {
+    "result": "singularity",
+    "reasoning": "Gemini + Stack Overflow = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+steam-engine": {
+    "result": "singularity",
+    "reasoning": "Gemini + Steam Engine = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+supercomputer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Supercomputer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+synthesizer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Synthesizer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tablet": {
+    "result": "singularity",
+    "reasoning": "Gemini + Tablet = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+technical-debt": {
+    "result": "singularity",
+    "reasoning": "Gemini + Technical Debt = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+technology": {
+    "result": "singularity",
+    "reasoning": "Gemini + technology = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+telegram": {
+    "result": "singularity",
+    "reasoning": "Gemini + Telegram = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+telegraph": {
+    "result": "singularity",
+    "reasoning": "Gemini + Telegraph = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+teletype": {
+    "result": "singularity",
+    "reasoning": "Gemini + Teletype = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+television": {
+    "result": "singularity",
+    "reasoning": "Gemini + Television = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tesla": {
+    "result": "singularity",
+    "reasoning": "Gemini + Tesla = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tesla-coil": {
+    "result": "singularity",
+    "reasoning": "Gemini + Tesla Coil = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+thermostat": {
+    "result": "singularity",
+    "reasoning": "Gemini + Thermostat = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tiktok": {
+    "result": "singularity",
+    "reasoning": "Gemini + TikTok = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Tor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+touchscreen": {
+    "result": "singularity",
+    "reasoning": "Gemini + Touchscreen = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+transformer": {
+    "result": "singularity",
+    "reasoning": "Gemini + Transformer = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+transistor": {
+    "result": "singularity",
+    "reasoning": "Gemini + Transistor = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+tree-data": {
+    "result": "singularity",
+    "reasoning": "Gemini + Tree Data = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+troll-internet": {
+    "result": "singularity",
+    "reasoning": "Gemini + Troll Internet = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+typewriter": {
+    "result": "singularity",
+    "reasoning": "Gemini + Typewriter = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+uber": {
+    "result": "singularity",
+    "reasoning": "Gemini + Uber = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+upload": {
+    "result": "singularity",
+    "reasoning": "Gemini + Upload = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+url": {
+    "result": "singularity",
+    "reasoning": "Gemini + URL = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+usb": {
+    "result": "singularity",
+    "reasoning": "Gemini + USB = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+vacuum-tube": {
+    "result": "singularity",
+    "reasoning": "Gemini + Vacuum Tube = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+variable": {
+    "result": "singularity",
+    "reasoning": "Gemini + Variable = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+version": {
+    "result": "singularity",
+    "reasoning": "Gemini + Version = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+viral": {
+    "result": "singularity",
+    "reasoning": "Gemini + Viral = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+viral-video": {
+    "result": "singularity",
+    "reasoning": "Gemini + Viral Video = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+vlog": {
+    "result": "singularity",
+    "reasoning": "Gemini + Vlog = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+voltage": {
+    "result": "singularity",
+    "reasoning": "Gemini + Voltage = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+voltaic-pile": {
+    "result": "singularity",
+    "reasoning": "Gemini + Voltaic Pile = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+voltmeter": {
+    "result": "singularity",
+    "reasoning": "Gemini + Voltmeter = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+vpn": {
+    "result": "singularity",
+    "reasoning": "Gemini + VPN = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+vr-headset": {
+    "result": "singularity",
+    "reasoning": "Gemini + VR Headset = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+water-wheel": {
+    "result": "singularity",
+    "reasoning": "Gemini + Water Wheel = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+weather-app": {
+    "result": "singularity",
+    "reasoning": "Gemini + Weather App = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+web-page": {
+    "result": "singularity",
+    "reasoning": "Gemini + Web Page = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+web3": {
+    "result": "singularity",
+    "reasoning": "Gemini + Web3 = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+webcam": {
+    "result": "singularity",
+    "reasoning": "Gemini + Webcam = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+website": {
+    "result": "singularity",
+    "reasoning": "Gemini + Website = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+welding-torch": {
+    "result": "singularity",
+    "reasoning": "Gemini + Welding Torch = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+wi-fi": {
+    "result": "singularity",
+    "reasoning": "Gemini + Wi-Fi = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+wifi": {
+    "result": "singularity",
+    "reasoning": "Gemini + WiFi = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+wiki": {
+    "result": "singularity",
+    "reasoning": "Gemini + Wiki = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+wildlife-camera": {
+    "result": "singularity",
+    "reasoning": "Gemini + Wildlife Camera = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+wind-turbine": {
+    "result": "singularity",
+    "reasoning": "Gemini + Wind Turbine = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+x-ray-machine": {
+    "result": "singularity",
+    "reasoning": "Gemini + X-Ray Machine = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+xml": {
+    "result": "singularity",
+    "reasoning": "Gemini + XML = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+youtube": {
+    "result": "singularity",
+    "reasoning": "Gemini + YouTube = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+zeppelin": {
+    "result": "singularity",
+    "reasoning": "Gemini + Zeppelin = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "gemini+zoom": {
+    "result": "singularity",
+    "reasoning": "Gemini + Zoom = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+joystick": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + Joystick = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+json": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + JSON = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+keyboard": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + Keyboard = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+kiln": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + Kiln = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+kubernetes": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + Kubernetes = the Singularity. When AI improves itself faster than we can keep up."
+  },
+  "jimmy-plugin+laptop": {
+    "result": "singularity",
+    "reasoning": "Jimmy Plugin + Laptop = the Singularity. When AI improves itself faster than we can keep up."
   }
 }

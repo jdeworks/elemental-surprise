@@ -1,4 +1,28 @@
 {
+  "adversarial-attack": {
+    "id": "adversarial-attack",
+    "name": "Adversarial Attack",
+    "icon": "./icons/ai/adversarial-attack.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Adversarial_Attack",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "agent-framework": {
+    "id": "agent-framework",
+    "name": "Agent Framework",
+    "icon": "./icons/ai/agent-framework.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Agent_Framework",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "agi": {
     "id": "agi",
     "name": "AGI",
@@ -42,6 +66,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/AI_Ethics",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "ai-generated-art": {
+    "id": "ai-generated-art",
+    "name": "AI Generated Art",
+    "icon": "./icons/ai/ai-generated-art.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/AI_Generated_Art",
         "label": "Wikipedia"
       }
     ],
@@ -111,6 +147,54 @@
     ],
     "group": "AI"
   },
+  "attention-mechanism": {
+    "id": "attention-mechanism",
+    "name": "Attention Mechanism",
+    "icon": "./icons/ai/attention-mechanism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Attention_Mechanism",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "backpropagation": {
+    "id": "backpropagation",
+    "name": "Backpropagation",
+    "icon": "./icons/ai/backpropagation.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Backpropagation",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "batch-processing": {
+    "id": "batch-processing",
+    "name": "Batch Processing",
+    "icon": "./icons/ai/batch-processing.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Batch_Processing",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "benchmark": {
+    "id": "benchmark",
+    "name": "Benchmark",
+    "icon": "./icons/ai/benchmark.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Benchmark",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "bias": {
     "id": "bias",
     "name": "Bias",
@@ -130,6 +214,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Big_Data",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "bioinformatics": {
+    "id": "bioinformatics",
+    "name": "Bioinformatics",
+    "icon": "./icons/ai/bioinformatics.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bioinformatics",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "chain-of-thought": {
+    "id": "chain-of-thought",
+    "name": "Chain of Thought",
+    "icon": "./icons/ai/chain-of-thought.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chain_of_Thought",
         "label": "Wikipedia"
       }
     ],
@@ -199,6 +307,18 @@
     ],
     "group": "AI"
   },
+  "classification": {
+    "id": "classification",
+    "name": "Classification",
+    "icon": "./icons/ai/classification.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Classification",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "claude": {
     "id": "claude",
     "name": "Claude",
@@ -210,6 +330,30 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/Claude_(language_model)",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "climate-model": {
+    "id": "climate-model",
+    "name": "Climate Model",
+    "icon": "./icons/ai/climate-model.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Climate_Model",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "clustering": {
+    "id": "clustering",
+    "name": "Clustering",
+    "icon": "./icons/ai/clustering.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Clustering",
         "label": "Wikipedia"
       }
     ],
@@ -263,6 +407,18 @@
     ],
     "group": "AI"
   },
+  "convolutional-network": {
+    "id": "convolutional-network",
+    "name": "Convolutional Network",
+    "icon": "./icons/ai/convolutional-network.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Convolutional_Network",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "copilot": {
     "id": "copilot",
     "name": "Copilot",
@@ -299,6 +455,30 @@
     ],
     "group": "AI"
   },
+  "data-augmentation": {
+    "id": "data-augmentation",
+    "name": "Data Augmentation",
+    "icon": "./icons/ai/data-augmentation.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Data_Augmentation",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "data-pipeline": {
+    "id": "data-pipeline",
+    "name": "Data Pipeline",
+    "icon": "./icons/ai/data-pipeline.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Data_Pipeline",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "dataset": {
     "id": "dataset",
     "name": "Dataset",
@@ -306,6 +486,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Dataset",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "decision-tree": {
+    "id": "decision-tree",
+    "name": "Decision Tree",
+    "icon": "./icons/ai/decision-tree.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Decision_Tree",
         "label": "Wikipedia"
       }
     ],
@@ -335,6 +527,42 @@
     ],
     "group": "AI"
   },
+  "deepmind": {
+    "id": "deepmind",
+    "name": "DeepMind",
+    "icon": "./icons/ai/deepmind.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/DeepMind",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "diffusion-model": {
+    "id": "diffusion-model",
+    "name": "Diffusion Model",
+    "icon": "./icons/ai/diffusion-model.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Diffusion_Model",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "edge-ai": {
+    "id": "edge-ai",
+    "name": "Edge AI",
+    "icon": "./icons/ai/edge-ai.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Edge_AI",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "embedding": {
     "id": "embedding",
     "name": "Embedding",
@@ -342,6 +570,42 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Embedding",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "encoder": {
+    "id": "encoder",
+    "name": "Encoder",
+    "icon": "./icons/ai/encoder.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Encoder",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "error-404": {
+    "id": "error-404",
+    "name": "Error 404",
+    "icon": "./icons/ai/error-404.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Error_404",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "federated-learning": {
+    "id": "federated-learning",
+    "name": "Federated Learning",
+    "icon": "./icons/ai/federated-learning.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Federated_Learning",
         "label": "Wikipedia"
       }
     ],
@@ -366,6 +630,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/focus",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "foundation-model": {
+    "id": "foundation-model",
+    "name": "Foundation Model",
+    "icon": "./icons/ai/foundation-model.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Foundation_Model",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "gan": {
+    "id": "gan",
+    "name": "GAN",
+    "icon": "./icons/ai/gan.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/GAN",
         "label": "Wikipedia"
       }
     ],
@@ -451,6 +739,18 @@
     ],
     "group": "AI"
   },
+  "gradient-descent": {
+    "id": "gradient-descent",
+    "name": "Gradient Descent",
+    "icon": "./icons/ai/gradient-descent.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gradient_Descent",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "graph": {
     "id": "graph",
     "name": "graph",
@@ -458,6 +758,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/graph",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "hallucination": {
+    "id": "hallucination",
+    "name": "Hallucination",
+    "icon": "./icons/ai/hallucination.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hallucination",
         "label": "Wikipedia"
       }
     ],
@@ -487,6 +799,18 @@
     ],
     "group": "AI"
   },
+  "hyperparameter": {
+    "id": "hyperparameter",
+    "name": "Hyperparameter",
+    "icon": "./icons/ai/hyperparameter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hyperparameter",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "ide": {
     "id": "ide",
     "name": "IDE",
@@ -506,6 +830,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Image_Generation",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "infinite-loop": {
+    "id": "infinite-loop",
+    "name": "Infinite Loop",
+    "icon": "./icons/ai/infinite-loop.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Infinite_Loop",
         "label": "Wikipedia"
       }
     ],
@@ -619,6 +955,18 @@
     ],
     "group": "AI"
   },
+  "latent-space": {
+    "id": "latent-space",
+    "name": "Latent Space",
+    "icon": "./icons/ai/latent-space.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Latent_Space",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "llm": {
     "id": "llm",
     "name": "LLM",
@@ -626,6 +974,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/LLM",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "loss-function": {
+    "id": "loss-function",
+    "name": "Loss Function",
+    "icon": "./icons/ai/loss-function.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Loss_Function",
         "label": "Wikipedia"
       }
     ],
@@ -707,6 +1067,18 @@
     ],
     "group": "AI"
   },
+  "nlp": {
+    "id": "nlp",
+    "name": "NLP",
+    "icon": "./icons/ai/nlp.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/NLP",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "openai": {
     "id": "openai",
     "name": "OpenAI",
@@ -723,6 +1095,18 @@
     ],
     "group": "AI"
   },
+  "overfitting": {
+    "id": "overfitting",
+    "name": "Overfitting",
+    "icon": "./icons/ai/overfitting.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Overfitting",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "parallel": {
     "id": "parallel",
     "name": "parallel",
@@ -730,6 +1114,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/parallel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "perceptron": {
+    "id": "perceptron",
+    "name": "Perceptron",
+    "icon": "./icons/ai/perceptron.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Perceptron",
         "label": "Wikipedia"
       }
     ],
@@ -795,6 +1191,18 @@
     ],
     "group": "AI"
   },
+  "recipe-bot": {
+    "id": "recipe-bot",
+    "name": "Recipe Bot",
+    "icon": "./icons/ai/recipe-bot.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Recipe_Bot",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "recommendation": {
     "id": "recommendation",
     "name": "Recommendation",
@@ -802,6 +1210,54 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Recommendation",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "recurrent-network": {
+    "id": "recurrent-network",
+    "name": "Recurrent Network",
+    "icon": "./icons/ai/recurrent-network.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Recurrent_Network",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "regularization": {
+    "id": "regularization",
+    "name": "Regularization",
+    "icon": "./icons/ai/regularization.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Regularization",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "reinforcement-learning": {
+    "id": "reinforcement-learning",
+    "name": "Reinforcement Learning",
+    "icon": "./icons/ai/reinforcement-learning.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Reinforcement_Learning",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "retrieval": {
+    "id": "retrieval",
+    "name": "Retrieval",
+    "icon": "./icons/ai/retrieval.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Retrieval",
         "label": "Wikipedia"
       }
     ],
@@ -819,6 +1275,18 @@
     ],
     "group": "AI"
   },
+  "robot-pet": {
+    "id": "robot-pet",
+    "name": "Robot Pet",
+    "icon": "./icons/ai/robot-pet.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robot_Pet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "safety": {
     "id": "safety",
     "name": "Safety",
@@ -826,6 +1294,66 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Safety",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "safety-filter": {
+    "id": "safety-filter",
+    "name": "Safety Filter",
+    "icon": "./icons/ai/safety-filter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Safety_Filter",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "scaling-law": {
+    "id": "scaling-law",
+    "name": "Scaling Law",
+    "icon": "./icons/ai/scaling-law.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Scaling_Law",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "self-supervised": {
+    "id": "self-supervised",
+    "name": "Self-Supervised",
+    "icon": "./icons/ai/self-supervised.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Self-Supervised",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "semantic-search": {
+    "id": "semantic-search",
+    "name": "Semantic Search",
+    "icon": "./icons/ai/semantic-search.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Semantic_Search",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "sentient-ai": {
+    "id": "sentient-ai",
+    "name": "Sentient AI",
+    "icon": "./icons/ai/sentient-ai.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sentient_AI",
         "label": "Wikipedia"
       }
     ],
@@ -843,6 +1371,18 @@
     ],
     "group": "AI"
   },
+  "sigmoid": {
+    "id": "sigmoid",
+    "name": "Sigmoid",
+    "icon": "./icons/ai/sigmoid.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sigmoid",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "singularity": {
     "id": "singularity",
     "name": "Singularity",
@@ -850,6 +1390,66 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Singularity",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "smart-material": {
+    "id": "smart-material",
+    "name": "Smart Material",
+    "icon": "./icons/ai/smart-material.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smart_Material",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "social-credit": {
+    "id": "social-credit",
+    "name": "Social Credit",
+    "icon": "./icons/ai/social-credit.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_Credit",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "softmax": {
+    "id": "softmax",
+    "name": "Softmax",
+    "icon": "./icons/ai/softmax.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Softmax",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "space-ai": {
+    "id": "space-ai",
+    "name": "HAL 9000",
+    "icon": "./icons/ai/space-ai.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/HAL_9000",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "sparse-model": {
+    "id": "sparse-model",
+    "name": "Sparse Model",
+    "icon": "./icons/ai/sparse-model.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sparse_Model",
         "label": "Wikipedia"
       }
     ],
@@ -891,6 +1491,18 @@
     ],
     "group": "AI"
   },
+  "temperature": {
+    "id": "temperature",
+    "name": "Temperature",
+    "icon": "./icons/ai/temperature.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Temperature",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "tensor": {
     "id": "tensor",
     "name": "Tensor",
@@ -927,6 +1539,30 @@
     ],
     "group": "AI"
   },
+  "tokenizer": {
+    "id": "tokenizer",
+    "name": "Tokenizer",
+    "icon": "./icons/ai/tokenizer.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tokenizer",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "tool-use": {
+    "id": "tool-use",
+    "name": "Tool Use",
+    "icon": "./icons/ai/tool-use.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tool_Use",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "training": {
     "id": "training",
     "name": "Training",
@@ -934,6 +1570,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Training",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "transfer-learning": {
+    "id": "transfer-learning",
+    "name": "Transfer Learning",
+    "icon": "./icons/ai/transfer-learning.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Transfer_Learning",
         "label": "Wikipedia"
       }
     ],
@@ -963,6 +1611,30 @@
     ],
     "group": "AI"
   },
+  "uncanny-valley": {
+    "id": "uncanny-valley",
+    "name": "Uncanny Valley",
+    "icon": "./icons/ai/uncanny-valley.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Uncanny_Valley",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "variational-autoencoder": {
+    "id": "variational-autoencoder",
+    "name": "Variational Autoencoder",
+    "icon": "./icons/ai/variational-autoencoder.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Variational_Autoencoder",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "vector-database": {
     "id": "vector-database",
     "name": "Vector Database",
@@ -987,6 +1659,18 @@
     ],
     "group": "AI"
   },
+  "vision-language-model": {
+    "id": "vision-language-model",
+    "name": "Vision-Language Model",
+    "icon": "./icons/ai/vision-language-model.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vision-Language_Model",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
   "voice-clone": {
     "id": "voice-clone",
     "name": "Voice Clone",
@@ -994,6 +1678,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Voice_Clone",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "word2vec": {
+    "id": "word2vec",
+    "name": "Word2Vec",
+    "icon": "./icons/ai/word2vec.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Word2Vec",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "AI"
+  },
+  "zero-shot": {
+    "id": "zero-shot",
+    "name": "Zero-Shot",
+    "icon": "./icons/ai/zero-shot.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zero-Shot",
         "label": "Wikipedia"
       }
     ],

@@ -1,15 +1,15 @@
 {
-  "3d-model+electricity": {
-    "result": "hologram",
-    "reasoning": "3D Model teams up with Electricity; the side quest reward is Hologram."
+  "3d-model+radio": {
+    "result": "radar",
+    "reasoning": "Combine Radio with 3D Model to create Radar."
+  },
+  "air-conditioner+compressor": {
+    "result": "pneumatic",
+    "reasoning": "Combine Air Conditioner with Compressor to create Pneumatic."
   },
   "algorithm+algorithm": {
     "result": "recursion",
     "reasoning": "Applying Algorithm to Algorithm produces Recursion"
-  },
-  "algorithm+antivirus": {
-    "result": "recursion",
-    "reasoning": "Algorithm and Antivirus shake hands, reality shrugs, and Recursion is suddenly canon."
   },
   "algorithm+browser": {
     "result": "search-engine",
@@ -19,14 +19,6 @@
     "result": "stack",
     "reasoning": "Applying Algorithm to data produces Stack"
   },
-  "algorithm+internet": {
-    "result": "search-engine",
-    "reasoning": "Algorithm tags in with internet, and somehow the universe speedruns Search Engine."
-  },
-  "algorithm+software": {
-    "result": "search-engine",
-    "reasoning": "Algorithm plus software is the weird recipe your alchemist friend swears by for making Search Engine."
-  },
   "algorithm+variable": {
     "result": "function",
     "reasoning": "Applying Algorithm to Variable produces Function"
@@ -34,10 +26,6 @@
   "amplifier+magnet": {
     "result": "speaker",
     "reasoning": "Applying Amplifier to magnet produces Speaker"
-  },
-  "antenna+button": {
-    "result": "remote",
-    "reasoning": "antenna teams up with button; the side quest reward is Remote."
   },
   "antenna+radio": {
     "result": "broadcast",
@@ -47,21 +35,9 @@
     "result": "television",
     "reasoning": "Applying antenna to screen produces Television"
   },
-  "antivirus+data": {
-    "result": "dataset",
-    "reasoning": "Antivirus plus data is the weird recipe your alchemist friend swears by for making Dataset."
-  },
-  "api+computer": {
-    "result": "microservice",
-    "reasoning": "When API and Computer collide, logic takes a coffee break and Microservice appears anyway."
-  },
   "api+internet": {
     "result": "rest-api",
     "reasoning": "Applying API to internet produces REST API"
-  },
-  "api+network": {
-    "result": "rest-api",
-    "reasoning": "API plus Network is the weird recipe your alchemist friend swears by for making REST API."
   },
   "api+software": {
     "result": "microservice",
@@ -75,37 +51,21 @@
     "result": "podcast",
     "reasoning": "Applying Audio to internet produces Podcast"
   },
-  "audio+network": {
-    "result": "podcast",
-    "reasoning": "Someone mixed Audio with Network for science. The peer-reviewed conclusion: Podcast."
+  "battery+battery": {
+    "result": "power-grid",
+    "reasoning": "Batteries connected form a power grid — stored energy at scale"
   },
   "battery+computer": {
     "result": "laptop",
     "reasoning": "Applying Battery to Computer produces Laptop"
   },
-  "battery+electricity": {
-    "result": "laptop",
-    "reasoning": "Battery and Electricity accidentally host a crossover episode; Laptop steals the finale."
-  },
-  "battery+processor": {
-    "result": "laptop",
-    "reasoning": "Battery tags in with Processor, and somehow the universe speedruns Laptop."
+  "battery+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Battery through Metal Detector = Magnet — invisible force, visible wonder."
   },
   "battery+self-driving-car": {
     "result": "tesla",
     "reasoning": "Applying Battery to Self Driving Car produces Tesla"
-  },
-  "battery+software": {
-    "result": "laptop",
-    "reasoning": "When Battery and software collide, logic takes a coffee break and Laptop appears anyway."
-  },
-  "binary+bit": {
-    "result": "byte",
-    "reasoning": "Binary and Bit accidentally host a crossover episode; Byte steals the finale."
-  },
-  "binary+circuit": {
-    "result": "digital",
-    "reasoning": "When Binary and Circuit collide, logic takes a coffee break and digital appears anyway."
   },
   "binary+electricity": {
     "result": "bit",
@@ -119,21 +79,9 @@
     "result": "byte",
     "reasoning": "Applying Bit to Bit produces Byte"
   },
-  "bit+electricity": {
-    "result": "byte",
-    "reasoning": "When Bit and Electricity collide, logic takes a coffee break and Byte appears anyway."
-  },
   "blockchain+internet": {
     "result": "web3",
     "reasoning": "Applying Blockchain to internet produces Web3"
-  },
-  "blockchain+network": {
-    "result": "web3",
-    "reasoning": "Blockchain tags in with Network, and somehow the universe speedruns Web3."
-  },
-  "blog+digital": {
-    "result": "vlog",
-    "reasoning": "Someone mixed blog with digital for science. The peer-reviewed conclusion: Vlog."
   },
   "blog+video": {
     "result": "vlog",
@@ -143,17 +91,57 @@
     "result": "keyboard",
     "reasoning": "Applying button to button produces Keyboard"
   },
-  "button+screen": {
-    "result": "remote",
-    "reasoning": "button and screen shake hands, reality shrugs, and Remote is suddenly canon."
-  },
   "button+television": {
     "result": "remote",
     "reasoning": "Applying button to Television produces Remote"
   },
-  "circuit+electricity": {
-    "result": "transistor",
-    "reasoning": "Circuit tags in with Electricity, and somehow the universe speedruns Transistor."
+  "byte+byte": {
+    "result": "data",
+    "reasoning": "Bytes accumulated become data — the raw material of the digital age"
+  },
+  "cable+defibrillator": {
+    "result": "electrode",
+    "reasoning": "Combine Cable with Defibrillator to create Electrode."
+  },
+  "cable+electricity": {
+    "result": "defibrillator",
+    "reasoning": "Combine Electricity with Cable to create Defibrillator."
+  },
+  "cable+electrode": {
+    "result": "voltaic-pile",
+    "reasoning": "Combine Cable with Electrode to create Voltaic Pile."
+  },
+  "cable+metal-detector": {
+    "result": "voltaic-pile",
+    "reasoning": "Combine Cable with Metal Detector to create Voltaic Pile."
+  },
+  "chronometer+galvanometer": {
+    "result": "micrometer",
+    "reasoning": "Combine Chronometer with Galvanometer to create Micrometer."
+  },
+  "chronometer+micrometer": {
+    "result": "caliper",
+    "reasoning": "Combine Micrometer with Chronometer to create Caliper."
+  },
+  "chronometer+oscilloscope": {
+    "result": "micrometer",
+    "reasoning": "Combine Chronometer with Oscilloscope to create Micrometer."
+  },
+  "chronometer+voltmeter": {
+    "result": "micrometer",
+    "reasoning": "Combine Chronometer with Voltmeter to create Micrometer."
+  },
+  "circuit-board+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Circuit Board through Metal Detector = Magnet — invisible force, visible wonder."
+  },
+  "circuit-board+screen": {
+    "result": "e-reader",
+    "reasoning": "Combine Screen with Circuit Board to create E-Reader."
+  },
+  "circuit+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Circuit through Metal Detector = Magnet — invisible force, visible wonder."
   },
   "circuit+semiconductor": {
     "result": "transistor",
@@ -163,22 +151,6 @@
     "result": "inheritance",
     "reasoning": "Applying Class to Class produces Inheritance"
   },
-  "class+object": {
-    "result": "inheritance",
-    "reasoning": "Class tags in with Object, and somehow the universe speedruns Inheritance."
-  },
-  "cloud-computing+computer": {
-    "result": "saas",
-    "reasoning": "Cloud Computing teams up with Computer; the side quest reward is SaaS."
-  },
-  "cloud-computing+data": {
-    "result": "cloud-storage",
-    "reasoning": "Cloud Computing plus data is the weird recipe your alchemist friend swears by for making Cloud Storage."
-  },
-  "cloud-computing+digital": {
-    "result": "streaming",
-    "reasoning": "Cloud Computing and digital shake hands, reality shrugs, and Streaming is suddenly canon."
-  },
   "cloud-computing+file": {
     "result": "cloud-storage",
     "reasoning": "Applying Cloud Computing to File produces Cloud Storage"
@@ -187,13 +159,9 @@
     "result": "github",
     "reasoning": "Applying Cloud Computing to Git produces GitHub"
   },
-  "cloud-computing+name": {
-    "result": "cloud-storage",
-    "reasoning": "Cloud Computing and name accidentally host a crossover episode; Cloud Storage steals the finale."
-  },
-  "cloud-computing+search-engine": {
-    "result": "google-cloud",
-    "reasoning": "Cloud Computing and Search Engine shake hands, reality shrugs, and Google Cloud is suddenly canon."
+  "cloud-computing+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "Cloud Computing + Library Software = AI — humanity's greatest amplifier."
   },
   "cloud-computing+software": {
     "result": "saas",
@@ -202,18 +170,6 @@
   "cloud-computing+video": {
     "result": "streaming",
     "reasoning": "Applying Cloud Computing to video produces Streaming"
-  },
-  "communication+computer": {
-    "result": "api",
-    "reasoning": "Communication tags in with Computer, and somehow the universe speedruns API."
-  },
-  "communication+digital": {
-    "result": "zoom",
-    "reasoning": "Communication teams up with digital; the side quest reward is Zoom."
-  },
-  "communication+internet": {
-    "result": "rest-api",
-    "reasoning": "Communication and internet shake hands, reality shrugs, and REST API is suddenly canon."
   },
   "communication+lie": {
     "result": "deception",
@@ -227,53 +183,41 @@
     "result": "zoom",
     "reasoning": "Applying Communication to video produces Zoom"
   },
+  "compass-sensor+digital": {
+    "result": "modem",
+    "reasoning": "Combine Digital with Compass Sensor to create Modem."
+  },
+  "compass-sensor+electric-car": {
+    "result": "loudspeaker",
+    "reasoning": "Combine Electric Car with Compass Sensor to create Loudspeaker."
+  },
+  "compass-sensor+electricity": {
+    "result": "photodiode",
+    "reasoning": "Combine Electricity with Compass Sensor to create Photodiode."
+  },
+  "compass-sensor+sensor": {
+    "result": "motion-sensor",
+    "reasoning": "Combine Sensor with Compass Sensor to create Motion Sensor."
+  },
   "computer+computer": {
     "result": "server",
     "reasoning": "Computers linked together form the internet"
   },
-  "computer+data": {
-    "result": "database",
-    "reasoning": "Computer and data accidentally host a crossover episode; Database steals the finale."
-  },
-  "computer+docker": {
-    "result": "kubernetes",
-    "reasoning": "Computer tags in with Docker, and somehow the universe speedruns Kubernetes."
-  },
-  "computer+electricity": {
-    "result": "server",
-    "reasoning": "Computer teams up with Electricity; the side quest reward is Server."
-  },
-  "computer+internet": {
-    "result": "browser",
-    "reasoning": "Someone mixed Computer with internet for science. The peer-reviewed conclusion: Browser."
-  },
-  "computer+microchip": {
-    "result": "server",
-    "reasoning": "Computer and Microchip shake hands, reality shrugs, and Server is suddenly canon."
-  },
-  "computer+network": {
-    "result": "internet",
-    "reasoning": "Someone mixed Computer with Network for science. The peer-reviewed conclusion: internet."
+  "computer+library-software": {
+    "result": "artificial-intelligence",
+    "reasoning": "Computer + Library Software = AI — humanity's greatest amplifier."
   },
   "computer+printer": {
     "result": "3d-printer",
     "reasoning": "Applying Computer to Printer produces 3D Printer"
   },
-  "computer+radio": {
-    "result": "bluetooth",
-    "reasoning": "When Computer and Radio collide, logic takes a coffee break and Bluetooth appears anyway."
-  },
   "computer+screen": {
     "result": "monitor",
     "reasoning": "Applying Computer to screen produces Monitor"
   },
-  "computer+server": {
-    "result": "mainframe",
-    "reasoning": "Computer and Server shake hands, reality shrugs, and Mainframe is suddenly canon."
-  },
-  "computer+smartphone": {
-    "result": "app",
-    "reasoning": "Computer teams up with Smartphone; the side quest reward is App."
+  "computer+sensor": {
+    "result": "edge-computing",
+    "reasoning": "Computing at the edge, close to data"
   },
   "computer+software": {
     "result": "operating-system",
@@ -291,21 +235,25 @@
     "result": "tablet",
     "reasoning": "Applying Computer to Touchscreen produces Tablet"
   },
+  "conveyor-belt+particle-accelerator": {
+    "result": "brownian-motion",
+    "reasoning": "Combine Particle Accelerator with Conveyor Belt to create Brownian Motion."
+  },
+  "current+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Current through Metal Detector = Magnet — invisible force, visible wonder."
+  },
+  "current+voltage": {
+    "result": "ohms-law",
+    "reasoning": "Combine Current with Voltage to create Ohms Law."
+  },
   "data+data": {
     "result": "dataset",
     "reasoning": "data enhanced with data creates Dataset"
   },
-  "data+database": {
-    "result": "big-data",
-    "reasoning": "data and Database accidentally host a crossover episode; Big Data steals the finale."
-  },
   "data+encryption": {
     "result": "hash",
     "reasoning": "Applying data to Encryption produces Hash"
-  },
-  "data+file": {
-    "result": "folder",
-    "reasoning": "When data and File collide, logic takes a coffee break and Folder appears anyway."
   },
   "data+internet": {
     "result": "upload",
@@ -315,125 +263,185 @@
     "result": "file",
     "reasoning": "Applying data to name produces File"
   },
-  "data+network": {
-    "result": "upload",
-    "reasoning": "data plus Network is the weird recipe your alchemist friend swears by for making Upload."
-  },
   "data+server": {
     "result": "database",
     "reasoning": "Applying data to Server produces Database"
-  },
-  "data+software": {
-    "result": "code-generation",
-    "reasoning": "data meets software, chaos files a memo, and Code Generation walks out with the trophy."
-  },
-  "data+video": {
-    "result": "deepfake",
-    "reasoning": "data and video shake hands, reality shrugs, and Deepfake is suddenly canon."
   },
   "database+database": {
     "result": "big-data",
     "reasoning": "Database enhanced with Database creates Big Data"
   },
-  "database+search-engine": {
-    "result": "google",
-    "reasoning": "Database meets Search Engine, chaos files a memo, and Google walks out with the trophy."
-  },
-  "database+server": {
-    "result": "big-data",
-    "reasoning": "Database plus Server is the weird recipe your alchemist friend swears by for making Big Data."
-  },
-  "database+supercomputer": {
-    "result": "rag",
-    "reasoning": "Database teams up with Supercomputer; the side quest reward is RAG."
-  },
   "deception+email": {
     "result": "phishing",
     "reasoning": "Applying deception to Email produces Phishing"
   },
-  "deception+internet": {
-    "result": "phishing",
-    "reasoning": "deception and internet shake hands, reality shrugs, and Phishing is suddenly canon."
+  "defibrillator+electricity": {
+    "result": "fuel-cell",
+    "reasoning": "Combine Electricity with Defibrillator to create Fuel Cell."
   },
-  "deception+message": {
-    "result": "phishing",
-    "reasoning": "deception and message accidentally host a crossover episode; Phishing steals the finale."
+  "digital+magnet": {
+    "result": "compass-sensor",
+    "reasoning": "Combine Digital with Magnet to create Compass Sensor."
   },
-  "digital+internet": {
-    "result": "youtube",
-    "reasoning": "digital and internet accidentally host a crossover episode; YouTube steals the finale."
+  "digital+sensor": {
+    "result": "compass-sensor",
+    "reasoning": "Combine Digital with Sensor to create Compass Sensor."
   },
-  "digital+social-media": {
-    "result": "tiktok",
-    "reasoning": "digital and Social Media accidentally host a crossover episode; TikTok steals the finale."
+  "digital+signal": {
+    "result": "modem",
+    "reasoning": "Combine Digital with Signal to create Modem."
+  },
+  "digital+technology": {
+    "result": "modem",
+    "reasoning": "Combine Digital with Technology to create Modem."
   },
   "docker+server": {
     "result": "kubernetes",
     "reasoning": "Applying Docker to Server produces Kubernetes"
   },
+  "dynamo+electricity": {
+    "result": "galvanometer",
+    "reasoning": "Combine Electricity with Dynamo to create Galvanometer."
+  },
+  "e-reader+screen": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Combine Screen with E Reader to create Cathode Ray Tube."
+  },
+  "electric-car+magnet": {
+    "result": "loudspeaker",
+    "reasoning": "Combine Electric Car with Magnet to create Loudspeaker."
+  },
+  "electric-car+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Electric Car through Metal Detector = Magnet — invisible force, visible wonder."
+  },
+  "electric-car+self-driving-car": {
+    "result": "dashcam",
+    "reasoning": "Combine Electric Car with Self Driving Car to create Dashcam."
+  },
+  "electric-car+webcam": {
+    "result": "dashcam",
+    "reasoning": "Combine Electric Car with Webcam to create Dashcam."
+  },
+  "electricity+electrode": {
+    "result": "multimeter",
+    "reasoning": "Combine Electricity with Electrode to create Multimeter."
+  },
+  "electricity+fuel-cell": {
+    "result": "piezoelectric",
+    "reasoning": "Combine Electricity with Fuel Cell to create Piezoelectric."
+  },
+  "electricity+galvanometer": {
+    "result": "multimeter",
+    "reasoning": "Combine Electricity with Galvanometer to create Multimeter."
+  },
+  "electricity+gyroscope": {
+    "result": "dynamo",
+    "reasoning": "Combine Electricity with Gyroscope to create Dynamo."
+  },
+  "electricity+loudspeaker": {
+    "result": "dynamo",
+    "reasoning": "Combine Electricity with Loudspeaker to create Dynamo."
+  },
+  "electricity+magnet": {
+    "result": "dynamo",
+    "reasoning": "Combine Electricity with Magnet to create Dynamo."
+  },
   "electricity+message": {
     "result": "telegram",
     "reasoning": "Applying Electricity to message produces Telegram"
+  },
+  "electricity+metal-detector": {
+    "result": "magnet",
+    "reasoning": "Electricity through Metal Detector = Magnet — invisible force, visible wonder."
   },
   "electricity+microchip": {
     "result": "ssd",
     "reasoning": "Applying Electricity to Microchip produces SSD"
   },
-  "electricity+printer": {
-    "result": "3d-printer",
-    "reasoning": "Electricity tags in with Printer, and somehow the universe speedruns 3D Printer."
+  "electricity+modem": {
+    "result": "relay",
+    "reasoning": "Combine Electricity with Modem to create Relay."
   },
-  "electricity+screen": {
-    "result": "monitor",
-    "reasoning": "Electricity meets screen, chaos files a memo, and Monitor walks out with the trophy."
+  "electricity+multimeter": {
+    "result": "neon-sign",
+    "reasoning": "Combine Electricity with Multimeter to create Neon Sign."
   },
-  "electricity+software": {
-    "result": "operating-system",
-    "reasoning": "Electricity teams up with software; the side quest reward is Operating System."
+  "electricity+neon-sign": {
+    "result": "potentiometer",
+    "reasoning": "Combine Electricity with Neon Sign to create Potentiometer."
   },
-  "electricity+television": {
-    "result": "console",
-    "reasoning": "Electricity and Television shake hands, reality shrugs, and Console is suddenly canon."
+  "electricity+oscilloscope": {
+    "result": "voltmeter",
+    "reasoning": "Combine Electricity with Oscilloscope to create Voltmeter."
   },
-  "electricity+touchscreen": {
-    "result": "tablet",
-    "reasoning": "Electricity and Touchscreen shake hands, reality shrugs, and Tablet is suddenly canon."
+  "electricity+photodiode": {
+    "result": "power-strip",
+    "reasoning": "Combine Electricity with Photodiode to create Power Strip."
   },
-  "electricity+transistor": {
-    "result": "ssd",
-    "reasoning": "Electricity and Transistor shake hands, reality shrugs, and SSD is suddenly canon."
+  "electricity+piezoelectric": {
+    "result": "voltmeter",
+    "reasoning": "Combine Electricity with Piezoelectric to create Voltmeter."
   },
-  "electronics+technology": {
-    "result": "samsung",
-    "reasoning": "Electronics teams up with technology; the side quest reward is Samsung."
+  "electricity+potentiometer": {
+    "result": "relay",
+    "reasoning": "Combine Electricity with Potentiometer to create Relay."
+  },
+  "electricity+power-grid": {
+    "result": "power-strip",
+    "reasoning": "Combine Electricity with Power Grid to create Power Strip."
+  },
+  "electricity+power-plant": {
+    "result": "power-strip",
+    "reasoning": "Combine Electricity with Power Plant to create Power Strip."
+  },
+  "electricity+power-strip": {
+    "result": "potentiometer",
+    "reasoning": "Combine Electricity with Power Strip to create Potentiometer."
+  },
+  "electricity+relay": {
+    "result": "telegraph",
+    "reasoning": "Combine Electricity with Relay to create Telegraph."
+  },
+  "electricity+sensor": {
+    "result": "photodiode",
+    "reasoning": "Combine Electricity with Sensor to create Photodiode."
+  },
+  "electricity+signal": {
+    "result": "relay",
+    "reasoning": "Combine Electricity with Signal to create Relay."
+  },
+  "electricity+telegraph": {
+    "result": "tesla-coil",
+    "reasoning": "Combine Electricity with Telegraph to create Tesla Coil."
+  },
+  "electricity+tesla": {
+    "result": "tesla-coil",
+    "reasoning": "Combine Electricity with Tesla to create Tesla Coil."
+  },
+  "electricity+voltage": {
+    "result": "voltmeter",
+    "reasoning": "Combine Electricity with Voltage to create Voltmeter."
+  },
+  "electricity+voltmeter": {
+    "result": "galvanometer",
+    "reasoning": "Combine Electricity with Voltmeter to create Galvanometer."
   },
   "email+email": {
     "result": "spam",
     "reasoning": "Applying Email to Email produces Spam"
   },
-  "email+internet": {
-    "result": "spam",
-    "reasoning": "When Email and internet collide, logic takes a coffee break and Spam appears anyway."
-  },
-  "email+lie": {
-    "result": "phishing",
-    "reasoning": "Email and lie shake hands, reality shrugs, and Phishing is suddenly canon."
-  },
-  "email+message": {
-    "result": "spam",
-    "reasoning": "Email and message shake hands, reality shrugs, and Spam is suddenly canon."
-  },
   "encryption+internet": {
     "result": "tor",
     "reasoning": "Applying Encryption to internet produces Tor"
   },
-  "encryption+network": {
-    "result": "tor",
-    "reasoning": "Encryption and Network accidentally host a crossover episode; Tor steals the finale."
+  "error+function": {
+    "result": "loss-function",
+    "reasoning": "Combine Error with Function to create Loss Function."
   },
-  "fame+internet": {
-    "result": "influencer",
-    "reasoning": "fame tags in with internet, and somehow the universe speedruns Influencer."
+  "escalator+particle-accelerator": {
+    "result": "brownian-motion",
+    "reasoning": "Combine Particle Accelerator with Escalator to create Brownian Motion."
   },
   "fame+social-media": {
     "result": "influencer",
@@ -447,29 +455,9 @@
     "result": "download",
     "reasoning": "Applying File to internet produces Download"
   },
-  "file+name": {
-    "result": "folder",
-    "reasoning": "File tags in with name, and somehow the universe speedruns Folder."
-  },
-  "file+network": {
-    "result": "download",
-    "reasoning": "Someone mixed File with Network for science. The peer-reviewed conclusion: Download."
-  },
-  "file+server": {
-    "result": "cloud-storage",
-    "reasoning": "File and Server accidentally host a crossover episode; Cloud Storage steals the finale."
-  },
-  "forum+internet": {
-    "result": "reddit",
-    "reasoning": "When Forum and internet collide, logic takes a coffee break and Reddit appears anyway."
-  },
   "forum+social-media": {
     "result": "reddit",
     "reasoning": "Applying Forum to Social Media produces Reddit"
-  },
-  "friend+internet": {
-    "result": "follower",
-    "reasoning": "friend tags in with internet, and somehow the universe speedruns Follower."
   },
   "friend+post": {
     "result": "share",
@@ -479,192 +467,416 @@
     "result": "follower",
     "reasoning": "Applying friend to Social Media produces Follower"
   },
+  "galvanometer+micrometer": {
+    "result": "caliper",
+    "reasoning": "Combine Micrometer with Galvanometer to create Caliper."
+  },
   "git+internet": {
     "result": "github",
     "reasoning": "Applying Git to internet produces GitHub"
-  },
-  "git+network": {
-    "result": "github",
-    "reasoning": "Git plus Network is the weird recipe your alchemist friend swears by for making GitHub."
   },
   "gps+internet": {
     "result": "google-maps",
     "reasoning": "Applying GPS to internet produces Google Maps"
   },
+  "gyroscope+navigation": {
+    "result": "chronometer",
+    "reasoning": "Combine Navigation with Gyroscope to create Chronometer."
+  },
   "hacker+internet": {
     "result": "hacking",
     "reasoning": "Applying Hacker to internet produces Hacking"
   },
-  "hacker+network": {
-    "result": "hacking",
-    "reasoning": "Hacker teams up with Network; the side quest reward is Hacking."
+  "hard-drive+usb": {
+    "result": "flash-drive",
+    "reasoning": "Combine Usb with Hard Drive to create Flash Drive."
   },
-  "internet+message": {
-    "result": "email",
-    "reasoning": "Applying internet to message produces Email"
+  "heat-pump+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Heat Pump creates an Ingot — the foundation of metallurgy."
   },
-  "internet+name": {
-    "result": "domain",
-    "reasoning": "Applying internet to name produces Domain"
+  "heat-pump+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
   },
-  "internet+privacy": {
-    "result": "vpn",
-    "reasoning": "Applying internet to Privacy produces VPN"
+  "heat-pump+water-wheel": {
+    "result": "steam",
+    "reasoning": "Heat Pump turns Water Wheel to Steam — the force that powered the Industrial Revolution."
   },
-  "internet+server": {
-    "result": "cloud-computing",
-    "reasoning": "Applying internet to Server produces Cloud Computing"
+  "hologram+html": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + HTML = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "internet+software": {
-    "result": "browser",
-    "reasoning": "Applying internet to software produces Browser"
+  "hologram+hydraulic-press": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Hydraulic Press = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "internet+video": {
-    "result": "youtube",
-    "reasoning": "Applying internet to video produces YouTube"
+  "hologram+incubator": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Incubator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "internet+vr-headset": {
-    "result": "metaverse",
-    "reasoning": "Applying internet to VR Headset produces Metaverse"
+  "hologram+influencer": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Influencer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "internet+wiki": {
-    "result": "wikipedia",
-    "reasoning": "Applying internet to Wiki produces Wikipedia"
+  "hologram+inheritance": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Inheritance = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "mainframe+mainframe": {
-    "result": "supercomputer",
-    "reasoning": "Applying Mainframe to Mainframe produces Supercomputer"
+  "hologram+instagram": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Instagram = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "mainframe+server": {
-    "result": "supercomputer",
-    "reasoning": "Mainframe plus Server is the weird recipe your alchemist friend swears by for making Supercomputer."
+  "hologram+intercom": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Intercom = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "message+network": {
-    "result": "email",
-    "reasoning": "message teams up with Network; the side quest reward is Email."
+  "hologram+interface": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Interface = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "message+smartphone": {
-    "result": "notification",
-    "reasoning": "message meets Smartphone, chaos files a memo, and Notification walks out with the trophy."
+  "hologram+internet": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + internet = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "microchip+printer": {
-    "result": "3d-printer",
-    "reasoning": "When Microchip and Printer collide, logic takes a coffee break and 3D Printer appears anyway."
+  "hologram+iot": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + IoT = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "microchip+processor": {
-    "result": "parallel",
-    "reasoning": "Microchip teams up with Processor; the side quest reward is parallel."
+  "hologram+ip-address": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + IP Address = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "microchip+screen": {
-    "result": "monitor",
-    "reasoning": "Microchip and screen shake hands, reality shrugs, and Monitor is suddenly canon."
+  "hologram+jackhammer": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Jackhammer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "microchip+software": {
-    "result": "computer",
-    "reasoning": "Applying Microchip to software produces Computer"
+  "hologram+java": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Java = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "name+network": {
-    "result": "domain",
-    "reasoning": "name plus Network is the weird recipe your alchemist friend swears by for making Domain."
+  "hologram+javascript": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + JavaScript = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "name+website": {
-    "result": "url",
-    "reasoning": "Applying name to Website produces URL"
+  "hologram+joystick": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Joystick = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+network": {
-    "result": "internet",
-    "reasoning": "Applying Network to Network produces internet"
+  "hologram+json": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + JSON = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+privacy": {
-    "result": "vpn",
-    "reasoning": "When Network and Privacy collide, logic takes a coffee break and VPN appears anyway."
+  "hologram+keyboard": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Keyboard = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+radio": {
-    "result": "bluetooth",
-    "reasoning": "Applying Network to Radio produces Bluetooth"
+  "hologram+kiln": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Kiln = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+server": {
-    "result": "cloud-computing",
-    "reasoning": "Network plus Server is the weird recipe your alchemist friend swears by for making Cloud Computing."
+  "hologram+kubernetes": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Kubernetes = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+software": {
-    "result": "browser",
-    "reasoning": "Network plus software is the weird recipe your alchemist friend swears by for making Browser."
+  "hologram+laptop": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Laptop = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+video": {
-    "result": "youtube",
-    "reasoning": "When Network and video collide, logic takes a coffee break and YouTube appears anyway."
+  "hologram+lathe": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Lathe = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "network+vr-headset": {
-    "result": "metaverse",
-    "reasoning": "Network tags in with VR Headset, and somehow the universe speedruns Metaverse."
+  "hologram+led": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + LED = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "pixel+pixel": {
-    "result": "resolution",
-    "reasoning": "Applying Pixel to Pixel produces Resolution"
+  "hologram+library-software": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Library Software = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "pixel+screen": {
-    "result": "resolution",
-    "reasoning": "Pixel and screen accidentally host a crossover episode; Resolution steals the finale."
+  "hologram+lidar": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + LIDAR = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "processor+processor": {
-    "result": "parallel",
-    "reasoning": "Processor enhanced with Processor creates parallel"
+  "hologram+lie": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + lie = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "processor+screen": {
-    "result": "computer",
-    "reasoning": "A processor connected to a screen makes a computer"
+  "hologram+like": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Like = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "processor+software": {
-    "result": "operating-system",
-    "reasoning": "Processor and software shake hands, reality shrugs, and Operating System is suddenly canon."
+  "hologram+linux": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Linux = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "processor+telephone": {
-    "result": "smartphone",
-    "reasoning": "Processor tags in with Telephone, and somehow the universe speedruns Smartphone."
+  "hologram+loop": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Loop = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "processor+television": {
-    "result": "console",
-    "reasoning": "Processor plus Television is the weird recipe your alchemist friend swears by for making Console."
+  "hologram+loudspeaker": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Loudspeaker = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "radio+screen": {
-    "result": "television",
-    "reasoning": "Applying Radio to screen produces Television"
+  "hologram+magnet": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + magnet = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "semiconductor+wind-turbine": {
-    "result": "renewable-energy",
-    "reasoning": "Semiconductor teams up with Wind Turbine; the side quest reward is Renewable Energy."
+  "hologram+mail": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Mail = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "server+server": {
-    "result": "mainframe",
-    "reasoning": "Applying Server to Server produces Mainframe"
+  "hologram+mainframe": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Mainframe = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "server+software": {
-    "result": "devops",
-    "reasoning": "Server plus software is the weird recipe your alchemist friend swears by for making DevOps."
+  "hologram+malware": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Malware = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "smartphone+software": {
-    "result": "app",
-    "reasoning": "Applying Smartphone to software produces App"
+  "hologram+markdown": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Markdown = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "social-media+television": {
-    "result": "influencer",
-    "reasoning": "Social Media tags in with Television, and somehow the universe speedruns Influencer."
+  "hologram+meme": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Meme = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "social-media+video": {
-    "result": "tiktok",
-    "reasoning": "Applying Social Media to video produces TikTok"
+  "hologram+message": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + message = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "software+telephone": {
-    "result": "app",
-    "reasoning": "Someone mixed software with Telephone for science. The peer-reviewed conclusion: App."
+  "hologram+metal-detector": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Metal Detector = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "software+touchscreen": {
-    "result": "tablet",
-    "reasoning": "When software and Touchscreen collide, logic takes a coffee break and Tablet appears anyway."
+  "hologram+metaverse": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Metaverse = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   },
-  "solar-panel+wind-turbine": {
-    "result": "renewable-energy",
-    "reasoning": "Solar Panel and Wind Turbine explain the phenomenon of Renewable Energy"
+  "hologram+metronome": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Metronome = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+microchip": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Microchip = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+micrometer": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Micrometer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+microphone": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Microphone = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+microservice": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Microservice = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+midjourney": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Midjourney = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+modem": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Modem = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+monitor": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Monitor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+morse-code": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Morse Code = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+motion-sensor": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Motion Sensor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+mouse-device": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Mouse Device = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+multimeter": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Multimeter = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+name": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + name = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+navigation": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Navigation = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+neon-sign": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Neon Sign = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+netflix": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Netflix = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+network": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Network = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+neural-link": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Neural Link = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+neuralink": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Neuralink = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+newsletter": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Newsletter = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+nft": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + NFT = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+notification": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Notification = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+nuclear-reactor": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Nuclear Reactor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+object": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Object = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+offline": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Offline = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+online": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Online = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+open-source": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Open Source = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+operating-system": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Operating System = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+oscillator": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Oscillator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+oscilloscope": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Oscilloscope = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+particle-accelerator": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Particle Accelerator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+password": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Password = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+pattern": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + pattern = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+periscope": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Periscope = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+phishing": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Phishing = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+phonograph": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Phonograph = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+photodiode": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Photodiode = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+piezoelectric": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Piezoelectric = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+pixel": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Pixel = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+pneumatic": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Pneumatic = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+podcast": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Podcast = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+polymorphism": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Polymorphism = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+post": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Post = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+post-office": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Post Office = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+potentiometer": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Potentiometer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+power-grid": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Power Grid = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+power-plant": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Power Plant = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+power-strip": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Power Strip = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+press": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + press = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+pressure-cooker": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Pressure Cooker = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+printer": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Printer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+printing": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Printing = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+privacy": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Privacy = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+processor": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Processor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+product": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + product = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+  },
+  "hologram+profile": {
+    "result": "technical-debt",
+    "reasoning": "Hologram + Profile = Technical Debt. It works, nobody knows why, and nobody dares touch it."
   }
 }

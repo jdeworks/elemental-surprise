@@ -1,4 +1,16 @@
 {
+  "abstract": {
+    "id": "abstract",
+    "name": "Abstract",
+    "icon": "./icons/knowledge/abstract.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Abstract",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "action": {
     "id": "action",
     "name": "action",
@@ -23,6 +35,18 @@
     ],
     "group": "Knowledge"
   },
+  "allegory": {
+    "id": "allegory",
+    "name": "Allegory",
+    "icon": "./icons/knowledge/allegory.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Allegory",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "alphabet": {
     "id": "alphabet",
     "name": "Alphabet",
@@ -30,6 +54,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Alphabet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "analogy": {
+    "id": "analogy",
+    "name": "Analogy",
+    "icon": "./icons/knowledge/analogy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Analogy",
         "label": "Wikipedia"
       }
     ],
@@ -47,6 +83,42 @@
     ],
     "group": "Knowledge"
   },
+  "anthology": {
+    "id": "anthology",
+    "name": "Anthology",
+    "icon": "./icons/knowledge/anthology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Anthology",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "aphorism": {
+    "id": "aphorism",
+    "name": "Aphorism",
+    "icon": "./icons/knowledge/aphorism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Aphorism",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "archetype": {
+    "id": "archetype",
+    "name": "Archetype",
+    "icon": "./icons/knowledge/archetype.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Archetype",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "autobiography": {
     "id": "autobiography",
     "name": "Autobiography",
@@ -54,6 +126,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Autobiography",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "axiom": {
+    "id": "axiom",
+    "name": "Axiom",
+    "icon": "./icons/knowledge/axiom.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Axiom",
         "label": "Wikipedia"
       }
     ],
@@ -119,6 +203,18 @@
     ],
     "group": "Knowledge"
   },
+  "chaos-theory": {
+    "id": "chaos-theory",
+    "name": "Chaos Theory",
+    "icon": "./icons/knowledge/chaos-theory.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Chaos_Theory",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "cipher": {
     "id": "cipher",
     "name": "Cipher",
@@ -143,6 +239,18 @@
     ],
     "group": "Knowledge"
   },
+  "cognitive-bias": {
+    "id": "cognitive-bias",
+    "name": "Cognitive Bias",
+    "icon": "./icons/knowledge/cognitive-bias.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cognitive_Bias",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "comedy": {
     "id": "comedy",
     "name": "Comedy",
@@ -150,6 +258,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Comedy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "conjecture": {
+    "id": "conjecture",
+    "name": "Conjecture",
+    "icon": "./icons/knowledge/conjecture.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Conjecture",
         "label": "Wikipedia"
       }
     ],
@@ -191,6 +311,30 @@
     ],
     "group": "Knowledge"
   },
+  "cosmic-mystery": {
+    "id": "cosmic-mystery",
+    "name": "Cosmic Mystery",
+    "icon": "./icons/knowledge/cosmic-mystery.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cosmic_Mystery",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "cryptography": {
+    "id": "cryptography",
+    "name": "Cryptography",
+    "icon": "./icons/knowledge/cryptography.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cryptography",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "debate": {
     "id": "debate",
     "name": "Debate",
@@ -198,6 +342,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Debate",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "deduction": {
+    "id": "deduction",
+    "name": "Deduction",
+    "icon": "./icons/knowledge/deduction.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Deduction",
         "label": "Wikipedia"
       }
     ],
@@ -222,6 +378,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Diagram",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "dialectic": {
+    "id": "dialectic",
+    "name": "Dialectic",
+    "icon": "./icons/knowledge/dialectic.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Dialectic",
         "label": "Wikipedia"
       }
     ],
@@ -299,6 +467,18 @@
     ],
     "group": "Knowledge"
   },
+  "empiricism": {
+    "id": "empiricism",
+    "name": "Empiricism",
+    "icon": "./icons/knowledge/empiricism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Empiricism",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "encyclopedia": {
     "id": "encyclopedia",
     "name": "encyclopedia",
@@ -311,6 +491,18 @@
     ],
     "group": "Knowledge"
   },
+  "epistemology": {
+    "id": "epistemology",
+    "name": "Epistemology",
+    "icon": "./icons/knowledge/epistemology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Epistemology",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "ethics": {
     "id": "ethics",
     "name": "Ethics",
@@ -318,6 +510,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Ethics",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "etymology": {
+    "id": "etymology",
+    "name": "Etymology",
+    "icon": "./icons/knowledge/etymology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Etymology",
         "label": "Wikipedia"
       }
     ],
@@ -359,6 +563,102 @@
     ],
     "group": "Knowledge"
   },
+  "fake-news": {
+    "id": "fake-news",
+    "name": "Fake News",
+    "icon": "./icons/knowledge/fake-news.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fake_News",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "fallacy": {
+    "id": "fallacy",
+    "name": "Fallacy",
+    "icon": "./icons/knowledge/fallacy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fallacy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "fibonacci": {
+    "id": "fibonacci",
+    "name": "Fibonacci",
+    "icon": "./icons/knowledge/fibonacci.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fibonacci",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "field-guide": {
+    "id": "field-guide",
+    "name": "Field Guide",
+    "icon": "./icons/knowledge/field-guide.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Field_Guide",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "field-research": {
+    "id": "field-research",
+    "name": "Field Research",
+    "icon": "./icons/knowledge/field-research.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Field_Research",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "game-theory": {
+    "id": "game-theory",
+    "name": "Game Theory",
+    "icon": "./icons/knowledge/game-theory.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Game_Theory",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "gestalt": {
+    "id": "gestalt",
+    "name": "Gestalt",
+    "icon": "./icons/knowledge/gestalt.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gestalt",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "heisenberg-principle": {
+    "id": "heisenberg-principle",
+    "name": "Heisenberg Principle",
+    "icon": "./icons/knowledge/heisenberg-principle.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heisenberg_Principle",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "hieroglyph": {
     "id": "hieroglyph",
     "name": "Hieroglyph",
@@ -378,6 +678,54 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Hypothesis",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "induction": {
+    "id": "induction",
+    "name": "Induction",
+    "icon": "./icons/knowledge/induction.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Induction",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "information-overload": {
+    "id": "information-overload",
+    "name": "Information Overload",
+    "icon": "./icons/knowledge/information-overload.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Information_Overload",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "instruction-manual": {
+    "id": "instruction-manual",
+    "name": "Instruction Manual",
+    "icon": "./icons/knowledge/instruction-manual.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Instruction_Manual",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "irony": {
+    "id": "irony",
+    "name": "Irony",
+    "icon": "./icons/knowledge/irony.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Irony",
         "label": "Wikipedia"
       }
     ],
@@ -407,6 +755,18 @@
     ],
     "group": "Knowledge"
   },
+  "jurisprudence": {
+    "id": "jurisprudence",
+    "name": "Jurisprudence",
+    "icon": "./icons/knowledge/jurisprudence.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Jurisprudence",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "karma": {
     "id": "karma",
     "name": "Karma",
@@ -426,6 +786,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/knowledge",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "koan": {
+    "id": "koan",
+    "name": "Koan",
+    "icon": "./icons/knowledge/koan.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Koan",
         "label": "Wikipedia"
       }
     ],
@@ -491,6 +863,30 @@
     ],
     "group": "Knowledge"
   },
+  "linguistics": {
+    "id": "linguistics",
+    "name": "Linguistics",
+    "icon": "./icons/knowledge/linguistics.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Linguistics",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "logarithm": {
+    "id": "logarithm",
+    "name": "Logarithm",
+    "icon": "./icons/knowledge/logarithm.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Logarithm",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "logic": {
     "id": "logic",
     "name": "Logic",
@@ -534,6 +930,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Matrix",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "metaphor": {
+    "id": "metaphor",
+    "name": "Metaphor",
+    "icon": "./icons/knowledge/metaphor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Metaphor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "mnemonic": {
+    "id": "mnemonic",
+    "name": "Mnemonic",
+    "icon": "./icons/knowledge/mnemonic.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mnemonic",
         "label": "Wikipedia"
       }
     ],
@@ -611,6 +1031,30 @@
     ],
     "group": "Knowledge"
   },
+  "ontology": {
+    "id": "ontology",
+    "name": "Ontology",
+    "icon": "./icons/knowledge/ontology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ontology",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "paradigm": {
+    "id": "paradigm",
+    "name": "Paradigm",
+    "icon": "./icons/knowledge/paradigm.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Paradigm",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "paradox": {
     "id": "paradox",
     "name": "Paradox",
@@ -630,6 +1074,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Patent",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "pedagogy": {
+    "id": "pedagogy",
+    "name": "Pedagogy",
+    "icon": "./icons/knowledge/pedagogy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Pedagogy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "peer-review": {
+    "id": "peer-review",
+    "name": "Peer Review",
+    "icon": "./icons/knowledge/peer-review.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peer_Review",
         "label": "Wikipedia"
       }
     ],
@@ -671,6 +1139,18 @@
     ],
     "group": "Knowledge"
   },
+  "placebo": {
+    "id": "placebo",
+    "name": "Placebo",
+    "icon": "./icons/knowledge/placebo.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Placebo",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "poem": {
     "id": "poem",
     "name": "Poem",
@@ -678,6 +1158,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Poem",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "postulate": {
+    "id": "postulate",
+    "name": "Postulate",
+    "icon": "./icons/knowledge/postulate.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Postulate",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "proverb": {
+    "id": "proverb",
+    "name": "Proverb",
+    "icon": "./icons/knowledge/proverb.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Proverb",
         "label": "Wikipedia"
       }
     ],
@@ -743,6 +1247,42 @@
     ],
     "group": "Knowledge"
   },
+  "research-paper": {
+    "id": "research-paper",
+    "name": "Research Paper",
+    "icon": "./icons/knowledge/research-paper.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Research_Paper",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "rhetoric": {
+    "id": "rhetoric",
+    "name": "Rhetoric",
+    "icon": "./icons/knowledge/rhetoric.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rhetoric",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "riddle": {
+    "id": "riddle",
+    "name": "Riddle",
+    "icon": "./icons/knowledge/riddle.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Riddle",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "school": {
     "id": "school",
     "name": "school",
@@ -750,6 +1290,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/school",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "schrodinger-cat": {
+    "id": "schrodinger-cat",
+    "name": "Schrodinger Cat",
+    "icon": "./icons/knowledge/schrodinger-cat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Schrodinger_Cat",
         "label": "Wikipedia"
       }
     ],
@@ -827,6 +1379,30 @@
     ],
     "group": "Knowledge"
   },
+  "socratic-method": {
+    "id": "socratic-method",
+    "name": "Socratic Method",
+    "icon": "./icons/knowledge/socratic-method.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Socratic_Method",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "stoicism": {
+    "id": "stoicism",
+    "name": "Stoicism",
+    "icon": "./icons/knowledge/stoicism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stoicism",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "story": {
     "id": "story",
     "name": "Story",
@@ -834,6 +1410,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Story",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "syllogism": {
+    "id": "syllogism",
+    "name": "Syllogism",
+    "icon": "./icons/knowledge/syllogism.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Syllogism",
         "label": "Wikipedia"
       }
     ],
@@ -851,6 +1439,42 @@
     ],
     "group": "Knowledge"
   },
+  "synesthesia": {
+    "id": "synesthesia",
+    "name": "Synesthesia",
+    "icon": "./icons/knowledge/synesthesia.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Synesthesia",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "tautology": {
+    "id": "tautology",
+    "name": "Tautology",
+    "icon": "./icons/knowledge/tautology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tautology",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "taxonomy": {
+    "id": "taxonomy",
+    "name": "Taxonomy",
+    "icon": "./icons/knowledge/taxonomy.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taxonomy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "text": {
     "id": "text",
     "name": "Text",
@@ -858,6 +1482,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Text",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "textbook": {
+    "id": "textbook",
+    "name": "Textbook",
+    "icon": "./icons/knowledge/textbook.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Textbook",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "theorem": {
+    "id": "theorem",
+    "name": "Theorem",
+    "icon": "./icons/knowledge/theorem.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Theorem",
         "label": "Wikipedia"
       }
     ],
@@ -887,6 +1535,18 @@
     ],
     "group": "Knowledge"
   },
+  "thought-experiment": {
+    "id": "thought-experiment",
+    "name": "Thought Experiment",
+    "icon": "./icons/knowledge/thought-experiment.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thought_Experiment",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "tragedy": {
     "id": "tragedy",
     "name": "Tragedy",
@@ -894,6 +1554,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Tragedy",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "trivia": {
+    "id": "trivia",
+    "name": "Trivia",
+    "icon": "./icons/knowledge/trivia.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Trivia",
         "label": "Wikipedia"
       }
     ],
@@ -911,6 +1583,18 @@
     ],
     "group": "Knowledge"
   },
+  "turing-test": {
+    "id": "turing-test",
+    "name": "Turing Test",
+    "icon": "./icons/knowledge/turing-test.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Turing_Test",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
   "university": {
     "id": "university",
     "name": "University",
@@ -918,6 +1602,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/University",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "useless-fact": {
+    "id": "useless-fact",
+    "name": "Useless Fact",
+    "icon": "./icons/knowledge/useless-fact.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Useless_Fact",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "utopia": {
+    "id": "utopia",
+    "name": "Utopia",
+    "icon": "./icons/knowledge/utopia.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Utopia",
         "label": "Wikipedia"
       }
     ],
@@ -942,6 +1650,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Writing",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "zeitgeist": {
+    "id": "zeitgeist",
+    "name": "Zeitgeist",
+    "icon": "./icons/knowledge/zeitgeist.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zeitgeist",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Knowledge"
+  },
+  "zen": {
+    "id": "zen",
+    "name": "Zen",
+    "icon": "./icons/knowledge/zen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zen",
         "label": "Wikipedia"
       }
     ],

@@ -1,0 +1,882 @@
+{
+  "bridge+bridge": {
+    "result": "aqueduct",
+    "reasoning": "Bridges chained together form an aqueduct — Roman engineering genius"
+  },
+  "bridge+castle": {
+    "result": "drawbridge",
+    "reasoning": "Combine Bridge with Castle to create Drawbridge."
+  },
+  "bridge+tower": {
+    "result": "class",
+    "reasoning": "Applying Bridge to Tower produces Class"
+  },
+  "burlesque+dance": {
+    "result": "capoeira",
+    "reasoning": "Combine Dance with Burlesque to create Capoeira."
+  },
+  "burlesque+improv": {
+    "result": "vaudeville",
+    "reasoning": "Combine Burlesque with Improv to create Vaudeville."
+  },
+  "burlesque+musical-theater": {
+    "result": "vaudeville",
+    "reasoning": "Combine Burlesque with Musical Theater to create Vaudeville."
+  },
+  "burlesque+pantomime": {
+    "result": "mime",
+    "reasoning": "Combine Pantomime with Burlesque to create Mime."
+  },
+  "burlesque+theater": {
+    "result": "musical-theater",
+    "reasoning": "Combine Theater with Burlesque to create Musical Theater."
+  },
+  "camera+light": {
+    "result": "photography",
+    "reasoning": "camera and light create Photography"
+  },
+  "capoeira+dance": {
+    "result": "flamenco",
+    "reasoning": "Combine Dance with Capoeira to create Flamenco."
+  },
+  "castle+castle": {
+    "result": "citadel",
+    "reasoning": "Castles reinforced become a citadel — the ultimate fortress"
+  },
+  "castle+church": {
+    "result": "temple",
+    "reasoning": "A Castle for Church — a Temple."
+  },
+  "castle+drawing": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Drawing — a Museum."
+  },
+  "castle+easel": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Easel — a Museum."
+  },
+  "castle+fresco": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Fresco — a Museum."
+  },
+  "castle+graffiti": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Graffiti — a Museum."
+  },
+  "castle+mosaic": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Mosaic — a Museum."
+  },
+  "castle+mural": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Mural — a Museum."
+  },
+  "castle+origami": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Origami — a Museum."
+  },
+  "castle+pixel-art": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Pixel Art — a Museum."
+  },
+  "castle+pop-art": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Pop Art — a Museum."
+  },
+  "castle+science-fiction": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "castle+sculpture": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Sculpture — a Museum."
+  },
+  "castle+temple": {
+    "result": "cathedral",
+    "reasoning": "A grand Castle for Temple — a Cathedral."
+  },
+  "castle+watercolor": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Watercolor — a Museum."
+  },
+  "cello+clarinet": {
+    "result": "harmonica",
+    "reasoning": "Combine Clarinet with Cello to create Harmonica."
+  },
+  "cello+instrument": {
+    "result": "clarinet",
+    "reasoning": "Combine Instrument with Cello to create Clarinet."
+  },
+  "church+drawing": {
+    "result": "museum",
+    "reasoning": "A Church preserving Drawing — a Museum."
+  },
+  "church+easel": {
+    "result": "museum",
+    "reasoning": "A Church preserving Easel — a Museum."
+  },
+  "church+factory": {
+    "result": "temple",
+    "reasoning": "A Factory for Church = Temple."
+  },
+  "church+fresco": {
+    "result": "museum",
+    "reasoning": "A Church preserving Fresco — a Museum."
+  },
+  "church+graffiti": {
+    "result": "museum",
+    "reasoning": "A Church preserving Graffiti — a Museum."
+  },
+  "church+house": {
+    "result": "temple",
+    "reasoning": "A house for Church = Temple."
+  },
+  "church+lighthouse": {
+    "result": "temple",
+    "reasoning": "A Lighthouse for Church = Temple."
+  },
+  "church+mosaic": {
+    "result": "museum",
+    "reasoning": "A Church preserving Mosaic — a Museum."
+  },
+  "church+mural": {
+    "result": "museum",
+    "reasoning": "A Church preserving Mural — a Museum."
+  },
+  "church+origami": {
+    "result": "museum",
+    "reasoning": "A Church preserving Origami — a Museum."
+  },
+  "church+pixel-art": {
+    "result": "museum",
+    "reasoning": "A Church preserving Pixel Art — a Museum."
+  },
+  "church+pop-art": {
+    "result": "museum",
+    "reasoning": "A Church preserving Pop Art — a Museum."
+  },
+  "church+prison": {
+    "result": "temple",
+    "reasoning": "A Prison for Church = Temple."
+  },
+  "church+science-fiction": {
+    "result": "library",
+    "reasoning": "A Church filled with Science Fiction — a Library."
+  },
+  "church+sculpture": {
+    "result": "museum",
+    "reasoning": "A Church preserving Sculpture — a Museum."
+  },
+  "church+temple": {
+    "result": "cathedral",
+    "reasoning": "A grand Church for Temple — a Cathedral."
+  },
+  "church+tower": {
+    "result": "temple",
+    "reasoning": "A Tower for Church = Temple."
+  },
+  "church+warehouse": {
+    "result": "temple",
+    "reasoning": "A Warehouse for Church = Temple."
+  },
+  "church+watercolor": {
+    "result": "museum",
+    "reasoning": "A Church preserving Watercolor — a Museum."
+  },
+  "clarinet+didgeridoo": {
+    "result": "harmonica",
+    "reasoning": "Combine Clarinet with Didgeridoo to create Harmonica."
+  },
+  "clarinet+harmonica": {
+    "result": "oboe",
+    "reasoning": "Combine Clarinet with Harmonica to create Oboe."
+  },
+  "clarinet+instrument": {
+    "result": "didgeridoo",
+    "reasoning": "Combine Instrument with Clarinet to create Didgeridoo."
+  },
+  "clarinet+lyre": {
+    "result": "saxophone",
+    "reasoning": "Combine Clarinet with Lyre to create Saxophone."
+  },
+  "clarinet+mandolin": {
+    "result": "saxophone",
+    "reasoning": "Combine Clarinet with Mandolin to create Saxophone."
+  },
+  "clarinet+oboe": {
+    "result": "saxophone",
+    "reasoning": "Combine Clarinet with Oboe to create Saxophone."
+  },
+  "classical-music+country-music": {
+    "result": "folk-music",
+    "reasoning": "Combine Classical Music with Country Music to create Folk Music."
+  },
+  "classical-music+dance": {
+    "result": "k-pop",
+    "reasoning": "Combine Classical Music with Dance to create K-Pop."
+  },
+  "classical-music+folk-music": {
+    "result": "k-pop",
+    "reasoning": "Combine Classical Music with Folk Music to create K-Pop."
+  },
+  "classical-music+gong": {
+    "result": "symphony",
+    "reasoning": "Combine Classical Music with Gong to create Symphony."
+  },
+  "classical-music+guitar": {
+    "result": "blues",
+    "reasoning": "Combine Classical Music with Guitar to create Blues."
+  },
+  "classical-music+k-pop": {
+    "result": "rap",
+    "reasoning": "Combine Classical Music with K Pop to create Rap."
+  },
+  "classical-music+music": {
+    "result": "reggae",
+    "reasoning": "Combine Classical Music with Music to create Reggae."
+  },
+  "classical-music+orchestra": {
+    "result": "symphony",
+    "reasoning": "Combine Classical Music with Orchestra to create Symphony."
+  },
+  "classical-music+punk-rock": {
+    "result": "rap",
+    "reasoning": "Combine Classical Music with Punk Rock to create Rap."
+  },
+  "classical-music+rap": {
+    "result": "soul-music",
+    "reasoning": "Combine Classical Music with Rap to create Soul Music."
+  },
+  "classical-music+reggae": {
+    "result": "requiem",
+    "reasoning": "Combine Classical Music with Reggae to create Requiem."
+  },
+  "classical-music+requiem": {
+    "result": "sonata",
+    "reasoning": "Combine Classical Music with Requiem to create Sonata."
+  },
+  "classical-music+rhyme": {
+    "result": "rap",
+    "reasoning": "Combine Classical Music with Rhyme to create Rap."
+  },
+  "classical-music+rhythm": {
+    "result": "reggae",
+    "reasoning": "Combine Classical Music with Rhythm to create Reggae."
+  },
+  "classical-music+rock-music": {
+    "result": "reggae",
+    "reasoning": "Combine Classical Music with Rock Music to create Reggae."
+  },
+  "classical-music+sonata": {
+    "result": "blues",
+    "reasoning": "Combine Classical Music with Sonata to create Blues."
+  },
+  "classical-music+symphony": {
+    "result": "blues",
+    "reasoning": "Combine Classical Music with Symphony to create Blues."
+  },
+  "color+light": {
+    "result": "spectrum",
+    "reasoning": "Combine Color with Light to create Spectrum."
+  },
+  "country-music+rock-music": {
+    "result": "punk-rock",
+    "reasoning": "Combine Rock Music with Country Music to create Punk Rock."
+  },
+  "cross+temple": {
+    "result": "church",
+    "reasoning": "cross and Temple create Church"
+  },
+  "cymbal+drum": {
+    "result": "tambourine",
+    "reasoning": "Combine Drum with Cymbal to create Tambourine."
+  },
+  "dance+film": {
+    "result": "bollywood",
+    "reasoning": "Combine Dance with Film to create Bollywood."
+  },
+  "dance+flamenco": {
+    "result": "tap-dance",
+    "reasoning": "Combine Dance with Flamenco to create Tap Dance."
+  },
+  "dance+graffiti": {
+    "result": "breakdance",
+    "reasoning": "Combine Dance with Graffiti to create Breakdance."
+  },
+  "dance+improv": {
+    "result": "burlesque",
+    "reasoning": "Combine Dance with Improv to create Burlesque."
+  },
+  "dance+rhythm": {
+    "result": "tap-dance",
+    "reasoning": "Combine Dance with Rhythm to create Tap Dance."
+  },
+  "dance+shoe": {
+    "result": "tap-dance",
+    "reasoning": "Combine Dance with Shoe to create Tap Dance."
+  },
+  "dance+tango": {
+    "result": "waltz",
+    "reasoning": "Combine Dance with Tango to create Waltz."
+  },
+  "dance+tap-dance": {
+    "result": "ballroom",
+    "reasoning": "Combine Dance with Tap Dance to create Ballroom."
+  },
+  "dance+theater": {
+    "result": "ballet",
+    "reasoning": "Dance and theater create Ballet"
+  },
+  "dance+waltz": {
+    "result": "bollywood",
+    "reasoning": "Combine Dance with Waltz to create Bollywood."
+  },
+  "darkness+darkness": {
+    "result": "void",
+    "reasoning": "Darkness intensified becomes the void — the absence of everything"
+  },
+  "darkness+prison": {
+    "result": "dungeon",
+    "reasoning": "A dark prison is a Dungeon"
+  },
+  "didgeridoo+instrument": {
+    "result": "recorder",
+    "reasoning": "Combine Instrument with Didgeridoo to create Recorder."
+  },
+  "djembe+drum": {
+    "result": "tambourine",
+    "reasoning": "Combine Drum with Djembe to create Tambourine."
+  },
+  "door+door": {
+    "result": "house",
+    "reasoning": "Doors in sequence create rooms in a house"
+  },
+  "drawing+film": {
+    "result": "animation",
+    "reasoning": "Drawing and Film create Animation"
+  },
+  "drum+rhythm": {
+    "result": "bongo",
+    "reasoning": "Combine Drum with Rhythm to create Bongo."
+  },
+  "easel+fresco": {
+    "result": "mural",
+    "reasoning": "Combine Fresco with Easel to create Mural."
+  },
+  "easel+wall": {
+    "result": "fresco",
+    "reasoning": "Combine Wall with Easel to create Fresco."
+  },
+  "entertainment+tent": {
+    "result": "circus",
+    "reasoning": "entertainment and Tent create Circus"
+  },
+  "factory+fresco": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Fresco — a Museum."
+  },
+  "factory+graffiti": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Graffiti — a Museum."
+  },
+  "factory+mosaic": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Mosaic — a Museum."
+  },
+  "factory+mural": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Mural — a Museum."
+  },
+  "factory+origami": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Origami — a Museum."
+  },
+  "factory+pixel-art": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Pixel Art — a Museum."
+  },
+  "factory+pop-art": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Pop Art — a Museum."
+  },
+  "factory+science-fiction": {
+    "result": "library",
+    "reasoning": "A Factory filled with Science Fiction — a Library."
+  },
+  "factory+sculpture": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Sculpture — a Museum."
+  },
+  "factory+temple": {
+    "result": "cathedral",
+    "reasoning": "A grand Factory for Temple — a Cathedral."
+  },
+  "factory+watercolor": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Watercolor — a Museum."
+  },
+  "film+house": {
+    "result": "cinema",
+    "reasoning": "Film and house create Cinema"
+  },
+  "folk-music+rock-music": {
+    "result": "punk-rock",
+    "reasoning": "Combine Rock Music with Folk Music to create Punk Rock."
+  },
+  "fresco+graffiti": {
+    "result": "mural",
+    "reasoning": "Combine Fresco with Graffiti to create Mural."
+  },
+  "fresco+wall": {
+    "result": "graffiti",
+    "reasoning": "Combine Fresco with Wall to create Graffiti."
+  },
+  "game+indie-game": {
+    "result": "joystick",
+    "reasoning": "Combine Game with Indie Game to create Joystick."
+  },
+  "game+strategy": {
+    "result": "chess",
+    "reasoning": "Game and strategy create Chess"
+  },
+  "game+video-game": {
+    "result": "joystick",
+    "reasoning": "Combine Game with Video Game to create Joystick."
+  },
+  "game+vr-game": {
+    "result": "joystick",
+    "reasoning": "Combine Game with Vr Game to create Joystick."
+  },
+  "glove+gong": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Gong = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+gothic": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Gothic = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+graffiti": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Graffiti = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+guitar": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Guitar = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+haiku": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Haiku = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+harmonica": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Harmonica = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+harmony": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + harmony = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+harp": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Harp = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+hat": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Hat = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+hip-hop": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Hip Hop = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+hospital": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Hospital = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+house": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + house = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+humor": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + humor = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+hymn": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Hymn = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+ikea": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + IKEA = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+impressionism": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Impressionism = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+improv": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Improv = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+indie-game": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Indie Game = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+instrument": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Instrument = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+iphone": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + iPhone = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+jazz": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Jazz = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+jewelry": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Jewelry = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+k-pop": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + K-Pop = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+kabuki": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Kabuki = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+karate": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Karate = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+kitchen": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Kitchen = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+kite": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Kite = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+lamp": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Lamp = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+landscape-painting": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Landscape Painting = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+lego": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Lego = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+light": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + light = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+lighthouse": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Lighthouse = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+limerick": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Limerick = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+lullaby": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Lullaby = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+lyre": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Lyre = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mandolin": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Mandolin = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+manga": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Manga = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+marathon": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Marathon = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mario": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Mario = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+melody": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Melody = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+microsoft": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Microsoft = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mime": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Mime = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+minecraft": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Minecraft = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mmorpg": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + MMORPG = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+monument": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Monument = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mosaic": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Mosaic = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+mural": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Mural = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+music": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Music = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+musical-theater": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Musical Theater = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+necklace": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Necklace = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+nintendo": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Nintendo = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+oboe": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Oboe = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+ode": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Ode = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+opera": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Opera = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+orchestra": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Orchestra = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+origami": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Origami = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+painting": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Painting = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pantomime": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pantomime = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pants": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pants = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+park": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Park = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+percussion": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Percussion = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+photography": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Photography = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+piano": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Piano = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pixel-art": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pixel Art = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+play": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + play = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+playstation": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + PlayStation = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+polka": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Polka = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pop-art": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pop Art = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pop-culture": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pop Culture = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+port": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Port = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pottery": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pottery = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+prison": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Prison = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+punk-rock": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Punk Rock = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+puzzle": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Puzzle = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+pyramid": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Pyramid = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rap": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Rap = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+reality-tv": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Reality TV = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+recorder": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Recorder = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+reggae": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Reggae = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+requiem": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Requiem = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rhyme": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Rhyme = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rhythm": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Rhythm = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rock-music": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Rock Music = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+roller-coaster": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Roller Coaster = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+roof": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Roof = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rpg": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + RPG = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+rule": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Rule = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+running": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Running = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+samba": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Samba = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+samsung": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Samsung = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+saxophone": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Saxophone = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+science-fiction": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Science Fiction = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+sculpting": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Sculpting = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+sculpture": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Sculpture = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+shadow": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Shadow = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+shirt": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Shirt = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+shoe": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Shoe = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+shower": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Shower = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+skateboard": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Skateboard = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+skiing": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Skiing = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+skyscraper": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Skyscraper = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+slam-poetry": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Slam Poetry = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+snowboard": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Snowboard = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+soccer": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Soccer = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+sonata": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Sonata = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+song": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Song = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+sonnet": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Sonnet = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  },
+  "glove+sony": {
+    "result": "cultural-mashup",
+    "reasoning": "Glove + Sony = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  }
+}

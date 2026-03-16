@@ -1,338 +1,882 @@
 {
-  "airplane+energy": {
-    "result": "helicopter",
-    "reasoning": "Airplane plus Energy is the weird recipe your alchemist friend swears by for making Helicopter."
-  },
-  "airplane+stone": {
-    "result": "helicopter",
-    "reasoning": "Airplane and Stone accidentally host a crossover episode; Helicopter steals the finale."
-  },
-  "arrow+stone": {
-    "result": "spear",
-    "reasoning": "Arrow teams up with Stone; the side quest reward is Spear."
-  },
-  "axe+clay": {
-    "result": "roof",
-    "reasoning": "Axe teams up with Clay; the side quest reward is Roof."
-  },
-  "axe+earth": {
-    "result": "wheel",
-    "reasoning": "Axe plus Earth is the weird recipe your alchemist friend swears by for making Wheel."
-  },
-  "axe+fire": {
-    "result": "charcoal",
-    "reasoning": "Axe meets Fire, chaos files a memo, and Charcoal walks out with the trophy."
-  },
-  "axe+lava": {
-    "result": "wheel",
-    "reasoning": "Axe teams up with Lava; the side quest reward is Wheel."
-  },
-  "axe+lightning": {
-    "result": "fire",
-    "reasoning": "Someone mixed Axe with Lightning for science. The peer-reviewed conclusion: Fire."
-  },
-  "axe+mud": {
-    "result": "plank",
-    "reasoning": "Axe and Mud accidentally host a crossover episode; plank steals the finale."
-  },
-  "axe+ocean": {
-    "result": "dock",
-    "reasoning": "Axe plus ocean is the weird recipe your alchemist friend swears by for making Dock."
+  "axe+mountain": {
+    "result": "mining",
+    "reasoning": "An axe in the mountain means Mining"
   },
   "axe+stone": {
     "result": "wheel",
     "reasoning": "Crafting Axe with Stone produces Wheel"
   },
-  "axe+water": {
-    "result": "paper",
-    "reasoning": "Axe plus Water is the weird recipe your alchemist friend swears by for making Paper."
+  "backpack+bay": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Bay = Aquarium."
   },
-  "bag+fire": {
-    "result": "suitcase",
-    "reasoning": "bag meets Fire, chaos files a memo, and Suitcase walks out with the trophy."
+  "backpack+brook": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Brook = Aquarium."
   },
-  "bicycle+energy": {
-    "result": "motorcycle",
-    "reasoning": "Someone mixed Bicycle with Energy for science. The peer-reviewed conclusion: Motorcycle."
+  "backpack+creek": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Creek = Aquarium."
   },
-  "boat+stone": {
-    "result": "canoe",
-    "reasoning": "Boat meets Stone, chaos files a memo, and Canoe walks out with the trophy."
+  "backpack+flood": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Flood = Aquarium."
   },
-  "bow+lava": {
-    "result": "arrow",
-    "reasoning": "Bow tags in with Lava, and somehow the universe speedruns Arrow."
+  "backpack+glacial-lake": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Glacial Lake = Aquarium."
+  },
+  "backpack+hot-spring": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Hot Spring = Aquarium."
+  },
+  "backpack+lagoon": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Lagoon = Aquarium."
+  },
+  "backpack+lake": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Lake = Aquarium."
+  },
+  "backpack+ocean": {
+    "result": "aquarium",
+    "reasoning": "Backpack of ocean = Aquarium."
+  },
+  "backpack+rain": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Rain = Aquarium."
+  },
+  "backpack+river": {
+    "result": "aquarium",
+    "reasoning": "Backpack of River = Aquarium."
+  },
+  "backpack+sea-cave": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Sea Cave = Aquarium."
+  },
+  "backpack+sea-stack": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Sea Stack = Aquarium."
+  },
+  "backpack+stream": {
+    "result": "aquarium",
+    "reasoning": "Backpack of stream = Aquarium."
+  },
+  "backpack+swamp": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Swamp = Aquarium."
+  },
+  "backpack+tide": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Tide = Aquarium."
+  },
+  "backpack+tide-pool": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Tide Pool = Aquarium."
+  },
+  "backpack+water": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Water = Aquarium."
+  },
+  "backpack+waterfall": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Waterfall = Aquarium."
+  },
+  "bag+bay": {
+    "result": "aquarium",
+    "reasoning": "bag of Bay = Aquarium."
+  },
+  "bag+brook": {
+    "result": "aquarium",
+    "reasoning": "bag of Brook = Aquarium."
+  },
+  "bag+creek": {
+    "result": "aquarium",
+    "reasoning": "bag of Creek = Aquarium."
+  },
+  "bag+flood": {
+    "result": "aquarium",
+    "reasoning": "bag of Flood = Aquarium."
+  },
+  "bag+glacial-lake": {
+    "result": "aquarium",
+    "reasoning": "bag of Glacial Lake = Aquarium."
+  },
+  "bag+hot-spring": {
+    "result": "aquarium",
+    "reasoning": "bag of Hot Spring = Aquarium."
+  },
+  "bag+lagoon": {
+    "result": "aquarium",
+    "reasoning": "bag of Lagoon = Aquarium."
+  },
+  "bag+lake": {
+    "result": "aquarium",
+    "reasoning": "bag of Lake = Aquarium."
+  },
+  "bag+ocean": {
+    "result": "aquarium",
+    "reasoning": "bag of ocean = Aquarium."
+  },
+  "bag+rain": {
+    "result": "aquarium",
+    "reasoning": "bag of Rain = Aquarium."
+  },
+  "bag+river": {
+    "result": "aquarium",
+    "reasoning": "bag of River = Aquarium."
+  },
+  "bag+sea-cave": {
+    "result": "aquarium",
+    "reasoning": "bag of Sea Cave = Aquarium."
+  },
+  "bag+sea-stack": {
+    "result": "aquarium",
+    "reasoning": "bag of Sea Stack = Aquarium."
+  },
+  "bag+stream": {
+    "result": "aquarium",
+    "reasoning": "bag of stream = Aquarium."
+  },
+  "bag+swamp": {
+    "result": "aquarium",
+    "reasoning": "bag of Swamp = Aquarium."
+  },
+  "bag+tide": {
+    "result": "aquarium",
+    "reasoning": "bag of Tide = Aquarium."
+  },
+  "bag+tide-pool": {
+    "result": "aquarium",
+    "reasoning": "bag of Tide Pool = Aquarium."
+  },
+  "bag+water": {
+    "result": "aquarium",
+    "reasoning": "bag of Water = Aquarium."
+  },
+  "bag+waterfall": {
+    "result": "aquarium",
+    "reasoning": "bag of Waterfall = Aquarium."
+  },
+  "bay+garden-shed": {
+    "result": "garden",
+    "reasoning": "Bay + Garden Shed + patience = a Garden."
+  },
+  "bay+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Bay oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "bellows+fire": {
+    "result": "mezcal",
+    "reasoning": "Combine Fire with Bellows to create Mezcal."
+  },
+  "blizzard+spring": {
+    "result": "ice",
+    "reasoning": "Blizzard freezes Spring into Ice — water's solid form."
+  },
+  "boat+ocean": {
+    "result": "sailor",
+    "reasoning": "Navigating a boat across the ocean — that's a Sailor"
+  },
+  "boat+wind": {
+    "result": "sailboat",
+    "reasoning": "A boat powered by wind is a Sailboat"
   },
   "bow+stone": {
     "result": "arrow",
     "reasoning": "Crafting Bow with Stone produces Arrow"
   },
-  "canoe+earth": {
-    "result": "farm",
-    "reasoning": "Canoe and Earth accidentally host a crossover episode; farm steals the finale."
+  "brazier+brook": {
+    "result": "steam",
+    "reasoning": "Brazier turns Brook to Steam — the force that powered the Industrial Revolution."
   },
-  "car+earth": {
-    "result": "tractor",
-    "reasoning": "Car teams up with Earth; the side quest reward is Tractor."
+  "brazier+cave": {
+    "result": "lava",
+    "reasoning": "Brazier melts Cave into flowing Lava."
   },
-  "car+gravel": {
-    "result": "highway",
-    "reasoning": "When Car and Gravel collide, logic takes a coffee break and Highway appears anyway."
+  "brazier+clay": {
+    "result": "lava",
+    "reasoning": "Brazier melts Clay into flowing Lava."
+  },
+  "brazier+creek": {
+    "result": "steam",
+    "reasoning": "Brazier turns Creek to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+earth": {
+    "result": "lava",
+    "reasoning": "Brazier melts Earth into flowing Lava."
+  },
+  "brazier+flood": {
+    "result": "steam",
+    "reasoning": "Brazier turns Flood to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+glacial-lake": {
+    "result": "steam",
+    "reasoning": "Brazier turns Glacial Lake to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+gravel": {
+    "result": "lava",
+    "reasoning": "Brazier melts Gravel into flowing Lava."
+  },
+  "brazier+hot-spring": {
+    "result": "steam",
+    "reasoning": "Brazier turns Hot Spring to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+lagoon": {
+    "result": "steam",
+    "reasoning": "Brazier turns Lagoon to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+lake": {
+    "result": "steam",
+    "reasoning": "Brazier turns Lake to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+mountain": {
+    "result": "lava",
+    "reasoning": "Brazier melts mountain into flowing Lava."
+  },
+  "brazier+mud": {
+    "result": "lava",
+    "reasoning": "Brazier melts Mud into flowing Lava."
+  },
+  "brazier+ocean": {
+    "result": "steam",
+    "reasoning": "Brazier turns ocean to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+rain": {
+    "result": "steam",
+    "reasoning": "Brazier turns Rain to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+river": {
+    "result": "steam",
+    "reasoning": "Brazier turns River to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+sand": {
+    "result": "lava",
+    "reasoning": "Brazier melts Sand into flowing Lava."
+  },
+  "brazier+sand-bar": {
+    "result": "lava",
+    "reasoning": "Brazier melts Sand Bar into flowing Lava."
+  },
+  "brazier+sand-storm": {
+    "result": "lava",
+    "reasoning": "Brazier melts Sand Storm into flowing Lava."
+  },
+  "brazier+sea-cave": {
+    "result": "lava",
+    "reasoning": "Brazier melts Sea Cave into flowing Lava."
+  },
+  "brazier+sea-stack": {
+    "result": "steam",
+    "reasoning": "Brazier turns Sea Stack to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+stone": {
+    "result": "lava",
+    "reasoning": "Brazier melts Stone into flowing Lava."
+  },
+  "brazier+stream": {
+    "result": "steam",
+    "reasoning": "Brazier turns stream to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+swamp": {
+    "result": "steam",
+    "reasoning": "Brazier turns Swamp to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+tide": {
+    "result": "steam",
+    "reasoning": "Brazier turns Tide to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+tide-pool": {
+    "result": "steam",
+    "reasoning": "Brazier turns Tide Pool to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+water": {
+    "result": "steam",
+    "reasoning": "Brazier turns Water to Steam — the force that powered the Industrial Revolution."
+  },
+  "brazier+waterfall": {
+    "result": "steam",
+    "reasoning": "Brazier turns Waterfall to Steam — the force that powered the Industrial Revolution."
+  },
+  "brook+garden-shed": {
+    "result": "garden",
+    "reasoning": "Brook + Garden Shed + patience = a Garden."
+  },
+  "brook+soldering-iron": {
+    "result": "rust",
+    "reasoning": "Brook oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "bucket+creek": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Creek = Aquarium."
+  },
+  "bucket+flood": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Flood = Aquarium."
+  },
+  "bucket+glacial-lake": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Glacial Lake = Aquarium."
+  },
+  "bucket+heat": {
+    "result": "kettle",
+    "reasoning": "Combine Bucket with Heat to create Kettle."
+  },
+  "bucket+hot-spring": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Hot Spring = Aquarium."
+  },
+  "bucket+lagoon": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Lagoon = Aquarium."
+  },
+  "bucket+lake": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Lake = Aquarium."
+  },
+  "bucket+ocean": {
+    "result": "aquarium",
+    "reasoning": "Bucket of ocean = Aquarium."
+  },
+  "bucket+rain": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Rain = Aquarium."
+  },
+  "bucket+river": {
+    "result": "aquarium",
+    "reasoning": "Bucket of River = Aquarium."
+  },
+  "bucket+sea-cave": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Sea Cave = Aquarium."
+  },
+  "bucket+sea-stack": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Sea Stack = Aquarium."
+  },
+  "bucket+stream": {
+    "result": "aquarium",
+    "reasoning": "Bucket of stream = Aquarium."
+  },
+  "bucket+swamp": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Swamp = Aquarium."
+  },
+  "bucket+tide": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Tide = Aquarium."
+  },
+  "bucket+tide-pool": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Tide Pool = Aquarium."
+  },
+  "bucket+water": {
+    "result": "snorkel",
+    "reasoning": "Combine Water with Bucket to create Snorkel."
+  },
+  "bucket+waterfall": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Waterfall = Aquarium."
+  },
+  "butte+tool": {
+    "result": "level",
+    "reasoning": "Combine Tool with Butte to create Level."
+  },
+  "canteen+water": {
+    "result": "snorkel",
+    "reasoning": "Combine Water with Canteen to create Snorkel."
+  },
+  "car+ice": {
+    "result": "sled",
+    "reasoning": "Transport on ice requires a Sled"
   },
   "cave+tool": {
     "result": "tunnel",
     "reasoning": "Cave and tool create Tunnel"
   },
-  "clay+rocket": {
-    "result": "astronaut",
-    "reasoning": "Clay and Rocket accidentally host a crossover episode; Astronaut steals the finale."
-  },
-  "clay+ship": {
-    "result": "pirate",
-    "reasoning": "Clay and ship shake hands, reality shrugs, and Pirate is suddenly canon."
-  },
-  "clay+sword": {
-    "result": "army",
-    "reasoning": "Clay tags in with Sword, and somehow the universe speedruns Army."
-  },
   "clay+wheel": {
-    "result": "wheelchair",
-    "reasoning": "When Clay and Wheel collide, logic takes a coffee break and Wheelchair appears anyway."
+    "result": "pottery",
+    "reasoning": "Clay on a wheel becomes Pottery"
   },
-  "cylinder+lava": {
-    "result": "piston",
-    "reasoning": "cylinder meets Lava, chaos files a memo, and Piston walks out with the trophy."
+  "cold+spring": {
+    "result": "ice",
+    "reasoning": "Cold freezes Spring into Ice — water's solid form."
   },
-  "cylinder+steam": {
-    "result": "piston",
-    "reasoning": "Crafting cylinder with Steam produces Piston"
+  "crater+crossbow": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Crossbow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "earth+highway": {
-    "result": "fuel",
-    "reasoning": "Earth teams up with Highway; the side quest reward is fuel."
+  "crater+crowbar": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Crowbar = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "earth+pump": {
-    "result": "fountain",
-    "reasoning": "Someone mixed Earth with Pump for science. The peer-reviewed conclusion: Fountain."
+  "crater+crucible": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Crucible = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "earth+tool": {
-    "result": "farm",
-    "reasoning": "Combining Earth with tool makes delicious farm"
+  "crater+cylinder": {
+    "result": "garden-shed",
+    "reasoning": "Crater + cylinder = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "energy+machine": {
-    "result": "engine",
-    "reasoning": "Powered machines become engines"
+  "crater+dagger": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Dagger = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "energy+tool": {
-    "result": "coil",
-    "reasoning": "Energy meets tool, chaos files a memo, and coil walks out with the trophy."
+  "crater+drawknife": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Drawknife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "energy+wheel": {
-    "result": "car",
-    "reasoning": "Energy tags in with Wheel, and somehow the universe speedruns Car."
+  "crater+drill": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Drill = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "energy+wing": {
-    "result": "airplane",
-    "reasoning": "Energy plus wing is the weird recipe your alchemist friend swears by for making Airplane."
+  "crater+dyeing": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Dyeing = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+lightning": {
-    "result": "motor",
-    "reasoning": "Engine teams up with Lightning; the side quest reward is Motor."
+  "crater+dynamometer": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Dynamometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+rain": {
-    "result": "turbine",
-    "reasoning": "Engine meets Rain, chaos files a memo, and Turbine walks out with the trophy."
+  "crater+engine": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Engine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+steam": {
-    "result": "turbine",
-    "reasoning": "Crafting Engine with Steam produces Turbine"
+  "crater+eraser": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Eraser = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+stone": {
-    "result": "car",
-    "reasoning": "Engine teams up with Stone; the side quest reward is Car."
+  "crater+forge-bellows": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Forge Bellows = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+water": {
-    "result": "hydropower",
-    "reasoning": "Someone mixed Engine with Water for science. The peer-reviewed conclusion: Hydropower."
+  "crater+forging": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Forging = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "engine+wind": {
-    "result": "wind-turbine",
-    "reasoning": "Engine and Wind shake hands, reality shrugs, and Wind Turbine is suddenly canon."
+  "crater+funnel": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Funnel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+key": {
-    "result": "lock",
-    "reasoning": "When Fire and key collide, logic takes a coffee break and Lock appears anyway."
+  "crater+garden-shed": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Garden Shed = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+machine": {
-    "result": "engine",
-    "reasoning": "Fire meets machine, chaos files a memo, and Engine walks out with the trophy."
+  "crater+gear": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Gear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+spring": {
-    "result": "button",
-    "reasoning": "Fire tags in with Spring, and somehow the universe speedruns button."
+  "crater+gears": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Gears = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+tool": {
-    "result": "drill",
-    "reasoning": "Fire plus tool is the weird recipe your alchemist friend swears by for making Drill."
+  "crater+generator": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Generator = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+wagon": {
-    "result": "carriage",
-    "reasoning": "When Fire and Wagon collide, logic takes a coffee break and Carriage appears anyway."
+  "crater+gimbal": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Gimbal = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "fire+wheel": {
-    "result": "gear",
-    "reasoning": "Fire and Wheel shake hands, reality shrugs, and Gear is suddenly canon."
+  "crater+gondola": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Gondola = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "gear+mountain": {
-    "result": "switzerland",
-    "reasoning": "Gear tags in with mountain, and somehow the universe speedruns Switzerland."
+  "crater+grappling-hook": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Grappling Hook = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "gear+water": {
-    "result": "pump",
-    "reasoning": "When Gear and Water collide, logic takes a coffee break and Pump appears anyway."
+  "crater+grinder": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Grinder = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "generator+water": {
-    "result": "hydropower",
-    "reasoning": "Generator and Water explain the phenomenon of Hydropower"
+  "crater+grinding": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Grinding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "gravel+highway": {
-    "result": "fuel",
-    "reasoning": "When Gravel and Highway collide, logic takes a coffee break and fuel appears anyway."
+  "crater+gun": {
+    "result": "garden-shed",
+    "reasoning": "Crater + gun = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "hammer+lava": {
-    "result": "sculpture",
-    "reasoning": "Hammer meets Lava, chaos files a memo, and Sculpture walks out with the trophy."
+  "crater+hammer": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hammer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "hammer+pressure": {
-    "result": "sculpture",
-    "reasoning": "Hammer and Pressure shake hands, reality shrugs, and Sculpture is suddenly canon."
+  "crater+hand-saw": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hand Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "hammer+stone": {
-    "result": "sculpture",
-    "reasoning": "Hammer and Stone create Sculpture"
+  "crater+helicopter": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Helicopter = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "key+stone": {
-    "result": "lock",
-    "reasoning": "key plus Stone is the weird recipe your alchemist friend swears by for making Lock."
+  "crater+helmet": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Helmet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "land+satellite": {
-    "result": "gps",
-    "reasoning": "Someone mixed land with Satellite for science. The peer-reviewed conclusion: GPS."
+  "crater+highway": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Highway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "land+tool": {
-    "result": "leather",
-    "reasoning": "land and tool shake hands, reality shrugs, and Leather is suddenly canon."
+  "crater+hoe": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hoe = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lava+pump": {
-    "result": "fountain",
-    "reasoning": "Someone mixed Lava with Pump for science. The peer-reviewed conclusion: Fountain."
+  "crater+hook": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hook = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lava+tool": {
-    "result": "hammer",
-    "reasoning": "When Lava and tool collide, logic takes a coffee break and Hammer appears anyway."
+  "crater+hot-air-balloon": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hot Air Balloon = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lever+pressure": {
-    "result": "lever",
-    "reasoning": "Lever meets Pressure, chaos files a memo, and Lever walks out with the trophy."
+  "crater+hunting": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Hunting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lever+stone": {
-    "result": "lever",
-    "reasoning": "Crafting Lever with Stone produces Lever"
+  "crater+invention": {
+    "result": "garden-shed",
+    "reasoning": "Crater + invention = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lever+water": {
-    "result": "lever",
-    "reasoning": "Lever meets Water, chaos files a memo, and Lever walks out with the trophy."
+  "crater+jack": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Jack = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lightning+machine": {
-    "result": "camera",
-    "reasoning": "When Lightning and machine collide, logic takes a coffee break and camera appears anyway."
+  "crater+junk-drawer": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Junk Drawer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "lightning+tool": {
-    "result": "jimmy-plugin",
-    "reasoning": "Lightning and tool shake hands, reality shrugs, and Jimmy Plugin is suddenly canon."
+  "crater+kettle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Kettle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "machine+pressure": {
-    "result": "nuclear-reactor",
-    "reasoning": "machine meets Pressure, chaos files a memo, and Nuclear Reactor walks out with the trophy."
+  "crater+key": {
+    "result": "garden-shed",
+    "reasoning": "Crater + key = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "machine+water": {
-    "result": "pump",
-    "reasoning": "Crafting machine with Water produces Pump"
+  "crater+kitchen-gadget": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Kitchen Gadget = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "mountain+tool": {
-    "result": "tunnel",
-    "reasoning": "mountain plus tool is the weird recipe your alchemist friend swears by for making Tunnel."
+  "crater+knife": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "needle+wind": {
-    "result": "direction",
-    "reasoning": "Someone mixed Needle with Wind for science. The peer-reviewed conclusion: direction."
+  "crater+knitting": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Knitting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "ocean+ship": {
-    "result": "submarine",
-    "reasoning": "Crafting ocean with ship produces Submarine"
+  "crater+ladle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Ladle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "pressure+tool": {
-    "result": "hammer",
-    "reasoning": "Pressure plus tool is the weird recipe your alchemist friend swears by for making Hammer."
+  "crater+lantern": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Lantern = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "pump+stone": {
-    "result": "fountain",
-    "reasoning": "Pump and Stone create Fountain"
+  "crater+level": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Level = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "pump+water": {
-    "result": "fountain",
-    "reasoning": "Pump meets Water, chaos files a memo, and Fountain walks out with the trophy."
+  "crater+lever": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Lever = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "river+ship": {
-    "result": "submarine",
-    "reasoning": "River and ship shake hands, reality shrugs, and Submarine is suddenly canon."
+  "crater+lock": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Lock = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "satellite+stone": {
-    "result": "space-probe",
-    "reasoning": "Satellite tags in with Stone, and somehow the universe speedruns Space Probe."
+  "crater+loom": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Loom = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "saw+snow": {
-    "result": "skiing",
-    "reasoning": "Saw tags in with Snow, and somehow the universe speedruns Skiing."
+  "crater+mace": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mace = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "saw+stone": {
-    "result": "board",
-    "reasoning": "Someone mixed Saw with Stone for science. The peer-reviewed conclusion: board."
+  "crater+machine": {
+    "result": "garden-shed",
+    "reasoning": "Crater + machine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "spring+stone": {
-    "result": "button",
-    "reasoning": "Spring and Stone shake hands, reality shrugs, and button is suddenly canon."
+  "crater+magnifying-glass": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Magnifying Glass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "steam+tool": {
-    "result": "lawn",
-    "reasoning": "When Steam and tool collide, logic takes a coffee break and Lawn appears anyway."
+  "crater+mallet": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mallet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "stone+tool": {
-    "result": "hammer",
-    "reasoning": "Crafting Stone with tool produces Hammer"
+  "crater+manacle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Manacle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "stone+wagon": {
-    "result": "carriage",
-    "reasoning": "Stone plus Wagon is the weird recipe your alchemist friend swears by for making Carriage."
+  "crater+mechanical": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mechanical = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "stone+wheel": {
-    "result": "bicycle",
-    "reasoning": "Stone teams up with Wheel; the side quest reward is Bicycle."
+  "crater+mining": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mining = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "tool+water": {
-    "result": "hammer",
-    "reasoning": "tool meets Water, chaos files a memo, and Hammer walks out with the trophy."
+  "crater+mortar-and-pestle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mortar and Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "tool+weather": {
-    "result": "meteorology",
-    "reasoning": "tool and weather accidentally host a crossover episode; Meteorology steals the finale."
+  "crater+motor": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Motor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "tool+wind": {
-    "result": "kite",
-    "reasoning": "tool meets Wind, chaos files a memo, and Kite walks out with the trophy."
+  "crater+motorcycle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Motorcycle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "turbine+wind": {
-    "result": "wind-turbine",
-    "reasoning": "Applying Turbine to Wind produces Wind Turbine"
+  "crater+mousetrap": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Mousetrap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+needle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Needle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+notebook": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Notebook = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+oar": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Oar = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+padlock": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Padlock = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pen": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pen = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pencil": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pestle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pick": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pick = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+piston": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Piston = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+plane": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Plane = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pliers": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pliers = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+plough": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Plough = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+plumb-bob": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Plumb Bob = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+power-tool": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Power Tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+protractor": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Protractor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pulley": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pulley = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+pump": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Pump = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+purse": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Purse = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+quill": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Quill = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+quiver": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Quiver = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+raft": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Raft = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+railway": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Railway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+rake": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Rake = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+ratchet": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Ratchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+rivet": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Rivet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+road": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Road = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+rocket": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Rocket = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+ruler": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Ruler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sailboat": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sailboat = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+satellite": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Satellite = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+saw": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+scale": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Scale = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+scalpel": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Scalpel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+scissors": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Scissors = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+screw": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Screw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sextant": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sextant = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+ship": {
+    "result": "garden-shed",
+    "reasoning": "Crater + ship = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+shovel": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Shovel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sickle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sickle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sieve": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sieve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sled": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sled = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sledgehammer": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sledgehammer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+smelting": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Smelting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+snorkel": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Snorkel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+socket-wrench": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Socket Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+soldering-iron": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Soldering Iron = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+spear": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Spear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+spindle": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Spindle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+spring": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Spring = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+spyglass": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Spyglass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+stapler": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Stapler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+stencil": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Stencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+submarine": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Submarine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+subway": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Subway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+suitcase": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Suitcase = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sundial": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sundial = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+swiss-army-knife": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Swiss Army Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+sword": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Sword = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+tanning": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Tanning = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+taxi": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Taxi = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "crater+thermometer": {
+    "result": "garden-shed",
+    "reasoning": "Crater + Thermometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   }
 }

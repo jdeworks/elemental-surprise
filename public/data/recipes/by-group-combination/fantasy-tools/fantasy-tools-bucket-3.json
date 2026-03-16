@@ -1,0 +1,882 @@
+{
+  "forge-bellows+lich-king": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+philosopher-stone": {
+    "result": "lava",
+    "reasoning": "Forge Bellows melts Philosopher Stone into flowing Lava."
+  },
+  "forge-bellows+queen": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+space-wizard": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+water-elemental": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Water Elemental to Steam — the force that powered the Industrial Revolution."
+  },
+  "forge-bellows+witch": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+wizard": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "frost-giant+spring": {
+    "result": "ice",
+    "reasoning": "Frost Giant freezes Spring into Ice — water's solid form."
+  },
+  "gear+king": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+knight": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+lich-king": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+queen": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+space-wizard": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+witch": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+wizard": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "generator+king": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+knight": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+lich-king": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+queen": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+space-wizard": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+witch": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+wizard": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "grinder+philosopher-stone": {
+    "result": "whetstone",
+    "reasoning": "Combine Grinder with Philosopher Stone to create Whetstone."
+  },
+  "gun+king": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+knight": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+lich-king": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+queen": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+space-wizard": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+witch": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+wizard": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "hammer+king": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+knight": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+lich-king": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+queen": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+space-wizard": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+witch": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+wizard": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "helicopter+king": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+knight": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+lich-king": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+queen": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+space-wizard": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+witch": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+wizard": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helmet+king": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+knight": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+lich-king": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+queen": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+space-wizard": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+witch": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+wizard": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "hoe+king": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+knight": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+lich-king": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+queen": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+space-wizard": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+witch": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+wizard": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hot-air-balloon+spirit": {
+    "result": "sylph",
+    "reasoning": "Combine Spirit with Hot Air Balloon to create Sylph."
+  },
+  "hydra+invention": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + invention = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+jack": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Jack = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+junk-drawer": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Junk Drawer = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+kettle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Kettle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+key": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + key = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+kitchen-gadget": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Kitchen Gadget = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+knife": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Knife = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+knitting": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Knitting = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+ladle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Ladle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+lantern": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Lantern = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+level": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Level = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+lever": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Lever = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+lock": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Lock = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+loom": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Loom = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mace": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mace = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+machine": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + machine = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+magnifying-glass": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Magnifying Glass = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mallet": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mallet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+manacle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Manacle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mechanical": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mechanical = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mining": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mining = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mortar-and-pestle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mortar and Pestle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+motor": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Motor = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+motorcycle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Motorcycle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+mousetrap": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Mousetrap = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+needle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Needle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+notebook": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Notebook = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+oar": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Oar = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+padlock": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Padlock = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pen": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pen = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pencil": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pencil = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pestle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pestle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pick": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pick = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+piston": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Piston = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+plane": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Plane = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pliers": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pliers = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+plough": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Plough = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+plumb-bob": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Plumb Bob = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+power-tool": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Power Tool = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+protractor": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Protractor = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pulley": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pulley = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+pump": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Pump = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+purse": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Purse = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+quill": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Quill = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+quiver": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Quiver = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+raft": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Raft = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+railway": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Railway = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+rake": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Rake = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+ratchet": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Ratchet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+rivet": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Rivet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+road": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Road = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+rocket": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Rocket = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+ruler": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Ruler = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sailboat": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sailboat = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+satellite": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Satellite = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+saw": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Saw = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+scale": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Scale = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+scalpel": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Scalpel = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+scissors": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Scissors = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+screw": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Screw = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sextant": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sextant = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+ship": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + ship = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+shovel": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Shovel = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sickle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sickle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sieve": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sieve = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sled": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sled = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sledgehammer": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sledgehammer = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+smelting": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Smelting = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+snorkel": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Snorkel = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+socket-wrench": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Socket Wrench = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+soldering-iron": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Soldering Iron = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+spear": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Spear = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+spindle": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Spindle = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+spring": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Spring = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+spyglass": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Spyglass = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+stapler": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Stapler = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+stencil": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Stencil = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+submarine": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Submarine = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+subway": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Subway = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+suitcase": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Suitcase = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sundial": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sundial = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+swiss-army-knife": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Swiss Army Knife = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+sword": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Sword = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+tanning": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Tanning = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+taxi": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Taxi = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+thermometer": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Thermometer = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+tongs": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Tongs = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+tool": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + tool = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+traffic": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Traffic = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+train": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Train = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+trap": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Trap = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+trebuchet": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Trebuchet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+tripod": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Tripod = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+trowel": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Trowel = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+truck": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Truck = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+turbine": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Turbine = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+valve": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Valve = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+vise": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Vise = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wagon": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Wagon = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wallet": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Wallet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+weaving": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Weaving = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+weight": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + weight = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+welding": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Welding = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wheel": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Wheel = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wheelbarrow": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Wheelbarrow = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+whetstone": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Whetstone = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+winch": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Winch = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wing": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + wing = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "hydra+wrench": {
+    "result": "magic-wand",
+    "reasoning": "Hydra + Wrench = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "ice-dragon+spring": {
+    "result": "ice",
+    "reasoning": "Ice Dragon freezes Spring into Ice — water's solid form."
+  },
+  "kettle+king": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+knight": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+lich-king": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+queen": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+space-wizard": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+witch": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+wizard": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "key+king": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+knight": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+lich-king": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+queen": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+space-wizard": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+witch": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+wizard": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "king+lock": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "king+loom": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "king+mace": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "king+machine": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "king+magnifying-glass": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "king+needle": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "king+notebook": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "king+pen": {
+    "result": "author",
+    "reasoning": "The pen is mightier than the sword — authors shape history"
+  },
+  "king+pick": {
+    "result": "miner",
+    "reasoning": "Miners use picks to extract ore from deep underground"
+  },
+  "king+pliers": {
+    "result": "plumber",
+    "reasoning": "Plumbers use pliers to grip pipes — keeping water flowing"
+  },
+  "king+plough": {
+    "result": "farmer",
+    "reasoning": "Ploughs turn soil for planting — the tool that made cities possible"
+  },
+  "king+quill": {
+    "result": "scribe",
+    "reasoning": "Scribes used goose quill pens for over 1,000 years"
+  },
+  "king+rocket": {
+    "result": "pilot",
+    "reasoning": "Rocket pilots push the boundaries of human exploration"
+  },
+  "king+sailboat": {
+    "result": "sailor",
+    "reasoning": "Sailors have crossed oceans under sail for thousands of years"
+  },
+  "king+saw": {
+    "result": "carpenter",
+    "reasoning": "Carpenters cut wood to build — saws have existed since ancient Egypt"
+  },
+  "king+scale": {
+    "result": "scientist",
+    "reasoning": "Scientists use precision scales to measure matter"
+  },
+  "king+scalpel": {
+    "result": "surgeon",
+    "reasoning": "Surgeons wield scalpels with incredible precision"
+  },
+  "king+scissors": {
+    "result": "tailor",
+    "reasoning": "Tailors' scissors are sacred — never use them on paper"
+  },
+  "king+sextant": {
+    "result": "navigator",
+    "reasoning": "Sextants let sailors determine latitude by measuring star angles"
+  },
+  "king+ship": {
+    "result": "captain",
+    "reasoning": "Captains command ships — responsibility for crew and cargo"
+  },
+  "king+shovel": {
+    "result": "miner",
+    "reasoning": "Miners dig with shovels — unearthing the earth's treasures"
+  },
+  "king+sickle": {
+    "result": "farmer",
+    "reasoning": "Farmers have harvested grain with sickles for 10,000 years"
+  },
+  "king+spear": {
+    "result": "gladiator",
+    "reasoning": "Gladiators fought with spears in Roman arenas"
+  },
+  "king+submarine": {
+    "result": "diver",
+    "reasoning": "Divers explore the deep — submarines are their ultimate vehicle"
+  },
+  "king+sword": {
+    "result": "knight",
+    "reasoning": "Knights wielded swords as symbols of honor and chivalry"
+  },
+  "king+thermometer": {
+    "result": "scientist",
+    "reasoning": "Galileo invented the thermometer — measuring heat scientifically"
+  },
+  "king+trap": {
+    "result": "spy",
+    "reasoning": "Spies set traps — information warfare at its finest"
+  },
+  "king+trebuchet": {
+    "result": "centurion",
+    "reasoning": "The trebuchet — the medieval superweapon of siege warfare"
+  },
+  "king+wrench": {
+    "result": "mechanic",
+    "reasoning": "Mechanics reach for wrenches — the universal fixing tool"
+  },
+  "knight+knitting": {
+    "result": "magic-wand",
+    "reasoning": "Knight + Knitting = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "knight+lock": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "knight+loom": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "knight+machine": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "knight+magnifying-glass": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "knight+mallet": {
+    "result": "magic-wand",
+    "reasoning": "Knight + Mallet = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "knight+mechanical": {
+    "result": "magic-wand",
+    "reasoning": "Knight + Mechanical = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "knight+mining": {
+    "result": "magic-wand",
+    "reasoning": "Knight + Mining = a Magic Wand. Point and swish. Hope for the best."
+  }
+}

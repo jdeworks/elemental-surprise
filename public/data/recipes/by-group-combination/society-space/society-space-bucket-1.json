@@ -1,30 +1,882 @@
 {
-  "culture+day": {
-    "result": "tradition",
-    "reasoning": "When Culture and Day collide, logic takes a coffee break and Tradition appears anyway."
+  "architect+asteroid": {
+    "result": "space-race",
+    "reasoning": "Architect + Asteroid = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "festival+sun": {
-    "result": "celebration",
-    "reasoning": "When Festival and sun collide, logic takes a coffee break and Celebration appears anyway."
+  "architect+asteroid-belt": {
+    "result": "space-race",
+    "reasoning": "Architect + Asteroid Belt = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "money+night": {
-    "result": "debt",
-    "reasoning": "money teams up with Night; the side quest reward is Debt."
+  "architect+astrolabe": {
+    "result": "space-race",
+    "reasoning": "Architect + Astrolabe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "scientist+space": {
-    "result": "astronomer",
-    "reasoning": "Scientist and space shake hands, reality shrugs, and Astronomer is suddenly canon."
+  "architect+astronaut": {
+    "result": "space-race",
+    "reasoning": "Architect + Astronaut = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "scientist+star": {
-    "result": "astronomer",
-    "reasoning": "Scientist and Star together shape Astronomer"
+  "architect+aurora": {
+    "result": "space-race",
+    "reasoning": "Architect + Aurora = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "scientist+sun": {
-    "result": "astronomer",
-    "reasoning": "Scientist and sun shake hands, reality shrugs, and Astronomer is suddenly canon."
+  "architect+binary-star": {
+    "result": "space-race",
+    "reasoning": "Architect + Binary Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   },
-  "star+trade": {
-    "result": "money",
-    "reasoning": "Star and trade shake hands, reality shrugs, and money is suddenly canon."
+  "architect+black-hole": {
+    "result": "space-race",
+    "reasoning": "Architect + Black Hole = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+brown-dwarf": {
+    "result": "space-race",
+    "reasoning": "Architect + Brown Dwarf = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+comet": {
+    "result": "space-race",
+    "reasoning": "Architect + Comet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+constellation": {
+    "result": "space-race",
+    "reasoning": "Architect + Constellation = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+corona": {
+    "result": "space-race",
+    "reasoning": "Architect + Corona = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+cosmic-dust": {
+    "result": "space-race",
+    "reasoning": "Architect + Cosmic Dust = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+cosmic-ray": {
+    "result": "space-race",
+    "reasoning": "Architect + Cosmic Ray = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+cosmic-string": {
+    "result": "space-race",
+    "reasoning": "Architect + Cosmic String = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dark-energy": {
+    "result": "space-race",
+    "reasoning": "Architect + Dark Energy = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dark-matter": {
+    "result": "space-race",
+    "reasoning": "Architect + Dark Matter = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dawn": {
+    "result": "space-race",
+    "reasoning": "Architect + Dawn = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+day": {
+    "result": "space-race",
+    "reasoning": "Architect + Day = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dwarf-planet": {
+    "result": "space-race",
+    "reasoning": "Architect + Dwarf Planet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dwarf-star": {
+    "result": "space-race",
+    "reasoning": "Architect + Dwarf Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+dyson-sphere": {
+    "result": "space-race",
+    "reasoning": "Architect + Dyson Sphere = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+eclipse": {
+    "result": "space-race",
+    "reasoning": "Architect + Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+event-horizon": {
+    "result": "space-race",
+    "reasoning": "Architect + Event Horizon = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+exoplanet": {
+    "result": "space-race",
+    "reasoning": "Architect + Exoplanet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+extraterrestrial": {
+    "result": "space-race",
+    "reasoning": "Architect + Extraterrestrial = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+galactic-core": {
+    "result": "space-race",
+    "reasoning": "Architect + Galactic Core = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+galaxy": {
+    "result": "space-race",
+    "reasoning": "Architect + Galaxy = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+gamma-ray-burst": {
+    "result": "space-race",
+    "reasoning": "Architect + Gamma Ray Burst = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+globular-cluster": {
+    "result": "space-race",
+    "reasoning": "Architect + Globular Cluster = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+gravitational-wave": {
+    "result": "space-race",
+    "reasoning": "Architect + Gravitational Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+gravity": {
+    "result": "space-race",
+    "reasoning": "Architect + Gravity = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+gravity-wave": {
+    "result": "space-race",
+    "reasoning": "Architect + Gravity Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+heliopause": {
+    "result": "space-race",
+    "reasoning": "Architect + Heliopause = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+hubble-telescope": {
+    "result": "space-race",
+    "reasoning": "Architect + Hubble Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+interstellar": {
+    "result": "space-race",
+    "reasoning": "Architect + Interstellar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+iss": {
+    "result": "space-race",
+    "reasoning": "Architect + ISS = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+james-webb": {
+    "result": "space-race",
+    "reasoning": "Architect + James Webb = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+kuiper-belt": {
+    "result": "space-race",
+    "reasoning": "Architect + Kuiper Belt = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+lagrange-point": {
+    "result": "space-race",
+    "reasoning": "Architect + Lagrange Point = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+light-year": {
+    "result": "space-race",
+    "reasoning": "Architect + Light Year = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+lunar-crater": {
+    "result": "space-race",
+    "reasoning": "Architect + Lunar Crater = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+lunar-eclipse": {
+    "result": "space-race",
+    "reasoning": "Architect + Lunar Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+magnetar": {
+    "result": "space-race",
+    "reasoning": "Architect + Magnetar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+mars": {
+    "result": "space-race",
+    "reasoning": "Architect + Mars = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+mars-colony": {
+    "result": "space-race",
+    "reasoning": "Architect + Mars Colony = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+mars-rover": {
+    "result": "space-race",
+    "reasoning": "Architect + Mars Rover = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+meteor": {
+    "result": "space-race",
+    "reasoning": "Architect + Meteor = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+meteor-shower": {
+    "result": "space-race",
+    "reasoning": "Architect + Meteor Shower = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+meteorite": {
+    "result": "space-race",
+    "reasoning": "Architect + Meteorite = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+milky-way": {
+    "result": "space-race",
+    "reasoning": "Architect + Milky Way = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+moon": {
+    "result": "space-race",
+    "reasoning": "Architect + Moon = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+moon-base": {
+    "result": "space-race",
+    "reasoning": "Architect + Moon Base = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+moon-landing": {
+    "result": "space-race",
+    "reasoning": "Architect + Moon Landing = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+moonlight": {
+    "result": "space-race",
+    "reasoning": "Architect + Moonlight = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+multiverse": {
+    "result": "space-race",
+    "reasoning": "Architect + Multiverse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+nasa": {
+    "result": "space-race",
+    "reasoning": "Architect + NASA = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+nebula": {
+    "result": "space-race",
+    "reasoning": "Architect + Nebula = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+neutron-star": {
+    "result": "space-race",
+    "reasoning": "Architect + Neutron Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+night": {
+    "result": "space-race",
+    "reasoning": "Architect + Night = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+nova": {
+    "result": "space-race",
+    "reasoning": "Architect + Nova = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+observatory": {
+    "result": "space-race",
+    "reasoning": "Architect + Observatory = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+oort-cloud": {
+    "result": "space-race",
+    "reasoning": "Architect + Oort Cloud = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+orbit": {
+    "result": "space-race",
+    "reasoning": "Architect + Orbit = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+planet": {
+    "result": "space-race",
+    "reasoning": "Architect + Planet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+planetarium": {
+    "result": "space-race",
+    "reasoning": "Architect + Planetarium = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+planetary-ring": {
+    "result": "space-race",
+    "reasoning": "Architect + Planetary Ring = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+protostar": {
+    "result": "space-race",
+    "reasoning": "Architect + Protostar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+pulsar": {
+    "result": "space-race",
+    "reasoning": "Architect + Pulsar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+quasar": {
+    "result": "space-race",
+    "reasoning": "Architect + Quasar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+radio-telescope": {
+    "result": "space-race",
+    "reasoning": "Architect + Radio Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+red-giant": {
+    "result": "space-race",
+    "reasoning": "Architect + Red Giant = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+ring": {
+    "result": "space-race",
+    "reasoning": "Architect + ring = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+satellite-dish": {
+    "result": "space-race",
+    "reasoning": "Architect + Satellite Dish = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+saturn": {
+    "result": "space-race",
+    "reasoning": "Architect + Saturn = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+seti": {
+    "result": "space-race",
+    "reasoning": "Architect + SETI = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+sky": {
+    "result": "space-race",
+    "reasoning": "Architect + Sky = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+solar-eclipse": {
+    "result": "space-race",
+    "reasoning": "Architect + Solar Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+solar-flare": {
+    "result": "space-race",
+    "reasoning": "Architect + Solar Flare = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+solar-sail": {
+    "result": "space-race",
+    "reasoning": "Architect + Solar Sail = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+solar-wind": {
+    "result": "space-race",
+    "reasoning": "Architect + Solar Wind = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space": {
+    "result": "space-race",
+    "reasoning": "Architect + space = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-debris": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Debris = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-elevator": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Elevator = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-junk": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Junk = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-monkey": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Monkey = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-probe": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Probe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-station": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Station = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-suit": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Suit = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-telescope": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+space-wrench": {
+    "result": "space-race",
+    "reasoning": "Architect + Space Wrench = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+star": {
+    "result": "space-race",
+    "reasoning": "Architect + Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+star-map": {
+    "result": "space-race",
+    "reasoning": "Architect + Star Map = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+sun": {
+    "result": "space-race",
+    "reasoning": "Architect + sun = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+sunlight": {
+    "result": "space-race",
+    "reasoning": "Architect + Sunlight = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+sunset": {
+    "result": "space-race",
+    "reasoning": "Architect + Sunset = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+sunspot": {
+    "result": "space-race",
+    "reasoning": "Architect + Sunspot = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+supernova": {
+    "result": "space-race",
+    "reasoning": "Architect + Supernova = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+telescope": {
+    "result": "space-race",
+    "reasoning": "Architect + Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+terraforming": {
+    "result": "space-race",
+    "reasoning": "Architect + Terraforming = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+time-travel": {
+    "result": "space-race",
+    "reasoning": "Architect + Time Travel = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+ufo": {
+    "result": "space-race",
+    "reasoning": "Architect + UFO = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+universe": {
+    "result": "space-race",
+    "reasoning": "Architect + Universe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+voyager-probe": {
+    "result": "space-race",
+    "reasoning": "Architect + Voyager Probe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+white-dwarf": {
+    "result": "space-race",
+    "reasoning": "Architect + White Dwarf = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+wormhole": {
+    "result": "space-race",
+    "reasoning": "Architect + Wormhole = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "architect+zero-gravity": {
+    "result": "space-race",
+    "reasoning": "Architect + Zero Gravity = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "black-hole+crypt": {
+    "result": "quarry",
+    "reasoning": "Combine Black Hole with Crypt to create Quarry."
+  },
+  "credit-card+dark-energy": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dark Energy = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+dark-matter": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dark Matter = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+dawn": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dawn = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+day": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Day = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+dwarf-planet": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dwarf Planet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+dwarf-star": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dwarf Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+dyson-sphere": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Dyson Sphere = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+eclipse": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+event-horizon": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Event Horizon = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+exoplanet": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Exoplanet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+extraterrestrial": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Extraterrestrial = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+galactic-core": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Galactic Core = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+galaxy": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Galaxy = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+gamma-ray-burst": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Gamma Ray Burst = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+globular-cluster": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Globular Cluster = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+gravitational-wave": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Gravitational Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+gravity": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Gravity = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+gravity-wave": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Gravity Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+heliopause": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Heliopause = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+hubble-telescope": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Hubble Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+interstellar": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Interstellar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+iss": {
+    "result": "space-race",
+    "reasoning": "Credit Card + ISS = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+james-webb": {
+    "result": "space-race",
+    "reasoning": "Credit Card + James Webb = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+kuiper-belt": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Kuiper Belt = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+lagrange-point": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Lagrange Point = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+light-year": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Light Year = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+lunar-crater": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Lunar Crater = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+lunar-eclipse": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Lunar Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+magnetar": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Magnetar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+mars": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Mars = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+mars-colony": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Mars Colony = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+mars-rover": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Mars Rover = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+meteor": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Meteor = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+meteor-shower": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Meteor Shower = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+meteorite": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Meteorite = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+milky-way": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Milky Way = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+moon": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Moon = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+moon-base": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Moon Base = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+moon-landing": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Moon Landing = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+moonlight": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Moonlight = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+multiverse": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Multiverse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+nasa": {
+    "result": "space-race",
+    "reasoning": "Credit Card + NASA = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+nebula": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Nebula = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+neutron-star": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Neutron Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+night": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Night = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+nova": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Nova = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+observatory": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Observatory = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+oort-cloud": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Oort Cloud = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+orbit": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Orbit = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+planet": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Planet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+planetarium": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Planetarium = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+planetary-ring": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Planetary Ring = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+protostar": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Protostar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+pulsar": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Pulsar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+quasar": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Quasar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+radio-telescope": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Radio Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+red-giant": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Red Giant = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+ring": {
+    "result": "space-race",
+    "reasoning": "Credit Card + ring = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+satellite-dish": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Satellite Dish = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+saturn": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Saturn = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+seti": {
+    "result": "space-race",
+    "reasoning": "Credit Card + SETI = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+sky": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Sky = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+solar-eclipse": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Solar Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+solar-flare": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Solar Flare = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+solar-sail": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Solar Sail = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+solar-wind": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Solar Wind = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space": {
+    "result": "space-race",
+    "reasoning": "Credit Card + space = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-debris": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Debris = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-elevator": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Elevator = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-junk": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Junk = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-monkey": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Monkey = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-probe": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Probe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-station": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Station = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-suit": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Suit = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-telescope": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+space-wrench": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Space Wrench = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+star": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+star-map": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Star Map = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+sun": {
+    "result": "space-race",
+    "reasoning": "Credit Card + sun = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+sunlight": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Sunlight = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+sunset": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Sunset = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+sunspot": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Sunspot = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+supernova": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Supernova = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+telescope": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+terraforming": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Terraforming = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+time-travel": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Time Travel = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+ufo": {
+    "result": "space-race",
+    "reasoning": "Credit Card + UFO = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+universe": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Universe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+voyager-probe": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Voyager Probe = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+white-dwarf": {
+    "result": "space-race",
+    "reasoning": "Credit Card + White Dwarf = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+wormhole": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Wormhole = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "credit-card+zero-gravity": {
+    "result": "space-race",
+    "reasoning": "Credit Card + Zero Gravity = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "culture+time-travel": {
+    "result": "zeitgeist",
+    "reasoning": "Combine Culture with Time Travel to create Zeitgeist."
+  },
+  "designer+dwarf-planet": {
+    "result": "space-race",
+    "reasoning": "Designer + Dwarf Planet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+dwarf-star": {
+    "result": "space-race",
+    "reasoning": "Designer + Dwarf Star = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+dyson-sphere": {
+    "result": "space-race",
+    "reasoning": "Designer + Dyson Sphere = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+eclipse": {
+    "result": "space-race",
+    "reasoning": "Designer + Eclipse = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+event-horizon": {
+    "result": "space-race",
+    "reasoning": "Designer + Event Horizon = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+exoplanet": {
+    "result": "space-race",
+    "reasoning": "Designer + Exoplanet = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+extraterrestrial": {
+    "result": "space-race",
+    "reasoning": "Designer + Extraterrestrial = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+galactic-core": {
+    "result": "space-race",
+    "reasoning": "Designer + Galactic Core = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+galaxy": {
+    "result": "space-race",
+    "reasoning": "Designer + Galaxy = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+gamma-ray-burst": {
+    "result": "space-race",
+    "reasoning": "Designer + Gamma Ray Burst = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+globular-cluster": {
+    "result": "space-race",
+    "reasoning": "Designer + Globular Cluster = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+gravitational-wave": {
+    "result": "space-race",
+    "reasoning": "Designer + Gravitational Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+gravity": {
+    "result": "space-race",
+    "reasoning": "Designer + Gravity = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+gravity-wave": {
+    "result": "space-race",
+    "reasoning": "Designer + Gravity Wave = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+heliopause": {
+    "result": "space-race",
+    "reasoning": "Designer + Heliopause = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+hubble-telescope": {
+    "result": "space-race",
+    "reasoning": "Designer + Hubble Telescope = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+interstellar": {
+    "result": "space-race",
+    "reasoning": "Designer + Interstellar = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+iss": {
+    "result": "space-race",
+    "reasoning": "Designer + ISS = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+james-webb": {
+    "result": "space-race",
+    "reasoning": "Designer + James Webb = the Space Race. 'We choose to go to the Moon not because it is easy...'"
+  },
+  "designer+kuiper-belt": {
+    "result": "space-race",
+    "reasoning": "Designer + Kuiper Belt = the Space Race. 'We choose to go to the Moon not because it is easy...'"
   }
 }

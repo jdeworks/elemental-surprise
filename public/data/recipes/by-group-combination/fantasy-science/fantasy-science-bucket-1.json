@@ -1,26 +1,882 @@
 {
-  "clock+queen": {
-    "result": "big-ben",
-    "reasoning": "Clock and Queen accidentally host a crossover episode; Big Ben steals the finale."
+  "alchemy+grave": {
+    "result": "ghoul",
+    "reasoning": "Combine Grave with Alchemy to create Ghoul."
+  },
+  "alchemy+void": {
+    "result": "necromancer",
+    "reasoning": "Alchemy + void = Necromancer — master of the dead."
+  },
+  "amulet+grave": {
+    "result": "ghoul",
+    "reasoning": "Combine Grave with Amulet to create Ghoul."
+  },
+  "angel+grave": {
+    "result": "ghoul",
+    "reasoning": "Combine Grave with Angel to create Ghoul."
+  },
+  "bandage+death-knight": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+king": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+knight": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+lich-king": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+queen": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+space-wizard": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+witch": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "bandage+wizard": {
+    "result": "paramedic",
+    "reasoning": "Paramedics apply bandages in the field — first responders saving lives"
+  },
+  "centrifuge+death-knight": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+king": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+knight": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+lich-king": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+queen": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+space-wizard": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+witch": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centrifuge+wizard": {
+    "result": "scientist",
+    "reasoning": "Centrifuges separate substances — essential in biology and chemistry"
+  },
+  "centripetal-force+summoning-circle": {
+    "result": "protractor",
+    "reasoning": "Combine Summoning Circle with Centripetal Force to create Protractor."
+  },
+  "change+magic": {
+    "result": "shapeshifter",
+    "reasoning": "Combine Magic with Change to create Shapeshifter."
+  },
+  "climate-change+magic": {
+    "result": "shapeshifter",
+    "reasoning": "Combine Magic with Climate Change to create Shapeshifter."
+  },
+  "combustion+crystal-ball": {
+    "result": "lens",
+    "reasoning": "Shaping heated Crystal Ball creates a Lens — focusing light since ancient Rome."
+  },
+  "combustion+philosopher-stone": {
+    "result": "lava",
+    "reasoning": "Combustion melts Philosopher Stone into flowing Lava."
+  },
+  "compass+death-knight": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+king": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+knight": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+lich-king": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+queen": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+space-wizard": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+witch": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "compass+wizard": {
+    "result": "navigator",
+    "reasoning": "Navigators used magnetic compasses to cross oceans"
+  },
+  "crutch+death-knight": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+king": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+knight": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+lich-king": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+queen": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+space-wizard": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+witch": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crutch+wizard": {
+    "result": "healer",
+    "reasoning": "Healers help people walk again — crutches are ancient aids"
+  },
+  "crystal-ball+momentum": {
+    "result": "newtons-cradle",
+    "reasoning": "Combine Momentum with Crystal Ball to create Newtons Cradle."
+  },
+  "death-knight+glasses": {
+    "result": "doctor",
+    "reasoning": "Eyeglasses were invented by Italian monks around 1286"
+  },
+  "death-knight+medicine": {
+    "result": "doctor",
+    "reasoning": "Doctors have practiced medicine for over 5,000 years"
+  },
+  "death-knight+microscope": {
+    "result": "scientist",
+    "reasoning": "Microscopes revealed the hidden world of cells and microbes"
+  },
+  "death-knight+pill": {
+    "result": "pharmacist",
+    "reasoning": "Pharmacists are the pill experts — chemistry meets medicine"
+  },
+  "death-knight+prosthetic": {
+    "result": "surgeon",
+    "reasoning": "Prosthetic limbs — surgeons give people back their mobility"
+  },
+  "death-knight+stethoscope": {
+    "result": "doctor",
+    "reasoning": "The stethoscope — invented in 1816 because a doctor was too shy to press his ear to a woman's chest"
+  },
+  "death-knight+syringe": {
+    "result": "doctor",
+    "reasoning": "Syringes deliver vaccines — the doctor's most impactful tool"
+  },
+  "death-knight+vaccine": {
+    "result": "doctor",
+    "reasoning": "Edward Jenner's smallpox vaccine in 1796 launched modern medicine"
+  },
+  "death-knight+wheelchair": {
+    "result": "doctor",
+    "reasoning": "Doctors prescribe wheelchairs to restore independence"
+  },
+  "death-knight+x-ray": {
+    "result": "doctor",
+    "reasoning": "Wilhelm Röntgen discovered X-rays in 1895 — revolutionizing diagnosis"
+  },
+  "death+death-knight": {
+    "result": "necromancer",
+    "reasoning": "Combine Death Knight with Death to create Necromancer."
   },
   "death+spirit": {
     "result": "ghost",
     "reasoning": "Through mystical forces, death and Spirit become Ghost"
   },
-  "future+religion": {
-    "result": "faith",
-    "reasoning": "Future and religion shake hands, reality shrugs, and Faith is suddenly canon."
+  "djinn+past": {
+    "result": "regret",
+    "reasoning": "Combine Past with Djinn to create Regret."
   },
-  "magic+science": {
-    "result": "alchemy",
-    "reasoning": "Through mystical forces, Magic and science become Alchemy"
+  "dragon-egg+drug": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Drug = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
   },
-  "religion+time": {
-    "result": "ritual",
-    "reasoning": "religion tags in with time, and somehow the universe speedruns Ritual."
+  "dragon-egg+ecology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Ecology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
   },
-  "science+spirit": {
-    "result": "alchemy",
-    "reasoning": "When science and Spirit collide, logic takes a coffee break and Alchemy appears anyway."
+  "dragon-egg+economics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Economics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+elasticity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Elasticity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+electrolysis": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Electrolysis = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+electromagnetic-spectrum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Electromagnetic Spectrum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+electron": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Electron = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+element": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + element = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+engineering": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + engineering = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+entropy": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Entropy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+equilibrium": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Equilibrium = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+evaporation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Evaporation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+failed-experiment": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Failed Experiment = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fermentation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fermentation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fertilizer": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fertilizer = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fission": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fission = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fluorescence": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fluorescence = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+food-science": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Food Science = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fossil-fuel": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fossil Fuel = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fragility": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fragility = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+frequency": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Frequency = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fulcrum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fulcrum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+fusion": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Fusion = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+future": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Future = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+genetic-engineering": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Genetic Engineering = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+geology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Geology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+geometry": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Geometry = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+geothermal": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Geothermal = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+glasses": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Glasses = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+global-warming": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Global Warming = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+grave": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Grave = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+green-energy": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Green Energy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+half-life": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Half-Life = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+harmonic": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Harmonic = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+hearing-aid": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Hearing Aid = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+helium": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Helium = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+history": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + history = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+hourglass": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Hourglass = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+hydraulics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Hydraulics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+hydrogen": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Hydrogen = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+hydropower": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Hydropower = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+ideal-gas-law": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Ideal Gas Law = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+impulse": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Impulse = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+inertia": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Inertia = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+infinity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Infinity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+insulation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Insulation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+interference": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Interference = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+ion": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Ion = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+isotope": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Isotope = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+joule": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Joule = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+kinetics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Kinetics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+lab-equipment": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Lab Equipment = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+lab-rat": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Lab Rat = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+laser": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Laser = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+lattice": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Lattice = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+line": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + line = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+luminescence": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Luminescence = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+mach-number": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Mach Number = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+magnetism": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Magnetism = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+mass": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + mass = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+mathematics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + mathematics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+matter": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + matter = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+measurement": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Measurement = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+medicine": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Medicine = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+meditation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Meditation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+meteorology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Meteorology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+microscope": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Microscope = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+molecule": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Molecule = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+momentum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Momentum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+mri": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + MRI = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+neon": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Neon = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+neutron": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Neutron = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+newtons-cradle": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Newtons Cradle = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+nitrogen": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Nitrogen = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+nuclear": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Nuclear = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+nutrition": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Nutrition = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+ohms-law": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Ohms Law = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+optics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Optics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+oscillation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Oscillation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+osmosis": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Osmosis = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+oxidation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Oxidation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+oxygen": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Oxygen = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+pacemaker": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Pacemaker = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+pascals-law": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Pascals Law = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+past": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Past = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+peer-pressure": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Peer Pressure = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+pendulum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Pendulum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+phase-transition": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Phase Transition = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+physics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Physics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+piezoelectricity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Piezoelectricity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+pill": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Pill = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+plasma": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Plasma = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+plasma-state": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Plasma State = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+point": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + point = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+polarization": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Polarization = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+pollution": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Pollution = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+polymer": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Polymer = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+prophecy": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Prophecy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+prosthetic": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Prosthetic = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+proton": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Proton = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+psychology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Psychology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+quantum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Quantum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+radiation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Radiation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+radioactivity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Radioactivity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+rebirth": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Rebirth = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+recycling": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Recycling = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+refraction": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Refraction = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+relativity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Relativity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+renewable-energy": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Renewable Energy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+resonance": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Resonance = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+rocket-science": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Rocket Science = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+science": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + science = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+shape": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + shape = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+sharpness": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Sharpness = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+skeleton": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Skeleton = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+smog": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Smog = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+sociology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Sociology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+solvent": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Solvent = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+spectrum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Spectrum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+speed": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Speed = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+static": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Static = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+statistics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Statistics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+stethoscope": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Stethoscope = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+sublimation": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Sublimation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+superconductor": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Superconductor = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+supercooling": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Supercooling = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+surface-tension": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Surface Tension = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+surgery": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Surgery = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+sustainability": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Sustainability = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+syringe": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Syringe = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+therapy": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Therapy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+thermocline": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Thermocline = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+thermodynamics": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Thermodynamics = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+time": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + time = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+torque": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Torque = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+toxicity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Toxicity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+transparency": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Transparency = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+turbulence": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Turbulence = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+vaccine": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Vaccine = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+vacuum": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Vacuum = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+velocity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Velocity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+vibration": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Vibration = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+viscosity": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Viscosity = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+vitamin": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Vitamin = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+void": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + void = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+waste": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + waste = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+watch": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Watch = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+wave": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Wave = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+wave-particle-duality": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Wave-Particle Duality = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+wavelength": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Wavelength = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+wheelchair": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Wheelchair = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+x-ray": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + X Ray = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+yoga": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Yoga = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+zero": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Zero = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "dragon-egg+zoology": {
+    "result": "mad-science",
+    "reasoning": "Dragon Egg + Zoology = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-artifact+food-science": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Food Science = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+rocket-science": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of Rocket Science = Philosophy — love of wisdom."
+  },
+  "enchanted-artifact+science": {
+    "result": "philosophy",
+    "reasoning": "Enchanted Artifact pursuit of science = Philosophy — love of wisdom."
+  },
+  "enchanted-kingdom+engineering": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + engineering = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+entropy": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Entropy = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+equilibrium": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Equilibrium = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+evaporation": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Evaporation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+failed-experiment": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Failed Experiment = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+fermentation": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Fermentation = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
+  },
+  "enchanted-kingdom+fertilizer": {
+    "result": "mad-science",
+    "reasoning": "Enchanted Kingdom + Fertilizer = Mad Science. 'They called me crazy! I'll show them ALL!' *lightning crashes*"
   }
 }

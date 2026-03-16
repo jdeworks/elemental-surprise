@@ -1,19 +1,807 @@
 {
-  "art+bag": {
-    "result": "purse",
-    "reasoning": "art and bag accidentally host a crossover episode; Purse steals the finale."
+  "air+bellows": {
+    "result": "scuba",
+    "reasoning": "Combine Air with Bellows to create SCUBA."
   },
-  "axe+house": {
-    "result": "furniture",
-    "reasoning": "Axe and house accidentally host a crossover episode; Furniture steals the finale."
+  "air+cylinder": {
+    "result": "bagpipe",
+    "reasoning": "Pipes inflated with air make a Bagpipe"
   },
-  "axe+sound": {
-    "result": "instrument",
-    "reasoning": "Someone mixed Axe with sound for science. The peer-reviewed conclusion: Instrument."
+  "air+hot-air-balloon": {
+    "result": "turbulence",
+    "reasoning": "Combine Air with Hot Air Balloon to create Turbulence."
+  },
+  "air+machine": {
+    "result": "air-conditioner",
+    "reasoning": "Combine Air with Machine to create Air Conditioner."
+  },
+  "backpack+well": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Well = Aquarium."
   },
   "bag+beauty": {
     "result": "purse",
     "reasoning": "Crafting bag with beauty produces Purse"
+  },
+  "bag+instrument": {
+    "result": "bagpipe",
+    "reasoning": "An instrument with a bag is a Bagpipe"
+  },
+  "bag+well": {
+    "result": "aquarium",
+    "reasoning": "bag of Well = Aquarium."
+  },
+  "ball+sword": {
+    "result": "mace",
+    "reasoning": "A weapon with a ball head is a Mace"
+  },
+  "banjo+bow": {
+    "result": "cello",
+    "reasoning": "Combine Banjo with Bow to create Cello."
+  },
+  "beauty+bicycle": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Bicycle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+binoculars": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Binoculars = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+block-and-tackle": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Block and Tackle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+brazier": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Brazier = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+canoe": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Canoe = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+chisel": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Chisel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+clamp": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Clamp = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+crossbow": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Crossbow = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+crowbar": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Crowbar = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+cylinder": {
+    "result": "art-supplies",
+    "reasoning": "beauty + cylinder = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+eraser": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Eraser = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+forging": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Forging = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+funnel": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Funnel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+gear": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Gear = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+gondola": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Gondola = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+motorcycle": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Motorcycle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+needle": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Needle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+pencil": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Pencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+plough": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Plough = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+pulley": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Pulley = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+quill": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Quill = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+rocket": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Rocket = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+saw": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+thermometer": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Thermometer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+vise": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Vise = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+wagon": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Wagon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "beauty+weaving": {
+    "result": "art-supplies",
+    "reasoning": "beauty + Weaving = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "block+pulley": {
+    "result": "block-and-tackle",
+    "reasoning": "Combine Pulley with Block to create Block and Tackle."
+  },
+  "blues+boat": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Boat = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+bolt": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Bolt = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+bow": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Bow = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+brace": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Brace = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+brazier": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Brazier = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+broom": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Broom = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+bucket": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Bucket = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+bus": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Bus = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+caliper": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Caliper = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+canoe": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Canoe = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+canteen": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Canteen = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+car": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Car = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+carabiner": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Carabiner = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+carriage": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Carriage = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+cart": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Cart = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+carving": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Carving = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+catapult": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Catapult = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+chainmail": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Chainmail = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+chariot": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Chariot = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+chisel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Chisel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+clamp": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Clamp = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+crossbow": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Crossbow = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+crowbar": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Crowbar = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+crucible": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Crucible = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+cylinder": {
+    "result": "art-supplies",
+    "reasoning": "Blues + cylinder = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+dagger": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Dagger = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+drawknife": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Drawknife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+drill": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Drill = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+dyeing": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Dyeing = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+dynamometer": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Dynamometer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+engine": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Engine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+eraser": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Eraser = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+forge-bellows": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Forge Bellows = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+forging": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Forging = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+funnel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Funnel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+garden-shed": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Garden Shed = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+gear": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Gear = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+gears": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Gears = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+generator": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Generator = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+gimbal": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Gimbal = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+gondola": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Gondola = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+grappling-hook": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Grappling Hook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+grinder": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Grinder = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+grinding": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Grinding = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+gun": {
+    "result": "art-supplies",
+    "reasoning": "Blues + gun = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hammer": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hammer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hand-saw": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hand Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+helicopter": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Helicopter = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+helmet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Helmet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+highway": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Highway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hoe": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hoe = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hook": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hot-air-balloon": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hot Air Balloon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+hunting": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Hunting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+invention": {
+    "result": "art-supplies",
+    "reasoning": "Blues + invention = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+jack": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Jack = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+junk-drawer": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Junk Drawer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+kettle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Kettle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+key": {
+    "result": "art-supplies",
+    "reasoning": "Blues + key = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+kitchen-gadget": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Kitchen Gadget = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+knife": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Knife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+knitting": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Knitting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+ladle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Ladle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+lantern": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Lantern = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+level": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Level = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+lever": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Lever = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+lock": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Lock = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+loom": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Loom = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mace": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mace = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+machine": {
+    "result": "art-supplies",
+    "reasoning": "Blues + machine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+magnifying-glass": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Magnifying Glass = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mallet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mallet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+manacle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Manacle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mechanical": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mechanical = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mining": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mining = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mortar-and-pestle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mortar and Pestle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+motor": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Motor = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+motorcycle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Motorcycle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+mousetrap": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Mousetrap = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+needle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Needle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+notebook": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Notebook = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+oar": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Oar = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+padlock": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Padlock = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pen": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pen = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pencil": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pestle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pestle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pick": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pick = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+piston": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Piston = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+plane": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Plane = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pliers": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pliers = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+plough": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Plough = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+plumb-bob": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Plumb Bob = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+power-tool": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Power Tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+protractor": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Protractor = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pulley": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pulley = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+pump": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Pump = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+purse": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Purse = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+quill": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Quill = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+quiver": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Quiver = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+raft": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Raft = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+railway": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Railway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+rake": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Rake = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+ratchet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Ratchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+rivet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Rivet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+road": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Road = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+rocket": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Rocket = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+ruler": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Ruler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sailboat": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sailboat = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+satellite": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Satellite = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+saw": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Saw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+scale": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Scale = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+scalpel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Scalpel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+scissors": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Scissors = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+screw": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Screw = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sextant": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sextant = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+ship": {
+    "result": "art-supplies",
+    "reasoning": "Blues + ship = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+shovel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Shovel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sickle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sickle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sieve": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sieve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sled": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sled = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sledgehammer": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sledgehammer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+smelting": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Smelting = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+snorkel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Snorkel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+socket-wrench": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Socket Wrench = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+soldering-iron": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Soldering Iron = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+spear": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Spear = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+spindle": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Spindle = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+spring": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Spring = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+spyglass": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Spyglass = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+stapler": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Stapler = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+stencil": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Stencil = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+submarine": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Submarine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+subway": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Subway = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+suitcase": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Suitcase = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sundial": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sundial = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+swiss-army-knife": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Swiss Army Knife = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+sword": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Sword = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+tanning": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Tanning = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+taxi": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Taxi = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+thermometer": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Thermometer = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+tongs": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Tongs = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+tool": {
+    "result": "art-supplies",
+    "reasoning": "Blues + tool = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+traffic": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Traffic = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+train": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Train = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+trap": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Trap = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+trebuchet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Trebuchet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+tripod": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Tripod = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+trowel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Trowel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+truck": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Truck = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+turbine": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Turbine = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+valve": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Valve = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+vise": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Vise = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wagon": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Wagon = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wallet": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Wallet = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+weaving": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Weaving = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+weight": {
+    "result": "art-supplies",
+    "reasoning": "Blues + weight = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+welding": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Welding = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wheel": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Wheel = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wheelbarrow": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Wheelbarrow = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+whetstone": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Whetstone = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+winch": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Winch = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wing": {
+    "result": "art-supplies",
+    "reasoning": "Blues + wing = Art Supplies. Every masterpiece starts with a trip to the store."
+  },
+  "blues+wrench": {
+    "result": "art-supplies",
+    "reasoning": "Blues + Wrench = Art Supplies. Every masterpiece starts with a trip to the store."
   },
   "board+wheel": {
     "result": "skateboard",
@@ -23,104 +811,72 @@
     "result": "violin",
     "reasoning": "Bow and Guitar create Violin"
   },
-  "bow+string": {
-    "result": "violin",
-    "reasoning": "Bow and string shake hands, reality shrugs, and Violin is suddenly canon."
+  "bow+sport": {
+    "result": "archery",
+    "reasoning": "Bow as a sport is Archery"
   },
-  "castle+rocket": {
-    "result": "space-elevator",
-    "reasoning": "Castle tags in with Rocket, and somehow the universe speedruns Space Elevator."
+  "brazier+punk-rock": {
+    "result": "lava",
+    "reasoning": "Brazier melts Punk Rock into flowing Lava."
   },
-  "engine+factory": {
-    "result": "power-plant",
-    "reasoning": "Engine plus Factory is the weird recipe your alchemist friend swears by for making Power Plant."
+  "brazier+rock-music": {
+    "result": "lava",
+    "reasoning": "Brazier melts Rock Music into flowing Lava."
   },
-  "engine+tunnel": {
-    "result": "subway",
-    "reasoning": "Engine tags in with Tunnel, and somehow the universe speedruns Subway."
+  "brazier+stained-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
   },
-  "factory+generator": {
-    "result": "power-plant",
-    "reasoning": "Applying Factory to Generator produces Power Plant"
+  "brazier+well": {
+    "result": "steam",
+    "reasoning": "Brazier turns Well to Steam — the force that powered the Industrial Revolution."
   },
-  "film+pencil": {
-    "result": "animation",
-    "reasoning": "Film tags in with Pencil, and somehow the universe speedruns Animation."
+  "bucket+well": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Well = Aquarium."
   },
-  "fun+railway": {
-    "result": "roller-coaster",
-    "reasoning": "fun and Railway create Roller Coaster"
+  "castle+crossbow": {
+    "result": "armory",
+    "reasoning": "A Castle storing Crossbow — an Armory."
   },
-  "game+gun": {
-    "result": "fps",
-    "reasoning": "Game teams up with gun; the side quest reward is FPS."
+  "castle+dagger": {
+    "result": "armory",
+    "reasoning": "A Castle storing Dagger — an Armory."
   },
-  "gear+house": {
-    "result": "factory",
-    "reasoning": "Gear meets house, chaos files a memo, and Factory walks out with the trophy."
+  "castle+gun": {
+    "result": "armory",
+    "reasoning": "A Castle storing gun — an Armory."
   },
-  "generator+house": {
-    "result": "power-plant",
-    "reasoning": "Someone mixed Generator with house for science. The peer-reviewed conclusion: Power Plant."
+  "castle+mace": {
+    "result": "armory",
+    "reasoning": "A Castle storing Mace — an Armory."
   },
-  "gun+video-game": {
-    "result": "fps",
-    "reasoning": "gun and Video Game create FPS"
+  "castle+spear": {
+    "result": "armory",
+    "reasoning": "A Castle storing Spear — an Armory."
   },
-  "hammer+instrument": {
-    "result": "piano",
-    "reasoning": "Hammer and Instrument create Piano"
+  "castle+sword": {
+    "result": "armory",
+    "reasoning": "A Castle storing Sword — an Armory."
   },
-  "hammer+sound": {
-    "result": "piano",
-    "reasoning": "When Hammer and sound collide, logic takes a coffee break and Piano appears anyway."
+  "church+crossbow": {
+    "result": "armory",
+    "reasoning": "A Church storing Crossbow — an Armory."
   },
-  "house+machine": {
-    "result": "factory",
-    "reasoning": "house and machine create Factory"
+  "church+dagger": {
+    "result": "armory",
+    "reasoning": "A Church storing Dagger — an Armory."
   },
-  "house+satellite": {
-    "result": "space-station",
-    "reasoning": "house and Satellite combine in the cosmos to create Space Station"
+  "church+gun": {
+    "result": "armory",
+    "reasoning": "A Church storing gun — an Armory."
   },
-  "house+tool": {
-    "result": "barn",
-    "reasoning": "house tags in with tool, and somehow the universe speedruns Barn."
+  "church+mace": {
+    "result": "armory",
+    "reasoning": "A Church storing Mace — an Armory."
   },
-  "instrument+tool": {
-    "result": "drum",
-    "reasoning": "Instrument meets tool, chaos files a memo, and Drum walks out with the trophy."
-  },
-  "light+machine": {
-    "result": "photography",
-    "reasoning": "light and machine shake hands, reality shrugs, and Photography is suddenly canon."
-  },
-  "music+tool": {
-    "result": "string",
-    "reasoning": "Someone mixed Music with tool for science. The peer-reviewed conclusion: string."
-  },
-  "play+railway": {
-    "result": "roller-coaster",
-    "reasoning": "play plus Railway is the weird recipe your alchemist friend swears by for making Roller Coaster."
-  },
-  "play+tool": {
-    "result": "game",
-    "reasoning": "play and tool create Game"
-  },
-  "rocket+tower": {
-    "result": "space-elevator",
-    "reasoning": "Rocket and Tower combine in the cosmos to create Space Elevator"
-  },
-  "shoe+tool": {
-    "result": "boot",
-    "reasoning": "Shoe teams up with tool; the side quest reward is Boot."
-  },
-  "strategy+tool": {
-    "result": "chess",
-    "reasoning": "strategy tags in with tool, and somehow the universe speedruns Chess."
-  },
-  "train+tunnel": {
-    "result": "subway",
-    "reasoning": "Crafting Train with Tunnel produces Subway"
+  "church+spear": {
+    "result": "armory",
+    "reasoning": "A Church storing Spear — an Armory."
   }
 }

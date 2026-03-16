@@ -1,6 +1,882 @@
 {
-  "dragon+rice": {
-    "result": "china",
-    "reasoning": "The land of the dragon and rice paddies — China"
+  "aioli+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "aioli+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "alchemy+garden": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Garden into an Enchanted Forest."
+  },
+  "alchemy+mushroom-soup": {
+    "result": "enchanted-forest",
+    "reasoning": "Alchemy transforms Mushroom Soup into an Enchanted Forest."
+  },
+  "alcohol+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "astronaut-food+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bagel+fire-elemental": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "baklava+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "barn+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+forbidden-knowledge": {
+    "result": "library",
+    "reasoning": "A Barn filled with Forbidden Knowledge — a Library."
+  },
+  "barn+god": {
+    "result": "temple",
+    "reasoning": "A Barn for god — a Temple."
+  },
+  "barn+holy-grail": {
+    "result": "temple",
+    "reasoning": "A Barn for Holy Grail — a Temple."
+  },
+  "barn+mad-science": {
+    "result": "library",
+    "reasoning": "A Barn filled with Mad Science — a Library."
+  },
+  "barn+prayer": {
+    "result": "temple",
+    "reasoning": "A Barn for Prayer — a Temple."
+  },
+  "barn+religion": {
+    "result": "temple",
+    "reasoning": "A Barn for religion — a Temple."
+  },
+  "barn+spell-book": {
+    "result": "library",
+    "reasoning": "A Barn filled with Spell Book — a Library."
+  },
+  "barn+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "batter+fire-elemental": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+water-elemental": {
+    "result": "crepe",
+    "reasoning": "Thinning batter with water creates delicate Crepe batter"
+  },
+  "beer+fire-elemental": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "biscuit+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bread+fire-elemental": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "bread+water-elemental": {
+    "result": "porridge",
+    "reasoning": "Bread soaked in water becomes Porridge, medieval pottage for the poor"
+  },
+  "brewing+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brewing+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "brioche+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brioche+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "broth+fire-elemental": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "broth+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bruschetta+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "burrito+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "burrito+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "butter+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "butter+water-elemental": {
+    "result": "cream",
+    "reasoning": "Butter emulsified in water creates a silky Cream sauce"
+  },
+  "cake+fire-elemental": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "cake+water-elemental": {
+    "result": "pudding",
+    "reasoning": "Cake soaked in water or syrup becomes trifle Pudding"
+  },
+  "candy+fire-elemental": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "candy+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "caramel+fire-elemental": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caramel+water-elemental": {
+    "result": "candy",
+    "reasoning": "Water added to hot caramel prevents crystallization, Candy chemistry"
+  },
+  "caviar+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "caviar+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "ceviche+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "ceviche+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cheese+fire-elemental": {
+    "result": "fondue",
+    "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
+  },
+  "cheese+water-elemental": {
+    "result": "fondue",
+    "reasoning": "Melting cheese with water or wine creates Fondue"
+  },
+  "chili+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "chili+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "chocolate+fire-elemental": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "chocolate+water-elemental": {
+    "result": "smoothie",
+    "reasoning": "Chocolate blended with water or milk, a rich Smoothie"
+  },
+  "chutney+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "chutney+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cider+fire-elemental": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "cider+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "clam-chowder+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "clam-chowder+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cobbler+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cobbler+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "coca-cola+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "coca-cola+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "coconut+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "coconut+water-elemental": {
+    "result": "milk",
+    "reasoning": "Coconut meat blended with water creates coconut Milk"
+  },
+  "coffee+fire-elemental": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "coffee+water-elemental": {
+    "result": "brewing",
+    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  },
+  "cookbook+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cookbook+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cookie+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "cookie+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cooking+death-knight": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+king": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+knight": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+lich-king": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+queen": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+space-wizard": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cooking+witch": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "cooking+wizard": {
+    "result": "chef",
+    "reasoning": "Chefs elevate cooking to an art form — controlling heat, flavor, and time"
+  },
+  "corn+fire-elemental": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "corn+water-elemental": {
+    "result": "porridge",
+    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
+  },
+  "cornbread+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cornbread+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "couscous+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "couscous+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cracker+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "cracker+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "cream+fire-elemental": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "cream+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "crepe+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "crepe+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "croissant+fire-elemental": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "croissant+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "curry+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "curry+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "custard+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "custard+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "death-knight+plow": {
+    "result": "farmer",
+    "reasoning": "The plow launched the agricultural revolution — farming feeds civilization"
+  },
+  "death-knight+tractor": {
+    "result": "farmer",
+    "reasoning": "Tractors mechanized farming — one machine replaces 20 horses"
+  },
+  "dim-sum+fire-elemental": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "dim-sum+water-elemental": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "dough+fire-elemental": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "dough+water-elemental": {
+    "result": "noodle",
+    "reasoning": "Adding water to dough and pulling creates hand-pulled Noodles"
+  },
+  "dragon-egg+dumpling": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Dumpling = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+egg-food": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Egg Food = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+eggnog": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Eggnog = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+espresso": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Espresso = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+falafel": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Falafel = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+farm": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + farm = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+fermenting": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Fermenting = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+fishing": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Fishing = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+flan": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Flan = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+flour": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Flour = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+focaccia": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Focaccia = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+fondue": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Fondue = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+food": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + food = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+food-coma": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Food Coma = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+foraging": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Foraging = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+garden": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Garden = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+garlic": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Garlic = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+gelatin": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Gelatin = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+ginger": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Ginger = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+goulash": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Goulash = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+granola": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Granola = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+gravy": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Gravy = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+greenhouse": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Greenhouse = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+gruel": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Gruel = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+guacamole": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Guacamole = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+gumbo": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Gumbo = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+gyoza": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Gyoza = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+hamburger": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Hamburger = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+harvest": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Harvest = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+hummus": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Hummus = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+ice-cream": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Ice Cream = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+irrigation": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Irrigation = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+jam": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Jam = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+jerky": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Jerky = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+juice": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Juice = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+kebab": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Kebab = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+kimchi": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Kimchi = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+kombucha": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Kombucha = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+lasagna": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Lasagna = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+lawn": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Lawn = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+lemonade": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Lemonade = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+macaroni": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Macaroni = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mango": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mango = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+maple-syrup": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Maple Syrup = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+marmalade": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Marmalade = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+matcha": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Matcha = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mcdonalds": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + McDonalds = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mead": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mead = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+meat": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + meat = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+meringue": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Meringue = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mezcal": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mezcal = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+milk": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + milk = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+miso": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Miso = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mochi": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mochi = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mousse": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mousse = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+muffin": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Muffin = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mushroom-soup": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mushroom Soup = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mystery-casserole": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mystery Casserole = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+mystery-meat": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Mystery Meat = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+naan": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Naan = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+nacho": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Nacho = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+noodle": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Noodle = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+okra": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Okra = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+olive": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Olive = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+olive-oil": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Olive Oil = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+omelette": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Omelette = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+onion": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Onion = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+paella": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Paella = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pancake": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pancake = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+papaya": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Papaya = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pasta": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pasta = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+peanut-butter": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Peanut Butter = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pecan-pie": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pecan Pie = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pepper": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pepper = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pesto": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pesto = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pho": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pho = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pickle": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pickle = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pie": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pie = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pierogi": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pierogi = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pizza": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pizza = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+plow": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Plow = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+popcorn": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Popcorn = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+porridge": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Porridge = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+potato": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Potato = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+potluck": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Potluck = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pretzel": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pretzel = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+prosciutto": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Prosciutto = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+pudding": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Pudding = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+quiche": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Quiche = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+ramen": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Ramen = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+ravioli": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Ravioli = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+relish": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Relish = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+rice": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + rice = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+risotto": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Risotto = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+roast": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Roast = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+rum": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Rum = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+sake": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Sake = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+salad": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Salad = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+salsa": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Salsa = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+salt": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Salt = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+sandwich": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Sandwich = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+sausage": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Sausage = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+scallop": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Scallop = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+scone": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Scone = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+silo": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Silo = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+smoothie": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Smoothie = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+sorbet": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Sorbet = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+souffle": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Souffle = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+soup": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Soup = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+sourdough": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Sourdough = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+soy-sauce": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Soy Sauce = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
+  },
+  "dragon-egg+spaghetti": {
+    "result": "ambrosia",
+    "reasoning": "Dragon Egg + Spaghetti = Ambrosia — food of the gods. Tastes like everything you've ever wanted."
   }
 }

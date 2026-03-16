@@ -1,0 +1,882 @@
+{
+  "book+eiffel-tower": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "book+farmer": {
+    "result": "librarian",
+    "reasoning": "Librarians curate humanity's collected knowledge"
+  },
+  "book+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "book+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "book+student": {
+    "result": "homework",
+    "reasoning": "book and Student together shape Homework"
+  },
+  "book+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "cathedral+chaos-theory": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Chaos Theory — a Library."
+  },
+  "cathedral+education": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Education — a Library."
+  },
+  "cathedral+field-research": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Field Research — a Library."
+  },
+  "cathedral+game-theory": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Game Theory — a Library."
+  },
+  "cathedral+knowledge": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with knowledge — a Library."
+  },
+  "cathedral+library": {
+    "result": "university",
+    "reasoning": "A Cathedral devoted to Library — a University."
+  },
+  "cathedral+logic": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Logic — a Library."
+  },
+  "cathedral+philosophy": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Philosophy — a Library."
+  },
+  "cathedral+research": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Research — a Library."
+  },
+  "cathedral+research-paper": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Research Paper — a Library."
+  },
+  "cathedral+school": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with school — a Library."
+  },
+  "cathedral+theory": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Theory — a Library."
+  },
+  "cathedral+theory-of-relativity": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with Theory of Relativity — a Library."
+  },
+  "cathedral+university": {
+    "result": "library",
+    "reasoning": "A Cathedral filled with University — a Library."
+  },
+  "chaos-theory+clock-tower": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "chaos-theory+eiffel-tower": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "chaos-theory+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "chaos-theory+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "chaos-theory+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "city+knowledge": {
+    "result": "civilization",
+    "reasoning": "city and knowledge together shape Civilization"
+  },
+  "clock-tower+education": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+field-research": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+game-theory": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+knowledge": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+library": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+logic": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+philosophy": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+research": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+research-paper": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+theory": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+theory-of-relativity": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "clock-tower+university": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "code+farmer": {
+    "result": "programmer",
+    "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "culture+poem": {
+    "result": "ode",
+    "reasoning": "Combine Poem with Culture to create Ode."
+  },
+  "debate+law": {
+    "result": "parliament",
+    "reasoning": "Combine Law with Debate to create Parliament."
+  },
+  "document+law": {
+    "result": "contract",
+    "reasoning": "Document combined with law leads to Contract"
+  },
+  "document+peace": {
+    "result": "treaty",
+    "reasoning": "Document and Peace together shape Treaty"
+  },
+  "education+eiffel-tower": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "education+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "education+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "education+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+field-research": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Field Research — a Library."
+  },
+  "eiffel-tower+game-theory": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Game Theory — a Library."
+  },
+  "eiffel-tower+knowledge": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with knowledge — a Library."
+  },
+  "eiffel-tower+library": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+logic": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+philosophy": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Philosophy — a Library."
+  },
+  "eiffel-tower+research": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+research-paper": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with Research Paper — a Library."
+  },
+  "eiffel-tower+theory": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+theory-of-relativity": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "eiffel-tower+university": {
+    "result": "library",
+    "reasoning": "A Eiffel Tower filled with University — a Library."
+  },
+  "experiment+farmer": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+festival": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Festival = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+feudalism": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Feudalism = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+forge": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Forge = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+foundry": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Foundry = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+freedom": {
+    "result": "fake-news",
+    "reasoning": "Experiment + freedom = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+garrison": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Garrison = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+gatehouse": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Gatehouse = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+gladiator": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Gladiator = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+government": {
+    "result": "fake-news",
+    "reasoning": "Experiment + government = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+granary": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Granary = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+grand-canyon": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Grand Canyon = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+guild": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Guild = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+harbor": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Harbor = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+homework": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Homework = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+india": {
+    "result": "fake-news",
+    "reasoning": "Experiment + India = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+industrial-revolution": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Industrial Revolution = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+inn": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Inn = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+inquisition": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Inquisition = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+insurance": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Insurance = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+investment": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Investment = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+italy": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Italy = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+journalist": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Journalist = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+judge": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Judge = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+jury": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Jury = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+justice": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Justice = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+kaiser": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Kaiser = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+keep": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Keep = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+korea": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Korea = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+law": {
+    "result": "fake-news",
+    "reasoning": "Experiment + law = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+lawyer": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Lawyer = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+loan": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Loan = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+magna-carta": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Magna Carta = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+market": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Market = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+marketing": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Marketing = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+media": {
+    "result": "fake-news",
+    "reasoning": "Experiment + media = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+mexico": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Mexico = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+mint": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Mint = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+moat": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Moat = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+monarchy": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Monarchy = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+monastery": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Monastery = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+money": {
+    "result": "fake-news",
+    "reasoning": "Experiment + money = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+mortuary": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Mortuary = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+mount-everest": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Mount Everest = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+nation": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Nation = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+niagara-falls": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Niagara Falls = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+nobel-prize": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Nobel Prize = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+nurse": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Nurse = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+olympic-games": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Olympic Games = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+orphanage": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Orphanage = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+oscar": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Oscar = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+outpost": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Outpost = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pagoda": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pagoda = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+parliament": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Parliament = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+peace": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Peace = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pest-control": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pest Control = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pharaoh": {
+    "result": "fake-news",
+    "reasoning": "Experiment + pharaoh = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+philosopher": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Philosopher = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pier": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pier = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pilot": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pilot = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pirate-captain": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pirate Captain = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+plantation": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Plantation = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+police": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Police = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+poverty": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Poverty = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+professor": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Professor = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+profit": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Profit = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+programmer": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Programmer = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+prohibition": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Prohibition = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+pyramids-of-giza": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Pyramids of Giza = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+reformation": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Reformation = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+reservoir": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Reservoir = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+ritual": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Ritual = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+sawmill": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Sawmill = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+scientist": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Scientist = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+shipyard": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Shipyard = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+shogun": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Shogun = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+siege": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Siege = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+silk-road": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Silk Road = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+smart-city": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Smart City = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+smithy": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Smithy = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+space-race": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Space Race = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+spartan": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Spartan = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+stable": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Stable = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+startup": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Startup = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+stock": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Stock = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+stockade": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Stockade = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+stonehenge": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Stonehenge = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+sweden": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Sweden = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+switzerland": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Switzerland = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+taj-mahal": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Taj Mahal = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+tavern": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Tavern = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+toll-booth": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Toll Booth = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+town": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Town = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+trade": {
+    "result": "fake-news",
+    "reasoning": "Experiment + trade = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+tradition": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Tradition = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+treasury": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Treasury = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+treaty": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Treaty = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+tribune": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Tribune = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+trojan-horse": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Trojan Horse = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+turret": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Turret = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+usa": {
+    "result": "fake-news",
+    "reasoning": "Experiment + USA = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+viking": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Viking = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+village": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Village = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+vote": {
+    "result": "fake-news",
+    "reasoning": "Experiment + vote = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+war": {
+    "result": "fake-news",
+    "reasoning": "Experiment + War = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+wealth": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Wealth = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+workshop": {
+    "result": "fake-news",
+    "reasoning": "Experiment + Workshop = Fake News. In a world of information, misinformation thrives."
+  },
+  "experiment+world-cup": {
+    "result": "fake-news",
+    "reasoning": "Experiment + World Cup = Fake News. In a world of information, misinformation thrives."
+  },
+  "farmer+map": {
+    "result": "cartographer",
+    "reasoning": "Cartographers map the world — from Ptolemy to Google Maps"
+  },
+  "farmer+newspaper": {
+    "result": "journalist",
+    "reasoning": "Journalists inform the public — democracy's watchdogs"
+  },
+  "farmer+periodic-table": {
+    "result": "scientist",
+    "reasoning": "Mendeleev arranged 63 elements and predicted ones not yet discovered"
+  },
+  "farmer+school": {
+    "result": "teacher",
+    "reasoning": "Teachers shape every other profession — the most important job"
+  },
+  "farmer+scroll": {
+    "result": "scribe",
+    "reasoning": "Scribes unrolled scrolls to record laws, myths, and histories"
+  },
+  "farmer+university": {
+    "result": "professor",
+    "reasoning": "Professors research and teach at the frontier of knowledge"
+  },
+  "field-research+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "field-research+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "field-research+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "game-theory+inn": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "game-theory+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "game-theory+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+knowledge": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+library": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+logic": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+philosophy": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+research": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+research-paper": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+theory": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+theory-of-relativity": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "inn+university": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "japan+poem": {
+    "result": "haiku",
+    "reasoning": "Combine Japan with Poem to create Haiku."
+  },
+  "judge+turing-test": {
+    "result": "prejudice",
+    "reasoning": "Combine Judge with Turing Test to create Prejudice."
+  },
+  "knowledge+palace": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "knowledge+tavern": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "koan+peace": {
+    "result": "zen",
+    "reasoning": "Combine Koan with Peace to create Zen."
+  },
+  "law+philosophy": {
+    "result": "jurisprudence",
+    "reasoning": "Combine Philosophy with Law to create Jurisprudence."
+  },
+  "law+text": {
+    "result": "document",
+    "reasoning": "law combined with Text leads to Document"
+  },
+  "law+truth": {
+    "result": "justice",
+    "reasoning": "law and Truth together shape Justice"
+  },
+  "letter+loan": {
+    "result": "fake-news",
+    "reasoning": "Letter + Loan = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+machu-picchu": {
+    "result": "fake-news",
+    "reasoning": "Letter + Machu Picchu = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+magna-carta": {
+    "result": "fake-news",
+    "reasoning": "Letter + Magna Carta = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+market": {
+    "result": "fake-news",
+    "reasoning": "Letter + Market = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+marketing": {
+    "result": "fake-news",
+    "reasoning": "Letter + Marketing = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+media": {
+    "result": "fake-news",
+    "reasoning": "Letter + media = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+mexico": {
+    "result": "fake-news",
+    "reasoning": "Letter + Mexico = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+mint": {
+    "result": "fake-news",
+    "reasoning": "Letter + Mint = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+moat": {
+    "result": "fake-news",
+    "reasoning": "Letter + Moat = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+monarchy": {
+    "result": "fake-news",
+    "reasoning": "Letter + Monarchy = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+monastery": {
+    "result": "fake-news",
+    "reasoning": "Letter + Monastery = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+money": {
+    "result": "fake-news",
+    "reasoning": "Letter + money = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+mortuary": {
+    "result": "fake-news",
+    "reasoning": "Letter + Mortuary = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+mount-everest": {
+    "result": "fake-news",
+    "reasoning": "Letter + Mount Everest = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+musician": {
+    "result": "fake-news",
+    "reasoning": "Letter + Musician = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+musketeer": {
+    "result": "fake-news",
+    "reasoning": "Letter + Musketeer = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+nation": {
+    "result": "fake-news",
+    "reasoning": "Letter + Nation = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+niagara-falls": {
+    "result": "fake-news",
+    "reasoning": "Letter + Niagara Falls = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+nobel-prize": {
+    "result": "fake-news",
+    "reasoning": "Letter + Nobel Prize = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+nurse": {
+    "result": "fake-news",
+    "reasoning": "Letter + Nurse = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+obelisk": {
+    "result": "fake-news",
+    "reasoning": "Letter + Obelisk = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+olympic-games": {
+    "result": "fake-news",
+    "reasoning": "Letter + Olympic Games = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+orphanage": {
+    "result": "fake-news",
+    "reasoning": "Letter + Orphanage = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+oscar": {
+    "result": "fake-news",
+    "reasoning": "Letter + Oscar = Fake News. In a world of information, misinformation thrives."
+  },
+  "letter+ottoman": {
+    "result": "fake-news",
+    "reasoning": "Letter + Ottoman = Fake News. In a world of information, misinformation thrives."
+  }
+}

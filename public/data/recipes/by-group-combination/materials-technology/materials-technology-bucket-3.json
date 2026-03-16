@@ -1,0 +1,882 @@
+{
+  "electricity+ingot": {
+    "result": "magnet",
+    "reasoning": "Electricity through Ingot = Magnet — invisible force, visible wonder."
+  },
+  "electricity+iron": {
+    "result": "magnet",
+    "reasoning": "Applying Electricity to Iron produces magnet"
+  },
+  "electricity+lead": {
+    "result": "magnet",
+    "reasoning": "Electricity through Lead = Magnet — invisible force, visible wonder."
+  },
+  "electricity+lens": {
+    "result": "led",
+    "reasoning": "Electricity + Lens = LED — efficient light that changed the world."
+  },
+  "electricity+metal": {
+    "result": "battery",
+    "reasoning": "Electricity stored in metal — a battery"
+  },
+  "electricity+mirror": {
+    "result": "led",
+    "reasoning": "Electricity + Mirror = LED — efficient light that changed the world."
+  },
+  "electricity+natural-gas": {
+    "result": "neon-sign",
+    "reasoning": "Combine Electricity with Natural Gas to create Neon Sign."
+  },
+  "electricity+nickel": {
+    "result": "magnet",
+    "reasoning": "Electricity through Nickel = Magnet — invisible force, visible wonder."
+  },
+  "electricity+platinum": {
+    "result": "magnet",
+    "reasoning": "Electricity through Platinum = Magnet — invisible force, visible wonder."
+  },
+  "electricity+prism": {
+    "result": "led",
+    "reasoning": "Electricity + Prism = LED — efficient light that changed the world."
+  },
+  "electricity+silicon": {
+    "result": "semiconductor",
+    "reasoning": "Applying Electricity to Silicon produces Semiconductor"
+  },
+  "electricity+silver": {
+    "result": "magnet",
+    "reasoning": "Electricity through Silver = Magnet — invisible force, visible wonder."
+  },
+  "electricity+steel": {
+    "result": "magnet",
+    "reasoning": "Electricity through Steel = Magnet — invisible force, visible wonder."
+  },
+  "electricity+tin": {
+    "result": "magnet",
+    "reasoning": "Electricity through Tin = Magnet — invisible force, visible wonder."
+  },
+  "electricity+titanium": {
+    "result": "magnet",
+    "reasoning": "Electricity through Titanium = Magnet — invisible force, visible wonder."
+  },
+  "electricity+tungsten": {
+    "result": "magnet",
+    "reasoning": "Electricity through Tungsten = Magnet — invisible force, visible wonder."
+  },
+  "electricity+wire": {
+    "result": "current",
+    "reasoning": "Applying Electricity to Wire produces Current"
+  },
+  "electricity+zinc": {
+    "result": "magnet",
+    "reasoning": "Electricity through Zinc = Magnet — invisible force, visible wonder."
+  },
+  "electrode+metal": {
+    "result": "metal-detector",
+    "reasoning": "Combine Metal with Electrode to create Metal Detector."
+  },
+  "fabric+fiber-optic": {
+    "result": "linen",
+    "reasoning": "Combine Fabric with Fiber Optic to create Linen."
+  },
+  "fabric+press": {
+    "result": "felt",
+    "reasoning": "Combine Fabric with Press to create Felt."
+  },
+  "fiber-optic+paint": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Paint — a Tapestry."
+  },
+  "fiber+fiber-optic": {
+    "result": "burlap",
+    "reasoning": "Combine Fiber with Fiber Optic to create Burlap."
+  },
+  "fiber+power-plant": {
+    "result": "hemp",
+    "reasoning": "Combine Fiber with Power Plant to create Hemp."
+  },
+  "fossil+library-software": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Library Software = Pyramid — wonder of the world."
+  },
+  "galvanized-steel+library-software": {
+    "result": "skyscraper",
+    "reasoning": "Galvanized Steel gives Library Software the strength to reach the sky — Skyscraper."
+  },
+  "galvanized-steel+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Combining Galvanized Steel with Metal Detector creates an Alloy — stronger than either alone."
+  },
+  "galvanized-steel+tree-data": {
+    "result": "axe",
+    "reasoning": "Galvanized Steel head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "gold+library-software": {
+    "result": "skyscraper",
+    "reasoning": "Gold gives Library Software the strength to reach the sky — Skyscraper."
+  },
+  "gold+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Combining Gold with Metal Detector creates an Alloy — stronger than either alone."
+  },
+  "gold+tree-data": {
+    "result": "axe",
+    "reasoning": "Gold head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "hard-drive+metal": {
+    "result": "tungsten",
+    "reasoning": "Combine Metal with Hard Drive to create Tungsten."
+  },
+  "heat-pump+ingot": {
+    "result": "alloy",
+    "reasoning": "Intense Heat Pump fuses Ingot into an Alloy."
+  },
+  "heat-pump+iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Iron with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+limestone": {
+    "result": "quicklite",
+    "reasoning": "Combine Limestone with Heat Pump to create Quicklite."
+  },
+  "heat-pump+marble": {
+    "result": "lava",
+    "reasoning": "Heat Pump melts Marble into flowing Lava."
+  },
+  "heat-pump+metal": {
+    "result": "ingot",
+    "reasoning": "Smelting metal with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+mineral": {
+    "result": "vermiculite",
+    "reasoning": "Combine Mineral with Heat Pump to create Vermiculite."
+  },
+  "heat-pump+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "heat-pump+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "heat-pump+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "heat-pump+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+soil": {
+    "result": "lava",
+    "reasoning": "Heat Pump melts Soil into flowing Lava."
+  },
+  "heat-pump+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "heat-pump+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Heat Pump creates an Ingot — the foundation of metallurgy."
+  },
+  "ingot+library-software": {
+    "result": "skyscraper",
+    "reasoning": "Ingot gives Library Software the strength to reach the sky — Skyscraper."
+  },
+  "ingot+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Combining Ingot with Metal Detector creates an Alloy — stronger than either alone."
+  },
+  "ingot+tree-data": {
+    "result": "axe",
+    "reasoning": "Ingot head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "ink+keyboard": {
+    "result": "typewriter",
+    "reasoning": "Applying Ink to Keyboard produces Typewriter"
+  },
+  "ink+press": {
+    "result": "printing",
+    "reasoning": "Applying Ink to press produces Printing"
+  },
+  "internet+shield": {
+    "result": "cybersecurity",
+    "reasoning": "Applying internet to Shield produces Cybersecurity"
+  },
+  "iron+library-software": {
+    "result": "skyscraper",
+    "reasoning": "Iron gives Library Software the strength to reach the sky — Skyscraper."
+  },
+  "iron+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Combining Iron with Metal Detector creates an Alloy — stronger than either alone."
+  },
+  "iron+tree-data": {
+    "result": "axe",
+    "reasoning": "Iron head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "kiln+lead": {
+    "result": "ingot",
+    "reasoning": "Smelting Lead with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+limestone": {
+    "result": "lava",
+    "reasoning": "Kiln melts Limestone into flowing Lava."
+  },
+  "kiln+marble": {
+    "result": "lava",
+    "reasoning": "Kiln melts Marble into flowing Lava."
+  },
+  "kiln+metal": {
+    "result": "ingot",
+    "reasoning": "Smelting metal with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+mineral": {
+    "result": "lava",
+    "reasoning": "Kiln melts Mineral into flowing Lava."
+  },
+  "kiln+mirror": {
+    "result": "lens",
+    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
+  },
+  "kiln+nickel": {
+    "result": "ingot",
+    "reasoning": "Smelting Nickel with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+plank": {
+    "result": "charcoal",
+    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "kiln+platinum": {
+    "result": "ingot",
+    "reasoning": "Smelting Platinum with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+prism": {
+    "result": "lens",
+    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
+  },
+  "kiln+silver": {
+    "result": "ingot",
+    "reasoning": "Smelting Silver with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+soil": {
+    "result": "lava",
+    "reasoning": "Kiln melts Soil into flowing Lava."
+  },
+  "kiln+steel": {
+    "result": "ingot",
+    "reasoning": "Smelting Steel with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+tin": {
+    "result": "ingot",
+    "reasoning": "Smelting Tin with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+titanium": {
+    "result": "ingot",
+    "reasoning": "Smelting Titanium with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+tungsten": {
+    "result": "ingot",
+    "reasoning": "Smelting Tungsten with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+zinc": {
+    "result": "ingot",
+    "reasoning": "Smelting Zinc with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "lead+library-software": {
+    "result": "skyscraper",
+    "reasoning": "Lead gives Library Software the strength to reach the sky — Skyscraper."
+  },
+  "lead+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Combining Lead with Metal Detector creates an Alloy — stronger than either alone."
+  },
+  "lead+tree-data": {
+    "result": "axe",
+    "reasoning": "Lead head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "library-software+paint": {
+    "result": "museum",
+    "reasoning": "A Library Software preserving Paint — a Museum."
+  },
+  "library-software+shield": {
+    "result": "armory",
+    "reasoning": "A Library Software storing Shield — an Armory."
+  },
+  "magma+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Magma creates an Ingot — the foundation of metallurgy."
+  },
+  "magma+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "magma+water-wheel": {
+    "result": "steam",
+    "reasoning": "Magma turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "magnet+metal": {
+    "result": "compass",
+    "reasoning": "A magnetized metal needle points north — compass"
+  },
+  "metal-detector+nickel": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Nickel creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+paint": {
+    "result": "sculpture",
+    "reasoning": "Metal Detector shaped by Paint — a Sculpture."
+  },
+  "metal-detector+plank": {
+    "result": "axe",
+    "reasoning": "Metal Detector head on plank handle = Axe — humanity's oldest composite tool."
+  },
+  "metal-detector+platinum": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Platinum creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+silver": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Silver creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+steel": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Steel creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+tin": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Tin creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+titanium": {
+    "result": "mithril",
+    "reasoning": "Combine Titanium with Metal Detector to create Mithril."
+  },
+  "metal-detector+tungsten": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Tungsten creates an Alloy — stronger than either alone."
+  },
+  "metal-detector+zinc": {
+    "result": "alloy",
+    "reasoning": "Combining Metal Detector with Zinc creates an Alloy — stronger than either alone."
+  },
+  "metal+metal-detector": {
+    "result": "welding-torch",
+    "reasoning": "Combine Metal Detector with Metal to create Welding Torch."
+  },
+  "metal+press": {
+    "result": "clamp",
+    "reasoning": "Combine Metal with Press to create Clamp."
+  },
+  "metal+tree-data": {
+    "result": "axe",
+    "reasoning": "metal head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "mirror+modem": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Modem = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+monitor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Monitor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+morse-code": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Morse Code = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+motion-sensor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Motion Sensor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+mouse-device": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Mouse Device = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+multimeter": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Multimeter = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+name": {
+    "result": "e-waste",
+    "reasoning": "Mirror + name = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+navigation": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Navigation = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+neon-sign": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Neon Sign = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+netflix": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Netflix = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+network": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Network = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+neural-link": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Neural Link = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+neuralink": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Neuralink = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+newsletter": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Newsletter = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+nft": {
+    "result": "e-waste",
+    "reasoning": "Mirror + NFT = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+notification": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Notification = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+nuclear-reactor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Nuclear Reactor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+object": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Object = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+offline": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Offline = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+online": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Online = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+open-source": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Open Source = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+operating-system": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Operating System = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+oscillator": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Oscillator = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+oscilloscope": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Oscilloscope = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+particle-accelerator": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Particle Accelerator = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+password": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Password = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+pattern": {
+    "result": "e-waste",
+    "reasoning": "Mirror + pattern = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+periscope": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Periscope = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+phishing": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Phishing = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+phonograph": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Phonograph = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+photodiode": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Photodiode = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+piezoelectric": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Piezoelectric = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+pixel": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Pixel = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+pneumatic": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Pneumatic = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+podcast": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Podcast = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+polymorphism": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Polymorphism = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+post": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Post = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+post-office": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Post Office = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+potentiometer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Potentiometer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+power-grid": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Power Grid = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+power-plant": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Power Plant = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+power-strip": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Power Strip = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+press": {
+    "result": "e-waste",
+    "reasoning": "Mirror + press = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+pressure-cooker": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Pressure Cooker = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+printer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Printer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+printing": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Printing = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+privacy": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Privacy = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+processor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Processor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+product": {
+    "result": "e-waste",
+    "reasoning": "Mirror + product = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+profile": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Profile = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+program": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Program = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+propane-tank": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Propane Tank = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+python": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Python = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+qr-code": {
+    "result": "e-waste",
+    "reasoning": "Mirror + QR Code = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+quantum-computer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Quantum Computer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+queue": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Queue = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+radar": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Radar = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+radiator": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Radiator = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+radio": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Radio = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+ram": {
+    "result": "e-waste",
+    "reasoning": "Mirror + RAM = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+ransomware": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Ransomware = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+record-player": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Record Player = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+recursion": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Recursion = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+reddit": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Reddit = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+regex": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Regex = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+relay": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Relay = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+remote": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Remote = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+resistor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Resistor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+resolution": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Resolution = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+rest-api": {
+    "result": "e-waste",
+    "reasoning": "Mirror + REST API = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+robot": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Robot = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+router": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Router = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+saas": {
+    "result": "e-waste",
+    "reasoning": "Mirror + SaaS = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+screen": {
+    "result": "e-waste",
+    "reasoning": "Mirror + screen = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+scuba": {
+    "result": "e-waste",
+    "reasoning": "Mirror + SCUBA = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+search-engine": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Search Engine = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+self-driving-car": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Self Driving Car = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+selfie": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Selfie = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+semiconductor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Semiconductor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+sensor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Sensor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+server": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Server = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+share": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Share = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+signal": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Signal = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+sim-card": {
+    "result": "e-waste",
+    "reasoning": "Mirror + SIM Card = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+siri": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Siri = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+slack": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Slack = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+smart-contract": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Smart Contract = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+smart-home": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Smart Home = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+smart-speaker": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Smart Speaker = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+smartphone": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Smartphone = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+smartwatch": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Smartwatch = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+snowmobile": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Snowmobile = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+social-media": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Social Media = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+software": {
+    "result": "e-waste",
+    "reasoning": "Mirror + software = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+solar-panel": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Solar Panel = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+sonar": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Sonar = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+sort": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Sort = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+spacex": {
+    "result": "e-waste",
+    "reasoning": "Mirror + SpaceX = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+spam": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Spam = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+speaker": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Speaker = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+spectroscope": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Spectroscope = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+spotify": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Spotify = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+ssd": {
+    "result": "e-waste",
+    "reasoning": "Mirror + SSD = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+stable-diffusion": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Stable Diffusion = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+stack": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Stack = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+stack-overflow": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Stack Overflow = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+stamp": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Stamp = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+starlink": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Starlink = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+steam-engine": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Steam Engine = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+streaming": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Streaming = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+supercomputer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Supercomputer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+synthesizer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Synthesizer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+tablet": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Tablet = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+technical-debt": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Technical Debt = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+technology": {
+    "result": "e-waste",
+    "reasoning": "Mirror + technology = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+telegram": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Telegram = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+telegraph": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Telegraph = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+telephone": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Telephone = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+teletype": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Teletype = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+television": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Television = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+tesla": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Tesla = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  }
+}

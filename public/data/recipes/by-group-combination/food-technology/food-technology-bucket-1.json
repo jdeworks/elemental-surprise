@@ -1,6 +1,882 @@
 {
-  "rice+technology": {
-    "result": "korea",
-    "reasoning": "rice and technology together shape Korea"
+  "aioli+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "aioli+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "aioli+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "aioli+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "alcohol+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "alcohol+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "astronaut-food+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "astronaut-food+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bagel+heat-pump": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+kiln": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bagel+welding-torch": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "baklava+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "baklava+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+library-software": {
+    "result": "library",
+    "reasoning": "A Barn filled with Library Software — a Library."
+  },
+  "barn+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "barn+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "batter+heat-pump": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+kiln": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+power-grid": {
+    "result": "waffle",
+    "reasoning": "Combine Batter with Power Grid to create Waffle."
+  },
+  "batter+water-wheel": {
+    "result": "crepe",
+    "reasoning": "Thinning batter with water creates delicate Crepe batter"
+  },
+  "batter+welding-torch": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "beer+heat-pump": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+kiln": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "beer+welding-torch": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "biscuit+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "biscuit+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bread+heat-pump": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "bread+kiln": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "bread+water-wheel": {
+    "result": "porridge",
+    "reasoning": "Bread soaked in water becomes Porridge, medieval pottage for the poor"
+  },
+  "bread+welding-torch": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "brewing+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brewing+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brewing+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "brewing+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brioche+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brioche+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brioche+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "brioche+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "broth+heat-pump": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "broth+kiln": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "broth+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "broth+welding-torch": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "bruschetta+button": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + button = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+byte": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Byte = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+celebrity": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Celebrity = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+ci-cd": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + CI CD = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+circuit-board": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Circuit Board = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+cloud-computing": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Cloud Computing = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+comment": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Comment = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+communication": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Communication = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+compass-sensor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Compass Sensor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+compressor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Compressor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+cryptocurrency": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Cryptocurrency = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+css": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + CSS = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+current": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Current = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+data": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + data = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+database": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Database = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+defi": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + DeFi = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+desktop": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Desktop = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+devops": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + DevOps = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+digital": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + digital = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+download": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Download = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+drone": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Drone = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+e-reader": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + E-Reader = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+edge-computing": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Edge Computing = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+electric-car": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Electric Car = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+electrode": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Electrode = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+error": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + error = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+fame": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + fame = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+firewall": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Firewall = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+flywheel": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Flywheel = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+folder": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Folder = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+framework": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Framework = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+friend": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + friend = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+galvanometer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Galvanometer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+git": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Git = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+google-maps": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Google Maps = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+graphql": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + GraphQL = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+hashtag": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Hashtag = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+hologram": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Hologram = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+html": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + HTML = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+hydraulic-press": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Hydraulic Press = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+influencer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Influencer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+instagram": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Instagram = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+intercom": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Intercom = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+internet": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + internet = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+iot": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + IoT = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+ip-address": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + IP Address = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+jackhammer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Jackhammer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+laptop": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Laptop = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+library-software": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Library Software = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+linux": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Linux = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+loop": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Loop = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+loudspeaker": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Loudspeaker = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+mainframe": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Mainframe = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+markdown": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Markdown = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+meme": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Meme = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+message": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + message = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+microchip": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Microchip = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+micrometer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Micrometer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+modem": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Modem = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+morse-code": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Morse Code = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+name": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + name = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+neon-sign": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Neon Sign = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+netflix": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Netflix = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+neuralink": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Neuralink = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+notification": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Notification = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+nuclear-reactor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Nuclear Reactor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+open-source": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Open Source = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+oscillator": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Oscillator = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+periscope": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Periscope = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+phishing": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Phishing = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+piezoelectric": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Piezoelectric = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+pixel": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Pixel = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+pneumatic": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Pneumatic = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+potentiometer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Potentiometer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+power-grid": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Power Grid = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+press": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + press = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+printing": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Printing = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+privacy": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Privacy = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+processor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Processor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+product": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + product = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+program": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Program = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+propane-tank": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Propane Tank = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+python": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Python = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+qr-code": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + QR Code = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+radiator": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Radiator = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+ram": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + RAM = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+ransomware": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Ransomware = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+recursion": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Recursion = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+relay": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Relay = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+remote": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Remote = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+resistor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Resistor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+resolution": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Resolution = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+router": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Router = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+saas": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + SaaS = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+self-driving-car": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Self Driving Car = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+semiconductor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Semiconductor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+sensor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Sensor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+signal": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Signal = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+sim-card": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + SIM Card = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+smart-home": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Smart Home = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+snowmobile": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Snowmobile = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+social-media": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Social Media = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+software": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + software = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+sort": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Sort = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+spacex": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + SpaceX = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+spam": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Spam = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+speaker": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Speaker = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+spotify": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Spotify = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+stable-diffusion": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Stable Diffusion = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+steam-engine": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Steam Engine = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+supercomputer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Supercomputer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+tablet": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Tablet = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+technology": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + technology = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+telegram": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Telegram = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+teletype": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Teletype = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+tesla": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Tesla = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+thermostat": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Thermostat = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+tor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Tor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+transformer": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Transformer = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+transistor": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Transistor = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+tree-data": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Tree Data = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+troll-internet": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Troll Internet = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+typewriter": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Typewriter = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+upload": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Upload = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+usb": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + USB = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+variable": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Variable = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+version": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Version = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+viral": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Viral = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+vlog": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Vlog = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+voltaic-pile": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Voltaic Pile = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bruschetta+weather-app": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Weather App = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+web3": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Web3 = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+website": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Website = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+wifi": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + WiFi = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+wiki": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Wiki = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+wildlife-camera": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Wildlife Camera = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+wind-turbine": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Wind Turbine = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+x-ray-machine": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + X-Ray Machine = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+xml": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + XML = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "bruschetta+zeppelin": {
+    "result": "stomach-ache",
+    "reasoning": "Bruschetta + Zeppelin = a Stomach Ache. Technology and food: sometimes a match, sometimes a mistake."
+  },
+  "burrito+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "burrito+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "burrito+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "burrito+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "butter+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "butter+kiln": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "butter+water-wheel": {
+    "result": "cream",
+    "reasoning": "Butter emulsified in water creates a silky Cream sauce"
+  },
+  "butter+welding-torch": {
+    "result": "cooking",
+    "reasoning": "Melted butter is the starting point of countless Cooking recipes"
+  },
+  "cake+heat-pump": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "cake+kiln": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "cake+water-wheel": {
+    "result": "pudding",
+    "reasoning": "Cake soaked in water or syrup becomes trifle Pudding"
+  },
+  "cake+welding-torch": {
+    "result": "toast",
+    "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
+  },
+  "candy+heat-pump": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "candy+kiln": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "candy+water-wheel": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "candy+welding-torch": {
+    "result": "caramel",
+    "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "caramel+heat-pump": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caramel+kiln": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caramel+water-wheel": {
+    "result": "candy",
+    "reasoning": "Water added to hot caramel prevents crystallization, Candy chemistry"
+  },
+  "caramel+welding-torch": {
+    "result": "candy",
+    "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
+  },
+  "caviar+heat-pump": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "caviar+kiln": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   }
 }

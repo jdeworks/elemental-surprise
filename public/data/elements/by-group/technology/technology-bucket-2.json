@@ -1,4 +1,896 @@
 {
+  "ram": {
+    "id": "ram",
+    "name": "RAM",
+    "icon": "./icons/technology/ram.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/RAM",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "ransomware": {
+    "id": "ransomware",
+    "name": "Ransomware",
+    "icon": "./icons/technology/ransomware.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ransomware",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "record-player": {
+    "id": "record-player",
+    "name": "Record Player",
+    "icon": "./icons/technology/record-player.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Record_Player",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "recursion": {
+    "id": "recursion",
+    "name": "Recursion",
+    "icon": "./icons/technology/recursion.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Recursion",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "reddit": {
+    "id": "reddit",
+    "name": "Reddit",
+    "icon": "./icons/technology/reddit.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Reddit",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "regex": {
+    "id": "regex",
+    "name": "Regex",
+    "icon": "./icons/technology/regex.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Regex",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "relay": {
+    "id": "relay",
+    "name": "Relay",
+    "icon": "./icons/technology/relay.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Relay",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "remote": {
+    "id": "remote",
+    "name": "Remote",
+    "icon": "./icons/technology/remote.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Remote",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "resistor": {
+    "id": "resistor",
+    "name": "Resistor",
+    "icon": "./icons/technology/resistor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Resistor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "resolution": {
+    "id": "resolution",
+    "name": "Resolution",
+    "icon": "./icons/technology/resolution.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Resolution",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "rest-api": {
+    "id": "rest-api",
+    "name": "REST API",
+    "icon": "./icons/technology/rest-api.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/REST_API",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "robot": {
+    "id": "robot",
+    "name": "Robot",
+    "icon": "./icons/technology/robot.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Robot",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "router": {
+    "id": "router",
+    "name": "Router",
+    "icon": "./icons/technology/router.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Router",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "saas": {
+    "id": "saas",
+    "name": "SaaS",
+    "icon": "./icons/technology/saas.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SaaS",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "screen": {
+    "id": "screen",
+    "name": "screen",
+    "icon": "./icons/technology/screen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/screen",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "scuba": {
+    "id": "scuba",
+    "name": "SCUBA",
+    "icon": "./icons/technology/scuba.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SCUBA",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "search-engine": {
+    "id": "search-engine",
+    "name": "Search Engine",
+    "icon": "./icons/technology/search-engine.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Search_Engine",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "self-driving-car": {
+    "id": "self-driving-car",
+    "name": "Self Driving Car",
+    "icon": "./icons/technology/self-driving-car.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Self_Driving_Car",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "selfie": {
+    "id": "selfie",
+    "name": "Selfie",
+    "icon": "./icons/technology/selfie.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Selfie",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "semiconductor": {
+    "id": "semiconductor",
+    "name": "Semiconductor",
+    "icon": "./icons/technology/semiconductor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Semiconductor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "sensor": {
+    "id": "sensor",
+    "name": "Sensor",
+    "icon": "./icons/technology/sensor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sensor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "server": {
+    "id": "server",
+    "name": "Server",
+    "icon": "./icons/technology/server.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Server",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "share": {
+    "id": "share",
+    "name": "Share",
+    "icon": "./icons/technology/share.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Share",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "signal": {
+    "id": "signal",
+    "name": "Signal",
+    "icon": "./icons/technology/signal.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Signal",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "sim-card": {
+    "id": "sim-card",
+    "name": "SIM Card",
+    "icon": "./icons/technology/sim-card.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SIM_Card",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "siri": {
+    "id": "siri",
+    "name": "Siri",
+    "icon": "./icons/technology/siri.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Siri",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "slack": {
+    "id": "slack",
+    "name": "Slack",
+    "icon": "./icons/technology/slack.svg",
+    "links": [
+      {
+        "url": "https://slack.com/",
+        "label": "Slack"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Slack_(software)",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "smart-contract": {
+    "id": "smart-contract",
+    "name": "Smart Contract",
+    "icon": "./icons/technology/smart-contract.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smart_Contract",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "smart-home": {
+    "id": "smart-home",
+    "name": "Smart Home",
+    "icon": "./icons/technology/smart-home.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smart_Home",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "smart-speaker": {
+    "id": "smart-speaker",
+    "name": "Smart Speaker",
+    "icon": "./icons/technology/smart-speaker.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smart_Speaker",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "smartphone": {
+    "id": "smartphone",
+    "name": "Smartphone",
+    "icon": "./icons/technology/smartphone.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smartphone",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "smartwatch": {
+    "id": "smartwatch",
+    "name": "Smartwatch",
+    "icon": "./icons/technology/smartwatch.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Smartwatch",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "snowmobile": {
+    "id": "snowmobile",
+    "name": "Snowmobile",
+    "icon": "./icons/technology/snowmobile.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Snowmobile",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "social-media": {
+    "id": "social-media",
+    "name": "Social Media",
+    "icon": "./icons/technology/social-media.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Social_Media",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "software": {
+    "id": "software",
+    "name": "software",
+    "icon": "./icons/technology/software.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/software",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "solar-panel": {
+    "id": "solar-panel",
+    "name": "Solar Panel",
+    "icon": "./icons/technology/solar-panel.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Solar_Panel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "sonar": {
+    "id": "sonar",
+    "name": "Sonar",
+    "icon": "./icons/technology/sonar.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sonar",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "sort": {
+    "id": "sort",
+    "name": "Sort",
+    "icon": "./icons/technology/sort.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sort",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "spacex": {
+    "id": "spacex",
+    "name": "SpaceX",
+    "icon": "./icons/technology/spacex.svg",
+    "links": [
+      {
+        "url": "https://www.spacex.com/",
+        "label": "SpaceX"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/SpaceX",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "spam": {
+    "id": "spam",
+    "name": "Spam",
+    "icon": "./icons/technology/spam.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spam",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "speaker": {
+    "id": "speaker",
+    "name": "Speaker",
+    "icon": "./icons/technology/speaker.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Speaker",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "spectroscope": {
+    "id": "spectroscope",
+    "name": "Spectroscope",
+    "icon": "./icons/technology/spectroscope.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Spectroscope",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "spotify": {
+    "id": "spotify",
+    "name": "Spotify",
+    "icon": "./icons/technology/spotify.svg",
+    "links": [
+      {
+        "url": "https://www.spotify.com/",
+        "label": "Spotify"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Spotify",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "ssd": {
+    "id": "ssd",
+    "name": "SSD",
+    "icon": "./icons/technology/ssd.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SSD",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "stable-diffusion": {
+    "id": "stable-diffusion",
+    "name": "Stable Diffusion",
+    "icon": "./icons/technology/stable-diffusion.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stable_Diffusion",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "stack": {
+    "id": "stack",
+    "name": "Stack",
+    "icon": "./icons/technology/stack.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stack",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "stack-overflow": {
+    "id": "stack-overflow",
+    "name": "Stack Overflow",
+    "icon": "./icons/technology/stack-overflow.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stack_Overflow",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "stamp": {
+    "id": "stamp",
+    "name": "Stamp",
+    "icon": "./icons/technology/stamp.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stamp",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "starlink": {
+    "id": "starlink",
+    "name": "Starlink",
+    "icon": "./icons/technology/starlink.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Starlink",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "steam-engine": {
+    "id": "steam-engine",
+    "name": "Steam Engine",
+    "icon": "./icons/technology/steam-engine.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Steam_Engine",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "streaming": {
+    "id": "streaming",
+    "name": "Streaming",
+    "icon": "./icons/technology/streaming.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Streaming",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "supercomputer": {
+    "id": "supercomputer",
+    "name": "Supercomputer",
+    "icon": "./icons/technology/supercomputer.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Supercomputer",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "synthesizer": {
+    "id": "synthesizer",
+    "name": "Synthesizer",
+    "icon": "./icons/technology/synthesizer.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Synthesizer",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tablet": {
+    "id": "tablet",
+    "name": "Tablet",
+    "icon": "./icons/technology/tablet.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tablet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "technical-debt": {
+    "id": "technical-debt",
+    "name": "Technical Debt",
+    "icon": "./icons/technology/technical-debt.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Technical_Debt",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "technology": {
+    "id": "technology",
+    "name": "technology",
+    "icon": "./icons/technology/technology.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/technology",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "telegram": {
+    "id": "telegram",
+    "name": "Telegram",
+    "icon": "./icons/technology/telegram.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Telegram",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "telegraph": {
+    "id": "telegraph",
+    "name": "Telegraph",
+    "icon": "./icons/technology/telegraph.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Telegraph",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "telephone": {
+    "id": "telephone",
+    "name": "Telephone",
+    "icon": "./icons/technology/telephone.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Telephone",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "teletype": {
+    "id": "teletype",
+    "name": "Teletype",
+    "icon": "./icons/technology/teletype.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Teletype",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "television": {
+    "id": "television",
+    "name": "Television",
+    "icon": "./icons/technology/television.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Television",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tesla": {
+    "id": "tesla",
+    "name": "Tesla",
+    "icon": "./icons/technology/tesla.svg",
+    "links": [
+      {
+        "url": "https://www.tesla.com/",
+        "label": "Tesla"
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tesla-coil": {
+    "id": "tesla-coil",
+    "name": "Tesla Coil",
+    "icon": "./icons/technology/tesla-coil.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tesla_Coil",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "thermostat": {
+    "id": "thermostat",
+    "name": "Thermostat",
+    "icon": "./icons/technology/thermostat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thermostat",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tiktok": {
+    "id": "tiktok",
+    "name": "TikTok",
+    "icon": "./icons/technology/tiktok.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/TikTok",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tor": {
+    "id": "tor",
+    "name": "Tor",
+    "icon": "./icons/technology/tor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "touchscreen": {
+    "id": "touchscreen",
+    "name": "Touchscreen",
+    "icon": "./icons/technology/touchscreen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Touchscreen",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "transformer": {
+    "id": "transformer",
+    "name": "Transformer",
+    "icon": "./icons/technology/transformer.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Transformer",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "transistor": {
+    "id": "transistor",
+    "name": "Transistor",
+    "icon": "./icons/technology/transistor.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Transistor",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "tree-data": {
+    "id": "tree-data",
+    "name": "Tree Data",
+    "icon": "./icons/technology/tree-data.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tree_Data",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "troll-internet": {
+    "id": "troll-internet",
+    "name": "Troll Internet",
+    "icon": "./icons/technology/troll-internet.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Troll_Internet",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "twitter": {
+    "id": "twitter",
+    "name": "Twitter",
+    "icon": "./icons/technology/twitter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Twitter",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "typewriter": {
+    "id": "typewriter",
+    "name": "Typewriter",
+    "icon": "./icons/technology/typewriter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Typewriter",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
   "uber": {
     "id": "uber",
     "name": "Uber",
@@ -42,6 +934,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/USB",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "vacuum-tube": {
+    "id": "vacuum-tube",
+    "name": "Vacuum Tube",
+    "icon": "./icons/technology/vacuum-tube.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Vacuum_Tube",
         "label": "Wikipedia"
       }
     ],
@@ -95,6 +999,18 @@
     ],
     "group": "Technology"
   },
+  "viral-video": {
+    "id": "viral-video",
+    "name": "Viral Video",
+    "icon": "./icons/technology/viral-video.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Viral_Video",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
   "vlog": {
     "id": "vlog",
     "name": "Vlog",
@@ -114,6 +1030,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Voltage",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "voltaic-pile": {
+    "id": "voltaic-pile",
+    "name": "Voltaic Pile",
+    "icon": "./icons/technology/voltaic-pile.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Voltaic_Pile",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "voltmeter": {
+    "id": "voltmeter",
+    "name": "Voltmeter",
+    "icon": "./icons/technology/voltmeter.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Voltmeter",
         "label": "Wikipedia"
       }
     ],
@@ -143,6 +1083,18 @@
     ],
     "group": "Technology"
   },
+  "water-wheel": {
+    "id": "water-wheel",
+    "name": "Water Wheel",
+    "icon": "./icons/technology/water-wheel.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Water_Wheel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
   "wearable": {
     "id": "wearable",
     "name": "Wearable",
@@ -150,6 +1102,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Wearable",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "weather-app": {
+    "id": "weather-app",
+    "name": "Weather App",
+    "icon": "./icons/technology/weather-app.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Weather_App",
         "label": "Wikipedia"
       }
     ],
@@ -179,6 +1143,18 @@
     ],
     "group": "Technology"
   },
+  "webcam": {
+    "id": "webcam",
+    "name": "Webcam",
+    "icon": "./icons/technology/webcam.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Webcam",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
   "website": {
     "id": "website",
     "name": "Website",
@@ -186,6 +1162,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Website",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "welding-torch": {
+    "id": "welding-torch",
+    "name": "Welding Torch",
+    "icon": "./icons/technology/welding-torch.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Welding_Torch",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "wi-fi": {
+    "id": "wi-fi",
+    "name": "Wi-Fi",
+    "icon": "./icons/technology/wi-fi.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wi-Fi",
         "label": "Wikipedia"
       }
     ],
@@ -227,6 +1227,18 @@
     ],
     "group": "Technology"
   },
+  "wildlife-camera": {
+    "id": "wildlife-camera",
+    "name": "Wildlife Camera",
+    "icon": "./icons/technology/wildlife-camera.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wildlife_Camera",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
   "wind-turbine": {
     "id": "wind-turbine",
     "name": "Wind Turbine",
@@ -246,6 +1258,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Windows_OS",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "x-ray-machine": {
+    "id": "x-ray-machine",
+    "name": "X-Ray Machine",
+    "icon": "./icons/technology/x-ray-machine.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/X-Ray_Machine",
         "label": "Wikipedia"
       }
     ],
@@ -274,6 +1298,18 @@
       },
       {
         "url": "https://en.wikipedia.org/wiki/YouTube",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Technology"
+  },
+  "zeppelin": {
+    "id": "zeppelin",
+    "name": "Zeppelin",
+    "icon": "./icons/technology/zeppelin.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Zeppelin",
         "label": "Wikipedia"
       }
     ],

@@ -1,14 +1,882 @@
 {
+  "agent-framework+chain": {
+    "result": "chain-of-thought",
+    "reasoning": "Combine Chain with Agent Framework to create Chain of Thought."
+  },
+  "ai-art+canvas": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating canvas in 3D."
+  },
+  "ai-art+paint": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Paint in 3D."
+  },
+  "ai-generated-art+canvas": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating canvas in 3D."
+  },
+  "ai-generated-art+paint": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Paint in 3D."
+  },
+  "ai+alabaster": {
+    "result": "smart-material",
+    "reasoning": "AI + Alabaster = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+alloy": {
+    "result": "smart-material",
+    "reasoning": "AI + Alloy = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+aluminum": {
+    "result": "smart-material",
+    "reasoning": "AI + Aluminum = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+amber": {
+    "result": "smart-material",
+    "reasoning": "AI + Amber = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+armor": {
+    "result": "smart-material",
+    "reasoning": "AI + Armor = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+asphalt": {
+    "result": "smart-material",
+    "reasoning": "AI + Asphalt = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+basalt": {
+    "result": "smart-material",
+    "reasoning": "AI + Basalt = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+bauxite": {
+    "result": "smart-material",
+    "reasoning": "AI + Bauxite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+bitumen": {
+    "result": "smart-material",
+    "reasoning": "AI + Bitumen = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+blade": {
+    "result": "smart-material",
+    "reasoning": "AI + Blade = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+bone-ash": {
+    "result": "smart-material",
+    "reasoning": "AI + Bone Ash = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+bone-china": {
+    "result": "smart-material",
+    "reasoning": "AI + Bone China = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+brass": {
+    "result": "smart-material",
+    "reasoning": "AI + Brass = Smart Material. The material remembers its shape. Spooky."
+  },
   "ai+brick": {
-    "result": "smart-home",
-    "reasoning": "Someone mixed AI with Brick for science. The peer-reviewed conclusion: Smart Home."
+    "result": "smart-material",
+    "reasoning": "AI + Brick = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+bronze": {
+    "result": "smart-material",
+    "reasoning": "AI + Bronze = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+burlap": {
+    "result": "smart-material",
+    "reasoning": "AI + Burlap = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+calico": {
+    "result": "smart-material",
+    "reasoning": "AI + Calico = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+candle": {
+    "result": "smart-material",
+    "reasoning": "AI + Candle = Smart Material. The material remembers its shape. Spooky."
   },
   "ai+canvas": {
-    "result": "ai-art",
-    "reasoning": "When AI and canvas collide, logic takes a coffee break and AI Art appears anyway."
+    "result": "3d-model",
+    "reasoning": "AI creating canvas in 3D."
   },
-  "deep-learning+paper": {
-    "result": "large-language-model",
-    "reasoning": "Deep Learning tags in with Paper, and somehow the universe speedruns Large Language Model."
+  "ai+cardboard": {
+    "result": "smart-material",
+    "reasoning": "AI + Cardboard = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cashmere": {
+    "result": "smart-material",
+    "reasoning": "AI + Cashmere = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cellophane": {
+    "result": "smart-material",
+    "reasoning": "AI + Cellophane = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cement": {
+    "result": "smart-material",
+    "reasoning": "AI + Cement = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+ceramic": {
+    "result": "smart-material",
+    "reasoning": "AI + Ceramic = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+chain": {
+    "result": "smart-material",
+    "reasoning": "AI + Chain = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+chalk": {
+    "result": "smart-material",
+    "reasoning": "AI + Chalk = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+chamois": {
+    "result": "smart-material",
+    "reasoning": "AI + Chamois = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+charcoal": {
+    "result": "smart-material",
+    "reasoning": "AI + Charcoal = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+chrome": {
+    "result": "smart-material",
+    "reasoning": "AI + Chrome = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cinderblock": {
+    "result": "smart-material",
+    "reasoning": "AI + Cinderblock = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+clinker": {
+    "result": "smart-material",
+    "reasoning": "AI + Clinker = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+coal": {
+    "result": "smart-material",
+    "reasoning": "AI + Coal = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cobalt": {
+    "result": "smart-material",
+    "reasoning": "AI + Cobalt = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+coil": {
+    "result": "smart-material",
+    "reasoning": "AI + coil = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+concrete": {
+    "result": "smart-material",
+    "reasoning": "AI + Concrete = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+copper": {
+    "result": "smart-material",
+    "reasoning": "AI + Copper = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cork": {
+    "result": "smart-material",
+    "reasoning": "AI + Cork = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+cotton": {
+    "result": "smart-material",
+    "reasoning": "AI + Cotton = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+crystal": {
+    "result": "smart-material",
+    "reasoning": "AI + Crystal = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+damask": {
+    "result": "smart-material",
+    "reasoning": "AI + Damask = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+denim": {
+    "result": "smart-material",
+    "reasoning": "AI + Denim = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+diamond": {
+    "result": "smart-material",
+    "reasoning": "AI + Diamond = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+dry-ice": {
+    "result": "smart-material",
+    "reasoning": "AI + Dry Ice = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+dye": {
+    "result": "smart-material",
+    "reasoning": "AI + Dye = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+dynamite": {
+    "result": "smart-material",
+    "reasoning": "AI + Dynamite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+e-waste": {
+    "result": "smart-material",
+    "reasoning": "AI + E-Waste = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+electroplate": {
+    "result": "smart-material",
+    "reasoning": "AI + Electroplate = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+enamel": {
+    "result": "smart-material",
+    "reasoning": "AI + Enamel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+epoxy": {
+    "result": "smart-material",
+    "reasoning": "AI + Epoxy = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fabric": {
+    "result": "smart-material",
+    "reasoning": "AI + Fabric = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fat": {
+    "result": "smart-material",
+    "reasoning": "AI + fat = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+felt": {
+    "result": "smart-material",
+    "reasoning": "AI + Felt = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fiber": {
+    "result": "smart-material",
+    "reasoning": "AI + fiber = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fiberglass": {
+    "result": "smart-material",
+    "reasoning": "AI + Fiberglass = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+firebrick": {
+    "result": "smart-material",
+    "reasoning": "AI + Firebrick = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+firework": {
+    "result": "smart-material",
+    "reasoning": "AI + Firework = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fleece": {
+    "result": "smart-material",
+    "reasoning": "AI + Fleece = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+flint": {
+    "result": "smart-material",
+    "reasoning": "AI + Flint = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+foam": {
+    "result": "smart-material",
+    "reasoning": "AI + Foam = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+food-packaging": {
+    "result": "smart-material",
+    "reasoning": "AI + Food Packaging = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fossil": {
+    "result": "smart-material",
+    "reasoning": "AI + Fossil = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+fullerene": {
+    "result": "smart-material",
+    "reasoning": "AI + Fullerene = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+galvanized-steel": {
+    "result": "smart-material",
+    "reasoning": "AI + Galvanized Steel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+gel": {
+    "result": "smart-material",
+    "reasoning": "AI + Gel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+gem": {
+    "result": "smart-material",
+    "reasoning": "AI + Gem = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+glass": {
+    "result": "smart-material",
+    "reasoning": "AI + Glass = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+glue": {
+    "result": "smart-material",
+    "reasoning": "AI + Glue = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+gold": {
+    "result": "smart-material",
+    "reasoning": "AI + Gold = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+granite": {
+    "result": "smart-material",
+    "reasoning": "AI + Granite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+graphene": {
+    "result": "smart-material",
+    "reasoning": "AI + Graphene = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+graphite": {
+    "result": "smart-material",
+    "reasoning": "AI + Graphite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+gunpowder": {
+    "result": "smart-material",
+    "reasoning": "AI + Gunpowder = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+gutta-percha": {
+    "result": "smart-material",
+    "reasoning": "AI + Gutta-Percha = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+hemp": {
+    "result": "smart-material",
+    "reasoning": "AI + Hemp = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+ingot": {
+    "result": "smart-material",
+    "reasoning": "AI + Ingot = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+ink": {
+    "result": "smart-material",
+    "reasoning": "AI + Ink = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+iron": {
+    "result": "smart-material",
+    "reasoning": "AI + Iron = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+ivory": {
+    "result": "smart-material",
+    "reasoning": "AI + Ivory = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+jute": {
+    "result": "smart-material",
+    "reasoning": "AI + Jute = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+kaolin": {
+    "result": "smart-material",
+    "reasoning": "AI + Kaolin = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+kevlar": {
+    "result": "smart-material",
+    "reasoning": "AI + Kevlar = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+lacquer": {
+    "result": "smart-material",
+    "reasoning": "AI + Lacquer = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+latex": {
+    "result": "smart-material",
+    "reasoning": "AI + Latex = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+lead": {
+    "result": "smart-material",
+    "reasoning": "AI + Lead = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+leather": {
+    "result": "smart-material",
+    "reasoning": "AI + Leather = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+lens": {
+    "result": "smart-material",
+    "reasoning": "AI + Lens = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+limestone": {
+    "result": "smart-material",
+    "reasoning": "AI + Limestone = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+linen": {
+    "result": "smart-material",
+    "reasoning": "AI + Linen = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+magma": {
+    "result": "smart-material",
+    "reasoning": "AI + Magma = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+marble": {
+    "result": "smart-material",
+    "reasoning": "AI + Marble = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+medallion": {
+    "result": "smart-material",
+    "reasoning": "AI + Medallion = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+metal": {
+    "result": "smart-material",
+    "reasoning": "AI + metal = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+mica": {
+    "result": "smart-material",
+    "reasoning": "AI + Mica = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+mineral": {
+    "result": "smart-material",
+    "reasoning": "AI + Mineral = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+mirror": {
+    "result": "smart-material",
+    "reasoning": "AI + Mirror = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+mortar": {
+    "result": "smart-material",
+    "reasoning": "AI + Mortar = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+nacre": {
+    "result": "smart-material",
+    "reasoning": "AI + Nacre = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+nail": {
+    "result": "smart-material",
+    "reasoning": "AI + Nail = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+natural-gas": {
+    "result": "smart-material",
+    "reasoning": "AI + Natural Gas = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+net": {
+    "result": "smart-material",
+    "reasoning": "AI + Net = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+nickel": {
+    "result": "smart-material",
+    "reasoning": "AI + Nickel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+nylon": {
+    "result": "smart-material",
+    "reasoning": "AI + Nylon = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+oil": {
+    "result": "smart-material",
+    "reasoning": "AI + Oil = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+organza": {
+    "result": "smart-material",
+    "reasoning": "AI + Organza = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+paint": {
+    "result": "3d-model",
+    "reasoning": "AI creating Paint in 3D."
+  },
+  "ai+paper": {
+    "result": "smart-material",
+    "reasoning": "AI + Paper = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+papyrus": {
+    "result": "smart-material",
+    "reasoning": "AI + Papyrus = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+parchment": {
+    "result": "smart-material",
+    "reasoning": "AI + Parchment = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+paste": {
+    "result": "smart-material",
+    "reasoning": "AI + Paste = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+permafrost": {
+    "result": "smart-material",
+    "reasoning": "AI + Permafrost = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+petroleum": {
+    "result": "smart-material",
+    "reasoning": "AI + Petroleum = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+pewter": {
+    "result": "smart-material",
+    "reasoning": "AI + Pewter = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+pigment": {
+    "result": "smart-material",
+    "reasoning": "AI + Pigment = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+plank": {
+    "result": "smart-material",
+    "reasoning": "AI + plank = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+plaster": {
+    "result": "smart-material",
+    "reasoning": "AI + Plaster = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+plastic": {
+    "result": "smart-material",
+    "reasoning": "AI + Plastic = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+platinum": {
+    "result": "smart-material",
+    "reasoning": "AI + Platinum = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+plywood": {
+    "result": "smart-material",
+    "reasoning": "AI + Plywood = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+porcelain": {
+    "result": "smart-material",
+    "reasoning": "AI + Porcelain = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+prism": {
+    "result": "smart-material",
+    "reasoning": "AI + Prism = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+pulp": {
+    "result": "smart-material",
+    "reasoning": "AI + Pulp = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+pumice": {
+    "result": "smart-material",
+    "reasoning": "AI + Pumice = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+quartz": {
+    "result": "smart-material",
+    "reasoning": "AI + Quartz = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+quicklite": {
+    "result": "smart-material",
+    "reasoning": "AI + Quicklite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+rattan": {
+    "result": "smart-material",
+    "reasoning": "AI + Rattan = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+raw-material": {
+    "result": "smart-material",
+    "reasoning": "AI + Raw Material = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+rayon": {
+    "result": "smart-material",
+    "reasoning": "AI + Rayon = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+rope": {
+    "result": "smart-material",
+    "reasoning": "AI + Rope = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+rubber": {
+    "result": "smart-material",
+    "reasoning": "AI + Rubber = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+rust": {
+    "result": "smart-material",
+    "reasoning": "AI + Rust = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+sail": {
+    "result": "smart-material",
+    "reasoning": "AI + Sail = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+sandstone": {
+    "result": "smart-material",
+    "reasoning": "AI + Sandstone = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+satin": {
+    "result": "smart-material",
+    "reasoning": "AI + Satin = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+scrap-heap": {
+    "result": "smart-material",
+    "reasoning": "AI + Scrap Heap = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+shale": {
+    "result": "smart-material",
+    "reasoning": "AI + Shale = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+shield": {
+    "result": "smart-material",
+    "reasoning": "AI + Shield = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+silicon": {
+    "result": "smart-material",
+    "reasoning": "AI + Silicon = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+silicone": {
+    "result": "smart-material",
+    "reasoning": "AI + Silicone = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+silk": {
+    "result": "smart-material",
+    "reasoning": "AI + Silk = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+silver": {
+    "result": "smart-material",
+    "reasoning": "AI + Silver = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+slate": {
+    "result": "smart-material",
+    "reasoning": "AI + Slate = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+soap": {
+    "result": "smart-material",
+    "reasoning": "AI + Soap = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+soil": {
+    "result": "smart-material",
+    "reasoning": "AI + Soil = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+solder": {
+    "result": "smart-material",
+    "reasoning": "AI + Solder = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+steel": {
+    "result": "smart-material",
+    "reasoning": "AI + Steel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+suede": {
+    "result": "smart-material",
+    "reasoning": "AI + Suede = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+taffeta": {
+    "result": "smart-material",
+    "reasoning": "AI + Taffeta = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+tar": {
+    "result": "smart-material",
+    "reasoning": "AI + Tar = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+taxidermy": {
+    "result": "smart-material",
+    "reasoning": "AI + Taxidermy = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+teflon": {
+    "result": "smart-material",
+    "reasoning": "AI + Teflon = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+terracotta": {
+    "result": "smart-material",
+    "reasoning": "AI + Terracotta = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+thread": {
+    "result": "smart-material",
+    "reasoning": "AI + Thread = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+tin": {
+    "result": "smart-material",
+    "reasoning": "AI + Tin = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+titanium": {
+    "result": "smart-material",
+    "reasoning": "AI + Titanium = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+tungsten": {
+    "result": "smart-material",
+    "reasoning": "AI + Tungsten = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+tweed": {
+    "result": "smart-material",
+    "reasoning": "AI + Tweed = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+varnish": {
+    "result": "smart-material",
+    "reasoning": "AI + Varnish = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+velvet": {
+    "result": "smart-material",
+    "reasoning": "AI + Velvet = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+vermiculite": {
+    "result": "smart-material",
+    "reasoning": "AI + Vermiculite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+wax": {
+    "result": "smart-material",
+    "reasoning": "AI + wax = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+wire": {
+    "result": "smart-material",
+    "reasoning": "AI + Wire = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+wool": {
+    "result": "smart-material",
+    "reasoning": "AI + Wool = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+yarn": {
+    "result": "smart-material",
+    "reasoning": "AI + Yarn = Smart Material. The material remembers its shape. Spooky."
+  },
+  "ai+zinc": {
+    "result": "smart-material",
+    "reasoning": "AI + Zinc = Smart Material. The material remembers its shape. Spooky."
+  },
+  "alloy+decision-tree": {
+    "result": "axe",
+    "reasoning": "Alloy head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "alloy+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Alloy shaped by Jimmy Art — a Sculpture."
+  },
+  "aluminum+decision-tree": {
+    "result": "axe",
+    "reasoning": "Aluminum head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "aluminum+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Aluminum shaped by Jimmy Art — a Sculpture."
+  },
+  "big-data+glass": {
+    "result": "magnifying-glass",
+    "reasoning": "Combine Glass with Big Data to create Magnifying Glass."
+  },
+  "bone-china+fine-tuning": {
+    "result": "porcelain",
+    "reasoning": "Combine Bone China with Fine Tuning to create Porcelain."
+  },
+  "brass+decision-tree": {
+    "result": "axe",
+    "reasoning": "Brass head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "brass+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Brass shaped by Jimmy Art — a Sculpture."
+  },
+  "bronze+decision-tree": {
+    "result": "axe",
+    "reasoning": "Bronze head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "bronze+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Bronze shaped by Jimmy Art — a Sculpture."
+  },
+  "canvas+jimmy-art": {
+    "result": "tapestry",
+    "reasoning": "canvas woven as Jimmy Art — a Tapestry."
+  },
+  "chrome+decision-tree": {
+    "result": "axe",
+    "reasoning": "Chrome head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "chrome+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Chrome shaped by Jimmy Art — a Sculpture."
+  },
+  "cobalt+decision-tree": {
+    "result": "axe",
+    "reasoning": "Cobalt head on Decision Tree handle = Axe — humanity's oldest composite tool."
+  },
+  "cobalt+jimmy-art": {
+    "result": "sculpture",
+    "reasoning": "Cobalt shaped by Jimmy Art — a Sculpture."
+  },
+  "code-generation+paint": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Paint in 3D."
+  },
+  "copilot+copper": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Copper = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+cork": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Cork = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+cotton": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Cotton = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+crystal": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Crystal = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+damask": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Damask = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+diamond": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Diamond = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+dry-ice": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Dry Ice = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+dye": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Dye = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+dynamite": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Dynamite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+electroplate": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Electroplate = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+epoxy": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Epoxy = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+fabric": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Fabric = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+fiber": {
+    "result": "smart-material",
+    "reasoning": "Copilot + fiber = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+fiberglass": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Fiberglass = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+firebrick": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Firebrick = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+firework": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Firework = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+flint": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Flint = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+foam": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Foam = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+food-packaging": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Food Packaging = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+fossil": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Fossil = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+galvanized-steel": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Galvanized Steel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+gel": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Gel = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+glass": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Glass = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+glue": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Glue = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+gold": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Gold = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+granite": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Granite = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+gunpowder": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Gunpowder = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+gutta-percha": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Gutta-Percha = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+ingot": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Ingot = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+iron": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Iron = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+ivory": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Ivory = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+kaolin": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Kaolin = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+kevlar": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Kevlar = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+lacquer": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Lacquer = Smart Material. The material remembers its shape. Spooky."
+  },
+  "copilot+lead": {
+    "result": "smart-material",
+    "reasoning": "Copilot + Lead = Smart Material. The material remembers its shape. Spooky."
   }
 }

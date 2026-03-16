@@ -1,294 +1,882 @@
 {
+  "absurdity+alchemist": {
+    "result": "altruism",
+    "reasoning": "Combine Absurdity with Alchemist to create Altruism."
+  },
+  "absurdity+altruism": {
+    "result": "epiphany",
+    "reasoning": "Combine Absurdity with Altruism to create Epiphany."
+  },
+  "absurdity+ambition": {
+    "result": "altruism",
+    "reasoning": "Combine Absurdity with Ambition to create Altruism."
+  },
+  "absurdity+anger": {
+    "result": "altruism",
+    "reasoning": "Combine Absurdity with Anger to create Altruism."
+  },
+  "absurdity+anxiety": {
+    "result": "epiphany",
+    "reasoning": "Combine Absurdity with Anxiety to create Epiphany."
+  },
+  "absurdity+apothecary": {
+    "result": "epiphany",
+    "reasoning": "Combine Absurdity with Apothecary to create Epiphany."
+  },
+  "absurdity+archaeologist": {
+    "result": "generosity",
+    "reasoning": "Combine Absurdity with Archaeologist to create Generosity."
+  },
+  "absurdity+assassin": {
+    "result": "generosity",
+    "reasoning": "Combine Absurdity with Assassin to create Generosity."
+  },
+  "absurdity+awe": {
+    "result": "generosity",
+    "reasoning": "Combine Absurdity with Awe to create Generosity."
+  },
+  "absurdity+baker": {
+    "result": "honor",
+    "reasoning": "Combine Absurdity with Baker to create Honor."
+  },
+  "absurdity+barber": {
+    "result": "honor",
+    "reasoning": "Combine Absurdity with Barber to create Honor."
+  },
+  "absurdity+bard": {
+    "result": "honor",
+    "reasoning": "Combine Absurdity with Bard to create Honor."
+  },
+  "absurdity+belief": {
+    "result": "redemption",
+    "reasoning": "Combine Absurdity with Belief to create Redemption."
+  },
+  "absurdity+betrayal": {
+    "result": "redemption",
+    "reasoning": "Combine Absurdity with Betrayal to create Redemption."
+  },
+  "absurdity+blacksmith": {
+    "result": "redemption",
+    "reasoning": "Combine Absurdity with Blacksmith to create Redemption."
+  },
+  "absurdity+bliss": {
+    "result": "triumph",
+    "reasoning": "Combine Absurdity with Bliss to create Triumph."
+  },
+  "absurdity+blood": {
+    "result": "triumph",
+    "reasoning": "Combine Absurdity with Blood to create Triumph."
+  },
+  "absurdity+body": {
+    "result": "triumph",
+    "reasoning": "Combine Absurdity with Body to create Triumph."
+  },
+  "absurdity+conscience": {
+    "result": "virtue",
+    "reasoning": "Combine Conscience with Absurdity to create Virtue."
+  },
+  "absurdity+deja-vu": {
+    "result": "obsession",
+    "reasoning": "Combine Deja Vu with Absurdity to create Obsession."
+  },
+  "absurdity+envy": {
+    "result": "temptation",
+    "reasoning": "Combine Envy with Absurdity to create Temptation."
+  },
+  "absurdity+memory": {
+    "result": "legacy",
+    "reasoning": "Combine Memory with Absurdity to create Legacy."
+  },
+  "absurdity+sense": {
+    "result": "intuition",
+    "reasoning": "Combine Sense with Absurdity to create Intuition."
+  },
+  "absurdity+serenity": {
+    "result": "mindfulness",
+    "reasoning": "Combine Serenity with Absurdity to create Mindfulness."
+  },
+  "alchemist+anger": {
+    "result": "resentment",
+    "reasoning": "Combine Anger with Alchemist to create Resentment."
+  },
+  "alchemist+conscience": {
+    "result": "virtue",
+    "reasoning": "Combine Conscience with Alchemist to create Virtue."
+  },
+  "alchemist+doubt": {
+    "result": "skepticism",
+    "reasoning": "Combine Doubt with Alchemist to create Skepticism."
+  },
+  "alchemist+emotion": {
+    "result": "awe",
+    "reasoning": "Combine Emotion with Alchemist to create Awe."
+  },
+  "alchemist+envy": {
+    "result": "temptation",
+    "reasoning": "Combine Envy with Alchemist to create Temptation."
+  },
+  "alchemist+human": {
+    "result": "ambition",
+    "reasoning": "Combine Human with Alchemist to create Ambition."
+  },
+  "alchemist+idea": {
+    "result": "inspiration",
+    "reasoning": "Combine Idea with Alchemist to create Inspiration."
+  },
+  "alchemist+sense": {
+    "result": "intuition",
+    "reasoning": "Combine Sense with Alchemist to create Intuition."
+  },
+  "alchemist+serenity": {
+    "result": "mindfulness",
+    "reasoning": "Combine Serenity with Alchemist to create Mindfulness."
+  },
+  "ambition+anxiety": {
+    "result": "determination",
+    "reasoning": "Combine Ambition with Anxiety to create Determination."
+  },
+  "ambition+apothecary": {
+    "result": "paramedic",
+    "reasoning": "Combine Apothecary with Ambition to create Paramedic."
+  },
+  "ambition+compassion": {
+    "result": "determination",
+    "reasoning": "Combine Ambition with Compassion to create Determination."
+  },
+  "ambition+contentment": {
+    "result": "diplomat",
+    "reasoning": "Combine Contentment with Ambition to create Diplomat."
+  },
+  "ambition+determination": {
+    "result": "stubbornness",
+    "reasoning": "Combine Determination with Ambition to create Stubbornness."
+  },
+  "ambition+diver": {
+    "result": "plumber",
+    "reasoning": "Combine Diver with Ambition to create Plumber."
+  },
+  "ambition+doubt": {
+    "result": "skepticism",
+    "reasoning": "Combine Doubt with Ambition to create Skepticism."
+  },
+  "ambition+emotion": {
+    "result": "awe",
+    "reasoning": "Combine Emotion with Ambition to create Awe."
+  },
+  "ambition+empathy": {
+    "result": "compassion",
+    "reasoning": "Combine Empathy with Ambition to create Compassion."
+  },
+  "ambition+free-will": {
+    "result": "determination",
+    "reasoning": "Combine Ambition with Free Will to create Determination."
+  },
+  "ambition+hope": {
+    "result": "despair",
+    "reasoning": "Combine Hope with Ambition to create Despair."
+  },
+  "ambition+human": {
+    "result": "anxiety",
+    "reasoning": "Combine Human with Ambition to create Anxiety."
+  },
+  "ambition+idea": {
+    "result": "inspiration",
+    "reasoning": "Combine Idea with Ambition to create Inspiration."
+  },
+  "anger+anger": {
+    "result": "war",
+    "reasoning": "Anger meeting anger escalates to war — conflict amplified"
+  },
+  "anger+awe": {
+    "result": "frustration",
+    "reasoning": "Combine Anger with Awe to create Frustration."
+  },
+  "anger+emotion": {
+    "result": "awe",
+    "reasoning": "Combine Emotion with Anger to create Awe."
+  },
+  "anger+envy": {
+    "result": "frustration",
+    "reasoning": "Combine Anger with Envy to create Frustration."
+  },
+  "anger+euphoria": {
+    "result": "frustration",
+    "reasoning": "Combine Anger with Euphoria to create Frustration."
+  },
+  "anger+frustration": {
+    "result": "resentment",
+    "reasoning": "Combine Anger with Frustration to create Resentment."
+  },
   "anger+human": {
     "result": "villain",
     "reasoning": "Through mystical forces, Anger and human become Villain"
   },
-  "anger+sadness": {
-    "result": "cyberbullying",
-    "reasoning": "Anger teams up with Sadness; the side quest reward is Cyberbullying."
-  },
-  "blood+human": {
-    "result": "vampire",
-    "reasoning": "Through mystical forces, Blood and human become Vampire"
-  },
-  "blood+intelligence": {
-    "result": "vampire",
-    "reasoning": "Blood tags in with intelligence, and somehow the universe speedruns Vampire."
-  },
-  "body+brain": {
-    "result": "sense",
-    "reasoning": "The human experience of Body and Brain manifests as Sense"
-  },
-  "body+happiness": {
-    "result": "sport",
-    "reasoning": "Body plus Happiness is the weird recipe your alchemist friend swears by for making sport."
-  },
-  "body+human": {
-    "result": "sense",
-    "reasoning": "Body plus human is the weird recipe your alchemist friend swears by for making Sense."
-  },
-  "body+skin": {
-    "result": "touch",
-    "reasoning": "Someone mixed Body with skin for science. The peer-reviewed conclusion: Touch."
-  },
-  "body+thought": {
-    "result": "action",
-    "reasoning": "Body combined with Thought leads to action"
-  },
-  "bone+brain": {
-    "result": "head",
-    "reasoning": "The human experience of Bone and Brain manifests as head"
-  },
-  "bone+human": {
-    "result": "head",
-    "reasoning": "Bone meets human, chaos files a memo, and head walks out with the trophy."
-  },
-  "brain+dream": {
-    "result": "imagination",
-    "reasoning": "Brain tags in with Dream, and somehow the universe speedruns imagination."
-  },
-  "brain+emotion": {
-    "result": "sentiment-analysis",
-    "reasoning": "Brain plus Emotion is the weird recipe your alchemist friend swears by for making Sentiment Analysis."
-  },
-  "brain+happiness": {
-    "result": "humor",
-    "reasoning": "Someone mixed Brain with Happiness for science. The peer-reviewed conclusion: humor."
-  },
-  "brain+heart": {
-    "result": "emotion",
-    "reasoning": "Brain teams up with Heart; the side quest reward is Emotion."
-  },
-  "brain+human": {
-    "result": "head",
-    "reasoning": "Brain tags in with human, and somehow the universe speedruns head."
-  },
-  "brain+imagination": {
-    "result": "creativity",
-    "reasoning": "Brain and imagination shake hands, reality shrugs, and Creativity is suddenly canon."
-  },
-  "brain+sense": {
-    "result": "multimodal-ai",
-    "reasoning": "Brain tags in with Sense, and somehow the universe speedruns Multimodal AI."
-  },
-  "brain+sight": {
-    "result": "computer-vision",
-    "reasoning": "Brain meets Sight, chaos files a memo, and Computer Vision walks out with the trophy."
-  },
-  "brain+skin": {
-    "result": "touch",
-    "reasoning": "Brain and skin accidentally host a crossover episode; Touch steals the finale."
-  },
-  "brain+speech": {
-    "result": "word",
-    "reasoning": "When Brain and Speech collide, logic takes a coffee break and Word appears anyway."
-  },
-  "brain+thought": {
-    "result": "idea",
-    "reasoning": "Brain and Thought shake hands, reality shrugs, and Idea is suddenly canon."
-  },
-  "child+family": {
-    "result": "community",
-    "reasoning": "Child teams up with Family; the side quest reward is Community."
-  },
-  "consciousness+sense": {
-    "result": "reality",
-    "reasoning": "Consciousness plus Sense is the weird recipe your alchemist friend swears by for making Reality."
-  },
-  "consciousness+thought": {
-    "result": "free-will",
-    "reasoning": "Consciousness tags in with Thought, and somehow the universe speedruns Free Will."
-  },
-  "courage+human": {
-    "result": "hero",
-    "reasoning": "Through mystical forces, courage and human become hero"
-  },
-  "courage+idea": {
-    "result": "pioneer",
-    "reasoning": "courage tags in with Idea, and somehow the universe speedruns Pioneer."
-  },
-  "courage+intelligence": {
-    "result": "hero",
-    "reasoning": "courage meets intelligence, chaos files a memo, and hero walks out with the trophy."
-  },
-  "creativity+human": {
-    "result": "art",
-    "reasoning": "Creativity and human create art"
-  },
-  "dream+fear": {
-    "result": "nightmare",
-    "reasoning": "The human experience of Dream and fear manifests as Nightmare"
-  },
-  "dream+sleep": {
-    "result": "dream",
-    "reasoning": "Dream meets sleep, chaos files a memo, and Dream walks out with the trophy."
-  },
-  "dream+thought": {
-    "result": "imagination",
-    "reasoning": "The human experience of Dream and Thought manifests as imagination"
-  },
-  "emotion+heart": {
-    "result": "courage",
-    "reasoning": "Emotion teams up with Heart; the side quest reward is courage."
-  },
-  "emotion+human": {
-    "result": "play",
-    "reasoning": "Emotion and human accidentally host a crossover episode; play steals the finale."
-  },
-  "emotion+imagination": {
-    "result": "drama",
-    "reasoning": "Emotion and imagination shake hands, reality shrugs, and Drama is suddenly canon."
-  },
-  "emotion+thought": {
-    "result": "emoji",
-    "reasoning": "Emotion and Thought shake hands, reality shrugs, and Emoji is suddenly canon."
-  },
-  "faith+thought": {
-    "result": "belief",
-    "reasoning": "The human experience of Faith and Thought manifests as Belief"
-  },
-  "family+family": {
-    "result": "community",
-    "reasoning": "Family and Family together shape Community"
-  },
-  "fear+heart": {
-    "result": "courage",
-    "reasoning": "The human experience of fear and Heart manifests as courage"
-  },
-  "fear+love": {
-    "result": "courage",
-    "reasoning": "When fear and Love collide, logic takes a coffee break and courage appears anyway."
-  },
-  "fear+sleep": {
-    "result": "nightmare",
-    "reasoning": "fear and sleep accidentally host a crossover episode; Nightmare steals the finale."
-  },
-  "fear+thought": {
-    "result": "nightmare",
-    "reasoning": "Someone mixed fear with Thought for science. The peer-reviewed conclusion: Nightmare."
-  },
-  "happiness+human": {
-    "result": "play",
-    "reasoning": "Happiness and human create play"
-  },
-  "happiness+idea": {
-    "result": "joke",
-    "reasoning": "Happiness meets Idea, chaos files a memo, and Joke walks out with the trophy."
-  },
-  "happiness+intelligence": {
-    "result": "play",
-    "reasoning": "Someone mixed Happiness with intelligence for science. The peer-reviewed conclusion: play."
-  },
-  "happiness+thought": {
-    "result": "humor",
-    "reasoning": "Happiness and Thought create humor"
-  },
-  "heart+human": {
-    "result": "love",
-    "reasoning": "The human experience of Heart and human manifests as Love"
-  },
-  "heart+intelligence": {
-    "result": "love",
-    "reasoning": "Heart meets intelligence, chaos files a memo, and Love walks out with the trophy."
-  },
-  "heart+thought": {
-    "result": "emotion",
-    "reasoning": "The human experience of Heart and Thought manifests as Emotion"
-  },
-  "hope+thought": {
-    "result": "belief",
-    "reasoning": "Someone mixed Hope with Thought for science. The peer-reviewed conclusion: Belief."
-  },
-  "human+human": {
-    "result": "child",
-    "reasoning": "The human experience of human and human manifests as Child"
-  },
-  "human+idea": {
-    "result": "startup",
-    "reasoning": "human plus Idea is the weird recipe your alchemist friend swears by for making Startup."
-  },
-  "human+imagination": {
-    "result": "author",
-    "reasoning": "human and imagination accidentally host a crossover episode; Author steals the finale."
-  },
-  "human+intelligence": {
-    "result": "child",
-    "reasoning": "When human and intelligence collide, logic takes a coffee break and Child appears anyway."
-  },
-  "human+love": {
-    "result": "friend",
-    "reasoning": "Applying human to Love produces friend"
-  },
-  "human+speech": {
-    "result": "conversation",
-    "reasoning": "human enhanced with Speech creates conversation"
-  },
-  "human+thought": {
-    "result": "brain",
-    "reasoning": "The human experience of human and Thought manifests as Brain"
-  },
-  "human+wisdom": {
-    "result": "philosopher",
-    "reasoning": "human tags in with Wisdom, and somehow the universe speedruns Philosopher."
-  },
-  "idea+speech": {
-    "result": "story",
-    "reasoning": "Idea and Speech accidentally host a crossover episode; Story steals the finale."
-  },
-  "imagination+sleep": {
-    "result": "dream",
-    "reasoning": "The human experience of imagination and sleep manifests as Dream"
-  },
-  "imagination+thought": {
-    "result": "creativity",
-    "reasoning": "The human experience of imagination and Thought manifests as Creativity"
-  },
-  "intelligence+love": {
-    "result": "friend",
-    "reasoning": "intelligence tags in with Love, and somehow the universe speedruns friend."
-  },
-  "intelligence+speech": {
-    "result": "conversation",
-    "reasoning": "intelligence and Speech accidentally host a crossover episode; conversation steals the finale."
-  },
-  "intelligence+thought": {
-    "result": "philosophy",
-    "reasoning": "intelligence meets Thought, chaos files a memo, and Philosophy walks out with the trophy."
-  },
-  "love+thought": {
-    "result": "emotion",
-    "reasoning": "Love and Thought shake hands, reality shrugs, and Emotion is suddenly canon."
-  },
-  "sense+skin": {
-    "result": "touch",
-    "reasoning": "The human experience of Sense and skin manifests as Touch"
-  },
-  "sleep+thought": {
-    "result": "imagination",
-    "reasoning": "sleep and Thought shake hands, reality shrugs, and imagination is suddenly canon."
-  },
-  "speech+speech": {
-    "result": "debate",
-    "reasoning": "Speech combined with Speech leads to Debate"
-  },
-  "speech+thought": {
-    "result": "word",
-    "reasoning": "Speech combined with Thought leads to Word"
-  },
-  "speech+voice": {
-    "result": "debate",
-    "reasoning": "Speech tags in with voice, and somehow the universe speedruns Debate."
-  },
-  "thought+thought": {
-    "result": "idea",
-    "reasoning": "Two thoughts combining spark a new idea"
-  },
-  "thought+voice": {
-    "result": "speech",
-    "reasoning": "Thought expressed through voice becomes speech"
-  },
-  "thought+wisdom": {
-    "result": "philosophy",
-    "reasoning": "Thought combined with Wisdom leads to Philosophy"
+  "anger+idea": {
+    "result": "inspiration",
+    "reasoning": "Combine Idea with Anger to create Inspiration."
+  },
+  "anger+prejudice": {
+    "result": "resentment",
+    "reasoning": "Combine Anger with Prejudice to create Resentment."
+  },
+  "anxiety+apothecary": {
+    "result": "paramedic",
+    "reasoning": "Combine Apothecary with Anxiety to create Paramedic."
+  },
+  "anxiety+determination": {
+    "result": "stubbornness",
+    "reasoning": "Combine Determination with Anxiety to create Stubbornness."
+  },
+  "anxiety+emotion": {
+    "result": "euphoria",
+    "reasoning": "Combine Emotion with Anxiety to create Euphoria."
+  },
+  "anxiety+empathy": {
+    "result": "compassion",
+    "reasoning": "Combine Empathy with Anxiety to create Compassion."
+  },
+  "anxiety+hope": {
+    "result": "despair",
+    "reasoning": "Combine Hope with Anxiety to create Despair."
+  },
+  "anxiety+human": {
+    "result": "contentment",
+    "reasoning": "Combine Human with Anxiety to create Contentment."
+  },
+  "apothecary+archaeologist": {
+    "result": "pharmacist",
+    "reasoning": "Combine Apothecary with Archaeologist to create Pharmacist."
+  },
+  "apothecary+arts-and-crafts": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Arts and Crafts and now everyone's having an Existential Crisis."
+  },
+  "apothecary+assassin": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Assassin and now everyone's having an Existential Crisis."
+  },
+  "apothecary+awe": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Awe and now everyone's having an Existential Crisis."
+  },
+  "apothecary+baker": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Baker and now everyone's having an Existential Crisis."
+  },
+  "apothecary+barber": {
+    "result": "veterinarian",
+    "reasoning": "Combine Apothecary with Barber to create Veterinarian."
+  },
+  "apothecary+bard": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Bard and now everyone's having an Existential Crisis."
+  },
+  "apothecary+belief": {
+    "result": "placebo",
+    "reasoning": "Combine Belief with Apothecary to create Placebo."
+  },
+  "apothecary+betrayal": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Betrayal and now everyone's having an Existential Crisis."
+  },
+  "apothecary+blacksmith": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Blacksmith and now everyone's having an Existential Crisis."
+  },
+  "apothecary+bliss": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Bliss and now everyone's having an Existential Crisis."
+  },
+  "apothecary+blood": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Blood and now everyone's having an Existential Crisis."
+  },
+  "apothecary+body": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Body and now everyone's having an Existential Crisis."
+  },
+  "apothecary+bone": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Bone and now everyone's having an Existential Crisis."
+  },
+  "apothecary+boredom": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Boredom and now everyone's having an Existential Crisis."
+  },
+  "apothecary+brain": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Brain and now everyone's having an Existential Crisis."
+  },
+  "apothecary+brewer": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Brewer and now everyone's having an Existential Crisis."
+  },
+  "apothecary+butcher": {
+    "result": "surgeon",
+    "reasoning": "Combine Apothecary with Butcher to create Surgeon."
+  },
+  "apothecary+camping": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Camping and now everyone's having an Existential Crisis."
+  },
+  "apothecary+carpenter": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Carpenter and now everyone's having an Existential Crisis."
+  },
+  "apothecary+cartographer": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Cartographer and now everyone's having an Existential Crisis."
+  },
+  "apothecary+catharsis": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Catharsis and now everyone's having an Existential Crisis."
+  },
+  "apothecary+charisma": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Charisma and now everyone's having an Existential Crisis."
+  },
+  "apothecary+child": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Child and now everyone's having an Existential Crisis."
+  },
+  "apothecary+compassion": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Compassion and now everyone's having an Existential Crisis."
+  },
+  "apothecary+conscience": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Conscience and now everyone's having an Existential Crisis."
+  },
+  "apothecary+consciousness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Consciousness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+contentment": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Contentment and now everyone's having an Existential Crisis."
+  },
+  "apothecary+courage": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets courage and now everyone's having an Existential Crisis."
+  },
+  "apothecary+creativity": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Creativity and now everyone's having an Existential Crisis."
+  },
+  "apothecary+curiosity": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Curiosity and now everyone's having an Existential Crisis."
+  },
+  "apothecary+deja-vu": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Deja Vu and now everyone's having an Existential Crisis."
+  },
+  "apothecary+despair": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Despair and now everyone's having an Existential Crisis."
+  },
+  "apothecary+determination": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Determination and now everyone's having an Existential Crisis."
+  },
+  "apothecary+dilemma": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Dilemma and now everyone's having an Existential Crisis."
+  },
+  "apothecary+diplomat": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Diplomat and now everyone's having an Existential Crisis."
+  },
+  "apothecary+diver": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Diver and now everyone's having an Existential Crisis."
+  },
+  "apothecary+diy-disaster": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets DIY Disaster and now everyone's having an Existential Crisis."
+  },
+  "apothecary+doubt": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Doubt and now everyone's having an Existential Crisis."
+  },
+  "apothecary+dream": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Dream and now everyone's having an Existential Crisis."
+  },
+  "apothecary+ecstasy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Ecstasy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+electrician": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Electrician and now everyone's having an Existential Crisis."
+  },
+  "apothecary+emotion": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Emotion and now everyone's having an Existential Crisis."
+  },
+  "apothecary+empathy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Empathy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+envy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Envy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+epiphany": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Epiphany and now everyone's having an Existential Crisis."
+  },
+  "apothecary+euphoria": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Euphoria and now everyone's having an Existential Crisis."
+  },
+  "apothecary+excitement": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Excitement and now everyone's having an Existential Crisis."
+  },
+  "apothecary+existential-crisis": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Existential Crisis and now everyone's having an Existential Crisis."
+  },
+  "apothecary+eye": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets eye and now everyone's having an Existential Crisis."
+  },
+  "apothecary+faith": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Faith and now everyone's having an Existential Crisis."
+  },
+  "apothecary+family": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Family and now everyone's having an Existential Crisis."
+  },
+  "apothecary+fear": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets fear and now everyone's having an Existential Crisis."
+  },
+  "apothecary+firefighter": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Firefighter and now everyone's having an Existential Crisis."
+  },
+  "apothecary+florist": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Florist and now everyone's having an Existential Crisis."
+  },
+  "apothecary+foot": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets foot and now everyone's having an Existential Crisis."
+  },
+  "apothecary+forgiveness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Forgiveness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+free-will": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Free Will and now everyone's having an Existential Crisis."
+  },
+  "apothecary+frustration": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Frustration and now everyone's having an Existential Crisis."
+  },
+  "apothecary+generosity": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Generosity and now everyone's having an Existential Crisis."
+  },
+  "apothecary+geologist": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Geologist and now everyone's having an Existential Crisis."
+  },
+  "apothecary+glassblower": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Glassblower and now everyone's having an Existential Crisis."
+  },
+  "apothecary+gratitude": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Gratitude and now everyone's having an Existential Crisis."
+  },
+  "apothecary+grief": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Grief and now everyone's having an Existential Crisis."
+  },
+  "apothecary+guard": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Guard and now everyone's having an Existential Crisis."
+  },
+  "apothecary+hand": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets hand and now everyone's having an Existential Crisis."
+  },
+  "apothecary+happiness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Happiness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+head": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets head and now everyone's having an Existential Crisis."
+  },
+  "apothecary+healer": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Healer and now everyone's having an Existential Crisis."
+  },
+  "apothecary+hearing": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Hearing and now everyone's having an Existential Crisis."
+  },
+  "apothecary+heart": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Heart and now everyone's having an Existential Crisis."
+  },
+  "apothecary+honor": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Honor and now everyone's having an Existential Crisis."
+  },
+  "apothecary+hope": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Hope and now everyone's having an Existential Crisis."
+  },
+  "apothecary+human": {
+    "result": "archaeologist",
+    "reasoning": "Combine Human with Apothecary to create Archaeologist."
+  },
+  "apothecary+humility": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Humility and now everyone's having an Existential Crisis."
+  },
+  "apothecary+hunter": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Hunter and now everyone's having an Existential Crisis."
+  },
+  "apothecary+hysteria": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Hysteria and now everyone's having an Existential Crisis."
+  },
+  "apothecary+idea": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Idea and now everyone's having an Existential Crisis."
+  },
+  "apothecary+identity": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Identity and now everyone's having an Existential Crisis."
+  },
+  "apothecary+imagination": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets imagination and now everyone's having an Existential Crisis."
+  },
+  "apothecary+impostor-syndrome": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Impostor Syndrome and now everyone's having an Existential Crisis."
+  },
+  "apothecary+inspiration": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Inspiration and now everyone's having an Existential Crisis."
+  },
+  "apothecary+instinct": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Instinct and now everyone's having an Existential Crisis."
+  },
+  "apothecary+intelligence": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets intelligence and now everyone's having an Existential Crisis."
+  },
+  "apothecary+intuition": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Intuition and now everyone's having an Existential Crisis."
+  },
+  "apothecary+jealousy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Jealousy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+jeweler": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Jeweler and now everyone's having an Existential Crisis."
+  },
+  "apothecary+joy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Joy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+legacy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Legacy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+librarian": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Librarian and now everyone's having an Existential Crisis."
+  },
+  "apothecary+locksmith": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Locksmith and now everyone's having an Existential Crisis."
+  },
+  "apothecary+loneliness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Loneliness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+love": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Love and now everyone's having an Existential Crisis."
+  },
+  "apothecary+loyalty": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Loyalty and now everyone's having an Existential Crisis."
+  },
+  "apothecary+lumberjack": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Lumberjack and now everyone's having an Existential Crisis."
+  },
+  "apothecary+mad-scientist": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Mad Scientist and now everyone's having an Existential Crisis."
+  },
+  "apothecary+man": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Man and now everyone's having an Existential Crisis."
+  },
+  "apothecary+mechanic": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Mechanic and now everyone's having an Existential Crisis."
+  },
+  "apothecary+melancholy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Melancholy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+memory": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Memory and now everyone's having an Existential Crisis."
+  },
+  "apothecary+merchant": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Merchant and now everyone's having an Existential Crisis."
+  },
+  "apothecary+midlife-crisis": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Midlife Crisis and now everyone's having an Existential Crisis."
+  },
+  "apothecary+mindfulness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Mindfulness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+miner": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Miner and now everyone's having an Existential Crisis."
+  },
+  "apothecary+monk": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Monk and now everyone's having an Existential Crisis."
+  },
+  "apothecary+navigator": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Navigator and now everyone's having an Existential Crisis."
+  },
+  "apothecary+nightmare": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Nightmare and now everyone's having an Existential Crisis."
+  },
+  "apothecary+nostalgia": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Nostalgia and now everyone's having an Existential Crisis."
+  },
+  "apothecary+obsession": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Obsession and now everyone's having an Existential Crisis."
+  },
+  "apothecary+office-politics": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Office Politics and now everyone's having an Existential Crisis."
+  },
+  "apothecary+overthinking": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Overthinking and now everyone's having an Existential Crisis."
+  },
+  "apothecary+paramedic": {
+    "result": "pharmacist",
+    "reasoning": "Combine Apothecary with Paramedic to create Pharmacist."
+  },
+  "apothecary+patience": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Patience and now everyone's having an Existential Crisis."
+  },
+  "apothecary+perseverance": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Perseverance and now everyone's having an Existential Crisis."
+  },
+  "apothecary+pharmacist": {
+    "result": "surgeon",
+    "reasoning": "Combine Apothecary with Pharmacist to create Surgeon."
+  },
+  "apothecary+plumber": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Plumber and now everyone's having an Existential Crisis."
+  },
+  "apothecary+population": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets population and now everyone's having an Existential Crisis."
+  },
+  "apothecary+potter": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Potter and now everyone's having an Existential Crisis."
+  },
+  "apothecary+prejudice": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Prejudice and now everyone's having an Existential Crisis."
+  },
+  "apothecary+pride": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Pride and now everyone's having an Existential Crisis."
+  },
+  "apothecary+ranger": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Ranger and now everyone's having an Existential Crisis."
+  },
+  "apothecary+redemption": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Redemption and now everyone's having an Existential Crisis."
+  },
+  "apothecary+regret": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Regret and now everyone's having an Existential Crisis."
+  },
+  "apothecary+resentment": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Resentment and now everyone's having an Existential Crisis."
+  },
+  "apothecary+resilience": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Resilience and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sacrifice": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sacrifice and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sadness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sadness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sailor": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sailor and now everyone's having an Existential Crisis."
+  },
+  "apothecary+screen-addiction": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Screen Addiction and now everyone's having an Existential Crisis."
+  },
+  "apothecary+scribe": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Scribe and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sense": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sense and now everyone's having an Existential Crisis."
+  },
+  "apothecary+serenity": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Serenity and now everyone's having an Existential Crisis."
+  },
+  "apothecary+shame": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Shame and now everyone's having an Existential Crisis."
+  },
+  "apothecary+shepherd": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Shepherd and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sight": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sight and now everyone's having an Existential Crisis."
+  },
+  "apothecary+skepticism": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Skepticism and now everyone's having an Existential Crisis."
+  },
+  "apothecary+skin": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets skin and now everyone's having an Existential Crisis."
+  },
+  "apothecary+sleep": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets sleep and now everyone's having an Existential Crisis."
+  },
+  "apothecary+smell": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Smell and now everyone's having an Existential Crisis."
+  },
+  "apothecary+solace": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Solace and now everyone's having an Existential Crisis."
+  },
+  "apothecary+soul": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Soul and now everyone's having an Existential Crisis."
+  },
+  "apothecary+space-madness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Space Madness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+speech": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Speech and now everyone's having an Existential Crisis."
+  },
+  "apothecary+spy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Spy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+stubbornness": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Stubbornness and now everyone's having an Existential Crisis."
+  },
+  "apothecary+surgeon": {
+    "result": "veterinarian",
+    "reasoning": "Combine Apothecary with Surgeon to create Veterinarian."
+  },
+  "apothecary+sympathy": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Sympathy and now everyone's having an Existential Crisis."
+  },
+  "apothecary+tailor": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Tailor and now everyone's having an Existential Crisis."
+  },
+  "apothecary+taste": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Taste and now everyone's having an Existential Crisis."
+  },
+  "apothecary+taxidermist": {
+    "result": "veterinarian",
+    "reasoning": "Combine Apothecary with Taxidermist to create Veterinarian."
+  },
+  "apothecary+temptation": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Temptation and now everyone's having an Existential Crisis."
+  },
+  "apothecary+thief": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Thief and now everyone's having an Existential Crisis."
+  },
+  "apothecary+thought": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Thought and now everyone's having an Existential Crisis."
+  },
+  "apothecary+touch": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Touch and now everyone's having an Existential Crisis."
+  },
+  "apothecary+trauma": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Trauma and now everyone's having an Existential Crisis."
+  },
+  "apothecary+triumph": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Triumph and now everyone's having an Existential Crisis."
+  },
+  "apothecary+vengeance": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Vengeance and now everyone's having an Existential Crisis."
+  },
+  "apothecary+veterinarian": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Veterinarian and now everyone's having an Existential Crisis."
+  },
+  "apothecary+vigilance": {
+    "result": "existential-crisis",
+    "reasoning": "Apothecary meets Vigilance and now everyone's having an Existential Crisis."
   }
 }

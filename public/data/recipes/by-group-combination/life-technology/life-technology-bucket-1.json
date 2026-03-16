@@ -1,94 +1,882 @@
 {
-  "algorithm+life": {
-    "result": "artificial-intelligence",
-    "reasoning": "Algorithm plus life is the weird recipe your alchemist friend swears by for making Artificial Intelligence."
-  },
-  "app+wood": {
-    "result": "airbnb",
-    "reasoning": "When App and wood collide, logic takes a coffee break and Airbnb appears anyway."
-  },
-  "bacteria+software": {
-    "result": "antivirus",
-    "reasoning": "Bacteria plus software is the weird recipe your alchemist friend swears by for making Antivirus."
-  },
-  "bacteria+solar-panel": {
-    "result": "virus",
-    "reasoning": "Someone mixed Bacteria with Solar Panel for science. The peer-reviewed conclusion: Virus."
-  },
-  "bug+wood": {
-    "result": "debug",
-    "reasoning": "Bug and wood accidentally host a crossover episode; Debug steals the finale."
-  },
-  "computer+fruit": {
-    "result": "apple-company",
-    "reasoning": "A fruit-named computer company — Apple"
-  },
-  "computer+virus": {
-    "result": "antivirus",
-    "reasoning": "Computer meets Virus, chaos files a memo, and Antivirus walks out with the trophy."
-  },
-  "data+plant": {
-    "result": "tree-data",
-    "reasoning": "data and plant accidentally host a crossover episode; Tree Data steals the finale."
-  },
-  "data+tree": {
-    "result": "tree-data",
-    "reasoning": "Applying data to tree produces Tree Data"
-  },
-  "dna+solar-panel": {
-    "result": "mutation",
-    "reasoning": "DNA and Solar Panel accidentally host a crossover episode; Mutation steals the finale."
-  },
-  "electricity+fruit": {
-    "result": "apple-company",
-    "reasoning": "Electricity teams up with Fruit; the side quest reward is Apple Company."
-  },
-  "electronics+life": {
-    "result": "pacemaker",
-    "reasoning": "Someone mixed Electronics with life for science. The peer-reviewed conclusion: Pacemaker."
-  },
-  "fruit+microchip": {
-    "result": "apple-company",
-    "reasoning": "When Fruit and Microchip collide, logic takes a coffee break and Apple Company appears anyway."
-  },
-  "fruit+screen": {
-    "result": "apple-company",
-    "reasoning": "Fruit and screen accidentally host a crossover episode; Apple Company steals the finale."
-  },
-  "fruit+smartphone": {
-    "result": "iphone",
-    "reasoning": "Someone mixed Fruit with Smartphone for science. The peer-reviewed conclusion: iPhone."
-  },
-  "internet+life": {
-    "result": "online",
-    "reasoning": "When internet and life collide, logic takes a coffee break and Online appears anyway."
-  },
-  "internet+wood": {
-    "result": "cybersecurity",
-    "reasoning": "internet plus wood is the weird recipe your alchemist friend swears by for making Cybersecurity."
-  },
-  "life+robot": {
+  "axon+bandwidth": {
     "result": "cyborg",
-    "reasoning": "When life and Robot collide, logic takes a coffee break and Cyborg appears anyway."
+    "reasoning": "Axon + Bandwidth = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   },
-  "life+social-media": {
-    "result": "profile",
-    "reasoning": "life teams up with Social Media; the side quest reward is Profile."
+  "axon+barcode": {
+    "result": "cyborg",
+    "reasoning": "Axon + Barcode = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   },
-  "life+speaker": {
-    "result": "headphone",
-    "reasoning": "life tags in with Speaker, and somehow the universe speedruns Headphone."
+  "axon+battery": {
+    "result": "cyborg",
+    "reasoning": "Axon + Battery = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   },
-  "mail+wood": {
-    "result": "post-office",
-    "reasoning": "Mail teams up with wood; the side quest reward is Post Office."
+  "axon+binary": {
+    "result": "cyborg",
+    "reasoning": "Axon + Binary = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   },
-  "plant+solar-panel": {
-    "result": "green-energy",
-    "reasoning": "plant teams up with Solar Panel; the side quest reward is Green Energy."
+  "axon+bit": {
+    "result": "cyborg",
+    "reasoning": "Axon + Bit = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   },
-  "software+virus": {
-    "result": "antivirus",
-    "reasoning": "Applying software to Virus produces Antivirus"
+  "axon+bitcoin": {
+    "result": "cyborg",
+    "reasoning": "Axon + Bitcoin = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+blockchain": {
+    "result": "cyborg",
+    "reasoning": "Axon + Blockchain = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+blog": {
+    "result": "cyborg",
+    "reasoning": "Axon + blog = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+bluetooth": {
+    "result": "cyborg",
+    "reasoning": "Axon + Bluetooth = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+broadcast": {
+    "result": "cyborg",
+    "reasoning": "Axon + Broadcast = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+browser": {
+    "result": "cyborg",
+    "reasoning": "Axon + Browser = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+bug": {
+    "result": "cyborg",
+    "reasoning": "Axon + Bug = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+button": {
+    "result": "cyborg",
+    "reasoning": "Axon + button = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+byte": {
+    "result": "cyborg",
+    "reasoning": "Axon + Byte = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cable": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cable = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+capacitor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Capacitor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cathode-ray-tube": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cathode Ray Tube = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+celebrity": {
+    "result": "cyborg",
+    "reasoning": "Axon + Celebrity = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+chronometer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Chronometer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+ci-cd": {
+    "result": "cyborg",
+    "reasoning": "Axon + CI CD = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+circuit": {
+    "result": "cyborg",
+    "reasoning": "Axon + Circuit = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+circuit-board": {
+    "result": "cyborg",
+    "reasoning": "Axon + Circuit Board = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+class": {
+    "result": "cyborg",
+    "reasoning": "Axon + Class = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cloud-computing": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cloud Computing = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cloud-storage": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cloud Storage = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+comment": {
+    "result": "cyborg",
+    "reasoning": "Axon + Comment = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+communication": {
+    "result": "cyborg",
+    "reasoning": "Axon + Communication = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+compass-sensor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Compass Sensor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+compiler": {
+    "result": "cyborg",
+    "reasoning": "Axon + Compiler = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+compressor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Compressor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+computer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Computer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+conveyor-belt": {
+    "result": "cyborg",
+    "reasoning": "Axon + Conveyor Belt = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cryptocurrency": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cryptocurrency = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+css": {
+    "result": "cyborg",
+    "reasoning": "Axon + CSS = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+current": {
+    "result": "cyborg",
+    "reasoning": "Axon + Current = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cyberbullying": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cyberbullying = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cybersecurity": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cybersecurity = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+cyborg": {
+    "result": "cyborg",
+    "reasoning": "Axon + Cyborg = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+dao": {
+    "result": "cyborg",
+    "reasoning": "Axon + DAO = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+dark-web": {
+    "result": "cyborg",
+    "reasoning": "Axon + Dark Web = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+dashcam": {
+    "result": "cyborg",
+    "reasoning": "Axon + Dashcam = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+data": {
+    "result": "cyborg",
+    "reasoning": "Axon + data = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+database": {
+    "result": "cyborg",
+    "reasoning": "Axon + Database = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+debug": {
+    "result": "cyborg",
+    "reasoning": "Axon + Debug = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+deception": {
+    "result": "cyborg",
+    "reasoning": "Axon + deception = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+defi": {
+    "result": "cyborg",
+    "reasoning": "Axon + DeFi = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+defibrillator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Defibrillator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+desktop": {
+    "result": "cyborg",
+    "reasoning": "Axon + Desktop = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+devops": {
+    "result": "cyborg",
+    "reasoning": "Axon + DevOps = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+digital": {
+    "result": "cyborg",
+    "reasoning": "Axon + digital = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+diode": {
+    "result": "cyborg",
+    "reasoning": "Axon + Diode = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+discord": {
+    "result": "cyborg",
+    "reasoning": "Axon + Discord = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+docker": {
+    "result": "cyborg",
+    "reasoning": "Axon + Docker = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+domain": {
+    "result": "cyborg",
+    "reasoning": "Axon + Domain = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+download": {
+    "result": "cyborg",
+    "reasoning": "Axon + Download = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+drone": {
+    "result": "cyborg",
+    "reasoning": "Axon + Drone = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+dynamo": {
+    "result": "cyborg",
+    "reasoning": "Axon + Dynamo = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+e-reader": {
+    "result": "cyborg",
+    "reasoning": "Axon + E-Reader = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+edge-computing": {
+    "result": "cyborg",
+    "reasoning": "Axon + Edge Computing = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+electric-car": {
+    "result": "cyborg",
+    "reasoning": "Axon + Electric Car = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+electricity": {
+    "result": "cyborg",
+    "reasoning": "Axon + Electricity = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+electrode": {
+    "result": "cyborg",
+    "reasoning": "Axon + Electrode = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+electronics": {
+    "result": "cyborg",
+    "reasoning": "Axon + Electronics = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+email": {
+    "result": "cyborg",
+    "reasoning": "Axon + Email = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+encryption": {
+    "result": "cyborg",
+    "reasoning": "Axon + Encryption = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+error": {
+    "result": "cyborg",
+    "reasoning": "Axon + error = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+escalator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Escalator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+ethernet": {
+    "result": "cyborg",
+    "reasoning": "Axon + Ethernet = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+fame": {
+    "result": "cyborg",
+    "reasoning": "Axon + fame = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+fax-machine": {
+    "result": "cyborg",
+    "reasoning": "Axon + Fax Machine = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+fiber-optic": {
+    "result": "cyborg",
+    "reasoning": "Axon + Fiber Optic = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+file": {
+    "result": "cyborg",
+    "reasoning": "Axon + File = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+firewall": {
+    "result": "cyborg",
+    "reasoning": "Axon + Firewall = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+flash-drive": {
+    "result": "cyborg",
+    "reasoning": "Axon + Flash Drive = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+flywheel": {
+    "result": "cyborg",
+    "reasoning": "Axon + Flywheel = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+folder": {
+    "result": "cyborg",
+    "reasoning": "Axon + Folder = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+follower": {
+    "result": "cyborg",
+    "reasoning": "Axon + Follower = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+forum": {
+    "result": "cyborg",
+    "reasoning": "Axon + Forum = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+framework": {
+    "result": "cyborg",
+    "reasoning": "Axon + Framework = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+friend": {
+    "result": "cyborg",
+    "reasoning": "Axon + friend = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+fuel-cell": {
+    "result": "cyborg",
+    "reasoning": "Axon + Fuel Cell = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+function": {
+    "result": "cyborg",
+    "reasoning": "Axon + Function = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+gadget": {
+    "result": "cyborg",
+    "reasoning": "Axon + Gadget = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+galvanometer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Galvanometer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+geiger-counter": {
+    "result": "cyborg",
+    "reasoning": "Axon + Geiger Counter = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+git": {
+    "result": "cyborg",
+    "reasoning": "Axon + Git = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+github": {
+    "result": "cyborg",
+    "reasoning": "Axon + GitHub = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+google-maps": {
+    "result": "cyborg",
+    "reasoning": "Axon + Google Maps = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+gps": {
+    "result": "cyborg",
+    "reasoning": "Axon + GPS = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+graphql": {
+    "result": "cyborg",
+    "reasoning": "Axon + GraphQL = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+gyroscope": {
+    "result": "cyborg",
+    "reasoning": "Axon + Gyroscope = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hacker": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hacker = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hacking": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hacking = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hard-drive": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hard Drive = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hash": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hash = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hashtag": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hashtag = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+headphone": {
+    "result": "cyborg",
+    "reasoning": "Axon + Headphone = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+heat-pump": {
+    "result": "cyborg",
+    "reasoning": "Axon + Heat Pump = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hologram": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hologram = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+html": {
+    "result": "cyborg",
+    "reasoning": "Axon + HTML = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+hydraulic-press": {
+    "result": "cyborg",
+    "reasoning": "Axon + Hydraulic Press = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+incubator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Incubator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+influencer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Influencer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+inheritance": {
+    "result": "cyborg",
+    "reasoning": "Axon + Inheritance = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+instagram": {
+    "result": "cyborg",
+    "reasoning": "Axon + Instagram = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+intercom": {
+    "result": "cyborg",
+    "reasoning": "Axon + Intercom = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+interface": {
+    "result": "cyborg",
+    "reasoning": "Axon + Interface = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+internet": {
+    "result": "cyborg",
+    "reasoning": "Axon + internet = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+iot": {
+    "result": "cyborg",
+    "reasoning": "Axon + IoT = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+ip-address": {
+    "result": "cyborg",
+    "reasoning": "Axon + IP Address = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+jackhammer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Jackhammer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+java": {
+    "result": "cyborg",
+    "reasoning": "Axon + Java = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+javascript": {
+    "result": "cyborg",
+    "reasoning": "Axon + JavaScript = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+joystick": {
+    "result": "cyborg",
+    "reasoning": "Axon + Joystick = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+json": {
+    "result": "cyborg",
+    "reasoning": "Axon + JSON = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+keyboard": {
+    "result": "cyborg",
+    "reasoning": "Axon + Keyboard = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+kiln": {
+    "result": "cyborg",
+    "reasoning": "Axon + Kiln = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+kubernetes": {
+    "result": "cyborg",
+    "reasoning": "Axon + Kubernetes = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+laptop": {
+    "result": "cyborg",
+    "reasoning": "Axon + Laptop = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+lathe": {
+    "result": "cyborg",
+    "reasoning": "Axon + Lathe = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+led": {
+    "result": "cyborg",
+    "reasoning": "Axon + LED = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+library-software": {
+    "result": "cyborg",
+    "reasoning": "Axon + Library Software = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+lidar": {
+    "result": "cyborg",
+    "reasoning": "Axon + LIDAR = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+lie": {
+    "result": "cyborg",
+    "reasoning": "Axon + lie = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+like": {
+    "result": "cyborg",
+    "reasoning": "Axon + Like = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+linux": {
+    "result": "cyborg",
+    "reasoning": "Axon + Linux = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+loop": {
+    "result": "cyborg",
+    "reasoning": "Axon + Loop = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+loudspeaker": {
+    "result": "cyborg",
+    "reasoning": "Axon + Loudspeaker = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+magnet": {
+    "result": "cyborg",
+    "reasoning": "Axon + magnet = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+mail": {
+    "result": "cyborg",
+    "reasoning": "Axon + Mail = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+mainframe": {
+    "result": "cyborg",
+    "reasoning": "Axon + Mainframe = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+malware": {
+    "result": "cyborg",
+    "reasoning": "Axon + Malware = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+markdown": {
+    "result": "cyborg",
+    "reasoning": "Axon + Markdown = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+meme": {
+    "result": "cyborg",
+    "reasoning": "Axon + Meme = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+message": {
+    "result": "cyborg",
+    "reasoning": "Axon + message = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+metal-detector": {
+    "result": "cyborg",
+    "reasoning": "Axon + Metal Detector = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+metaverse": {
+    "result": "cyborg",
+    "reasoning": "Axon + Metaverse = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+metronome": {
+    "result": "cyborg",
+    "reasoning": "Axon + Metronome = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+microchip": {
+    "result": "cyborg",
+    "reasoning": "Axon + Microchip = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+micrometer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Micrometer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+microphone": {
+    "result": "cyborg",
+    "reasoning": "Axon + Microphone = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+microservice": {
+    "result": "cyborg",
+    "reasoning": "Axon + Microservice = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+midjourney": {
+    "result": "cyborg",
+    "reasoning": "Axon + Midjourney = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+modem": {
+    "result": "cyborg",
+    "reasoning": "Axon + Modem = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+monitor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Monitor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+morse-code": {
+    "result": "cyborg",
+    "reasoning": "Axon + Morse Code = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+motion-sensor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Motion Sensor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+mouse-device": {
+    "result": "cyborg",
+    "reasoning": "Axon + Mouse Device = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+multimeter": {
+    "result": "cyborg",
+    "reasoning": "Axon + Multimeter = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+name": {
+    "result": "cyborg",
+    "reasoning": "Axon + name = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+navigation": {
+    "result": "cyborg",
+    "reasoning": "Axon + Navigation = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+neon-sign": {
+    "result": "cyborg",
+    "reasoning": "Axon + Neon Sign = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+netflix": {
+    "result": "cyborg",
+    "reasoning": "Axon + Netflix = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+network": {
+    "result": "cyborg",
+    "reasoning": "Axon + Network = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+neural-link": {
+    "result": "cyborg",
+    "reasoning": "Axon + Neural Link = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+neuralink": {
+    "result": "cyborg",
+    "reasoning": "Axon + Neuralink = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+newsletter": {
+    "result": "cyborg",
+    "reasoning": "Axon + Newsletter = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+nft": {
+    "result": "cyborg",
+    "reasoning": "Axon + NFT = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+notification": {
+    "result": "cyborg",
+    "reasoning": "Axon + Notification = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+nuclear-reactor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Nuclear Reactor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+object": {
+    "result": "cyborg",
+    "reasoning": "Axon + Object = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+offline": {
+    "result": "cyborg",
+    "reasoning": "Axon + Offline = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+online": {
+    "result": "cyborg",
+    "reasoning": "Axon + Online = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+open-source": {
+    "result": "cyborg",
+    "reasoning": "Axon + Open Source = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+operating-system": {
+    "result": "cyborg",
+    "reasoning": "Axon + Operating System = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+oscillator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Oscillator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+oscilloscope": {
+    "result": "cyborg",
+    "reasoning": "Axon + Oscilloscope = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+particle-accelerator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Particle Accelerator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+password": {
+    "result": "cyborg",
+    "reasoning": "Axon + Password = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+pattern": {
+    "result": "cyborg",
+    "reasoning": "Axon + pattern = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+periscope": {
+    "result": "cyborg",
+    "reasoning": "Axon + Periscope = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+phishing": {
+    "result": "cyborg",
+    "reasoning": "Axon + Phishing = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+phonograph": {
+    "result": "cyborg",
+    "reasoning": "Axon + Phonograph = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+photodiode": {
+    "result": "cyborg",
+    "reasoning": "Axon + Photodiode = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+piezoelectric": {
+    "result": "cyborg",
+    "reasoning": "Axon + Piezoelectric = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+pixel": {
+    "result": "cyborg",
+    "reasoning": "Axon + Pixel = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+pneumatic": {
+    "result": "cyborg",
+    "reasoning": "Axon + Pneumatic = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+podcast": {
+    "result": "cyborg",
+    "reasoning": "Axon + Podcast = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+polymorphism": {
+    "result": "cyborg",
+    "reasoning": "Axon + Polymorphism = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+post": {
+    "result": "cyborg",
+    "reasoning": "Axon + Post = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+post-office": {
+    "result": "cyborg",
+    "reasoning": "Axon + Post Office = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+potentiometer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Potentiometer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+power-grid": {
+    "result": "cyborg",
+    "reasoning": "Axon + Power Grid = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+power-plant": {
+    "result": "cyborg",
+    "reasoning": "Axon + Power Plant = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+power-strip": {
+    "result": "cyborg",
+    "reasoning": "Axon + Power Strip = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+press": {
+    "result": "cyborg",
+    "reasoning": "Axon + press = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+pressure-cooker": {
+    "result": "cyborg",
+    "reasoning": "Axon + Pressure Cooker = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+printer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Printer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+printing": {
+    "result": "cyborg",
+    "reasoning": "Axon + Printing = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+privacy": {
+    "result": "cyborg",
+    "reasoning": "Axon + Privacy = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+processor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Processor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+product": {
+    "result": "cyborg",
+    "reasoning": "Axon + product = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+profile": {
+    "result": "cyborg",
+    "reasoning": "Axon + Profile = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+program": {
+    "result": "cyborg",
+    "reasoning": "Axon + Program = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+propane-tank": {
+    "result": "cyborg",
+    "reasoning": "Axon + Propane Tank = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+python": {
+    "result": "cyborg",
+    "reasoning": "Axon + Python = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+qr-code": {
+    "result": "cyborg",
+    "reasoning": "Axon + QR Code = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+quantum-computer": {
+    "result": "cyborg",
+    "reasoning": "Axon + Quantum Computer = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+queue": {
+    "result": "cyborg",
+    "reasoning": "Axon + Queue = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+radar": {
+    "result": "cyborg",
+    "reasoning": "Axon + Radar = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+radiator": {
+    "result": "cyborg",
+    "reasoning": "Axon + Radiator = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+radio": {
+    "result": "cyborg",
+    "reasoning": "Axon + Radio = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+ram": {
+    "result": "cyborg",
+    "reasoning": "Axon + RAM = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+ransomware": {
+    "result": "cyborg",
+    "reasoning": "Axon + Ransomware = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+record-player": {
+    "result": "cyborg",
+    "reasoning": "Axon + Record Player = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+recursion": {
+    "result": "cyborg",
+    "reasoning": "Axon + Recursion = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+reddit": {
+    "result": "cyborg",
+    "reasoning": "Axon + Reddit = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+regex": {
+    "result": "cyborg",
+    "reasoning": "Axon + Regex = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+relay": {
+    "result": "cyborg",
+    "reasoning": "Axon + Relay = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+remote": {
+    "result": "cyborg",
+    "reasoning": "Axon + Remote = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+resistor": {
+    "result": "cyborg",
+    "reasoning": "Axon + Resistor = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+resolution": {
+    "result": "cyborg",
+    "reasoning": "Axon + Resolution = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+rest-api": {
+    "result": "cyborg",
+    "reasoning": "Axon + REST API = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+robot": {
+    "result": "cyborg",
+    "reasoning": "Axon + Robot = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+router": {
+    "result": "cyborg",
+    "reasoning": "Axon + Router = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+saas": {
+    "result": "cyborg",
+    "reasoning": "Axon + SaaS = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+screen": {
+    "result": "cyborg",
+    "reasoning": "Axon + screen = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+scuba": {
+    "result": "cyborg",
+    "reasoning": "Axon + SCUBA = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+search-engine": {
+    "result": "cyborg",
+    "reasoning": "Axon + Search Engine = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
+  },
+  "axon+self-driving-car": {
+    "result": "cyborg",
+    "reasoning": "Axon + Self Driving Car = a Cyborg. If you wear glasses, congrats — you're already part cyborg."
   }
 }

@@ -1,4 +1,28 @@
 {
+  "archipelago": {
+    "id": "archipelago",
+    "name": "Archipelago",
+    "icon": "./icons/nature/archipelago.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Archipelago",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "arroyo": {
+    "id": "arroyo",
+    "name": "Arroyo",
+    "icon": "./icons/nature/arroyo.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Arroyo",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "ash": {
     "id": "ash",
     "name": "Ash",
@@ -6,6 +30,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Ash",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "atoll": {
+    "id": "atoll",
+    "name": "Atoll",
+    "icon": "./icons/nature/atoll.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Atoll",
         "label": "Wikipedia"
       }
     ],
@@ -23,6 +59,30 @@
     ],
     "group": "Nature"
   },
+  "badlands": {
+    "id": "badlands",
+    "name": "Badlands",
+    "icon": "./icons/nature/badlands.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Badlands",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "bay": {
+    "id": "bay",
+    "name": "Bay",
+    "icon": "./icons/nature/bay.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bay",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "beach": {
     "id": "beach",
     "name": "Beach",
@@ -30,6 +90,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Beach",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "blizzard": {
+    "id": "blizzard",
+    "name": "Blizzard",
+    "icon": "./icons/nature/blizzard.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Blizzard",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "bog": {
+    "id": "bog",
+    "name": "Bog",
+    "icon": "./icons/nature/bog.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Bog",
         "label": "Wikipedia"
       }
     ],
@@ -47,6 +131,54 @@
     ],
     "group": "Nature"
   },
+  "brine-pool": {
+    "id": "brine-pool",
+    "name": "Brine Pool",
+    "icon": "./icons/nature/brine-pool.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brine_Pool",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "brook": {
+    "id": "brook",
+    "name": "Brook",
+    "icon": "./icons/nature/brook.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Brook",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "butte": {
+    "id": "butte",
+    "name": "Butte",
+    "icon": "./icons/nature/butte.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Butte",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "caldera": {
+    "id": "caldera",
+    "name": "Caldera",
+    "icon": "./icons/nature/caldera.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Caldera",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "canyon": {
     "id": "canyon",
     "name": "Canyon",
@@ -59,6 +191,18 @@
     ],
     "group": "Nature"
   },
+  "cape": {
+    "id": "cape",
+    "name": "Cape",
+    "icon": "./icons/nature/cape.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cape",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "cave": {
     "id": "cave",
     "name": "Cave",
@@ -66,6 +210,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Cave",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "cavern": {
+    "id": "cavern",
+    "name": "Cavern",
+    "icon": "./icons/nature/cavern.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cavern",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "cenote": {
+    "id": "cenote",
+    "name": "Cenote",
+    "icon": "./icons/nature/cenote.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Cenote",
         "label": "Wikipedia"
       }
     ],
@@ -119,6 +287,18 @@
     ],
     "group": "Nature"
   },
+  "composting": {
+    "id": "composting",
+    "name": "Composting",
+    "icon": "./icons/nature/composting.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Composting",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "continent": {
     "id": "continent",
     "name": "continent",
@@ -126,6 +306,54 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/continent",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "coral-reef": {
+    "id": "coral-reef",
+    "name": "Coral Reef",
+    "icon": "./icons/nature/coral-reef.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Coral_Reef",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "crater": {
+    "id": "crater",
+    "name": "Crater",
+    "icon": "./icons/nature/crater.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Crater",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "creek": {
+    "id": "creek",
+    "name": "Creek",
+    "icon": "./icons/nature/creek.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Creek",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "crevasse": {
+    "id": "crevasse",
+    "name": "Crevasse",
+    "icon": "./icons/nature/crevasse.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Crevasse",
         "label": "Wikipedia"
       }
     ],
@@ -174,6 +402,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Drought",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "drumlin": {
+    "id": "drumlin",
+    "name": "Drumlin",
+    "icon": "./icons/nature/drumlin.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Drumlin",
         "label": "Wikipedia"
       }
     ],
@@ -263,6 +503,66 @@
     ],
     "group": "Nature"
   },
+  "escarpment": {
+    "id": "escarpment",
+    "name": "Escarpment",
+    "icon": "./icons/nature/escarpment.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Escarpment",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "estuary": {
+    "id": "estuary",
+    "name": "Estuary",
+    "icon": "./icons/nature/estuary.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Estuary",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "evergreen": {
+    "id": "evergreen",
+    "name": "Evergreen",
+    "icon": "./icons/nature/evergreen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Evergreen",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "falls": {
+    "id": "falls",
+    "name": "Falls",
+    "icon": "./icons/nature/falls.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Falls",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "fen": {
+    "id": "fen",
+    "name": "Fen",
+    "icon": "./icons/nature/fen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fen",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "fire": {
     "id": "fire",
     "name": "Fire",
@@ -275,6 +575,18 @@
     ],
     "group": "Nature"
   },
+  "fjord": {
+    "id": "fjord",
+    "name": "Fjord",
+    "icon": "./icons/nature/fjord.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fjord",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "flood": {
     "id": "flood",
     "name": "Flood",
@@ -282,6 +594,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Flood",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "floodplain": {
+    "id": "floodplain",
+    "name": "Floodplain",
+    "icon": "./icons/nature/floodplain.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Floodplain",
         "label": "Wikipedia"
       }
     ],
@@ -311,6 +635,18 @@
     ],
     "group": "Nature"
   },
+  "fumarole": {
+    "id": "fumarole",
+    "name": "Fumarole",
+    "icon": "./icons/nature/fumarole.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Fumarole",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "geyser": {
     "id": "geyser",
     "name": "Geyser",
@@ -318,6 +654,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Geyser",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "glacial-lake": {
+    "id": "glacial-lake",
+    "name": "Glacial Lake",
+    "icon": "./icons/nature/glacial-lake.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Glacial_Lake",
         "label": "Wikipedia"
       }
     ],
@@ -335,6 +683,18 @@
     ],
     "group": "Nature"
   },
+  "gorge": {
+    "id": "gorge",
+    "name": "Gorge",
+    "icon": "./icons/nature/gorge.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gorge",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "gravel": {
     "id": "gravel",
     "name": "Gravel",
@@ -342,6 +702,54 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Gravel",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "grotto": {
+    "id": "grotto",
+    "name": "Grotto",
+    "icon": "./icons/nature/grotto.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grotto",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "grove": {
+    "id": "grove",
+    "name": "Grove",
+    "icon": "./icons/nature/grove.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Grove",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "gulf": {
+    "id": "gulf",
+    "name": "Gulf",
+    "icon": "./icons/nature/gulf.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Gulf",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "habitat": {
+    "id": "habitat",
+    "name": "Habitat",
+    "icon": "./icons/nature/habitat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Habitat",
         "label": "Wikipedia"
       }
     ],
@@ -371,6 +779,18 @@
     ],
     "group": "Nature"
   },
+  "heath": {
+    "id": "heath",
+    "name": "Heath",
+    "icon": "./icons/nature/heath.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Heath",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "hill": {
     "id": "hill",
     "name": "hill",
@@ -378,6 +798,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/hill",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "hoodoo": {
+    "id": "hoodoo",
+    "name": "Hoodoo",
+    "icon": "./icons/nature/hoodoo.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Hoodoo",
         "label": "Wikipedia"
       }
     ],
@@ -443,6 +875,54 @@
     ],
     "group": "Nature"
   },
+  "isthmus": {
+    "id": "isthmus",
+    "name": "Isthmus",
+    "icon": "./icons/nature/isthmus.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Isthmus",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "karst": {
+    "id": "karst",
+    "name": "Karst",
+    "icon": "./icons/nature/karst.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Karst",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "kelp-forest": {
+    "id": "kelp-forest",
+    "name": "Kelp Forest",
+    "icon": "./icons/nature/kelp-forest.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Kelp_Forest",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "lagoon": {
+    "id": "lagoon",
+    "name": "Lagoon",
+    "icon": "./icons/nature/lagoon.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lagoon",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "lake": {
     "id": "lake",
     "name": "Lake",
@@ -491,6 +971,42 @@
     ],
     "group": "Nature"
   },
+  "lava-field": {
+    "id": "lava-field",
+    "name": "Lava Field",
+    "icon": "./icons/nature/lava-field.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lava_Field",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "lava-tube": {
+    "id": "lava-tube",
+    "name": "Lava Tube",
+    "icon": "./icons/nature/lava-tube.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lava_Tube",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "lichen": {
+    "id": "lichen",
+    "name": "Lichen",
+    "icon": "./icons/nature/lichen.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Lichen",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "lightning": {
     "id": "lightning",
     "name": "Lightning",
@@ -503,6 +1019,54 @@
     ],
     "group": "Nature"
   },
+  "maelstrom": {
+    "id": "maelstrom",
+    "name": "Maelstrom",
+    "icon": "./icons/nature/maelstrom.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Maelstrom",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "mangrove": {
+    "id": "mangrove",
+    "name": "Mangrove",
+    "icon": "./icons/nature/mangrove.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mangrove",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "marsh": {
+    "id": "marsh",
+    "name": "Marsh",
+    "icon": "./icons/nature/marsh.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Marsh",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "mesa": {
+    "id": "mesa",
+    "name": "Mesa",
+    "icon": "./icons/nature/mesa.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mesa",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "mist": {
     "id": "mist",
     "name": "Mist",
@@ -510,6 +1074,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Mist",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "moraine": {
+    "id": "moraine",
+    "name": "Moraine",
+    "icon": "./icons/nature/moraine.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Moraine",
         "label": "Wikipedia"
       }
     ],
@@ -534,6 +1110,66 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Mud",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "mudflat": {
+    "id": "mudflat",
+    "name": "Mudflat",
+    "icon": "./icons/nature/mudflat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mudflat",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "mudslide": {
+    "id": "mudslide",
+    "name": "Mudslide",
+    "icon": "./icons/nature/mudslide.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Mudslide",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "muskeg": {
+    "id": "muskeg",
+    "name": "Muskeg",
+    "icon": "./icons/nature/muskeg.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Muskeg",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "national-park": {
+    "id": "national-park",
+    "name": "National Park",
+    "icon": "./icons/nature/national-park.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/National_Park",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "nature-documentary": {
+    "id": "nature-documentary",
+    "name": "Nature Documentary",
+    "icon": "./icons/nature/nature-documentary.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Nature_Documentary",
         "label": "Wikipedia"
       }
     ],
@@ -575,6 +1211,18 @@
     ],
     "group": "Nature"
   },
+  "peat": {
+    "id": "peat",
+    "name": "Peat",
+    "icon": "./icons/nature/peat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peat",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "pebble": {
     "id": "pebble",
     "name": "Pebble",
@@ -582,6 +1230,54 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Pebble",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "peninsula": {
+    "id": "peninsula",
+    "name": "Peninsula",
+    "icon": "./icons/nature/peninsula.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Peninsula",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "phytoplankton-bloom": {
+    "id": "phytoplankton-bloom",
+    "name": "Phytoplankton Bloom",
+    "icon": "./icons/nature/phytoplankton-bloom.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Phytoplankton_Bloom",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "plateau": {
+    "id": "plateau",
+    "name": "Plateau",
+    "icon": "./icons/nature/plateau.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Plateau",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "prairie": {
+    "id": "prairie",
+    "name": "Prairie",
+    "icon": "./icons/nature/prairie.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Prairie",
         "label": "Wikipedia"
       }
     ],
@@ -647,6 +1343,42 @@
     ],
     "group": "Nature"
   },
+  "rainforest": {
+    "id": "rainforest",
+    "name": "Rainforest",
+    "icon": "./icons/nature/rainforest.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rainforest",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "rapids": {
+    "id": "rapids",
+    "name": "Rapids",
+    "icon": "./icons/nature/rapids.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rapids",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "ravine": {
+    "id": "ravine",
+    "name": "Ravine",
+    "icon": "./icons/nature/ravine.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ravine",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "reef": {
     "id": "reef",
     "name": "Reef",
@@ -654,6 +1386,30 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Reef",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "ridge": {
+    "id": "ridge",
+    "name": "Ridge",
+    "icon": "./icons/nature/ridge.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Ridge",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "rift-valley": {
+    "id": "rift-valley",
+    "name": "Rift Valley",
+    "icon": "./icons/nature/rift-valley.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Rift_Valley",
         "label": "Wikipedia"
       }
     ],
@@ -671,6 +1427,18 @@
     ],
     "group": "Nature"
   },
+  "salt-flat": {
+    "id": "salt-flat",
+    "name": "Salt Flat",
+    "icon": "./icons/nature/salt-flat.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Salt_Flat",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "sand": {
     "id": "sand",
     "name": "Sand",
@@ -678,6 +1446,90 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Sand",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "sand-bar": {
+    "id": "sand-bar",
+    "name": "Sand Bar",
+    "icon": "./icons/nature/sand-bar.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sand_Bar",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "sand-storm": {
+    "id": "sand-storm",
+    "name": "Sand Storm",
+    "icon": "./icons/nature/sand-storm.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sand_Storm",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "savanna": {
+    "id": "savanna",
+    "name": "Savanna",
+    "icon": "./icons/nature/savanna.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Savanna",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "scrubland": {
+    "id": "scrubland",
+    "name": "Scrubland",
+    "icon": "./icons/nature/scrubland.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Scrubland",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "sea-cave": {
+    "id": "sea-cave",
+    "name": "Sea Cave",
+    "icon": "./icons/nature/sea-cave.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sea_Cave",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "sea-stack": {
+    "id": "sea-stack",
+    "name": "Sea Stack",
+    "icon": "./icons/nature/sea-stack.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sea_Stack",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "sinkhole": {
+    "id": "sinkhole",
+    "name": "Sinkhole",
+    "icon": "./icons/nature/sinkhole.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Sinkhole",
         "label": "Wikipedia"
       }
     ],
@@ -707,6 +1559,30 @@
     ],
     "group": "Nature"
   },
+  "stalactite": {
+    "id": "stalactite",
+    "name": "Stalactite",
+    "icon": "./icons/nature/stalactite.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stalactite",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "stalagmite": {
+    "id": "stalagmite",
+    "name": "Stalagmite",
+    "icon": "./icons/nature/stalagmite.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stalagmite",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "steam": {
     "id": "steam",
     "name": "Steam",
@@ -714,6 +1590,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Steam",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "steppe": {
+    "id": "steppe",
+    "name": "Steppe",
+    "icon": "./icons/nature/steppe.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Steppe",
         "label": "Wikipedia"
       }
     ],
@@ -743,6 +1631,18 @@
     ],
     "group": "Nature"
   },
+  "strait": {
+    "id": "strait",
+    "name": "Strait",
+    "icon": "./icons/nature/strait.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Strait",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "stream": {
     "id": "stream",
     "name": "stream",
@@ -767,6 +1667,54 @@
     ],
     "group": "Nature"
   },
+  "taiga": {
+    "id": "taiga",
+    "name": "Taiga",
+    "icon": "./icons/nature/taiga.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Taiga",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "thermal-pool": {
+    "id": "thermal-pool",
+    "name": "Thermal Pool",
+    "icon": "./icons/nature/thermal-pool.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thermal_Pool",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "thermal-vent": {
+    "id": "thermal-vent",
+    "name": "Thermal Vent",
+    "icon": "./icons/nature/thermal-vent.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thermal_Vent",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "thicket": {
+    "id": "thicket",
+    "name": "Thicket",
+    "icon": "./icons/nature/thicket.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Thicket",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "thunder": {
     "id": "thunder",
     "name": "Thunder",
@@ -779,6 +1727,30 @@
     ],
     "group": "Nature"
   },
+  "tide": {
+    "id": "tide",
+    "name": "Tide",
+    "icon": "./icons/nature/tide.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tide",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "tide-pool": {
+    "id": "tide-pool",
+    "name": "Tide Pool",
+    "icon": "./icons/nature/tide-pool.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tide_Pool",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "tornado": {
     "id": "tornado",
     "name": "Tornado",
@@ -786,6 +1758,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Tornado",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "tributary": {
+    "id": "tributary",
+    "name": "Tributary",
+    "icon": "./icons/nature/tributary.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Tributary",
         "label": "Wikipedia"
       }
     ],
@@ -815,6 +1799,18 @@
     ],
     "group": "Nature"
   },
+  "undergrowth": {
+    "id": "undergrowth",
+    "name": "Undergrowth",
+    "icon": "./icons/nature/undergrowth.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Undergrowth",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "valley": {
     "id": "valley",
     "name": "Valley",
@@ -822,6 +1818,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Valley",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "volcanic-island": {
+    "id": "volcanic-island",
+    "name": "Volcanic Island",
+    "icon": "./icons/nature/volcanic-island.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Volcanic_Island",
         "label": "Wikipedia"
       }
     ],
@@ -875,6 +1883,42 @@
     ],
     "group": "Nature"
   },
+  "wetland": {
+    "id": "wetland",
+    "name": "Wetland",
+    "icon": "./icons/nature/wetland.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wetland",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "whirlpool": {
+    "id": "whirlpool",
+    "name": "Whirlpool",
+    "icon": "./icons/nature/whirlpool.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Whirlpool",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "wilderness": {
+    "id": "wilderness",
+    "name": "Wilderness",
+    "icon": "./icons/nature/wilderness.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wilderness",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
   "wildfire": {
     "id": "wildfire",
     "name": "Wildfire",
@@ -882,6 +1926,18 @@
     "links": [
       {
         "url": "https://en.wikipedia.org/wiki/Wildfire",
+        "label": "Wikipedia"
+      }
+    ],
+    "group": "Nature"
+  },
+  "wildlife": {
+    "id": "wildlife",
+    "name": "Wildlife",
+    "icon": "./icons/nature/wildlife.svg",
+    "links": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Wildlife",
         "label": "Wikipedia"
       }
     ],

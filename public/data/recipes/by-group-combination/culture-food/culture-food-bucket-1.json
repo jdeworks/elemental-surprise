@@ -1,38 +1,882 @@
 {
-  "animation+rice": {
-    "result": "anime",
-    "reasoning": "Animation meets rice, chaos files a memo, and Anime walks out with the trophy."
+  "aioli+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "air+egg-food": {
+    "result": "meringue",
+    "reasoning": "Combine Egg Food with Air to create Meringue."
+  },
+  "air+meringue": {
+    "result": "foam",
+    "reasoning": "Combine Air with Meringue to create Foam."
+  },
+  "air+mousse": {
+    "result": "foam",
+    "reasoning": "Combine Air with Mousse to create Foam."
+  },
+  "alcohol+apple-company": {
+    "result": "cider",
+    "reasoning": "Combine Apple Company with Alcohol to create Cider."
+  },
+  "alcohol+house": {
+    "result": "tavern",
+    "reasoning": "A house with alcohol becomes a Tavern"
+  },
+  "alcohol+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "apple-company+egg-food": {
+    "result": "cider",
+    "reasoning": "Combine Apple Company with Egg Food to create Cider."
+  },
+  "apple-company+food": {
+    "result": "cider",
+    "reasoning": "Combine Apple Company with Food to create Cider."
   },
   "art+wine": {
     "result": "italy",
     "reasoning": "art and wine together shape Italy"
   },
-  "drawing+rice": {
-    "result": "manga",
-    "reasoning": "Drawing meets rice, chaos files a memo, and Manga walks out with the trophy."
+  "astronaut-food+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "farm+house": {
-    "result": "barn",
-    "reasoning": "Combining farm with house makes delicious Barn"
+  "bagel+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "food+house": {
-    "result": "kitchen",
-    "reasoning": "food and house create Kitchen"
+  "baklava+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "pizza+stadium": {
-    "result": "colosseum",
-    "reasoning": "Pizza tags in with Stadium, and somehow the universe speedruns Colosseum."
+  "barn+bio-art": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Bio Art — a Museum."
   },
-  "rice+sport": {
-    "result": "karate",
-    "reasoning": "rice tags in with sport, and somehow the universe speedruns Karate."
+  "barn+calligraphy": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Calligraphy — a Museum."
   },
-  "rice+wall": {
-    "result": "great-wall",
-    "reasoning": "rice teams up with Wall; the side quest reward is Great Wall."
+  "barn+church": {
+    "result": "temple",
+    "reasoning": "A Barn for Church — a Temple."
   },
-  "stadium+wine": {
-    "result": "colosseum",
-    "reasoning": "Someone mixed Stadium with wine for science. The peer-reviewed conclusion: Colosseum."
+  "barn+drawing": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Drawing — a Museum."
+  },
+  "barn+easel": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Easel — a Museum."
+  },
+  "barn+fresco": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Fresco — a Museum."
+  },
+  "barn+graffiti": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Graffiti — a Museum."
+  },
+  "barn+mosaic": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Mosaic — a Museum."
+  },
+  "barn+mural": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Mural — a Museum."
+  },
+  "barn+origami": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Origami — a Museum."
+  },
+  "barn+pixel-art": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Pixel Art — a Museum."
+  },
+  "barn+pop-art": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Pop Art — a Museum."
+  },
+  "barn+science-fiction": {
+    "result": "library",
+    "reasoning": "A Barn filled with Science Fiction — a Library."
+  },
+  "barn+sculpture": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Sculpture — a Museum."
+  },
+  "barn+temple": {
+    "result": "cathedral",
+    "reasoning": "A grand Barn for Temple — a Cathedral."
+  },
+  "barn+watercolor": {
+    "result": "museum",
+    "reasoning": "A Barn preserving Watercolor — a Museum."
+  },
+  "barn+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "batter+well": {
+    "result": "crepe",
+    "reasoning": "Thinning batter with water creates delicate Crepe batter"
+  },
+  "beauty+biscuit": {
+    "result": "food-festival",
+    "reasoning": "beauty + Biscuit = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+brewing": {
+    "result": "food-festival",
+    "reasoning": "beauty + Brewing = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+brioche": {
+    "result": "food-festival",
+    "reasoning": "beauty + Brioche = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+bruschetta": {
+    "result": "food-festival",
+    "reasoning": "beauty + Bruschetta = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+candy": {
+    "result": "food-festival",
+    "reasoning": "beauty + Candy = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+caramel": {
+    "result": "food-festival",
+    "reasoning": "beauty + Caramel = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+chili": {
+    "result": "food-festival",
+    "reasoning": "beauty + Chili = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+chutney": {
+    "result": "food-festival",
+    "reasoning": "beauty + Chutney = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+cookie": {
+    "result": "food-festival",
+    "reasoning": "beauty + Cookie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+crepe": {
+    "result": "food-festival",
+    "reasoning": "beauty + Crepe = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+eggnog": {
+    "result": "food-festival",
+    "reasoning": "beauty + Eggnog = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+farm": {
+    "result": "food-festival",
+    "reasoning": "beauty + farm = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+food": {
+    "result": "food-festival",
+    "reasoning": "beauty + food = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+gelatin": {
+    "result": "food-festival",
+    "reasoning": "beauty + Gelatin = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+greenhouse": {
+    "result": "food-festival",
+    "reasoning": "beauty + Greenhouse = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+gyoza": {
+    "result": "food-festival",
+    "reasoning": "beauty + Gyoza = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+hamburger": {
+    "result": "food-festival",
+    "reasoning": "beauty + Hamburger = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+juice": {
+    "result": "food-festival",
+    "reasoning": "beauty + Juice = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+macaroni": {
+    "result": "food-festival",
+    "reasoning": "beauty + Macaroni = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+maple-syrup": {
+    "result": "food-festival",
+    "reasoning": "beauty + Maple Syrup = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+matcha": {
+    "result": "food-festival",
+    "reasoning": "beauty + Matcha = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+mcdonalds": {
+    "result": "food-festival",
+    "reasoning": "beauty + McDonalds = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+mushroom-soup": {
+    "result": "food-festival",
+    "reasoning": "beauty + Mushroom Soup = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+omelette": {
+    "result": "food-festival",
+    "reasoning": "beauty + Omelette = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+onion": {
+    "result": "food-festival",
+    "reasoning": "beauty + Onion = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+pecan-pie": {
+    "result": "food-festival",
+    "reasoning": "beauty + Pecan Pie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+pizza": {
+    "result": "food-festival",
+    "reasoning": "beauty + Pizza = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+potato": {
+    "result": "food-festival",
+    "reasoning": "beauty + Potato = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+relish": {
+    "result": "food-festival",
+    "reasoning": "beauty + Relish = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+rice": {
+    "result": "food-festival",
+    "reasoning": "beauty + rice = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+risotto": {
+    "result": "food-festival",
+    "reasoning": "beauty + Risotto = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+roast": {
+    "result": "food-festival",
+    "reasoning": "beauty + Roast = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+scallop": {
+    "result": "food-festival",
+    "reasoning": "beauty + Scallop = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+souffle": {
+    "result": "food-festival",
+    "reasoning": "beauty + Souffle = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+spice": {
+    "result": "food-festival",
+    "reasoning": "beauty + Spice = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+stomach-ache": {
+    "result": "food-festival",
+    "reasoning": "beauty + Stomach Ache = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+toast": {
+    "result": "food-festival",
+    "reasoning": "beauty + Toast = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+tomato": {
+    "result": "food-festival",
+    "reasoning": "beauty + Tomato = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+tractor": {
+    "result": "food-festival",
+    "reasoning": "beauty + Tractor = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+vinegar": {
+    "result": "food-festival",
+    "reasoning": "beauty + Vinegar = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+wasabi": {
+    "result": "food-festival",
+    "reasoning": "beauty + Wasabi = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beauty+wonton": {
+    "result": "food-festival",
+    "reasoning": "beauty + Wonton = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "beer+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "biscuit+well": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "blues+bread": {
+    "result": "food-festival",
+    "reasoning": "Blues + Bread = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+brewing": {
+    "result": "food-festival",
+    "reasoning": "Blues + Brewing = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+brioche": {
+    "result": "food-festival",
+    "reasoning": "Blues + Brioche = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+broth": {
+    "result": "food-festival",
+    "reasoning": "Blues + Broth = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+bruschetta": {
+    "result": "food-festival",
+    "reasoning": "Blues + Bruschetta = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+burrito": {
+    "result": "food-festival",
+    "reasoning": "Blues + Burrito = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+butter": {
+    "result": "food-festival",
+    "reasoning": "Blues + Butter = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cake": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cake = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+candy": {
+    "result": "food-festival",
+    "reasoning": "Blues + Candy = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+caramel": {
+    "result": "food-festival",
+    "reasoning": "Blues + Caramel = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+caviar": {
+    "result": "food-festival",
+    "reasoning": "Blues + Caviar = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+ceviche": {
+    "result": "food-festival",
+    "reasoning": "Blues + Ceviche = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cheese": {
+    "result": "food-festival",
+    "reasoning": "Blues + cheese = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+chili": {
+    "result": "food-festival",
+    "reasoning": "Blues + Chili = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+chocolate": {
+    "result": "food-festival",
+    "reasoning": "Blues + Chocolate = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+chutney": {
+    "result": "food-festival",
+    "reasoning": "Blues + Chutney = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cider": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cider = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+clam-chowder": {
+    "result": "food-festival",
+    "reasoning": "Blues + Clam Chowder = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cobbler": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cobbler = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+coca-cola": {
+    "result": "food-festival",
+    "reasoning": "Blues + Coca Cola = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+coconut": {
+    "result": "food-festival",
+    "reasoning": "Blues + Coconut = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+coffee": {
+    "result": "food-festival",
+    "reasoning": "Blues + Coffee = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cookbook": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cookbook = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cookie": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cookie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cooking": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cooking = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+corn": {
+    "result": "food-festival",
+    "reasoning": "Blues + Corn = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cornbread": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cornbread = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+couscous": {
+    "result": "food-festival",
+    "reasoning": "Blues + Couscous = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cracker": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cracker = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+cream": {
+    "result": "food-festival",
+    "reasoning": "Blues + Cream = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+crepe": {
+    "result": "food-festival",
+    "reasoning": "Blues + Crepe = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+croissant": {
+    "result": "food-festival",
+    "reasoning": "Blues + Croissant = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+curry": {
+    "result": "food-festival",
+    "reasoning": "Blues + Curry = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+custard": {
+    "result": "food-festival",
+    "reasoning": "Blues + Custard = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+dim-sum": {
+    "result": "food-festival",
+    "reasoning": "Blues + Dim Sum = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+dough": {
+    "result": "food-festival",
+    "reasoning": "Blues + Dough = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+dumpling": {
+    "result": "food-festival",
+    "reasoning": "Blues + Dumpling = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+egg-food": {
+    "result": "food-festival",
+    "reasoning": "Blues + Egg Food = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+eggnog": {
+    "result": "food-festival",
+    "reasoning": "Blues + Eggnog = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+espresso": {
+    "result": "food-festival",
+    "reasoning": "Blues + Espresso = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+falafel": {
+    "result": "food-festival",
+    "reasoning": "Blues + Falafel = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+farm": {
+    "result": "food-festival",
+    "reasoning": "Blues + farm = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+fermenting": {
+    "result": "food-festival",
+    "reasoning": "Blues + Fermenting = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+fishing": {
+    "result": "food-festival",
+    "reasoning": "Blues + Fishing = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+flan": {
+    "result": "food-festival",
+    "reasoning": "Blues + Flan = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+flour": {
+    "result": "food-festival",
+    "reasoning": "Blues + Flour = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+focaccia": {
+    "result": "food-festival",
+    "reasoning": "Blues + Focaccia = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+fondue": {
+    "result": "food-festival",
+    "reasoning": "Blues + Fondue = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+food": {
+    "result": "food-festival",
+    "reasoning": "Blues + food = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+food-coma": {
+    "result": "food-festival",
+    "reasoning": "Blues + Food Coma = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+foraging": {
+    "result": "food-festival",
+    "reasoning": "Blues + Foraging = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+garden": {
+    "result": "food-festival",
+    "reasoning": "Blues + Garden = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+garlic": {
+    "result": "food-festival",
+    "reasoning": "Blues + Garlic = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+gelatin": {
+    "result": "food-festival",
+    "reasoning": "Blues + Gelatin = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+ginger": {
+    "result": "food-festival",
+    "reasoning": "Blues + Ginger = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+goulash": {
+    "result": "food-festival",
+    "reasoning": "Blues + Goulash = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+granola": {
+    "result": "food-festival",
+    "reasoning": "Blues + Granola = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+gravy": {
+    "result": "food-festival",
+    "reasoning": "Blues + Gravy = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+greenhouse": {
+    "result": "food-festival",
+    "reasoning": "Blues + Greenhouse = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+gruel": {
+    "result": "food-festival",
+    "reasoning": "Blues + Gruel = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+guacamole": {
+    "result": "food-festival",
+    "reasoning": "Blues + Guacamole = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+gumbo": {
+    "result": "food-festival",
+    "reasoning": "Blues + Gumbo = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+gyoza": {
+    "result": "food-festival",
+    "reasoning": "Blues + Gyoza = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+hamburger": {
+    "result": "food-festival",
+    "reasoning": "Blues + Hamburger = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+harvest": {
+    "result": "food-festival",
+    "reasoning": "Blues + Harvest = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+hummus": {
+    "result": "food-festival",
+    "reasoning": "Blues + Hummus = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+ice-cream": {
+    "result": "food-festival",
+    "reasoning": "Blues + Ice Cream = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+irrigation": {
+    "result": "food-festival",
+    "reasoning": "Blues + Irrigation = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+jam": {
+    "result": "food-festival",
+    "reasoning": "Blues + Jam = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+jerky": {
+    "result": "food-festival",
+    "reasoning": "Blues + Jerky = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+juice": {
+    "result": "food-festival",
+    "reasoning": "Blues + Juice = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+kebab": {
+    "result": "food-festival",
+    "reasoning": "Blues + Kebab = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+kimchi": {
+    "result": "food-festival",
+    "reasoning": "Blues + Kimchi = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+kombucha": {
+    "result": "food-festival",
+    "reasoning": "Blues + Kombucha = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+lasagna": {
+    "result": "food-festival",
+    "reasoning": "Blues + Lasagna = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+lawn": {
+    "result": "food-festival",
+    "reasoning": "Blues + Lawn = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+lemonade": {
+    "result": "food-festival",
+    "reasoning": "Blues + Lemonade = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+macaroni": {
+    "result": "food-festival",
+    "reasoning": "Blues + Macaroni = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mango": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mango = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+maple-syrup": {
+    "result": "food-festival",
+    "reasoning": "Blues + Maple Syrup = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+marmalade": {
+    "result": "food-festival",
+    "reasoning": "Blues + Marmalade = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+matcha": {
+    "result": "food-festival",
+    "reasoning": "Blues + Matcha = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mcdonalds": {
+    "result": "food-festival",
+    "reasoning": "Blues + McDonalds = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mead": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mead = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+meat": {
+    "result": "food-festival",
+    "reasoning": "Blues + meat = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+meringue": {
+    "result": "food-festival",
+    "reasoning": "Blues + Meringue = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mezcal": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mezcal = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+milk": {
+    "result": "food-festival",
+    "reasoning": "Blues + milk = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+miso": {
+    "result": "food-festival",
+    "reasoning": "Blues + Miso = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mochi": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mochi = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mousse": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mousse = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+muffin": {
+    "result": "food-festival",
+    "reasoning": "Blues + Muffin = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mushroom-soup": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mushroom Soup = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mystery-casserole": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mystery Casserole = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+mystery-meat": {
+    "result": "food-festival",
+    "reasoning": "Blues + Mystery Meat = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+naan": {
+    "result": "food-festival",
+    "reasoning": "Blues + Naan = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+nacho": {
+    "result": "food-festival",
+    "reasoning": "Blues + Nacho = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+noodle": {
+    "result": "food-festival",
+    "reasoning": "Blues + Noodle = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+okra": {
+    "result": "food-festival",
+    "reasoning": "Blues + Okra = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+olive": {
+    "result": "food-festival",
+    "reasoning": "Blues + Olive = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+olive-oil": {
+    "result": "food-festival",
+    "reasoning": "Blues + Olive Oil = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+omelette": {
+    "result": "food-festival",
+    "reasoning": "Blues + Omelette = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+onion": {
+    "result": "food-festival",
+    "reasoning": "Blues + Onion = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+paella": {
+    "result": "food-festival",
+    "reasoning": "Blues + Paella = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pancake": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pancake = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+papaya": {
+    "result": "food-festival",
+    "reasoning": "Blues + Papaya = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pasta": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pasta = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+peanut-butter": {
+    "result": "food-festival",
+    "reasoning": "Blues + Peanut Butter = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pecan-pie": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pecan Pie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pepper": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pepper = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pesto": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pesto = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pho": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pho = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pickle": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pickle = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pie": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pierogi": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pierogi = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pizza": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pizza = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+plow": {
+    "result": "food-festival",
+    "reasoning": "Blues + Plow = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+popcorn": {
+    "result": "food-festival",
+    "reasoning": "Blues + Popcorn = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+porridge": {
+    "result": "food-festival",
+    "reasoning": "Blues + Porridge = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+potato": {
+    "result": "food-festival",
+    "reasoning": "Blues + Potato = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+potluck": {
+    "result": "food-festival",
+    "reasoning": "Blues + Potluck = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pretzel": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pretzel = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+prosciutto": {
+    "result": "food-festival",
+    "reasoning": "Blues + Prosciutto = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+pudding": {
+    "result": "food-festival",
+    "reasoning": "Blues + Pudding = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+quiche": {
+    "result": "food-festival",
+    "reasoning": "Blues + Quiche = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+ramen": {
+    "result": "food-festival",
+    "reasoning": "Blues + Ramen = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+ravioli": {
+    "result": "food-festival",
+    "reasoning": "Blues + Ravioli = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+relish": {
+    "result": "food-festival",
+    "reasoning": "Blues + Relish = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+rice": {
+    "result": "food-festival",
+    "reasoning": "Blues + rice = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+risotto": {
+    "result": "food-festival",
+    "reasoning": "Blues + Risotto = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+roast": {
+    "result": "food-festival",
+    "reasoning": "Blues + Roast = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+rum": {
+    "result": "food-festival",
+    "reasoning": "Blues + Rum = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+sake": {
+    "result": "food-festival",
+    "reasoning": "Blues + Sake = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+salad": {
+    "result": "food-festival",
+    "reasoning": "Blues + Salad = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+salsa": {
+    "result": "food-festival",
+    "reasoning": "Blues + Salsa = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+salt": {
+    "result": "food-festival",
+    "reasoning": "Blues + Salt = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+sandwich": {
+    "result": "food-festival",
+    "reasoning": "Blues + Sandwich = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+sausage": {
+    "result": "food-festival",
+    "reasoning": "Blues + Sausage = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+scallop": {
+    "result": "food-festival",
+    "reasoning": "Blues + Scallop = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+scone": {
+    "result": "food-festival",
+    "reasoning": "Blues + Scone = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+silo": {
+    "result": "food-festival",
+    "reasoning": "Blues + Silo = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+smoothie": {
+    "result": "food-festival",
+    "reasoning": "Blues + Smoothie = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+sorbet": {
+    "result": "food-festival",
+    "reasoning": "Blues + Sorbet = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+souffle": {
+    "result": "food-festival",
+    "reasoning": "Blues + Souffle = a Food Festival. Come for the culture, stay for the calories."
+  },
+  "blues+soup": {
+    "result": "food-festival",
+    "reasoning": "Blues + Soup = a Food Festival. Come for the culture, stay for the calories."
   }
 }

@@ -1,30 +1,882 @@
 {
-  "alchemy+star": {
-    "result": "philosopher-stone",
-    "reasoning": "When Alchemy and Star collide, logic takes a coffee break and Philosopher Stone appears anyway."
+  "alchemy+dark-energy": {
+    "result": "necromancer",
+    "reasoning": "Alchemy + Dark Energy = Necromancer — master of the dead."
   },
-  "alchemy+sun": {
-    "result": "philosopher-stone",
-    "reasoning": "Someone mixed Alchemy with sun for science. The peer-reviewed conclusion: Philosopher Stone."
+  "alchemy+dark-matter": {
+    "result": "necromancer",
+    "reasoning": "Alchemy + Dark Matter = Necromancer — master of the dead."
   },
-  "crown+moon": {
-    "result": "queen",
-    "reasoning": "crown and Moon accidentally host a crossover episode; Queen steals the finale."
+  "alchemy+night": {
+    "result": "necromancer",
+    "reasoning": "Alchemy + Night = Necromancer — master of the dead."
   },
-  "elf+night": {
-    "result": "goblin",
-    "reasoning": "Someone mixed Elf with Night for science. The peer-reviewed conclusion: Goblin."
+  "asteroid-belt+dark-elf": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Dark Elf — a Black Hole, where not even light escapes."
   },
-  "magic+moon": {
-    "result": "witch",
-    "reasoning": "Magic tags in with Moon, and somehow the universe speedruns Witch."
+  "asteroid-belt+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Asteroid Belt collapses into Shadow Realm — a Black Hole, where not even light escapes."
   },
-  "moon+wizard": {
-    "result": "witch",
-    "reasoning": "Through mystical forces, Moon and Wizard become Witch"
+  "asteroid+dark-elf": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Dark Elf — a Black Hole, where not even light escapes."
   },
-  "spirit+sun": {
-    "result": "magic",
-    "reasoning": "Spirit and sun accidentally host a crossover episode; Magic steals the finale."
+  "asteroid+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Asteroid collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "binary-star+dark-elf": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into Dark Elf — a Black Hole, where not even light escapes."
+  },
+  "binary-star+giant": {
+    "result": "red-giant",
+    "reasoning": "Combine Binary Star with Giant to create Red Giant."
+  },
+  "binary-star+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Binary Star collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "black-hole+philosopher-stone": {
+    "result": "quarry",
+    "reasoning": "Combine Black Hole with Philosopher Stone to create Quarry."
+  },
+  "comet+dark-elf": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Dark Elf — a Black Hole, where not even light escapes."
+  },
+  "comet+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Comet collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "constellation+dark-elf": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Dark Elf — a Black Hole, where not even light escapes."
+  },
+  "constellation+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Constellation collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "cosmic-dust+enchanted-forest": {
+    "result": "pixie-dust",
+    "reasoning": "Combine Cosmic Dust with Enchanted Forest to create Pixie Dust."
+  },
+  "cosmic-dust+fairy": {
+    "result": "pixie-dust",
+    "reasoning": "Combine Cosmic Dust with Fairy to create Pixie Dust."
+  },
+  "dark-matter+elf": {
+    "result": "dark-elf",
+    "reasoning": "Combine Elf with Dark Matter to create Dark Elf."
+  },
+  "dark-matter+knight": {
+    "result": "death-knight",
+    "reasoning": "Combine Knight with Dark Matter to create Death Knight."
+  },
+  "dark-matter+warlock": {
+    "result": "gothic",
+    "reasoning": "Combine Dark Matter with Warlock to create Gothic."
+  },
+  "dark-matter+wizard": {
+    "result": "warlock",
+    "reasoning": "Combine Wizard with Dark Matter to create Warlock."
+  },
+  "death-knight+telescope": {
+    "result": "astronomer",
+    "reasoning": "Galileo pointed his telescope at Jupiter and changed everything"
+  },
+  "dragon-egg+dwarf-planet": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Dwarf Planet = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+dwarf-star": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Dwarf Star = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+dyson-sphere": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Dyson Sphere = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+eclipse": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Eclipse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+event-horizon": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Event Horizon = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+exoplanet": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Exoplanet = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+extraterrestrial": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Extraterrestrial = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+galactic-core": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Galactic Core = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+galaxy": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Galaxy = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+gamma-ray-burst": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Gamma Ray Burst = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+globular-cluster": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Globular Cluster = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+gravitational-wave": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Gravitational Wave = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+gravity": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Gravity = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+gravity-wave": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Gravity Wave = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+heliopause": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Heliopause = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+hubble-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Hubble Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+interstellar": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Interstellar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+iss": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + ISS = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+james-webb": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + James Webb = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+kuiper-belt": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Kuiper Belt = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+lagrange-point": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Lagrange Point = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+light-year": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Light Year = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+lunar-crater": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Lunar Crater = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+lunar-eclipse": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Lunar Eclipse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+magnetar": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Magnetar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+mars": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Mars = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+mars-colony": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Mars Colony = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+mars-rover": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Mars Rover = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+meteor": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Meteor = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+meteor-shower": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Meteor Shower = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+meteorite": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Meteorite = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+milky-way": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Milky Way = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+moon": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Moon = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+moon-base": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Moon Base = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+moon-landing": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Moon Landing = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+moonlight": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Moonlight = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+multiverse": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Multiverse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+nasa": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + NASA = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+nebula": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Nebula = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+neutron-star": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Neutron Star = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+night": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Night = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+nova": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Nova = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+observatory": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Observatory = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+oort-cloud": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Oort Cloud = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+orbit": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Orbit = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+planet": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Planet = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+planetarium": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Planetarium = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+planetary-ring": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Planetary Ring = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+protostar": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Protostar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+pulsar": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Pulsar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+quasar": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Quasar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+radio-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Radio Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+red-giant": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Red Giant = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+ring": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + ring = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+satellite-dish": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Satellite Dish = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+saturn": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Saturn = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+seti": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + SETI = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+sky": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Sky = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+solar-eclipse": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Solar Eclipse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+solar-flare": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Solar Flare = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+solar-sail": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Solar Sail = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+solar-wind": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Solar Wind = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + space = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-debris": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Debris = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-elevator": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Elevator = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-junk": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Junk = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-monkey": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Monkey = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-probe": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Probe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-station": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Station = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-suit": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Suit = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+space-wrench": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Space Wrench = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+star": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Star = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+star-map": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Star Map = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+sun": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + sun = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+sunlight": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Sunlight = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+sunset": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Sunset = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+sunspot": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Sunspot = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+supernova": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Supernova = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+telescope": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+terraforming": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Terraforming = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+time-travel": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Time Travel = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+ufo": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + UFO = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+universe": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Universe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+voyager-probe": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Voyager Probe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+white-dwarf": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + White Dwarf = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+wormhole": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Wormhole = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dragon-egg+zero-gravity": {
+    "result": "space-wizard",
+    "reasoning": "Dragon Egg + Zero Gravity = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "dwarf-planet+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Dwarf Planet collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "dwarf-star+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Dwarf Star collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "enchanted-kingdom+event-horizon": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Event Horizon = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+exoplanet": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Exoplanet = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+extraterrestrial": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Extraterrestrial = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+galactic-core": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Galactic Core = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+galaxy": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Galaxy = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+gamma-ray-burst": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Gamma Ray Burst = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+globular-cluster": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Globular Cluster = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+gravitational-wave": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Gravitational Wave = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+gravity": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Gravity = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+gravity-wave": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Gravity Wave = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+heliopause": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Heliopause = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+hubble-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Hubble Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+interstellar": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Interstellar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+iss": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + ISS = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+james-webb": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + James Webb = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+kuiper-belt": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Kuiper Belt = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+lagrange-point": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Lagrange Point = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+light-year": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Light Year = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+lunar-crater": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Lunar Crater = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+lunar-eclipse": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Lunar Eclipse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+magnetar": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Magnetar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+mars": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Mars = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+mars-colony": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Mars Colony = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+mars-rover": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Mars Rover = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+meteor": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Meteor = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+meteor-shower": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Meteor Shower = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+meteorite": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Meteorite = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+milky-way": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Milky Way = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+moon": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Moon = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+moon-base": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Moon Base = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+moon-landing": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Moon Landing = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+moonlight": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Moonlight = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+multiverse": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Multiverse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+nasa": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + NASA = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+nebula": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Nebula = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+neutron-star": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Neutron Star = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+night": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Night = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+nova": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Nova = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+observatory": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Observatory = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+oort-cloud": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Oort Cloud = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+orbit": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Orbit = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+planet": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Planet = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+planetarium": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Planetarium = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+planetary-ring": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Planetary Ring = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+protostar": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Protostar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+pulsar": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Pulsar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+quasar": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Quasar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+radio-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Radio Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+red-giant": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Red Giant = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+ring": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + ring = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+satellite-dish": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Satellite Dish = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+saturn": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Saturn = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+seti": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + SETI = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+sky": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Sky = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+solar-eclipse": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Solar Eclipse = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+solar-flare": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Solar Flare = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+solar-sail": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Solar Sail = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+solar-wind": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Solar Wind = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + space = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-debris": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Debris = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-elevator": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Elevator = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-junk": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Junk = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-monkey": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Monkey = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-probe": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Probe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-station": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Station = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-suit": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Suit = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-telescope": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+space-wrench": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Space Wrench = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+star": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Star = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+star-map": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Star Map = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+sun": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + sun = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+sunlight": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Sunlight = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+sunset": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Sunset = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+sunspot": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Sunspot = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+supernova": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Supernova = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+telescope": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Telescope = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+terraforming": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Terraforming = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+time-travel": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Time Travel = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+ufo": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + UFO = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+universe": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Universe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+voyager-probe": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Voyager Probe = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+white-dwarf": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + White Dwarf = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+wormhole": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Wormhole = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "enchanted-kingdom+zero-gravity": {
+    "result": "space-wizard",
+    "reasoning": "Enchanted Kingdom + Zero Gravity = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "fairy-ring+night": {
+    "result": "necromancer",
+    "reasoning": "Fairy Ring + Night = Necromancer — master of the dead."
+  },
+  "fairy+night": {
+    "result": "necromancer",
+    "reasoning": "Fairy + Night = Necromancer — master of the dead."
+  },
+  "forbidden-knowledge+galaxy": {
+    "result": "astronomy",
+    "reasoning": "Studying Galaxy through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+meteor": {
+    "result": "astronomy",
+    "reasoning": "Studying Meteor through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+meteor-shower": {
+    "result": "astronomy",
+    "reasoning": "Studying Meteor Shower through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+moon": {
+    "result": "astronomy",
+    "reasoning": "Studying Moon through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+moon-base": {
+    "result": "astronomy",
+    "reasoning": "Studying Moon Base through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+moon-landing": {
+    "result": "astronomy",
+    "reasoning": "Studying Moon Landing through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+nebula": {
+    "result": "astronomy",
+    "reasoning": "Studying Nebula through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+neutron-star": {
+    "result": "astronomy",
+    "reasoning": "Studying Neutron Star through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+planet": {
+    "result": "astronomy",
+    "reasoning": "Studying Planet through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+pulsar": {
+    "result": "astronomy",
+    "reasoning": "Studying Pulsar through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+quasar": {
+    "result": "astronomy",
+    "reasoning": "Studying Quasar through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+star": {
+    "result": "astronomy",
+    "reasoning": "Studying Star through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+star-map": {
+    "result": "astronomy",
+    "reasoning": "Studying Star Map through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+sun": {
+    "result": "astronomy",
+    "reasoning": "Studying sun through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "forbidden-knowledge+supernova": {
+    "result": "astronomy",
+    "reasoning": "Studying Supernova through Forbidden Knowledge — Astronomy, the oldest science."
+  },
+  "galaxy+shadow-realm": {
+    "result": "black-hole",
+    "reasoning": "Galaxy collapses into Shadow Realm — a Black Hole, where not even light escapes."
+  },
+  "hydra+interstellar": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + Interstellar = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "hydra+iss": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + ISS = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "hydra+james-webb": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + James Webb = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "hydra+kuiper-belt": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + Kuiper Belt = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "hydra+lagrange-point": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + Lagrange Point = a Space Wizard. May the Force... er, Magic... be with you."
+  },
+  "hydra+light-year": {
+    "result": "space-wizard",
+    "reasoning": "Hydra + Light Year = a Space Wizard. May the Force... er, Magic... be with you."
   }
 }

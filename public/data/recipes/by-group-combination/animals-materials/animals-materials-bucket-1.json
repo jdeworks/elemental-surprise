@@ -1,98 +1,882 @@
 {
+  "aerogel+barnacle": {
+    "result": "nacre",
+    "reasoning": "Combine Barnacle with Aerogel to create Nacre."
+  },
+  "alabaster+sheep": {
+    "result": "fleece",
+    "reasoning": "Combine Sheep with Alabaster to create Fleece."
+  },
+  "albatross+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "albatross+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "albatross+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "albatross+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+blade": {
+    "result": "wool",
+    "reasoning": "Alpaca fiber is harvested with shears, softer than cashmere Wool"
+  },
+  "alpaca+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+magma": {
+    "result": "jerky",
+    "reasoning": "Alpaca jerky is a lean protein in Andean cuisine"
+  },
+  "alpaca+paper": {
+    "result": "parchment",
+    "reasoning": "Combine Paper with Alpaca to create Parchment."
+  },
+  "alpaca+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "alpaca+wool": {
+    "result": "llama",
+    "reasoning": "Combine Alpaca with Wool to create Llama."
+  },
+  "anemone+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anemone+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anemone+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anemone+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anglerfish+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anglerfish+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anglerfish+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anglerfish+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal-kingdom+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "animal-kingdom+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "animal-kingdom+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal-kingdom+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
   "animal+armor": {
-    "result": "knight",
-    "reasoning": "animal and Armor accidentally host a crossover episode; Knight steals the finale."
+    "result": "pangolin",
+    "reasoning": "An armored animal is a Pangolin"
   },
   "animal+blade": {
     "result": "meat",
     "reasoning": "Combining animal with Blade makes delicious meat"
   },
-  "animal+brick": {
-    "result": "cat",
-    "reasoning": "animal meets Brick, chaos files a memo, and Cat walks out with the trophy."
+  "animal+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "animal+fabric": {
-    "result": "pants",
-    "reasoning": "animal plus Fabric is the weird recipe your alchemist friend swears by for making Pants."
+  "animal+ink": {
+    "result": "squid",
+    "reasoning": "Combine Animal with Ink to create Squid."
+  },
+  "animal+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "animal+paper": {
+    "result": "parchment",
+    "reasoning": "Combine Paper with Animal to create Parchment."
+  },
+  "animal+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
   "animal+rope": {
     "result": "snake",
     "reasoning": "animal adapting to Rope evolves into Snake"
   },
-  "animal+thread": {
-    "result": "silk",
-    "reasoning": "animal teams up with Thread; the side quest reward is Silk."
+  "animal+wool": {
+    "result": "alpaca",
+    "reasoning": "Combine Animal with Wool to create Alpaca."
   },
-  "armor+egg": {
-    "result": "crab",
-    "reasoning": "Armor and Egg shake hands, reality shrugs, and Crab is suddenly canon."
+  "ant+blade": {
+    "result": "magnifying-glass",
+    "reasoning": "Magnifying Glasses let us observe ant colonies up close"
+  },
+  "ant+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+armor": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Armor = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+asphalt": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Asphalt = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+basalt": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Basalt = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+bauxite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Bauxite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+bitumen": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Bitumen = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "anteater+bone-ash": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Bone Ash = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+bone-china": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Bone China = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+brass": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Brass = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+brick": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Brick = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+bronze": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Bronze = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+burlap": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Burlap = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+calico": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Calico = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+candle": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Candle = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+canvas": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + canvas = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cardboard": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cardboard = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cashmere": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cashmere = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cellophane": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cellophane = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cement": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cement = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+ceramic": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Ceramic = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+chain": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Chain = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+chalk": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Chalk = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+chamois": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Chamois = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+charcoal": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Charcoal = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+chrome": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Chrome = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cinderblock": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cinderblock = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+clinker": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Clinker = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+coal": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Coal = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cobalt": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cobalt = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+coil": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + coil = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+concrete": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Concrete = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+copper": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Copper = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cork": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cork = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+cotton": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Cotton = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+crystal": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Crystal = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+damask": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Damask = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+denim": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Denim = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+diamond": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Diamond = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anteater+dye": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Dye = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+dynamite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Dynamite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+e-waste": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + E-Waste = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+electroplate": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Electroplate = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+enamel": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Enamel = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+epoxy": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Epoxy = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fabric": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Fabric = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fat": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + fat = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+felt": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Felt = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fiber": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + fiber = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fiberglass": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Fiberglass = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+firebrick": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Firebrick = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+firework": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Firework = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fleece": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Fleece = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+flint": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Flint = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+foam": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Foam = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+food-packaging": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Food Packaging = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fossil": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Fossil = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+fullerene": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Fullerene = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+galvanized-steel": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Galvanized Steel = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+gel": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Gel = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+gem": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Gem = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+glass": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Glass = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+glue": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Glue = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+gold": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Gold = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+granite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Granite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+graphene": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Graphene = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+graphite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Graphite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+gunpowder": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Gunpowder = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+gutta-percha": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Gutta-Percha = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+hemp": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Hemp = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+ingot": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Ingot = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+ink": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Ink = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+iron": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Iron = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+ivory": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Ivory = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+jute": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Jute = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+kaolin": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Kaolin = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+kevlar": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Kevlar = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+lacquer": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Lacquer = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+latex": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Latex = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+lead": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Lead = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+leather": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Leather = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+lens": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Lens = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+limestone": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Limestone = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+linen": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Linen = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+marble": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Marble = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+medallion": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Medallion = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+metal": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + metal = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+mica": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Mica = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+mineral": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Mineral = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+mirror": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Mirror = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+mortar": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Mortar = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+nacre": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Nacre = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+nail": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Nail = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+natural-gas": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Natural Gas = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+net": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Net = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+nickel": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Nickel = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+nylon": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Nylon = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+oil": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Oil = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+organza": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Organza = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+paint": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Paint = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+paper": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Paper = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+papyrus": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Papyrus = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+parchment": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Parchment = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+paste": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Paste = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "anteater+petroleum": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Petroleum = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+pewter": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Pewter = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+pigment": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Pigment = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+plank": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + plank = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+plaster": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Plaster = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+plastic": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Plastic = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+platinum": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Platinum = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+plywood": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Plywood = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+porcelain": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Porcelain = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+prism": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Prism = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+pulp": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Pulp = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+pumice": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Pumice = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+quartz": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Quartz = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+quicklite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Quicklite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+rattan": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Rattan = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+raw-material": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Raw Material = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+rayon": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Rayon = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+rope": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Rope = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+rubber": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Rubber = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+rust": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Rust = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+sail": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Sail = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+sandstone": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Sandstone = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+satin": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Satin = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+scrap-heap": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Scrap Heap = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+shale": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Shale = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+shield": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Shield = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+silicon": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Silicon = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+silicone": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Silicone = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+silk": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Silk = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+silver": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Silver = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+slate": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Slate = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+soap": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Soap = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+soil": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Soil = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+solder": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Solder = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+steel": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Steel = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+suede": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Suede = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+taffeta": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Taffeta = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+tar": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Tar = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+taxidermy": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Taxidermy = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+teflon": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Teflon = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+terracotta": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Terracotta = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+thread": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Thread = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+tin": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Tin = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+titanium": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Titanium = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+tungsten": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Tungsten = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+tweed": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Tweed = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+varnish": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Varnish = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+velvet": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Velvet = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+vermiculite": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Vermiculite = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+wax": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + wax = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+wire": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Wire = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+wool": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Wool = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+yarn": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Yarn = Taxidermy. Still majestic, just... stiller."
+  },
+  "anteater+zinc": {
+    "result": "taxidermy",
+    "reasoning": "Anteater + Zinc = Taxidermy. Still majestic, just... stiller."
+  },
+  "antelope+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "antelope+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "antelope+magma": {
+    "result": "jerky",
+    "reasoning": "Antelope biltong is a Southern African dried meat tradition"
+  },
+  "antelope+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "armadillo+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "armadillo+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "armadillo+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "armadillo+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
   "armor+fish": {
     "result": "crab",
     "reasoning": "Armor adapting to Fish evolves into Crab"
   },
-  "bird+metal": {
-    "result": "wing",
-    "reasoning": "Bird meets metal, chaos files a memo, and wing walks out with the trophy."
+  "axolotl+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
   },
-  "blade+egg": {
-    "result": "shark",
-    "reasoning": "When Blade and Egg collide, logic takes a coffee break and Shark appears anyway."
-  },
-  "blade+fish": {
-    "result": "shark",
-    "reasoning": "Blade adapting to Fish evolves into Shark"
-  },
-  "blade+sheep": {
+  "axolotl+dry-ice": {
     "result": "wool",
-    "reasoning": "Processing Blade with sheep yields Wool"
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "charcoal+fish": {
-    "result": "octopus",
-    "reasoning": "Charcoal and Fish accidentally host a crossover episode; Octopus steals the finale."
+  "axolotl+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "egg+ink": {
-    "result": "octopus",
-    "reasoning": "Someone mixed Egg with Ink for science. The peer-reviewed conclusion: Octopus."
+  "axolotl+metal": {
+    "result": "bucket",
+    "reasoning": "Combine Metal with Axolotl to create Bucket."
   },
-  "feather+metal": {
-    "result": "wing",
-    "reasoning": "Crafting Feather with metal produces wing"
+  "axolotl+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "fiber+insect": {
-    "result": "spider",
-    "reasoning": "fiber teams up with Insect; the side quest reward is Spider."
+  "baboon+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
   },
-  "fiber+spider": {
-    "result": "web",
-    "reasoning": "fiber plus Spider is the weird recipe your alchemist friend swears by for making Web."
+  "baboon+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "fish+ink": {
-    "result": "octopus",
-    "reasoning": "Fish adapting to Ink evolves into Octopus"
+  "baboon+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "fish+steel": {
-    "result": "crab",
-    "reasoning": "Fish teams up with Steel; the side quest reward is Crab."
+  "baboon+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "horse+paper": {
-    "result": "mail",
-    "reasoning": "Horse and Paper shake hands, reality shrugs, and Mail is suddenly canon."
+  "badger+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
   },
-  "insect+thread": {
-    "result": "spider",
-    "reasoning": "Insect adapting to Thread evolves into Spider"
+  "badger+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "rope+snake": {
-    "result": "hydra",
-    "reasoning": "Someone mixed Rope with Snake for science. The peer-reviewed conclusion: Hydra."
+  "badger+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "spider+thread": {
-    "result": "web",
-    "reasoning": "Spider adapting to Thread evolves into Web"
+  "badger+permafrost": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
   },
-  "thread+worm": {
-    "result": "silk",
-    "reasoning": "Processing Thread with worm yields Silk"
+  "barnacle+blade": {
+    "result": "hunting",
+    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  },
+  "barnacle+dry-ice": {
+    "result": "wool",
+    "reasoning": "Cold drives evolution toward thick insulating coats"
+  },
+  "barnacle+magma": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
   }
 }

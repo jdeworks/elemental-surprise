@@ -1,42 +1,882 @@
 {
+  "agent-framework+block": {
+    "result": "safety-filter",
+    "reasoning": "Combine Agent Framework with Block to create Safety Filter."
+  },
+  "ai-art+art": {
+    "result": "calligraphy",
+    "reasoning": "Combine Art with Ai Art to create Calligraphy."
+  },
+  "ai-art+bio-art": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Bio Art in 3D."
+  },
+  "ai-art+calligraphy": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Calligraphy in 3D."
+  },
+  "ai-art+cello": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Cello — Spotify."
+  },
+  "ai-art+drawing": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Drawing in 3D."
+  },
+  "ai-art+drum": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Drum — Spotify."
+  },
+  "ai-art+easel": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Easel in 3D."
+  },
+  "ai-art+flute": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Flute — Spotify."
+  },
+  "ai-art+fresco": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Fresco in 3D."
+  },
+  "ai-art+graffiti": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Graffiti in 3D."
+  },
+  "ai-art+lyre": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Lyre — Spotify."
+  },
+  "ai-art+mosaic": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Mosaic in 3D."
+  },
+  "ai-art+mural": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Mural in 3D."
+  },
+  "ai-art+origami": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Origami in 3D."
+  },
+  "ai-art+pixel-art": {
+    "result": "rhetoric",
+    "reasoning": "Combine Ai Art with Pixel Art to create Rhetoric."
+  },
+  "ai-art+pop-art": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Pop Art in 3D."
+  },
+  "ai-art+saxophone": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Saxophone — Spotify."
+  },
+  "ai-art+sculpture": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Sculpture in 3D."
+  },
+  "ai-art+ukulele": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Ukulele — Spotify."
+  },
+  "ai-art+violin": {
+    "result": "spotify",
+    "reasoning": "AI Art streaming Violin — Spotify."
+  },
+  "ai-art+watercolor": {
+    "result": "3d-model",
+    "reasoning": "AI Art creating Watercolor in 3D."
+  },
+  "ai-generated-art+art": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating art in 3D."
+  },
+  "ai-generated-art+banjo": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Banjo — Spotify."
+  },
+  "ai-generated-art+bio-art": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Bio Art in 3D."
+  },
+  "ai-generated-art+calligraphy": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Calligraphy in 3D."
+  },
+  "ai-generated-art+cello": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Cello — Spotify."
+  },
+  "ai-generated-art+classical-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Classical Music — Spotify."
+  },
+  "ai-generated-art+country-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Country Music — Spotify."
+  },
+  "ai-generated-art+drawing": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Drawing in 3D."
+  },
+  "ai-generated-art+drum": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Drum — Spotify."
+  },
+  "ai-generated-art+easel": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Easel in 3D."
+  },
+  "ai-generated-art+flute": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Flute — Spotify."
+  },
+  "ai-generated-art+folk-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Folk Music — Spotify."
+  },
+  "ai-generated-art+fresco": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Fresco in 3D."
+  },
+  "ai-generated-art+graffiti": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Graffiti in 3D."
+  },
+  "ai-generated-art+guitar": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Guitar — Spotify."
+  },
+  "ai-generated-art+harmonica": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Harmonica — Spotify."
+  },
+  "ai-generated-art+harp": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Harp — Spotify."
+  },
+  "ai-generated-art+lyre": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Lyre — Spotify."
+  },
+  "ai-generated-art+mosaic": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Mosaic in 3D."
+  },
+  "ai-generated-art+mural": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Mural in 3D."
+  },
+  "ai-generated-art+music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Music — Spotify."
+  },
+  "ai-generated-art+orchestra": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Orchestra — Spotify."
+  },
+  "ai-generated-art+origami": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Origami in 3D."
+  },
+  "ai-generated-art+piano": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Piano — Spotify."
+  },
+  "ai-generated-art+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Pixel Art in 3D."
+  },
+  "ai-generated-art+pop-art": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Pop Art in 3D."
+  },
+  "ai-generated-art+rock-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Rock Music — Spotify."
+  },
+  "ai-generated-art+saxophone": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Saxophone — Spotify."
+  },
+  "ai-generated-art+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "AI Generated Art + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "ai-generated-art+sculpture": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Sculpture in 3D."
+  },
+  "ai-generated-art+song": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Song — Spotify."
+  },
+  "ai-generated-art+soul-music": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Soul Music — Spotify."
+  },
+  "ai-generated-art+symphony": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Symphony — Spotify."
+  },
+  "ai-generated-art+trumpet": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Trumpet — Spotify."
+  },
+  "ai-generated-art+ukulele": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Ukulele — Spotify."
+  },
+  "ai-generated-art+violin": {
+    "result": "spotify",
+    "reasoning": "AI Generated Art streaming Violin — Spotify."
+  },
+  "ai-generated-art+watercolor": {
+    "result": "3d-model",
+    "reasoning": "AI Generated Art creating Watercolor in 3D."
+  },
+  "ai-music+classical-music": {
+    "result": "requiem",
+    "reasoning": "Combine Classical Music with Ai Music to create Requiem."
+  },
+  "ai-music+music": {
+    "result": "satyr",
+    "reasoning": "Combine Ai Music with Music to create Satyr."
+  },
+  "ai-music+reggae": {
+    "result": "metronome",
+    "reasoning": "Combine Ai Music with Reggae to create Metronome."
+  },
+  "ai-music+rhythm": {
+    "result": "metronome",
+    "reasoning": "Combine Ai Music with Rhythm to create Metronome."
+  },
+  "ai-music+rock-music": {
+    "result": "satyr",
+    "reasoning": "Combine Ai Music with Rock Music to create Satyr."
+  },
+  "ai+air": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + air = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+anime": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Anime = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+aquarium": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Aquarium = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+arcade": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Arcade = AI Generated Art. Is it art? The debate rages on."
+  },
   "ai+art": {
     "result": "image-generation",
     "reasoning": "AI enhanced with art creates Image Generation"
   },
-  "ai+color": {
-    "result": "image-generation",
-    "reasoning": "AI tags in with Color, and somehow the universe speedruns Image Generation."
+  "ai+bagpipe": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Bagpipe = AI Generated Art. Is it art? The debate rages on."
   },
-  "ai+harmony": {
-    "result": "ai-music",
-    "reasoning": "When AI and harmony collide, logic takes a coffee break and AI Music appears anyway."
+  "ai+ball": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Ball = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+banjo": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Banjo = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+bank": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Bank = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+baroque": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Baroque = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+beauty": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + beauty = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+bio-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating Bio Art in 3D."
+  },
+  "ai+blues": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Blues = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+breakdance": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Breakdance = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+bridge": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Bridge = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+calligraphy": {
+    "result": "3d-model",
+    "reasoning": "AI creating Calligraphy in 3D."
+  },
+  "ai+chess": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Chess = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+church": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Church = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+cinema": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Cinema = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+clarinet": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Clarinet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+craft-fair": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Craft Fair = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+curtain": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Curtain = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+cymbal": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Cymbal = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+dam": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Dam = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+darkness": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Darkness = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+dock": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Dock = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+drawing": {
+    "result": "3d-model",
+    "reasoning": "AI creating Drawing in 3D."
+  },
+  "ai+dress": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Dress = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+drum": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Drum = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+easel": {
+    "result": "3d-model",
+    "reasoning": "AI creating Easel in 3D."
+  },
+  "ai+echo": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Echo = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+entertainment": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + entertainment = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+epic": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Epic = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+esports": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Esports = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+film": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Film = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+fireplace": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Fireplace = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+flamenco": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Flamenco = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+fresco": {
+    "result": "3d-model",
+    "reasoning": "AI creating Fresco in 3D."
+  },
+  "ai+fun": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + fun = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+glove": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Glove = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+graffiti": {
+    "result": "3d-model",
+    "reasoning": "AI creating Graffiti in 3D."
+  },
+  "ai+guitar": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Guitar = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+hat": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Hat = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+hip-hop": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Hip Hop = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+hospital": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Hospital = AI Generated Art. Is it art? The debate rages on."
   },
   "ai+house": {
     "result": "smart-home",
     "reasoning": "Applying AI to house produces Smart Home"
   },
+  "ai+indie-game": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Indie Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+jazz": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Jazz = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+jewelry": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Jewelry = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+karate": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Karate = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+kitchen": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Kitchen = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+lamp": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Lamp = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+lego": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Lego = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+lighthouse": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Lighthouse = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+microsoft": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Microsoft = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+mime": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Mime = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+mosaic": {
+    "result": "3d-model",
+    "reasoning": "AI creating Mosaic in 3D."
+  },
+  "ai+mural": {
+    "result": "3d-model",
+    "reasoning": "AI creating Mural in 3D."
+  },
   "ai+music": {
     "result": "ai-music",
     "reasoning": "AI enhanced with Music creates AI Music"
+  },
+  "ai+necklace": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Necklace = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+oboe": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Oboe = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+opera": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Opera = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+origami": {
+    "result": "3d-model",
+    "reasoning": "AI creating Origami in 3D."
   },
   "ai+painting": {
     "result": "ai-art",
     "reasoning": "AI enhanced with Painting creates AI Art"
   },
-  "art+neural-network": {
-    "result": "image-generation",
-    "reasoning": "art meets Neural Network, chaos files a memo, and Image Generation walks out with the trophy."
+  "ai+percussion": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Percussion = AI Generated Art. Is it art? The debate rages on."
   },
-  "artificial-intelligence+music": {
-    "result": "ai-music",
-    "reasoning": "Artificial Intelligence plus Music is the weird recipe your alchemist friend swears by for making AI Music."
+  "ai+piano": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Piano = AI Generated Art. Is it art? The debate rages on."
   },
-  "chatbot+painting": {
-    "result": "midjourney",
-    "reasoning": "Chatbot tags in with Painting, and somehow the universe speedruns Midjourney."
+  "ai+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating Pixel Art in 3D."
   },
-  "chatjimmy+painting": {
-    "result": "jimmy-art",
-    "reasoning": "When ChatJimmy and Painting collide, logic takes a coffee break and Jimmy Art appears anyway."
+  "ai+polka": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Polka = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+pop-art": {
+    "result": "3d-model",
+    "reasoning": "AI creating Pop Art in 3D."
+  },
+  "ai+port": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Port = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+pyramid": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Pyramid = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+reality-tv": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Reality TV = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+reggae": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Reggae = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+rhythm": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Rhythm = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+roof": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Roof = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+rpg": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + RPG = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+running": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Running = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+saxophone": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Saxophone = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+sculpture": {
+    "result": "3d-model",
+    "reasoning": "AI creating Sculpture in 3D."
+  },
+  "ai+shower": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Shower = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+skyscraper": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Skyscraper = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+slam-poetry": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Slam Poetry = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+song": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Song = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+sonnet": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Sonnet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+sony": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Sony = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+soul-music": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Soul Music = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+spa": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Spa = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+speedrun": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Speedrun = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+sport": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + sport = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+stadium": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Stadium = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+stained-glass": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Stained Glass = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+surfing": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Surfing = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+symphony": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Symphony = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+table": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Table = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+toy": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Toy = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+tuba": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Tuba = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+twitch": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Twitch = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+violin": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Violin = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+vr-game": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + VR Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+wall": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Wall = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+watercolor": {
+    "result": "3d-model",
+    "reasoning": "AI creating Watercolor in 3D."
+  },
+  "ai+window": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Window = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+xbox": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Xbox = AI Generated Art. Is it art? The debate rages on."
+  },
+  "ai+xylophone": {
+    "result": "ai-generated-art",
+    "reasoning": "AI + Xylophone = AI Generated Art. Is it art? The debate rages on."
+  },
+  "air+machine-learning": {
+    "result": "air-conditioner",
+    "reasoning": "Combine Air with Machine Learning to create Air Conditioner."
+  },
+  "art+jimmy-art": {
+    "result": "calligraphy",
+    "reasoning": "Combine Art with Jimmy Art to create Calligraphy."
+  },
+  "castle+jimmy-art": {
+    "result": "museum",
+    "reasoning": "A Castle preserving Jimmy Art — a Museum."
+  },
+  "castle+knowledge-graph": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "church+jimmy-art": {
+    "result": "museum",
+    "reasoning": "A Church preserving Jimmy Art — a Museum."
+  },
+  "church+knowledge-graph": {
+    "result": "library",
+    "reasoning": "A Church filled with Knowledge Graph — a Library."
+  },
+  "classical-music+jimmy-voice": {
+    "result": "soul-music",
+    "reasoning": "Combine Classical Music with Jimmy Voice to create Soul Music."
+  },
+  "classical-music+large-language-model": {
+    "result": "symphony",
+    "reasoning": "Combine Classical Music with Large Language Model to create Symphony."
+  },
+  "code-generation+country-music": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Country Music — Spotify."
+  },
+  "code-generation+drawing": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Drawing in 3D."
+  },
+  "code-generation+drum": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Drum — Spotify."
+  },
+  "code-generation+easel": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Easel in 3D."
+  },
+  "code-generation+flute": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Flute — Spotify."
+  },
+  "code-generation+folk-music": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Folk Music — Spotify."
+  },
+  "code-generation+fresco": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Fresco in 3D."
+  },
+  "code-generation+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Graffiti in 3D."
+  },
+  "code-generation+guitar": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Guitar — Spotify."
+  },
+  "code-generation+harmonica": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Harmonica — Spotify."
+  },
+  "code-generation+harp": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Harp — Spotify."
+  },
+  "code-generation+lyre": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Lyre — Spotify."
+  },
+  "code-generation+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Mosaic in 3D."
+  },
+  "code-generation+mural": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Mural in 3D."
+  },
+  "code-generation+music": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Music — Spotify."
+  },
+  "code-generation+orchestra": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Orchestra — Spotify."
+  },
+  "code-generation+origami": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Origami in 3D."
+  },
+  "code-generation+piano": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Piano — Spotify."
+  },
+  "code-generation+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Pixel Art in 3D."
+  },
+  "code-generation+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Pop Art in 3D."
+  },
+  "code-generation+rock-music": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Rock Music — Spotify."
+  },
+  "code-generation+saxophone": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Saxophone — Spotify."
+  },
+  "code-generation+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "Code Generation + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "code-generation+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Sculpture in 3D."
+  },
+  "code-generation+song": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Song — Spotify."
+  },
+  "code-generation+soul-music": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Soul Music — Spotify."
+  },
+  "code-generation+symphony": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Symphony — Spotify."
+  },
+  "code-generation+trumpet": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Trumpet — Spotify."
+  },
+  "code-generation+ukulele": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Ukulele — Spotify."
+  },
+  "code-generation+violin": {
+    "result": "spotify",
+    "reasoning": "Code Generation streaming Violin — Spotify."
+  },
+  "code-generation+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Code Generation creating Watercolor in 3D."
+  },
+  "cymbal+large-language-model": {
+    "result": "gong",
+    "reasoning": "Combine Large Language Model with Cymbal to create Gong."
+  },
+  "dam+large-language-model": {
+    "result": "reservoir",
+    "reasoning": "Combine Dam with Large Language Model to create Reservoir."
+  },
+  "dance+large-language-model": {
+    "result": "ballroom",
+    "reasoning": "Combine Dance with Large Language Model to create Ballroom."
+  },
+  "data-pipeline+drawing": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Drawing in 3D."
+  },
+  "data-pipeline+drum": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Drum — Spotify."
+  },
+  "data-pipeline+easel": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Easel in 3D."
+  },
+  "data-pipeline+flute": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Flute — Spotify."
+  },
+  "data-pipeline+folk-music": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Folk Music — Spotify."
+  },
+  "data-pipeline+fresco": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Fresco in 3D."
+  },
+  "data-pipeline+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Graffiti in 3D."
+  },
+  "data-pipeline+guitar": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Guitar — Spotify."
+  },
+  "data-pipeline+harmonica": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Harmonica — Spotify."
+  },
+  "data-pipeline+harp": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Harp — Spotify."
   }
 }

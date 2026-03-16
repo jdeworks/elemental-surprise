@@ -1,202 +1,882 @@
 {
+  "absurdity+lead": {
+    "result": "charisma",
+    "reasoning": "Combine Lead with Absurdity to create Charisma."
+  },
+  "ambition+fabric": {
+    "result": "tailor",
+    "reasoning": "Combine Fabric with Ambition to create Tailor."
+  },
+  "ambition+gem": {
+    "result": "jeweler",
+    "reasoning": "Combine Gem with Ambition to create Jeweler."
+  },
+  "anger+canvas": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "anger+paint": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "anxiety+canvas": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "anxiety+fabric": {
+    "result": "tailor",
+    "reasoning": "Combine Fabric with Anxiety to create Tailor."
+  },
+  "anxiety+paint": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "apothecary+armor": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Armor = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+asphalt": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Asphalt = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+basalt": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Basalt = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+bauxite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Bauxite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+bitumen": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Bitumen = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+blade": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Blade = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+bone-ash": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Bone Ash = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+bone-china": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Bone China = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+brass": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Brass = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+brick": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Brick = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+bronze": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Bronze = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+burlap": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Burlap = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+calico": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Calico = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+candle": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Candle = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+canvas": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + canvas = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cardboard": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cardboard = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cashmere": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cashmere = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cellophane": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cellophane = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cement": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cement = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+ceramic": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Ceramic = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+chain": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Chain = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+chalk": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Chalk = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+chamois": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Chamois = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+charcoal": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Charcoal = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+chrome": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Chrome = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cinderblock": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cinderblock = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+clinker": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Clinker = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+coal": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Coal = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cobalt": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cobalt = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+coil": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + coil = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+concrete": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Concrete = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+copper": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Copper = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cork": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cork = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+cotton": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Cotton = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+crystal": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Crystal = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+damask": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Damask = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+denim": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Denim = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+diamond": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Diamond = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+dry-ice": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Dry Ice = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+dye": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Dye = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+dynamite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Dynamite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+e-waste": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + E-Waste = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+electroplate": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Electroplate = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+enamel": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Enamel = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+epoxy": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Epoxy = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fabric": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Fabric = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fat": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + fat = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+felt": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Felt = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fiber": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + fiber = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fiberglass": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Fiberglass = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+firebrick": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Firebrick = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+firework": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Firework = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fleece": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Fleece = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+flint": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Flint = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+foam": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Foam = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+food-packaging": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Food Packaging = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fossil": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Fossil = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+fullerene": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Fullerene = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+galvanized-steel": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Galvanized Steel = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+gel": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Gel = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+gem": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Gem = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+glass": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Glass = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+glue": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Glue = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+gold": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Gold = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+granite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Granite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+graphene": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Graphene = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+graphite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Graphite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+gunpowder": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Gunpowder = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+gutta-percha": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Gutta-Percha = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+hemp": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Hemp = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+ingot": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Ingot = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+ink": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Ink = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+iron": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Iron = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+ivory": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Ivory = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+jute": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Jute = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+kaolin": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Kaolin = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+kevlar": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Kevlar = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+lacquer": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Lacquer = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+latex": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Latex = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+lead": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Lead = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+leather": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Leather = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+lens": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Lens = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+limestone": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Limestone = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+linen": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Linen = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+magma": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Magma = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+marble": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Marble = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+medallion": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Medallion = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+metal": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + metal = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+mica": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Mica = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+mineral": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Mineral = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+mirror": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Mirror = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+mortar": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Mortar = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+nacre": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Nacre = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+nail": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Nail = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+natural-gas": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Natural Gas = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+net": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Net = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+nickel": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Nickel = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+nylon": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Nylon = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+oil": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Oil = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+organza": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Organza = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+paint": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Paint = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+paper": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Paper = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+papyrus": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Papyrus = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+parchment": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Parchment = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+paste": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Paste = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+permafrost": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Permafrost = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+petroleum": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Petroleum = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+pewter": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Pewter = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+pigment": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Pigment = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+plank": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + plank = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+plaster": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Plaster = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+plastic": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Plastic = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+platinum": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Platinum = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+plywood": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Plywood = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+porcelain": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Porcelain = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+prism": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Prism = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+pulp": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Pulp = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+pumice": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Pumice = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+quartz": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Quartz = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+quicklite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Quicklite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+rattan": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Rattan = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+raw-material": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Raw Material = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+rayon": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Rayon = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+rope": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Rope = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+rubber": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Rubber = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+rust": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Rust = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+sail": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Sail = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+sandstone": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Sandstone = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+satin": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Satin = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+scrap-heap": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Scrap Heap = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+shale": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Shale = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+shield": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Shield = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+silicon": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Silicon = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+silicone": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Silicone = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+silk": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Silk = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+silver": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Silver = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+slate": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Slate = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+soap": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Soap = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+soil": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Soil = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+solder": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Solder = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+steel": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Steel = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+suede": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Suede = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+taffeta": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Taffeta = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+tar": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Tar = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+taxidermy": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Taxidermy = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+teflon": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Teflon = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+terracotta": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Terracotta = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+thread": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Thread = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+tin": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Tin = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+titanium": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Titanium = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+tungsten": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Tungsten = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+tweed": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Tweed = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+varnish": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Varnish = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+velvet": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Velvet = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+vermiculite": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Vermiculite = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+wax": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + wax = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+wire": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Wire = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+wool": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Wool = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+yarn": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Yarn = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "apothecary+zinc": {
+    "result": "arts-and-crafts",
+    "reasoning": "Apothecary + Zinc = Arts and Crafts. Glitter. Glue. Regret. In that order."
+  },
+  "armor+bone": {
+    "result": "helmet",
+    "reasoning": "Armor for the skull is a Helmet"
+  },
+  "armor+child": {
+    "result": "knight",
+    "reasoning": "A knight's armor could weigh 50 pounds and cost a fortune"
+  },
   "armor+human": {
     "result": "knight",
     "reasoning": "Through mystical forces, Armor and human become Knight"
   },
-  "blade+human": {
-    "result": "army",
-    "reasoning": "Someone mixed Blade with human for science. The peer-reviewed conclusion: Army."
+  "armor+man": {
+    "result": "knight",
+    "reasoning": "A knight's armor could weigh 50 pounds and cost a fortune"
   },
-  "body+glass": {
-    "result": "eye",
-    "reasoning": "Body tags in with Glass, and somehow the universe speedruns eye."
+  "armor+monk": {
+    "result": "knight",
+    "reasoning": "A knight's armor could weigh 50 pounds and cost a fortune"
   },
-  "body+iron": {
-    "result": "mri",
-    "reasoning": "Body and Iron shake hands, reality shrugs, and MRI is suddenly canon."
+  "armor+woman": {
+    "result": "knight",
+    "reasoning": "A knight's armor could weigh 50 pounds and cost a fortune"
+  },
+  "awe+canvas": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "awe+paint": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
+  },
+  "barber+nail": {
+    "result": "keratin",
+    "reasoning": "Combine Nail with Barber to create Keratin."
+  },
+  "blood+iron": {
+    "result": "hemoglobin",
+    "reasoning": "Combine Blood with Iron to create Hemoglobin."
   },
   "body+leather": {
     "result": "skin",
     "reasoning": "The human experience of Body and Leather manifests as skin"
   },
-  "body+lens": {
-    "result": "contact-lens",
-    "reasoning": "Body teams up with Lens; the side quest reward is Contact Lens."
+  "bone+bone-china": {
+    "result": "ivory",
+    "reasoning": "Combine Bone China with Bone to create Ivory."
   },
-  "body+metal": {
-    "result": "prosthetic",
-    "reasoning": "Body and metal accidentally host a crossover episode; Prosthetic steals the finale."
-  },
-  "bone+fabric": {
-    "result": "hat",
-    "reasoning": "Bone and Fabric shake hands, reality shrugs, and Hat is suddenly canon."
-  },
-  "brain+fabric": {
-    "result": "hat",
-    "reasoning": "Brain and Fabric shake hands, reality shrugs, and Hat is suddenly canon."
-  },
-  "brick+child": {
-    "result": "family",
-    "reasoning": "Brick teams up with Child; the side quest reward is Family."
-  },
-  "brick+human": {
-    "result": "architect",
-    "reasoning": "Brick meets human, chaos files a memo, and Architect walks out with the trophy."
-  },
-  "canvas+human": {
+  "canvas+child": {
     "result": "artist",
-    "reasoning": "canvas and human shake hands, reality shrugs, and Artist is suddenly canon."
+    "reasoning": "Canvas replaced wood panels in the Renaissance — lighter, larger art"
   },
-  "courage+sail": {
-    "result": "captain",
-    "reasoning": "courage plus Sail is the weird recipe your alchemist friend swears by for making Captain."
+  "canvas+courage": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "crystal+eye": {
-    "result": "contact-lens",
-    "reasoning": "Crystal and eye accidentally host a crossover episode; Contact Lens steals the finale."
+  "canvas+despair": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "crystal+human": {
-    "result": "glasses",
-    "reasoning": "Crystal teams up with human; the side quest reward is Glasses."
+  "canvas+emotion": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "dye+imagination": {
-    "result": "art",
-    "reasoning": "Dye meets imagination, chaos files a memo, and art walks out with the trophy."
+  "canvas+empathy": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "eye+glass": {
-    "result": "contact-lens",
-    "reasoning": "Someone mixed eye with Glass for science. The peer-reviewed conclusion: Contact Lens."
+  "canvas+excitement": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "eye+lens": {
-    "result": "contact-lens",
-    "reasoning": "eye and Lens explain the phenomenon of Contact Lens"
+  "canvas+fear": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "fabric+head": {
-    "result": "hat",
-    "reasoning": "Fabric and head create Hat"
+  "canvas+grief": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "fabric+human": {
-    "result": "clothing",
-    "reasoning": "Fabric and human create Clothing"
+  "canvas+happiness": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "fabric+intelligence": {
-    "result": "clothing",
-    "reasoning": "When Fabric and intelligence collide, logic takes a coffee break and Clothing appears anyway."
+  "canvas+hope": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "fabric+sleep": {
-    "result": "bed",
-    "reasoning": "Fabric and sleep create Bed"
+  "canvas+joy": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "fabric+thought": {
-    "result": "flag",
-    "reasoning": "Fabric and Thought accidentally host a crossover episode; Flag steals the finale."
+  "canvas+love": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "foot+leather": {
-    "result": "shoe",
-    "reasoning": "foot and Leather create Shoe"
+  "canvas+man": {
+    "result": "artist",
+    "reasoning": "Canvas replaced wood panels in the Renaissance — lighter, larger art"
   },
-  "foot+rubber": {
-    "result": "soccer",
-    "reasoning": "foot tags in with Rubber, and somehow the universe speedruns Soccer."
+  "canvas+monk": {
+    "result": "artist",
+    "reasoning": "Canvas replaced wood panels in the Renaissance — lighter, larger art"
   },
-  "gem+human": {
-    "result": "king",
-    "reasoning": "Gem meets human, chaos files a memo, and King walks out with the trophy."
+  "canvas+nostalgia": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "gem+woman": {
-    "result": "queen",
-    "reasoning": "Gem plus Woman is the weird recipe your alchemist friend swears by for making Queen."
+  "canvas+pride": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "glass+human": {
-    "result": "angel",
-    "reasoning": "Glass and human accidentally host a crossover episode; Angel steals the finale."
+  "canvas+sadness": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "glass+sense": {
-    "result": "sight",
-    "reasoning": "Glass teams up with Sense; the side quest reward is Sight."
+  "canvas+shame": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   },
-  "glass+touch": {
-    "result": "touchscreen",
-    "reasoning": "When Glass and Touch collide, logic takes a coffee break and Touchscreen appears anyway."
+  "canvas+woman": {
+    "result": "artist",
+    "reasoning": "Canvas replaced wood panels in the Renaissance — lighter, larger art"
   },
-  "gold+human": {
-    "result": "trade",
-    "reasoning": "Gold teams up with human; the side quest reward is trade."
+  "chain+thought": {
+    "result": "chain-of-thought",
+    "reasoning": "Combine Chain with Thought to create Chain of Thought."
   },
-  "gold+woman": {
-    "result": "queen",
-    "reasoning": "Gold and Woman shake hands, reality shrugs, and Queen is suddenly canon."
+  "child+copper": {
+    "result": "electrician",
+    "reasoning": "Copper conducts electricity — electricians work with it daily"
   },
-  "hand+leather": {
-    "result": "glove",
-    "reasoning": "hand and Leather create Glove"
+  "child+diamond": {
+    "result": "jeweler",
+    "reasoning": "Diamonds are cut by jewelers — the hardest natural material shaped by skill"
   },
-  "head+thread": {
-    "result": "hat",
-    "reasoning": "head plus Thread is the weird recipe your alchemist friend swears by for making Hat."
+  "child+fabric": {
+    "result": "tailor",
+    "reasoning": "Tailors transform fabric into garments — wearable art"
   },
-  "hearing+silicon": {
-    "result": "hearing-aid",
-    "reasoning": "Hearing and Silicon accidentally host a crossover episode; Hearing Aid steals the finale."
+  "child+gem": {
+    "result": "jeweler",
+    "reasoning": "Jewelers cut and set gems — turning raw stone into beauty"
   },
-  "human+leather": {
-    "result": "skin",
-    "reasoning": "human teams up with Leather; the side quest reward is skin."
+  "child+gold": {
+    "result": "jeweler",
+    "reasoning": "Jewelers have worked gold since 4000 BCE — the eternal metal"
   },
-  "human+lens": {
-    "result": "glasses",
-    "reasoning": "human and Lens explain the phenomenon of Glasses"
+  "child+ink": {
+    "result": "scribe",
+    "reasoning": "Scribes copied texts by hand with ink for millennia before printing"
   },
-  "human+metal": {
-    "result": "android",
-    "reasoning": "human meets metal, chaos files a memo, and Android walks out with the trophy."
+  "child+iron": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths forge iron into tools, weapons, and horseshoes"
   },
-  "human+paper": {
-    "result": "autobiography",
-    "reasoning": "human plus Paper is the weird recipe your alchemist friend swears by for making Autobiography."
+  "child+lens": {
+    "result": "glassblower",
+    "reasoning": "Glassblowers shaped the first lenses — enabling microscopes and telescopes"
   },
-  "human+plank": {
-    "result": "chair",
-    "reasoning": "human and plank create Chair"
+  "child+paint": {
+    "result": "artist",
+    "reasoning": "Artists have painted since cave walls in Lascaux 17,000 years ago"
   },
-  "human+sail": {
-    "result": "pirate",
-    "reasoning": "human meets Sail, chaos files a memo, and Pirate walks out with the trophy."
+  "child+pigment": {
+    "result": "artist",
+    "reasoning": "Artists once ground their own pigments — some were toxic (lead white, arsenic green)"
   },
-  "human+steel": {
-    "result": "knight",
-    "reasoning": "human tags in with Steel, and somehow the universe speedruns Knight."
+  "child+shield": {
+    "result": "guard",
+    "reasoning": "Guards carry shields to protect people and places"
   },
-  "human+thread": {
-    "result": "clothing",
-    "reasoning": "human tags in with Thread, and somehow the universe speedruns Clothing."
+  "child+silver": {
+    "result": "jeweler",
+    "reasoning": "Silversmiths craft jewelry and tableware from the moon's metal"
   },
-  "imagination+paint": {
-    "result": "art",
-    "reasoning": "imagination and Paint create art"
+  "child+steel": {
+    "result": "blacksmith",
+    "reasoning": "Steel is the blacksmith's finest material — strong and flexible"
   },
-  "ink+speech": {
-    "result": "writing",
-    "reasoning": "Ink and Speech shake hands, reality shrugs, and Writing is suddenly canon."
+  "child+thread": {
+    "result": "weaver",
+    "reasoning": "Weavers turn thread into fabric on looms"
   },
-  "intelligence+lens": {
-    "result": "glasses",
-    "reasoning": "intelligence plus Lens is the weird recipe your alchemist friend swears by for making Glasses."
+  "child+wire": {
+    "result": "electrician",
+    "reasoning": "Electricians run wire through buildings — the nervous system of infrastructure"
   },
-  "paper+thought": {
-    "result": "knowledge",
-    "reasoning": "Paper plus Thought is the weird recipe your alchemist friend swears by for making knowledge."
+  "copper+human": {
+    "result": "electrician",
+    "reasoning": "Copper conducts electricity — electricians work with it daily"
   },
-  "paper+touch": {
-    "result": "braille",
-    "reasoning": "Someone mixed Paper with Touch for science. The peer-reviewed conclusion: Braille."
+  "copper+man": {
+    "result": "electrician",
+    "reasoning": "Copper conducts electricity — electricians work with it daily"
   },
-  "sense+silicon": {
-    "result": "sensor",
-    "reasoning": "Sense teams up with Silicon; the side quest reward is Sensor."
+  "copper+monk": {
+    "result": "electrician",
+    "reasoning": "Copper conducts electricity — electricians work with it daily"
   },
-  "sleep+thread": {
-    "result": "bed",
-    "reasoning": "sleep and Thread accidentally host a crossover episode; Bed steals the finale."
+  "copper+woman": {
+    "result": "electrician",
+    "reasoning": "Copper conducts electricity — electricians work with it daily"
+  },
+  "courage+paint": {
+    "result": "ballad",
+    "reasoning": "Emotion expressed through art creates a Ballad, the deepest form"
   }
 }

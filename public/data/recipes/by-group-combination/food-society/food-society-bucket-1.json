@@ -1,50 +1,882 @@
 {
-  "bread+corporation": {
-    "result": "mcdonalds",
-    "reasoning": "Bread meets Corporation, chaos files a memo, and McDonalds walks out with the trophy."
+  "aioli+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "cheese+city": {
-    "result": "rat",
-    "reasoning": "cheese teams up with city; the side quest reward is Rat."
+  "aioli+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "city+garden": {
-    "result": "park",
-    "reasoning": "city and Garden create Park"
+  "alcohol+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "coffee+company": {
-    "result": "starbucks",
-    "reasoning": "Coffee tags in with company, and somehow the universe speedruns Starbucks."
+  "alcohol+law": {
+    "result": "prohibition",
+    "reasoning": "Combine Law with Alcohol to create Prohibition."
   },
-  "coffee+corporation": {
-    "result": "starbucks",
-    "reasoning": "Combining Coffee with Corporation makes delicious Starbucks"
+  "alcohol+prohibition": {
+    "result": "bootlegger",
+    "reasoning": "Combine Alcohol with Prohibition to create Bootlegger."
   },
-  "company+hamburger": {
-    "result": "mcdonalds",
-    "reasoning": "company tags in with Hamburger, and somehow the universe speedruns McDonalds."
+  "alcohol+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
   },
-  "corporation+hamburger": {
-    "result": "mcdonalds",
-    "reasoning": "Combining Corporation with Hamburger makes delicious McDonalds"
+  "amphitheater+beer": {
+    "result": "brewery",
+    "reasoning": "Combine Beer with Amphitheater to create Brewery."
   },
-  "corporation+meat": {
-    "result": "mcdonalds",
-    "reasoning": "Corporation and meat accidentally host a crossover episode; McDonalds steals the finale."
+  "amphitheater+bread": {
+    "result": "bakery",
+    "reasoning": "Combine Bread with Amphitheater to create Bakery."
   },
-  "garden+town": {
-    "result": "park",
-    "reasoning": "Garden meets Town, chaos files a memo, and Park walks out with the trophy."
+  "amphitheater+egg-food": {
+    "result": "cannery",
+    "reasoning": "Combine Egg Food with Amphitheater to create Cannery."
   },
-  "nation+wine": {
-    "result": "europe",
-    "reasoning": "When Nation and wine collide, logic takes a coffee break and europe appears anyway."
+  "apothecary-shop+egg-food": {
+    "result": "cannery",
+    "reasoning": "Combine Egg Food with Apothecary Shop to create Cannery."
   },
-  "revolution+wine": {
-    "result": "france",
-    "reasoning": "Revolution and wine together shape France"
+  "astronaut-food+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
   },
-  "society+wine": {
-    "result": "france",
-    "reasoning": "Someone mixed society with wine for science. The peer-reviewed conclusion: France."
+  "astronaut-food+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bagel+forge": {
+    "result": "toast",
+    "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
+  },
+  "bagel+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bakery+beer": {
+    "result": "brewery",
+    "reasoning": "Combine Beer with Bakery to create Brewery."
+  },
+  "bakery+bread": {
+    "result": "naan",
+    "reasoning": "Combine Bread with Bakery to create Naan."
+  },
+  "baklava+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "baklava+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "barn+cathedral": {
+    "result": "temple",
+    "reasoning": "A Barn for Cathedral — a Temple."
+  },
+  "barn+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "barn+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "batter+forge": {
+    "result": "pancake",
+    "reasoning": "Pour batter on a hot griddle and flip for Pancakes"
+  },
+  "batter+reservoir": {
+    "result": "crepe",
+    "reasoning": "Thinning batter with water creates delicate Crepe batter"
+  },
+  "beer+forge": {
+    "result": "brewing",
+    "reasoning": "Brewing beer requires boiling the wort, heat is essential"
+  },
+  "beer+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bell-tower+chocolate": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Chocolate — a Bakery."
+  },
+  "bell-tower+couscous": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Couscous — a Bakery."
+  },
+  "bell-tower+egg-food": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Egg Food — a Bakery."
+  },
+  "bell-tower+espresso": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Espresso — a Bakery."
+  },
+  "bell-tower+lawn": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Lawn — a Bakery."
+  },
+  "bell-tower+mcdonalds": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making McDonalds — a Bakery."
+  },
+  "bell-tower+okra": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Okra — a Bakery."
+  },
+  "bell-tower+peanut-butter": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Peanut Butter — a Bakery."
+  },
+  "bell-tower+pepper": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Pepper — a Bakery."
+  },
+  "bell-tower+pickle": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Pickle — a Bakery."
+  },
+  "bell-tower+pierogi": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Pierogi — a Bakery."
+  },
+  "bell-tower+plow": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Plow — a Bakery."
+  },
+  "bell-tower+potluck": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Potluck — a Bakery."
+  },
+  "bell-tower+roast": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Roast — a Bakery."
+  },
+  "bell-tower+salsa": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Salsa — a Bakery."
+  },
+  "bell-tower+salt": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Salt — a Bakery."
+  },
+  "bell-tower+sandwich": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Sandwich — a Bakery."
+  },
+  "bell-tower+toast": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Toast — a Bakery."
+  },
+  "bell-tower+tofu": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Tofu — a Bakery."
+  },
+  "bell-tower+tortilla": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Tortilla — a Bakery."
+  },
+  "bell-tower+tzatziki": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Tzatziki — a Bakery."
+  },
+  "bell-tower+wonton": {
+    "result": "bakery",
+    "reasoning": "A Bell Tower making Wonton — a Bakery."
+  },
+  "biscuit+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "biscuit+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bread+forge": {
+    "result": "toast",
+    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
+  },
+  "bread+reservoir": {
+    "result": "porridge",
+    "reasoning": "Bread soaked in water becomes Porridge, medieval pottage for the poor"
+  },
+  "brewing+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brewing+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "brioche+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "brioche+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "broth+forge": {
+    "result": "soup",
+    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
+  },
+  "broth+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bruschetta+bunker": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Bunker = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+bureaucracy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Bureaucracy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+canada": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Canada = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+canal": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Canal = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+cannery": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Cannery = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+capital": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Capital = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+captain": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Captain = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+caravan": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Caravan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+carnival": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + carnival = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+cathedral": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Cathedral = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+celebration": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Celebration = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+centurion": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Centurion = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+ceo": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + CEO = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+chapel": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Chapel = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+chef": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Chef = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+china": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + China = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+choice": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + choice = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+citadel": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Citadel = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+city": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + city = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+civilization": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Civilization = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+clock-tower": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Clock Tower = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+coin": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Coin = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+colony": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Colony = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+colosseum": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Colosseum = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+community": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Community = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+company": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + company = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+conquistador": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Conquistador = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+construction-site": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Construction Site = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+consul": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Consul = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+consulate": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Consulate = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+corporation": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Corporation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+court": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Court = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+courthouse": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Courthouse = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+courtyard": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Courtyard = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+credit-card": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Credit Card = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+crusader": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Crusader = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+crypt": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Crypt = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+culture": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Culture = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+customs": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Customs = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+czar": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Czar = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+debt": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Debt = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+degree": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Degree = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+democracy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Democracy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+designer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Designer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+developer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Developer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+diplomacy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Diplomacy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+director": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Director = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+doctor": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Doctor = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+drawbridge": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Drawbridge = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+egypt": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Egypt = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+eiffel-tower": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Eiffel Tower = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+embassy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Embassy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+empire": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Empire = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+engineer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Engineer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+europe": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + europe = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+exam": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Exam = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+farmer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Farmer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+festival": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Festival = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+feudalism": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Feudalism = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+flag": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Flag = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+forge": {
+    "result": "cooking",
+    "reasoning": "Applying heat to food is the essence of Cooking"
+  },
+  "bruschetta+foundry": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Foundry = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+france": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + France = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+freedom": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + freedom = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+garrison": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Garrison = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+gatehouse": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Gatehouse = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+germany": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Germany = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+gladiator": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Gladiator = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+government": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + government = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+grammy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Grammy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+granary": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Granary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+grand-canyon": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Grand Canyon = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+great-barrier-reef": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Great Barrier Reef = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+great-wall": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Great Wall = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+guild": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Guild = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+harbor": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Harbor = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+homework": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Homework = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+india": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + India = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+industrial-revolution": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Industrial Revolution = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+infirmary": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Infirmary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+infrastructure": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Infrastructure = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+inn": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Inn = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+inquisition": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Inquisition = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+insurance": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Insurance = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+investment": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Investment = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+italy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Italy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+japan": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Japan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+journalist": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Journalist = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+judge": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Judge = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+jury": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Jury = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+justice": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Justice = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+kaiser": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Kaiser = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+keep": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Keep = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+korea": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Korea = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+law": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + law = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+lawyer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Lawyer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+legionnaire": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Legionnaire = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+loan": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Loan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+machu-picchu": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Machu Picchu = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+magna-carta": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Magna Carta = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+market": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Market = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+marketing": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Marketing = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+media": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + media = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+mexico": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Mexico = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+mint": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Mint = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+moat": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Moat = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+monarchy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Monarchy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+monastery": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Monastery = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+money": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + money = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+mortuary": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Mortuary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+mount-everest": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Mount Everest = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+musician": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Musician = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+musketeer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Musketeer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+nation": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Nation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+niagara-falls": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Niagara Falls = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+nobel-prize": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Nobel Prize = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+nurse": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Nurse = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+obelisk": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Obelisk = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+olympic-games": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Olympic Games = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+orphanage": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Orphanage = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+oscar": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Oscar = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+ottoman": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Ottoman = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+outpost": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Outpost = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pagoda": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pagoda = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+palace": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Palace = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+parliament": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Parliament = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+peace": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Peace = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pest-control": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pest Control = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pharaoh": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + pharaoh = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+philosopher": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Philosopher = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pier": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pier = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pilot": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pilot = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pirate-captain": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pirate Captain = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+plantation": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Plantation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+police": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Police = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+poverty": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Poverty = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+professor": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Professor = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+profit": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Profit = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+programmer": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Programmer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+prohibition": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Prohibition = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+public-holiday": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Public Holiday = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+pyramids-of-giza": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Pyramids of Giza = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+quarry": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Quarry = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+red-tape": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Red Tape = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+reformation": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Reformation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+republic": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Republic = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+reservoir": {
+    "result": "soup",
+    "reasoning": "Adding water to food is the simplest way to make Soup"
+  },
+  "bruschetta+revolution": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Revolution = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+ritual": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Ritual = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+russia": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Russia = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+sawmill": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Sawmill = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+scientist": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Scientist = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+shipyard": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Shipyard = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+shogun": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Shogun = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+siege": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Siege = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+silk-road": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Silk Road = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+smart-city": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Smart City = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+smithy": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Smithy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+society": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + society = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+space-race": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Space Race = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+spartan": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Spartan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+stable": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Stable = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  },
+  "bruschetta+startup": {
+    "result": "potluck",
+    "reasoning": "Bruschetta + Startup = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
   }
 }

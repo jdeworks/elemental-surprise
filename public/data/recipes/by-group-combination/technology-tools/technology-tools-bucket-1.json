@@ -1,43 +1,151 @@
 {
-  "app+car": {
-    "result": "uber",
-    "reasoning": "App plus Car is the weird recipe your alchemist friend swears by for making Uber."
+  "abacus+stable-diffusion": {
+    "result": "tripod",
+    "reasoning": "Combine Stable Diffusion with Abacus to create Tripod."
+  },
+  "air-conditioner+bellows": {
+    "result": "forge-bellows",
+    "reasoning": "Combine Bellows with Air Conditioner to create Forge Bellows."
+  },
+  "air-conditioner+hot-air-balloon": {
+    "result": "compressor",
+    "reasoning": "Combine Air Conditioner with Hot Air Balloon to create Compressor."
+  },
+  "air-conditioner+machine": {
+    "result": "compressor",
+    "reasoning": "Combine Air Conditioner with Machine to create Compressor."
+  },
+  "air-conditioner+tool": {
+    "result": "pneumatic",
+    "reasoning": "Combine Air Conditioner with Tool to create Pneumatic."
+  },
+  "airplane+stable-diffusion": {
+    "result": "tripod",
+    "reasoning": "Combine Stable Diffusion with Airplane to create Tripod."
+  },
+  "algorithm+art-supplies": {
+    "result": "3d-model",
+    "reasoning": "Algorithm creating Art Supplies in 3D."
+  },
+  "antenna+satellite": {
+    "result": "satellite-dish",
+    "reasoning": "Combine Satellite with Antenna to create Satellite Dish."
+  },
+  "app+art-supplies": {
+    "result": "3d-model",
+    "reasoning": "App creating Art Supplies in 3D."
   },
   "app+taxi": {
     "result": "uber",
     "reasoning": "Applying App to Taxi produces Uber"
   },
+  "axe+fiber-optic": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "axe+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  },
+  "axe+tree-data": {
+    "result": "lumberjack",
+    "reasoning": "Combine Axe with Tree Data to create Lumberjack."
+  },
+  "backpack+water-wheel": {
+    "result": "aquarium",
+    "reasoning": "Backpack of Water Wheel = Aquarium."
+  },
+  "bag+water-wheel": {
+    "result": "aquarium",
+    "reasoning": "bag of Water Wheel = Aquarium."
+  },
   "battery+car": {
-    "result": "tesla",
-    "reasoning": "Battery and Car accidentally host a crossover episode; Tesla steals the finale."
+    "result": "electric-car",
+    "reasoning": "A car with a battery is an Electric Car"
+  },
+  "battery+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Battery + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "battery+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Battery through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "bolt+electricity": {
+    "result": "cable",
+    "reasoning": "Combine Electricity with Bolt to create Cable."
+  },
+  "brazier+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Brazier creates an Ingot — the foundation of metallurgy."
+  },
+  "brazier+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "brazier+water-wheel": {
+    "result": "steam",
+    "reasoning": "Brazier turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "bucket+electricity": {
+    "result": "cable",
+    "reasoning": "Combine Electricity with Bucket to create Cable."
+  },
+  "bucket+water-wheel": {
+    "result": "aquarium",
+    "reasoning": "Bucket of Water Wheel = Aquarium."
   },
   "bug+tool": {
     "result": "debug",
     "reasoning": "Applying Bug to tool produces Debug"
   },
-  "button+spring": {
-    "result": "keyboard",
-    "reasoning": "button and Spring accidentally host a crossover episode; Keyboard steals the finale."
+  "car+electric-car": {
+    "result": "jack",
+    "reasoning": "Combine Car with Electric Car to create Jack."
   },
-  "button+tool": {
-    "result": "controller",
-    "reasoning": "button and tool shake hands, reality shrugs, and Controller is suddenly canon."
+  "car+electricity": {
+    "result": "electric-car",
+    "reasoning": "An automobile powered by electricity is an Electric Car"
   },
-  "car+computer": {
-    "result": "self-driving-car",
-    "reasoning": "When Car and Computer collide, logic takes a coffee break and Self Driving Car appears anyway."
+  "car+self-driving-car": {
+    "result": "jack",
+    "reasoning": "Combine Car with Self Driving Car to create Jack."
   },
-  "car+technology": {
-    "result": "toyota",
-    "reasoning": "When Car and technology collide, logic takes a coffee break and Toyota appears anyway."
+  "cathode-ray-tube+magnifying-glass": {
+    "result": "vacuum-tube",
+    "reasoning": "Combine Cathode Ray Tube with Magnifying Glass to create Vacuum Tube."
   },
-  "computer+engine": {
-    "result": "satellite",
-    "reasoning": "When Computer and Engine collide, logic takes a coffee break and Satellite appears anyway."
+  "chisel+electricity": {
+    "result": "cable",
+    "reasoning": "Combine Electricity with Chisel to create Cable."
   },
-  "computer+gun": {
-    "result": "fps",
-    "reasoning": "Someone mixed Computer with gun for science. The peer-reviewed conclusion: FPS."
+  "chisel+fiber-optic": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "chisel+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  },
+  "circuit-board+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Circuit Board + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "circuit-board+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Circuit Board through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "circuit+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Circuit + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "circuit+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Circuit through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "compressor+machine": {
+    "result": "escalator",
+    "reasoning": "Combine Machine with Compressor to create Escalator."
   },
   "computer+machine": {
     "result": "robot",
@@ -47,92 +155,728 @@
     "result": "satellite",
     "reasoning": "Crafting Computer with Rocket produces Satellite"
   },
-  "computer+tool": {
-    "result": "video-game",
-    "reasoning": "Computer teams up with tool; the side quest reward is Video Game."
+  "conveyor-belt+machine": {
+    "result": "escalator",
+    "reasoning": "Combine Machine with Conveyor Belt to create Escalator."
   },
-  "data+machine": {
-    "result": "automation",
-    "reasoning": "When data and machine collide, logic takes a coffee break and Automation appears anyway."
+  "current+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Current + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "current+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Current through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "drill+fiber-optic": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "drill+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  },
+  "electric-car+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Electric Car + Magnifying Glass = LED — efficient light that changed the world."
+  },
+  "electric-car+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Electric Car through Soldering Iron = Magnet — invisible force, visible wonder."
   },
   "electricity+engine": {
     "result": "motor",
     "reasoning": "Crafting Electricity with Engine produces Motor"
   },
-  "electricity+machine": {
-    "result": "motor",
-    "reasoning": "Electricity meets machine, chaos files a memo, and Motor walks out with the trophy."
+  "electricity+magnifying-glass": {
+    "result": "led",
+    "reasoning": "Electricity + Magnifying Glass = LED — efficient light that changed the world."
   },
-  "error+tool": {
-    "result": "debug",
-    "reasoning": "error meets tool, chaos files a memo, and Debug walks out with the trophy."
+  "electricity+needle": {
+    "result": "galvanometer",
+    "reasoning": "Combine Electricity with Needle to create Galvanometer."
   },
-  "gear+internet": {
-    "result": "iot",
-    "reasoning": "Gear and internet accidentally host a crossover episode; IoT steals the finale."
+  "electricity+soldering-iron": {
+    "result": "magnet",
+    "reasoning": "Electricity through Soldering Iron = Magnet — invisible force, visible wonder."
   },
-  "gear+network": {
-    "result": "router",
-    "reasoning": "Gear and Network shake hands, reality shrugs, and Router is suddenly canon."
+  "electricity+tool": {
+    "result": "multimeter",
+    "reasoning": "Combine Electricity with Tool to create Multimeter."
   },
-  "gear+software": {
-    "result": "docker",
-    "reasoning": "Gear and software shake hands, reality shrugs, and Docker is suddenly canon."
+  "fiber-optic+hammer": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+hand-saw": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+knife": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+pick": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+pliers": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+rake": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+saw": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+scissors": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+shovel": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+socket-wrench": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+swiss-army-knife": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "fiber-optic+wrench": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "forge-bellows+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Forge Bellows creates an Ingot — the foundation of metallurgy."
+  },
+  "forge-bellows+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "forge-bellows+water-wheel": {
+    "result": "steam",
+    "reasoning": "Forge Bellows turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "function+hook": {
+    "result": "sigmoid",
+    "reasoning": "Combine Function with Hook to create Sigmoid."
+  },
+  "function+sickle": {
+    "result": "sigmoid",
+    "reasoning": "Combine Function with Sickle to create Sigmoid."
+  },
+  "galvanometer+needle": {
+    "result": "phonograph",
+    "reasoning": "Combine Needle with Galvanometer to create Phonograph."
+  },
+  "gear+geiger-counter": {
+    "result": "ratchet",
+    "reasoning": "Combine Gear with Geiger Counter to create Ratchet."
   },
   "gps+road": {
     "result": "navigation",
     "reasoning": "Applying GPS to Road produces Navigation"
   },
-  "internet+machine": {
-    "result": "iot",
-    "reasoning": "Applying internet to machine produces IoT"
+  "gyroscope+level": {
+    "result": "gimbal",
+    "reasoning": "Combine Gyroscope with Level to create Gimbal."
   },
-  "internet+rocket": {
-    "result": "starlink",
-    "reasoning": "internet tags in with Rocket, and somehow the universe speedruns Starlink."
+  "hammer+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
   },
-  "internet+satellite": {
-    "result": "starlink",
-    "reasoning": "Applying internet to Satellite produces Starlink"
+  "hand-saw+metal-detector": {
+    "result": "alloy",
+    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
   },
-  "machine+network": {
-    "result": "router",
-    "reasoning": "Applying machine to Network produces Router"
+  "heat-pump+kettle": {
+    "result": "radiator",
+    "reasoning": "Combine Kettle with Heat Pump to create Radiator."
   },
-  "machine+server": {
-    "result": "kubernetes",
-    "reasoning": "When machine and Server collide, logic takes a coffee break and Kubernetes appears anyway."
+  "heat-pump+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
   },
-  "machine+software": {
-    "result": "docker",
-    "reasoning": "Applying machine to software produces Docker"
+  "heat-pump+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Heat Pump creates an Ingot — the foundation of metallurgy."
   },
-  "machine+solar-panel": {
-    "result": "engine",
-    "reasoning": "machine meets Solar Panel, chaos files a memo, and Engine walks out with the trophy."
+  "heat-pump+spring": {
+    "result": "steam",
+    "reasoning": "Heat Pump turns Spring to Steam — the force that powered the Industrial Revolution."
   },
-  "pattern+tool": {
-    "result": "stamp",
-    "reasoning": "pattern meets tool, chaos files a memo, and Stamp walks out with the trophy."
+  "hologram+hook": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Hook = a Power Tool. Tim Allen grunt intensifies."
   },
-  "robot+wing": {
-    "result": "drone",
-    "reasoning": "Applying Robot to wing produces Drone"
+  "hologram+hot-air-balloon": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Hot Air Balloon = a Power Tool. Tim Allen grunt intensifies."
   },
-  "software+tool": {
-    "result": "api",
-    "reasoning": "software plus tool is the weird recipe your alchemist friend swears by for making API."
+  "hologram+hunting": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Hunting = a Power Tool. Tim Allen grunt intensifies."
   },
-  "solar-panel+turbine": {
-    "result": "renewable-energy",
-    "reasoning": "Solar Panel plus Turbine is the weird recipe your alchemist friend swears by for making Renewable Energy."
+  "hologram+invention": {
+    "result": "power-tool",
+    "reasoning": "Hologram + invention = a Power Tool. Tim Allen grunt intensifies."
   },
-  "spring+television": {
-    "result": "remote",
-    "reasoning": "Spring plus Television is the weird recipe your alchemist friend swears by for making Remote."
+  "hologram+jack": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Jack = a Power Tool. Tim Allen grunt intensifies."
   },
-  "tool+video": {
-    "result": "zoom",
-    "reasoning": "When tool and video collide, logic takes a coffee break and Zoom appears anyway."
+  "hologram+junk-drawer": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Junk Drawer = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+kettle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Kettle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+key": {
+    "result": "power-tool",
+    "reasoning": "Hologram + key = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+kitchen-gadget": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Kitchen Gadget = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+knife": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Knife = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+knitting": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Knitting = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+ladle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Ladle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+lantern": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Lantern = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+level": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Level = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+lever": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Lever = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+lock": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Lock = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+loom": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Loom = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mace": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mace = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+machine": {
+    "result": "power-tool",
+    "reasoning": "Hologram + machine = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+magnifying-glass": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Magnifying Glass = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mallet": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mallet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+manacle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Manacle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mechanical": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mechanical = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mining": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mining = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mortar-and-pestle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mortar and Pestle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+motor": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Motor = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+motorcycle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Motorcycle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+mousetrap": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Mousetrap = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+needle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Needle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+notebook": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Notebook = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+oar": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Oar = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+padlock": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Padlock = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pen": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pen = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pencil": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pencil = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pestle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pestle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pick": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pick = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+piston": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Piston = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+plane": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Plane = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pliers": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pliers = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+plough": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Plough = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+plumb-bob": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Plumb Bob = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+power-tool": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Power Tool = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+protractor": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Protractor = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pulley": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pulley = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+pump": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Pump = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+purse": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Purse = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+quill": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Quill = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+quiver": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Quiver = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+raft": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Raft = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+railway": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Railway = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+rake": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Rake = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+ratchet": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Ratchet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+rivet": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Rivet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+road": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Road = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+rocket": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Rocket = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+ruler": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Ruler = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sailboat": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sailboat = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+satellite": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Satellite = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+saw": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Saw = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+scale": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Scale = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+scalpel": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Scalpel = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+scissors": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Scissors = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+screw": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Screw = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sextant": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sextant = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+ship": {
+    "result": "power-tool",
+    "reasoning": "Hologram + ship = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+shovel": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Shovel = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sickle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sickle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sieve": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sieve = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sled": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sled = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sledgehammer": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sledgehammer = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+smelting": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Smelting = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+snorkel": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Snorkel = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+socket-wrench": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Socket Wrench = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+soldering-iron": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Soldering Iron = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+spear": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Spear = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+spindle": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Spindle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+spring": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Spring = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+spyglass": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Spyglass = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+stapler": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Stapler = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+stencil": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Stencil = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+submarine": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Submarine = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+subway": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Subway = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+suitcase": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Suitcase = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sundial": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sundial = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+swiss-army-knife": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Swiss Army Knife = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+sword": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Sword = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+tanning": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Tanning = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+taxi": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Taxi = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+thermometer": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Thermometer = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+tongs": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Tongs = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+tool": {
+    "result": "power-tool",
+    "reasoning": "Hologram + tool = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+traffic": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Traffic = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+train": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Train = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+trap": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Trap = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+trebuchet": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Trebuchet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+tripod": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Tripod = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+trowel": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Trowel = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+truck": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Truck = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+turbine": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Turbine = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+valve": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Valve = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+vise": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Vise = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wagon": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Wagon = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wallet": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Wallet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+weaving": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Weaving = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+weight": {
+    "result": "power-tool",
+    "reasoning": "Hologram + weight = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+welding": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Welding = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wheel": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Wheel = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wheelbarrow": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Wheelbarrow = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+whetstone": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Whetstone = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+winch": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Winch = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wing": {
+    "result": "power-tool",
+    "reasoning": "Hologram + wing = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "hologram+wrench": {
+    "result": "power-tool",
+    "reasoning": "Hologram + Wrench = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+hunting": {
+    "result": "power-tool",
+    "reasoning": "HTML + Hunting = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+invention": {
+    "result": "power-tool",
+    "reasoning": "HTML + invention = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+jack": {
+    "result": "power-tool",
+    "reasoning": "HTML + Jack = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+junk-drawer": {
+    "result": "power-tool",
+    "reasoning": "HTML + Junk Drawer = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+kettle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Kettle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+key": {
+    "result": "power-tool",
+    "reasoning": "HTML + key = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+kitchen-gadget": {
+    "result": "power-tool",
+    "reasoning": "HTML + Kitchen Gadget = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+knife": {
+    "result": "power-tool",
+    "reasoning": "HTML + Knife = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+knitting": {
+    "result": "power-tool",
+    "reasoning": "HTML + Knitting = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+ladle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Ladle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+lantern": {
+    "result": "power-tool",
+    "reasoning": "HTML + Lantern = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+level": {
+    "result": "power-tool",
+    "reasoning": "HTML + Level = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+lever": {
+    "result": "power-tool",
+    "reasoning": "HTML + Lever = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+lock": {
+    "result": "power-tool",
+    "reasoning": "HTML + Lock = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+loom": {
+    "result": "power-tool",
+    "reasoning": "HTML + Loom = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mace": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mace = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+machine": {
+    "result": "power-tool",
+    "reasoning": "HTML + machine = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+magnifying-glass": {
+    "result": "power-tool",
+    "reasoning": "HTML + Magnifying Glass = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mallet": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mallet = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+manacle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Manacle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mechanical": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mechanical = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mining": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mining = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mortar-and-pestle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mortar and Pestle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+motor": {
+    "result": "power-tool",
+    "reasoning": "HTML + Motor = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+motorcycle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Motorcycle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+mousetrap": {
+    "result": "power-tool",
+    "reasoning": "HTML + Mousetrap = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+needle": {
+    "result": "power-tool",
+    "reasoning": "HTML + Needle = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+notebook": {
+    "result": "power-tool",
+    "reasoning": "HTML + Notebook = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+oar": {
+    "result": "power-tool",
+    "reasoning": "HTML + Oar = a Power Tool. Tim Allen grunt intensifies."
+  },
+  "html+padlock": {
+    "result": "power-tool",
+    "reasoning": "HTML + Padlock = a Power Tool. Tim Allen grunt intensifies."
   }
 }

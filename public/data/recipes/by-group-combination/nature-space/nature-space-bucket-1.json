@@ -1,326 +1,882 @@
 {
-  "astronaut+stone": {
-    "result": "moon-landing",
-    "reasoning": "Astronaut tags in with Stone, and somehow the universe speedruns Moon Landing."
+  "archipelago+black-hole": {
+    "result": "crater",
+    "reasoning": "Combine Black Hole with Archipelago to create Crater."
   },
-  "black-hole+energy": {
-    "result": "antimatter",
-    "reasoning": "Black Hole plus Energy is the weird recipe your alchemist friend swears by for making Antimatter."
+  "ash+black-hole": {
+    "result": "crater",
+    "reasoning": "Combine Black Hole with Ash to create Crater."
   },
-  "clay+sun": {
-    "result": "man",
-    "reasoning": "Clay teams up with sun; the side quest reward is Man."
+  "asteroid-belt+eruption": {
+    "result": "supernova",
+    "reasoning": "Asteroid Belt + Eruption = Supernova — a star's spectacular death."
   },
-  "cloud+sky": {
-    "result": "space",
-    "reasoning": "When Cloud and Sky collide, logic takes a coffee break and space appears anyway."
+  "asteroid+eruption": {
+    "result": "supernova",
+    "reasoning": "Asteroid + Eruption = Supernova — a star's spectacular death."
+  },
+  "binary-star+crater": {
+    "result": "nova",
+    "reasoning": "Combine Binary Star with Crater to create Nova."
+  },
+  "binary-star+energy": {
+    "result": "dyson-sphere",
+    "reasoning": "Combine Binary Star with Energy to create Dyson Sphere."
+  },
+  "binary-star+eruption": {
+    "result": "supernova",
+    "reasoning": "Binary Star + Eruption = Supernova — a star's spectacular death."
+  },
+  "black-hole+eruption": {
+    "result": "supernova",
+    "reasoning": "Black Hole + Eruption = Supernova — a star's spectacular death."
+  },
+  "black-hole+stone": {
+    "result": "quarry",
+    "reasoning": "Combine Black Hole with Stone to create Quarry."
+  },
+  "brown-dwarf+cold": {
+    "result": "dry-ice",
+    "reasoning": "Combine Cold with Brown Dwarf to create Dry Ice."
   },
   "cloud+sun": {
     "result": "weather",
     "reasoning": "When Cloud meets sun, weather naturally forms"
   },
-  "cold+sky": {
-    "result": "snow",
-    "reasoning": "Cold and Sky accidentally host a crossover episode; Snow steals the finale."
+  "cold+dwarf-star": {
+    "result": "brown-dwarf",
+    "reasoning": "Combine Dwarf Star with Cold to create Brown Dwarf."
   },
-  "cold+space": {
-    "result": "comet",
-    "reasoning": "When Cold and space collide, logic takes a coffee break and Comet appears anyway."
+  "cold+star": {
+    "result": "dwarf-star",
+    "reasoning": "A cold, small star is a Dwarf Star"
   },
-  "continent+sun": {
-    "result": "aurora",
-    "reasoning": "continent and sun shake hands, reality shrugs, and Aurora is suddenly canon."
+  "comet+eruption": {
+    "result": "supernova",
+    "reasoning": "Comet + Eruption = Supernova — a star's spectacular death."
   },
-  "day+energy": {
-    "result": "change",
-    "reasoning": "Someone mixed Day with Energy for science. The peer-reviewed conclusion: change."
+  "constellation+eruption": {
+    "result": "supernova",
+    "reasoning": "Constellation + Eruption = Supernova — a star's spectacular death."
+  },
+  "coral-reef+corona": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Corona = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+cosmic-dust": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Cosmic Dust = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+cosmic-ray": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Cosmic Ray = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+cosmic-string": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Cosmic String = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dark-energy": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dark Energy = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dark-matter": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dark Matter = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dawn": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dawn = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+day": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Day = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dwarf-planet": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dwarf Planet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dwarf-star": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dwarf Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+dyson-sphere": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Dyson Sphere = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+eclipse": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+event-horizon": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Event Horizon = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+exoplanet": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Exoplanet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+extraterrestrial": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Extraterrestrial = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+galactic-core": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Galactic Core = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+galaxy": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Galaxy = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+gamma-ray-burst": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Gamma Ray Burst = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+globular-cluster": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Globular Cluster = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+gravitational-wave": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Gravitational Wave = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+gravity": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Gravity = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+gravity-wave": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Gravity Wave = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+heliopause": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Heliopause = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+hubble-telescope": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Hubble Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+interstellar": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Interstellar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+iss": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + ISS = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+james-webb": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + James Webb = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+kuiper-belt": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Kuiper Belt = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+lagrange-point": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Lagrange Point = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+light-year": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Light Year = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+lunar-crater": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Lunar Crater = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+lunar-eclipse": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Lunar Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+magnetar": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Magnetar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+mars": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Mars = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+mars-colony": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Mars Colony = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+mars-rover": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Mars Rover = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+meteor": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Meteor = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+meteor-shower": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Meteor Shower = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+meteorite": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Meteorite = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+milky-way": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Milky Way = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+moon": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Moon = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+moon-base": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Moon Base = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+moon-landing": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Moon Landing = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+moonlight": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Moonlight = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+multiverse": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Multiverse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+nasa": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + NASA = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+nebula": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Nebula = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+neutron-star": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Neutron Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+night": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Night = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+nova": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Nova = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+observatory": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Observatory = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+oort-cloud": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Oort Cloud = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+orbit": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Orbit = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+planet": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Planet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+planetarium": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Planetarium = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+planetary-ring": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Planetary Ring = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+protostar": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Protostar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+pulsar": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Pulsar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+quasar": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Quasar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+radio-telescope": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Radio Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+red-giant": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Red Giant = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+ring": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + ring = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+satellite-dish": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Satellite Dish = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+saturn": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Saturn = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+seti": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + SETI = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+sky": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Sky = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+solar-eclipse": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Solar Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+solar-flare": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Solar Flare = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+solar-sail": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Solar Sail = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+solar-wind": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Solar Wind = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + space = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-debris": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Debris = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-elevator": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Elevator = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-junk": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Junk = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-monkey": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Monkey = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-probe": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Probe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-station": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Station = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-suit": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Suit = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-telescope": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+space-wrench": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Space Wrench = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+star": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+star-map": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Star Map = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+sun": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + sun = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+sunlight": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Sunlight = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+sunset": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Sunset = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+sunspot": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Sunspot = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+supernova": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Supernova = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+telescope": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+terraforming": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Terraforming = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+time-travel": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Time Travel = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+ufo": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + UFO = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+universe": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Universe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+voyager-probe": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Voyager Probe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+white-dwarf": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + White Dwarf = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+wormhole": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Wormhole = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "coral-reef+zero-gravity": {
+    "result": "terraforming",
+    "reasoning": "Coral Reef + Zero Gravity = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "cosmic-dust+dust": {
+    "result": "pixie-dust",
+    "reasoning": "Combine Cosmic Dust with Dust to create Pixie Dust."
+  },
+  "crater+dark-energy": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dark Energy = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+dark-matter": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dark Matter = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+dawn": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dawn = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+day": {
+    "result": "terraforming",
+    "reasoning": "Crater + Day = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+dwarf-planet": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dwarf Planet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+dwarf-star": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dwarf Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+dyson-sphere": {
+    "result": "terraforming",
+    "reasoning": "Crater + Dyson Sphere = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+eclipse": {
+    "result": "terraforming",
+    "reasoning": "Crater + Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+event-horizon": {
+    "result": "terraforming",
+    "reasoning": "Crater + Event Horizon = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+exoplanet": {
+    "result": "terraforming",
+    "reasoning": "Crater + Exoplanet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+extraterrestrial": {
+    "result": "terraforming",
+    "reasoning": "Crater + Extraterrestrial = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+galactic-core": {
+    "result": "terraforming",
+    "reasoning": "Crater + Galactic Core = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+galaxy": {
+    "result": "terraforming",
+    "reasoning": "Crater + Galaxy = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+gamma-ray-burst": {
+    "result": "terraforming",
+    "reasoning": "Crater + Gamma Ray Burst = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+globular-cluster": {
+    "result": "terraforming",
+    "reasoning": "Crater + Globular Cluster = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+gravitational-wave": {
+    "result": "terraforming",
+    "reasoning": "Crater + Gravitational Wave = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+gravity": {
+    "result": "terraforming",
+    "reasoning": "Crater + Gravity = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+gravity-wave": {
+    "result": "terraforming",
+    "reasoning": "Crater + Gravity Wave = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+heliopause": {
+    "result": "terraforming",
+    "reasoning": "Crater + Heliopause = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+hubble-telescope": {
+    "result": "terraforming",
+    "reasoning": "Crater + Hubble Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+interstellar": {
+    "result": "terraforming",
+    "reasoning": "Crater + Interstellar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+iss": {
+    "result": "terraforming",
+    "reasoning": "Crater + ISS = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+james-webb": {
+    "result": "terraforming",
+    "reasoning": "Crater + James Webb = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+kuiper-belt": {
+    "result": "terraforming",
+    "reasoning": "Crater + Kuiper Belt = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+lagrange-point": {
+    "result": "terraforming",
+    "reasoning": "Crater + Lagrange Point = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+light-year": {
+    "result": "terraforming",
+    "reasoning": "Crater + Light Year = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+lunar-crater": {
+    "result": "terraforming",
+    "reasoning": "Crater + Lunar Crater = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+lunar-eclipse": {
+    "result": "terraforming",
+    "reasoning": "Crater + Lunar Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+magnetar": {
+    "result": "terraforming",
+    "reasoning": "Crater + Magnetar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+mars": {
+    "result": "terraforming",
+    "reasoning": "Crater + Mars = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+mars-colony": {
+    "result": "terraforming",
+    "reasoning": "Crater + Mars Colony = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+mars-rover": {
+    "result": "terraforming",
+    "reasoning": "Crater + Mars Rover = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+meteor": {
+    "result": "meteor-shower",
+    "reasoning": "Combine Meteor with Crater to create Meteor Shower."
+  },
+  "crater+meteor-shower": {
+    "result": "terraforming",
+    "reasoning": "Crater + Meteor Shower = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+meteorite": {
+    "result": "terraforming",
+    "reasoning": "Crater + Meteorite = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+milky-way": {
+    "result": "terraforming",
+    "reasoning": "Crater + Milky Way = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+moon": {
+    "result": "terraforming",
+    "reasoning": "Crater + Moon = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+moon-base": {
+    "result": "terraforming",
+    "reasoning": "Crater + Moon Base = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+moon-landing": {
+    "result": "terraforming",
+    "reasoning": "Crater + Moon Landing = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+moonlight": {
+    "result": "terraforming",
+    "reasoning": "Crater + Moonlight = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+multiverse": {
+    "result": "terraforming",
+    "reasoning": "Crater + Multiverse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+nasa": {
+    "result": "terraforming",
+    "reasoning": "Crater + NASA = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+nebula": {
+    "result": "terraforming",
+    "reasoning": "Crater + Nebula = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+neutron-star": {
+    "result": "terraforming",
+    "reasoning": "Crater + Neutron Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+night": {
+    "result": "terraforming",
+    "reasoning": "Crater + Night = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+nova": {
+    "result": "terraforming",
+    "reasoning": "Crater + Nova = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+observatory": {
+    "result": "terraforming",
+    "reasoning": "Crater + Observatory = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+oort-cloud": {
+    "result": "terraforming",
+    "reasoning": "Crater + Oort Cloud = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+orbit": {
+    "result": "terraforming",
+    "reasoning": "Crater + Orbit = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+planet": {
+    "result": "terraforming",
+    "reasoning": "Crater + Planet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+planetarium": {
+    "result": "terraforming",
+    "reasoning": "Crater + Planetarium = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+planetary-ring": {
+    "result": "terraforming",
+    "reasoning": "Crater + Planetary Ring = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+protostar": {
+    "result": "terraforming",
+    "reasoning": "Crater + Protostar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+pulsar": {
+    "result": "terraforming",
+    "reasoning": "Crater + Pulsar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+quasar": {
+    "result": "terraforming",
+    "reasoning": "Crater + Quasar = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+radio-telescope": {
+    "result": "terraforming",
+    "reasoning": "Crater + Radio Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+red-giant": {
+    "result": "terraforming",
+    "reasoning": "Crater + Red Giant = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+ring": {
+    "result": "terraforming",
+    "reasoning": "Crater + ring = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+satellite-dish": {
+    "result": "terraforming",
+    "reasoning": "Crater + Satellite Dish = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+saturn": {
+    "result": "terraforming",
+    "reasoning": "Crater + Saturn = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+seti": {
+    "result": "terraforming",
+    "reasoning": "Crater + SETI = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+sky": {
+    "result": "terraforming",
+    "reasoning": "Crater + Sky = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+solar-eclipse": {
+    "result": "terraforming",
+    "reasoning": "Crater + Solar Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+solar-flare": {
+    "result": "terraforming",
+    "reasoning": "Crater + Solar Flare = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+solar-sail": {
+    "result": "terraforming",
+    "reasoning": "Crater + Solar Sail = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+solar-wind": {
+    "result": "terraforming",
+    "reasoning": "Crater + Solar Wind = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space": {
+    "result": "terraforming",
+    "reasoning": "Crater + space = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-debris": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Debris = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-elevator": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Elevator = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-junk": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Junk = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-monkey": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Monkey = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-probe": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Probe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-station": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Station = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-suit": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Suit = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-telescope": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+space-wrench": {
+    "result": "terraforming",
+    "reasoning": "Crater + Space Wrench = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+star": {
+    "result": "terraforming",
+    "reasoning": "Crater + Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+star-map": {
+    "result": "terraforming",
+    "reasoning": "Crater + Star Map = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+sun": {
+    "result": "terraforming",
+    "reasoning": "Crater + sun = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+sunlight": {
+    "result": "terraforming",
+    "reasoning": "Crater + Sunlight = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+sunset": {
+    "result": "terraforming",
+    "reasoning": "Crater + Sunset = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+sunspot": {
+    "result": "terraforming",
+    "reasoning": "Crater + Sunspot = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+supernova": {
+    "result": "terraforming",
+    "reasoning": "Crater + Supernova = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+telescope": {
+    "result": "terraforming",
+    "reasoning": "Crater + Telescope = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+terraforming": {
+    "result": "terraforming",
+    "reasoning": "Crater + Terraforming = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+time-travel": {
+    "result": "terraforming",
+    "reasoning": "Crater + Time Travel = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+ufo": {
+    "result": "terraforming",
+    "reasoning": "Crater + UFO = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+universe": {
+    "result": "terraforming",
+    "reasoning": "Crater + Universe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+voyager-probe": {
+    "result": "terraforming",
+    "reasoning": "Crater + Voyager Probe = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+white-dwarf": {
+    "result": "terraforming",
+    "reasoning": "Crater + White Dwarf = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+wormhole": {
+    "result": "terraforming",
+    "reasoning": "Crater + Wormhole = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "crater+zero-gravity": {
+    "result": "terraforming",
+    "reasoning": "Crater + Zero Gravity = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
+  },
+  "dark-energy+energy": {
+    "result": "gamma-ray-burst",
+    "reasoning": "Combine Dark Energy with Energy to create Gamma Ray Burst."
+  },
+  "dark-matter+lava": {
+    "result": "basalt",
+    "reasoning": "Combine Dark Matter with Lava to create Basalt."
+  },
+  "dark-matter+lava-field": {
+    "result": "basalt",
+    "reasoning": "Combine Dark Matter with Lava Field to create Basalt."
   },
   "desert+sun": {
     "result": "drought",
     "reasoning": "When Desert meets sun, Drought naturally forms"
   },
-  "dust+planet": {
-    "result": "mars",
-    "reasoning": "Dust and Planet combine in the cosmos to create Mars"
-  },
-  "dust+space": {
-    "result": "nebula",
-    "reasoning": "Dust meets space, chaos files a memo, and Nebula walks out with the trophy."
-  },
-  "dust+star": {
-    "result": "nebula",
-    "reasoning": "Dust and Star combine in the cosmos to create Nebula"
-  },
-  "dust+sun": {
-    "result": "nebula",
-    "reasoning": "Dust meets sun, chaos files a memo, and Nebula walks out with the trophy."
-  },
-  "earth+gravity": {
-    "result": "weight",
-    "reasoning": "Someone mixed Earth with Gravity for science. The peer-reviewed conclusion: weight."
-  },
-  "earth+planet": {
-    "result": "mars",
-    "reasoning": "Earth tags in with Planet, and somehow the universe speedruns Mars."
-  },
-  "earth+sky": {
-    "result": "fog",
-    "reasoning": "Earth teams up with Sky; the side quest reward is Fog."
-  },
-  "earth+space": {
-    "result": "gravity",
-    "reasoning": "Earth in space reveals gravity"
-  },
-  "earth+star": {
-    "result": "planet",
-    "reasoning": "Someone mixed Earth with Star for science. The peer-reviewed conclusion: Planet."
-  },
-  "earth+sun": {
-    "result": "garden",
-    "reasoning": "Earth meets sun, chaos files a memo, and Garden walks out with the trophy."
-  },
-  "eclipse+energy": {
-    "result": "sunlight",
-    "reasoning": "Eclipse meets Energy, chaos files a memo, and Sunlight walks out with the trophy."
-  },
-  "eclipse+rain": {
-    "result": "rainbow",
-    "reasoning": "Eclipse tags in with Rain, and somehow the universe speedruns Rainbow."
-  },
-  "energy+gravity": {
-    "result": "gravity-wave",
-    "reasoning": "Energy and Gravity shake hands, reality shrugs, and Gravity Wave is suddenly canon."
-  },
-  "energy+moon": {
-    "result": "moonlight",
-    "reasoning": "Energy and Moon accidentally host a crossover episode; Moonlight steals the finale."
-  },
-  "energy+night": {
-    "result": "change",
-    "reasoning": "Energy and Night accidentally host a crossover episode; change steals the finale."
-  },
-  "energy+planet": {
+  "dew+dwarf-planet": {
     "result": "terraforming",
-    "reasoning": "When Energy and Planet collide, logic takes a coffee break and Terraforming appears anyway."
+    "reasoning": "Dew + Dwarf Planet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "energy+sky": {
-    "result": "matter",
-    "reasoning": "Someone mixed Energy with Sky for science. The peer-reviewed conclusion: matter."
-  },
-  "energy+space": {
-    "result": "matter",
-    "reasoning": "Energy and space explain the phenomenon of matter"
-  },
-  "energy+star": {
-    "result": "black-hole",
-    "reasoning": "Energy and Star accidentally host a crossover episode; Black Hole steals the finale."
-  },
-  "energy+sun": {
-    "result": "sunlight",
-    "reasoning": "Energy and sun combine in the cosmos to create Sunlight"
-  },
-  "fire+meteor": {
-    "result": "asteroid",
-    "reasoning": "Fire tags in with Meteor, and somehow the universe speedruns Asteroid."
-  },
-  "fire+moon": {
-    "result": "eclipse",
-    "reasoning": "Someone mixed Fire with Moon for science. The peer-reviewed conclusion: Eclipse."
-  },
-  "fire+moonlight": {
-    "result": "silver",
-    "reasoning": "Someone mixed Fire with Moonlight for science. The peer-reviewed conclusion: Silver."
-  },
-  "fire+night": {
-    "result": "dawn",
-    "reasoning": "When Fire and Night collide, logic takes a coffee break and Dawn appears anyway."
-  },
-  "fire+sky": {
-    "result": "day",
-    "reasoning": "Fire plus Sky is the weird recipe your alchemist friend swears by for making Day."
-  },
-  "fire+space": {
-    "result": "meteor",
-    "reasoning": "Fire and space combine in the cosmos to create Meteor"
-  },
-  "fire+star": {
-    "result": "gold",
-    "reasoning": "When Fire and Star collide, logic takes a coffee break and Gold appears anyway."
-  },
-  "fire+sun": {
-    "result": "heat",
-    "reasoning": "Fire and sun accidentally host a crossover episode; Heat steals the finale."
-  },
-  "gravity+lava": {
-    "result": "weight",
-    "reasoning": "Gravity and Lava accidentally host a crossover episode; weight steals the finale."
-  },
-  "gravity+stone": {
-    "result": "weight",
-    "reasoning": "Crafting Gravity with Stone produces weight"
-  },
-  "heat+sun": {
-    "result": "resin",
-    "reasoning": "Heat tags in with sun, and somehow the universe speedruns Resin."
-  },
-  "ice+sky": {
-    "result": "comet",
-    "reasoning": "Ice and Sky shake hands, reality shrugs, and Comet is suddenly canon."
-  },
-  "ice+space": {
-    "result": "comet",
-    "reasoning": "Ice and space combine in the cosmos to create Comet"
-  },
-  "land+night": {
-    "result": "fox",
-    "reasoning": "Someone mixed land with Night for science. The peer-reviewed conclusion: Fox."
-  },
-  "land+sky": {
-    "result": "bird",
-    "reasoning": "land meets Sky, chaos files a memo, and Bird walks out with the trophy."
-  },
-  "lava+space": {
-    "result": "moon",
-    "reasoning": "Lava teams up with space; the side quest reward is Moon."
-  },
-  "lava+star": {
-    "result": "planet",
-    "reasoning": "Someone mixed Lava with Star for science. The peer-reviewed conclusion: Planet."
-  },
-  "lightning+planet": {
+  "dew+dwarf-star": {
     "result": "terraforming",
-    "reasoning": "When Lightning and Planet collide, logic takes a coffee break and Terraforming appears anyway."
+    "reasoning": "Dew + Dwarf Star = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "lightning+sky": {
-    "result": "storm",
-    "reasoning": "Lightning and Sky shake hands, reality shrugs, and Storm is suddenly canon."
+  "dew+dyson-sphere": {
+    "result": "terraforming",
+    "reasoning": "Dew + Dyson Sphere = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "lightning+space": {
-    "result": "meteor",
-    "reasoning": "When Lightning and space collide, logic takes a coffee break and Meteor appears anyway."
+  "dew+eclipse": {
+    "result": "terraforming",
+    "reasoning": "Dew + Eclipse = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "lightning+sun": {
-    "result": "sunglasses",
-    "reasoning": "Lightning and sun accidentally host a crossover episode; Sunglasses steals the finale."
+  "dew+event-horizon": {
+    "result": "terraforming",
+    "reasoning": "Dew + Event Horizon = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "moon+wind": {
-    "result": "night",
-    "reasoning": "Moon plus Wind is the weird recipe your alchemist friend swears by for making Night."
+  "dew+exoplanet": {
+    "result": "terraforming",
+    "reasoning": "Dew + Exoplanet = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "mountain+sky": {
-    "result": "eagle",
-    "reasoning": "mountain and Sky shake hands, reality shrugs, and Eagle is suddenly canon."
+  "dew+extraterrestrial": {
+    "result": "terraforming",
+    "reasoning": "Dew + Extraterrestrial = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "mud+sun": {
-    "result": "life",
-    "reasoning": "Mud and sun accidentally host a crossover episode; life steals the finale."
+  "dew+galactic-core": {
+    "result": "terraforming",
+    "reasoning": "Dew + Galactic Core = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "night+sand": {
-    "result": "hourglass",
-    "reasoning": "Night and Sand accidentally host a crossover episode; Hourglass steals the finale."
+  "dew+galaxy": {
+    "result": "terraforming",
+    "reasoning": "Dew + Galaxy = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "ocean+sun": {
-    "result": "sunset",
-    "reasoning": "ocean and sun combine in the cosmos to create Sunset"
+  "dew+gamma-ray-burst": {
+    "result": "terraforming",
+    "reasoning": "Dew + Gamma Ray Burst = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "planet+wind": {
-    "result": "mars",
-    "reasoning": "Planet tags in with Wind, and somehow the universe speedruns Mars."
+  "dew+globular-cluster": {
+    "result": "terraforming",
+    "reasoning": "Dew + Globular Cluster = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   },
-  "pressure+space": {
-    "result": "moon",
-    "reasoning": "When Pressure and space collide, logic takes a coffee break and Moon appears anyway."
-  },
-  "pressure+star": {
-    "result": "black-hole",
-    "reasoning": "Pressure and Star combine in the cosmos to create Black Hole"
-  },
-  "pressure+sun": {
-    "result": "black-hole",
-    "reasoning": "Pressure meets sun, chaos files a memo, and Black Hole walks out with the trophy."
-  },
-  "rain+sun": {
-    "result": "rainbow",
-    "reasoning": "Sunlight refracts through rain to form a rainbow"
-  },
-  "rain+sunlight": {
-    "result": "photosynthesis",
-    "reasoning": "When Rain and Sunlight collide, logic takes a coffee break and Photosynthesis appears anyway."
-  },
-  "rainbow+sky": {
-    "result": "parrot",
-    "reasoning": "Rainbow tags in with Sky, and somehow the universe speedruns Parrot."
-  },
-  "river+sun": {
-    "result": "sunset",
-    "reasoning": "River and sun accidentally host a crossover episode; Sunset steals the finale."
-  },
-  "sand+sun": {
-    "result": "drought",
-    "reasoning": "Sand tags in with sun, and somehow the universe speedruns Drought."
-  },
-  "sky+stone": {
-    "result": "night",
-    "reasoning": "Someone mixed Sky with Stone for science. The peer-reviewed conclusion: Night."
-  },
-  "sky+water": {
-    "result": "cloud",
-    "reasoning": "Moisture rises into the sky forming clouds"
-  },
-  "sky+wind": {
-    "result": "feather",
-    "reasoning": "Sky and Wind accidentally host a crossover episode; Feather steals the finale."
-  },
-  "space+stone": {
-    "result": "moon",
-    "reasoning": "A rocky body orbiting in space becomes the moon"
-  },
-  "space+water": {
-    "result": "moon",
-    "reasoning": "space and Water shake hands, reality shrugs, and Moon is suddenly canon."
-  },
-  "space+wind": {
-    "result": "matter",
-    "reasoning": "space meets Wind, chaos files a memo, and matter walks out with the trophy."
-  },
-  "star+stone": {
-    "result": "planet",
-    "reasoning": "Star and Stone combine in the cosmos to create Planet"
-  },
-  "star+water": {
-    "result": "planet",
-    "reasoning": "Star teams up with Water; the side quest reward is Planet."
-  },
-  "star+wind": {
-    "result": "nebula",
-    "reasoning": "Star tags in with Wind, and somehow the universe speedruns Nebula."
-  },
-  "steam+sun": {
-    "result": "weather",
-    "reasoning": "When Steam and sun collide, logic takes a coffee break and weather appears anyway."
-  },
-  "stone+sun": {
-    "result": "eclipse",
-    "reasoning": "Stone and sun shake hands, reality shrugs, and Eclipse is suddenly canon."
-  },
-  "stone+sunlight": {
-    "result": "moonlight",
-    "reasoning": "Stone and Sunlight accidentally host a crossover episode; Moonlight steals the finale."
-  },
-  "storm+sun": {
-    "result": "lightning",
-    "reasoning": "Storm meets sun, chaos files a memo, and Lightning walks out with the trophy."
-  },
-  "sun+volcano": {
-    "result": "earthquake",
-    "reasoning": "sun teams up with Volcano; the side quest reward is Earthquake."
-  },
-  "sun+water": {
-    "result": "dye",
-    "reasoning": "sun tags in with Water, and somehow the universe speedruns Dye."
-  },
-  "sun+wind": {
-    "result": "aurora",
-    "reasoning": "sun and Wind combine in the cosmos to create Aurora"
+  "dew+gravitational-wave": {
+    "result": "terraforming",
+    "reasoning": "Dew + Gravitational Wave = Terraforming. Making other planets more like Earth. We should probably fix Earth first."
   }
 }
