@@ -28,6 +28,11 @@ function toIconUrl(iconPath: string): string {
   return `${base}/${path}`;
 }
 
+/** Resolve a relative public path (e.g. "./attribution/NOTICE.txt") against CDN base when available. */
+export function toPublicUrl(relativePath: string): string {
+  return toIconUrl(relativePath);
+}
+
 function getDataBase(): string {
   const base = CDN_BASE.replace(/\/$/, '');
   return base ? `${base}/` : '';

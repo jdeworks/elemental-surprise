@@ -143,7 +143,18 @@ export function loadGameData(dataDir: string): GameData {
     };
   }
 
-  throw new Error(`No elements master index found at ${masterElementsPath}. Run the migration script first.`);
+  // Flat file fallback (used by proposed/ directory before merge creates hierarchical structure)
+  const flatElementsPath = path.join(dataDir, 'elements.json');
+  const flatRecipesPath = path.join(dataDir, 'recipes.json');
+
+  if (fs.existsSync(flatElementsPath) && fs.existsSync(flatRecipesPath)) {
+    const elements = readJson<Record<string, ElementDef>>(flatElementsPath);
+    const rawRecipes = readJson<Record<string, RawRecipeValue>>(flatRecipesPath);
+    const { recipes, reasonings } = parseRawRecipes(rawRecipes);
+    return { elements, recipes, reasonings };
+  }
+
+  throw new Error(`No elements found at ${masterElementsPath} or ${flatElementsPath}. Run the content pipeline first.`);
 }
 
 export function writeProposedData(outDir: string, data: GameData): void {
