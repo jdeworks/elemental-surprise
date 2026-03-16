@@ -43,17 +43,9 @@
     "result": "error-404",
     "reasoning": "Agent Framework + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "agent-framework+chip": {
-    "result": "error-404",
-    "reasoning": "Agent Framework + chip = Error 404. The AI looked for meaning and found nothing."
-  },
   "agent-framework+cloth": {
     "result": "error-404",
     "reasoning": "Agent Framework + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agent-framework+fuel": {
-    "result": "error-404",
-    "reasoning": "Agent Framework + fuel = Error 404. The AI looked for meaning and found nothing."
   },
   "agent-framework+furnace": {
     "result": "error-404",
@@ -63,10 +55,6 @@
     "result": "error-404",
     "reasoning": "Agent Framework + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "agent-framework+oven": {
-    "result": "error-404",
-    "reasoning": "Agent Framework + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
   "agent-framework+phone": {
     "result": "error-404",
     "reasoning": "Agent Framework + Phone = Error 404. The AI looked for meaning and found nothing."
@@ -75,125 +63,25 @@
     "result": "error-404",
     "reasoning": "Agent Framework + track = Error 404. The AI looked for meaning and found nothing."
   },
-  "agi+building": {
-    "result": "error-404",
-    "reasoning": "AGI + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "agi+chemical-reaction": {
     "result": "error-404",
     "reasoning": "AGI + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "agi+chip": {
-    "result": "error-404",
-    "reasoning": "AGI + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+cloth": {
-    "result": "error-404",
-    "reasoning": "AGI + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+fuel": {
-    "result": "error-404",
-    "reasoning": "AGI + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
   "agi+furnace": {
-    "result": "error-404",
-    "reasoning": "AGI + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "AGI + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+oven": {
-    "result": "error-404",
-    "reasoning": "AGI + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+phone": {
-    "result": "error-404",
-    "reasoning": "AGI + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "agi+track": {
-    "result": "error-404",
-    "reasoning": "AGI + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+building": {
-    "result": "error-404",
-    "reasoning": "AI Art + building = Error 404. The AI looked for meaning and found nothing."
+    "result": "aqueduct",
+    "reasoning": "Both AGI and Furnace are rooted in Place Name Disambiguation Pages. Together they make Aqueduct."
   },
   "ai-art+chemical-reaction": {
     "result": "error-404",
     "reasoning": "AI Art + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "ai-art+chip": {
-    "result": "error-404",
-    "reasoning": "AI Art + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+cloth": {
-    "result": "error-404",
-    "reasoning": "AI Art + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+fuel": {
-    "result": "error-404",
-    "reasoning": "AI Art + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+furnace": {
-    "result": "error-404",
-    "reasoning": "AI Art + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "AI Art + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+oven": {
-    "result": "error-404",
-    "reasoning": "AI Art + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+phone": {
-    "result": "error-404",
-    "reasoning": "AI Art + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-art+track": {
-    "result": "error-404",
-    "reasoning": "AI Art + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+building": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "ai-ethics+chemical-reaction": {
     "result": "error-404",
     "reasoning": "AI Ethics + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "ai-ethics+chip": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+cloth": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+fuel": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+furnace": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
   "ai-ethics+miscellaneous": {
     "result": "error-404",
     "reasoning": "AI Ethics + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+oven": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+phone": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai-ethics+track": {
-    "result": "error-404",
-    "reasoning": "AI Ethics + track = Error 404. The AI looked for meaning and found nothing."
   },
   "ai-generated-art+building": {
     "result": "error-404",
@@ -235,125 +123,21 @@
     "result": "error-404",
     "reasoning": "AI Generated Art + track = Error 404. The AI looked for meaning and found nothing."
   },
-  "ai+building": {
-    "result": "error-404",
-    "reasoning": "AI + building = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+chemical-reaction": {
-    "result": "error-404",
-    "reasoning": "AI + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+chip": {
-    "result": "error-404",
-    "reasoning": "AI + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+cloth": {
-    "result": "error-404",
-    "reasoning": "AI + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+fuel": {
-    "result": "error-404",
-    "reasoning": "AI + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+furnace": {
-    "result": "error-404",
-    "reasoning": "AI + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "AI + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+oven": {
-    "result": "error-404",
-    "reasoning": "AI + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+phone": {
-    "result": "error-404",
-    "reasoning": "AI + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "ai+track": {
-    "result": "error-404",
-    "reasoning": "AI + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+building": {
-    "result": "error-404",
-    "reasoning": "Alignment + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "alignment+chemical-reaction": {
     "result": "error-404",
     "reasoning": "Alignment + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+chip": {
-    "result": "error-404",
-    "reasoning": "Alignment + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+cloth": {
-    "result": "error-404",
-    "reasoning": "Alignment + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+fuel": {
-    "result": "error-404",
-    "reasoning": "Alignment + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+furnace": {
-    "result": "error-404",
-    "reasoning": "Alignment + Furnace = Error 404. The AI looked for meaning and found nothing."
   },
   "alignment+miscellaneous": {
     "result": "error-404",
     "reasoning": "Alignment + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "alignment+oven": {
-    "result": "error-404",
-    "reasoning": "Alignment + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+phone": {
-    "result": "error-404",
-    "reasoning": "Alignment + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "alignment+track": {
-    "result": "error-404",
-    "reasoning": "Alignment + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+building": {
-    "result": "error-404",
-    "reasoning": "Anthropic + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "anthropic+chemical-reaction": {
     "result": "error-404",
     "reasoning": "Anthropic + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "anthropic+chip": {
-    "result": "error-404",
-    "reasoning": "Anthropic + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+cloth": {
-    "result": "error-404",
-    "reasoning": "Anthropic + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+fuel": {
-    "result": "error-404",
-    "reasoning": "Anthropic + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+furnace": {
-    "result": "error-404",
-    "reasoning": "Anthropic + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
   "anthropic+miscellaneous": {
     "result": "error-404",
     "reasoning": "Anthropic + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+oven": {
-    "result": "error-404",
-    "reasoning": "Anthropic + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+phone": {
-    "result": "error-404",
-    "reasoning": "Anthropic + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "anthropic+track": {
-    "result": "error-404",
-    "reasoning": "Anthropic + track = Error 404. The AI looked for meaning and found nothing."
   },
   "attention-mechanism+building": {
     "result": "error-404",
@@ -395,45 +179,13 @@
     "result": "error-404",
     "reasoning": "Attention Mechanism + track = Error 404. The AI looked for meaning and found nothing."
   },
-  "attention+building": {
-    "result": "error-404",
-    "reasoning": "attention + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "attention+chemical-reaction": {
     "result": "error-404",
     "reasoning": "attention + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "attention+chip": {
-    "result": "error-404",
-    "reasoning": "attention + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+cloth": {
-    "result": "error-404",
-    "reasoning": "attention + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+fuel": {
-    "result": "error-404",
-    "reasoning": "attention + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+furnace": {
-    "result": "error-404",
-    "reasoning": "attention + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
   "attention+miscellaneous": {
     "result": "error-404",
     "reasoning": "attention + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+oven": {
-    "result": "error-404",
-    "reasoning": "attention + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+phone": {
-    "result": "error-404",
-    "reasoning": "attention + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "attention+track": {
-    "result": "error-404",
-    "reasoning": "attention + track = Error 404. The AI looked for meaning and found nothing."
   },
   "backpropagation+building": {
     "result": "error-404",
@@ -443,17 +195,9 @@
     "result": "error-404",
     "reasoning": "Backpropagation + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "backpropagation+chip": {
-    "result": "error-404",
-    "reasoning": "Backpropagation + chip = Error 404. The AI looked for meaning and found nothing."
-  },
   "backpropagation+cloth": {
     "result": "error-404",
     "reasoning": "Backpropagation + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "backpropagation+fuel": {
-    "result": "error-404",
-    "reasoning": "Backpropagation + fuel = Error 404. The AI looked for meaning and found nothing."
   },
   "backpropagation+furnace": {
     "result": "error-404",
@@ -462,10 +206,6 @@
   "backpropagation+miscellaneous": {
     "result": "error-404",
     "reasoning": "Backpropagation + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "backpropagation+oven": {
-    "result": "error-404",
-    "reasoning": "Backpropagation + Oven = Error 404. The AI looked for meaning and found nothing."
   },
   "backpropagation+phone": {
     "result": "error-404",
@@ -515,85 +255,17 @@
     "result": "error-404",
     "reasoning": "Batch Processing + track = Error 404. The AI looked for meaning and found nothing."
   },
-  "bias+building": {
-    "result": "error-404",
-    "reasoning": "Bias + building = Error 404. The AI looked for meaning and found nothing."
-  },
   "bias+chemical-reaction": {
     "result": "error-404",
     "reasoning": "Bias + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+chip": {
-    "result": "error-404",
-    "reasoning": "Bias + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+cloth": {
-    "result": "error-404",
-    "reasoning": "Bias + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+fuel": {
-    "result": "error-404",
-    "reasoning": "Bias + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+furnace": {
-    "result": "error-404",
-    "reasoning": "Bias + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "Bias + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+oven": {
-    "result": "error-404",
-    "reasoning": "Bias + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+phone": {
-    "result": "error-404",
-    "reasoning": "Bias + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bias+track": {
-    "result": "error-404",
-    "reasoning": "Bias + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+building": {
-    "result": "error-404",
-    "reasoning": "Big Data + building = Error 404. The AI looked for meaning and found nothing."
   },
   "big-data+chemical-reaction": {
     "result": "error-404",
     "reasoning": "Big Data + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "big-data+chip": {
-    "result": "error-404",
-    "reasoning": "Big Data + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+cloth": {
-    "result": "error-404",
-    "reasoning": "Big Data + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+fuel": {
-    "result": "error-404",
-    "reasoning": "Big Data + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+furnace": {
-    "result": "error-404",
-    "reasoning": "Big Data + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
   "big-data+miscellaneous": {
     "result": "error-404",
     "reasoning": "Big Data + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+oven": {
-    "result": "error-404",
-    "reasoning": "Big Data + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+phone": {
-    "result": "error-404",
-    "reasoning": "Big Data + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "big-data+track": {
-    "result": "error-404",
-    "reasoning": "Big Data + track = Error 404. The AI looked for meaning and found nothing."
   },
   "bioinformatics+building": {
     "result": "error-404",
@@ -603,18 +275,6 @@
     "result": "error-404",
     "reasoning": "Bioinformatics + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "bioinformatics+chip": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bioinformatics+cloth": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bioinformatics+fuel": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
   "bioinformatics+furnace": {
     "result": "error-404",
     "reasoning": "Bioinformatics + Furnace = Error 404. The AI looked for meaning and found nothing."
@@ -622,18 +282,6 @@
   "bioinformatics+miscellaneous": {
     "result": "error-404",
     "reasoning": "Bioinformatics + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bioinformatics+oven": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bioinformatics+phone": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "bioinformatics+track": {
-    "result": "error-404",
-    "reasoning": "Bioinformatics + track = Error 404. The AI looked for meaning and found nothing."
   },
   "building+jimmy-art": {
     "result": "museum",
@@ -683,153 +331,25 @@
     "result": "error-404",
     "reasoning": "Chat + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "chat+chip": {
-    "result": "error-404",
-    "reasoning": "Chat + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+cloth": {
-    "result": "error-404",
-    "reasoning": "Chat + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+fuel": {
-    "result": "error-404",
-    "reasoning": "Chat + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
   "chat+furnace": {
-    "result": "error-404",
-    "reasoning": "Chat + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "Chat + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+oven": {
-    "result": "error-404",
-    "reasoning": "Chat + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+phone": {
-    "result": "error-404",
-    "reasoning": "Chat + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chat+track": {
-    "result": "error-404",
-    "reasoning": "Chat + track = Error 404. The AI looked for meaning and found nothing."
+    "result": "canteen",
+    "reasoning": "Chat and Furnace both belong to the world of Place Name Disambiguation Pages — combine them for Canteen."
   },
   "chatbot+chemical-reaction": {
     "result": "error-404",
     "reasoning": "Chatbot + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "chatbot+chip": {
-    "result": "error-404",
-    "reasoning": "Chatbot + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+cloth": {
-    "result": "error-404",
-    "reasoning": "Chatbot + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+fuel": {
-    "result": "error-404",
-    "reasoning": "Chatbot + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+furnace": {
-    "result": "error-404",
-    "reasoning": "Chatbot + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "Chatbot + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+oven": {
-    "result": "error-404",
-    "reasoning": "Chatbot + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+phone": {
-    "result": "error-404",
-    "reasoning": "Chatbot + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatbot+track": {
-    "result": "error-404",
-    "reasoning": "Chatbot + track = Error 404. The AI looked for meaning and found nothing."
-  },
   "chatgpt+chemical-reaction": {
     "result": "error-404",
     "reasoning": "ChatGPT + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+chip": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+cloth": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+fuel": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+furnace": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+miscellaneous": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+oven": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+phone": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatgpt+track": {
-    "result": "error-404",
-    "reasoning": "ChatGPT + track = Error 404. The AI looked for meaning and found nothing."
   },
   "chatjimmy+chemical-reaction": {
     "result": "error-404",
     "reasoning": "ChatJimmy + Chemical reaction = Error 404. The AI looked for meaning and found nothing."
   },
-  "chatjimmy+chip": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + chip = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+cloth": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+fuel": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + fuel = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+furnace": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + Furnace = Error 404. The AI looked for meaning and found nothing."
-  },
   "chatjimmy+miscellaneous": {
     "result": "error-404",
     "reasoning": "ChatJimmy + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+oven": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + Oven = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+phone": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + Phone = Error 404. The AI looked for meaning and found nothing."
-  },
-  "chatjimmy+track": {
-    "result": "error-404",
-    "reasoning": "ChatJimmy + track = Error 404. The AI looked for meaning and found nothing."
-  },
-  "classification+cloth": {
-    "result": "error-404",
-    "reasoning": "Classification + cloth = Error 404. The AI looked for meaning and found nothing."
-  },
-  "classification+fuel": {
-    "result": "error-404",
-    "reasoning": "Classification + fuel = Error 404. The AI looked for meaning and found nothing."
   },
   "classification+furnace": {
     "result": "error-404",
@@ -839,44 +359,272 @@
     "result": "error-404",
     "reasoning": "Classification + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "classification+oven": {
+  "climate-model+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Classification + Oven = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Climate Model + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "classification+phone": {
-    "result": "error-404",
-    "reasoning": "Classification + Phone = Error 404. The AI looked for meaning and found nothing."
+  "cloth+jimmy-art": {
+    "result": "tapestry",
+    "reasoning": "cloth woven as Jimmy Art — a Tapestry."
   },
-  "classification+track": {
+  "clustering+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Classification + track = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Clustering + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+cloth": {
+  "code-generation+furnace": {
     "result": "error-404",
-    "reasoning": "Claude + cloth = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Code Generation + Furnace = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+fuel": {
+  "code-generation+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Claude + fuel = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Code Generation + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+furnace": {
+  "computer-vision+furnace": {
     "result": "error-404",
-    "reasoning": "Claude + Furnace = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Computer Vision + Furnace = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+miscellaneous": {
+  "computer-vision+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Claude + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Computer Vision + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+oven": {
+  "context-window+furnace": {
     "result": "error-404",
-    "reasoning": "Claude + Oven = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Context Window + Furnace = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+phone": {
+  "context-window+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Claude + Phone = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "Context Window + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
   },
-  "claude+track": {
+  "conversation+miscellaneous": {
     "result": "error-404",
-    "reasoning": "Claude + track = Error 404. The AI looked for meaning and found nothing."
+    "reasoning": "conversation + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+fuel": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + fuel = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+furnace": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + Furnace = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+oven": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + Oven = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+phone": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "data-augmentation+track": {
+    "result": "error-404",
+    "reasoning": "Data Augmentation + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "decision-tree+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Decision Tree + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "deep-learning+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Deep Learning + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "deepfake+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Deepfake + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "diffusion-model+furnace": {
+    "result": "error-404",
+    "reasoning": "Diffusion Model + Furnace = Error 404. The AI looked for meaning and found nothing."
+  },
+  "diffusion-model+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Diffusion Model + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "embedding+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Embedding + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "error-404+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Error 404 + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+fuel": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + fuel = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+furnace": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + Furnace = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+oven": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + Oven = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+phone": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "federated-learning+track": {
+    "result": "error-404",
+    "reasoning": "Federated Learning + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "fine-tuning+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Fine Tuning + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "foundation-model+furnace": {
+    "result": "error-404",
+    "reasoning": "Foundation Model + Furnace = Error 404. The AI looked for meaning and found nothing."
+  },
+  "foundation-model+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Foundation Model + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "foundation-model+phone": {
+    "result": "error-404",
+    "reasoning": "Foundation Model + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "foundation-model+track": {
+    "result": "error-404",
+    "reasoning": "Foundation Model + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "furnace+ide": {
+    "result": "cork",
+    "reasoning": "Furnace and IDE both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Cork."
+  },
+  "furnace+pioneer": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Pioneer to create Corona."
+  },
+  "google-cloud+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Google Cloud + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "gradient-descent+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Gradient Descent + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "gradient-descent+phone": {
+    "result": "error-404",
+    "reasoning": "Gradient Descent + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "gradient-descent+track": {
+    "result": "error-404",
+    "reasoning": "Gradient Descent + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "hallucination+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Hallucination + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "hyperparameter+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Hyperparameter + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "image-generation+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Image Generation + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "image-generation+phone": {
+    "result": "error-404",
+    "reasoning": "Image Generation + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "image-generation+track": {
+    "result": "error-404",
+    "reasoning": "Image Generation + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "infinite-loop+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Infinite Loop + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-api+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy API + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-art+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Art + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-code+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Code + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-plugin+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Plugin + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-search+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Search + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-translate+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Translate + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "jimmy-voice+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Jimmy Voice + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "knowledge-graph+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Knowledge Graph + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "large-language-model+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Large Language Model + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "large-language-model+oven": {
+    "result": "error-404",
+    "reasoning": "Large Language Model + Oven = Error 404. The AI looked for meaning and found nothing."
+  },
+  "large-language-model+phone": {
+    "result": "error-404",
+    "reasoning": "Large Language Model + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "large-language-model+track": {
+    "result": "error-404",
+    "reasoning": "Large Language Model + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "latent-space+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Latent Space + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "loss-function+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Loss Function + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "machine-learning+miscellaneous": {
+    "result": "error-404",
+    "reasoning": "Machine Learning + Miscellaneous = Error 404. The AI looked for meaning and found nothing."
+  },
+  "machine-learning+phone": {
+    "result": "error-404",
+    "reasoning": "Machine Learning + Phone = Error 404. The AI looked for meaning and found nothing."
+  },
+  "machine-learning+track": {
+    "result": "error-404",
+    "reasoning": "Machine Learning + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "recurrent-network+track": {
+    "result": "error-404",
+    "reasoning": "Recurrent Network + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "reinforcement-learning+track": {
+    "result": "error-404",
+    "reasoning": "Reinforcement Learning + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "speech-recognition+track": {
+    "result": "error-404",
+    "reasoning": "Speech Recognition + track = Error 404. The AI looked for meaning and found nothing."
+  },
+  "superintelligence+track": {
+    "result": "error-404",
+    "reasoning": "Superintelligence + track = Error 404. The AI looked for meaning and found nothing."
   }
 }

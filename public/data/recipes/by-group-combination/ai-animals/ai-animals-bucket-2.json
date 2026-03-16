@@ -1,882 +1,462 @@
 {
-  "bird+large-language-model": {
-    "result": "condor",
-    "reasoning": "Combine Bird with Large Language Model to create Condor."
-  },
-  "bison+decision-tree": {
-    "result": "prairie",
-    "reasoning": "Bison herds shaped the Great Plains, 60 million grazers on the Prairie"
-  },
-  "bison+large-language-model": {
-    "result": "blue-whale",
-    "reasoning": "Combine Bison with Large Language Model to create Blue Whale."
-  },
-  "blue-whale+decision-tree": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "blue-whale+large-language-model": {
-    "result": "ladle",
-    "reasoning": "Combine Large Language Model with Blue Whale to create Ladle."
-  },
-  "boa-constrictor+decision-tree": {
-    "result": "jungle",
-    "reasoning": "Boa constrictors drape from Jungle trees waiting for prey"
-  },
-  "boar+decision-tree": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "buffalo+decision-tree": {
-    "result": "prairie",
-    "reasoning": "Buffalo and Prairie grass co-evolved, grazing maintains the grassland"
-  },
-  "buffalo+large-language-model": {
-    "result": "ladle",
-    "reasoning": "Combine Large Language Model with Buffalo to create Ladle."
-  },
-  "bumblebee+decision-tree": {
-    "result": "honey",
-    "reasoning": "Bumblebees are vital pollinators that help produce Honey"
-  },
-  "butterfly+decision-tree": {
-    "result": "pollen",
-    "reasoning": "Butterflies carry Pollen from flower to flower on their wings"
-  },
-  "camel+decision-tree": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "capybara+decision-tree": {
-    "result": "grass",
-    "reasoning": "Capybaras are the world's largest rodents, gentle Grass grazers"
-  },
-  "cardinal+decision-tree": {
-    "result": "seed",
-    "reasoning": "Cardinals crack Seeds with strong beaks, backyard favorites"
-  },
-  "caribou+decision-tree": {
-    "result": "moss",
-    "reasoning": "Caribou dig through snow to eat reindeer Moss, their winter staple"
-  },
-  "cat+decision-tree": {
-    "result": "garden",
-    "reasoning": "Cats stalk through Gardens hunting birds and mice"
-  },
-  "caterpillar+decision-tree": {
-    "result": "butterfly",
-    "reasoning": "Caterpillars munch leaves, then metamorphose into Butterflies"
-  },
-  "chameleon+decision-tree": {
-    "result": "vine",
-    "reasoning": "Chameleons grip Vines with zygodactyl feet, rainforest acrobats"
-  },
-  "cheetah+decision-tree": {
-    "result": "savanna",
-    "reasoning": "Cheetahs sprint across the Savanna, fastest land animal"
-  },
-  "chicken+decision-tree": {
-    "result": "seed",
-    "reasoning": "Chickens scratch the ground for Seeds, the farmyard forager"
-  },
-  "chimpanzee+decision-tree": {
-    "result": "jungle",
-    "reasoning": "Chimps use sticks to extract food from plants in the Jungle"
-  },
-  "chinchilla+decision-tree": {
-    "result": "grass",
-    "reasoning": "Chinchillas graze on Grasses and herbs in the Andes highlands"
-  },
-  "cicada+decision-tree": {
-    "result": "root",
-    "reasoning": "Cicada nymphs feed on tree Roots for up to 17 years underground"
-  },
-  "clam+decision-tree": {
-    "result": "algae",
-    "reasoning": "Giant clams farm Algae in their mantles, symbiotic gardeners"
-  },
-  "cobra+decision-tree": {
-    "result": "jungle",
-    "reasoning": "King cobras inhabit Jungle floors, the longest venomous snake"
-  },
-  "cockatoo+decision-tree": {
-    "result": "forest",
-    "reasoning": "Cockatoos crack seeds and strip bark in Australian Forests"
-  },
-  "condor+decision-tree": {
-    "result": "forest",
-    "reasoning": "Condors soar above mountain Forests, the largest flying birds"
-  },
-  "cormorant+decision-tree": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "cow+decision-tree": {
-    "result": "milk",
-    "reasoning": "Cows graze on grass and produce Milk, humanity's oldest dairy"
-  },
-  "coyote+decision-tree": {
-    "result": "prairie",
-    "reasoning": "Coyotes prowl Prairies and forest edges as adaptable survivors"
-  },
-  "crab+decision-tree": {
-    "result": "seaweed",
-    "reasoning": "Crabs decorate themselves with Seaweed for camouflage"
-  },
-  "crane+decision-tree": {
-    "result": "marsh",
-    "reasoning": "Cranes wade through Marshes among reeds and wetland plants"
-  },
-  "crocodile+decision-tree": {
-    "result": "swamp",
-    "reasoning": "Crocodiles lurk among Swamp vegetation as ambush predators"
-  },
-  "crow+decision-tree": {
-    "result": "seed",
-    "reasoning": "Crows cache Seeds and nuts, surprisingly good at forest propagation"
-  },
-  "decision-tree+deer": {
-    "result": "forest",
-    "reasoning": "Deer browse on Forest understory, shaping woodland ecology"
-  },
-  "decision-tree+dinosaur": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+dog": {
-    "result": "garden",
-    "reasoning": "Dogs dig in Gardens, every gardener's enthusiastic but unhelpful assistant"
-  },
-  "decision-tree+dolphin": {
-    "result": "coral-reef",
-    "reasoning": "Dolphins hunt around Coral Reefs, the rainforests of the sea"
-  },
-  "decision-tree+donkey": {
-    "result": "farm",
-    "reasoning": "Donkeys work on Farms alongside crops, the farmer's patient helper"
-  },
-  "decision-tree+dragonfly": {
-    "result": "garden",
-    "reasoning": "Dragonflies patrol Gardens eating mosquitoes as pest control"
-  },
-  "decision-tree+duck": {
-    "result": "seed",
-    "reasoning": "Ducks dabble for Seeds and plants in ponds and wetlands"
-  },
-  "decision-tree+eagle": {
-    "result": "nest",
-    "reasoning": "Eagle Nests (eyries) can weigh over a ton in tall trees"
-  },
-  "decision-tree+eel": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+egg": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+electric-eel": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+elephant": {
-    "result": "wood",
-    "reasoning": "Elephants push over trees to reach leaves, producing fallen Wood"
-  },
-  "decision-tree+elk": {
-    "result": "forest",
-    "reasoning": "Elk graze meadows and browse Forests across North America"
-  },
-  "decision-tree+emu": {
-    "result": "scrubland",
-    "reasoning": "Emus wander Australian Scrubland eating seeds and fruit"
-  },
-  "decision-tree+falcon": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+feather": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+ferret": {
-    "result": "tunnel",
-    "reasoning": "Ferrets Tunnel through burrows among plant roots"
-  },
-  "decision-tree+fireant": {
-    "result": "composting",
-    "reasoning": "Fire ants turn over soil and decompose plant matter rapidly"
-  },
-  "decision-tree+firefly": {
-    "result": "garden",
-    "reasoning": "Fireflies light up Gardens on summer nights like living lanterns"
-  },
-  "decision-tree+fish": {
-    "result": "coral",
-    "reasoning": "Fish shelter among Coral, the plant-like animals of the reef"
-  },
-  "decision-tree+flamingo": {
-    "result": "algae",
-    "reasoning": "Flamingos eat Algae and shrimp, it is what makes them pink"
-  },
-  "decision-tree+flying-fish": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+fox": {
-    "result": "fruit",
-    "reasoning": "Foxes eat berries and Fruit, they are more omnivorous than you think"
-  },
-  "decision-tree+frog": {
-    "result": "leaf",
-    "reasoning": "Poison dart frogs live on rainforest Leaves, tiny and brilliant"
-  },
-  "decision-tree+gazelle": {
-    "result": "savanna",
-    "reasoning": "Gazelles sprint across Savanna grasslands in graceful herds"
-  },
-  "decision-tree+giraffe": {
-    "result": "leaf",
-    "reasoning": "Giraffes evolved 6-foot necks to reach the highest Leaves"
-  },
-  "decision-tree+goldfish": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+goose": {
-    "result": "lawn",
-    "reasoning": "Geese are nature's Lawnmowers, they graze grass down to the nub"
-  },
-  "decision-tree+gopher": {
-    "result": "tunnel",
-    "reasoning": "Gophers Tunnel through gardens, aerating soil but eating roots"
-  },
-  "decision-tree+gorilla": {
-    "result": "jungle",
-    "reasoning": "Gorillas build fresh leaf nests every night in the Jungle"
-  },
-  "decision-tree+grasshopper": {
-    "result": "harvest",
-    "reasoning": "Grasshopper swarms have devastated Harvests since biblical times"
-  },
-  "decision-tree+grizzly-bear": {
-    "result": "fish",
-    "reasoning": "Grizzlies stand in rivers catching salmon near forested banks"
-  },
-  "decision-tree+hamster": {
-    "result": "seed",
-    "reasoning": "Hamsters stuff cheek pouches with Seeds like living seed vaults"
-  },
-  "decision-tree+hedgehog": {
-    "result": "garden",
-    "reasoning": "Hedgehogs patrol Gardens at night eating slugs and snails"
-  },
-  "decision-tree+hermit-crab": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+heron": {
-    "result": "marsh",
-    "reasoning": "Herons stand motionless among Marsh reeds waiting for fish"
-  },
-  "decision-tree+hippopotamus": {
-    "result": "grass",
-    "reasoning": "Hippos emerge at night to graze on Grass, 80 pounds per night"
-  },
-  "decision-tree+honey": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+hornet": {
-    "result": "nest",
-    "reasoning": "Hornets build paper Nests from chewed bark and plant fiber"
-  },
-  "decision-tree+horse": {
-    "result": "prairie",
-    "reasoning": "Wild horses gallop across Prairies, grass fuels their freedom"
-  },
-  "decision-tree+hummingbird": {
-    "result": "pollen",
-    "reasoning": "Hummingbirds hover at flowers, spreading Pollen with each sip"
-  },
-  "decision-tree+hyena": {
-    "result": "savanna",
-    "reasoning": "Hyenas prowl the Savanna, laughing scavengers of the grasslands"
-  },
-  "decision-tree+ibis": {
-    "result": "marsh",
-    "reasoning": "Ibises probe muddy Marshes for food among aquatic plants"
-  },
-  "decision-tree+iguana": {
-    "result": "leaf",
-    "reasoning": "Iguanas are herbivorous lizards that munch on Leaves and flowers"
-  },
-  "decision-tree+insect": {
-    "result": "cicada",
-    "reasoning": "Combine Insect with Decision Tree to create Cicada."
-  },
-  "decision-tree+jaguar": {
-    "result": "jungle",
-    "reasoning": "Jaguars rule the Amazon Jungle, the Americas' apex cat"
-  },
-  "decision-tree+jellyfish": {
-    "result": "algae",
-    "reasoning": "Some jellyfish farm Algae inside their bodies, solar-powered animals"
-  },
-  "decision-tree+kangaroo": {
-    "result": "grass",
-    "reasoning": "Kangaroos graze on Australian Grasslands as hopping herbivores"
-  },
-  "decision-tree+kingfisher": {
-    "result": "forest",
-    "reasoning": "Kingfishers perch on branches overhanging Forest streams"
-  },
-  "decision-tree+kiwi": {
-    "result": "forest",
-    "reasoning": "Kiwis forage on Forest floors at night, New Zealand's icon"
-  },
-  "decision-tree+koala": {
-    "result": "sleep",
-    "reasoning": "Koalas Sleep 22 hours a day in eucalyptus trees, leaf-powered naps"
-  },
-  "decision-tree+komodo-dragon": {
-    "result": "forest",
-    "reasoning": "Komodo dragons hunt in tropical Forests on Indonesian islands"
-  },
-  "decision-tree+ladybug": {
-    "result": "garden",
-    "reasoning": "Ladybugs protect Gardens by devouring aphids by the hundreds"
-  },
-  "decision-tree+lamprey": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+lemur": {
-    "result": "jungle",
-    "reasoning": "Lemurs leap through Madagascar's unique Jungle forests"
-  },
-  "decision-tree+leopard": {
-    "result": "jungle",
-    "reasoning": "Leopards stash prey in trees in the Jungle, ambush predators"
-  },
-  "decision-tree+lion": {
-    "result": "savanna",
-    "reasoning": "Lions rest under acacia trees on the African Savanna"
-  },
-  "decision-tree+lizard": {
-    "result": "cactus",
-    "reasoning": "Desert lizards bask on rocks near Cacti, sun-loving reptiles"
-  },
-  "decision-tree+llama": {
-    "result": "farm",
-    "reasoning": "Llamas guard Farm flocks while grazing alongside them"
-  },
-  "decision-tree+lobster": {
-    "result": "seaweed",
-    "reasoning": "Lobsters shelter in Seaweed beds on the ocean floor"
-  },
-  "decision-tree+loon": {
-    "result": "lake",
-    "reasoning": "Loons dive in forested Lakes, their calls echo through the wild"
-  },
-  "decision-tree+lynx": {
-    "result": "forest",
-    "reasoning": "Lynx stalk through boreal Forests as silent snow hunters"
-  },
-  "decision-tree+macaw": {
-    "result": "fruit",
-    "reasoning": "Macaws crack open nuts and eat Fruit, rainbow birds of the rainforest"
-  },
-  "decision-tree+manatee": {
-    "result": "seaweed",
-    "reasoning": "Manatees are sea cows that graze on aquatic Seaweed"
-  },
-  "decision-tree+mantis": {
-    "result": "garden",
-    "reasoning": "Praying mantises guard Gardens by ambushing pest insects"
-  },
-  "decision-tree+meerkat": {
-    "result": "grass",
-    "reasoning": "Meerkats stand sentinel in Grasslands, watching for predators"
-  },
-  "decision-tree+mongoose": {
-    "result": "grass",
-    "reasoning": "Mongooses hunt through tall Grass for snakes and scorpions"
-  },
-  "decision-tree+monitor-lizard": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+monkey": {
-    "result": "jungle",
-    "reasoning": "Monkeys swing through Jungle canopies as acrobats of the treetops"
-  },
-  "decision-tree+moose": {
-    "result": "bark",
-    "reasoning": "Moose strip Bark and browse on willows, the largest deer alive"
-  },
-  "decision-tree+mosquito": {
-    "result": "swamp",
-    "reasoning": "Mosquitoes breed in Swamp water among aquatic plants"
-  },
-  "decision-tree+moth": {
-    "result": "pollen",
-    "reasoning": "Moths are nocturnal pollinators spreading Pollen by moonlight"
-  },
-  "decision-tree+mouse": {
-    "result": "seed",
-    "reasoning": "Mice hoard Seeds in their burrows like tiny seed banks"
-  },
-  "decision-tree+narwhal": {
-    "result": "plankton",
-    "reasoning": "Narwhals feed in Arctic waters rich with Plankton"
-  },
-  "decision-tree+nautilus": {
-    "result": "coral-reef",
-    "reasoning": "Nautiluses drift near Coral Reefs, living fossils of the deep"
-  },
-  "decision-tree+nest": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+newt": {
-    "result": "moss",
-    "reasoning": "Newts crawl through Mossy wetlands as amphibious forest dwellers"
-  },
-  "decision-tree+ocelot": {
-    "result": "jungle",
-    "reasoning": "Ocelots are the spotted cats of Central American Jungles"
-  },
-  "decision-tree+octopus": {
-    "result": "coral-reef",
-    "reasoning": "Octopuses hide in Coral Reef crevices, masters of camouflage"
-  },
-  "decision-tree+opossum": {
-    "result": "fruit",
-    "reasoning": "Opossums forage for fallen Fruit at night, nocturnal orchard visitors"
-  },
-  "decision-tree+orangutan": {
-    "result": "jungle",
-    "reasoning": "Orangutans are gardeners of Borneo, spreading seeds through the Jungle"
-  },
-  "decision-tree+orca": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+ostrich": {
-    "result": "savanna",
-    "reasoning": "Ostriches roam the African Savanna, the largest living birds"
-  },
-  "decision-tree+otter": {
-    "result": "kelp-forest",
-    "reasoning": "Sea otters wrap themselves in Kelp to sleep, anchored to the forest"
-  },
-  "decision-tree+owl": {
-    "result": "forest",
-    "reasoning": "Owls perch in ancient Forest trees as silent nocturnal hunters"
-  },
-  "decision-tree+panda": {
-    "result": "forest",
-    "reasoning": "Giant pandas depend entirely on bamboo Forests for survival"
-  },
-  "decision-tree+pangolin": {
-    "result": "root",
-    "reasoning": "Pangolins dig into Root systems to reach termite nests"
-  },
-  "decision-tree+parrot": {
-    "result": "fruit",
-    "reasoning": "Parrots feast on tropical Fruits as colorful jungle residents"
-  },
-  "decision-tree+peacock": {
-    "result": "garden",
-    "reasoning": "Peacocks strut through Gardens displaying their magnificent tails"
-  },
-  "decision-tree+pelican": {
-    "result": "swamp",
-    "reasoning": "Pelicans fish in Swampy wetlands surrounded by vegetation"
-  },
-  "decision-tree+penguin": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+pig": {
-    "result": "mushroom",
-    "reasoning": "Pigs sniff out truffles and Mushrooms with their incredible noses"
-  },
-  "decision-tree+piranha": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+platypus": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+pokemon": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+polar-bear": {
-    "result": "seaweed",
-    "reasoning": "Polar bears occasionally eat Seaweed when hunting is scarce"
-  },
-  "decision-tree+porcupine": {
-    "result": "bark",
-    "reasoning": "Porcupines gnaw tree Bark for nutrition, especially in winter"
-  },
-  "decision-tree+pronghorn": {
-    "result": "prairie",
-    "reasoning": "Pronghorns are the fastest Prairie grazers in North America"
-  },
-  "decision-tree+puffin": {
-    "result": "grass",
-    "reasoning": "Puffins nest in Grassy cliff-top burrows overlooking the sea"
-  },
-  "decision-tree+quail": {
-    "result": "seed",
-    "reasoning": "Quail scratch through leaf litter for Seeds, ground-dwelling foragers"
-  },
-  "decision-tree+quetzal": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+rabbit": {
-    "result": "garden",
-    "reasoning": "Rabbits nibble Garden vegetables, the gardener's fluffy foe"
-  },
-  "decision-tree+raccoon": {
-    "result": "fruit",
-    "reasoning": "Raccoons raid Fruit trees and corn fields, masked garden thieves"
-  },
-  "decision-tree+rat": {
-    "result": "harvest",
-    "reasoning": "Rats raid grain stores, the farmer's eternal nemesis at Harvest"
-  },
-  "decision-tree+rattlesnake": {
-    "result": "cactus",
-    "reasoning": "Rattlesnakes coil among Cacti in the desert as ambush hunters"
-  },
-  "decision-tree+raven": {
-    "result": "forest",
-    "reasoning": "Ravens inhabit old-growth Forests as intelligent corvids"
-  },
-  "decision-tree+ray": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+red-panda": {
-    "result": "forest",
-    "reasoning": "Red pandas live in temperate Forests, munching on leaves and fruit"
-  },
-  "decision-tree+rhinoceros": {
-    "result": "savanna",
-    "reasoning": "Rhinos graze and browse the African Savanna as armored herbivores"
-  },
-  "decision-tree+roadrunner": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+rooster": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+safari": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+salamander": {
-    "result": "moss",
-    "reasoning": "Salamanders hide under Mossy logs in damp forest floors"
-  },
-  "decision-tree+scorpion": {
-    "result": "cactus",
-    "reasoning": "Scorpions shelter under desert plants and Cacti"
-  },
-  "decision-tree+sea-cucumber": {
-    "result": "boat",
-    "reasoning": "Decision Tree on Sea Cucumber — a Boat. Humanity's first vehicle."
-  },
-  "decision-tree+sea-urchin": {
-    "result": "boat",
-    "reasoning": "Decision Tree on Sea Urchin — a Boat. Humanity's first vehicle."
-  },
-  "decision-tree+seahorse": {
-    "result": "seaweed",
-    "reasoning": "Seahorses anchor themselves to Seaweed with their curled tails"
-  },
-  "decision-tree+seal": {
-    "result": "kelp-forest",
-    "reasoning": "Seals hunt among towering Kelp Forests, underwater jungles"
-  },
-  "decision-tree+shark": {
-    "result": "coral-reef",
-    "reasoning": "Reef sharks patrol Coral Reef ecosystems as apex predators"
-  },
-  "decision-tree+sheep": {
-    "result": "wool",
-    "reasoning": "Sheep graze on grass and grow thick Wool, nature's textile"
-  },
-  "decision-tree+sloth": {
-    "result": "vine",
-    "reasoning": "Sloths hang from Vines so long that algae grows in their fur"
-  },
-  "decision-tree+snail": {
-    "result": "leaf",
-    "reasoning": "Snails munch on Leaves, leaving silvery trails across the garden"
-  },
-  "decision-tree+snake": {
-    "result": "grass",
-    "reasoning": "Snakes slither through Grass hunting rodents, controlling pests"
-  },
-  "decision-tree+snow-leopard": {
-    "result": "forest",
-    "reasoning": "Snow leopards haunt mountain Forests, the ghost of the Himalayas"
-  },
-  "decision-tree+sparrow": {
-    "result": "seed",
-    "reasoning": "Sparrows pick Seeds from grasses as humble garden companions"
-  },
-  "decision-tree+spider": {
-    "result": "web",
-    "reasoning": "Spiders spin Webs among plants to catch insects"
-  },
-  "decision-tree+squid": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+squirrel": {
-    "result": "seed",
-    "reasoning": "Squirrels bury Seeds and forget half, accidentally planting forests"
-  },
-  "decision-tree+starfish": {
-    "result": "coral-reef",
-    "reasoning": "Starfish graze on Coral Reefs, some species eat coral itself"
-  },
-  "decision-tree+stork": {
-    "result": "marsh",
-    "reasoning": "Storks nest in treetops and forage in Marshes"
-  },
-  "decision-tree+swan": {
-    "result": "grass",
-    "reasoning": "Swans graze on aquatic Grasses and waterside plants"
-  },
-  "decision-tree+swordfish": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+tapir": {
-    "result": "jungle",
-    "reasoning": "Tapirs are Jungle gardeners, eating fruit and spreading seeds"
-  },
-  "decision-tree+tarantula": {
-    "result": "jungle",
-    "reasoning": "Tarantulas lurk in Jungle leaf litter as hairy ambush hunters"
-  },
-  "decision-tree+termite": {
-    "result": "dust",
-    "reasoning": "Termites devour wood from the inside out, reducing it to Dust"
-  },
-  "decision-tree+tiger": {
-    "result": "jungle",
-    "reasoning": "Tigers prowl through dense Jungle undergrowth as striped shadows"
-  },
-  "decision-tree+toad": {
-    "result": "mushroom",
-    "reasoning": "Toads shelter under Mushrooms and in damp garden corners"
-  },
-  "decision-tree+toucan": {
-    "result": "fruit",
-    "reasoning": "Toucans pluck Fruit with their oversized bills in tropical forests"
-  },
-  "decision-tree+trout": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+turkey": {
-    "result": "seed",
-    "reasoning": "Wild turkeys forage for Seeds, nuts, and berries in forests"
-  },
-  "decision-tree+turtle": {
-    "result": "seaweed",
-    "reasoning": "Sea turtles graze on Seagrass meadows, underwater herbivores"
-  },
-  "decision-tree+vulture": {
-    "result": "savanna",
-    "reasoning": "Vultures circle above Savanna trees, nature's cleanup crew"
-  },
-  "decision-tree+walrus": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+wasp": {
-    "result": "nest",
-    "reasoning": "Wasps chew plant fibers into paper to build their Nests"
-  },
-  "decision-tree+weasel": {
-    "result": "forest",
-    "reasoning": "Weasels dart through Forest undergrowth chasing prey"
-  },
-  "decision-tree+web": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "decision-tree+whale": {
-    "result": "plankton",
-    "reasoning": "Whales feed on Plankton blooms, the ocean's microscopic garden"
-  },
-  "decision-tree+wolf": {
-    "result": "forest",
-    "reasoning": "Wolves roam Forests, apex predators that shape forest ecosystems"
-  },
-  "decision-tree+woodpecker": {
-    "result": "cave",
-    "reasoning": "Woodpeckers drill Caves (cavities) into trees for nesting"
-  },
-  "decision-tree+worm": {
-    "result": "composting",
-    "reasoning": "Earthworms eat dead plants and produce rich Compost"
-  },
-  "decision-tree+yak": {
-    "result": "grass",
-    "reasoning": "Yaks graze on high-altitude Grasses in the Himalayas"
-  },
-  "decision-tree+zebra": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "deep-learning+fish": {
-    "result": "anglerfish",
-    "reasoning": "Combine Fish with Deep Learning to create Anglerfish."
-  },
-  "dinosaur+knowledge-graph": {
-    "result": "philosophy",
-    "reasoning": "Dinosaur pursuit of Knowledge Graph = Philosophy — love of wisdom."
-  },
-  "gemini+giraffe": {
+  "jimmy-plugin+llama": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Giraffe = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Llama = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+goldfish": {
+  "jimmy-plugin+lobster": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Goldfish = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Lobster = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+goose": {
+  "jimmy-plugin+loon": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Goose = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Loon = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+gopher": {
+  "jimmy-plugin+lynx": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Gopher = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Lynx = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+gorilla": {
+  "jimmy-plugin+macaw": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Gorilla = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Macaw = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+grasshopper": {
+  "jimmy-plugin+manatee": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Grasshopper = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Manatee = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+grizzly-bear": {
+  "jimmy-plugin+mantis": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Grizzly Bear = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Mantis = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hamster": {
+  "jimmy-plugin+meerkat": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hamster = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Meerkat = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hedgehog": {
+  "jimmy-plugin+mongoose": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hedgehog = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Mongoose = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hermit-crab": {
+  "jimmy-plugin+monitor-lizard": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hermit Crab = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Monitor Lizard = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+heron": {
+  "jimmy-plugin+monkey": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Heron = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Monkey = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hippopotamus": {
+  "jimmy-plugin+moose": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hippopotamus = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Moose = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+honey": {
+  "jimmy-plugin+mosquito": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Honey = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Mosquito = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hornet": {
+  "jimmy-plugin+moth": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hornet = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Moth = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+horse": {
+  "jimmy-plugin+mouse": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Horse = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Mouse = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hummingbird": {
+  "jimmy-plugin+narwhal": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hummingbird = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Narwhal = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+hyena": {
+  "jimmy-plugin+nautilus": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Hyena = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Nautilus = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+ibis": {
+  "jimmy-plugin+nest": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Ibis = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Nest = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+iguana": {
+  "jimmy-plugin+newt": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Iguana = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Newt = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+insect": {
+  "jimmy-plugin+ocelot": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Insect = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Ocelot = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+jaguar": {
+  "jimmy-plugin+octopus": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Jaguar = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Octopus = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+jellyfish": {
+  "jimmy-plugin+opossum": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Jellyfish = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Opossum = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+kangaroo": {
+  "jimmy-plugin+orangutan": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Kangaroo = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Orangutan = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+kingfisher": {
+  "jimmy-plugin+orca": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Kingfisher = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Orca = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+kiwi": {
+  "jimmy-plugin+ostrich": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Kiwi = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Ostrich = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+koala": {
+  "jimmy-plugin+otter": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Koala = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Otter = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+komodo-dragon": {
+  "jimmy-plugin+owl": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Komodo Dragon = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Owl = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+ladybug": {
+  "jimmy-plugin+panda": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Ladybug = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Panda = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+lamprey": {
+  "jimmy-plugin+pangolin": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Lamprey = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Pangolin = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+lemur": {
+  "jimmy-plugin+parrot": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Lemur = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Parrot = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+leopard": {
+  "jimmy-plugin+peacock": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Leopard = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Peacock = Robot Pet. All the love, none of the vet bills."
   },
-  "gemini+lion": {
+  "jimmy-plugin+pelican": {
     "result": "robot-pet",
-    "reasoning": "Gemini + Lion = Robot Pet. All the love, none of the vet bills."
+    "reasoning": "Jimmy Plugin + Pelican = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+penguin": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Penguin = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+pig": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Pig = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+piranha": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Piranha = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+platypus": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Platypus = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+pokemon": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Pokemon = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+polar-bear": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Polar Bear = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+porcupine": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Porcupine = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+pronghorn": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Pronghorn = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+puffin": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Puffin = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+quail": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Quail = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+quetzal": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Quetzal = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+rabbit": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Rabbit = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+raccoon": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Raccoon = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+rattlesnake": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Rattlesnake = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+raven": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Raven = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+red-panda": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Red Panda = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+rhinoceros": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Rhinoceros = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+roadrunner": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Roadrunner = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+rooster": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Rooster = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+safari": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Safari = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+salamander": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Salamander = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+scorpion": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Scorpion = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+sea-cucumber": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Sea Cucumber = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+sea-urchin": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Sea Urchin = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+seahorse": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Seahorse = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+seal": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Seal = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+shark": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Shark = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+sheep": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + sheep = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+sloth": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Sloth = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+snail": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Snail = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+snake": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Snake = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+snow-leopard": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Snow Leopard = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+sparrow": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Sparrow = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+spider": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Spider = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+squid": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Squid = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+squirrel": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Squirrel = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+starfish": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Starfish = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+stork": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Stork = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+swan": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Swan = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+swordfish": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Swordfish = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+tapir": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Tapir = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+tarantula": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Tarantula = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+termite": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Termite = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+tiger": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Tiger = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+toad": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Toad = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+toucan": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Toucan = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+trout": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Trout = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+turkey": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Turkey = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+turtle": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Turtle = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+vulture": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Vulture = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+walrus": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Walrus = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+wasp": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Wasp = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+weasel": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Weasel = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+whale": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Whale = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+wolf": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Wolf = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+woodpecker": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Woodpecker = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+worm": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + worm = Robot Pet. All the love, none of the vet bills."
+  },
+  "jimmy-plugin+zebra": {
+    "result": "robot-pet",
+    "reasoning": "Jimmy Plugin + Zebra = Robot Pet. All the love, none of the vet bills."
+  },
+  "lamprey+superintelligence": {
+    "result": "axon",
+    "reasoning": "Here's a real-world link: An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. Combine Lamprey with Superintelligence and you get Axon."
+  },
+  "large-language-model+spider": {
+    "result": "tarantula",
+    "reasoning": "Here's the connection: Tarantulas are a group of large and often hairy spiders of the family Theraphosidae. So Large Language Model + Spider = Tarantula."
+  },
+  "mistral+sparrow": {
+    "result": "chatbot",
+    "reasoning": "A chatbot is a software application or web interface designed to converse through text or speech. That's the connection between Mistral and Sparrow — giving us Chatbot."
+  },
+  "pioneer+seal": {
+    "result": "grove",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Pioneer meets Seal to create Grove."
+  },
+  "rabbit+translation": {
+    "result": "archetype",
+    "reasoning": "The science is clear — The concept of an archetype appears in areas relating to behavior, historical psychology, philosophy and literary analysis. Mix Rabbit and Translation for Archetype."
+  },
+  "rlhf+sea-cucumber": {
+    "result": "robot-pet",
+    "reasoning": "RLHF + Sea Cucumber = Robot Pet. All the love, none of the vet bills."
+  },
+  "rlhf+snow-leopard": {
+    "result": "robot-pet",
+    "reasoning": "RLHF + Snow Leopard = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+tiger": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Tiger = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+toad": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Toad = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+toucan": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Toucan = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+trout": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Trout = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+turkey": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Turkey = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+turtle": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Turtle = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+vulture": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Vulture = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+walrus": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Walrus = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+wasp": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Wasp = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+weasel": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Weasel = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+web": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Web = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+whale": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Whale = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+wolf": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Wolf = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+woodpecker": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Woodpecker = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+worm": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + worm = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+yak": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Yak = Robot Pet. All the love, none of the vet bills."
+  },
+  "text-generation+zebra": {
+    "result": "robot-pet",
+    "reasoning": "Text Generation + Zebra = Robot Pet. All the love, none of the vet bills."
+  },
+  "training+woodpecker": {
+    "result": "robot-pet",
+    "reasoning": "Training + Woodpecker = Robot Pet. All the love, none of the vet bills."
   }
 }

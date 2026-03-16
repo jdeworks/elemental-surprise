@@ -1,19 +1,123 @@
 {
   "air-conditioner+pressure": {
     "result": "pneumatic",
-    "reasoning": "Combine Air Conditioner with Pressure to create Pneumatic."
+    "reasoning": "Pneumatics is the use of gas or pressurized air to create mechanical motion in mechanical systems. Combine Air Conditioner with Pressure and you naturally get Pneumatic."
+  },
+  "algorithm+weather": {
+    "result": "chaos-theory",
+    "reasoning": "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. That's the connection between Algorithm and weather — giving us Chaos Theory."
+  },
+  "amazon+steam": {
+    "result": "cloud-computing",
+    "reasoning": "Amazon Web Services popularized the term 'cloud computing' by deliberately invoking the metaphor of steam clouds—distributed, invisible infrastructure that delivers computational power without users ever seeing the underlying machinery."
+  },
+  "arroyo+bug": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Bug are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+cable": {
+    "result": "arcade",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Arroyo meets Cable to create Arcade."
+  },
+  "arroyo+domain": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Domain are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+fame": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and fame are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+forum": {
+    "result": "arcade",
+    "reasoning": "Arroyo and Forum both belong to the world of Place Name Disambiguation Pages — combine them for Arcade."
+  },
+  "arroyo+loop": {
+    "result": "arcade",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Arroyo meets Loop to create Arcade."
+  },
+  "arroyo+monitor": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Monitor are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+post": {
+    "result": "arcade",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Arroyo meets Post to create Arcade."
+  },
+  "arroyo+printer": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Printer are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+remote": {
+    "result": "arcade",
+    "reasoning": "Arroyo and Remote both belong to the world of Place Name Disambiguation Pages — combine them for Arcade."
+  },
+  "arroyo+resolution": {
+    "result": "arcade",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Arroyo meets Resolution to create Arcade."
+  },
+  "arroyo+tor": {
+    "result": "arcade",
+    "reasoning": "Arroyo and Tor both belong to the world of Place Name Disambiguation Pages — combine them for Arcade."
+  },
+  "ash+capacitor": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between Ash and Capacitor — giving us Aluminum."
+  },
+  "ash+kiln": {
+    "result": "charcoal",
+    "reasoning": "Wikipedia says: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. That explains why Ash + Kiln = Charcoal."
+  },
+  "ash+loudspeaker": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. So when Ash meets Loudspeaker, Aluminum is the natural outcome."
+  },
+  "ash+magnet": {
+    "result": "copper",
+    "reasoning": "Here's a real-world link: Copper is a chemical element; it has symbol Cu and atomic number 29. Combine Ash with magnet and you get Copper."
+  },
+  "audio+thunder": {
+    "result": "sound",
+    "reasoning": "Wikipedia says: Sound is a phenomenon in which pressure disturbances propagate through a transmission medium. That explains why Audio + Thunder = sound."
   },
   "autoclave+heat": {
     "result": "heat-pump",
-    "reasoning": "Combine Heat with Autoclave to create Heat Pump."
+    "reasoning": "Here's the connection: A heat pump is a device that uses mechanical or thermal energy to transfer heat from one space to another. So Autoclave + Heat = Heat Pump."
   },
   "autoclave+steam": {
     "result": "pressure-cooker",
-    "reasoning": "Combine Steam with Autoclave to create Pressure Cooker."
+    "reasoning": "Here's the connection: A pressure cooker is a sealed vessel for cooking food under steam pressure. So Autoclave + Steam = Pressure Cooker."
+  },
+  "automation+wind": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. That's the connection between Automation and Wind — giving us Airplane."
+  },
+  "avalanche+jackhammer": {
+    "result": "concrete",
+    "reasoning": "The science is clear — Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Mix Avalanche and Jackhammer for Concrete."
+  },
+  "avalanche+radiator": {
+    "result": "erosion",
+    "reasoning": "The science is clear — Erosion is the action of surface processes that removes soil, rock, or dissolved material from one location on the Earth's crust and then transports it to another location where it is deposited. Mix Avalanche and Radiator for Erosion."
+  },
+  "badlands+power-grid": {
+    "result": "italy",
+    "reasoning": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. So when Badlands meets Power Grid, Italy is the natural outcome."
+  },
+  "badlands+radiator": {
+    "result": "erosion",
+    "reasoning": "Erosion is the action of surface processes that removes soil, rock, or dissolved material from one location on the Earth's crust and then transports it to another location where it is deposited. That's the connection between Badlands and Radiator — giving us Erosion."
+  },
+  "badlands+snowmobile": {
+    "result": "italy",
+    "reasoning": "The science is clear — Italy, officially the Italian Republic, is a country in Southern and Western Europe. Mix Badlands and Snowmobile for Italy."
   },
   "bay+metal-detector": {
     "result": "rust",
     "reasoning": "Bay oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "bay+pattern": {
+    "result": "dune",
+    "reasoning": "A dune is a landform composed of wind- or water-driven sand. So when Bay meets pattern, Dune is the natural outcome."
   },
   "bay+power-plant": {
     "result": "garden",
@@ -27,9 +131,57 @@
     "result": "ice",
     "reasoning": "Blizzard freezes Water Wheel into Ice — water's solid form."
   },
+  "brook+bug": {
+    "result": "bow",
+    "reasoning": "Wikipedia says: Bow most often refers to:Bow and arrow, a weapon\nBowing, bending the upper body as a social gesture\nAn ornamental knot made of ribbon That explains why Brook + Bug = Bow."
+  },
+  "brook+cable": {
+    "result": "bow",
+    "reasoning": "Bow most often refers to:Bow and arrow, a weapon\nBowing, bending the upper body as a social gesture\nAn ornamental knot made of ribbon So when Brook meets Cable, Bow is the natural outcome."
+  },
+  "brook+domain": {
+    "result": "brace",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Brook meets Domain to create Brace."
+  },
+  "brook+fame": {
+    "result": "brace",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Brook meets fame to create Brace."
+  },
+  "brook+forum": {
+    "result": "brace",
+    "reasoning": "Both Brook and Forum are rooted in Place Name Disambiguation Pages. Together they make Brace."
+  },
+  "brook+loop": {
+    "result": "brace",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Brook meets Loop to create Brace."
+  },
   "brook+metal-detector": {
     "result": "rust",
     "reasoning": "Brook oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "brook+monitor": {
+    "result": "brace",
+    "reasoning": "Both Brook and Monitor are rooted in Place Name Disambiguation Pages. Together they make Brace."
+  },
+  "brook+post": {
+    "result": "brace",
+    "reasoning": "Both Brook and Post are rooted in Place Name Disambiguation Pages. Together they make Brace."
+  },
+  "brook+printer": {
+    "result": "brace",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Brook meets Printer to create Brace."
+  },
+  "brook+remote": {
+    "result": "brace",
+    "reasoning": "Both Brook and Remote are rooted in Place Name Disambiguation Pages. Together they make Brace."
+  },
+  "brook+resolution": {
+    "result": "brace",
+    "reasoning": "Both Brook and Resolution are rooted in Place Name Disambiguation Pages. Together they make Brace."
+  },
+  "brook+tor": {
+    "result": "brace",
+    "reasoning": "Brook and Tor both belong to the world of Place Name Disambiguation Pages — combine them for Brace."
   },
   "brook+tree-data": {
     "result": "garden",
@@ -37,11 +189,79 @@
   },
   "brook+usb": {
     "result": "flash-drive",
-    "reasoning": "Combine Usb with Brook to create Flash Drive."
+    "reasoning": "Here's the connection: A flash drive is a portable computer drive that uses flash memory. So Brook + USB = Flash Drive."
+  },
+  "bug+delta": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Delta to create Brook."
   },
   "bug+fire": {
     "result": "firefly",
     "reasoning": "A fiery bug is a Firefly"
+  },
+  "bug+grove": {
+    "result": "brook",
+    "reasoning": "Bug and Grove both belong to the world of Place Name Disambiguation Pages — combine them for Brook."
+  },
+  "butte+power-grid": {
+    "result": "italy",
+    "reasoning": "Wikipedia says: Italy, officially the Italian Republic, is a country in Southern and Western Europe. That explains why Butte + Power Grid = Italy."
+  },
+  "butte+radiator": {
+    "result": "building",
+    "reasoning": "Wikipedia says: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. That explains why Butte + Radiator = building."
+  },
+  "butte+snowmobile": {
+    "result": "italy",
+    "reasoning": "Here's a real-world link: Italy, officially the Italian Republic, is a country in Southern and Western Europe. Combine Butte with Snowmobile and you get Italy."
+  },
+  "button+cape": {
+    "result": "clothing",
+    "reasoning": "button and Cape share a deep connection. Clothing is any item worn on a human body. Result: Clothing."
+  },
+  "button+dust": {
+    "result": "clothing",
+    "reasoning": "Clothing is any item worn on a human body. So when button meets Dust, Clothing is the natural outcome."
+  },
+  "cable+delta": {
+    "result": "buffalo",
+    "reasoning": "Cable and Delta both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "cable+grove": {
+    "result": "buffalo",
+    "reasoning": "Both Cable and Grove are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "capacitor+clay": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Capacitor with Clay and you get Ceramic."
+  },
+  "capacitor+mud": {
+    "result": "ceramic",
+    "reasoning": "The science is clear — A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Mix Capacitor and Mud for Ceramic."
+  },
+  "capacitor+wind": {
+    "result": "airplane",
+    "reasoning": "Here's a real-world link: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Combine Capacitor with Wind and you get Airplane."
+  },
+  "cape+wearable": {
+    "result": "clothing",
+    "reasoning": "The science is clear — Clothing is any item worn on a human body. Mix Cape and Wearable for Clothing."
+  },
+  "clay+magnet": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Clay with magnet and you get Ceramic."
+  },
+  "clay+semiconductor": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Clay and Semiconductor — giving us Ceramic."
+  },
+  "clay+transformer": {
+    "result": "ceramic",
+    "reasoning": "The science is clear — A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Mix Clay and Transformer for Ceramic."
+  },
+  "cloud-computing+fire": {
+    "result": "global-warming",
+    "reasoning": "Data centers powering cloud computing consume roughly 200 terawatt-hours of electricity annually — equivalent to many coal-fired power plants combined — making the invisible 'cloud' a surprisingly significant driver of global warming."
   },
   "cold+water-wheel": {
     "result": "ice",
@@ -49,23 +269,59 @@
   },
   "cold+wind-turbine": {
     "result": "blizzard",
-    "reasoning": "Combine Cold with Wind Turbine to create Blizzard."
+    "reasoning": "Here's the connection: A blizzard is a severe snowstorm characterized by strong sustained winds and low visibility, lasting for a prolonged period of time—typically at least three or four hours. So Cold + Wind Turbine = Blizzard."
+  },
+  "communication+energy": {
+    "result": "culture",
+    "reasoning": "Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. So when Communication meets Energy, Culture is the natural outcome."
+  },
+  "communication+estuary": {
+    "result": "biofilm",
+    "reasoning": "Wikipedia says: A biofilm is a syntrophic community of microorganisms in which cells stick to each other and often also to a surface. That explains why Communication + Estuary = Biofilm."
+  },
+  "compressor+smoke": {
+    "result": "combustion",
+    "reasoning": "Wikipedia says: Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That explains why Compressor + Smoke = Combustion."
   },
   "compressor+steam": {
     "result": "pressure-cooker",
-    "reasoning": "Combine Steam with Compressor to create Pressure Cooker."
+    "reasoning": "A pressure cooker is a sealed vessel for cooking food under steam pressure. Combine Compressor with Steam and you naturally get Pressure Cooker."
+  },
+  "computer+earth": {
+    "result": "google-maps",
+    "reasoning": "Google Earth (2005) stitched together petabytes of satellite imagery using photogrammetry algorithms, letting anyone navigate the entire surface of the planet from a desktop computer for the first time ever."
+  },
+  "computer+lava": {
+    "result": "simulation",
+    "reasoning": "USGS volcanologists run supercomputer simulations of lava flow dynamics, modeling how molten rock behaves based on viscosity, topography, and temperature to predict where flows will travel before an eruption reaches populated areas."
+  },
+  "computer+mountain": {
+    "result": "cloud-computing",
+    "reasoning": "Major cloud computing data centers are deliberately sited in cold mountain regions — Iceland's volcanic highlands and the Blue Ridge Mountains host server farms that use natural cold air for free cooling, slashing the enormous energy cost of keeping computers from overheating."
+  },
+  "computer+peninsula": {
+    "result": "korea",
+    "reasoning": "The Korean Peninsula became the world's dominant computer memory hub — Samsung and SK Hynix, both based in South Korea, together produce over 60% of the world's DRAM chips, making this peninsula the literal substrate of global computing."
+  },
+  "computer+plateau": {
+    "result": "silicon",
+    "reasoning": "Silicon Valley sits in a geographic basin in the Santa Clara Valley, and silicon — refined from quartz sand into semiconductor-grade crystals — became the foundation of every personal computer, making both the mineral and the valley synonymous with the digital age."
+  },
+  "computer+rain": {
+    "result": "weather-app",
+    "reasoning": "The first digital weather forecast was computed on ENIAC in 1950, requiring 24 hours of processing to predict 24 hours of weather—modern smartphones perform the equivalent calculation in milliseconds, putting professional meteorology in every pocket."
+  },
+  "computer+stone": {
+    "result": "minecraft",
+    "reasoning": "Markus 'Notch' Persson's Minecraft, released in 2011, makes stone the primary building block of a procedurally generated computer world—it became the best-selling video game of all time with over 238 million copies sold."
+  },
+  "computer+wind": {
+    "result": "wind-turbine",
+    "reasoning": "Computational fluid dynamics run on supercomputers allows engineers to simulate millions of wind scenarios before fabricating a single blade, optimizing turbine shapes for maximum energy capture across variable wind conditions."
   },
   "crater+cryptocurrency": {
     "result": "weather-app",
     "reasoning": "Crater + Cryptocurrency = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+css": {
-    "result": "weather-app",
-    "reasoning": "Crater + CSS = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+current": {
-    "result": "weather-app",
-    "reasoning": "Crater + Current = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+cyberbullying": {
     "result": "weather-app",
@@ -75,89 +331,9 @@
     "result": "weather-app",
     "reasoning": "Crater + Cybersecurity = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+cyborg": {
-    "result": "weather-app",
-    "reasoning": "Crater + Cyborg = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+dao": {
-    "result": "weather-app",
-    "reasoning": "Crater + DAO = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+dark-web": {
-    "result": "weather-app",
-    "reasoning": "Crater + Dark Web = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+dashcam": {
-    "result": "weather-app",
-    "reasoning": "Crater + Dashcam = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+data": {
-    "result": "weather-app",
-    "reasoning": "Crater + data = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+database": {
-    "result": "weather-app",
-    "reasoning": "Crater + Database = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+debug": {
-    "result": "weather-app",
-    "reasoning": "Crater + Debug = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+deception": {
-    "result": "weather-app",
-    "reasoning": "Crater + deception = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+defi": {
-    "result": "weather-app",
-    "reasoning": "Crater + DeFi = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+defibrillator": {
     "result": "weather-app",
     "reasoning": "Crater + Defibrillator = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+desktop": {
-    "result": "weather-app",
-    "reasoning": "Crater + Desktop = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+devops": {
-    "result": "weather-app",
-    "reasoning": "Crater + DevOps = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+digital": {
-    "result": "weather-app",
-    "reasoning": "Crater + digital = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+diode": {
-    "result": "weather-app",
-    "reasoning": "Crater + Diode = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+discord": {
-    "result": "weather-app",
-    "reasoning": "Crater + Discord = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+docker": {
-    "result": "weather-app",
-    "reasoning": "Crater + Docker = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+domain": {
-    "result": "weather-app",
-    "reasoning": "Crater + Domain = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+download": {
-    "result": "weather-app",
-    "reasoning": "Crater + Download = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+drone": {
-    "result": "weather-app",
-    "reasoning": "Crater + Drone = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+dynamo": {
-    "result": "weather-app",
-    "reasoning": "Crater + Dynamo = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+e-reader": {
-    "result": "weather-app",
-    "reasoning": "Crater + E-Reader = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+edge-computing": {
     "result": "weather-app",
@@ -171,37 +347,13 @@
     "result": "weather-app",
     "reasoning": "Crater + Electricity = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+electrode": {
-    "result": "weather-app",
-    "reasoning": "Crater + Electrode = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+electronics": {
     "result": "weather-app",
     "reasoning": "Crater + Electronics = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+email": {
-    "result": "weather-app",
-    "reasoning": "Crater + Email = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+encryption": {
     "result": "weather-app",
     "reasoning": "Crater + Encryption = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+error": {
-    "result": "weather-app",
-    "reasoning": "Crater + error = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+escalator": {
-    "result": "weather-app",
-    "reasoning": "Crater + Escalator = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+ethernet": {
-    "result": "weather-app",
-    "reasoning": "Crater + Ethernet = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+fame": {
-    "result": "weather-app",
-    "reasoning": "Crater + fame = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+fax-machine": {
     "result": "weather-app",
@@ -211,53 +363,9 @@
     "result": "weather-app",
     "reasoning": "Crater + Fiber Optic = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+file": {
-    "result": "weather-app",
-    "reasoning": "Crater + File = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+firewall": {
-    "result": "weather-app",
-    "reasoning": "Crater + Firewall = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+flash-drive": {
     "result": "weather-app",
     "reasoning": "Crater + Flash Drive = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+flywheel": {
-    "result": "weather-app",
-    "reasoning": "Crater + Flywheel = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+folder": {
-    "result": "weather-app",
-    "reasoning": "Crater + Folder = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+follower": {
-    "result": "weather-app",
-    "reasoning": "Crater + Follower = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+forum": {
-    "result": "weather-app",
-    "reasoning": "Crater + Forum = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+framework": {
-    "result": "weather-app",
-    "reasoning": "Crater + Framework = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+friend": {
-    "result": "weather-app",
-    "reasoning": "Crater + friend = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+fuel-cell": {
-    "result": "weather-app",
-    "reasoning": "Crater + Fuel Cell = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+function": {
-    "result": "weather-app",
-    "reasoning": "Crater + Function = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+gadget": {
-    "result": "weather-app",
-    "reasoning": "Crater + Gadget = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+galvanometer": {
     "result": "weather-app",
@@ -267,249 +375,37 @@
     "result": "weather-app",
     "reasoning": "Crater + Geiger Counter = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+git": {
-    "result": "weather-app",
-    "reasoning": "Crater + Git = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+github": {
-    "result": "weather-app",
-    "reasoning": "Crater + GitHub = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+google-maps": {
     "result": "weather-app",
     "reasoning": "Crater + Google Maps = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+gps": {
-    "result": "weather-app",
-    "reasoning": "Crater + GPS = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+graphql": {
-    "result": "weather-app",
-    "reasoning": "Crater + GraphQL = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+gyroscope": {
-    "result": "weather-app",
-    "reasoning": "Crater + Gyroscope = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+hacker": {
-    "result": "weather-app",
-    "reasoning": "Crater + Hacker = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+hacking": {
-    "result": "weather-app",
-    "reasoning": "Crater + Hacking = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+hard-drive": {
     "result": "weather-app",
     "reasoning": "Crater + Hard Drive = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+hash": {
-    "result": "weather-app",
-    "reasoning": "Crater + Hash = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+hashtag": {
-    "result": "weather-app",
-    "reasoning": "Crater + Hashtag = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+headphone": {
-    "result": "weather-app",
-    "reasoning": "Crater + Headphone = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+heat-pump": {
-    "result": "weather-app",
-    "reasoning": "Crater + Heat Pump = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+hologram": {
-    "result": "weather-app",
-    "reasoning": "Crater + Hologram = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+html": {
-    "result": "weather-app",
-    "reasoning": "Crater + HTML = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+hydraulic-press": {
     "result": "weather-app",
     "reasoning": "Crater + Hydraulic Press = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+incubator": {
-    "result": "weather-app",
-    "reasoning": "Crater + Incubator = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+influencer": {
-    "result": "weather-app",
-    "reasoning": "Crater + Influencer = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+inheritance": {
     "result": "weather-app",
     "reasoning": "Crater + Inheritance = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+instagram": {
-    "result": "weather-app",
-    "reasoning": "Crater + Instagram = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+intercom": {
-    "result": "weather-app",
-    "reasoning": "Crater + Intercom = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+interface": {
-    "result": "weather-app",
-    "reasoning": "Crater + Interface = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+internet": {
-    "result": "weather-app",
-    "reasoning": "Crater + internet = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+iot": {
-    "result": "weather-app",
-    "reasoning": "Crater + IoT = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+ip-address": {
-    "result": "weather-app",
-    "reasoning": "Crater + IP Address = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+jackhammer": {
-    "result": "weather-app",
-    "reasoning": "Crater + Jackhammer = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+java": {
-    "result": "weather-app",
-    "reasoning": "Crater + Java = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+javascript": {
-    "result": "weather-app",
-    "reasoning": "Crater + JavaScript = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+joystick": {
-    "result": "weather-app",
-    "reasoning": "Crater + Joystick = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+json": {
-    "result": "weather-app",
-    "reasoning": "Crater + JSON = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+keyboard": {
-    "result": "weather-app",
-    "reasoning": "Crater + Keyboard = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+kiln": {
-    "result": "weather-app",
-    "reasoning": "Crater + Kiln = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+kubernetes": {
-    "result": "weather-app",
-    "reasoning": "Crater + Kubernetes = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+laptop": {
-    "result": "weather-app",
-    "reasoning": "Crater + Laptop = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+lathe": {
-    "result": "weather-app",
-    "reasoning": "Crater + Lathe = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+led": {
-    "result": "weather-app",
-    "reasoning": "Crater + LED = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+library-software": {
     "result": "weather-app",
     "reasoning": "Crater + Library Software = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+lidar": {
-    "result": "weather-app",
-    "reasoning": "Crater + LIDAR = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+lie": {
-    "result": "weather-app",
-    "reasoning": "Crater + lie = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+like": {
-    "result": "weather-app",
-    "reasoning": "Crater + Like = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+linux": {
-    "result": "weather-app",
-    "reasoning": "Crater + Linux = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+loop": {
-    "result": "weather-app",
-    "reasoning": "Crater + Loop = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+loudspeaker": {
     "result": "weather-app",
     "reasoning": "Crater + Loudspeaker = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+magnet": {
-    "result": "weather-app",
-    "reasoning": "Crater + magnet = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+mail": {
-    "result": "weather-app",
-    "reasoning": "Crater + Mail = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+mainframe": {
-    "result": "weather-app",
-    "reasoning": "Crater + Mainframe = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+malware": {
-    "result": "weather-app",
-    "reasoning": "Crater + Malware = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+markdown": {
-    "result": "weather-app",
-    "reasoning": "Crater + Markdown = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+meme": {
-    "result": "weather-app",
-    "reasoning": "Crater + Meme = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+message": {
-    "result": "weather-app",
-    "reasoning": "Crater + message = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+metal-detector": {
     "result": "weather-app",
     "reasoning": "Crater + Metal Detector = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+metaverse": {
-    "result": "weather-app",
-    "reasoning": "Crater + Metaverse = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+metronome": {
-    "result": "weather-app",
-    "reasoning": "Crater + Metronome = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+microchip": {
-    "result": "weather-app",
-    "reasoning": "Crater + Microchip = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+micrometer": {
-    "result": "weather-app",
-    "reasoning": "Crater + Micrometer = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+microphone": {
-    "result": "weather-app",
-    "reasoning": "Crater + Microphone = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+microservice": {
     "result": "weather-app",
     "reasoning": "Crater + Microservice = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+midjourney": {
-    "result": "weather-app",
-    "reasoning": "Crater + Midjourney = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+modem": {
-    "result": "weather-app",
-    "reasoning": "Crater + Modem = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+monitor": {
-    "result": "weather-app",
-    "reasoning": "Crater + Monitor = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+morse-code": {
-    "result": "weather-app",
-    "reasoning": "Crater + Morse Code = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+motion-sensor": {
     "result": "weather-app",
@@ -519,45 +415,9 @@
     "result": "weather-app",
     "reasoning": "Crater + Mouse Device = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+multimeter": {
-    "result": "weather-app",
-    "reasoning": "Crater + Multimeter = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+name": {
-    "result": "weather-app",
-    "reasoning": "Crater + name = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+navigation": {
-    "result": "weather-app",
-    "reasoning": "Crater + Navigation = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+neon-sign": {
-    "result": "weather-app",
-    "reasoning": "Crater + Neon Sign = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+netflix": {
-    "result": "weather-app",
-    "reasoning": "Crater + Netflix = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+network": {
-    "result": "weather-app",
-    "reasoning": "Crater + Network = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+neural-link": {
     "result": "weather-app",
     "reasoning": "Crater + Neural Link = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+neuralink": {
-    "result": "weather-app",
-    "reasoning": "Crater + Neuralink = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+newsletter": {
-    "result": "weather-app",
-    "reasoning": "Crater + Newsletter = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+nft": {
-    "result": "weather-app",
-    "reasoning": "Crater + NFT = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+notification": {
     "result": "weather-app",
@@ -567,18 +427,6 @@
     "result": "weather-app",
     "reasoning": "Crater + Nuclear Reactor = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+object": {
-    "result": "weather-app",
-    "reasoning": "Crater + Object = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+offline": {
-    "result": "weather-app",
-    "reasoning": "Crater + Offline = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+online": {
-    "result": "weather-app",
-    "reasoning": "Crater + Online = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+open-source": {
     "result": "weather-app",
     "reasoning": "Crater + Open Source = a Weather App. Wrong 40% of the time, but we check it anyway."
@@ -586,10 +434,6 @@
   "crater+operating-system": {
     "result": "weather-app",
     "reasoning": "Crater + Operating System = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+oscillator": {
-    "result": "weather-app",
-    "reasoning": "Crater + Oscillator = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+oscilloscope": {
     "result": "weather-app",
@@ -599,53 +443,13 @@
     "result": "weather-app",
     "reasoning": "Crater + Particle Accelerator = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+password": {
-    "result": "weather-app",
-    "reasoning": "Crater + Password = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+pattern": {
-    "result": "weather-app",
-    "reasoning": "Crater + pattern = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+periscope": {
-    "result": "weather-app",
-    "reasoning": "Crater + Periscope = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+phishing": {
-    "result": "weather-app",
-    "reasoning": "Crater + Phishing = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+phonograph": {
-    "result": "weather-app",
-    "reasoning": "Crater + Phonograph = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+photodiode": {
-    "result": "weather-app",
-    "reasoning": "Crater + Photodiode = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+piezoelectric": {
     "result": "weather-app",
     "reasoning": "Crater + Piezoelectric = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+pixel": {
-    "result": "weather-app",
-    "reasoning": "Crater + Pixel = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+pneumatic": {
-    "result": "weather-app",
-    "reasoning": "Crater + Pneumatic = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+podcast": {
-    "result": "weather-app",
-    "reasoning": "Crater + Podcast = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+polymorphism": {
     "result": "weather-app",
     "reasoning": "Crater + Polymorphism = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+post": {
-    "result": "weather-app",
-    "reasoning": "Crater + Post = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+post-office": {
     "result": "weather-app",
@@ -655,10 +459,6 @@
     "result": "weather-app",
     "reasoning": "Crater + Potentiometer = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+power-grid": {
-    "result": "weather-app",
-    "reasoning": "Crater + Power Grid = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+power-plant": {
     "result": "weather-app",
     "reasoning": "Crater + Power Plant = a Weather App. Wrong 40% of the time, but we check it anyway."
@@ -667,137 +467,21 @@
     "result": "weather-app",
     "reasoning": "Crater + Power Strip = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+press": {
-    "result": "weather-app",
-    "reasoning": "Crater + press = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+pressure-cooker": {
     "result": "weather-app",
     "reasoning": "Crater + Pressure Cooker = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+printer": {
-    "result": "weather-app",
-    "reasoning": "Crater + Printer = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+printing": {
-    "result": "weather-app",
-    "reasoning": "Crater + Printing = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+privacy": {
-    "result": "weather-app",
-    "reasoning": "Crater + Privacy = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+processor": {
-    "result": "weather-app",
-    "reasoning": "Crater + Processor = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+product": {
-    "result": "weather-app",
-    "reasoning": "Crater + product = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+profile": {
-    "result": "weather-app",
-    "reasoning": "Crater + Profile = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+program": {
-    "result": "weather-app",
-    "reasoning": "Crater + Program = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+propane-tank": {
     "result": "weather-app",
     "reasoning": "Crater + Propane Tank = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+python": {
-    "result": "weather-app",
-    "reasoning": "Crater + Python = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+qr-code": {
-    "result": "weather-app",
-    "reasoning": "Crater + QR Code = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+quantum-computer": {
     "result": "weather-app",
     "reasoning": "Crater + Quantum Computer = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+queue": {
-    "result": "weather-app",
-    "reasoning": "Crater + Queue = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+radar": {
-    "result": "weather-app",
-    "reasoning": "Crater + Radar = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+radiator": {
-    "result": "weather-app",
-    "reasoning": "Crater + Radiator = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+radio": {
-    "result": "weather-app",
-    "reasoning": "Crater + Radio = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+ram": {
-    "result": "weather-app",
-    "reasoning": "Crater + RAM = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+ransomware": {
-    "result": "weather-app",
-    "reasoning": "Crater + Ransomware = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+record-player": {
     "result": "weather-app",
     "reasoning": "Crater + Record Player = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+recursion": {
-    "result": "weather-app",
-    "reasoning": "Crater + Recursion = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+reddit": {
-    "result": "weather-app",
-    "reasoning": "Crater + Reddit = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+regex": {
-    "result": "weather-app",
-    "reasoning": "Crater + Regex = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+relay": {
-    "result": "weather-app",
-    "reasoning": "Crater + Relay = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+remote": {
-    "result": "weather-app",
-    "reasoning": "Crater + Remote = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+resistor": {
-    "result": "weather-app",
-    "reasoning": "Crater + Resistor = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+resolution": {
-    "result": "weather-app",
-    "reasoning": "Crater + Resolution = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+rest-api": {
-    "result": "weather-app",
-    "reasoning": "Crater + REST API = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+robot": {
-    "result": "weather-app",
-    "reasoning": "Crater + Robot = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+router": {
-    "result": "weather-app",
-    "reasoning": "Crater + Router = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+saas": {
-    "result": "weather-app",
-    "reasoning": "Crater + SaaS = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+screen": {
-    "result": "weather-app",
-    "reasoning": "Crater + screen = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+scuba": {
-    "result": "weather-app",
-    "reasoning": "Crater + SCUBA = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+search-engine": {
     "result": "weather-app",
@@ -807,76 +491,392 @@
     "result": "weather-app",
     "reasoning": "Crater + Self Driving Car = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+selfie": {
-    "result": "weather-app",
-    "reasoning": "Crater + Selfie = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+semiconductor": {
     "result": "weather-app",
     "reasoning": "Crater + Semiconductor = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+sensor": {
-    "result": "weather-app",
-    "reasoning": "Crater + Sensor = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+server": {
-    "result": "weather-app",
-    "reasoning": "Crater + Server = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+share": {
-    "result": "weather-app",
-    "reasoning": "Crater + Share = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+signal": {
-    "result": "weather-app",
-    "reasoning": "Crater + Signal = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+sim-card": {
-    "result": "weather-app",
-    "reasoning": "Crater + SIM Card = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+siri": {
-    "result": "weather-app",
-    "reasoning": "Crater + Siri = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+slack": {
-    "result": "weather-app",
-    "reasoning": "Crater + Slack = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+smart-contract": {
     "result": "weather-app",
     "reasoning": "Crater + Smart Contract = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+smart-home": {
-    "result": "weather-app",
-    "reasoning": "Crater + Smart Home = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+smart-speaker": {
     "result": "weather-app",
     "reasoning": "Crater + Smart Speaker = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+smartphone": {
-    "result": "weather-app",
-    "reasoning": "Crater + Smartphone = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+smartwatch": {
-    "result": "weather-app",
-    "reasoning": "Crater + Smartwatch = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
-  "crater+snowmobile": {
-    "result": "weather-app",
-    "reasoning": "Crater + Snowmobile = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
   "crater+social-media": {
     "result": "weather-app",
     "reasoning": "Crater + Social Media = a Weather App. Wrong 40% of the time, but we check it anyway."
   },
-  "crater+software": {
-    "result": "weather-app",
-    "reasoning": "Crater + software = a Weather App. Wrong 40% of the time, but we check it anyway."
-  },
   "crater+solar-panel": {
     "result": "weather-app",
     "reasoning": "Crater + Solar Panel = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+spectroscope": {
+    "result": "weather-app",
+    "reasoning": "Crater + Spectroscope = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+stable-diffusion": {
+    "result": "weather-app",
+    "reasoning": "Crater + Stable Diffusion = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+stack-overflow": {
+    "result": "weather-app",
+    "reasoning": "Crater + Stack Overflow = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+steam-engine": {
+    "result": "weather-app",
+    "reasoning": "Crater + Steam Engine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+supercomputer": {
+    "result": "weather-app",
+    "reasoning": "Crater + Supercomputer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+synthesizer": {
+    "result": "weather-app",
+    "reasoning": "Crater + Synthesizer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+technical-debt": {
+    "result": "weather-app",
+    "reasoning": "Crater + Technical Debt = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+touchscreen": {
+    "result": "weather-app",
+    "reasoning": "Crater + Touchscreen = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+transformer": {
+    "result": "weather-app",
+    "reasoning": "Crater + Transformer = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+troll-internet": {
+    "result": "weather-app",
+    "reasoning": "Crater + Troll Internet = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+vacuum-tube": {
+    "result": "weather-app",
+    "reasoning": "Crater + Vacuum Tube = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+viral-video": {
+    "result": "weather-app",
+    "reasoning": "Crater + Viral Video = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+voltaic-pile": {
+    "result": "weather-app",
+    "reasoning": "Crater + Voltaic Pile = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+water-wheel": {
+    "result": "weather-app",
+    "reasoning": "Crater + Water Wheel = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+weather-app": {
+    "result": "weather-app",
+    "reasoning": "Crater + Weather App = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+welding-torch": {
+    "result": "weather-app",
+    "reasoning": "Crater + Welding Torch = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+wildlife-camera": {
+    "result": "weather-app",
+    "reasoning": "Crater + Wildlife Camera = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+wind-turbine": {
+    "result": "weather-app",
+    "reasoning": "Crater + Wind Turbine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "crater+x-ray-machine": {
+    "result": "weather-app",
+    "reasoning": "Crater + X-Ray Machine = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "creek+metal-detector": {
+    "result": "rust",
+    "reasoning": "Creek oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "creek+power-plant": {
+    "result": "garden",
+    "reasoning": "Creek + Power Plant + patience = a Garden."
+  },
+  "creek+tree-data": {
+    "result": "grove",
+    "reasoning": "Did you know? A creek in North America and elsewhere, such as Australia, is a stream that is usually smaller than a river. That's why Creek + Tree Data = Grove."
+  },
+  "css+fire": {
+    "result": "color",
+    "reasoning": "The science is clear — Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Mix CSS and Fire for Color."
+  },
+  "css+rainbow": {
+    "result": "color",
+    "reasoning": "The science is clear — Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Mix CSS and Rainbow for Color."
+  },
+  "current+ocean": {
+    "result": "maelstrom",
+    "reasoning": "Did you know? The ocean is the body of salt water that covers approximately 70.8% of Earth. That's why Current + ocean = Maelstrom."
+  },
+  "current+water": {
+    "result": "whirlpool",
+    "reasoning": "Did you know? A whirlpool is a body of rotating water produced by opposing currents or a current running into an obstacle. That's why Current + Water = Whirlpool."
+  },
+  "delta+domain": {
+    "result": "clone",
+    "reasoning": "Delta and Domain both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
+  },
+  "delta+fame": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets fame to create Clone."
+  },
+  "delta+forum": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets Forum to create Clone."
+  },
+  "delta+loop": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets Loop to create Clone."
+  },
+  "delta+monitor": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets Monitor to create Clone."
+  },
+  "delta+post": {
+    "result": "clone",
+    "reasoning": "Delta and Post both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
+  },
+  "delta+printer": {
+    "result": "clone",
+    "reasoning": "Both Delta and Printer are rooted in Place Name Disambiguation Pages. Together they make Clone."
+  },
+  "delta+python": {
+    "result": "brownie",
+    "reasoning": "In the realm of Disambiguation Pages With Given Name Holder Lists, Delta meets Python to create Brownie."
+  },
+  "delta+remote": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets Remote to create Clone."
+  },
+  "delta+resolution": {
+    "result": "clone",
+    "reasoning": "Delta and Resolution both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
+  },
+  "delta+tor": {
+    "result": "cobbler",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Delta meets Tor to create Cobbler."
+  },
+  "dew+edge-computing": {
+    "result": "weather-app",
+    "reasoning": "Dew + Edge Computing = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+hydraulic-press": {
+    "result": "weather-app",
+    "reasoning": "Dew + Hydraulic Press = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+library-software": {
+    "result": "weather-app",
+    "reasoning": "Dew + Library Software = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+nuclear-reactor": {
+    "result": "weather-app",
+    "reasoning": "Dew + Nuclear Reactor = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+stable-diffusion": {
+    "result": "weather-app",
+    "reasoning": "Dew + Stable Diffusion = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+troll-internet": {
+    "result": "weather-app",
+    "reasoning": "Dew + Troll Internet = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "dew+wildlife-camera": {
+    "result": "weather-app",
+    "reasoning": "Dew + Wildlife Camera = a Weather App. Wrong 40% of the time, but we check it anyway."
+  },
+  "domain+grove": {
+    "result": "cobbler",
+    "reasoning": "Both Domain and Grove are rooted in Place Name Disambiguation Pages. Together they make Cobbler."
+  },
+  "drumlin+pattern": {
+    "result": "dune",
+    "reasoning": "Here's a real-world link: A dune is a landform composed of wind- or water-driven sand. Combine Drumlin with pattern and you get Dune."
+  },
+  "dust+pattern": {
+    "result": "carpet",
+    "reasoning": "The science is clear — A carpet or rug is a textile floor covering that typically consists of an upper layer of pile attached to a backing. Mix Dust and pattern for Carpet."
+  },
+  "dust+wearable": {
+    "result": "clothing",
+    "reasoning": "Clothing is any item worn on a human body. So when Dust meets Wearable, Clothing is the natural outcome."
+  },
+  "earth+photodiode": {
+    "result": "photosynthesis",
+    "reasoning": "Chloroplasts function as biological photodiodes, using quantum coherence to transfer solar energy with near-perfect efficiency—a process that produces all of Earth's atmospheric oxygen and underpins every food chain on the planet."
+  },
+  "earth+telephone": {
+    "result": "phone",
+    "reasoning": "Earth combined with Telephone yields Phone"
+  },
+  "earth+transformer": {
+    "result": "power-grid",
+    "reasoning": "Step-up and step-down transformers are the backbone of Earth's power grids, enabling electricity to travel thousands of kilometers with minimal loss before reaching homes."
+  },
+  "electricity+energy": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. So when Electricity meets Energy, Capacitor is the natural outcome."
+  },
+  "electricity+fire": {
+    "result": "coal",
+    "reasoning": "Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. So when Electricity meets Fire, Coal is the natural outcome."
+  },
+  "electricity+lightning": {
+    "result": "climate-change",
+    "reasoning": "Here's a real-world link: Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. Combine Electricity with Lightning and you get Climate Change."
+  },
+  "electricity+pressure": {
+    "result": "voltage",
+    "reasoning": "Voltage, also known as (electrical) potential difference, electric pressure, or electric tension, is the difference in electric potential between two points. That's how Electricity and Pressure give us Voltage."
+  },
+  "electricity+smoke": {
+    "result": "circuit-board",
+    "reasoning": "PCBs are used to connect or \"wire\" components to one another in an electronic circuit. So when Electricity meets Smoke, Circuit Board is the natural outcome."
+  },
+  "electricity+tributary": {
+    "result": "hydropower",
+    "reasoning": "Small tributaries are increasingly valuable for run-of-river hydropower plants, which generate electricity without dams by channeling streamflow directly through turbines."
+  },
+  "electricity+water": {
+    "result": "electrolysis",
+    "reasoning": "Electricity and Water together? In chemistry and manufacturing, electrolysis is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous biological and physical reaction. The result: Electrolysis."
+  },
+  "electrode+rain": {
+    "result": "electrolysis",
+    "reasoning": "Benjamin Franklin's 1752 kite experiment used the electrical charge in rain clouds flowing through a conductive key (functioning as an electrode) to prove lightning was electrical, directly inspiring the study of electrolysis as a means to harness atmospheric electricity."
+  },
+  "electrode+smoke": {
+    "result": "cobalt",
+    "reasoning": "Here's a real-world link: Cobalt is a chemical element; it has symbol Co and atomic number 27. Combine Electrode with Smoke and you get Cobalt."
+  },
+  "electronics+fire": {
+    "result": "convection",
+    "reasoning": "The science is clear — Convection is the transfer of heat through the physical movement of fluids, where warmer, less-dense material rises and cooler, denser material sinks. Mix Electronics and Fire for Convection."
+  },
+  "electronics+mountain": {
+    "result": "convection",
+    "reasoning": "Wikipedia says: Convection is the transfer of heat through the physical movement of fluids, where warmer, less-dense material rises and cooler, denser material sinks. That explains why Electronics + mountain = Convection."
+  },
+  "energy+technology": {
+    "result": "culture",
+    "reasoning": "Here's a real-world link: Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. Combine Energy with technology and you get Culture."
+  },
+  "escalator+hail": {
+    "result": "airport",
+    "reasoning": "The science is clear — An airport is an aerodrome with extended facilities, mostly for commercial air transport. Mix Escalator and Hail for Airport."
+  },
+  "escalator+pressure": {
+    "result": "capillary-action",
+    "reasoning": "Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. That's the connection between Escalator and Pressure — giving us Capillary Action."
+  },
+  "estuary+navigation": {
+    "result": "map",
+    "reasoning": "A map is a depiction of interrelationships, commonly spatial, between things within a space. That's the connection between Estuary and Navigation — giving us Map."
+  },
+  "fame+grove": {
+    "result": "cobbler",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, fame meets Grove to create Cobbler."
+  },
+  "fire+kiln": {
+    "result": "charcoal",
+    "reasoning": "Fire and Kiln share a deep connection. Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Result: Charcoal."
+  },
+  "fire+metal-detector": {
+    "result": "welding-torch",
+    "reasoning": "Did you know? Fire is the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. That's why Fire + Metal Detector = Welding Torch."
+  },
+  "fire+radiator": {
+    "result": "convection",
+    "reasoning": "Wikipedia says: Convection is the transfer of heat through the physical movement of fluids, where warmer, less-dense material rises and cooler, denser material sinks. That explains why Fire + Radiator = Convection."
+  },
+  "fire+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "fire+water-wheel": {
+    "result": "steam",
+    "reasoning": "Fire turns Water Wheel to Steam — the force that powered the Industrial Revolution."
+  },
+  "flood+metal-detector": {
+    "result": "rust",
+    "reasoning": "Flood oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "flood+power-plant": {
+    "result": "garden",
+    "reasoning": "Flood + Power Plant + patience = a Garden."
+  },
+  "flood+tree-data": {
+    "result": "garden",
+    "reasoning": "Flood + Tree Data + patience = a Garden."
+  },
+  "floodplain+pattern": {
+    "result": "dune",
+    "reasoning": "The science is clear — A dune is a landform composed of wind- or water-driven sand. Mix Floodplain and pattern for Dune."
+  },
+  "forum+grove": {
+    "result": "cork",
+    "reasoning": "Both Forum and Grove are rooted in Place Name Disambiguation Pages. Together they make Cork."
+  },
+  "frost+water-wheel": {
+    "result": "ice",
+    "reasoning": "Frost freezes Water Wheel into Ice — water's solid form."
+  },
+  "geiger-counter+mud": {
+    "result": "radioactivity",
+    "reasoning": "River sediments and mudflats naturally concentrate radioactive isotopes like radium-226 and uranium-238 washed from bedrock, making geiger counter surveys of mud a standard technique in environmental radiation monitoring."
+  },
+  "geyser+technology": {
+    "result": "antibiotic",
+    "reasoning": "The science is clear — An antibiotic is a type of antimicrobial substance active against bacteria. Mix Geyser and technology for Antibiotic."
+  },
+  "glacial-lake+metal-detector": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Metal Detector — the slow destruction of Rust."
+  },
+  "glacial-lake+power-plant": {
+    "result": "garden",
+    "reasoning": "Glacial Lake + Power Plant + patience = a Garden."
+  },
+  "glacial-lake+tree-data": {
+    "result": "garden",
+    "reasoning": "Glacial Lake + Tree Data + patience = a Garden."
+  },
+  "glacier+water-wheel": {
+    "result": "ice",
+    "reasoning": "Glacier freezes Water Wheel into Ice — water's solid form."
+  },
+  "gravel+jackhammer": {
+    "result": "concrete",
+    "reasoning": "Gravel and Jackhammer share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "grove+loop": {
+    "result": "cracker",
+    "reasoning": "Wikipedia says: Crackers are a type of biscuit. That explains why Grove + Loop = Cracker."
+  },
+  "grove+monitor": {
+    "result": "cracker",
+    "reasoning": "Here's a real-world link: Crackers are a type of biscuit. Combine Grove with Monitor and you get Cracker."
+  },
+  "grove+post": {
+    "result": "cracker",
+    "reasoning": "The science is clear — Crackers are a type of biscuit. Mix Grove and Post for Cracker."
+  },
+  "grove+printer": {
+    "result": "cracker",
+    "reasoning": "Here's a real-world link: Crackers are a type of biscuit. Combine Grove with Printer and you get Cracker."
+  },
+  "grove+remote": {
+    "result": "cracker",
+    "reasoning": "Here's a real-world link: Crackers are a type of biscuit. Combine Grove with Remote and you get Cracker."
+  },
+  "grove+resolution": {
+    "result": "cracker",
+    "reasoning": "Crackers are a type of biscuit. So when Grove meets Resolution, Cracker is the natural outcome."
+  },
+  "grove+tor": {
+    "result": "cracker",
+    "reasoning": "Grove and Tor share a deep connection. Crackers are a type of biscuit. Result: Cracker."
   }
 }

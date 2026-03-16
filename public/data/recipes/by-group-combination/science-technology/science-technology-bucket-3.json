@@ -1,19 +1,407 @@
 {
-  "radiation+smartwatch": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Smartwatch = Lab Equipment. Expensive, fragile, and always being borrowed."
+  "meditation+pattern": {
+    "result": "intuition",
+    "reasoning": "Wikipedia says: Intuition is the ability to acquire knowledge without recourse to conscious reasoning or needing an explanation. That explains why Meditation + pattern = Intuition."
   },
-  "radiation+snowmobile": {
+  "meme+psychology": {
+    "result": "bias",
+    "reasoning": "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. So when Meme meets Psychology, Bias is the natural outcome."
+  },
+  "meme+science": {
+    "result": "axiom",
+    "reasoning": "Wikipedia says: An axiom, postulate, or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. That explains why Meme + science = Axiom."
+  },
+  "meme+speed": {
+    "result": "viral",
+    "reasoning": "Did you know? The word Viral means \"relating to viruses\". That's why Meme + Speed = Viral."
+  },
+  "meme+statistics": {
+    "result": "bias",
+    "reasoning": "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. So when Meme meets Statistics, Bias is the natural outcome."
+  },
+  "meme+time": {
+    "result": "afterlife",
+    "reasoning": "Meme and time share a deep connection. The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. Result: Afterlife."
+  },
+  "microchip+speed": {
+    "result": "ram",
+    "reasoning": "Random-access memory is a form of electronic computer memory that can be read and changed in any order, typically used to store working data and machine code. Combine Microchip with Speed and you naturally get RAM."
+  },
+  "microphone+piezoelectricity": {
+    "result": "computer",
+    "reasoning": "Through Bibcode (Identifier), Microphone and Piezoelectricity find common ground: Computer."
+  },
+  "microscope+oscilloscope": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Microscope with Oscilloscope and you get Amplitude."
+  },
+  "microscope+potentiometer": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Microscope with Potentiometer and you get Amplitude."
+  },
+  "molecule+recursion": {
+    "result": "brownian-motion",
+    "reasoning": "The science is clear — Brownian motion is the random motion of particles suspended in a medium. Mix Molecule and Recursion for Brownian Motion."
+  },
+  "molecule+stable-diffusion": {
+    "result": "diffusion",
+    "reasoning": "Here's the connection: Diffusion is the net movement of anything generally from a region of higher concentration to a region of lower concentration. So Molecule + Stable Diffusion = Diffusion."
+  },
+  "monitor+pill": {
+    "result": "forum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Monitor meets Pill to create Forum."
+  },
+  "monitor+point": {
+    "result": "forum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Monitor meets point to create Forum."
+  },
+  "monitor+static": {
+    "result": "forum",
+    "reasoning": "Monitor and Static both belong to the world of Place Name Disambiguation Pages — combine them for Forum."
+  },
+  "morse-code+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Morse Code + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "motion-sensor+radiation": {
+    "result": "geiger-counter",
+    "reasoning": "A Geiger counter is an electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. That's how Motion Sensor and Radiation give us Geiger Counter."
+  },
+  "multimeter+oscillation": {
+    "result": "frequency",
+    "reasoning": "The science is clear — Frequency is the number of occurrences of a repeating event per unit of time. Mix Multimeter and Oscillation for Frequency."
+  },
+  "multimeter+wavelength": {
+    "result": "frequency",
+    "reasoning": "Frequency is the number of occurrences of a repeating event per unit of time. That's the connection between Multimeter and Wavelength — giving us Frequency."
+  },
+  "neon+phonograph": {
+    "result": "diamond",
+    "reasoning": "The science is clear — Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. Mix Neon and Phonograph for Diamond."
+  },
+  "network+rocket-science": {
+    "result": "artificial-intelligence",
+    "reasoning": "Network + Rocket Science = AI — humanity's greatest amplifier."
+  },
+  "network+wave": {
+    "result": "wifi",
+    "reasoning": "Wi-Fi is a family of wireless network protocols based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access, allowing nearby digital devices to exchange data by radio waves. That's how Network and Wave give us WiFi."
+  },
+  "neutron+radio": {
+    "result": "pulsar",
+    "reasoning": "A neutron star emitting radio waves is a Pulsar"
+  },
+  "nitrogen+technology": {
+    "result": "beer",
+    "reasoning": "Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize, rice, and oats are also used. That's the connection between Nitrogen and technology — giving us Beer."
+  },
+  "nuclear+nuclear-reactor": {
+    "result": "critical-mass",
+    "reasoning": "Did you know? Critical mass is the amount of fissile material needed to sustain nuclear fission. That's why Nuclear + Nuclear Reactor = Critical Mass."
+  },
+  "object+shape": {
+    "result": "polymorphism",
+    "reasoning": "A shape is a graphical representation of an object's form or its external boundary, outline, or external surface. Combine Object with shape and you naturally get Polymorphism."
+  },
+  "online+void": {
+    "result": "offline",
+    "reasoning": "In computer technology and telecommunications, online indicates a state of connectivity, and offline indicates a disconnected state. Combine Online with void and you naturally get Offline."
+  },
+  "optics+printing": {
+    "result": "barcode",
+    "reasoning": "Optics and Printing share a deep connection. A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. Result: Barcode."
+  },
+  "oscillation+signal": {
+    "result": "frequency",
+    "reasoning": "Here's a real-world link: Frequency is the number of occurrences of a repeating event per unit of time. Combine Oscillation with Signal and you get Frequency."
+  },
+  "oscillation+supercomputer": {
+    "result": "aerodynamics",
+    "reasoning": "The science is clear — Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. Mix Oscillation and Supercomputer for Aerodynamics."
+  },
+  "oscilloscope+pendulum": {
+    "result": "amplitude",
+    "reasoning": "Oscilloscope and Pendulum share a deep connection. The amplitude of a periodic variable is a measure of its change in a single period. Result: Amplitude."
+  },
+  "oscilloscope+quantum": {
+    "result": "frequency",
+    "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Oscilloscope + Quantum = Frequency."
+  },
+  "oscilloscope+recycling": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Oscilloscope + Recycling = Cathode Ray Tube."
+  },
+  "oscilloscope+refraction": {
+    "result": "frequency",
+    "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Oscilloscope + Refraction = Frequency."
+  },
+  "oscilloscope+resonance": {
+    "result": "frequency",
+    "reasoning": "Oscilloscope and Resonance share a deep connection. Frequency is the number of occurrences of a repeating event per unit of time. Result: Frequency."
+  },
+  "oscilloscope+spectrum": {
+    "result": "frequency",
+    "reasoning": "The science is clear — Frequency is the number of occurrences of a repeating event per unit of time. Mix Oscilloscope and Spectrum for Frequency."
+  },
+  "oscilloscope+speed": {
+    "result": "frequency",
+    "reasoning": "Frequency is the number of occurrences of a repeating event per unit of time. That's the connection between Oscilloscope and Speed — giving us Frequency."
+  },
+  "oscilloscope+vacuum": {
+    "result": "cathode-ray-tube",
+    "reasoning": "A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. So when Oscilloscope meets Vacuum, Cathode Ray Tube is the natural outcome."
+  },
+  "oscilloscope+vibration": {
+    "result": "amplitude",
+    "reasoning": "The science is clear — The amplitude of a periodic variable is a measure of its change in a single period. Mix Oscilloscope and Vibration for Amplitude."
+  },
+  "oscilloscope+wave": {
+    "result": "amplitude",
+    "reasoning": "Wikipedia says: The amplitude of a periodic variable is a measure of its change in a single period. That explains why Oscilloscope + Wave = Amplitude."
+  },
+  "oscilloscope+wavelength": {
+    "result": "frequency",
+    "reasoning": "Frequency is the number of occurrences of a repeating event per unit of time. That's the connection between Oscilloscope and Wavelength — giving us Frequency."
+  },
+  "pacemaker+snowmobile": {
+    "result": "telephone",
+    "reasoning": "A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly. That's the connection between Pacemaker and Snowmobile — giving us Telephone."
+  },
+  "pacemaker+telephone": {
+    "result": "snowmobile",
+    "reasoning": "The science is clear — A snowmobile, also known as a snowmachine, motor sled, ski-doo, motor sledge, skimobile, snow scooter, or simply a sled is a motorized vehicle designed for winter travel and recreation on snow. Mix Pacemaker and Telephone for Snowmobile."
+  },
+  "pacemaker+wi-fi": {
+    "result": "google-maps",
+    "reasoning": "Google Maps is a web mapping platform and consumer application developed by Google. So when Pacemaker meets Wi-Fi, Google Maps is the natural outcome."
+  },
+  "past+signal": {
+    "result": "evolution",
+    "reasoning": "The science is clear — Evolution is the change in the heritable characteristics of biological populations over successive generations. Mix Past and Signal for Evolution."
+  },
+  "pattern+pendulum": {
+    "result": "chaos-theory",
+    "reasoning": "pattern and Pendulum share a deep connection. Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Result: Chaos Theory."
+  },
+  "pattern+piezoelectricity": {
+    "result": "crystal",
+    "reasoning": "A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. That's the connection between pattern and Piezoelectricity — giving us Crystal."
+  },
+  "pattern+supercooling": {
+    "result": "crystal",
+    "reasoning": "pattern and Supercooling share a deep connection. A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Result: Crystal."
+  },
+  "pattern+time": {
+    "result": "consciousness",
+    "reasoning": "The science is clear — Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. Mix pattern and time for Consciousness."
+  },
+  "pattern+turbulence": {
+    "result": "chaos-theory",
+    "reasoning": "The science is clear — Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Mix pattern and Turbulence for Chaos Theory."
+  },
+  "pattern+wave": {
+    "result": "interference",
+    "reasoning": "Interference is the act of interfering, invading, or poaching. That's how pattern and Wave give us Interference."
+  },
+  "pendulum+potentiometer": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Pendulum with Potentiometer and you get Amplitude."
+  },
+  "pendulum+radio": {
+    "result": "amplitude",
+    "reasoning": "The science is clear — The amplitude of a periodic variable is a measure of its change in a single period. Mix Pendulum and Radio for Amplitude."
+  },
+  "pendulum+recursion": {
+    "result": "chaos-theory",
+    "reasoning": "Here's a real-world link: Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Combine Pendulum with Recursion and you get Chaos Theory."
+  },
+  "photodiode+quantum": {
+    "result": "electron",
+    "reasoning": "The electron is a subatomic particle whose electric charge is negative one elementary charge. That's the connection between Photodiode and Quantum — giving us Electron."
+  },
+  "photodiode+radiation": {
+    "result": "electromagnetic-spectrum",
+    "reasoning": "Photodiode and Radiation share a deep connection. The electromagnetic spectrum is the full range of electromagnetic radiation, organized by frequency or wavelength. Result: Electromagnetic Spectrum."
+  },
+  "photodiode+refraction": {
+    "result": "electron",
+    "reasoning": "Here's a real-world link: The electron is a subatomic particle whose electric charge is negative one elementary charge. Combine Photodiode with Refraction and you get Electron."
+  },
+  "photodiode+resonance": {
+    "result": "electron",
+    "reasoning": "Here's a real-world link: The electron is a subatomic particle whose electric charge is negative one elementary charge. Combine Photodiode with Resonance and you get Electron."
+  },
+  "photodiode+spectrum": {
+    "result": "electromagnetic-spectrum",
+    "reasoning": "The electromagnetic spectrum is the full range of electromagnetic radiation, organized by frequency or wavelength. That's the connection between Photodiode and Spectrum — giving us Electromagnetic Spectrum."
+  },
+  "photodiode+wavelength": {
+    "result": "electron",
+    "reasoning": "Wikipedia says: The electron is a subatomic particle whose electric charge is negative one elementary charge. That explains why Photodiode + Wavelength = Electron."
+  },
+  "physics+selfie": {
+    "result": "astronaut",
+    "reasoning": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. That's the connection between Physics and Selfie — giving us Astronaut."
+  },
+  "physics+spacex": {
+    "result": "astronaut",
+    "reasoning": "Wikipedia says: An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. That explains why Physics + SpaceX = Astronaut."
+  },
+  "piezoelectricity+potentiometer": {
+    "result": "sensor",
+    "reasoning": "The science is clear — A sensor is often defined as a device that receives and responds to a signal or stimulus. Mix Piezoelectricity and Potentiometer for Sensor."
+  },
+  "piezoelectricity+semiconductor": {
+    "result": "crystal",
+    "reasoning": "A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. That's the connection between Piezoelectricity and Semiconductor — giving us Crystal."
+  },
+  "piezoelectricity+sensor": {
+    "result": "potentiometer",
+    "reasoning": "Piezoelectricity and Sensor share a deep connection. A potentiometer is a three-terminal resistor with a sliding or rotating contact that forms an adjustable voltage divider. Result: Potentiometer."
+  },
+  "piezoelectricity+touchscreen": {
+    "result": "computer",
+    "reasoning": "Through Arxiv (Identifier), Piezoelectricity and Touchscreen find common ground: Computer."
+  },
+  "piezoelectricity+transformer": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. So when Piezoelectricity meets Transformer, Ceramic is the natural outcome."
+  },
+  "pill+post": {
+    "result": "grove",
+    "reasoning": "Pill and Post both belong to the world of Place Name Disambiguation Pages — combine them for Grove."
+  },
+  "pill+printer": {
+    "result": "grove",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Pill meets Printer to create Grove."
+  },
+  "pill+remote": {
+    "result": "grove",
+    "reasoning": "Pill and Remote both belong to the world of Place Name Disambiguation Pages — combine them for Grove."
+  },
+  "pill+resolution": {
+    "result": "grove",
+    "reasoning": "Both Pill and Resolution are rooted in Place Name Disambiguation Pages. Together they make Grove."
+  },
+  "pill+speaker": {
+    "result": "board",
+    "reasoning": "Both Pill and Speaker are rooted in Disambiguation Pages With Surname Holder Lists. Together they make board."
+  },
+  "pill+tor": {
+    "result": "grove",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Pill meets Tor to create Grove."
+  },
+  "pixel+wavelength": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Pixel + Wavelength = Cathode Ray Tube."
+  },
+  "point+post": {
+    "result": "hydra",
+    "reasoning": "point and Post share a deep connection. Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria Result: Hydra."
+  },
+  "point+printer": {
+    "result": "hydra",
+    "reasoning": "Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria That's the connection between point and Printer — giving us Hydra."
+  },
+  "point+remote": {
+    "result": "hydra",
+    "reasoning": "Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria So when point meets Remote, Hydra is the natural outcome."
+  },
+  "point+resolution": {
+    "result": "hydra",
+    "reasoning": "The science is clear — Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria Mix point and Resolution for Hydra."
+  },
+  "point+tor": {
+    "result": "hydra",
+    "reasoning": "point and Tor share a deep connection. Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria Result: Hydra."
+  },
+  "post+static": {
+    "result": "hydra",
+    "reasoning": "The science is clear — Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria Mix Post and Static for Hydra."
+  },
+  "potentiometer+resonance": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. So when Potentiometer meets Resonance, Amplitude is the natural outcome."
+  },
+  "potentiometer+wavelength": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. That's the connection between Potentiometer and Wavelength — giving us Amplitude."
+  },
+  "printer+static": {
+    "result": "ide",
+    "reasoning": "Both Printer and Static are rooted in Place Name Disambiguation Pages. Together they make IDE."
+  },
+  "privacy+statistics": {
+    "result": "big-data",
+    "reasoning": "The science is clear — Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing software. Mix Privacy and Statistics for Big Data."
+  },
+  "psychology+sensor": {
+    "result": "bias",
+    "reasoning": "Psychology and Sensor share a deep connection. Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. Result: Bias."
+  },
+  "quantum+quantum-computer": {
+    "result": "heisenberg-principle",
+    "reasoning": "Here's the connection: In physics, a quantum is the minimum amount of any physical entity involved in an interaction. So Quantum + Quantum Computer = Heisenberg Principle."
+  },
+  "quantum+signal": {
+    "result": "frequency",
+    "reasoning": "Here's a real-world link: Frequency is the number of occurrences of a repeating event per unit of time. Combine Quantum with Signal and you get Frequency."
+  },
+  "quantum+voltage": {
+    "result": "electron",
+    "reasoning": "Here's a real-world link: The electron is a subatomic particle whose electric charge is negative one elementary charge. Combine Quantum with Voltage and you get Electron."
+  },
+  "radar+radiation": {
+    "result": "geiger-counter",
+    "reasoning": "Did you know? A Geiger counter is an electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. That's why Radar + Radiation = Geiger Counter."
+  },
+  "radar+wave": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when Radar meets Wave, Airport is the natural outcome."
+  },
+  "radiation+ransomware": {
     "result": "lab-equipment",
-    "reasoning": "Radiation + Snowmobile = Lab Equipment. Expensive, fragile, and always being borrowed."
+    "reasoning": "Radiation + Ransomware = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+record-player": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Record Player = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+resolution": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Resolution = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+search-engine": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Search Engine = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+self-driving-car": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Self Driving Car = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+semiconductor": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Semiconductor = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+smart-contract": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Smart Contract = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+smart-home": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Smart Home = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+smart-speaker": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Smart Speaker = Lab Equipment. Expensive, fragile, and always being borrowed."
+  },
+  "radiation+smartphone": {
+    "result": "lab-equipment",
+    "reasoning": "Radiation + Smartphone = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+social-media": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Social Media = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+software": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + software = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+solar-panel": {
     "result": "lab-equipment",
@@ -21,63 +409,23 @@
   },
   "radiation+sonar": {
     "result": "geiger-counter",
-    "reasoning": "Combine Radiation with Sonar to create Geiger Counter."
-  },
-  "radiation+sort": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Sort = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+spacex": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + SpaceX = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+spam": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Spam = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+speaker": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Speaker = Lab Equipment. Expensive, fragile, and always being borrowed."
+    "reasoning": "Did you know? A Geiger counter is an electronic instrument for detecting and measuring ionizing radiation with the use of a Geiger–Müller tube. That's why Radiation + Sonar = Geiger Counter."
   },
   "radiation+spectroscope": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Spectroscope = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+spotify": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Spotify = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+ssd": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + SSD = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+stable-diffusion": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Stable Diffusion = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+stack": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Stack = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+stack-overflow": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Stack Overflow = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+stamp": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Stamp = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+starlink": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Starlink = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+steam-engine": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Steam Engine = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+streaming": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Streaming = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+supercomputer": {
     "result": "lab-equipment",
@@ -87,57 +435,9 @@
     "result": "lab-equipment",
     "reasoning": "Radiation + Synthesizer = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+tablet": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Tablet = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+technical-debt": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Technical Debt = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+technology": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + technology = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+telegram": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Telegram = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+telegraph": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Telegraph = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+telephone": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Telephone = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+teletype": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Teletype = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+television": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Television = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+tesla": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Tesla = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+tesla-coil": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Tesla Coil = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+thermostat": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Thermostat = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+tiktok": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + TikTok = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+tor": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Tor = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+touchscreen": {
     "result": "lab-equipment",
@@ -147,137 +447,33 @@
     "result": "lab-equipment",
     "reasoning": "Radiation + Transformer = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+transistor": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Transistor = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+tree-data": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Tree Data = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+troll-internet": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Troll Internet = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+twitter": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Twitter = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+typewriter": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Typewriter = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+uber": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Uber = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+upload": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Upload = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+url": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + URL = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+usb": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + USB = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+vacuum-tube": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Vacuum Tube = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+variable": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Variable = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+version": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Version = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+video": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + video = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+viral": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Viral = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+viral-video": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Viral Video = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+vlog": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Vlog = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+voltage": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Voltage = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+voltaic-pile": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Voltaic Pile = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+voltmeter": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Voltmeter = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+vpn": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + VPN = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+vr-headset": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + VR Headset = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+water-wheel": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Water Wheel = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+wearable": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Wearable = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+weather-app": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Weather App = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+web-page": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Web Page = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+web3": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Web3 = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+webcam": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Webcam = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+website": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Website = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+welding-torch": {
     "result": "lab-equipment",
     "reasoning": "Radiation + Welding Torch = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+wi-fi": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Wi-Fi = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+wifi": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + WiFi = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+wiki": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Wiki = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+wikipedia": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Wikipedia = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "radiation+wildlife-camera": {
     "result": "lab-equipment",
@@ -287,41 +483,153 @@
     "result": "lab-equipment",
     "reasoning": "Radiation + Wind Turbine = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+windows-os": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Windows OS = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "radiation+x-ray-machine": {
     "result": "lab-equipment",
     "reasoning": "Radiation + X-Ray Machine = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "radiation+xml": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + XML = Lab Equipment. Expensive, fragile, and always being borrowed."
+  "radiator+turbulence": {
+    "result": "density",
+    "reasoning": "Density is the ratio of a substance's mass to its volume. So when Radiator meets Turbulence, Density is the natural outcome."
   },
-  "radiation+youtube": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + YouTube = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+zeppelin": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Zeppelin = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "radiation+zoom": {
-    "result": "lab-equipment",
-    "reasoning": "Radiation + Zoom = Lab Equipment. Expensive, fragile, and always being borrowed."
+  "radio+resonance": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Radio with Resonance and you get Amplitude."
   },
   "radio+spectrum": {
     "result": "electromagnetic-spectrum",
-    "reasoning": "Combine Spectrum with Radio to create Electromagnetic Spectrum."
+    "reasoning": "Did you know? The electromagnetic spectrum is the full range of electromagnetic radiation, organized by frequency or wavelength. That's why Radio + Spectrum = Electromagnetic Spectrum."
+  },
+  "radio+vibration": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. That's the connection between Radio and Vibration — giving us Amplitude."
+  },
+  "radio+wave": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Radio with Wave and you get Amplitude."
+  },
+  "recursion+thermodynamics": {
+    "result": "brownian-motion",
+    "reasoning": "Brownian motion is the random motion of particles suspended in a medium. So when Recursion meets Thermodynamics, Brownian Motion is the natural outcome."
+  },
+  "recursion+turbulence": {
+    "result": "chaos-theory",
+    "reasoning": "Here's a real-world link: Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Combine Recursion with Turbulence and you get Chaos Theory."
+  },
+  "recursion+wave": {
+    "result": "chaos-theory",
+    "reasoning": "The science is clear — Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Mix Recursion and Wave for Chaos Theory."
+  },
+  "recycling+touchscreen": {
+    "result": "cathode-ray-tube",
+    "reasoning": "A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. So when Recycling meets Touchscreen, Cathode Ray Tube is the natural outcome."
+  },
+  "recycling+transformer": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Recycling with Transformer and you get Cathode Ray Tube."
+  },
+  "recycling+transistor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Recycling + Transistor = Cathode Ray Tube."
+  },
+  "refraction+signal": {
+    "result": "frequency",
+    "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Refraction + Signal = Frequency."
+  },
+  "refraction+voltage": {
+    "result": "electron",
+    "reasoning": "The electron is a subatomic particle whose electric charge is negative one elementary charge. So when Refraction meets Voltage, Electron is the natural outcome."
+  },
+  "remote+static": {
+    "result": "ide",
+    "reasoning": "Remote and Static both belong to the world of Place Name Disambiguation Pages — combine them for IDE."
+  },
+  "resolution+static": {
+    "result": "jack",
+    "reasoning": "Resolution and Static both belong to the world of Place Name Disambiguation Pages — combine them for Jack."
+  },
+  "resonance+signal": {
+    "result": "frequency",
+    "reasoning": "The science is clear — Frequency is the number of occurrences of a repeating event per unit of time. Mix Resonance and Signal for Frequency."
+  },
+  "resonance+voltage": {
+    "result": "capacitor",
+    "reasoning": "Here's a real-world link: A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Combine Resonance with Voltage and you get Capacitor."
   },
   "science+stable-diffusion": {
     "result": "equilibrium",
-    "reasoning": "Combine Stable Diffusion with Science to create Equilibrium."
+    "reasoning": "Here's the connection: Science is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. So science + Stable Diffusion = Equilibrium."
+  },
+  "science+technology": {
+    "result": "education",
+    "reasoning": "Wikipedia says: Education is the transmission of knowledge and skills and the development of character traits. That explains why science + technology = Education."
+  },
+  "selfie+watch": {
+    "result": "astronaut",
+    "reasoning": "Wikipedia says: An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. That explains why Selfie + Watch = Astronaut."
+  },
+  "semiconductor+supercooling": {
+    "result": "crystal",
+    "reasoning": "The science is clear — A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Mix Semiconductor and Supercooling for Crystal."
+  },
+  "semiconductor+wave": {
+    "result": "crystal",
+    "reasoning": "The science is clear — A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Mix Semiconductor and Wave for Crystal."
+  },
+  "sensor+statistics": {
+    "result": "bias",
+    "reasoning": "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. So when Sensor meets Statistics, Bias is the natural outcome."
+  },
+  "signal+spectrum": {
+    "result": "frequency",
+    "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Signal + Spectrum = Frequency."
+  },
+  "signal+speed": {
+    "result": "frequency",
+    "reasoning": "Here's a real-world link: Frequency is the number of occurrences of a repeating event per unit of time. Combine Signal with Speed and you get Frequency."
+  },
+  "signal+torque": {
+    "result": "frequency",
+    "reasoning": "The science is clear — Frequency is the number of occurrences of a repeating event per unit of time. Mix Signal and Torque for Frequency."
+  },
+  "signal+wavelength": {
+    "result": "frequency",
+    "reasoning": "Frequency is the number of occurrences of a repeating event per unit of time. So when Signal meets Wavelength, Frequency is the natural outcome."
+  },
+  "smartphone+watch": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). So when Smartphone meets Watch, Bluetooth is the natural outcome."
+  },
+  "smartwatch+watch": {
+    "result": "bluetooth",
+    "reasoning": "Smartwatch and Watch share a deep connection. Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). Result: Bluetooth."
+  },
+  "sonar+stethoscope": {
+    "result": "animation",
+    "reasoning": "Here's a real-world link: Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. Combine Sonar with Stethoscope and you get Animation."
+  },
+  "spacex+watch": {
+    "result": "astronaut",
+    "reasoning": "The science is clear — An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Mix SpaceX and Watch for Astronaut."
   },
   "stack+time": {
     "result": "queue",
-    "reasoning": "Applying Stack to time produces Queue"
+    "reasoning": "Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. That's how Stack and time give us Queue."
+  },
+  "starlink+vacuum": {
+    "result": "astronomer",
+    "reasoning": "An astronomer is a scientist in the field of astronomy who focuses on a specific question or field outside the scope of Earth. So when Starlink meets Vacuum, Astronomer is the natural outcome."
+  },
+  "static+tor": {
+    "result": "key",
+    "reasoning": "Static and Tor both belong to the world of Place Name Disambiguation Pages — combine them for key."
+  },
+  "superconductor+thermostat": {
+    "result": "submarine",
+    "reasoning": "Here's a real-world link: A submarine is a watercraft capable of independent operation underwater. Combine Superconductor with Thermostat and you get Submarine."
+  },
+  "superconductor+wi-fi": {
+    "result": "submarine",
+    "reasoning": "The science is clear — A submarine is a watercraft capable of independent operation underwater. Mix Superconductor and Wi-Fi for Submarine."
   },
   "sustainability+synthesizer": {
     "result": "lab-equipment",
@@ -359,10 +667,6 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + Television = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+tesla": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Tesla = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "sustainability+tesla-coil": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Tesla Coil = Lab Equipment. Expensive, fragile, and always being borrowed."
@@ -374,10 +678,6 @@
   "sustainability+tiktok": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + TikTok = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+tor": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Tor = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "sustainability+touchscreen": {
     "result": "lab-equipment",
@@ -407,21 +707,9 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + Typewriter = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+uber": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Uber = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "sustainability+upload": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Upload = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+url": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + URL = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+usb": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + USB = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "sustainability+vacuum-tube": {
     "result": "lab-equipment",
@@ -435,21 +723,9 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + Version = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+video": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + video = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+viral": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Viral = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "sustainability+viral-video": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Viral Video = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+vlog": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Vlog = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "sustainability+voltage": {
     "result": "lab-equipment",
@@ -462,10 +738,6 @@
   "sustainability+voltmeter": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Voltmeter = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+vpn": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + VPN = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "sustainability+vr-headset": {
     "result": "lab-equipment",
@@ -487,10 +759,6 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + Web Page = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+web3": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Web3 = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "sustainability+webcam": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Webcam = Lab Equipment. Expensive, fragile, and always being borrowed."
@@ -502,18 +770,6 @@
   "sustainability+welding-torch": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + Welding Torch = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+wi-fi": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Wi-Fi = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+wifi": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + WiFi = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
-  "sustainability+wiki": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Wiki = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
   "sustainability+wikipedia": {
     "result": "lab-equipment",
@@ -535,10 +791,6 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + X-Ray Machine = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+xml": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + XML = Lab Equipment. Expensive, fragile, and always being borrowed."
-  },
   "sustainability+youtube": {
     "result": "lab-equipment",
     "reasoning": "Sustainability + YouTube = Lab Equipment. Expensive, fragile, and always being borrowed."
@@ -547,8 +799,44 @@
     "result": "lab-equipment",
     "reasoning": "Sustainability + Zeppelin = Lab Equipment. Expensive, fragile, and always being borrowed."
   },
-  "sustainability+zoom": {
-    "result": "lab-equipment",
-    "reasoning": "Sustainability + Zoom = Lab Equipment. Expensive, fragile, and always being borrowed."
+  "technology+time": {
+    "result": "education",
+    "reasoning": "Education is the transmission of knowledge and skills and the development of character traits. That's the connection between technology and time — giving us Education."
+  },
+  "technology+toxicity": {
+    "result": "antibiotic",
+    "reasoning": "An antibiotic is a type of antimicrobial substance active against bacteria. That's the connection between technology and Toxicity — giving us Antibiotic."
+  },
+  "technology+vacuum": {
+    "result": "bellows",
+    "reasoning": "Wikipedia says: Bellows are a device constructed to expel a controlled blast of air. That explains why technology + Vacuum = Bellows."
+  },
+  "touchscreen+vacuum": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Touchscreen and Vacuum for Cathode Ray Tube."
+  },
+  "touchscreen+wave": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Touchscreen and Wave for Cathode Ray Tube."
+  },
+  "transformer+vacuum": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Transformer + Vacuum = Cathode Ray Tube."
+  },
+  "transformer+wave": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Transformer and Wave for Cathode Ray Tube."
+  },
+  "transistor+vacuum": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Transistor and Vacuum for Cathode Ray Tube."
+  },
+  "vacuum+voltage": {
+    "result": "coulombs-law",
+    "reasoning": "The science is clear — Coulomb's inverse-square law, or simply Coulomb's law, is an experimental law of physics that calculates the amount of force between two electrically charged particles at rest. Mix Vacuum and Voltage for Coulombs Law."
+  },
+  "voltage+wavelength": {
+    "result": "electron",
+    "reasoning": "Voltage and Wavelength share a deep connection. The electron is a subatomic particle whose electric charge is negative one elementary charge. Result: Electron."
   }
 }

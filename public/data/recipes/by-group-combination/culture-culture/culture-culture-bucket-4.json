@@ -1,278 +1,882 @@
 {
-  "pyramid+song": {
+  "floor+window": {
+    "result": "bedroom",
+    "reasoning": "Wikipedia says: A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That explains why Floor + Window = Bedroom."
+  },
+  "flute+gong": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Flute + Gong = Clarinet."
+  },
+  "flute+guitar": {
+    "result": "banjo",
+    "reasoning": "The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. So when Flute meets Guitar, Banjo is the natural outcome."
+  },
+  "flute+harmonica": {
+    "result": "clarinet",
+    "reasoning": "The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. So when Flute meets Harmonica, Clarinet is the natural outcome."
+  },
+  "flute+mandolin": {
+    "result": "banjo",
+    "reasoning": "Here's a real-world link: The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. Combine Flute with Mandolin and you get Banjo."
+  },
+  "flute+oboe": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Flute and Oboe for Clarinet."
+  },
+  "flute+orchestra": {
+    "result": "clarinet",
+    "reasoning": "Flute and Orchestra share a deep connection. The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Result: Clarinet."
+  },
+  "flute+polka": {
+    "result": "accordion",
+    "reasoning": "Here's a real-world link: Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Combine Flute with Polka and you get Accordion."
+  },
+  "flute+samba": {
+    "result": "banjo",
+    "reasoning": "The science is clear — The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. Mix Flute and Samba for Banjo."
+  },
+  "flute+saxophone": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Flute + Saxophone = Clarinet."
+  },
+  "flute+symphony": {
+    "result": "clarinet",
+    "reasoning": "Flute and Symphony share a deep connection. The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Result: Clarinet."
+  },
+  "flute+tambourine": {
+    "result": "accordion",
+    "reasoning": "Flute and Tambourine share a deep connection. Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Result: Accordion."
+  },
+  "flute+trumpet": {
+    "result": "accordion",
+    "reasoning": "Wikipedia says: Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. That explains why Flute + Trumpet = Accordion."
+  },
+  "flute+tuba": {
+    "result": "banjo",
+    "reasoning": "The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. That's the connection between Flute and Tuba — giving us Banjo."
+  },
+  "flute+ukulele": {
+    "result": "banjo",
+    "reasoning": "The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. That's the connection between Flute and Ukulele — giving us Banjo."
+  },
+  "flute+violin": {
+    "result": "cello",
+    "reasoning": "The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. So when Flute meets Violin, Cello is the natural outcome."
+  },
+  "flute+waltz": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. So when Flute meets Waltz, Accordion is the natural outcome."
+  },
+  "folk-music+rock-music": {
+    "result": "punk-rock",
+    "reasoning": "Punk rock is a music genre. That's how Folk Music and Rock Music give us Punk Rock."
+  },
+  "fountain+mosaic": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. That's the connection between Fountain and Mosaic — giving us Baroque."
+  },
+  "fountain+window": {
+    "result": "courtyard",
+    "reasoning": "The science is clear — A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. Mix Fountain and Window for Courtyard."
+  },
+  "fresco+graffiti": {
+    "result": "mural",
+    "reasoning": "Here's the connection: A mural is any piece of graphic artwork that is painted or applied directly to a wall, ceiling or other permanent substrate. So Fresco + Graffiti = Mural."
+  },
+  "fresco+mosaic": {
+    "result": "baroque",
+    "reasoning": "Fresco and Mosaic share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "fresco+mural": {
+    "result": "artist",
+    "reasoning": "An artist is a person who creates art, or practices the arts. That's the connection between Fresco and Mural — giving us Artist."
+  },
+  "fresco+painting": {
+    "result": "graffiti",
+    "reasoning": "The science is clear — Graffiti is writing or drawings made on a wall or other surface, usually without permission and within public view. Mix Fresco and Painting for Graffiti."
+  },
+  "fresco+statue": {
+    "result": "artist",
+    "reasoning": "Here's a real-world link: An artist is a person who creates art, or practices the arts. Combine Fresco with Statue and you get Artist."
+  },
+  "fresco+wall": {
+    "result": "graffiti",
+    "reasoning": "Graffiti is writing or drawings made on a wall or other surface, usually without permission and within public view. Combine Fresco with Wall and you naturally get Graffiti."
+  },
+  "fun+game": {
+    "result": "entertainment",
+    "reasoning": "The science is clear — Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. Mix fun and Game for entertainment."
+  },
+  "fun+harmony": {
+    "result": "comedy",
+    "reasoning": "Here's a real-world link: Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. Combine fun with harmony and you get Comedy."
+  },
+  "fun+ode": {
+    "result": "comedy",
+    "reasoning": "Here's a real-world link: Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. Combine fun with Ode and you get Comedy."
+  },
+  "fun+origami": {
+    "result": "game",
+    "reasoning": "A game is a structured type of play usually undertaken for entertainment or fun, and sometimes used as an educational tool. That's the connection between fun and Origami — giving us Game."
+  },
+  "fun+photography": {
+    "result": "beauty",
+    "reasoning": "Here's a real-world link: Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. Combine fun with Photography and you get beauty."
+  },
+  "fun+sonnet": {
+    "result": "comedy",
+    "reasoning": "Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. So when fun meets Sonnet, Comedy is the natural outcome."
+  },
+  "fun+toy": {
+    "result": "entertainment",
+    "reasoning": "Here's a real-world link: Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. Combine fun with Toy and you get entertainment."
+  },
+  "fun+vaudeville": {
+    "result": "comedy",
+    "reasoning": "Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. That's the connection between fun and Vaudeville — giving us Comedy."
+  },
+  "furniture+house": {
+    "result": "bedroom",
+    "reasoning": "Wikipedia says: A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That explains why Furniture + house = Bedroom."
+  },
+  "furniture+kitchen": {
+    "result": "bedroom",
+    "reasoning": "Furniture and Kitchen share a deep connection. A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Result: Bedroom."
+  },
+  "furniture+mosaic": {
+    "result": "baroque",
+    "reasoning": "Furniture and Mosaic share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "furniture+music": {
+    "result": "baroque",
+    "reasoning": "The science is clear — The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Mix Furniture and Music for Baroque."
+  },
+  "furniture+necklace": {
+    "result": "baroque",
+    "reasoning": "Furniture and Necklace share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "furniture+pyramid": {
+    "result": "bed",
+    "reasoning": "Wikipedia says: A bed is a piece of furniture that is used as a place to sleep, rest, and relax. That explains why Furniture + Pyramid = Bed."
+  },
+  "furniture+roof": {
+    "result": "bedroom",
+    "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That's the connection between Furniture and Roof — giving us Bedroom."
+  },
+  "furniture+tango": {
+    "result": "ballroom",
+    "reasoning": "The science is clear — A ballroom or ballhall is a large room inside a building, the primary purpose of which is holding large formal parties called balls. Mix Furniture and Tango for Ballroom."
+  },
+  "furniture+tapestry": {
+    "result": "baroque",
+    "reasoning": "Furniture and Tapestry share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "furniture+violin": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. That's the connection between Furniture and Violin — giving us Baroque."
+  },
+  "furniture+wall": {
+    "result": "bedroom",
+    "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That's the connection between Furniture and Wall — giving us Bedroom."
+  },
+  "furniture+window": {
+    "result": "bedroom",
+    "reasoning": "The science is clear — A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Mix Furniture and Window for Bedroom."
+  },
+  "game+indie-game": {
+    "result": "joystick",
+    "reasoning": "A joystick, sometimes called a flight stick, is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. That's how Game and Indie Game give us Joystick."
+  },
+  "game+karate": {
+    "result": "basketball",
+    "reasoning": "Here's a real-world link: Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. Combine Game with Karate and you get Basketball."
+  },
+  "game+origami": {
+    "result": "fun",
+    "reasoning": "Fun is defined by the Oxford English Dictionary as \"light-hearted pleasure, enjoyment, or amusement; boisterous joviality or merrymaking; entertainment\". That's the connection between Game and Origami — giving us fun."
+  },
+  "game+park": {
+    "result": "basketball",
+    "reasoning": "Game and Park share a deep connection. Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. Result: Basketball."
+  },
+  "game+pyramid": {
+    "result": "basketball",
+    "reasoning": "The science is clear — Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. Mix Game and Pyramid for Basketball."
+  },
+  "game+sport": {
+    "result": "chess",
+    "reasoning": "Chess is a board game for two players, played on a square board consisting of 64 squares arranged in an 8×8 grid. So when Game meets sport, Chess is the natural outcome."
+  },
+  "game+strategy": {
+    "result": "chess",
+    "reasoning": "Game and strategy create Chess"
+  },
+  "game+surfing": {
+    "result": "basketball",
+    "reasoning": "Wikipedia says: Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. That explains why Game + Surfing = Basketball."
+  },
+  "game+tennis": {
+    "result": "basketball",
+    "reasoning": "Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. That's the connection between Game and Tennis — giving us Basketball."
+  },
+  "game+toy": {
+    "result": "entertainment",
+    "reasoning": "Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. So when Game meets Toy, entertainment is the natural outcome."
+  },
+  "game+video-game": {
+    "result": "joystick",
+    "reasoning": "Game and Video Game together? A joystick, sometimes called a flight stick, is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. The result: Joystick."
+  },
+  "game+vr-game": {
+    "result": "joystick",
+    "reasoning": "A joystick, sometimes called a flight stick, is an input device consisting of a stick that pivots on a base and reports its angle or direction to the device it is controlling. That's how Game and VR Game give us Joystick."
+  },
+  "game+wrestling": {
+    "result": "basketball",
+    "reasoning": "Here's a real-world link: Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. Combine Game with Wrestling and you get Basketball."
+  },
+  "glove+harmonica": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Song = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Harmonica = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+sonnet": {
+  "glove+impressionism": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Sonnet = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Impressionism = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+sony": {
+  "glove+indie-game": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Sony = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Indie Game = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+soul-music": {
+  "glove+instrument": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Soul Music = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Instrument = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+sound": {
+  "glove+karate": {
+    "result": "archery",
+    "reasoning": "Glove and Karate share a deep connection. Archery is the sport, practice, or skill of using a bow to shoot arrows. Result: Archery."
+  },
+  "glove+landscape-painting": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + sound = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Landscape Painting = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+spa": {
+  "glove+lighthouse": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Spa = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Lighthouse = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+speedrun": {
+  "glove+microsoft": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Speedrun = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Microsoft = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+sport": {
+  "glove+minecraft": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + sport = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Minecraft = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+stadium": {
+  "glove+musical-theater": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Stadium = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Musical Theater = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+stained-glass": {
+  "glove+necklace": {
+    "result": "boot",
+    "reasoning": "The science is clear — A boot is a type of footwear. Mix Glove and Necklace for Boot."
+  },
+  "glove+orchestra": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Stained Glass = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Orchestra = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+star-wars": {
+  "glove+pantomime": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Space Opera = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Pantomime = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+statue": {
+  "glove+percussion": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Statue = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Percussion = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+strategy": {
+  "glove+photography": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + strategy = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Photography = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+string": {
+  "glove+pixel-art": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + string = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Pixel Art = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+sunglasses": {
+  "glove+playstation": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Sunglasses = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + PlayStation = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+surfing": {
+  "glove+pop-culture": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Surfing = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Pop Culture = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+surrealism": {
+  "glove+punk-rock": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Surrealism = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Punk Rock = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+swimming": {
+  "glove+reality-tv": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Swimming = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Reality TV = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+symphony": {
+  "glove+rock-music": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Symphony = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Rock Music = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+table": {
+  "glove+roller-coaster": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Table = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Roller Coaster = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tambourine": {
+  "glove+saxophone": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tambourine = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Saxophone = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tango": {
+  "glove+science-fiction": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tango = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Science Fiction = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tap-dance": {
+  "glove+sculpting": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tap Dance = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Sculpting = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tapestry": {
+  "glove+sculpture": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tapestry = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Sculpture = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+temple": {
+  "glove+shirt": {
+    "result": "boot",
+    "reasoning": "A boot is a type of footwear. So when Glove meets Shirt, Boot is the natural outcome."
+  },
+  "glove+shoe": {
+    "result": "glasses",
+    "reasoning": "Both Glove and Shoe are rooted in Protective Gear. Together they make Glasses."
+  },
+  "glove+skateboard": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Temple = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Skateboard = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tennis": {
+  "glove+skyscraper": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tennis = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Skyscraper = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tent": {
+  "glove+slam-poetry": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tent = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Slam Poetry = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+theater": {
+  "glove+snowboard": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + theater = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Snowboard = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+toilet": {
+  "glove+soul-music": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Toilet = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Soul Music = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tower": {
+  "glove+stained-glass": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tower = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Stained Glass = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+toy": {
+  "glove+star-wars": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Toy = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Space Opera = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+toyota": {
+  "glove+string": {
+    "result": "boot",
+    "reasoning": "Glove and string share a deep connection. A boot is a type of footwear. Result: Boot."
+  },
+  "glove+sunglasses": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Toyota = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Sunglasses = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+trumpet": {
+  "glove+surfing": {
+    "result": "archery",
+    "reasoning": "Wikipedia says: Archery is the sport, practice, or skill of using a bow to shoot arrows. That explains why Glove + Surfing = Archery."
+  },
+  "glove+surrealism": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Trumpet = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Surrealism = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tuba": {
+  "glove+tambourine": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tuba = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Tambourine = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+tunnel": {
+  "glove+tap-dance": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Tunnel = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Tap Dance = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+twitch": {
+  "glove+tennis": {
+    "result": "archery",
+    "reasoning": "Archery is the sport, practice, or skill of using a bow to shoot arrows. So when Glove meets Tennis, Archery is the natural outcome."
+  },
+  "glove+umbrella": {
+    "result": "boot",
+    "reasoning": "Glove and Umbrella share a deep connection. A boot is a type of footwear. Result: Boot."
+  },
+  "glove+vaudeville": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Twitch = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Vaudeville = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+ukulele": {
+  "glove+video-game": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Ukulele = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Video Game = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+umbrella": {
+  "glove+warehouse": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Umbrella = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Warehouse = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+vaudeville": {
+  "glove+watercolor": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Vaudeville = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Watercolor = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+video-game": {
+  "glove+wrestling": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Video Game = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Wrestling = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+violin": {
+  "glove+xylophone": {
     "result": "cultural-mashup",
-    "reasoning": "Pyramid + Violin = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+    "reasoning": "Glove + Xylophone = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
   },
-  "pyramid+vr-game": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + VR Game = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+harmonica": {
+    "result": "clarinet",
+    "reasoning": "The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. So when Gong meets Harmonica, Clarinet is the natural outcome."
   },
-  "pyramid+wall": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Wall = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+instrument": {
+    "result": "tuba",
+    "reasoning": "The tuba is a large brass instrument in the bass-to-contrabass range with a wide, bugle-like conical bore and between three and six valves. That's how Gong and Instrument give us Tuba."
   },
-  "pyramid+waltz": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Waltz = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+oboe": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Gong and Oboe for Clarinet."
   },
-  "pyramid+warehouse": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Warehouse = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+orchestra": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Gong + Orchestra = Clarinet."
   },
-  "pyramid+watercolor": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Watercolor = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+polka": {
+    "result": "accordion",
+    "reasoning": "The science is clear — Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Mix Gong and Polka for Accordion."
   },
-  "pyramid+well": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Well = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+symphony": {
+    "result": "clarinet",
+    "reasoning": "The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That's the connection between Gong and Symphony — giving us Clarinet."
   },
-  "pyramid+window": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Window = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+tambourine": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. That's the connection between Gong and Tambourine — giving us Accordion."
   },
-  "pyramid+wrestling": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Wrestling = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+trumpet": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Gong and Trumpet — giving us Brass."
   },
-  "pyramid+xbox": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Xbox = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+tuba": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Gong and Tuba for Clarinet."
   },
-  "pyramid+xylophone": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Xylophone = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+waltz": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. So when Gong meets Waltz, Accordion is the natural outcome."
   },
-  "pyramid+zoo": {
-    "result": "cultural-mashup",
-    "reasoning": "Pyramid + Zoo = a Cultural Mashup. Purists are horrified. Everyone else is entertained."
+  "gong+xylophone": {
+    "result": "clarinet",
+    "reasoning": "Gong and Xylophone share a deep connection. The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Result: Clarinet."
   },
-  "science-fiction+star-wars": {
-    "result": "astronomy",
-    "reasoning": "Studying Space Opera through Science Fiction — Astronomy, the oldest science."
+  "graffiti+painting": {
+    "result": "fresco",
+    "reasoning": "Graffiti and Painting share a deep connection. Fresco is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster. Result: Fresco."
   },
-  "science-fiction+temple": {
+  "guitar+harmonica": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That's the connection between Guitar and Harmonica — giving us Blues."
+  },
+  "guitar+harmony": {
+    "result": "blues",
+    "reasoning": "Wikipedia says: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That explains why Guitar + harmony = Blues."
+  },
+  "guitar+harp": {
+    "result": "baroque",
+    "reasoning": "Here's a real-world link: The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Combine Guitar with Harp and you get Baroque."
+  },
+  "guitar+mandolin": {
+    "result": "banjo",
+    "reasoning": "Guitar and Mandolin share a deep connection. The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. Result: Banjo."
+  },
+  "guitar+music": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. So when Guitar meets Music, Baroque is the natural outcome."
+  },
+  "guitar+oboe": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Guitar and Oboe for Clarinet."
+  },
+  "guitar+orchestra": {
+    "result": "cello",
+    "reasoning": "Wikipedia says: The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. That explains why Guitar + Orchestra = Cello."
+  },
+  "guitar+piano": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Guitar with Piano and you get Blues."
+  },
+  "guitar+polka": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Guitar with Polka and you get Blues."
+  },
+  "guitar+samba": {
+    "result": "blues",
+    "reasoning": "Guitar and Samba share a deep connection. Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Result: Blues."
+  },
+  "guitar+saxophone": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. So when Guitar meets Saxophone, Blues is the natural outcome."
+  },
+  "guitar+song": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Guitar with Song and you get Blues."
+  },
+  "guitar+symphony": {
+    "result": "cello",
+    "reasoning": "The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. So when Guitar meets Symphony, Cello is the natural outcome."
+  },
+  "guitar+tambourine": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. So when Guitar meets Tambourine, Blues is the natural outcome."
+  },
+  "guitar+trumpet": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Guitar meets Trumpet, Brass is the natural outcome."
+  },
+  "guitar+tuba": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Guitar meets Tuba, Brass is the natural outcome."
+  },
+  "guitar+ukulele": {
+    "result": "banjo",
+    "reasoning": "The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a resonator. So when Guitar meets Ukulele, Banjo is the natural outcome."
+  },
+  "guitar+vaudeville": {
+    "result": "blues",
+    "reasoning": "Guitar and Vaudeville share a deep connection. Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Result: Blues."
+  },
+  "guitar+violin": {
+    "result": "baroque",
+    "reasoning": "Guitar and Violin share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "haiku+ode": {
+    "result": "sonnet",
+    "reasoning": "Wikipedia says: A sonnet is a fixed poetic form with a structure traditionally consisting of fourteen lines adhering to a set rhyming scheme. That explains why Haiku + Ode = Sonnet."
+  },
+  "haiku+rhyme": {
+    "result": "sonnet",
+    "reasoning": "A sonnet is a fixed poetic form with a structure traditionally consisting of fourteen lines adhering to a set rhyming scheme. So when Haiku meets Rhyme, Sonnet is the natural outcome."
+  },
+  "haiku+sonnet": {
+    "result": "ode",
+    "reasoning": "The science is clear — An ode is a type of lyric poetry, with its origins in Ancient Greece. Mix Haiku and Sonnet for Ode."
+  },
+  "haiku+sound": {
+    "result": "rhyme",
+    "reasoning": "Here's the connection: A rhyme is a repetition of similar sounds in the final stressed syllables and any following syllables of two or more words. So Haiku + sound = Rhyme."
+  },
+  "haiku+theater": {
+    "result": "kabuki",
+    "reasoning": "Kabuki  is a classical form of Japanese theatre, mixing dramatic performance with traditional dance. That's how Haiku and theater give us Kabuki."
+  },
+  "harmonica+harmony": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That's the connection between Harmonica and harmony — giving us Blues."
+  },
+  "harmonica+lyre": {
+    "result": "mandolin",
+    "reasoning": "Harmonica and Lyre share a deep connection. A mandolin is a stringed musical instrument in the lute family and is generally plucked with a pick. Result: Mandolin."
+  },
+  "harmonica+mandolin": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That's the connection between Harmonica and Mandolin — giving us Classical Music."
+  },
+  "harmonica+melody": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That's the connection between Harmonica and Melody — giving us Classical Music."
+  },
+  "harmonica+oboe": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Harmonica + Oboe = Clarinet."
+  },
+  "harmonica+orchestra": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Harmonica and Orchestra for Clarinet."
+  },
+  "harmonica+piano": {
+    "result": "classical-music",
+    "reasoning": "Wikipedia says: Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That explains why Harmonica + Piano = Classical Music."
+  },
+  "harmonica+polka": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Harmonica with Polka and you get Blues."
+  },
+  "harmonica+samba": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Harmonica with Samba and you get Blues."
+  },
+  "harmonica+saxophone": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That's the connection between Harmonica and Saxophone — giving us Blues."
+  },
+  "harmonica+song": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That's the connection between Harmonica and Song — giving us Classical Music."
+  },
+  "harmonica+symphony": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Harmonica + Symphony = Clarinet."
+  },
+  "harmonica+tambourine": {
+    "result": "brazil",
+    "reasoning": "Brazil, officially the Federative Republic of Brazil, is the largest country in South America. So when Harmonica meets Tambourine, Brazil is the natural outcome."
+  },
+  "harmonica+trumpet": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. That's the connection between Harmonica and Trumpet — giving us Accordion."
+  },
+  "harmonica+tuba": {
+    "result": "lyre",
+    "reasoning": "Here's a real-world link: The lyre is a stringed musical instrument that is classified by Hornbostel–Sachs as a member of the lute family of instruments. Combine Harmonica with Tuba and you get Lyre."
+  },
+  "harmonica+vaudeville": {
+    "result": "classical-music",
+    "reasoning": "Wikipedia says: Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That explains why Harmonica + Vaudeville = Classical Music."
+  },
+  "harmonica+violin": {
+    "result": "classical-music",
+    "reasoning": "Here's a real-world link: Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Combine Harmonica with Violin and you get Classical Music."
+  },
+  "harmonica+waltz": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. So when Harmonica meets Waltz, Accordion is the natural outcome."
+  },
+  "harmony+ode": {
+    "result": "comedy",
+    "reasoning": "harmony and Ode share a deep connection. Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. Result: Comedy."
+  },
+  "harmony+photography": {
+    "result": "beauty",
+    "reasoning": "Here's a real-world link: Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. Combine harmony with Photography and you get beauty."
+  },
+  "harmony+piano": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That's the connection between harmony and Piano — giving us Blues."
+  },
+  "harmony+polka": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine harmony with Polka and you get Blues."
+  },
+  "harmony+samba": {
+    "result": "blues",
+    "reasoning": "Wikipedia says: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That explains why harmony + Samba = Blues."
+  },
+  "harmony+saxophone": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine harmony with Saxophone and you get Blues."
+  },
+  "harmony+song": {
+    "result": "blues",
+    "reasoning": "Wikipedia says: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That explains why harmony + Song = Blues."
+  },
+  "harmony+sonnet": {
+    "result": "comedy",
+    "reasoning": "harmony and Sonnet share a deep connection. Comedy is a genre of dramatic works intended to be humorous or amusing by inducing laughter, especially in theatre, film, stand-up comedy, television, radio, books, or any other entertainment medium. Result: Comedy."
+  },
+  "harmony+sound": {
+    "result": "music",
+    "reasoning": "harmony and sound create Music"
+  },
+  "harmony+tambourine": {
+    "result": "blues",
+    "reasoning": "Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That's the connection between harmony and Tambourine — giving us Blues."
+  },
+  "harmony+vaudeville": {
+    "result": "blues",
+    "reasoning": "The science is clear — Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Mix harmony and Vaudeville for Blues."
+  },
+  "harp+lyre": {
+    "result": "tambourine",
+    "reasoning": "Wikipedia says: The tambourine is a musical instrument in the percussion family consisting of a frame, often of wood or plastic, with pairs of small metal jingles, called \"zills\". That explains why Harp + Lyre = Tambourine."
+  },
+  "harp+mandolin": {
+    "result": "baroque",
+    "reasoning": "Harp and Mandolin share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
+  },
+  "harp+music": {
+    "result": "baroque",
+    "reasoning": "Wikipedia says: The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. That explains why Harp + Music = Baroque."
+  },
+  "harp+oboe": {
+    "result": "clarinet",
+    "reasoning": "The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That's the connection between Harp and Oboe — giving us Clarinet."
+  },
+  "harp+piano": {
+    "result": "clarinet",
+    "reasoning": "The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That's the connection between Harp and Piano — giving us Clarinet."
+  },
+  "harp+saxophone": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Harp and Saxophone for Clarinet."
+  },
+  "harp+tambourine": {
+    "result": "lyre",
+    "reasoning": "The science is clear — The lyre is a stringed musical instrument that is classified by Hornbostel–Sachs as a member of the lute family of instruments. Mix Harp and Tambourine for Lyre."
+  },
+  "harp+trumpet": {
+    "result": "baroque",
+    "reasoning": "Here's a real-world link: The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Combine Harp with Trumpet and you get Baroque."
+  },
+  "harp+tuba": {
+    "result": "clarinet",
+    "reasoning": "The science is clear — The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Mix Harp and Tuba for Clarinet."
+  },
+  "harp+violin": {
+    "result": "baroque",
+    "reasoning": "The science is clear — The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Mix Harp and Violin for Baroque."
+  },
+  "hospital+house": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why Hospital + house = Airport."
+  },
+  "hospital+park": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. That's the connection between Hospital and Park — giving us Airport."
+  },
+  "hospital+port": {
+    "result": "bridge",
+    "reasoning": "The science is clear — A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Mix Hospital and Port for Bridge."
+  },
+  "hospital+stadium": {
+    "result": "bridge",
+    "reasoning": "Wikipedia says: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. That explains why Hospital + Stadium = Bridge."
+  },
+  "house+house": {
+    "result": "village",
+    "reasoning": "Many houses together become a village"
+  },
+  "house+kitchen": {
+    "result": "bedroom",
+    "reasoning": "The science is clear — A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Mix house and Kitchen for Bedroom."
+  },
+  "house+origami": {
+    "result": "museum",
+    "reasoning": "A house preserving Origami — a Museum."
+  },
+  "house+park": {
+    "result": "building",
+    "reasoning": "house and Park share a deep connection. A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Result: building."
+  },
+  "house+pixel-art": {
+    "result": "museum",
+    "reasoning": "A house preserving Pixel Art — a Museum."
+  },
+  "house+pop-art": {
+    "result": "museum",
+    "reasoning": "A house preserving Pop Art — a Museum."
+  },
+  "house+port": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. That's the connection between house and Port — giving us building."
+  },
+  "house+roof": {
+    "result": "building",
+    "reasoning": "house and Roof share a deep connection. A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Result: building."
+  },
+  "house+science-fiction": {
     "result": "school",
     "reasoning": "A Building for Knowledge creates a School, education for all"
   },
-  "science-fiction+tower": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
+  "house+sculpture": {
+    "result": "museum",
+    "reasoning": "A house preserving Sculpture — a Museum."
   },
-  "science-fiction+warehouse": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
+  "house+skyscraper": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. That's the connection between house and Skyscraper — giving us Airport."
   },
-  "song+song": {
-    "result": "album",
-    "reasoning": "Songs grouped form an album — a musical journey"
+  "house+sport": {
+    "result": "stadium",
+    "reasoning": "house and sport create Stadium"
   },
-  "song+theater": {
-    "result": "musical-theater",
-    "reasoning": "Combine Theater with Song to create Musical Theater."
+  "house+tango": {
+    "result": "ballroom",
+    "reasoning": "house and Tango share a deep connection. A ballroom or ballhall is a large room inside a building, the primary purpose of which is holding large formal parties called balls. Result: Ballroom."
   },
-  "sony+video-game": {
-    "result": "playstation",
-    "reasoning": "Sony and Video Game create PlayStation"
-  },
-  "sound+sound": {
-    "result": "harmony",
-    "reasoning": "sound and sound create harmony"
-  },
-  "sport+video-game": {
-    "result": "esports",
-    "reasoning": "sport and Video Game create Esports"
-  },
-  "temple+tower": {
+  "house+temple": {
     "result": "cathedral",
-    "reasoning": "A grand Tower for Temple = Cathedral."
+    "reasoning": "A grand house for Temple — a Cathedral."
   },
-  "temple+warehouse": {
+  "house+toy": {
+    "result": "architect",
+    "reasoning": "Here's a real-world link: An architect is a person who plans, designs, and oversees the construction of buildings. Combine house with Toy and you get Architect."
+  },
+  "house+wall": {
+    "result": "bedroom",
+    "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That's the connection between house and Wall — giving us Bedroom."
+  },
+  "house+watercolor": {
+    "result": "museum",
+    "reasoning": "A house preserving Watercolor — a Museum."
+  },
+  "house+window": {
+    "result": "bedroom",
+    "reasoning": "house and Window share a deep connection. A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Result: Bedroom."
+  },
+  "hymn+lullaby": {
+    "result": "aria",
+    "reasoning": "In music, an aria is a self-contained piece for one voice, with or without instrumental or orchestral accompaniment, normally part of a larger work. That's the connection between Hymn and Lullaby — giving us Aria."
+  },
+  "hymn+requiem": {
     "result": "cathedral",
-    "reasoning": "A grand Warehouse for Temple = Cathedral."
+    "reasoning": "Here's a real-world link: A cathedral is a church that contains the cathedra of a bishop, thus serving as the central church of a diocese, conference, or episcopate. Combine Hymn with Requiem and you get Cathedral."
   },
-  "temple+watercolor": {
-    "result": "museum",
-    "reasoning": "A Temple preserving Watercolor — a Museum."
+  "hymn+song": {
+    "result": "lullaby",
+    "reasoning": "Did you know? A lullaby, or a cradle song, is a soothing song or piece of music that is usually played for children. That's why Hymn + Song = Lullaby."
   },
-  "tower+tower": {
-    "result": "castle",
-    "reasoning": "Towers grouped together form a castle — medieval fortification"
+  "impressionism+surrealism": {
+    "result": "cubism",
+    "reasoning": "Impressionism and Surrealism share a deep connection. Cubism is an early-20th-century avant-garde art movement which began in Paris. Result: Cubism."
   },
-  "tower+watercolor": {
-    "result": "museum",
-    "reasoning": "A Tower preserving Watercolor — a Museum."
+  "improv+pantomime": {
+    "result": "mime",
+    "reasoning": "A mime artist, or simply mime, is a person who uses mime, the acting out of a story through body motions without the use of speech, as a theatrical medium or as a performance art. Combine Improv with Pantomime and you naturally get Mime."
   },
-  "wall+wall": {
-    "result": "maze",
-    "reasoning": "Walls upon walls create a Maze"
+  "improv+theater": {
+    "result": "kabuki",
+    "reasoning": "Here's the connection: Kabuki  is a classical form of Japanese theatre, mixing dramatic performance with traditional dance. So Improv + theater = Kabuki."
   },
-  "warehouse+watercolor": {
-    "result": "museum",
-    "reasoning": "A Warehouse preserving Watercolor — a Museum."
+  "instrument+oboe": {
+    "result": "recorder",
+    "reasoning": "Here's the connection: The oboe is a type of double-reed woodwind instrument. So Instrument + Oboe = Recorder."
   },
-  "window+window": {
-    "result": "lighthouse",
-    "reasoning": "Windows stacked high become a lighthouse — light multiplied"
+  "instrument+saxophone": {
+    "result": "tuba",
+    "reasoning": "The tuba is a large brass instrument in the bass-to-contrabass range with a wide, bugle-like conical bore and between three and six valves. Combine Instrument with Saxophone and you naturally get Tuba."
+  },
+  "instrument+string": {
+    "result": "guitar",
+    "reasoning": "Instrument and string create Guitar"
+  },
+  "iphone+xbox": {
+    "result": "api",
+    "reasoning": "The science is clear — An application programming interface (API) is a connection between computers or between computer programs. Mix iPhone and Xbox for API."
+  },
+  "kabuki+rhyme": {
+    "result": "etymology",
+    "reasoning": "Here's a real-world link: Etymology is the study of the origin and evolution of words—including their constituent units of sound and meaning—across time. Combine Kabuki with Rhyme and you get Etymology."
+  },
+  "kabuki+tango": {
+    "result": "flamenco",
+    "reasoning": "Flamenco is an art form based on the various folkloric music traditions of southern Spain, developed within the gitano subculture of the region of Andalusia, and also having historical presence in Extremadura and Murcia. So when Kabuki meets Tango, Flamenco is the natural outcome."
+  },
+  "kabuki+theater": {
+    "result": "pantomime",
+    "reasoning": "Here's the connection: Pantomime is a type of musical comedy stage production designed for family entertainment, generally combining broad and topical humour and cross-dressing actors with a story more or less based on a well-known fairy tale, fable or folk tale. So Kabuki + theater = Pantomime."
+  },
+  "kabuki+xylophone": {
+    "result": "flamenco",
+    "reasoning": "Flamenco is an art form based on the various folkloric music traditions of southern Spain, developed within the gitano subculture of the region of Andalusia, and also having historical presence in Extremadura and Murcia. So when Kabuki meets Xylophone, Flamenco is the natural outcome."
+  },
+  "karate+park": {
+    "result": "basketball",
+    "reasoning": "Here's a real-world link: Basketball is a team sport in which two teams of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball through the defender's hoop. Combine Karate with Park and you get Basketball."
   }
 }

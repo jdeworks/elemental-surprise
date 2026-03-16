@@ -1,7 +1,35 @@
 {
+  "anvil+oven": {
+    "result": "blacksmith",
+    "reasoning": "Anvil and Oven share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
+  },
   "axe+cloth": {
     "result": "clothing",
     "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "bellows+oven": {
+    "result": "blacksmith",
+    "reasoning": "A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. That's the connection between Bellows and Oven — giving us Blacksmith."
+  },
+  "bicycle+building": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between Bicycle and building — giving us Aluminum."
+  },
+  "bow+furnace": {
+    "result": "bongo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bow meets Furnace to create Bongo."
+  },
+  "brace+furnace": {
+    "result": "bow",
+    "reasoning": "Here's a real-world link: Bow most often refers to:Bow and arrow, a weapon\nBowing, bending the upper body as a social gesture\nAn ornamental knot made of ribbon Combine Brace with Furnace and you get Bow."
+  },
+  "brazier+oven": {
+    "result": "kettle",
+    "reasoning": "Here's a real-world link: A kettle, sometimes called a tea kettle or teakettle, is a device specialized for boiling water, commonly with a lid, spout, and handle. Combine Brazier with Oven and you get Kettle."
+  },
+  "building+bus": {
+    "result": "airport",
+    "reasoning": "The science is clear — An airport is an aerodrome with extended facilities, mostly for commercial air transport. Mix building and Bus for Airport."
   },
   "building+crossbow": {
     "result": "armory",
@@ -11,6 +39,10 @@
     "result": "armory",
     "reasoning": "A building storing Dagger — an Armory."
   },
+  "building+gondola": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when building meets Gondola, Airport is the natural outcome."
+  },
   "building+gun": {
     "result": "armory",
     "reasoning": "A building storing gun — an Armory."
@@ -19,9 +51,13 @@
     "result": "armory",
     "reasoning": "A building storing Mace — an Armory."
   },
+  "building+road": {
+    "result": "airport",
+    "reasoning": "building and Road share a deep connection. An airport is an aerodrome with extended facilities, mostly for commercial air transport. Result: Airport."
+  },
   "building+ship": {
     "result": "shipyard",
-    "reasoning": "Combine Building with Ship to create Shipyard."
+    "reasoning": "Here's the connection: A shipyard, also called a dockyard or boatyard, is a place where ships are built and repaired. So building + ship = Shipyard."
   },
   "building+spear": {
     "result": "armory",
@@ -31,9 +67,13 @@
     "result": "armory",
     "reasoning": "A building storing Sword — an Armory."
   },
-  "building+tool": {
-    "result": "workshop",
-    "reasoning": "A building full of tools is a Workshop"
+  "building+taxi": {
+    "result": "architect",
+    "reasoning": "building and Taxi share a deep connection. An architect is a person who plans, designs, and oversees the construction of buildings. Result: Architect."
+  },
+  "canteen+furnace": {
+    "result": "bug",
+    "reasoning": "Both Canteen and Furnace are rooted in Place Name Disambiguation Pages. Together they make Bug."
   },
   "chemical-reaction+chisel": {
     "result": "swiss-army-knife",
@@ -611,272 +651,228 @@
     "result": "swiss-army-knife",
     "reasoning": "Chemical reaction + Wrench = a Swiss Army Knife. The tool for when you don't know what tool you need."
   },
-  "chip+chisel": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Chisel = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+clamp": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Clamp = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+crossbow": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Crossbow = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+crowbar": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Crowbar = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+crucible": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Crucible = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+cylinder": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + cylinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+dagger": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Dagger = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+drawknife": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Drawknife = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+drill": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Drill = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+dyeing": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Dyeing = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+dynamometer": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Dynamometer = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+engine": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Engine = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+eraser": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Eraser = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+forge-bellows": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Forge Bellows = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+forging": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Forging = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+funnel": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Funnel = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+garden-shed": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Garden Shed = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+gear": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Gear = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+gears": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Gears = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+generator": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Generator = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+gimbal": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Gimbal = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+gondola": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Gondola = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+grappling-hook": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Grappling Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+grinder": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Grinder = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+grinding": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Grinding = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+gun": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + gun = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hammer": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hammer = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hand-saw": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hand Saw = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+helicopter": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Helicopter = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+helmet": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Helmet = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+highway": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Highway = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hoe": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hoe = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hook": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hot-air-balloon": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hot Air Balloon = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+hunting": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Hunting = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+invention": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + invention = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+jack": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Jack = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+junk-drawer": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Junk Drawer = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+kettle": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Kettle = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+key": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + key = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+kitchen-gadget": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Kitchen Gadget = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+knife": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Knife = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+knitting": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Knitting = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+ladle": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Ladle = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+lantern": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Lantern = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+level": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Level = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+lever": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Lever = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+lock": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Lock = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+loom": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Loom = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+mace": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Mace = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+machine": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + machine = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+magnifying-glass": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Magnifying Glass = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+mallet": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Mallet = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+manacle": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Manacle = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+mechanical": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Mechanical = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
-  "chip+mining": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Mining = a Swiss Army Knife. The tool for when you don't know what tool you need."
-  },
   "chip+mortar-and-pestle": {
     "result": "swiss-army-knife",
     "reasoning": "chip + Mortar and Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
   },
-  "chip+motor": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Motor = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "chisel+cloth": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+motorcycle": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Motorcycle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+drill": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+mousetrap": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Mousetrap = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+hammer": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+needle": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Needle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+hand-saw": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+notebook": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Notebook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+knife": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+oar": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Oar = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+pick": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+padlock": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Padlock = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+pliers": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+pen": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Pen = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+rake": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+pencil": {
-    "result": "swiss-army-knife",
-    "reasoning": "chip + Pencil = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  "cloth+saw": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
   },
-  "chip+pestle": {
+  "cloth+scissors": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "cloth+ship": {
+    "result": "sailboat",
+    "reasoning": "A ship with cloth sails is a Sailboat"
+  },
+  "cloth+shovel": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "cloth+socket-wrench": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "cloth+swiss-army-knife": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "cloth+wrench": {
+    "result": "clothing",
+    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
+  },
+  "crucible+oven": {
+    "result": "autoclave",
+    "reasoning": "Crucible and Oven share a deep connection. An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Result: Autoclave."
+  },
+  "engine+fuel": {
+    "result": "rocket",
+    "reasoning": "Fuel-powered engine thrusting upward — a rocket"
+  },
+  "engine+track": {
+    "result": "train",
+    "reasoning": "Crafting Engine with track produces Train"
+  },
+  "forging+oven": {
+    "result": "blacksmith",
+    "reasoning": "A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. That's the connection between Forging and Oven — giving us Blacksmith."
+  },
+  "fuel+road": {
+    "result": "bitumen",
+    "reasoning": "Wikipedia says: Bitumen is an immensely viscous constituent of petroleum. That explains why fuel + Road = Bitumen."
+  },
+  "fuel+smelting": {
+    "result": "carbon",
+    "reasoning": "Here's a real-world link: Carbon is a chemical element; it has symbol C and atomic number 6. Combine fuel with Smelting and you get Carbon."
+  },
+  "fuel+spear": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine fuel with Spear and you get Bitumen."
+  },
+  "funnel+oven": {
+    "result": "autoclave",
+    "reasoning": "An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. So when Funnel meets Oven, Autoclave is the natural outcome."
+  },
+  "furnace+grappling-hook": {
     "result": "swiss-army-knife",
-    "reasoning": "chip + Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+    "reasoning": "Furnace + Grappling Hook = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "furnace+grinder": {
+    "result": "cork",
+    "reasoning": "Both Furnace and Grinder are rooted in Place Name Disambiguation Pages. Together they make Cork."
+  },
+  "furnace+hammer": {
+    "result": "forge",
+    "reasoning": "A furnace with a hammer makes a Forge"
+  },
+  "furnace+hoe": {
+    "result": "block",
+    "reasoning": "Furnace and Hoe both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for block."
+  },
+  "furnace+hot-air-balloon": {
+    "result": "swiss-army-knife",
+    "reasoning": "Furnace + Hot Air Balloon = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "furnace+jack": {
+    "result": "cork",
+    "reasoning": "Both Furnace and Jack are rooted in Place Name Disambiguation Pages. Together they make Cork."
+  },
+  "furnace+key": {
+    "result": "corona",
+    "reasoning": "Both Furnace and key are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+kitchen-gadget": {
+    "result": "swiss-army-knife",
+    "reasoning": "Furnace + Kitchen Gadget = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "furnace+level": {
+    "result": "corona",
+    "reasoning": "Furnace and Level both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Corona."
+  },
+  "furnace+lock": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Lock are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+mace": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Mace to create Corona."
+  },
+  "furnace+magnifying-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "furnace+mortar-and-pestle": {
+    "result": "swiss-army-knife",
+    "reasoning": "Furnace + Mortar and Pestle = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "furnace+needle": {
+    "result": "corona",
+    "reasoning": "Furnace and Needle both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Corona."
+  },
+  "furnace+pick": {
+    "result": "corona",
+    "reasoning": "Furnace and Pick both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "furnace+plane": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Plane to create Corona."
+  },
+  "furnace+rake": {
+    "result": "corona",
+    "reasoning": "Furnace and Rake both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "furnace+scale": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Scale are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+soldering-iron": {
+    "result": "ingot",
+    "reasoning": "Smelting Soldering Iron with Furnace creates an Ingot — the foundation of metallurgy."
+  },
+  "furnace+spring": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Spring are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+swiss-army-knife": {
+    "result": "swiss-army-knife",
+    "reasoning": "Furnace + Swiss Army Knife = a Swiss Army Knife. The tool for when you don't know what tool you need."
+  },
+  "furnace+trap": {
+    "result": "corona",
+    "reasoning": "Furnace and Trap both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "furnace+whetstone": {
+    "result": "corona",
+    "reasoning": "Furnace and Whetstone both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "kettle+oven": {
+    "result": "brazier",
+    "reasoning": "The science is clear — A brazier is a container used to burn charcoal or other solid fuel for cooking, heating, or rituals. Mix Kettle and Oven for Brazier."
+  },
+  "oven+pliers": {
+    "result": "blacksmith",
+    "reasoning": "Oven and Pliers share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
+  },
+  "oven+smelting": {
+    "result": "forge",
+    "reasoning": "Here's a real-world link: A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. Combine Oven with Smelting and you get Forge."
+  },
+  "oven+spear": {
+    "result": "blacksmith",
+    "reasoning": "Oven and Spear share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
+  },
+  "oven+thermometer": {
+    "result": "autoclave",
+    "reasoning": "Wikipedia says: An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. That explains why Oven + Thermometer = Autoclave."
+  },
+  "oven+tongs": {
+    "result": "blacksmith",
+    "reasoning": "A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. That's the connection between Oven and Tongs — giving us Blacksmith."
+  },
+  "oven+trowel": {
+    "result": "cement",
+    "reasoning": "The science is clear — A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Mix Oven and Trowel for Cement."
+  },
+  "oven+valve": {
+    "result": "cement",
+    "reasoning": "The science is clear — A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Mix Oven and Valve for Cement."
+  },
+  "oven+welding": {
+    "result": "blacksmith",
+    "reasoning": "Oven and Welding share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
   }
 }

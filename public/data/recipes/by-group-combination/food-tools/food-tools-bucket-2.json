@@ -1,691 +1,11 @@
 {
-  "brazier+vinegar": {
-    "result": "cooking",
-    "reasoning": "Heated vinegar becomes a glaze, balsamic reduction is liquid gold"
-  },
-  "brazier+waffle": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brazier+wasabi": {
-    "result": "cooking",
-    "reasoning": "Heat destroys wasabi's kick, always add it fresh in Cooking"
-  },
-  "brazier+wheat": {
-    "result": "bread",
-    "reasoning": "Wheat grains are milled and baked into Bread, the staff of life"
-  },
-  "brazier+whiskey": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brazier+wild-game": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brazier+wine": {
-    "result": "cooking",
-    "reasoning": "Cooking wine reduces it into rich sauces, French cuisine's secret"
-  },
-  "brazier+wonton": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brazier+yogurt": {
-    "result": "cooking",
-    "reasoning": "Heated yogurt thickens sauces in Middle Eastern and Indian Cooking"
-  },
-  "bread+forge-bellows": {
-    "result": "toast",
-    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
-  },
-  "bread+smelting": {
-    "result": "toast",
-    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
-  },
-  "bread+spring": {
-    "result": "porridge",
-    "reasoning": "Bread soaked in water becomes Porridge, medieval pottage for the poor"
-  },
-  "bread+welding": {
-    "result": "toast",
-    "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
-  },
-  "brewing+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brewing+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brewing+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "brewing+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brioche+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brioche+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brioche+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "brioche+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "broth+forge-bellows": {
-    "result": "soup",
-    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
-  },
-  "broth+smelting": {
-    "result": "soup",
-    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
-  },
-  "broth+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "broth+welding": {
-    "result": "soup",
-    "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
-  },
-  "bruschetta+bucket": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Bucket = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+bus": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Bus = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+caliper": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Caliper = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+canoe": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Canoe = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+canteen": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Canteen = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+car": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Car = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+carabiner": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Carabiner = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+carriage": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Carriage = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+cart": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Cart = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+carving": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Carving = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+catapult": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Catapult = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+chainmail": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Chainmail = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+chariot": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Chariot = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+chisel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Chisel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+clamp": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Clamp = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+crossbow": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Crossbow = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+crowbar": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Crowbar = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+crucible": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Crucible = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+cylinder": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + cylinder = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+dagger": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Dagger = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+drawknife": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Drawknife = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+drill": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Drill = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+dyeing": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Dyeing = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+dynamometer": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Dynamometer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+engine": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Engine = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+eraser": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Eraser = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "bruschetta+forging": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Forging = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+funnel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Funnel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+garden-shed": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Garden Shed = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+gear": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Gear = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+gears": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Gears = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+generator": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Generator = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+gimbal": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Gimbal = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+gondola": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Gondola = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+grappling-hook": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Grappling Hook = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+grinder": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Grinder = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+grinding": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Grinding = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+gun": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + gun = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hammer": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hammer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hand-saw": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hand Saw = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+helicopter": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Helicopter = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+helmet": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Helmet = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+highway": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Highway = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hoe": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hoe = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hook": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hook = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hot-air-balloon": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hot Air Balloon = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+hunting": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Hunting = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+invention": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + invention = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+jack": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Jack = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+junk-drawer": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Junk Drawer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+kettle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Kettle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+key": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + key = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+kitchen-gadget": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Kitchen Gadget = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+knife": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Knife = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+knitting": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Knitting = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+ladle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Ladle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+lantern": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Lantern = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+level": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Level = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+lever": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Lever = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+lock": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Lock = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+loom": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Loom = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mace": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mace = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+machine": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + machine = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+magnifying-glass": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Magnifying Glass = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mallet": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mallet = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+manacle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Manacle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mechanical": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mechanical = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mining": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mining = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mortar-and-pestle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mortar and Pestle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+motor": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Motor = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+motorcycle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Motorcycle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+mousetrap": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Mousetrap = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+needle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Needle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+notebook": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Notebook = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+oar": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Oar = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+padlock": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Padlock = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pen": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pen = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pencil": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pencil = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pestle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pestle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pick": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pick = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+piston": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Piston = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+plane": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Plane = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pliers": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pliers = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+plough": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Plough = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+plumb-bob": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Plumb Bob = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+power-tool": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Power Tool = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+protractor": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Protractor = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pulley": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pulley = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+pump": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Pump = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+purse": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Purse = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+quill": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Quill = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+quiver": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Quiver = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+raft": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Raft = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+railway": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Railway = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+rake": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Rake = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+ratchet": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Ratchet = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+rivet": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Rivet = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+road": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Road = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+rocket": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Rocket = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+ruler": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Ruler = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sailboat": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sailboat = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+satellite": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Satellite = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+saw": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Saw = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+scale": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Scale = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+scalpel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Scalpel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+scissors": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Scissors = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+screw": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Screw = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sextant": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sextant = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+ship": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + ship = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+shovel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Shovel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sickle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sickle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sieve": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sieve = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sled": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sled = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sledgehammer": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sledgehammer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "bruschetta+snorkel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Snorkel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+socket-wrench": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Socket Wrench = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+soldering-iron": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Soldering Iron = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+spear": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Spear = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+spindle": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Spindle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "bruschetta+spyglass": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Spyglass = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+stapler": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Stapler = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+stencil": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Stencil = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+submarine": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Submarine = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+subway": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Subway = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+suitcase": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Suitcase = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sundial": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sundial = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+swiss-army-knife": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Swiss Army Knife = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+sword": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Sword = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+tanning": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Tanning = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+taxi": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Taxi = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+thermometer": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Thermometer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+tongs": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Tongs = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+tool": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + tool = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+traffic": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Traffic = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+train": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Train = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+trap": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Trap = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+trebuchet": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Trebuchet = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+tripod": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Tripod = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
   "bruschetta+trowel": {
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + Trowel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "bruschetta+truck": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Truck = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
   "bruschetta+turbine": {
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + Turbine = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+valve": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Valve = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+vise": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Vise = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+wagon": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Wagon = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
   "bruschetta+wallet": {
     "result": "kitchen-gadget",
@@ -699,14 +19,6 @@
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + weight = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "bruschetta+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "bruschetta+wheel": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Wheel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
   "bruschetta+wheelbarrow": {
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + Wheelbarrow = a Kitchen Gadget. Used twice, then lives in the drawer forever."
@@ -715,33 +27,13 @@
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + Whetstone = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "bruschetta+winch": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + Winch = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
-  "bruschetta+wing": {
-    "result": "kitchen-gadget",
-    "reasoning": "Bruschetta + wing = a Kitchen Gadget. Used twice, then lives in the drawer forever."
-  },
   "bruschetta+wrench": {
     "result": "kitchen-gadget",
     "reasoning": "Bruschetta + Wrench = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "burrito+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "burrito+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "burrito+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "burrito+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "bucket+granola": {
+    "result": "japan",
+    "reasoning": "The science is clear — Japan is an island country in East Asia. Mix Bucket and Granola for Japan."
   },
   "butter+forge-bellows": {
     "result": "cooking",
@@ -775,6 +67,10 @@
     "result": "toast",
     "reasoning": "Toasted cake slices caramelize the edges, leftover cake reimagined"
   },
+  "candy+engine": {
+    "result": "taffy",
+    "reasoning": "Atlantic City saltwater taffy earned its signature chew in the 1880s when vendors began using mechanical taffy-pulling engines — motorized iron arms that stretched and folded the candy thousands of times — a process impossible to replicate by hand at commercial scale."
+  },
   "candy+forge-bellows": {
     "result": "caramel",
     "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
@@ -783,13 +79,33 @@
     "result": "caramel",
     "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
   },
-  "candy+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
   "candy+welding": {
     "result": "caramel",
     "reasoning": "Heated candy becomes Caramel, sugar's transformation under fire"
+  },
+  "canoe+cooking": {
+    "result": "arrow",
+    "reasoning": "An arrow is a fin-stabilized projectile launched by a bow. So when Canoe meets Cooking, Arrow is the natural outcome."
+  },
+  "canoe+irrigation": {
+    "result": "arrow",
+    "reasoning": "An arrow is a fin-stabilized projectile launched by a bow. That's the connection between Canoe and Irrigation — giving us Arrow."
+  },
+  "canteen+chili": {
+    "result": "bug",
+    "reasoning": "Canteen and Chili both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
+  },
+  "canteen+cobbler": {
+    "result": "bug",
+    "reasoning": "Canteen and Cobbler both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
+  },
+  "canteen+cracker": {
+    "result": "bug",
+    "reasoning": "Canteen and Cracker both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
+  },
+  "canteen+pepper": {
+    "result": "bug",
+    "reasoning": "Canteen and Pepper both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
   },
   "car+farm": {
     "result": "tractor",
@@ -811,37 +127,21 @@
     "result": "candy",
     "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
   },
-  "caviar+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "cart+fishing": {
+    "result": "canoe",
+    "reasoning": "A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. That's the connection between Cart and Fishing — giving us Canoe."
   },
-  "caviar+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "carving+juice": {
+    "result": "fruit",
+    "reasoning": "In botany, a fruit is the seed-bearing structure in flowering plants (angiosperms) that is formed from the ovary after flowering. That's the connection between Carving and Juice — giving us Fruit."
   },
-  "caviar+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
+  "carving+okra": {
+    "result": "fruit",
+    "reasoning": "Carving and Okra share a deep connection. In botany, a fruit is the seed-bearing structure in flowering plants (angiosperms) that is formed from the ovary after flowering. Result: Fruit."
   },
-  "caviar+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "ceviche+forge-bellows": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "ceviche+smelting": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "ceviche+spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "ceviche+welding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "carving+smoothie": {
+    "result": "fruit",
+    "reasoning": "Wikipedia says: In botany, a fruit is the seed-bearing structure in flowering plants (angiosperms) that is formed from the ovary after flowering. That explains why Carving + Smoothie = Fruit."
   },
   "cheese+forge-bellows": {
     "result": "fondue",
@@ -859,24 +159,724 @@
     "result": "fondue",
     "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
   },
-  "chili+chisel": {
+  "chili+garden-shed": {
     "result": "kitchen-gadget",
-    "reasoning": "Chili + Chisel = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+    "reasoning": "Chili + Garden Shed = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "chili+clamp": {
+  "chili+grappling-hook": {
     "result": "kitchen-gadget",
-    "reasoning": "Chili + Clamp = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+    "reasoning": "Chili + Grappling Hook = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   },
-  "chili+crossbow": {
-    "result": "kitchen-gadget",
-    "reasoning": "Chili + Crossbow = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  "chili+grinder": {
+    "result": "cardinal",
+    "reasoning": "Chili and Grinder both belong to the world of Place Name Disambiguation Pages — combine them for Cardinal."
   },
-  "chili+crowbar": {
-    "result": "kitchen-gadget",
-    "reasoning": "Chili + Crowbar = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  "chili+hoe": {
+    "result": "batter",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Chili meets Hoe to create Batter."
   },
-  "chili+crucible": {
+  "chili+hot-air-balloon": {
     "result": "kitchen-gadget",
-    "reasoning": "Chili + Crucible = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+    "reasoning": "Chili + Hot Air Balloon = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+jack": {
+    "result": "cardinal",
+    "reasoning": "Chili and Jack both belong to the world of Place Name Disambiguation Pages — combine them for Cardinal."
+  },
+  "chili+junk-drawer": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Junk Drawer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+key": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and key are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
+  },
+  "chili+kitchen-gadget": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Kitchen Gadget = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+level": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Chili meets Level to create Cardinal."
+  },
+  "chili+lock": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Lock are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
+  },
+  "chili+mace": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Mace are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
+  },
+  "chili+magnifying-glass": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Magnifying Glass = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+mortar-and-pestle": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Mortar and Pestle = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+needle": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Needle are rooted in Disambiguation Pages With Surname Holder Lists. Together they make Cardinal."
+  },
+  "chili+pick": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Chili meets Pick to create Cardinal."
+  },
+  "chili+plane": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Plane are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
+  },
+  "chili+rake": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Chili meets Rake to create Cardinal."
+  },
+  "chili+scale": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Chili meets Scale to create Cardinal."
+  },
+  "chili+sledgehammer": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Sledgehammer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+socket-wrench": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Socket Wrench = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+soldering-iron": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Soldering Iron = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+spring": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Spring are rooted in Disambiguation Pages With Given Name Holder Lists. Together they make Cardinal."
+  },
+  "chili+swiss-army-knife": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Swiss Army Knife = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+thermometer": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Thermometer = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+trap": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Trap are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
+  },
+  "chili+wheelbarrow": {
+    "result": "kitchen-gadget",
+    "reasoning": "Chili + Wheelbarrow = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "chili+whetstone": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Chili meets Whetstone to create Cardinal."
+  },
+  "chocolate+forge-bellows": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "chocolate+smelting": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "chocolate+spring": {
+    "result": "smoothie",
+    "reasoning": "Chocolate blended with water or milk, a rich Smoothie"
+  },
+  "chocolate+welding": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "cider+forge-bellows": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "cider+smelting": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "cider+welding": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "cobbler+grinder": {
+    "result": "chat",
+    "reasoning": "Cobbler and Grinder both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+jack": {
+    "result": "chat",
+    "reasoning": "Cobbler and Jack both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+key": {
+    "result": "chat",
+    "reasoning": "Cobbler and key both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+level": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Level are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+lock": {
+    "result": "chat",
+    "reasoning": "Cobbler and Lock both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+mace": {
+    "result": "chat",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cobbler meets Mace to create Chat."
+  },
+  "cobbler+needle": {
+    "result": "chat",
+    "reasoning": "Cobbler and Needle both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+pick": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Pick are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+plane": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Plane are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+rake": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Rake are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+scale": {
+    "result": "chat",
+    "reasoning": "Cobbler and Scale both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "cobbler+spring": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Spring are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+trap": {
+    "result": "chat",
+    "reasoning": "Both Cobbler and Trap are rooted in Place Name Disambiguation Pages. Together they make Chat."
+  },
+  "cobbler+whetstone": {
+    "result": "chat",
+    "reasoning": "Cobbler and Whetstone both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "coca-cola+stapler": {
+    "result": "compiler",
+    "reasoning": "Coca Cola and Stapler share a deep connection. In computing, a compiler is software that translates computer code written in one programming language into another language. Result: Compiler."
+  },
+  "coconut+spring": {
+    "result": "milk",
+    "reasoning": "Coconut meat blended with water creates coconut Milk"
+  },
+  "coffee+forge-bellows": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "coffee+smelting": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "coffee+spring": {
+    "result": "brewing",
+    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  },
+  "coffee+welding": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "cookie+engine": {
+    "result": "search-engine",
+    "reasoning": "Google and other search engines use browser cookies to personalize results, tracking your digital crumbs across the web to train algorithms that serve more relevant searches."
+  },
+  "cookie+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "cookie+smelting": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "cookie+welding": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "cooking+hunting": {
+    "result": "camping",
+    "reasoning": "Cooking and Hunting share a deep connection. Camping is a form of outdoor recreation or outdoor education involving overnight stays with a basic temporary shelter such as a tent. Result: Camping."
+  },
+  "cooking+knife": {
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. So when Cooking meets Knife, Amber is the natural outcome."
+  },
+  "cooking+oar": {
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. So when Cooking meets Oar, Amber is the natural outcome."
+  },
+  "cooking+tool": {
+    "result": "arrow",
+    "reasoning": "The science is clear — An arrow is a fin-stabilized projectile launched by a bow. Mix Cooking and tool for Arrow."
+  },
+  "cooking+weaving": {
+    "result": "amber",
+    "reasoning": "Wikipedia says: Amber is fossilized tree resin. That explains why Cooking + Weaving = Amber."
+  },
+  "cooking+wheel": {
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. So when Cooking meets Wheel, Amber is the natural outcome."
+  },
+  "corn+forge-bellows": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "corn+smelting": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "corn+spring": {
+    "result": "porridge",
+    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
+  },
+  "corn+welding": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "cracker+grinder": {
+    "result": "church",
+    "reasoning": "Both Cracker and Grinder are rooted in Place Name Disambiguation Pages. Together they make Church."
+  },
+  "cracker+jack": {
+    "result": "church",
+    "reasoning": "Both Cracker and Jack are rooted in Place Name Disambiguation Pages. Together they make Church."
+  },
+  "cracker+key": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets key to create Church."
+  },
+  "cracker+level": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets Level to create Church."
+  },
+  "cracker+lock": {
+    "result": "church",
+    "reasoning": "Both Cracker and Lock are rooted in Place Name Disambiguation Pages. Together they make Church."
+  },
+  "cracker+mace": {
+    "result": "church",
+    "reasoning": "Both Cracker and Mace are rooted in Place Name Disambiguation Pages. Together they make Church."
+  },
+  "cracker+needle": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets Needle to create Church."
+  },
+  "cracker+pick": {
+    "result": "church",
+    "reasoning": "Cracker and Pick both belong to the world of Place Name Disambiguation Pages — combine them for Church."
+  },
+  "cracker+plane": {
+    "result": "church",
+    "reasoning": "Cracker and Plane both belong to the world of Place Name Disambiguation Pages — combine them for Church."
+  },
+  "cracker+rake": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets Rake to create Church."
+  },
+  "cracker+scale": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets Scale to create Church."
+  },
+  "cracker+spring": {
+    "result": "church",
+    "reasoning": "Both Cracker and Spring are rooted in Place Name Disambiguation Pages. Together they make Church."
+  },
+  "cracker+trap": {
+    "result": "church",
+    "reasoning": "Cracker and Trap both belong to the world of Place Name Disambiguation Pages — combine them for Church."
+  },
+  "cracker+whetstone": {
+    "result": "church",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cracker meets Whetstone to create Church."
+  },
+  "cream+forge-bellows": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "cream+smelting": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "cream+welding": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "croissant+engine": {
+    "result": "automation",
+    "reasoning": "Industrial dough-sheeting machines now produce croissants at over 3,000 per hour by automating the laborious lamination process bakers once spent 72 hours performing by hand to achieve 27 alternating layers of butter and fermented dough."
+  },
+  "croissant+forge-bellows": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "croissant+smelting": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "croissant+welding": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "crossbow+noodle": {
+    "result": "coffin",
+    "reasoning": "Wikipedia says: A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. That explains why Crossbow + Noodle = Coffin."
+  },
+  "crossbow+ramen": {
+    "result": "coffin",
+    "reasoning": "A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. So when Crossbow meets Ramen, Coffin is the natural outcome."
+  },
+  "crossbow+scallop": {
+    "result": "anvil",
+    "reasoning": "An anvil is a metalworking tool consisting of a large block of metal, with a flattened top surface, upon which another object is struck. So when Crossbow meets Scallop, Anvil is the natural outcome."
+  },
+  "crowbar+eggnog": {
+    "result": "etymology",
+    "reasoning": "Etymology is the study of the origin and evolution of words—including their constituent units of sound and meaning—across time. So when Crowbar meets Eggnog, Etymology is the natural outcome."
+  },
+  "crowbar+gumbo": {
+    "result": "etymology",
+    "reasoning": "Etymology is the study of the origin and evolution of words—including their constituent units of sound and meaning—across time. So when Crowbar meets Gumbo, Etymology is the natural outcome."
+  },
+  "crowbar+quiche": {
+    "result": "etymology",
+    "reasoning": "Etymology is the study of the origin and evolution of words—including their constituent units of sound and meaning—across time. That's the connection between Crowbar and Quiche — giving us Etymology."
+  },
+  "crucible+mezcal": {
+    "result": "autoclave",
+    "reasoning": "The science is clear — An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Crucible and Mezcal for Autoclave."
+  },
+  "curry+forge-bellows": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "curry+smelting": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "curry+welding": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "dough+forge-bellows": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "dough+smelting": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "dough+spring": {
+    "result": "noodle",
+    "reasoning": "Adding water to dough and pulling creates hand-pulled Noodles"
+  },
+  "dough+welding": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "dumpling+forge-bellows": {
+    "result": "dim-sum",
+    "reasoning": "Steamed dumplings become Dim Sum, Cantonese breakfast tradition"
+  },
+  "dumpling+smelting": {
+    "result": "dim-sum",
+    "reasoning": "Steamed dumplings become Dim Sum, Cantonese breakfast tradition"
+  },
+  "dumpling+welding": {
+    "result": "dim-sum",
+    "reasoning": "Steamed dumplings become Dim Sum, Cantonese breakfast tradition"
+  },
+  "dyeing+okra": {
+    "result": "cotton",
+    "reasoning": "The science is clear — Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Mix Dyeing and Okra for Cotton."
+  },
+  "egg-food+forge-bellows": {
+    "result": "omelette",
+    "reasoning": "Heat transforms eggs into an Omelette, the French cook's test"
+  },
+  "egg-food+hot-air-balloon": {
+    "result": "meringue",
+    "reasoning": "Here's the connection: Meringue is a type of dessert or candy, of French origin, traditionally made from whipped eggwhites and sugar, and occasionally an acidic ingredient such as lemon, vinegar, or cream of tartar. So Egg Food + Hot Air Balloon = Meringue."
+  },
+  "egg-food+smelting": {
+    "result": "omelette",
+    "reasoning": "Heat transforms eggs into an Omelette, the French cook's test"
+  },
+  "egg-food+spring": {
+    "result": "soup",
+    "reasoning": "Egg dropped into simmering water, egg drop Soup in seconds"
+  },
+  "egg-food+welding": {
+    "result": "omelette",
+    "reasoning": "Heat transforms eggs into an Omelette, the French cook's test"
+  },
+  "eggnog+engine": {
+    "result": "fuel",
+    "reasoning": "Traditional eggnog contains up to 15% alcohol by volume, making it technically a combustible fuel — colonial Americans originally used 'egg-nog' as a term for a potent spirit-based drink long before it became a holiday staple."
+  },
+  "engine+focaccia": {
+    "result": "bakery",
+    "reasoning": "Industrial deck ovens powered by gas engines transformed the artisanal production of focaccia and other breads into commercial bakeries capable of producing thousands of loaves daily, making what was once a regional Italian flatbread into a globally available product."
+  },
+  "engine+gelatin": {
+    "result": "photography",
+    "reasoning": "The gelatin dry plate, developed in 1871, replaced the cumbersome wet collodion process and allowed photographic film to be machine-manufactured on an industrial engine-scale — directly enabling the mass-market photography that Kodak commercialized just fifteen years later."
+  },
+  "engine+lasagna": {
+    "result": "food-coma",
+    "reasoning": "Lasagna's dense combination of pasta, ricotta, and meat triggers postprandial somnolence — the digestive engine demands so much blood flow that the brain enters a fog researchers call food coma."
+  },
+  "engine+meat": {
+    "result": "sausage",
+    "reasoning": "The industrial sausage stuffer, mechanized in the 1840s, used a screw-press engine to force minced meat through metal cylinders at scale — making sausage one of the first mass-produced engine-made foods in history."
+  },
+  "engine+meringue": {
+    "result": "kitchen-gadget",
+    "reasoning": "The electric stand mixer, essentially a small motor engine with specialized beaters, mechanized the exhausting hand-whisking required to beat egg whites into stable meringue peaks — KitchenAid's 1919 mixer became the archetype for motor-driven kitchen gadgets."
+  },
+  "engine+mousse": {
+    "result": "aerogel",
+    "reasoning": "Aerogel, the world's lightest solid, begins as a silica gel with a mousse-like nano-foam structure; a supercritical drying engine then replaces all the liquid with gas at extreme pressure, preserving the airy framework to create a material that is 99.8% air."
+  },
+  "espresso+spring": {
+    "result": "coffee",
+    "reasoning": "Espresso diluted with water becomes an Americano Coffee"
+  },
+  "farm+hoe": {
+    "result": "plough",
+    "reasoning": "A plough or plow is a farm tool for loosening or turning soil before sowing seed or planting. Combine farm with Hoe and you naturally get Plough."
+  },
+  "farm+tool": {
+    "result": "hoe",
+    "reasoning": "Here's the connection: A farm is an area of land that is devoted primarily to agricultural processes with the primary objective of producing food and other crops; it is the basic facility in food production. So farm + tool = Hoe."
+  },
+  "fishing+hunting": {
+    "result": "camping",
+    "reasoning": "Here's a real-world link: Camping is a form of outdoor recreation or outdoor education involving overnight stays with a basic temporary shelter such as a tent. Combine Fishing with Hunting and you get Camping."
+  },
+  "fishing+oar": {
+    "result": "canoe",
+    "reasoning": "The science is clear — A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Mix Fishing and Oar for Canoe."
+  },
+  "fishing+stencil": {
+    "result": "crab",
+    "reasoning": "Wikipedia says: They do not form a single natural group or clade, but have convergently evolved multiple times from the ancestral decapod body plan through carcinisation, the process of creating this set of characteristics. That explains why Fishing + Stencil = Crab."
+  },
+  "flour+forge-bellows": {
+    "result": "bread",
+    "reasoning": "Flour in a hot oven with yeast becomes risen Bread"
+  },
+  "flour+smelting": {
+    "result": "bread",
+    "reasoning": "Flour in a hot oven with yeast becomes risen Bread"
+  },
+  "flour+spring": {
+    "result": "dough",
+    "reasoning": "Flour plus water creates Dough, the foundation of all baking"
+  },
+  "flour+welding": {
+    "result": "bread",
+    "reasoning": "Flour in a hot oven with yeast becomes risen Bread"
+  },
+  "focaccia+forge-bellows": {
+    "result": "toast",
+    "reasoning": "Toasted focaccia with olive oil is crispy Italian Toast"
+  },
+  "focaccia+smelting": {
+    "result": "toast",
+    "reasoning": "Toasted focaccia with olive oil is crispy Italian Toast"
+  },
+  "focaccia+welding": {
+    "result": "toast",
+    "reasoning": "Toasted focaccia with olive oil is crispy Italian Toast"
+  },
+  "forge-bellows+garlic": {
+    "result": "cooking",
+    "reasoning": "Roasted garlic becomes sweet and spreadable, a Cooking flavor bomb"
+  },
+  "forge-bellows+ginger": {
+    "result": "cooking",
+    "reasoning": "Cooking ginger mellows its bite, essential in Asian stir-fries"
+  },
+  "forge-bellows+hummus": {
+    "result": "falafel",
+    "reasoning": "Heated chickpea mixture is shaped and fried into Falafel"
+  },
+  "forge-bellows+ice-cream": {
+    "result": "cream",
+    "reasoning": "Heated ice cream melts back into sweetened Cream"
+  },
+  "forge-bellows+jam": {
+    "result": "cooking",
+    "reasoning": "Cooking fruit with sugar makes jam, preserved summer in a jar"
+  },
+  "forge-bellows+juice": {
+    "result": "jam",
+    "reasoning": "Boiling juice with sugar concentrates it into Jam"
+  },
+  "forge-bellows+kimchi": {
+    "result": "stew",
+    "reasoning": "Kimchi jjigae, fermented kimchi becomes a bubbling spicy Stew"
+  },
+  "forge-bellows+maple-syrup": {
+    "result": "caramel",
+    "reasoning": "Boiling maple syrup further concentrates it into maple Caramel"
+  },
+  "forge-bellows+meat": {
+    "result": "steak",
+    "reasoning": "Searing meat over high heat creates a Steak with perfect crust"
+  },
+  "forge-bellows+milk": {
+    "result": "cream",
+    "reasoning": "Heating milk causes it to reduce and thicken into rich Cream"
+  },
+  "forge-bellows+miso": {
+    "result": "soup",
+    "reasoning": "Hot water transforms miso paste into Soup at every Japanese meal"
+  },
+  "forge-bellows+naan": {
+    "result": "bread",
+    "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
+  },
+  "forge-bellows+noodle": {
+    "result": "ramen",
+    "reasoning": "Noodles cooked in hot broth become Ramen, Japan's comfort food"
+  },
+  "forge-bellows+olive": {
+    "result": "olive-oil",
+    "reasoning": "Pressing heated olives yields Olive Oil, Mediterranean liquid gold"
+  },
+  "forge-bellows+onion": {
+    "result": "cooking",
+    "reasoning": "Caramelized onions are slow-Cooked until sweet and golden"
+  },
+  "forge-bellows+pasta": {
+    "result": "spaghetti",
+    "reasoning": "Boiling pasta al dente is the Italian art of perfect Spaghetti"
+  },
+  "forge-bellows+pepper": {
+    "result": "roast",
+    "reasoning": "Roasted peppers are smoky, sweet, and silky, perfect Roast veggies"
+  },
+  "forge-bellows+pesto": {
+    "result": "cooking",
+    "reasoning": "Warm pesto tossed with hot pasta releases its basil Cooking fragrance"
+  },
+  "forge-bellows+porridge": {
+    "result": "toast",
+    "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
+  },
+  "forge-bellows+potato": {
+    "result": "roast",
+    "reasoning": "Roast potatoes, crispy outside, fluffy inside, the perfect Roast"
+  },
+  "forge-bellows+pretzel": {
+    "result": "toast",
+    "reasoning": "Warm pretzels fresh from the oven become soft salty Toast"
+  },
+  "forge-bellows+ramen": {
+    "result": "cooking",
+    "reasoning": "Ramen broth simmers for 12-24 hours, time and heat Cooking mastery"
+  },
+  "forge-bellows+rice": {
+    "result": "cooking",
+    "reasoning": "Steamed rice, heat and water transform hard grains into fluffy perfection"
+  },
+  "forge-bellows+salsa": {
+    "result": "cooking",
+    "reasoning": "Roasted salsa (salsa roja) has a deeper, smokier Cooking flavor"
+  },
+  "forge-bellows+salt": {
+    "result": "cooking",
+    "reasoning": "Salt enhances every heated dish, the most essential Cooking seasoning"
+  },
+  "forge-bellows+sausage": {
+    "result": "roast",
+    "reasoning": "Roasted sausages sizzle and split, a hearty Roast"
+  },
+  "forge-bellows+soup": {
+    "result": "stew",
+    "reasoning": "Simmering soup for hours thickens it into hearty Stew"
+  },
+  "forge-bellows+sourdough": {
+    "result": "toast",
+    "reasoning": "Sourdough Toast is tangy bread crisped to perfection"
+  },
+  "forge-bellows+soy-sauce": {
+    "result": "cooking",
+    "reasoning": "Heated soy sauce in a wok creates smoky breath of the dragon"
+  },
+  "forge-bellows+spice": {
+    "result": "curry",
+    "reasoning": "Toasting spices in oil blooms their essential oils, the start of Curry"
+  },
+  "forge-bellows+stew": {
+    "result": "roast",
+    "reasoning": "Long slow heat transforms stew into a caramelized Roast"
+  },
+  "forge-bellows+sugar": {
+    "result": "caramel",
+    "reasoning": "Heat transforms white sugar into golden Caramel at 170 degrees C"
+  },
+  "forge-bellows+sushi": {
+    "result": "tempura",
+    "reasoning": "Heat transforms raw sushi ingredients into crispy Tempura"
+  },
+  "forge-bellows+tea": {
+    "result": "brewing",
+    "reasoning": "Hot water extracts flavor from tea leaves, the art of Brewing"
+  },
+  "forge-bellows+tofu": {
+    "result": "stew",
+    "reasoning": "Fried tofu develops a crispy skin in Stew, a protein chameleon"
+  },
+  "forge-bellows+tomato": {
+    "result": "soup",
+    "reasoning": "Roasted tomatoes blend into rich Soup, comfort in a bowl"
+  },
+  "forge-bellows+tortilla": {
+    "result": "taco",
+    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
+  },
+  "forge-bellows+vinegar": {
+    "result": "cooking",
+    "reasoning": "Heated vinegar becomes a glaze, balsamic reduction is liquid gold"
+  },
+  "forge-bellows+wasabi": {
+    "result": "cooking",
+    "reasoning": "Heat destroys wasabi's kick, always add it fresh in Cooking"
+  },
+  "forge-bellows+wheat": {
+    "result": "bread",
+    "reasoning": "Wheat grains are milled and baked into Bread, the staff of life"
+  },
+  "funnel+mezcal": {
+    "result": "autoclave",
+    "reasoning": "Wikipedia says: An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. That explains why Funnel + Mezcal = Autoclave."
+  },
+  "garden+tool": {
+    "result": "rake",
+    "reasoning": "Garden and tool together? A garden is a planned space, usually outdoors, set aside for the cultivation, display, and enjoyment of plants and other forms of nature. The result: Rake."
+  },
+  "garden+wheel": {
+    "result": "wheelbarrow",
+    "reasoning": "Garden and Wheel together? A wheelbarrow is a small hand-propelled load-bearing vehicle, usually with just one wheel, designed to be pushed and guided by a single person using two handles at the rear. The result: Wheelbarrow."
+  },
+  "garlic+spring": {
+    "result": "soup",
+    "reasoning": "Garlic simmered in water makes sopa de ajo, Spain's garlic Soup"
+  },
+  "gear+harvest": {
+    "result": "conveyor-belt",
+    "reasoning": "Gear and Harvest are both connected to Conveyor Belt — that shared bond creates Conveyor Belt."
+  },
+  "gelatin+generator": {
+    "result": "kitchen-gadget",
+    "reasoning": "Gelatin + Generator = a Kitchen Gadget. Used twice, then lives in the drawer forever."
+  },
+  "gelatin+grappling-hook": {
+    "result": "kitchen-gadget",
+    "reasoning": "Gelatin + Grappling Hook = a Kitchen Gadget. Used twice, then lives in the drawer forever."
   }
 }

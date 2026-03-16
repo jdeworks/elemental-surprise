@@ -1,91 +1,7 @@
 {
-  "gold+house": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives house the strength to reach the sky — Skyscraper."
-  },
-  "gold+lighthouse": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Lighthouse the strength to reach the sky — Skyscraper."
-  },
-  "gold+mosaic": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Mosaic — a Sculpture."
-  },
-  "gold+mural": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Mural — a Sculpture."
-  },
-  "gold+music": {
-    "result": "grammy",
-    "reasoning": "Gold and Music together shape Grammy"
-  },
-  "gold+origami": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Origami — a Sculpture."
-  },
-  "gold+pixel-art": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Pixel Art — a Sculpture."
-  },
-  "gold+pop-art": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Pop Art — a Sculpture."
-  },
-  "gold+prison": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Prison the strength to reach the sky — Skyscraper."
-  },
-  "gold+sculpture": {
-    "result": "jewelry",
-    "reasoning": "Precious Gold crafted as Sculpture — Jewelry."
-  },
-  "gold+shadow": {
-    "result": "thief",
-    "reasoning": "Stealthy pursuit of gold — that's a Thief"
-  },
-  "gold+temple": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "gold+tower": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Tower the strength to reach the sky — Skyscraper."
-  },
-  "gold+warehouse": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Warehouse the strength to reach the sky — Skyscraper."
-  },
-  "gold+watercolor": {
-    "result": "sculpture",
-    "reasoning": "Gold shaped by Watercolor — a Sculpture."
-  },
-  "house+metal": {
-    "result": "door",
-    "reasoning": "house and metal create Door"
-  },
-  "house+paint": {
-    "result": "museum",
-    "reasoning": "A house preserving Paint — a Museum."
-  },
-  "house+shield": {
-    "result": "armory",
-    "reasoning": "A house storing Shield — an Armory."
-  },
-  "house+steel": {
-    "result": "skyscraper",
-    "reasoning": "house and Steel create Skyscraper"
-  },
-  "ingot+lighthouse": {
-    "result": "skyscraper",
-    "reasoning": "Ingot gives Lighthouse the strength to reach the sky — Skyscraper."
-  },
   "ingot+mosaic": {
     "result": "sculpture",
     "reasoning": "Ingot shaped by Mosaic — a Sculpture."
-  },
-  "ingot+mural": {
-    "result": "sculpture",
-    "reasoning": "Ingot shaped by Mural — a Sculpture."
   },
   "ingot+origami": {
     "result": "sculpture",
@@ -99,21 +15,9 @@
     "result": "sculpture",
     "reasoning": "Ingot shaped by Pop Art — a Sculpture."
   },
-  "ingot+prison": {
-    "result": "skyscraper",
-    "reasoning": "Ingot gives Prison the strength to reach the sky — Skyscraper."
-  },
   "ingot+sculpture": {
     "result": "jewelry",
     "reasoning": "Precious Ingot crafted as Sculpture — Jewelry."
-  },
-  "ingot+temple": {
-    "result": "skyscraper",
-    "reasoning": "Ingot gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "ingot+tower": {
-    "result": "skyscraper",
-    "reasoning": "Ingot gives Tower the strength to reach the sky — Skyscraper."
   },
   "ingot+warehouse": {
     "result": "skyscraper",
@@ -122,6 +26,10 @@
   "ingot+watercolor": {
     "result": "sculpture",
     "reasoning": "Ingot shaped by Watercolor — a Sculpture."
+  },
+  "ink+lullaby": {
+    "result": "germany",
+    "reasoning": "The science is clear — Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. Mix Ink and Lullaby for Germany."
   },
   "instrument+leather": {
     "result": "drum",
@@ -135,14 +43,6 @@
     "result": "skyscraper",
     "reasoning": "Iron gives Lighthouse the strength to reach the sky — Skyscraper."
   },
-  "iron+mosaic": {
-    "result": "sculpture",
-    "reasoning": "Iron shaped by Mosaic — a Sculpture."
-  },
-  "iron+mural": {
-    "result": "sculpture",
-    "reasoning": "Iron shaped by Mural — a Sculpture."
-  },
   "iron+origami": {
     "result": "sculpture",
     "reasoning": "Iron shaped by Origami — a Sculpture."
@@ -155,21 +55,9 @@
     "result": "sculpture",
     "reasoning": "Iron shaped by Pop Art — a Sculpture."
   },
-  "iron+prison": {
-    "result": "skyscraper",
-    "reasoning": "Iron gives Prison the strength to reach the sky — Skyscraper."
-  },
   "iron+sculpture": {
     "result": "jewelry",
     "reasoning": "Precious Iron crafted as Sculpture — Jewelry."
-  },
-  "iron+temple": {
-    "result": "skyscraper",
-    "reasoning": "Iron gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "iron+tower": {
-    "result": "skyscraper",
-    "reasoning": "Iron gives Tower the strength to reach the sky — Skyscraper."
   },
   "iron+warehouse": {
     "result": "skyscraper",
@@ -179,17 +67,65 @@
     "result": "sculpture",
     "reasoning": "Iron shaped by Watercolor — a Sculpture."
   },
+  "ivory+necklace": {
+    "result": "alloy",
+    "reasoning": "Ivory and Necklace share a deep connection. An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Result: Alloy."
+  },
+  "ivory+swimming": {
+    "result": "coral",
+    "reasoning": "The science is clear — Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Mix Ivory and Swimming for Coral."
+  },
+  "jute+string": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Jute + string = Cotton."
+  },
+  "karate+kevlar": {
+    "result": "archery",
+    "reasoning": "Karate and Kevlar share a deep connection. Archery is the sport, practice, or skill of using a bow to shoot arrows. Result: Archery."
+  },
+  "kevlar+skateboard": {
+    "result": "escalator",
+    "reasoning": "Wikipedia says: An escalator is a moving staircase which carries people between floors of a building or structure. That explains why Kevlar + Skateboard = Escalator."
+  },
+  "kevlar+string": {
+    "result": "cotton",
+    "reasoning": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. So when Kevlar meets string, Cotton is the natural outcome."
+  },
+  "kevlar+sunglasses": {
+    "result": "escalator",
+    "reasoning": "Wikipedia says: An escalator is a moving staircase which carries people between floors of a building or structure. That explains why Kevlar + Sunglasses = Escalator."
+  },
+  "kevlar+surfing": {
+    "result": "archery",
+    "reasoning": "Archery is the sport, practice, or skill of using a bow to shoot arrows. So when Kevlar meets Surfing, Archery is the natural outcome."
+  },
+  "kevlar+tennis": {
+    "result": "archery",
+    "reasoning": "Kevlar and Tennis share a deep connection. Archery is the sport, practice, or skill of using a bow to shoot arrows. Result: Archery."
+  },
+  "kevlar+wrestling": {
+    "result": "archery",
+    "reasoning": "Archery is the sport, practice, or skill of using a bow to shoot arrows. So when Kevlar meets Wrestling, Archery is the natural outcome."
+  },
+  "kite+plastic": {
+    "result": "airplane",
+    "reasoning": "Here's a real-world link: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Combine Kite with Plastic and you get Airplane."
+  },
+  "kite+satin": {
+    "result": "ballet",
+    "reasoning": "Wikipedia says: Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. That explains why Kite + Satin = Ballet."
+  },
+  "kite+wire": {
+    "result": "electricity",
+    "reasoning": "Kite and Wire share a deep connection. Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Result: Electricity."
+  },
+  "lacquer+mosaic": {
+    "result": "furniture",
+    "reasoning": "Furniture refers to objects intended to support various human activities such as seating, eating (tables), storing items, working, and sleeping. That's the connection between Lacquer and Mosaic — giving us Furniture."
+  },
   "lead+lighthouse": {
     "result": "skyscraper",
     "reasoning": "Lead gives Lighthouse the strength to reach the sky — Skyscraper."
-  },
-  "lead+mosaic": {
-    "result": "sculpture",
-    "reasoning": "Lead shaped by Mosaic — a Sculpture."
-  },
-  "lead+mural": {
-    "result": "sculpture",
-    "reasoning": "Lead shaped by Mural — a Sculpture."
   },
   "lead+origami": {
     "result": "sculpture",
@@ -203,21 +139,9 @@
     "result": "sculpture",
     "reasoning": "Lead shaped by Pop Art — a Sculpture."
   },
-  "lead+prison": {
-    "result": "skyscraper",
-    "reasoning": "Lead gives Prison the strength to reach the sky — Skyscraper."
-  },
   "lead+sculpture": {
     "result": "jewelry",
     "reasoning": "Precious Lead crafted as Sculpture — Jewelry."
-  },
-  "lead+temple": {
-    "result": "skyscraper",
-    "reasoning": "Lead gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "lead+tower": {
-    "result": "skyscraper",
-    "reasoning": "Lead gives Tower the strength to reach the sky — Skyscraper."
   },
   "lead+warehouse": {
     "result": "skyscraper",
@@ -235,6 +159,10 @@
     "result": "camera",
     "reasoning": "Light captured through a lens — a camera"
   },
+  "lens+photography": {
+    "result": "camera",
+    "reasoning": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. That's the connection between Lens and Photography — giving us camera."
+  },
   "light+metal": {
     "result": "lamp",
     "reasoning": "light and metal create Lamp"
@@ -245,15 +173,31 @@
   },
   "light+titanium": {
     "result": "mithril",
-    "reasoning": "Combine Titanium with Light to create Mithril."
+    "reasoning": "Mithril is a fictional metal found in J. Combine light with Titanium and you naturally get Mithril."
   },
   "lighthouse+paint": {
     "result": "museum",
     "reasoning": "A Lighthouse preserving Paint — a Museum."
   },
+  "lighthouse+papyrus": {
+    "result": "egypt",
+    "reasoning": "The science is clear — Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Mix Lighthouse and Papyrus for Egypt."
+  },
+  "lighthouse+pumice": {
+    "result": "concrete",
+    "reasoning": "Here's a real-world link: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Combine Lighthouse with Pumice and you get Concrete."
+  },
   "lighthouse+shield": {
     "result": "armory",
     "reasoning": "A Lighthouse storing Shield — an Armory."
+  },
+  "limestone+spa": {
+    "result": "cement",
+    "reasoning": "Limestone and Spa share a deep connection. A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Result: Cement."
+  },
+  "limestone+well": {
+    "result": "clay",
+    "reasoning": "Wikipedia says: Clay is a type of fine-grained natural soil material containing clay minerals. That explains why Limestone + Well = Clay."
   },
   "linen+mosaic": {
     "result": "tapestry",
@@ -279,9 +223,25 @@
     "result": "tapestry",
     "reasoning": "Linen woven as Sculpture — a Tapestry."
   },
+  "linen+tent": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. So when Linen meets Tent, canvas is the natural outcome."
+  },
   "linen+watercolor": {
     "result": "tapestry",
     "reasoning": "Linen woven as Watercolor — a Tapestry."
+  },
+  "lullaby+taxidermy": {
+    "result": "germany",
+    "reasoning": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. So when Lullaby meets Taxidermy, Germany is the natural outcome."
+  },
+  "lyre+papyrus": {
+    "result": "egypt",
+    "reasoning": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. So when Lyre meets Papyrus, Egypt is the natural outcome."
+  },
+  "lyre+wire": {
+    "result": "egypt",
+    "reasoning": "Here's a real-world link: Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Combine Lyre with Wire and you get Egypt."
   },
   "magma+punk-rock": {
     "result": "lava",
@@ -295,17 +255,29 @@
     "result": "lens",
     "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
   },
-  "magma+well": {
-    "result": "steam",
-    "reasoning": "Magma turns Well to Steam — the force that powered the Industrial Revolution."
+  "magma+warehouse": {
+    "result": "granite",
+    "reasoning": "Here's a real-world link: Granite is a coarse-grained (phaneritic) intrusive igneous rock composed mostly of quartz, alkali feldspar, mica and plagioclase. Combine Magma with Warehouse and you get Granite."
+  },
+  "mandolin+wire": {
+    "result": "cello",
+    "reasoning": "The science is clear — The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. Mix Mandolin and Wire for Cello."
+  },
+  "marble+mosaic": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Marble + Mosaic = Basalt."
+  },
+  "marble+tower": {
+    "result": "castle",
+    "reasoning": "Marble and Tower share a deep connection. A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Result: Castle."
+  },
+  "marble+well": {
+    "result": "brick",
+    "reasoning": "Marble and Well share a deep connection. A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Result: Brick."
   },
   "metal+mosaic": {
     "result": "sculpture",
     "reasoning": "metal shaped by Mosaic — a Sculpture."
-  },
-  "metal+mural": {
-    "result": "sculpture",
-    "reasoning": "metal shaped by Mural — a Sculpture."
   },
   "metal+music": {
     "result": "trumpet",
@@ -323,25 +295,17 @@
     "result": "sculpture",
     "reasoning": "metal shaped by Pop Art — a Sculpture."
   },
-  "metal+prison": {
-    "result": "skyscraper",
-    "reasoning": "metal gives Prison the strength to reach the sky — Skyscraper."
-  },
   "metal+rock-music": {
     "result": "pick",
-    "reasoning": "Combine Metal with Rock Music to create Pick."
+    "reasoning": "Did you know? A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well. That's why metal + Rock Music = Pick."
+  },
+  "metal+roof": {
+    "result": "building",
+    "reasoning": "Here's a real-world link: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Combine metal with Roof and you get building."
   },
   "metal+sculpture": {
     "result": "jewelry",
     "reasoning": "Precious metal crafted as Sculpture — Jewelry."
-  },
-  "metal+temple": {
-    "result": "skyscraper",
-    "reasoning": "metal gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "metal+tower": {
-    "result": "skyscraper",
-    "reasoning": "metal gives Tower the strength to reach the sky — Skyscraper."
   },
   "metal+warehouse": {
     "result": "skyscraper",
@@ -351,9 +315,97 @@
     "result": "sculpture",
     "reasoning": "metal shaped by Watercolor — a Sculpture."
   },
+  "mica+roof": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Mica with Roof and you get Bitumen."
+  },
+  "mica+toy": {
+    "result": "clay",
+    "reasoning": "Wikipedia says: Clay is a type of fine-grained natural soil material containing clay minerals. That explains why Mica + Toy = Clay."
+  },
+  "mirror+pyramid": {
+    "result": "axe",
+    "reasoning": "The science is clear — An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Mix Mirror and Pyramid for Axe."
+  },
+  "mirror+shoe": {
+    "result": "arrow",
+    "reasoning": "An arrow is a fin-stabilized projectile launched by a bow. So when Mirror meets Shoe, Arrow is the natural outcome."
+  },
+  "monument+soap": {
+    "result": "france",
+    "reasoning": "Wikipedia says: France, officially the French Republic, is a country primarily located in Western Europe. That explains why Monument + Soap = France."
+  },
+  "monument+terracotta": {
+    "result": "france",
+    "reasoning": "The science is clear — France, officially the French Republic, is a country primarily located in Western Europe. Mix Monument and Terracotta for France."
+  },
+  "mosaic+slate": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Mosaic meets Slate, Basalt is the natural outcome."
+  },
+  "mosaic+taxidermy": {
+    "result": "knitting",
+    "reasoning": "Knitting is the process of interlooping yarn to create textile fabric made of interconnected loops, done by hand, machine or both. So when Mosaic meets Taxidermy, Knitting is the natural outcome."
+  },
+  "mosaic+varnish": {
+    "result": "eraser",
+    "reasoning": "Mosaic and Varnish share a deep connection. An eraser is an article of stationery that is used for removing marks from paper or skin. Result: Eraser."
+  },
+  "music+satin": {
+    "result": "ballet",
+    "reasoning": "Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. That's the connection between Music and Satin — giving us Ballet."
+  },
   "music+thread": {
     "result": "string",
     "reasoning": "Music and Thread create string"
+  },
+  "nacre+necklace": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Nacre and Necklace — giving us Alloy."
+  },
+  "nacre+orchestra": {
+    "result": "accordion",
+    "reasoning": "Nacre and Orchestra share a deep connection. Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Result: Accordion."
+  },
+  "nacre+polka": {
+    "result": "accordion",
+    "reasoning": "Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. So when Nacre meets Polka, Accordion is the natural outcome."
+  },
+  "nacre+pottery": {
+    "result": "bone",
+    "reasoning": "The science is clear — A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. Mix Nacre and Pottery for Bone."
+  },
+  "nacre+tambourine": {
+    "result": "accordion",
+    "reasoning": "Nacre and Tambourine share a deep connection. Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Result: Accordion."
+  },
+  "nacre+trumpet": {
+    "result": "accordion",
+    "reasoning": "The science is clear — Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Mix Nacre and Trumpet for Accordion."
+  },
+  "nacre+waltz": {
+    "result": "accordion",
+    "reasoning": "The science is clear — Accordions are a family of box-shaped musical instruments of the bellows-driven free reed aerophone type. Mix Nacre and Waltz for Accordion."
+  },
+  "necklace+pewter": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Necklace and Pewter — giving us Alloy."
+  },
+  "necklace+platinum": {
+    "result": "alloy",
+    "reasoning": "The science is clear — An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Mix Necklace and Platinum for Alloy."
+  },
+  "necklace+silver": {
+    "result": "alloy",
+    "reasoning": "Here's a real-world link: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Combine Necklace with Silver and you get Alloy."
+  },
+  "necklace+titanium": {
+    "result": "amber",
+    "reasoning": "Here's a real-world link: Amber is fossilized tree resin. Combine Necklace with Titanium and you get Amber."
+  },
+  "necklace+tungsten": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Necklace + Tungsten = Alloy."
   },
   "nickel+origami": {
     "result": "sculpture",
@@ -379,10 +431,6 @@
     "result": "skyscraper",
     "reasoning": "Nickel gives Temple the strength to reach the sky — Skyscraper."
   },
-  "nickel+tower": {
-    "result": "skyscraper",
-    "reasoning": "Nickel gives Tower the strength to reach the sky — Skyscraper."
-  },
   "nickel+warehouse": {
     "result": "skyscraper",
     "reasoning": "Nickel gives Warehouse the strength to reach the sky — Skyscraper."
@@ -393,227 +441,107 @@
   },
   "oil+rock-music": {
     "result": "asphalt",
-    "reasoning": "Combine Oil with Rock Music to create Asphalt."
+    "reasoning": "Oil and Rock Music together? Oil is a liquid with varying degrees of viscosity depending on temperature. The result: Asphalt."
+  },
+  "opera+satin": {
+    "result": "ballet",
+    "reasoning": "Opera and Satin share a deep connection. Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Result: Ballet."
+  },
+  "orchestra+wire": {
+    "result": "cello",
+    "reasoning": "The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. That's the connection between Orchestra and Wire — giving us Cello."
+  },
+  "organza+tent": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. So when Organza meets Tent, canvas is the natural outcome."
+  },
+  "origami+paint": {
+    "result": "calligraphy",
+    "reasoning": "Wikipedia says: Calligraphy is fine handwriting taken to the level of visual art. That explains why Origami + Paint = Calligraphy."
+  },
+  "origami+plywood": {
+    "result": "cardboard",
+    "reasoning": "Wikipedia says: Cardboard is a generic term for heavy paper-based products ranging from a thick paper known as paperboard to corrugated fiberboard. That explains why Origami + Plywood = Cardboard."
+  },
+  "origami+porcelain": {
+    "result": "bone-china",
+    "reasoning": "Bone china is a type of vitreous, translucent pottery, the raw materials for which include bone ash, feldspathic material and kaolin. That's the connection between Origami and Porcelain — giving us Bone China."
+  },
+  "paint+pottery": {
+    "result": "calligraphy",
+    "reasoning": "The science is clear — Calligraphy is fine handwriting taken to the level of visual art. Mix Paint and Pottery for Calligraphy."
   },
   "paint+wall": {
     "result": "fresco",
-    "reasoning": "Combine Wall with Paint to create Fresco."
+    "reasoning": "Paint and Wall together? Fresco is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster. The result: Fresco."
   },
   "permafrost+well": {
     "result": "ice",
     "reasoning": "Permafrost freezes Well into Ice — water's solid form."
   },
-  "piano+pigment": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Pigment = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pewter+shadow": {
+    "result": "gold",
+    "reasoning": "Here's a real-world link: Gold is a chemical element; its chemical symbol is Au and atomic number 79. Combine Pewter with Shadow and you get Gold."
   },
-  "piano+plank": {
-    "result": "craft-fair",
-    "reasoning": "Piano + plank = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+plaster": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Plaster = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+plastic": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Plastic = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+platinum": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Platinum = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+plywood": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Plywood = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pewter+swimming": {
+    "result": "coral",
+    "reasoning": "The science is clear — Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Mix Pewter and Swimming for Coral."
   },
   "piano+porcelain": {
     "result": "craft-fair",
     "reasoning": "Piano + Porcelain = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "piano+prism": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Prism = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+pulp": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Pulp = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+pumice": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Pumice = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+quartz": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Quartz = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "piano+quicklite": {
     "result": "craft-fair",
     "reasoning": "Piano + Quicklite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+rattan": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Rattan = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "piano+raw-material": {
     "result": "craft-fair",
     "reasoning": "Piano + Raw Material = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "piano+rayon": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Rayon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+rope": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Rope = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+rubber": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Rubber = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+rust": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Rust = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+sail": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Sail = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "piano+sandstone": {
     "result": "craft-fair",
     "reasoning": "Piano + Sandstone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+satin": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Satin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "piano+scrap-heap": {
     "result": "craft-fair",
     "reasoning": "Piano + Scrap Heap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "piano+shale": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Shale = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+shield": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Shield = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+silicon": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Silicon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+silicone": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Silicone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+silk": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Silk = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+silver": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Silver = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+slate": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Slate = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+soap": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Soap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+soil": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Soil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+solder": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Solder = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+steel": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Steel = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+suede": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Suede = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+taffeta": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Taffeta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+tar": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Tar = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "piano+taxidermy": {
     "result": "craft-fair",
     "reasoning": "Piano + Taxidermy = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+teflon": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Teflon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "piano+terracotta": {
     "result": "craft-fair",
     "reasoning": "Piano + Terracotta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "piano+thread": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Thread = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+tin": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Tin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+titanium": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Titanium = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+tungsten": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Tungsten = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+tweed": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Tweed = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+varnish": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Varnish = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+velvet": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Velvet = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "piano+vermiculite": {
     "result": "craft-fair",
     "reasoning": "Piano + Vermiculite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "piano+wax": {
-    "result": "craft-fair",
-    "reasoning": "Piano + wax = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pigment+pyramid": {
+    "result": "axe",
+    "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. That's the connection between Pigment and Pyramid — giving us Axe."
   },
-  "piano+wire": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Wire = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pigment+shoe": {
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. That's the connection between Pigment and Shoe — giving us Amber."
   },
-  "piano+wool": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Wool = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+yarn": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Yarn = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "piano+zinc": {
-    "result": "craft-fair",
-    "reasoning": "Piano + Zinc = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pigment+snowboard": {
+    "result": "canoe",
+    "reasoning": "A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. So when Pigment meets Snowboard, Canoe is the natural outcome."
   },
   "plank+well": {
     "result": "boat",
     "reasoning": "plank on Well — a Boat. Humanity's first vehicle."
+  },
+  "plaster+running": {
+    "result": "concrete",
+    "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Plaster + Running = Concrete."
+  },
+  "plaster+ukulele": {
+    "result": "japan",
+    "reasoning": "Wikipedia says: Japan is an island country in East Asia. That explains why Plaster + Ukulele = Japan."
   },
   "platinum+pop-art": {
     "result": "sculpture",
@@ -643,65 +571,73 @@
     "result": "sculpture",
     "reasoning": "Platinum shaped by Watercolor — a Sculpture."
   },
+  "playstation+varnish": {
+    "result": "brand",
+    "reasoning": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. So when PlayStation meets Varnish, Brand is the natural outcome."
+  },
+  "porcelain+pottery": {
+    "result": "bone-china",
+    "reasoning": "The science is clear — Bone china is a type of vitreous, translucent pottery, the raw materials for which include bone ash, feldspathic material and kaolin. Mix Porcelain and Pottery for Bone China."
+  },
+  "porcelain+sculpture": {
+    "result": "alabaster",
+    "reasoning": "Alabaster is a soft rock used for carvings and as a source of plaster powder. That's the connection between Porcelain and Sculpture — giving us Alabaster."
+  },
+  "porcelain+spa": {
+    "result": "alabaster",
+    "reasoning": "Here's a real-world link: Alabaster is a soft rock used for carvings and as a source of plaster powder. Combine Porcelain with Spa and you get Alabaster."
+  },
+  "porcelain+tapestry": {
+    "result": "bone-china",
+    "reasoning": "Porcelain and Tapestry share a deep connection. Bone china is a type of vitreous, translucent pottery, the raw materials for which include bone ash, feldspathic material and kaolin. Result: Bone China."
+  },
+  "porcelain+window": {
+    "result": "alabaster",
+    "reasoning": "Alabaster is a soft rock used for carvings and as a source of plaster powder. That's the connection between Porcelain and Window — giving us Alabaster."
+  },
+  "pottery+terracotta": {
+    "result": "bone-ash",
+    "reasoning": "The link between Pottery and Terracotta? Bankura Horse. The result? Bone Ash."
+  },
   "prison+shield": {
     "result": "armory",
     "reasoning": "A Prison storing Shield — an Armory."
   },
-  "pyramid+quartz": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Quartz = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  "pumice+stadium": {
+    "result": "concrete",
+    "reasoning": "The science is clear — Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Mix Pumice and Stadium for Concrete."
+  },
+  "pumice+swimming": {
+    "result": "coral",
+    "reasoning": "Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. So when Pumice meets Swimming, Coral is the natural outcome."
+  },
+  "puzzle+solder": {
+    "result": "jewelry",
+    "reasoning": "Jewellery consists of decorative items worn for personal adornment such as brooches, rings, necklaces, earrings, pendants, bracelets, and cufflinks. That's the connection between Puzzle and Solder — giving us Jewelry."
+  },
+  "puzzle+wire": {
+    "result": "jewelry",
+    "reasoning": "Here's a real-world link: Jewellery consists of decorative items worn for personal adornment such as brooches, rings, necklaces, earrings, pendants, bracelets, and cufflinks. Combine Puzzle with Wire and you get Jewelry."
   },
   "pyramid+quicklite": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Quicklite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+rattan": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Rattan = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+raw-material": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Raw Material = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+rayon": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Rayon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+rope": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Rope = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+rubber": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Rubber = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+rust": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Rust = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+sail": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Sail = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+    "result": "axe",
+    "reasoning": "The science is clear — An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Mix Pyramid and Rope for Axe."
   },
   "pyramid+sandstone": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Sandstone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+satin": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Satin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+scrap-heap": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Scrap Heap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+shale": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Shale = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+shield": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Shield = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "pyramid+silicon": {
     "result": "craft-fair",
@@ -711,65 +647,17 @@
     "result": "craft-fair",
     "reasoning": "Pyramid + Silicone = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+silk": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Silk = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+silver": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Silver = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+slate": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Slate = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+soap": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Soap = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+soil": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Soil = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+solder": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Solder = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+steel": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Steel = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+suede": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Suede = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+taffeta": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Taffeta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+tar": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Tar = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "pyramid+taxidermy": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Taxidermy = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+teflon": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Teflon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+terracotta": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Terracotta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+thread": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Thread = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+tin": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Tin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "pyramid+titanium": {
     "result": "craft-fair",
@@ -779,49 +667,77 @@
     "result": "craft-fair",
     "reasoning": "Pyramid + Tungsten = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+tweed": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Tweed = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "pyramid+varnish": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Varnish = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+velvet": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Velvet = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
   "pyramid+vermiculite": {
     "result": "craft-fair",
     "reasoning": "Pyramid + Vermiculite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
   },
-  "pyramid+wax": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + wax = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+wire": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Wire = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+wool": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Wool = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+yarn": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Yarn = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
-  "pyramid+zinc": {
-    "result": "craft-fair",
-    "reasoning": "Pyramid + Zinc = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
-  },
   "rock-music+sandstone": {
     "result": "shale",
-    "reasoning": "Combine Sandstone with Rock Music to create Shale."
+    "reasoning": "Did you know? Shale is characterized by its tendency to split into thin layers (laminae) less than one centimeter in thickness. That's why Rock Music + Sandstone = Shale."
+  },
+  "roof+silicon": {
+    "result": "ceramic",
+    "reasoning": "Wikipedia says: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That explains why Roof + Silicon = Ceramic."
+  },
+  "roof+solder": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Roof with Solder and you get Ceramic."
+  },
+  "roof+tar": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Roof and Tar — giving us Bitumen."
+  },
+  "roof+vermiculite": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Roof and Vermiculite — giving us Bitumen."
+  },
+  "rope+shoe": {
+    "result": "arrow",
+    "reasoning": "Wikipedia says: An arrow is a fin-stabilized projectile launched by a bow. That explains why Rope + Shoe = Arrow."
+  },
+  "rope+snowboard": {
+    "result": "canoe",
+    "reasoning": "A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. That's the connection between Rope and Snowboard — giving us Canoe."
+  },
+  "sail+string": {
+    "result": "cotton",
+    "reasoning": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That's the connection between Sail and string — giving us Cotton."
+  },
+  "sail+tent": {
+    "result": "canvas",
+    "reasoning": "The science is clear — It is popularly used by artists as a painting surface, typically stretched across a wooden frame. Mix Sail and Tent for canvas."
+  },
+  "satin+tent": {
+    "result": "canvas",
+    "reasoning": "Here's a real-world link: It is popularly used by artists as a painting surface, typically stretched across a wooden frame. Combine Satin with Tent and you get canvas."
   },
   "science-fiction+soil": {
     "result": "geology",
     "reasoning": "Studying Soil through Science Fiction — Geology."
+  },
+  "shadow+solder": {
+    "result": "gold",
+    "reasoning": "Shadow and Solder share a deep connection. Gold is a chemical element; its chemical symbol is Au and atomic number 79. Result: Gold."
+  },
+  "shadow+wire": {
+    "result": "gold",
+    "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. That's the connection between Shadow and Wire — giving us Gold."
+  },
+  "shale+spa": {
+    "result": "cement",
+    "reasoning": "A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. So when Shale meets Spa, Cement is the natural outcome."
+  },
+  "shower+soap": {
+    "result": "spa",
+    "reasoning": "Shower and Soap share a deep connection. A spa is a location where mineral-rich spring water is used to give medicinal baths. Result: Spa."
+  },
+  "shower+velvet": {
+    "result": "curtain",
+    "reasoning": "A curtain is a piece of cloth or other material intended to block or obscure light, air drafts, or water. So when Shower meets Velvet, Curtain is the natural outcome."
   },
   "silk+watercolor": {
     "result": "tapestry",
@@ -831,10 +747,6 @@
     "result": "skyscraper",
     "reasoning": "Silver gives Temple the strength to reach the sky — Skyscraper."
   },
-  "silver+tower": {
-    "result": "skyscraper",
-    "reasoning": "Silver gives Tower the strength to reach the sky — Skyscraper."
-  },
   "silver+warehouse": {
     "result": "skyscraper",
     "reasoning": "Silver gives Warehouse the strength to reach the sky — Skyscraper."
@@ -842,6 +754,10 @@
   "silver+watercolor": {
     "result": "sculpture",
     "reasoning": "Silver shaped by Watercolor — a Sculpture."
+  },
+  "skateboard+teflon": {
+    "result": "fiberglass",
+    "reasoning": "Skateboard and Teflon share a deep connection. Fiberglass or fibreglass is a common type of fiber-reinforced plastic using glass fiber. Result: Fiberglass."
   },
   "slam-poetry+slate": {
     "result": "craft-fair",
@@ -878,5 +794,89 @@
   "slam-poetry+taxidermy": {
     "result": "craft-fair",
     "reasoning": "Slam Poetry + Taxidermy = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+teflon": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Teflon = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+terracotta": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Terracotta = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+thread": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Thread = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+tin": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Tin = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+titanium": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Titanium = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+tungsten": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Tungsten = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+tweed": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Tweed = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+varnish": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Varnish = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+velvet": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Velvet = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+vermiculite": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Vermiculite = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+wax": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + wax = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+wire": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Wire = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+wool": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Wool = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+yarn": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Yarn = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "slam-poetry+zinc": {
+    "result": "craft-fair",
+    "reasoning": "Slam Poetry + Zinc = a Craft Fair. 'It's artisanal.' Everything is artisanal now."
+  },
+  "snowboard+steel": {
+    "result": "bicycle",
+    "reasoning": "Snowboard and Steel share a deep connection. A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. Result: Bicycle."
+  },
+  "soap+spa": {
+    "result": "shower",
+    "reasoning": "Wikipedia says: A shower is a place in which a person bathes under a spray of typically warm or hot water. That explains why Soap + Spa = Shower."
+  },
+  "sony+varnish": {
+    "result": "brand",
+    "reasoning": "The science is clear — A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Mix Sony and Varnish for Brand."
+  },
+  "sound+wire": {
+    "result": "telephone",
+    "reasoning": "A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly. Combine sound with Wire and you naturally get Telephone."
+  },
+  "steel+watercolor": {
+    "result": "sculpture",
+    "reasoning": "Steel shaped by Watercolor — a Sculpture."
+  },
+  "string+wire": {
+    "result": "fiber",
+    "reasoning": "Fiber is a natural or artificial substance that is significantly longer than it is wide. That's the connection between string and Wire — giving us fiber."
   }
 }

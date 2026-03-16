@@ -1,51 +1,71 @@
 {
   "actor+building": {
     "result": "amphitheater",
-    "reasoning": "Combine Building with Actor to create Amphitheater."
+    "reasoning": "Actor and building together? An amphitheatre is an open-air venue used for entertainment, performances, and sports. The result: Amphitheater."
   },
   "amphitheater+building": {
     "result": "courtyard",
-    "reasoning": "Combine Building with Amphitheater to create Courtyard."
+    "reasoning": "Did you know? A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. That's why Amphitheater + building = Courtyard."
   },
   "apothecary-shop+building": {
     "result": "armory",
-    "reasoning": "Combine Building with Apothecary Shop to create Armory."
+    "reasoning": "Here's the connection: An arsenal is a place where arms and ammunition are made, maintained and repaired, stored, or issued, in any combination, whether privately or publicly owned. So Apothecary Shop + building = Armory."
+  },
+  "aqueduct+furnace": {
+    "result": "agi",
+    "reasoning": "Both Aqueduct and Furnace are rooted in Place Name Disambiguation Pages. Together they make AGI."
   },
   "armory+building": {
     "result": "asylum",
-    "reasoning": "Combine Building with Armory to create Asylum."
+    "reasoning": "An arsenal is a place where arms and ammunition are made, maintained and repaired, stored, or issued, in any combination, whether privately or publicly owned. Combine Armory with building and you naturally get Asylum."
   },
   "army+building": {
     "result": "barracks",
-    "reasoning": "Combine Army with Building to create Barracks."
+    "reasoning": "Barracks are buildings used to accommodate military personnel and quasi-military personnel such as police. That's how Army and building give us Barracks."
   },
   "asylum+building": {
     "result": "gatehouse",
-    "reasoning": "Combine Building with Asylum to create Gatehouse."
+    "reasoning": "A gatehouse is a type of fortified gateway, an entry control point building, enclosing or accompanying a gateway for a town, religious house, castle, manor house, or other fortification building of importance. Combine Asylum with building and you naturally get Gatehouse."
+  },
+  "asylum+furnace": {
+    "result": "bark",
+    "reasoning": "Wikipedia says: Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals That explains why Asylum + Furnace = Bark."
+  },
+  "attic+building": {
+    "result": "bedroom",
+    "reasoning": "Attic and building share a deep connection. A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Result: Bedroom."
   },
   "bakery+building": {
     "result": "monastery",
-    "reasoning": "Combine Building with Bakery to create Monastery."
+    "reasoning": "A monastery is a building or complex of buildings comprising the domestic quarters and workplaces of monastics, monks or nuns, whether living in communities or alone. Combine Bakery with building and you naturally get Monastery."
+  },
+  "bakery+oven": {
+    "result": "bread",
+    "reasoning": "Bakery and Oven share a deep connection. Bread is a baked food product made from water, flour, and often yeast. Result: Bread."
+  },
+  "ballroom+building": {
+    "result": "bedroom",
+    "reasoning": "The science is clear — A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Mix Ballroom and building for Bedroom."
   },
   "barracks+building": {
     "result": "monastery",
-    "reasoning": "Combine Building with Barracks to create Monastery."
+    "reasoning": "Barracks and building together? A monastery is a building or complex of buildings comprising the domestic quarters and workplaces of monastics, monks or nuns, whether living in communities or alone. The result: Monastery."
   },
   "blacksmith-shop+building": {
     "result": "foundry",
-    "reasoning": "Combine Blacksmith Shop with Building to create Foundry."
+    "reasoning": "Blacksmith Shop and building together? A foundry is a factory that produces metal castings. The result: Foundry."
   },
   "brewery+building": {
     "result": "outpost",
-    "reasoning": "Combine Building with Brewery to create Outpost."
+    "reasoning": "Here's the connection: A brewery or brewing company is a business that makes and sells beer. So Brewery + building = Outpost."
   },
   "building+bunker": {
     "result": "outpost",
-    "reasoning": "Combine Building with Bunker to create Outpost."
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Combine building with Bunker and you naturally get Outpost."
   },
   "building+cannery": {
     "result": "gatehouse",
-    "reasoning": "Combine Building with Cannery to create Gatehouse."
+    "reasoning": "building and Cannery together? A gatehouse is a type of fortified gateway, an entry control point building, enclosing or accompanying a gateway for a town, religious house, castle, manor house, or other fortification building of importance. The result: Gatehouse."
   },
   "building+cathedral": {
     "result": "temple",
@@ -53,47 +73,71 @@
   },
   "building+chapel": {
     "result": "granary",
-    "reasoning": "Combine Building with Chapel to create Granary."
+    "reasoning": "A granary, also known as a grain house and historically as a granarium in Latin, is a post-harvest storage building primarily for grains or seeds. That's how building and Chapel give us Granary."
+  },
+  "building+city": {
+    "result": "airport",
+    "reasoning": "The science is clear — An airport is an aerodrome with extended facilities, mostly for commercial air transport. Mix building and city for Airport."
+  },
+  "building+colosseum": {
+    "result": "attic",
+    "reasoning": "An attic is a space found directly below the pitched roof of a house or other building. That's the connection between building and Colosseum — giving us Attic."
   },
   "building+consulate": {
     "result": "granary",
-    "reasoning": "Combine Building with Consulate to create Granary."
+    "reasoning": "Did you know? A granary, also known as a grain house and historically as a granarium in Latin, is a post-harvest storage building primarily for grains or seeds. That's why building + Consulate = Granary."
   },
   "building+courthouse": {
     "result": "granary",
-    "reasoning": "Combine Building with Courthouse to create Granary."
+    "reasoning": "Here's the connection: A granary, also known as a grain house and historically as a granarium in Latin, is a post-harvest storage building primarily for grains or seeds. So building + Courthouse = Granary."
   },
   "building+courtyard": {
     "result": "outpost",
-    "reasoning": "Combine Building with Courtyard to create Outpost."
+    "reasoning": "Here's the connection: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So building + Courtyard = Outpost."
+  },
+  "building+designer": {
+    "result": "architect",
+    "reasoning": "Here's a real-world link: An architect is a person who plans, designs, and oversees the construction of buildings. Combine building with Designer and you get Architect."
   },
   "building+embassy": {
     "result": "palace",
-    "reasoning": "Combine Building with Embassy to create Palace."
+    "reasoning": "Here's the connection: A palace is a large residence, often serving as a royal residence or the home for a head of state or another high-ranking dignitary, such as a bishop or archbishop. So building + Embassy = Palace."
+  },
+  "building+engineer": {
+    "result": "barracks",
+    "reasoning": "Here's a real-world link: Barracks are buildings used to accommodate military personnel and quasi-military personnel such as police. Combine building with Engineer and you get Barracks."
   },
   "building+forge": {
     "result": "blacksmith-shop",
-    "reasoning": "Combine Forge with Building to create Blacksmith Shop."
+    "reasoning": "Did you know? A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. That's why building + Forge = Blacksmith Shop."
   },
   "building+foundry": {
     "result": "sawmill",
-    "reasoning": "Combine Building with Foundry to create Sawmill."
+    "reasoning": "A sawmill or lumber mill is a facility where logs are cut into lumber. That's how building and Foundry give us Sawmill."
   },
   "building+gatehouse": {
     "result": "sawmill",
-    "reasoning": "Combine Building with Gatehouse to create Sawmill."
+    "reasoning": "A sawmill or lumber mill is a facility where logs are cut into lumber. Combine building with Gatehouse and you naturally get Sawmill."
   },
   "building+granary": {
     "result": "shipyard",
-    "reasoning": "Combine Building with Granary to create Shipyard."
+    "reasoning": "A shipyard, also called a dockyard or boatyard, is a place where ships are built and repaired. Combine building with Granary and you naturally get Shipyard."
+  },
+  "building+infrastructure": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why building + Infrastructure = Airport."
   },
   "building+inn": {
     "result": "palace",
-    "reasoning": "Combine Building with Inn to create Palace."
+    "reasoning": "Here's the connection: A palace is a large residence, often serving as a royal residence or the home for a head of state or another high-ranking dignitary, such as a bishop or archbishop. So building + Inn = Palace."
+  },
+  "building+insurance": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why building + Insurance = Airport."
   },
   "building+judge": {
     "result": "courthouse",
-    "reasoning": "Combine Judge with Building to create Courthouse."
+    "reasoning": "building and Judge together? A courthouse or court house is a structure which houses judicial functions for a governmental entity such as a state, region, province, county, prefecture, regency, or similar governmental unit. The result: Courthouse."
   },
   "building+law": {
     "result": "prison",
@@ -101,7 +145,7 @@
   },
   "building+monastery": {
     "result": "treasury",
-    "reasoning": "Combine Building with Monastery to create Treasury."
+    "reasoning": "A treasury is either:a government department related to finance and taxation, a finance ministry; in a business context, corporate treasury\na place or location where treasure, such as currency or precious items are kept. Combine building with Monastery and you naturally get Treasury."
   },
   "building+money": {
     "result": "bank",
@@ -109,27 +153,31 @@
   },
   "building+nation": {
     "result": "embassy",
-    "reasoning": "Combine Nation with Building to create Embassy."
+    "reasoning": "Did you know? A diplomatic mission or foreign mission is a group of people from a state or organization present in another state to represent the sending state or organization officially in the receiving or host state. That's why building + Nation = Embassy."
   },
   "building+outpost": {
     "result": "treasury",
-    "reasoning": "Combine Building with Outpost to create Treasury."
+    "reasoning": "A treasury is either:a government department related to finance and taxation, a finance ministry; in a business context, corporate treasury\na place or location where treasure, such as currency or precious items are kept. That's how building and Outpost give us Treasury."
   },
   "building+palace": {
     "result": "armory",
-    "reasoning": "Combine Building with Palace to create Armory."
+    "reasoning": "An arsenal is a place where arms and ammunition are made, maintained and repaired, stored, or issued, in any combination, whether privately or publicly owned. That's how building and Palace give us Armory."
   },
   "building+parliament": {
     "result": "asylum",
-    "reasoning": "Combine Building with Parliament to create Asylum."
+    "reasoning": "building and Parliament together? A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. The result: Asylum."
   },
   "building+silk-road": {
     "result": "toll-booth",
-    "reasoning": "Combine Silk Road with Building to create Toll Booth."
+    "reasoning": "Did you know? A tollbooth is a place where tolls for road usage are collected on toll roads. That's why building + Silk Road = Toll Booth."
   },
   "building+society": {
     "result": "amphitheater",
-    "reasoning": "Combine Building with Society to create Amphitheater."
+    "reasoning": "Did you know? An amphitheatre is an open-air venue used for entertainment, performances, and sports. That's why building + society = Amphitheater."
+  },
+  "building+stable": {
+    "result": "barn",
+    "reasoning": "A barn is an agricultural building usually on farms and used for various purposes. That's the connection between building and Stable — giving us Barn."
   },
   "building+trade": {
     "result": "market",
@@ -137,15 +185,19 @@
   },
   "building+treasury": {
     "result": "asylum",
-    "reasoning": "Combine Building with Treasury to create Asylum."
+    "reasoning": "Here's the connection: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So building + Treasury = Asylum."
   },
   "building+trojan-horse": {
     "result": "stable",
-    "reasoning": "Combine Trojan Horse with Building to create Stable."
+    "reasoning": "A stable is a building in which working animals are kept, especially horses or oxen. That's how building and Trojan Horse give us Stable."
   },
   "building+war": {
     "result": "arena",
     "reasoning": "A building for combat is an Arena"
+  },
+  "building+workshop": {
+    "result": "bedroom",
+    "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. That's the connection between building and Workshop — giving us Bedroom."
   },
   "chemical-reaction+china": {
     "result": "red-tape",
@@ -159,10 +211,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Citadel = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+city": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + city = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+civilization": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Civilization = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -170,10 +218,6 @@
   "chemical-reaction+clock-tower": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Clock Tower = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+coin": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Coin = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+colony": {
     "result": "red-tape",
@@ -243,14 +287,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Customs = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+czar": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Czar = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+debt": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Debt = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+degree": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Degree = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -283,10 +319,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Drawbridge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+egypt": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Egypt = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+eiffel-tower": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Eiffel Tower = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -307,10 +339,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + europe = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+exam": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Exam = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+farmer": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Farmer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -322,14 +350,6 @@
   "chemical-reaction+feudalism": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Feudalism = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+flag": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Flag = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+forge": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Forge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+foundry": {
     "result": "red-tape",
@@ -383,10 +403,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Great Wall = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+guild": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Guild = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+harbor": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Harbor = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -394,10 +410,6 @@
   "chemical-reaction+homework": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Homework = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+india": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + India = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+industrial-revolution": {
     "result": "red-tape",
@@ -411,10 +423,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Infrastructure = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+inn": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Inn = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+inquisition": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Inquisition = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -427,25 +435,9 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Investment = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+italy": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Italy = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+japan": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Japan = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+journalist": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Journalist = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+judge": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Judge = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+jury": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Jury = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+justice": {
     "result": "red-tape",
@@ -455,18 +447,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Kaiser = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+keep": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Keep = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+korea": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Korea = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+law": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + law = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+lawyer": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Lawyer = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -474,10 +454,6 @@
   "chemical-reaction+legionnaire": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Legionnaire = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+loan": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Loan = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+machu-picchu": {
     "result": "red-tape",
@@ -495,21 +471,9 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Marketing = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+media": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + media = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+mexico": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Mexico = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+mint": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Mint = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+moat": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Moat = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+monarchy": {
     "result": "red-tape",
@@ -518,10 +482,6 @@
   "chemical-reaction+monastery": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Monastery = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+money": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + money = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+mortuary": {
     "result": "red-tape",
@@ -551,10 +511,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Nobel Prize = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+nurse": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Nurse = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+obelisk": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Obelisk = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -566,10 +522,6 @@
   "chemical-reaction+orphanage": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Orphanage = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+oscar": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Oscar = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+ottoman": {
     "result": "red-tape",
@@ -591,10 +543,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Parliament = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+peace": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Peace = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+pest-control": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Pest Control = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -606,14 +554,6 @@
   "chemical-reaction+philosopher": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Philosopher = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+pier": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Pier = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+pilot": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Pilot = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+pirate-captain": {
     "result": "red-tape",
@@ -703,10 +643,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Shogun = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+siege": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Siege = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+silk-road": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Silk Road = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -743,10 +679,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Statue of Liberty = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+stock": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Stock = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+stockade": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Stockade = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -779,10 +711,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Tavern = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+tax": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Tax = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+teacher": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Teacher = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -794,14 +722,6 @@
   "chemical-reaction+toll-booth": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Toll Booth = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+town": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + Town = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+trade": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + trade = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+tradition": {
     "result": "red-tape",
@@ -827,14 +747,6 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + Turret = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chemical-reaction+uk": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + UK = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+usa": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + USA = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
   "chemical-reaction+viking": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Viking = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
@@ -846,14 +758,6 @@
   "chemical-reaction+vineyard": {
     "result": "red-tape",
     "reasoning": "Chemical reaction + Vineyard = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+vote": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + vote = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
-  },
-  "chemical-reaction+war": {
-    "result": "red-tape",
-    "reasoning": "Chemical reaction + War = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
   "chemical-reaction+watchtower": {
     "result": "red-tape",
@@ -875,8 +779,76 @@
     "result": "red-tape",
     "reasoning": "Chemical reaction + World Cup = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
   },
-  "chip+choice": {
+  "chip+industrial-revolution": {
     "result": "red-tape",
-    "reasoning": "chip + choice = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+    "reasoning": "chip + Industrial Revolution = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "cloth+nation": {
+    "result": "flag",
+    "reasoning": "cloth and Nation together shape Flag"
+  },
+  "credit-card+phone": {
+    "result": "sim-card",
+    "reasoning": "Did you know? A SIM card or SIM is a type of integrated circuit, often in the form of a smart card. That's why Credit Card + Phone = SIM Card."
+  },
+  "director+furnace": {
+    "result": "block",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Director meets Furnace to create block."
+  },
+  "doctor+furnace": {
+    "result": "block",
+    "reasoning": "Both Doctor and Furnace are rooted in Disambiguation Pages With Surname Holder Lists. Together they make block."
+  },
+  "farmer+oven": {
+    "result": "baker",
+    "reasoning": "Bakers have used ovens since ancient Egypt to create bread"
+  },
+  "forge+fuel": {
+    "result": "coal",
+    "reasoning": "Here's a real-world link: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Combine Forge with fuel and you get Coal."
+  },
+  "forge+oven": {
+    "result": "blacksmith",
+    "reasoning": "Here's a real-world link: A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Combine Forge with Oven and you get Blacksmith."
+  },
+  "foundry+oven": {
+    "result": "forge",
+    "reasoning": "Foundry and Oven share a deep connection. A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. Result: Forge."
+  },
+  "furnace+great-barrier-reef": {
+    "result": "red-tape",
+    "reasoning": "Furnace + Great Barrier Reef = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "furnace+industrial-revolution": {
+    "result": "red-tape",
+    "reasoning": "Furnace + Industrial Revolution = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "furnace+media": {
+    "result": "corona",
+    "reasoning": "Furnace and media both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "furnace+oscar": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Oscar to create Corona."
+  },
+  "furnace+outpost": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Outpost to create Corona."
+  },
+  "furnace+profit": {
+    "result": "block",
+    "reasoning": "Both Furnace and Profit are rooted in Disambiguation Pages With Surname Holder Lists. Together they make block."
+  },
+  "furnace+pyramids-of-giza": {
+    "result": "red-tape",
+    "reasoning": "Furnace + Pyramids of Giza = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "furnace+statue-of-liberty": {
+    "result": "red-tape",
+    "reasoning": "Furnace + Statue of Liberty = Red Tape. Form 1-A, subsection B, paragraph 3, line 7..."
+  },
+  "oven+village": {
+    "result": "blacksmith",
+    "reasoning": "The science is clear — A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Mix Oven and Village for Blacksmith."
   }
 }

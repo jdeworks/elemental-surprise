@@ -1,39 +1,291 @@
 {
-  "mirror+tundra": {
+  "limestone+mountain": {
+    "result": "cave",
+    "reasoning": "Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. That's the connection between Limestone and mountain — giving us Cave."
+  },
+  "limestone+obsidian": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Limestone meets Obsidian, Basalt is the natural outcome."
+  },
+  "limestone+plateau": {
+    "result": "cave",
+    "reasoning": "Limestone and Plateau share a deep connection. Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. Result: Cave."
+  },
+  "limestone+pressure": {
+    "result": "chalk",
+    "reasoning": "Processing Limestone with Pressure yields Chalk"
+  },
+  "limestone+puddle": {
+    "result": "cement",
+    "reasoning": "Wikipedia says: A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. That explains why Limestone + Puddle = Cement."
+  },
+  "limestone+sand": {
+    "result": "beach",
+    "reasoning": "Here's a real-world link: A beach is a landform alongside a body of water which consists of loose particles. Combine Limestone with Sand and you get Beach."
+  },
+  "limestone+sinkhole": {
+    "result": "cave",
+    "reasoning": "Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. That's the connection between Limestone and Sinkhole — giving us Cave."
+  },
+  "limestone+stalactite": {
+    "result": "cave",
+    "reasoning": "Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. That's the connection between Limestone and Stalactite — giving us Cave."
+  },
+  "limestone+stalagmite": {
+    "result": "cave",
+    "reasoning": "Here's a real-world link: Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. Combine Limestone with Stalagmite and you get Cave."
+  },
+  "limestone+steppe": {
+    "result": "cave",
+    "reasoning": "Wikipedia says: Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. That explains why Limestone + Steppe = Cave."
+  },
+  "limestone+volcano": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. So when Limestone meets Volcano, Beach is the natural outcome."
+  },
+  "limestone+water": {
+    "result": "mortar",
+    "reasoning": "Limestone mixed with water makes Mortar"
+  },
+  "linen+steam": {
+    "result": "clothing",
+    "reasoning": "Steam pressing has been used since Roman times to smooth linen garments, as moisture and heat temporarily break the hydrogen bonds between flax fibers, allowing the fabric to be reshaped into crisp, wrinkle-free clothing."
+  },
+  "magma+mountain": {
+    "result": "lava",
+    "reasoning": "Magma melts mountain into flowing Lava."
+  },
+  "magma+obsidian": {
+    "result": "basalt",
+    "reasoning": "Magma and Obsidian share a deep connection. Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Result: Basalt."
+  },
+  "magma+sand-bar": {
+    "result": "lava",
+    "reasoning": "Magma melts Sand Bar into flowing Lava."
+  },
+  "magma+sand-storm": {
+    "result": "lava",
+    "reasoning": "Magma melts Sand Storm into flowing Lava."
+  },
+  "magma+sea-cave": {
+    "result": "lava",
+    "reasoning": "Magma melts Sea Cave into flowing Lava."
+  },
+  "magma+sea-stack": {
+    "result": "steam",
+    "reasoning": "Magma turns Sea Stack to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+stalagmite": {
+    "result": "basalt",
+    "reasoning": "The science is clear — Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Mix Magma and Stalagmite for Basalt."
+  },
+  "magma+stone": {
+    "result": "granite",
+    "reasoning": "Processing Magma with Stone yields Granite"
+  },
+  "magma+stream": {
+    "result": "steam",
+    "reasoning": "Magma turns stream to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+tide-pool": {
+    "result": "steam",
+    "reasoning": "Magma turns Tide Pool to Steam — the force that powered the Industrial Revolution."
+  },
+  "magma+volcano": {
+    "result": "basalt",
+    "reasoning": "Magma and Volcano share a deep connection. Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Result: Basalt."
+  },
+  "magma+waterfall": {
+    "result": "steam",
+    "reasoning": "Magma turns Waterfall to Steam — the force that powered the Industrial Revolution."
+  },
+  "marble+obsidian": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Marble meets Obsidian, Basalt is the natural outcome."
+  },
+  "marble+pebble": {
+    "result": "alabaster",
+    "reasoning": "The science is clear — Alabaster is a soft rock used for carvings and as a source of plaster powder. Mix Marble and Pebble for Alabaster."
+  },
+  "marble+sand": {
+    "result": "brick",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's the connection between Marble and Sand — giving us Brick."
+  },
+  "marble+volcano": {
+    "result": "basalt",
+    "reasoning": "The science is clear — Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Mix Marble and Volcano for Basalt."
+  },
+  "marsh+permafrost": {
+    "result": "bog",
+    "reasoning": "Wikipedia says: A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. That explains why Marsh + Permafrost = Bog."
+  },
+  "marsh+taxidermy": {
+    "result": "fish",
+    "reasoning": "A fish is an aquatic, anamniotic, gill-bearing vertebrate animal with a tough cranium to protect the brain, but lacking limbs with digits. So when Marsh meets Taxidermy, Fish is the natural outcome."
+  },
+  "mesa+plaster": {
+    "result": "limestone",
+    "reasoning": "Limestone is a type of carbonate sedimentary rock which is the main source of the material lime. So when Mesa meets Plaster, Limestone is the natural outcome."
+  },
+  "mesa+tar": {
+    "result": "limestone",
+    "reasoning": "Here's a real-world link: Limestone is a type of carbonate sedimentary rock which is the main source of the material lime. Combine Mesa with Tar and you get Limestone."
+  },
+  "metal+obsidian": {
+    "result": "brass",
+    "reasoning": "The science is clear — Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. Mix metal and Obsidian for Brass."
+  },
+  "metal+pressure": {
+    "result": "platinum",
+    "reasoning": "Processing metal with Pressure yields Platinum"
+  },
+  "metal+rainforest": {
+    "result": "bauxite",
+    "reasoning": "Bauxite is a sedimentary rock with a relatively high aluminium content. That's the connection between metal and Rainforest — giving us Bauxite."
+  },
+  "metal+steppe": {
+    "result": "building",
+    "reasoning": "metal and Steppe share a deep connection. A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Result: building."
+  },
+  "metal+stone": {
+    "result": "copper",
+    "reasoning": "Processing metal with Stone yields Copper"
+  },
+  "metal+water": {
+    "result": "bucket",
+    "reasoning": "Here's the connection: A bucket is typically a watertight, vertical cylinder or truncated cone or square, with an open top and a flat bottom that is attached to a semicircular carrying handle called the bail. So metal + Water = Bucket."
+  },
+  "metal+weather": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So when metal meets weather, building is the natural outcome."
+  },
+  "mica+mud": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Mica and Mud for Bitumen."
+  },
+  "mineral+pebble": {
+    "result": "boulder",
+    "reasoning": "In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. That's the connection between Mineral and Pebble — giving us Boulder."
+  },
+  "mineral+pressure": {
+    "result": "crystal",
+    "reasoning": "Processing Mineral with Pressure yields Crystal"
+  },
+  "mineral+rain": {
+    "result": "biodiversity",
+    "reasoning": "Mineral and Rain share a deep connection. Biodiversity is the variability of life on Earth. Result: Biodiversity."
+  },
+  "mineral+rainforest": {
+    "result": "bauxite",
+    "reasoning": "Bauxite is a sedimentary rock with a relatively high aluminium content. So when Mineral meets Rainforest, Bauxite is the natural outcome."
+  },
+  "mineral+stone": {
+    "result": "pigment",
+    "reasoning": "Crushing minerals on stone yields Pigment"
+  },
+  "mineral+water": {
+    "result": "plaster",
+    "reasoning": "Gypsum mixed with water makes Plaster"
+  },
+  "mineral+wilderness": {
+    "result": "biodiversity",
+    "reasoning": "Biodiversity is the variability of life on Earth. That's the connection between Mineral and Wilderness — giving us Biodiversity."
+  },
+  "mineral+wildlife": {
+    "result": "biodiversity",
+    "reasoning": "The science is clear — Biodiversity is the variability of life on Earth. Mix Mineral and Wildlife for Biodiversity."
+  },
+  "mirror+mountain": {
     "result": "erosion",
-    "reasoning": "Mirror + Tundra = Erosion. Nature always wins. It just takes a while."
+    "reasoning": "Mirror + mountain = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+mudslide": {
+    "result": "erosion",
+    "reasoning": "Mirror + Mudslide = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+national-park": {
+    "result": "erosion",
+    "reasoning": "Mirror + National Park = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+nature-documentary": {
+    "result": "erosion",
+    "reasoning": "Mirror + Nature Documentary = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+obsidian": {
+    "result": "amber",
+    "reasoning": "The science is clear — Amber is fossilized tree resin. Mix Mirror and Obsidian for Amber."
+  },
+  "mirror+peninsula": {
+    "result": "erosion",
+    "reasoning": "Mirror + Peninsula = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+phytoplankton-bloom": {
+    "result": "erosion",
+    "reasoning": "Mirror + Phytoplankton Bloom = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+quicksand": {
+    "result": "erosion",
+    "reasoning": "Mirror + Quicksand = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rainforest": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rainforest = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+rift-valley": {
+    "result": "erosion",
+    "reasoning": "Mirror + Rift Valley = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+salt-flat": {
+    "result": "erosion",
+    "reasoning": "Mirror + Salt Flat = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sand-storm": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sand Storm = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+scrubland": {
+    "result": "erosion",
+    "reasoning": "Mirror + Scrubland = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+sea-stack": {
+    "result": "erosion",
+    "reasoning": "Mirror + Sea Stack = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stalactite": {
+    "result": "erosion",
+    "reasoning": "Mirror + Stalactite = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+stalagmite": {
+    "result": "erosion",
+    "reasoning": "Mirror + Stalagmite = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thermal-pool": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "Mirror + Thermal Vent = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tide-pool": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tide Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "mirror+tributary": {
+    "result": "erosion",
+    "reasoning": "Mirror + Tributary = Erosion. Nature always wins. It just takes a while."
   },
   "mirror+undergrowth": {
     "result": "erosion",
     "reasoning": "Mirror + Undergrowth = Erosion. Nature always wins. It just takes a while."
   },
-  "mirror+valley": {
-    "result": "erosion",
-    "reasoning": "Mirror + Valley = Erosion. Nature always wins. It just takes a while."
-  },
   "mirror+volcanic-island": {
     "result": "erosion",
     "reasoning": "Mirror + Volcanic Island = Erosion. Nature always wins. It just takes a while."
   },
-  "mirror+volcano": {
-    "result": "erosion",
-    "reasoning": "Mirror + Volcano = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+water": {
-    "result": "erosion",
-    "reasoning": "Mirror + Water = Erosion. Nature always wins. It just takes a while."
-  },
   "mirror+waterfall": {
     "result": "erosion",
     "reasoning": "Mirror + Waterfall = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+weather": {
-    "result": "erosion",
-    "reasoning": "Mirror + weather = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+wetland": {
-    "result": "erosion",
-    "reasoning": "Mirror + Wetland = Erosion. Nature always wins. It just takes a while."
   },
   "mirror+whirlpool": {
     "result": "erosion",
@@ -43,17 +295,85 @@
     "result": "erosion",
     "reasoning": "Mirror + Wilderness = Erosion. Nature always wins. It just takes a while."
   },
-  "mirror+wildfire": {
-    "result": "erosion",
-    "reasoning": "Mirror + Wildfire = Erosion. Nature always wins. It just takes a while."
+  "moraine+permafrost": {
+    "result": "badlands",
+    "reasoning": "The science is clear — Badlands are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. Mix Moraine and Permafrost for Badlands."
   },
-  "mirror+wildlife": {
-    "result": "erosion",
-    "reasoning": "Mirror + Wildlife = Erosion. Nature always wins. It just takes a while."
+  "moraine+pewter": {
+    "result": "gold",
+    "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. So when Moraine meets Pewter, Gold is the natural outcome."
   },
-  "mirror+wind": {
-    "result": "erosion",
-    "reasoning": "Mirror + Wind = Erosion. Nature always wins. It just takes a while."
+  "moraine+solder": {
+    "result": "gold",
+    "reasoning": "Moraine and Solder share a deep connection. Gold is a chemical element; its chemical symbol is Au and atomic number 79. Result: Gold."
+  },
+  "moraine+wire": {
+    "result": "gold",
+    "reasoning": "Here's a real-world link: Gold is a chemical element; its chemical symbol is Au and atomic number 79. Combine Moraine with Wire and you get Gold."
+  },
+  "mountain+permafrost": {
+    "result": "bog",
+    "reasoning": "A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. That's the connection between mountain and Permafrost — giving us Bog."
+  },
+  "mountain+pumice": {
+    "result": "caldera",
+    "reasoning": "The science is clear — A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Mix mountain and Pumice for Caldera."
+  },
+  "mud+plaster": {
+    "result": "concrete",
+    "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Mud + Plaster = Concrete."
+  },
+  "mud+porcelain": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. So when Mud meets Porcelain, Ceramic is the natural outcome."
+  },
+  "mud+pumice": {
+    "result": "concrete",
+    "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Mud + Pumice = Concrete."
+  },
+  "mud+rust": {
+    "result": "concrete",
+    "reasoning": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That's the connection between Mud and Rust — giving us Concrete."
+  },
+  "mud+silicon": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Mud and Silicon — giving us Ceramic."
+  },
+  "mud+soil": {
+    "result": "compost",
+    "reasoning": "Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. That's the connection between Mud and Soil — giving us Compost."
+  },
+  "mud+solder": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Mud with Solder and you get Ceramic."
+  },
+  "mud+tar": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Mud with Tar and you get Bitumen."
+  },
+  "mud+terracotta": {
+    "result": "ceramic",
+    "reasoning": "The science is clear — A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Mix Mud and Terracotta for Ceramic."
+  },
+  "mud+vermiculite": {
+    "result": "concrete",
+    "reasoning": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That's the connection between Mud and Vermiculite — giving us Concrete."
+  },
+  "mudflat+permafrost": {
+    "result": "bog",
+    "reasoning": "The science is clear — A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. Mix Mudflat and Permafrost for Bog."
+  },
+  "mudflat+sandstone": {
+    "result": "beach",
+    "reasoning": "Mudflat and Sandstone share a deep connection. A beach is a landform alongside a body of water which consists of loose particles. Result: Beach."
+  },
+  "muskeg+permafrost": {
+    "result": "bog",
+    "reasoning": "The science is clear — A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. Mix Muskeg and Permafrost for Bog."
+  },
+  "nacre+obsidian": {
+    "result": "brass",
+    "reasoning": "Here's a real-world link: Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. Combine Nacre with Obsidian and you get Brass."
   },
   "natural-gas+nature-documentary": {
     "result": "erosion",
@@ -97,7 +417,7 @@
   },
   "natural-gas+pressure": {
     "result": "ideal-gas-law",
-    "reasoning": "Combine Natural Gas with Pressure to create Ideal Gas Law."
+    "reasoning": "Did you know? The ideal gas law, also called the general gas equation, is the equation of state of a hypothetical ideal gas. That's why Natural Gas + Pressure = Ideal Gas Law."
   },
   "natural-gas+puddle": {
     "result": "erosion",
@@ -281,7 +601,7 @@
   },
   "natural-gas+volcano": {
     "result": "fumarole",
-    "reasoning": "Combine Volcano with Natural Gas to create Fumarole."
+    "reasoning": "A fumarole is a vent through the surface of Earth or another terrestrial planet from which hot volcanic gases and vapors are emitted, without any accompanying liquids or solids. That's how Natural Gas and Volcano give us Fumarole."
   },
   "natural-gas+water": {
     "result": "erosion",
@@ -319,6 +639,58 @@
     "result": "erosion",
     "reasoning": "Natural Gas + Wind = Erosion. Nature always wins. It just takes a while."
   },
+  "nickel+obsidian": {
+    "result": "bronze",
+    "reasoning": "The science is clear — Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. Mix Nickel and Obsidian for Bronze."
+  },
+  "nickel+smoke": {
+    "result": "carbon",
+    "reasoning": "Nickel and Smoke share a deep connection. Carbon is a chemical element; it has symbol C and atomic number 6. Result: Carbon."
+  },
+  "nickel+snow": {
+    "result": "canada",
+    "reasoning": "Canada is a country in North America. That's the connection between Nickel and Snow — giving us Canada."
+  },
+  "obsidian+pewter": {
+    "result": "brass",
+    "reasoning": "Here's a real-world link: Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. Combine Obsidian with Pewter and you get Brass."
+  },
+  "obsidian+platinum": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Obsidian meets Platinum, Brass is the natural outcome."
+  },
+  "obsidian+pumice": {
+    "result": "caldera",
+    "reasoning": "The science is clear — A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Mix Obsidian and Pumice for Caldera."
+  },
+  "obsidian+sandstone": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Obsidian meets Sandstone, Basalt is the natural outcome."
+  },
+  "obsidian+shale": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Obsidian and Shale — giving us Basalt."
+  },
+  "obsidian+silver": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. So when Obsidian meets Silver, Alloy is the natural outcome."
+  },
+  "obsidian+slate": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Obsidian + Slate = Basalt."
+  },
+  "obsidian+titanium": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Obsidian + Titanium = Alloy."
+  },
+  "obsidian+tungsten": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Obsidian + Tungsten = Alloy."
+  },
+  "obsidian+wire": {
+    "result": "bronze",
+    "reasoning": "Wikipedia says: Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. That explains why Obsidian + Wire = Bronze."
+  },
   "ocean+platinum": {
     "result": "rust",
     "reasoning": "ocean oxidizes Platinum — the slow destruction of Rust."
@@ -335,10 +707,6 @@
     "result": "rust",
     "reasoning": "ocean oxidizes Steel — the slow destruction of Rust."
   },
-  "ocean+tin": {
-    "result": "rust",
-    "reasoning": "ocean oxidizes Tin — the slow destruction of Rust."
-  },
   "ocean+titanium": {
     "result": "rust",
     "reasoning": "ocean oxidizes Titanium — the slow destruction of Rust."
@@ -347,9 +715,13 @@
     "result": "rust",
     "reasoning": "ocean oxidizes Tungsten — the slow destruction of Rust."
   },
-  "ocean+zinc": {
-    "result": "rust",
-    "reasoning": "ocean oxidizes Zinc — the slow destruction of Rust."
+  "oil+smoke": {
+    "result": "combustion",
+    "reasoning": "Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That's the connection between Oil and Smoke — giving us Combustion."
+  },
+  "oil+steam": {
+    "result": "hydrogen",
+    "reasoning": "Oil and Steam share a deep connection. Hydrogen is a chemical element; it has the symbol H and atomic number 1. Result: Hydrogen."
   },
   "oil+water": {
     "result": "membrane",
@@ -357,19 +729,55 @@
   },
   "paint+water": {
     "result": "watercolor",
-    "reasoning": "Combine Paint with Water to create Watercolor."
+    "reasoning": "Here's the connection: Watercolor or watercolour, also aquarelle, is a painting method in which the paints are made of pigments suspended in a water-based solution. So Paint + Water = Watercolor."
   },
   "paper+wind": {
     "result": "kite",
     "reasoning": "Paper and Wind create Kite"
   },
+  "peat+permafrost": {
+    "result": "bog",
+    "reasoning": "A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. That's the connection between Peat and Permafrost — giving us Bog."
+  },
+  "peat+rattan": {
+    "result": "coconut",
+    "reasoning": "Wikipedia says: The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. That explains why Peat + Rattan = Coconut."
+  },
+  "peat+vermiculite": {
+    "result": "compost",
+    "reasoning": "The science is clear — Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. Mix Peat and Vermiculite for Compost."
+  },
+  "pebble+sandstone": {
+    "result": "boulder",
+    "reasoning": "Pebble and Sandstone share a deep connection. In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Result: Boulder."
+  },
+  "pebble+slate": {
+    "result": "boulder",
+    "reasoning": "In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. That's the connection between Pebble and Slate — giving us Boulder."
+  },
+  "pebble+soil": {
+    "result": "boulder",
+    "reasoning": "Pebble and Soil share a deep connection. In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Result: Boulder."
+  },
+  "permafrost+prairie": {
+    "result": "biome",
+    "reasoning": "Permafrost and Prairie share a deep connection. A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. Result: Biome."
+  },
   "permafrost+rain": {
     "result": "ice",
     "reasoning": "Permafrost freezes Rain into Ice — water's solid form."
   },
+  "permafrost+ridge": {
+    "result": "glacier",
+    "reasoning": "Here's a real-world link: A glacier is a persistent body of natural ice, a form of\nrock, that is constantly moving under its own weight. Combine Permafrost with Ridge and you get Glacier."
+  },
   "permafrost+river": {
     "result": "ice",
     "reasoning": "Permafrost freezes River into Ice — water's solid form."
+  },
+  "permafrost+savanna": {
+    "result": "biome",
+    "reasoning": "The science is clear — A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. Mix Permafrost and Savanna for Biome."
   },
   "permafrost+sea-cave": {
     "result": "ice",
@@ -379,6 +787,10 @@
     "result": "ice",
     "reasoning": "Permafrost freezes Sea Stack into Ice — water's solid form."
   },
+  "permafrost+steppe": {
+    "result": "biome",
+    "reasoning": "Here's a real-world link: A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. Combine Permafrost with Steppe and you get Biome."
+  },
   "permafrost+stream": {
     "result": "ice",
     "reasoning": "Permafrost freezes stream into Ice — water's solid form."
@@ -386,6 +798,10 @@
   "permafrost+swamp": {
     "result": "ice",
     "reasoning": "Permafrost freezes Swamp into Ice — water's solid form."
+  },
+  "permafrost+taiga": {
+    "result": "bog",
+    "reasoning": "Here's a real-world link: A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. Combine Permafrost with Taiga and you get Bog."
   },
   "permafrost+tide": {
     "result": "ice",
@@ -402,6 +818,34 @@
   "permafrost+waterfall": {
     "result": "ice",
     "reasoning": "Permafrost freezes Waterfall into Ice — water's solid form."
+  },
+  "permafrost+weather": {
+    "result": "biome",
+    "reasoning": "The science is clear — A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. Mix Permafrost and weather for Biome."
+  },
+  "permafrost+wetland": {
+    "result": "biome",
+    "reasoning": "Here's a real-world link: A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. Combine Permafrost with Wetland and you get Biome."
+  },
+  "pewter+rain": {
+    "result": "oxidation",
+    "reasoning": "Although pewter's high tin content makes it corrosion-resistant, prolonged exposure to acidic rainfall triggers surface oxidation that creates the grey-blue patina prized by collectors of colonial-era pewter tableware."
+  },
+  "pewter+wildlife": {
+    "result": "coral",
+    "reasoning": "Pewter and Wildlife share a deep connection. Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Result: Coral."
+  },
+  "pewter+wind": {
+    "result": "oxidation",
+    "reasoning": "Wind accelerates oxidation of tin-based alloys like pewter, causing the characteristic dull gray patina that ancient pewter objects develop over centuries."
+  },
+  "pigment+puddle": {
+    "result": "butterfly",
+    "reasoning": "Wikipedia says: Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. That explains why Pigment + Puddle = Butterfly."
+  },
+  "pigment+rainforest": {
+    "result": "butterfly",
+    "reasoning": "Wikipedia says: Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. That explains why Pigment + Rainforest = Butterfly."
   },
   "plank+rain": {
     "result": "boat",
@@ -434,449 +878,5 @@
   "plank+tide-pool": {
     "result": "boat",
     "reasoning": "plank on Tide Pool — a Boat. Humanity's first vehicle."
-  },
-  "plank+water": {
-    "result": "boat",
-    "reasoning": "Crafting plank with Water produces Boat"
-  },
-  "plank+waterfall": {
-    "result": "boat",
-    "reasoning": "plank on Waterfall — a Boat. Humanity's first vehicle."
-  },
-  "rain+silver": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Silver — the slow destruction of Rust."
-  },
-  "rain+soil": {
-    "result": "mud",
-    "reasoning": "Rain + Soil = Mud — simple, squishy, essential."
-  },
-  "rain+steel": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Steel — the slow destruction of Rust."
-  },
-  "rain+tin": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Tin — the slow destruction of Rust."
-  },
-  "rain+titanium": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Titanium — the slow destruction of Rust."
-  },
-  "rain+tungsten": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Tungsten — the slow destruction of Rust."
-  },
-  "rain+zinc": {
-    "result": "rust",
-    "reasoning": "Rain oxidizes Zinc — the slow destruction of Rust."
-  },
-  "river+silver": {
-    "result": "rust",
-    "reasoning": "River oxidizes Silver — the slow destruction of Rust."
-  },
-  "river+soil": {
-    "result": "mud",
-    "reasoning": "River + Soil = Mud — simple, squishy, essential."
-  },
-  "river+steel": {
-    "result": "rust",
-    "reasoning": "River oxidizes Steel — the slow destruction of Rust."
-  },
-  "river+tin": {
-    "result": "rust",
-    "reasoning": "River oxidizes Tin — the slow destruction of Rust."
-  },
-  "river+titanium": {
-    "result": "rust",
-    "reasoning": "River oxidizes Titanium — the slow destruction of Rust."
-  },
-  "river+tungsten": {
-    "result": "rust",
-    "reasoning": "River oxidizes Tungsten — the slow destruction of Rust."
-  },
-  "river+zinc": {
-    "result": "rust",
-    "reasoning": "River oxidizes Zinc — the slow destruction of Rust."
-  },
-  "sail+salt-flat": {
-    "result": "erosion",
-    "reasoning": "Sail + Salt Flat = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sand": {
-    "result": "erosion",
-    "reasoning": "Sail + Sand = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sand-bar": {
-    "result": "erosion",
-    "reasoning": "Sail + Sand Bar = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sand-storm": {
-    "result": "erosion",
-    "reasoning": "Sail + Sand Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+savanna": {
-    "result": "erosion",
-    "reasoning": "Sail + Savanna = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+scrubland": {
-    "result": "erosion",
-    "reasoning": "Sail + Scrubland = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sea-cave": {
-    "result": "erosion",
-    "reasoning": "Sail + Sea Cave = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sea-stack": {
-    "result": "erosion",
-    "reasoning": "Sail + Sea Stack = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+sinkhole": {
-    "result": "erosion",
-    "reasoning": "Sail + Sinkhole = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+smoke": {
-    "result": "erosion",
-    "reasoning": "Sail + Smoke = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+snow": {
-    "result": "erosion",
-    "reasoning": "Sail + Snow = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+stalactite": {
-    "result": "erosion",
-    "reasoning": "Sail + Stalactite = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+stalagmite": {
-    "result": "erosion",
-    "reasoning": "Sail + Stalagmite = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+steam": {
-    "result": "erosion",
-    "reasoning": "Sail + Steam = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+steppe": {
-    "result": "erosion",
-    "reasoning": "Sail + Steppe = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+stone": {
-    "result": "erosion",
-    "reasoning": "Sail + Stone = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+storm": {
-    "result": "erosion",
-    "reasoning": "Sail + Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+strait": {
-    "result": "erosion",
-    "reasoning": "Sail + Strait = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+stream": {
-    "result": "erosion",
-    "reasoning": "Sail + stream = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+swamp": {
-    "result": "erosion",
-    "reasoning": "Sail + Swamp = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+taiga": {
-    "result": "erosion",
-    "reasoning": "Sail + Taiga = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+thermal-pool": {
-    "result": "erosion",
-    "reasoning": "Sail + Thermal Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+thermal-vent": {
-    "result": "erosion",
-    "reasoning": "Sail + Thermal Vent = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+thicket": {
-    "result": "erosion",
-    "reasoning": "Sail + Thicket = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+thunder": {
-    "result": "erosion",
-    "reasoning": "Sail + Thunder = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tide": {
-    "result": "erosion",
-    "reasoning": "Sail + Tide = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tide-pool": {
-    "result": "erosion",
-    "reasoning": "Sail + Tide Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tornado": {
-    "result": "erosion",
-    "reasoning": "Sail + Tornado = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tributary": {
-    "result": "erosion",
-    "reasoning": "Sail + Tributary = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tsunami": {
-    "result": "erosion",
-    "reasoning": "Sail + Tsunami = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+tundra": {
-    "result": "erosion",
-    "reasoning": "Sail + Tundra = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+undergrowth": {
-    "result": "erosion",
-    "reasoning": "Sail + Undergrowth = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+valley": {
-    "result": "erosion",
-    "reasoning": "Sail + Valley = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+volcanic-island": {
-    "result": "erosion",
-    "reasoning": "Sail + Volcanic Island = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+volcano": {
-    "result": "erosion",
-    "reasoning": "Sail + Volcano = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+water": {
-    "result": "erosion",
-    "reasoning": "Sail + Water = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+waterfall": {
-    "result": "erosion",
-    "reasoning": "Sail + Waterfall = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+weather": {
-    "result": "erosion",
-    "reasoning": "Sail + weather = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+wetland": {
-    "result": "erosion",
-    "reasoning": "Sail + Wetland = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+whirlpool": {
-    "result": "erosion",
-    "reasoning": "Sail + Whirlpool = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+wilderness": {
-    "result": "erosion",
-    "reasoning": "Sail + Wilderness = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+wildfire": {
-    "result": "erosion",
-    "reasoning": "Sail + Wildfire = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+wildlife": {
-    "result": "erosion",
-    "reasoning": "Sail + Wildlife = Erosion. Nature always wins. It just takes a while."
-  },
-  "sail+wind": {
-    "result": "erosion",
-    "reasoning": "Sail + Wind = Erosion. Nature always wins. It just takes a while."
-  },
-  "sea-cave+soil": {
-    "result": "mud",
-    "reasoning": "Sea Cave + Soil = Mud — simple, squishy, essential."
-  },
-  "sea-stack+silver": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Silver — the slow destruction of Rust."
-  },
-  "sea-stack+soil": {
-    "result": "mud",
-    "reasoning": "Sea Stack + Soil = Mud — simple, squishy, essential."
-  },
-  "sea-stack+steel": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Steel — the slow destruction of Rust."
-  },
-  "sea-stack+tin": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Tin — the slow destruction of Rust."
-  },
-  "sea-stack+titanium": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Titanium — the slow destruction of Rust."
-  },
-  "sea-stack+tungsten": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Tungsten — the slow destruction of Rust."
-  },
-  "sea-stack+zinc": {
-    "result": "rust",
-    "reasoning": "Sea Stack oxidizes Zinc — the slow destruction of Rust."
-  },
-  "solder+stalactite": {
-    "result": "erosion",
-    "reasoning": "Solder + Stalactite = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+stalagmite": {
-    "result": "erosion",
-    "reasoning": "Solder + Stalagmite = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+steam": {
-    "result": "erosion",
-    "reasoning": "Solder + Steam = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+steppe": {
-    "result": "erosion",
-    "reasoning": "Solder + Steppe = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+stone": {
-    "result": "erosion",
-    "reasoning": "Solder + Stone = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+storm": {
-    "result": "erosion",
-    "reasoning": "Solder + Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+strait": {
-    "result": "erosion",
-    "reasoning": "Solder + Strait = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+stream": {
-    "result": "erosion",
-    "reasoning": "Solder + stream = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+swamp": {
-    "result": "erosion",
-    "reasoning": "Solder + Swamp = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+taiga": {
-    "result": "erosion",
-    "reasoning": "Solder + Taiga = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+thermal-pool": {
-    "result": "erosion",
-    "reasoning": "Solder + Thermal Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+thermal-vent": {
-    "result": "erosion",
-    "reasoning": "Solder + Thermal Vent = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+thicket": {
-    "result": "erosion",
-    "reasoning": "Solder + Thicket = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+thunder": {
-    "result": "erosion",
-    "reasoning": "Solder + Thunder = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tide": {
-    "result": "erosion",
-    "reasoning": "Solder + Tide = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tide-pool": {
-    "result": "erosion",
-    "reasoning": "Solder + Tide Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tornado": {
-    "result": "erosion",
-    "reasoning": "Solder + Tornado = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tributary": {
-    "result": "erosion",
-    "reasoning": "Solder + Tributary = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tsunami": {
-    "result": "erosion",
-    "reasoning": "Solder + Tsunami = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+tundra": {
-    "result": "erosion",
-    "reasoning": "Solder + Tundra = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+undergrowth": {
-    "result": "erosion",
-    "reasoning": "Solder + Undergrowth = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+valley": {
-    "result": "erosion",
-    "reasoning": "Solder + Valley = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+volcanic-island": {
-    "result": "erosion",
-    "reasoning": "Solder + Volcanic Island = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+volcano": {
-    "result": "erosion",
-    "reasoning": "Solder + Volcano = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+water": {
-    "result": "erosion",
-    "reasoning": "Solder + Water = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+waterfall": {
-    "result": "erosion",
-    "reasoning": "Solder + Waterfall = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+weather": {
-    "result": "erosion",
-    "reasoning": "Solder + weather = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+wetland": {
-    "result": "erosion",
-    "reasoning": "Solder + Wetland = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+whirlpool": {
-    "result": "erosion",
-    "reasoning": "Solder + Whirlpool = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+wilderness": {
-    "result": "erosion",
-    "reasoning": "Solder + Wilderness = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+wildfire": {
-    "result": "erosion",
-    "reasoning": "Solder + Wildfire = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+wildlife": {
-    "result": "erosion",
-    "reasoning": "Solder + Wildlife = Erosion. Nature always wins. It just takes a while."
-  },
-  "solder+wind": {
-    "result": "erosion",
-    "reasoning": "Solder + Wind = Erosion. Nature always wins. It just takes a while."
-  },
-  "stream+tin": {
-    "result": "rust",
-    "reasoning": "stream oxidizes Tin — the slow destruction of Rust."
-  },
-  "stream+titanium": {
-    "result": "rust",
-    "reasoning": "stream oxidizes Titanium — the slow destruction of Rust."
-  },
-  "stream+zinc": {
-    "result": "rust",
-    "reasoning": "stream oxidizes Zinc — the slow destruction of Rust."
-  },
-  "suede+swamp": {
-    "result": "erosion",
-    "reasoning": "Suede + Swamp = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+taiga": {
-    "result": "erosion",
-    "reasoning": "Suede + Taiga = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+thermal-pool": {
-    "result": "erosion",
-    "reasoning": "Suede + Thermal Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+thermal-vent": {
-    "result": "erosion",
-    "reasoning": "Suede + Thermal Vent = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+thicket": {
-    "result": "erosion",
-    "reasoning": "Suede + Thicket = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+thunder": {
-    "result": "erosion",
-    "reasoning": "Suede + Thunder = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+tide": {
-    "result": "erosion",
-    "reasoning": "Suede + Tide = Erosion. Nature always wins. It just takes a while."
   }
 }

@@ -1,7 +1,15 @@
 {
+  "abacus+herb": {
+    "result": "apothecary",
+    "reasoning": "Abacus and Herb share a deep connection. Apothecary is an archaic English term for a medical professional who formulates and dispenses materia medicacode: lat promoted to code: la  ('medicine') to physicians, surgeons and patients. Result: Apothecary."
+  },
   "arrow+wood": {
     "result": "spear",
     "reasoning": "Crafting Arrow with wood produces Spear"
+  },
+  "astrobiology+binoculars": {
+    "result": "astronomer",
+    "reasoning": "Here's a real-world link: An astronomer is a scientist in the field of astronomy who focuses on a specific question or field outside the scope of Earth. Combine Astrobiology with Binoculars and you get Astronomer."
   },
   "axe+tree": {
     "result": "wood",
@@ -11,25 +19,9 @@
     "result": "wheel",
     "reasoning": "Crafting Axe with wood produces Wheel"
   },
-  "axon+backpack": {
-    "result": "dissection",
-    "reasoning": "Axon + Backpack = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bag": {
-    "result": "dissection",
-    "reasoning": "Axon + bag = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+battering-ram": {
     "result": "dissection",
     "reasoning": "Axon + Battering Ram = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bellows": {
-    "result": "dissection",
-    "reasoning": "Axon + Bellows = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bicycle": {
-    "result": "dissection",
-    "reasoning": "Axon + Bicycle = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+binoculars": {
     "result": "dissection",
@@ -39,313 +31,69 @@
     "result": "dissection",
     "reasoning": "Axon + Block and Tackle = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+boat": {
-    "result": "dissection",
-    "reasoning": "Axon + Boat = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bolt": {
-    "result": "dissection",
-    "reasoning": "Axon + Bolt = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bow": {
-    "result": "dissection",
-    "reasoning": "Axon + Bow = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+brace": {
-    "result": "dissection",
-    "reasoning": "Axon + Brace = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+brazier": {
-    "result": "dissection",
-    "reasoning": "Axon + Brazier = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+broom": {
-    "result": "dissection",
-    "reasoning": "Axon + Broom = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bucket": {
-    "result": "dissection",
-    "reasoning": "Axon + Bucket = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+bus": {
-    "result": "dissection",
-    "reasoning": "Axon + Bus = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+caliper": {
-    "result": "dissection",
-    "reasoning": "Axon + Caliper = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+canoe": {
-    "result": "dissection",
-    "reasoning": "Axon + Canoe = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+canteen": {
-    "result": "dissection",
-    "reasoning": "Axon + Canteen = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+car": {
-    "result": "dissection",
-    "reasoning": "Axon + Car = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+carabiner": {
     "result": "dissection",
     "reasoning": "Axon + Carabiner = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+carriage": {
-    "result": "dissection",
-    "reasoning": "Axon + Carriage = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+cart": {
-    "result": "dissection",
-    "reasoning": "Axon + Cart = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+carving": {
-    "result": "dissection",
-    "reasoning": "Axon + Carving = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+catapult": {
-    "result": "dissection",
-    "reasoning": "Axon + Catapult = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+chainmail": {
     "result": "dissection",
     "reasoning": "Axon + Chainmail = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+chariot": {
-    "result": "dissection",
-    "reasoning": "Axon + Chariot = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+chisel": {
-    "result": "dissection",
-    "reasoning": "Axon + Chisel = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+clamp": {
-    "result": "dissection",
-    "reasoning": "Axon + Clamp = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+crossbow": {
-    "result": "dissection",
-    "reasoning": "Axon + Crossbow = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+crowbar": {
-    "result": "dissection",
-    "reasoning": "Axon + Crowbar = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+crucible": {
-    "result": "dissection",
-    "reasoning": "Axon + Crucible = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+cylinder": {
-    "result": "dissection",
-    "reasoning": "Axon + cylinder = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+dagger": {
-    "result": "dissection",
-    "reasoning": "Axon + Dagger = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+drawknife": {
     "result": "dissection",
     "reasoning": "Axon + Drawknife = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+drill": {
-    "result": "dissection",
-    "reasoning": "Axon + Drill = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+dyeing": {
-    "result": "dissection",
-    "reasoning": "Axon + Dyeing = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+dynamometer": {
     "result": "dissection",
     "reasoning": "Axon + Dynamometer = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+engine": {
-    "result": "dissection",
-    "reasoning": "Axon + Engine = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+eraser": {
-    "result": "dissection",
-    "reasoning": "Axon + Eraser = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+forge-bellows": {
     "result": "dissection",
     "reasoning": "Axon + Forge Bellows = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+forging": {
-    "result": "dissection",
-    "reasoning": "Axon + Forging = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+funnel": {
-    "result": "dissection",
-    "reasoning": "Axon + Funnel = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+garden-shed": {
     "result": "dissection",
     "reasoning": "Axon + Garden Shed = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+gear": {
-    "result": "dissection",
-    "reasoning": "Axon + Gear = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+gears": {
-    "result": "dissection",
-    "reasoning": "Axon + Gears = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+generator": {
     "result": "dissection",
     "reasoning": "Axon + Generator = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+gimbal": {
-    "result": "dissection",
-    "reasoning": "Axon + Gimbal = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+gondola": {
-    "result": "dissection",
-    "reasoning": "Axon + Gondola = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+grappling-hook": {
     "result": "dissection",
     "reasoning": "Axon + Grappling Hook = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+grinder": {
-    "result": "dissection",
-    "reasoning": "Axon + Grinder = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+grinding": {
-    "result": "dissection",
-    "reasoning": "Axon + Grinding = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+gun": {
-    "result": "dissection",
-    "reasoning": "Axon + gun = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+hammer": {
-    "result": "dissection",
-    "reasoning": "Axon + Hammer = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+hand-saw": {
-    "result": "dissection",
-    "reasoning": "Axon + Hand Saw = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+helicopter": {
     "result": "dissection",
     "reasoning": "Axon + Helicopter = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+helmet": {
-    "result": "dissection",
-    "reasoning": "Axon + Helmet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+highway": {
-    "result": "dissection",
-    "reasoning": "Axon + Highway = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+hoe": {
-    "result": "dissection",
-    "reasoning": "Axon + Hoe = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+hook": {
-    "result": "dissection",
-    "reasoning": "Axon + Hook = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+hot-air-balloon": {
     "result": "dissection",
     "reasoning": "Axon + Hot Air Balloon = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+hunting": {
-    "result": "dissection",
-    "reasoning": "Axon + Hunting = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+invention": {
     "result": "dissection",
     "reasoning": "Axon + invention = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+jack": {
-    "result": "dissection",
-    "reasoning": "Axon + Jack = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+junk-drawer": {
     "result": "dissection",
     "reasoning": "Axon + Junk Drawer = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+kettle": {
-    "result": "dissection",
-    "reasoning": "Axon + Kettle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+key": {
-    "result": "dissection",
-    "reasoning": "Axon + key = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+kitchen-gadget": {
     "result": "dissection",
     "reasoning": "Axon + Kitchen Gadget = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+knife": {
-    "result": "dissection",
-    "reasoning": "Axon + Knife = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+knitting": {
-    "result": "dissection",
-    "reasoning": "Axon + Knitting = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+ladle": {
-    "result": "dissection",
-    "reasoning": "Axon + Ladle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+lantern": {
-    "result": "dissection",
-    "reasoning": "Axon + Lantern = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+level": {
-    "result": "dissection",
-    "reasoning": "Axon + Level = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+lever": {
-    "result": "dissection",
-    "reasoning": "Axon + Lever = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+lock": {
-    "result": "dissection",
-    "reasoning": "Axon + Lock = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+loom": {
-    "result": "dissection",
-    "reasoning": "Axon + Loom = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+mace": {
-    "result": "dissection",
-    "reasoning": "Axon + Mace = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+machine": {
-    "result": "dissection",
-    "reasoning": "Axon + machine = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+magnifying-glass": {
     "result": "dissection",
     "reasoning": "Axon + Magnifying Glass = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+mallet": {
-    "result": "dissection",
-    "reasoning": "Axon + Mallet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+manacle": {
-    "result": "dissection",
-    "reasoning": "Axon + Manacle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+mechanical": {
     "result": "dissection",
     "reasoning": "Axon + Mechanical = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+mining": {
-    "result": "dissection",
-    "reasoning": "Axon + Mining = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+mortar-and-pestle": {
     "result": "dissection",
     "reasoning": "Axon + Mortar and Pestle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+motor": {
-    "result": "dissection",
-    "reasoning": "Axon + Motor = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+motorcycle": {
     "result": "dissection",
@@ -354,54 +102,6 @@
   "axon+mousetrap": {
     "result": "dissection",
     "reasoning": "Axon + Mousetrap = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+needle": {
-    "result": "dissection",
-    "reasoning": "Axon + Needle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+notebook": {
-    "result": "dissection",
-    "reasoning": "Axon + Notebook = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+oar": {
-    "result": "dissection",
-    "reasoning": "Axon + Oar = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+padlock": {
-    "result": "dissection",
-    "reasoning": "Axon + Padlock = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pen": {
-    "result": "dissection",
-    "reasoning": "Axon + Pen = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pencil": {
-    "result": "dissection",
-    "reasoning": "Axon + Pencil = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pestle": {
-    "result": "dissection",
-    "reasoning": "Axon + Pestle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pick": {
-    "result": "dissection",
-    "reasoning": "Axon + Pick = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+piston": {
-    "result": "dissection",
-    "reasoning": "Axon + Piston = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+plane": {
-    "result": "dissection",
-    "reasoning": "Axon + Plane = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pliers": {
-    "result": "dissection",
-    "reasoning": "Axon + Pliers = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+plough": {
-    "result": "dissection",
-    "reasoning": "Axon + Plough = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+plumb-bob": {
     "result": "dissection",
@@ -415,121 +115,13 @@
     "result": "dissection",
     "reasoning": "Axon + Protractor = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+pulley": {
-    "result": "dissection",
-    "reasoning": "Axon + Pulley = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+pump": {
-    "result": "dissection",
-    "reasoning": "Axon + Pump = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+purse": {
-    "result": "dissection",
-    "reasoning": "Axon + Purse = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+quill": {
-    "result": "dissection",
-    "reasoning": "Axon + Quill = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+quiver": {
-    "result": "dissection",
-    "reasoning": "Axon + Quiver = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+raft": {
-    "result": "dissection",
-    "reasoning": "Axon + Raft = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+railway": {
-    "result": "dissection",
-    "reasoning": "Axon + Railway = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+rake": {
-    "result": "dissection",
-    "reasoning": "Axon + Rake = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+ratchet": {
-    "result": "dissection",
-    "reasoning": "Axon + Ratchet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+rivet": {
-    "result": "dissection",
-    "reasoning": "Axon + Rivet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+road": {
-    "result": "dissection",
-    "reasoning": "Axon + Road = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+rocket": {
-    "result": "dissection",
-    "reasoning": "Axon + Rocket = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+ruler": {
-    "result": "dissection",
-    "reasoning": "Axon + Ruler = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sailboat": {
-    "result": "dissection",
-    "reasoning": "Axon + Sailboat = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+satellite": {
     "result": "dissection",
     "reasoning": "Axon + Satellite = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+saw": {
-    "result": "dissection",
-    "reasoning": "Axon + Saw = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+scale": {
-    "result": "dissection",
-    "reasoning": "Axon + Scale = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+scalpel": {
-    "result": "dissection",
-    "reasoning": "Axon + Scalpel = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+scissors": {
-    "result": "dissection",
-    "reasoning": "Axon + Scissors = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+screw": {
-    "result": "dissection",
-    "reasoning": "Axon + Screw = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sextant": {
-    "result": "dissection",
-    "reasoning": "Axon + Sextant = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+ship": {
-    "result": "dissection",
-    "reasoning": "Axon + ship = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+shovel": {
-    "result": "dissection",
-    "reasoning": "Axon + Shovel = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sickle": {
-    "result": "dissection",
-    "reasoning": "Axon + Sickle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sieve": {
-    "result": "dissection",
-    "reasoning": "Axon + Sieve = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sled": {
-    "result": "dissection",
-    "reasoning": "Axon + Sled = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+sledgehammer": {
     "result": "dissection",
     "reasoning": "Axon + Sledgehammer = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+smelting": {
-    "result": "dissection",
-    "reasoning": "Axon + Smelting = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+snorkel": {
-    "result": "dissection",
-    "reasoning": "Axon + Snorkel = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+socket-wrench": {
     "result": "dissection",
@@ -539,137 +131,21 @@
     "result": "dissection",
     "reasoning": "Axon + Soldering Iron = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+spear": {
-    "result": "dissection",
-    "reasoning": "Axon + Spear = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+spindle": {
-    "result": "dissection",
-    "reasoning": "Axon + Spindle = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+spring": {
-    "result": "dissection",
-    "reasoning": "Axon + Spring = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+spyglass": {
-    "result": "dissection",
-    "reasoning": "Axon + Spyglass = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+stapler": {
-    "result": "dissection",
-    "reasoning": "Axon + Stapler = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+stencil": {
-    "result": "dissection",
-    "reasoning": "Axon + Stencil = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+submarine": {
     "result": "dissection",
     "reasoning": "Axon + Submarine = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+subway": {
-    "result": "dissection",
-    "reasoning": "Axon + Subway = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+suitcase": {
-    "result": "dissection",
-    "reasoning": "Axon + Suitcase = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+sundial": {
-    "result": "dissection",
-    "reasoning": "Axon + Sundial = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+swiss-army-knife": {
     "result": "dissection",
     "reasoning": "Axon + Swiss Army Knife = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+sword": {
-    "result": "dissection",
-    "reasoning": "Axon + Sword = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+tanning": {
-    "result": "dissection",
-    "reasoning": "Axon + Tanning = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+taxi": {
-    "result": "dissection",
-    "reasoning": "Axon + Taxi = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+thermometer": {
     "result": "dissection",
     "reasoning": "Axon + Thermometer = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+tongs": {
-    "result": "dissection",
-    "reasoning": "Axon + Tongs = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+tool": {
-    "result": "dissection",
-    "reasoning": "Axon + tool = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+traffic": {
-    "result": "dissection",
-    "reasoning": "Axon + Traffic = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+train": {
-    "result": "dissection",
-    "reasoning": "Axon + Train = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+trap": {
-    "result": "dissection",
-    "reasoning": "Axon + Trap = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "axon+trebuchet": {
     "result": "dissection",
     "reasoning": "Axon + Trebuchet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+tripod": {
-    "result": "dissection",
-    "reasoning": "Axon + Tripod = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+trowel": {
-    "result": "dissection",
-    "reasoning": "Axon + Trowel = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+truck": {
-    "result": "dissection",
-    "reasoning": "Axon + Truck = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+turbine": {
-    "result": "dissection",
-    "reasoning": "Axon + Turbine = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+valve": {
-    "result": "dissection",
-    "reasoning": "Axon + Valve = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+vise": {
-    "result": "dissection",
-    "reasoning": "Axon + Vise = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+wagon": {
-    "result": "dissection",
-    "reasoning": "Axon + Wagon = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+wallet": {
-    "result": "dissection",
-    "reasoning": "Axon + Wallet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+weaving": {
-    "result": "dissection",
-    "reasoning": "Axon + Weaving = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+weight": {
-    "result": "dissection",
-    "reasoning": "Axon + weight = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+welding": {
-    "result": "dissection",
-    "reasoning": "Axon + Welding = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "axon+wheel": {
-    "result": "dissection",
-    "reasoning": "Axon + Wheel = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "axon+wheelbarrow": {
     "result": "dissection",
@@ -679,29 +155,117 @@
     "result": "dissection",
     "reasoning": "Axon + Whetstone = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "axon+winch": {
-    "result": "dissection",
-    "reasoning": "Axon + Winch = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "backpack+retina": {
+    "result": "camera",
+    "reasoning": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. So when Backpack meets Retina, camera is the natural outcome."
   },
-  "axon+wing": {
-    "result": "dissection",
-    "reasoning": "Axon + wing = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "bacteria+machine": {
+    "result": "antibiotic",
+    "reasoning": "An antibiotic is a type of antimicrobial substance active against bacteria. So when Bacteria meets machine, Antibiotic is the natural outcome."
   },
-  "axon+wrench": {
-    "result": "dissection",
-    "reasoning": "Axon + Wrench = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "bark+bow": {
+    "result": "asylum",
+    "reasoning": "Both Bark and Bow are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bark+brace": {
+    "result": "asylum",
+    "reasoning": "Bark and Brace both belong to the world of Place Name Disambiguation Pages — combine them for Asylum."
+  },
+  "bark+canteen": {
+    "result": "asylum",
+    "reasoning": "Both Bark and Canteen are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bark+grinder": {
+    "result": "asylum",
+    "reasoning": "Both Bark and Grinder are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bark+jack": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Jack to create Asylum."
+  },
+  "bark+key": {
+    "result": "asylum",
+    "reasoning": "Both Bark and key are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bark+level": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Level to create Asylum."
+  },
+  "bark+lock": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Lock to create Asylum."
+  },
+  "bark+mace": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Mace to create Asylum."
+  },
+  "bark+needle": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Needle to create Asylum."
+  },
+  "bark+pick": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Pick to create Asylum."
+  },
+  "bark+plane": {
+    "result": "asylum",
+    "reasoning": "Bark and Plane both belong to the world of Place Name Disambiguation Pages — combine them for Asylum."
+  },
+  "bark+rake": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Rake to create Asylum."
+  },
+  "bark+scale": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bark meets Scale to create Asylum."
   },
   "bark+spring": {
     "result": "boat",
     "reasoning": "Bark on Spring — a Boat. Humanity's first vehicle."
   },
+  "bark+trap": {
+    "result": "asylum",
+    "reasoning": "Both Bark and Trap are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bark+whetstone": {
+    "result": "asylum",
+    "reasoning": "Both Bark and Whetstone are rooted in Place Name Disambiguation Pages. Together they make Asylum."
+  },
+  "bean+satellite": {
+    "result": "china",
+    "reasoning": "bean and Satellite share a deep connection. China, officially the People's Republic of China (PRC), is a country in East Asia. Result: China."
+  },
   "binoculars+cell": {
     "result": "cytokinesis",
-    "reasoning": "Combine Cell with Binoculars to create Cytokinesis."
+    "reasoning": "Cytokinesis is the final stage of cell division in the cell cycle, following mitosis. That's how Binoculars and Cell give us Cytokinesis."
+  },
+  "biofilm+engine": {
+    "result": "rust",
+    "reasoning": "Sulfate-reducing bacteria in biofilms accelerate metal corrosion by producing hydrogen sulfide as a metabolic byproduct, a process called microbiologically influenced corrosion that eats through engine components and costs global industry an estimated $30–50 billion annually."
+  },
+  "biome+engine": {
+    "result": "industrial-revolution",
+    "reasoning": "The Industrial Revolution's steam engines burned coal compressed from ancient swamp biomes over 300 million years — releasing stored carbon so rapidly it fundamentally altered atmospheric chemistry and transformed every living biome on Earth."
   },
   "boat+wood": {
     "result": "canoe",
     "reasoning": "Crafting Boat with wood produces Canoe"
+  },
+  "bow+clone": {
+    "result": "bongo",
+    "reasoning": "Both Bow and Clone are rooted in Place Name Disambiguation Pages. Together they make Bongo."
+  },
+  "bow+organ": {
+    "result": "bongo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bow meets Organ to create Bongo."
+  },
+  "brace+clone": {
+    "result": "bow",
+    "reasoning": "Wikipedia says: Bow most often refers to:Bow and arrow, a weapon\nBowing, bending the upper body as a social gesture\nAn ornamental knot made of ribbon That explains why Brace + Clone = Bow."
+  },
+  "brace+organ": {
+    "result": "bow",
+    "reasoning": "Bow most often refers to:Bow and arrow, a weapon\nBowing, bending the upper body as a social gesture\nAn ornamental knot made of ribbon That's the connection between Brace and Organ — giving us Bow."
   },
   "brazier+tree": {
     "result": "charcoal",
@@ -711,13 +275,65 @@
     "result": "charcoal",
     "reasoning": "Burning wood slowly without air produces Charcoal — one of the first chemical processes."
   },
+  "caliper+endorphin": {
+    "result": "scissors",
+    "reasoning": "The link between Caliper and Endorphin? Scissor. The result? Scissors."
+  },
+  "canteen+clone": {
+    "result": "bug",
+    "reasoning": "Canteen and Clone both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
+  },
+  "canteen+organ": {
+    "result": "bug",
+    "reasoning": "Both Canteen and Organ are rooted in Place Name Disambiguation Pages. Together they make Bug."
+  },
+  "capillary+pen": {
+    "result": "capillary-action",
+    "reasoning": "Here's a real-world link: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Combine Capillary with Pen and you get Capillary Action."
+  },
+  "capillary+pump": {
+    "result": "capillary-action",
+    "reasoning": "Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. That's the connection between Capillary and Pump — giving us Capillary Action."
+  },
+  "capillary+quill": {
+    "result": "capillary-action",
+    "reasoning": "Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. So when Capillary meets Quill, Capillary Action is the natural outcome."
+  },
+  "capillary+sledgehammer": {
+    "result": "gravity",
+    "reasoning": "Wikipedia says: In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. That explains why Capillary + Sledgehammer = Gravity."
+  },
+  "capillary+thermometer": {
+    "result": "capillary-action",
+    "reasoning": "Here's a real-world link: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Combine Capillary with Thermometer and you get Capillary Action."
+  },
+  "capillary+weight": {
+    "result": "gravity",
+    "reasoning": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. That's the connection between Capillary and weight — giving us Gravity."
+  },
+  "cartilage+hammer": {
+    "result": "bone",
+    "reasoning": "A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. That's the connection between Cartilage and Hammer — giving us Bone."
+  },
+  "cartilage+smelting": {
+    "result": "cobalt",
+    "reasoning": "The science is clear — Cobalt is a chemical element; it has symbol Co and atomic number 27. Mix Cartilage and Smelting for Cobalt."
+  },
+  "cartilage+spear": {
+    "result": "bone",
+    "reasoning": "Here's a real-world link: A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. Combine Cartilage with Spear and you get Bone."
+  },
+  "carving+symbiosis": {
+    "result": "fruit",
+    "reasoning": "Carving and Symbiosis share a deep connection. In botany, a fruit is the seed-bearing structure in flowering plants (angiosperms) that is formed from the ovary after flowering. Result: Fruit."
+  },
+  "chloroplast+engine": {
+    "result": "photosynthesis",
+    "reasoning": "Engineers developing artificial photosynthesis have spent decades trying to replicate the chloroplast's molecular machinery, which converts sunlight into chemical energy with near-perfect quantum efficiency — a feat no human-built engine has yet matched."
+  },
   "clone+crossbow": {
     "result": "dissection",
     "reasoning": "Clone + Crossbow = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+crowbar": {
-    "result": "dissection",
-    "reasoning": "Clone + Crowbar = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "clone+cylinder": {
     "result": "dissection",
@@ -727,45 +343,17 @@
     "result": "dissection",
     "reasoning": "Clone + Drawknife = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+drill": {
-    "result": "dissection",
-    "reasoning": "Clone + Drill = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+eraser": {
-    "result": "dissection",
-    "reasoning": "Clone + Eraser = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+forging": {
-    "result": "dissection",
-    "reasoning": "Clone + Forging = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+funnel": {
-    "result": "dissection",
-    "reasoning": "Clone + Funnel = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "clone+garden-shed": {
     "result": "dissection",
     "reasoning": "Clone + Garden Shed = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+gear": {
-    "result": "dissection",
-    "reasoning": "Clone + Gear = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "clone+generator": {
     "result": "dissection",
     "reasoning": "Clone + Generator = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+gimbal": {
-    "result": "dissection",
-    "reasoning": "Clone + Gimbal = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+gondola": {
-    "result": "dissection",
-    "reasoning": "Clone + Gondola = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "clone+grinder": {
-    "result": "dissection",
-    "reasoning": "Clone + Grinder = Dissection. Every biology student's rite of passage. Sorry, frog."
+    "result": "change",
+    "reasoning": "Both Clone and Grinder are rooted in Place Name Disambiguation Pages. Together they make change."
   },
   "clone+grinding": {
     "result": "dissection",
@@ -775,53 +363,45 @@
     "result": "dissection",
     "reasoning": "Clone + Hand Saw = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+highway": {
-    "result": "dissection",
-    "reasoning": "Clone + Highway = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "clone+invention": {
     "result": "dissection",
     "reasoning": "Clone + invention = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+jack": {
+    "result": "change",
+    "reasoning": "Both Clone and Jack are rooted in Place Name Disambiguation Pages. Together they make change."
   },
   "clone+junk-drawer": {
     "result": "dissection",
     "reasoning": "Clone + Junk Drawer = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+kettle": {
-    "result": "dissection",
-    "reasoning": "Clone + Kettle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+key": {
+    "result": "change",
+    "reasoning": "Clone and key both belong to the world of Place Name Disambiguation Pages — combine them for change."
   },
   "clone+knitting": {
     "result": "dissection",
     "reasoning": "Clone + Knitting = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+ladle": {
-    "result": "dissection",
-    "reasoning": "Clone + Ladle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+level": {
+    "result": "change",
+    "reasoning": "Both Clone and Level are rooted in Place Name Disambiguation Pages. Together they make change."
   },
-  "clone+loom": {
-    "result": "dissection",
-    "reasoning": "Clone + Loom = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+lock": {
+    "result": "change",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Clone meets Lock to create change."
   },
-  "clone+machine": {
-    "result": "dissection",
-    "reasoning": "Clone + machine = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+mace": {
+    "result": "change",
+    "reasoning": "Clone and Mace both belong to the world of Place Name Disambiguation Pages — combine them for change."
   },
   "clone+magnifying-glass": {
     "result": "dissection",
     "reasoning": "Clone + Magnifying Glass = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+mallet": {
-    "result": "dissection",
-    "reasoning": "Clone + Mallet = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
   "clone+mechanical": {
     "result": "dissection",
     "reasoning": "Clone + Mechanical = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+mining": {
-    "result": "dissection",
-    "reasoning": "Clone + Mining = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "clone+mortar-and-pestle": {
     "result": "dissection",
@@ -832,32 +412,20 @@
     "reasoning": "Clone + Motorcycle = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
   "clone+needle": {
-    "result": "dissection",
-    "reasoning": "Clone + Needle = Dissection. Every biology student's rite of passage. Sorry, frog."
+    "result": "change",
+    "reasoning": "Both Clone and Needle are rooted in Place Name Disambiguation Pages. Together they make change."
   },
   "clone+notebook": {
     "result": "dissection",
     "reasoning": "Clone + Notebook = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+oar": {
-    "result": "dissection",
-    "reasoning": "Clone + Oar = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+pick": {
+    "result": "change",
+    "reasoning": "Clone and Pick both belong to the world of Place Name Disambiguation Pages — combine them for change."
   },
-  "clone+pencil": {
-    "result": "dissection",
-    "reasoning": "Clone + Pencil = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+piston": {
-    "result": "dissection",
-    "reasoning": "Clone + Piston = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+pliers": {
-    "result": "dissection",
-    "reasoning": "Clone + Pliers = Dissection. Every biology student's rite of passage. Sorry, frog."
-  },
-  "clone+plough": {
-    "result": "dissection",
-    "reasoning": "Clone + Plough = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+plane": {
+    "result": "change",
+    "reasoning": "Clone and Plane both belong to the world of Place Name Disambiguation Pages — combine them for change."
   },
   "clone+power-tool": {
     "result": "dissection",
@@ -867,16 +435,448 @@
     "result": "dissection",
     "reasoning": "Clone + Protractor = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+pulley": {
-    "result": "dissection",
-    "reasoning": "Clone + Pulley = Dissection. Every biology student's rite of passage. Sorry, frog."
+  "clone+rake": {
+    "result": "change",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Clone meets Rake to create change."
   },
-  "clone+purse": {
+  "clone+satellite": {
     "result": "dissection",
-    "reasoning": "Clone + Purse = Dissection. Every biology student's rite of passage. Sorry, frog."
+    "reasoning": "Clone + Satellite = Dissection. Every biology student's rite of passage. Sorry, frog."
   },
-  "clone+quill": {
+  "clone+scale": {
+    "result": "chat",
+    "reasoning": "Clone and Scale both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "clone+sledgehammer": {
     "result": "dissection",
-    "reasoning": "Clone + Quill = Dissection. Every biology student's rite of passage. Sorry, frog."
+    "reasoning": "Clone + Sledgehammer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+spring": {
+    "result": "chat",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Clone meets Spring to create Chat."
+  },
+  "clone+spyglass": {
+    "result": "dissection",
+    "reasoning": "Clone + Spyglass = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+submarine": {
+    "result": "dissection",
+    "reasoning": "Clone + Submarine = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+swiss-army-knife": {
+    "result": "dissection",
+    "reasoning": "Clone + Swiss Army Knife = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+thermometer": {
+    "result": "dissection",
+    "reasoning": "Clone + Thermometer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "clone+trap": {
+    "result": "chat",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Clone meets Trap to create Chat."
+  },
+  "clone+whetstone": {
+    "result": "dissection",
+    "reasoning": "Clone + Whetstone = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "crucible+phytoplankton": {
+    "result": "autoclave",
+    "reasoning": "The science is clear — An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Crucible and Phytoplankton for Autoclave."
+  },
+  "crucible+prion": {
+    "result": "autoclave",
+    "reasoning": "Wikipedia says: An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. That explains why Crucible + Prion = Autoclave."
+  },
+  "dna+machine": {
+    "result": "cloning",
+    "reasoning": "Here's the connection: Cloning is the process of producing individual organisms with identical genomes, either by natural or artificial means. So DNA + machine = Cloning."
+  },
+  "dna+tool": {
+    "result": "crispr",
+    "reasoning": "DNA and tool together? CRISPR is a family of DNA sequences found in the genomes of prokaryotic organisms such as bacteria and archaea. The result: CRISPR."
+  },
+  "drawknife+mycelium": {
+    "result": "compost",
+    "reasoning": "Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. So when Drawknife meets Mycelium, Compost is the natural outcome."
+  },
+  "drawknife+seaweed": {
+    "result": "compost",
+    "reasoning": "Wikipedia says: Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. That explains why Drawknife + Seaweed = Compost."
+  },
+  "drawknife+wood": {
+    "result": "hand-saw",
+    "reasoning": "A drawknife is a traditional woodworking hand tool used to shape wood by removing shavings. That's how Drawknife and wood give us Hand Saw."
+  },
+  "drill+wood": {
+    "result": "auger",
+    "reasoning": "Drill and wood together? A drill is a tool used for making round holes or driving fasteners. The result: Auger."
+  },
+  "dyeing+tendon": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Dyeing + Tendon = Cotton."
+  },
+  "ecosystem+engine": {
+    "result": "food-chain",
+    "reasoning": "Charles Elton coined the term 'food chain' in 1927, describing it as the engine that drives energy through ecosystems — solar energy enters through plants and flows through each trophic level like fuel through a biological machine."
+  },
+  "endorphin+lever": {
+    "result": "scissors",
+    "reasoning": "Through Scissors, Endorphin and Lever find common ground: Scissors."
+  },
+  "engine+gene": {
+    "result": "genetic-engineering",
+    "reasoning": "CRISPR-Cas9 functions like a molecular engine — a protein machine that uses an RNA guide to find a precise DNA sequence and make a cut, enabling genetic engineering with a specificity previously impossible."
+  },
+  "engine+herb": {
+    "result": "distilling",
+    "reasoning": "Arab chemist Al-Kindi wrote the earliest known recipe for distilling herbal essential oils around 850 CE, creating the engine of perfumery, pharmacy, and eventually the entire spirits industry."
+  },
+  "engine+moss": {
+    "result": "fuel-cell",
+    "reasoning": "Scientists at the University of Cambridge developed moss-powered fuel cells that generate electricity directly from photosynthesis — the plant's own metabolic engine produces a small but continuous current, pointing toward living bio-batteries grown from pioneer species."
+  },
+  "engine+mucus": {
+    "result": "oil",
+    "reasoning": "Just as mucus lubricates biological systems by reducing friction between tissues, engine oil forms a thin hydrodynamic film between metal surfaces, and both are viscous, long-chain polymer fluids that degrade under heat and shear."
+  },
+  "engine+pheromone": {
+    "result": "hormone",
+    "reasoning": "Pheromones are essentially external hormones—both are chemical messengers that engine behavior—and the distinction between them drove endocrinology and chemical ecology to develop as separate fields in the 20th century."
+  },
+  "engine+photosynthesis": {
+    "result": "solar-panel",
+    "reasoning": "Dye-sensitized solar cells mimic chlorophyll by using light-absorbing molecules to convert sunlight directly into electricity — artificial photosynthesis that borrows an engine plants perfected 3.4 billion years ago."
+  },
+  "engine+retina": {
+    "result": "computer-vision",
+    "reasoning": "The retina's layered structure—where ganglion cells, bipolar cells, and photoreceptors perform hierarchical processing before signals even reach the brain—directly inspired the layered convolutional architecture of modern computer vision neural networks."
+  },
+  "engine+sap": {
+    "result": "rubber",
+    "reasoning": "Charles Goodyear's 1844 vulcanization process used heat engines to cure sticky latex sap from Hevea trees into durable rubber — a material so essential to the engine age that the Belgian Congo's rubber terror killed millions to supply it."
+  },
+  "engine+tree": {
+    "result": "sawmill",
+    "reasoning": "The first water-powered sawmill in North America, built in Maine in 1634, used a waterwheel engine to let one person cut as much lumber in a day as a team of ten sawyers working by hand."
+  },
+  "engine+vertebra": {
+    "result": "prosthetic",
+    "reasoning": "The world's most advanced powered prosthetic limbs use small electric engines integrated into a structural 'vertebral' frame, with torque sensors and microprocessors replicating the function of the spinal cord's motor neurons."
+  },
+  "enzyme+machine": {
+    "result": "antibiotic",
+    "reasoning": "Enzyme and machine share a deep connection. An antibiotic is a type of antimicrobial substance active against bacteria. Result: Antibiotic."
+  },
+  "enzyme+rocket": {
+    "result": "catalyst",
+    "reasoning": "Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That's the connection between Enzyme and Rocket — giving us Catalyst."
+  },
+  "enzyme+tool": {
+    "result": "beer",
+    "reasoning": "Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize, rice, and oats are also used. That's the connection between Enzyme and tool — giving us Beer."
+  },
+  "epidermis+motorcycle": {
+    "result": "drug",
+    "reasoning": "Wikipedia says: A drug is any chemical substance other than a nutrient or an essential dietary ingredient, which, when administered to a living organism, produces a biological effect. That explains why Epidermis + Motorcycle = Drug."
+  },
+  "eraser+wood": {
+    "result": "graphite",
+    "reasoning": "Eraser and wood share a deep connection. Graphite is a crystalline allotrope (form) of the element carbon. Result: Graphite."
+  },
+  "flower+forge-bellows": {
+    "result": "dissection",
+    "reasoning": "flower + Forge Bellows = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+forging": {
+    "result": "dissection",
+    "reasoning": "flower + Forging = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+garden-shed": {
+    "result": "dissection",
+    "reasoning": "flower + Garden Shed = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+generator": {
+    "result": "dissection",
+    "reasoning": "flower + Generator = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+gondola": {
+    "result": "dissection",
+    "reasoning": "flower + Gondola = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+grappling-hook": {
+    "result": "dissection",
+    "reasoning": "flower + Grappling Hook = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+grinder": {
+    "result": "dissection",
+    "reasoning": "flower + Grinder = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+grinding": {
+    "result": "dissection",
+    "reasoning": "flower + Grinding = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+hand-saw": {
+    "result": "dissection",
+    "reasoning": "flower + Hand Saw = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+helicopter": {
+    "result": "dissection",
+    "reasoning": "flower + Helicopter = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+highway": {
+    "result": "dissection",
+    "reasoning": "flower + Highway = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+hot-air-balloon": {
+    "result": "dissection",
+    "reasoning": "flower + Hot Air Balloon = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+hunting": {
+    "result": "dissection",
+    "reasoning": "flower + Hunting = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+invention": {
+    "result": "dissection",
+    "reasoning": "flower + invention = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+junk-drawer": {
+    "result": "dissection",
+    "reasoning": "flower + Junk Drawer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+kitchen-gadget": {
+    "result": "dissection",
+    "reasoning": "flower + Kitchen Gadget = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+knitting": {
+    "result": "dissection",
+    "reasoning": "flower + Knitting = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+lantern": {
+    "result": "dissection",
+    "reasoning": "flower + Lantern = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+machine": {
+    "result": "dissection",
+    "reasoning": "flower + machine = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+magnifying-glass": {
+    "result": "dissection",
+    "reasoning": "flower + Magnifying Glass = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+manacle": {
+    "result": "dissection",
+    "reasoning": "flower + Manacle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+mechanical": {
+    "result": "dissection",
+    "reasoning": "flower + Mechanical = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+mortar-and-pestle": {
+    "result": "dissection",
+    "reasoning": "flower + Mortar and Pestle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+motorcycle": {
+    "result": "dissection",
+    "reasoning": "flower + Motorcycle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+mousetrap": {
+    "result": "dissection",
+    "reasoning": "flower + Mousetrap = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+notebook": {
+    "result": "dissection",
+    "reasoning": "flower + Notebook = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+padlock": {
+    "result": "dissection",
+    "reasoning": "flower + Padlock = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+plumb-bob": {
+    "result": "dissection",
+    "reasoning": "flower + Plumb Bob = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+power-tool": {
+    "result": "dissection",
+    "reasoning": "flower + Power Tool = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+protractor": {
+    "result": "dissection",
+    "reasoning": "flower + Protractor = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+railway": {
+    "result": "dissection",
+    "reasoning": "flower + Railway = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+ratchet": {
+    "result": "dissection",
+    "reasoning": "flower + Ratchet = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+sailboat": {
+    "result": "dissection",
+    "reasoning": "flower + Sailboat = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+satellite": {
+    "result": "dissection",
+    "reasoning": "flower + Satellite = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+scalpel": {
+    "result": "dissection",
+    "reasoning": "flower + Scalpel = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+scissors": {
+    "result": "dissection",
+    "reasoning": "flower + Scissors = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+sextant": {
+    "result": "dissection",
+    "reasoning": "flower + Sextant = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+sledgehammer": {
+    "result": "dissection",
+    "reasoning": "flower + Sledgehammer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+smelting": {
+    "result": "dissection",
+    "reasoning": "flower + Smelting = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+snorkel": {
+    "result": "dissection",
+    "reasoning": "flower + Snorkel = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+socket-wrench": {
+    "result": "dissection",
+    "reasoning": "flower + Socket Wrench = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+soldering-iron": {
+    "result": "dissection",
+    "reasoning": "flower + Soldering Iron = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+spindle": {
+    "result": "dissection",
+    "reasoning": "flower + Spindle = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+spyglass": {
+    "result": "dissection",
+    "reasoning": "flower + Spyglass = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+stapler": {
+    "result": "dissection",
+    "reasoning": "flower + Stapler = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+stencil": {
+    "result": "dissection",
+    "reasoning": "flower + Stencil = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+submarine": {
+    "result": "dissection",
+    "reasoning": "flower + Submarine = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+suitcase": {
+    "result": "dissection",
+    "reasoning": "flower + Suitcase = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+sundial": {
+    "result": "dissection",
+    "reasoning": "flower + Sundial = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+swiss-army-knife": {
+    "result": "dissection",
+    "reasoning": "flower + Swiss Army Knife = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+tanning": {
+    "result": "dissection",
+    "reasoning": "flower + Tanning = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+thermometer": {
+    "result": "dissection",
+    "reasoning": "flower + Thermometer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+traffic": {
+    "result": "dissection",
+    "reasoning": "flower + Traffic = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+trebuchet": {
+    "result": "dissection",
+    "reasoning": "flower + Trebuchet = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+turbine": {
+    "result": "dissection",
+    "reasoning": "flower + Turbine = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+weaving": {
+    "result": "dissection",
+    "reasoning": "flower + Weaving = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+welding": {
+    "result": "dissection",
+    "reasoning": "flower + Welding = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+wheelbarrow": {
+    "result": "dissection",
+    "reasoning": "flower + Wheelbarrow = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "flower+whetstone": {
+    "result": "dissection",
+    "reasoning": "flower + Whetstone = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "forest+sword": {
+    "result": "hunter",
+    "reasoning": "Weapons in the forest mean a Hunter"
+  },
+  "forge-bellows+tree": {
+    "result": "charcoal",
+    "reasoning": "Burning tree slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "forge-bellows+wood": {
+    "result": "charcoal",
+    "reasoning": "Burning wood slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "funnel+phytoplankton": {
+    "result": "autoclave",
+    "reasoning": "Here's a real-world link: An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Combine Funnel with Phytoplankton and you get Autoclave."
+  },
+  "funnel+prion": {
+    "result": "autoclave",
+    "reasoning": "The science is clear — An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Funnel and Prion for Autoclave."
+  },
+  "genome+grappling-hook": {
+    "result": "dissection",
+    "reasoning": "Genome + Grappling Hook = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+grinding": {
+    "result": "dissection",
+    "reasoning": "Genome + Grinding = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+hand-saw": {
+    "result": "dissection",
+    "reasoning": "Genome + Hand Saw = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+helicopter": {
+    "result": "dissection",
+    "reasoning": "Genome + Helicopter = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+hot-air-balloon": {
+    "result": "dissection",
+    "reasoning": "Genome + Hot Air Balloon = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+invention": {
+    "result": "dissection",
+    "reasoning": "Genome + invention = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+junk-drawer": {
+    "result": "dissection",
+    "reasoning": "Genome + Junk Drawer = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+kitchen-gadget": {
+    "result": "dissection",
+    "reasoning": "Genome + Kitchen Gadget = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+knitting": {
+    "result": "dissection",
+    "reasoning": "Genome + Knitting = Dissection. Every biology student's rite of passage. Sorry, frog."
+  },
+  "genome+magnifying-glass": {
+    "result": "dissection",
+    "reasoning": "Genome + Magnifying Glass = Dissection. Every biology student's rite of passage. Sorry, frog."
   }
 }

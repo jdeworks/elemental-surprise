@@ -1,212 +1,4 @@
 {
-  "electricity+ingot": {
-    "result": "magnet",
-    "reasoning": "Electricity through Ingot = Magnet — invisible force, visible wonder."
-  },
-  "electricity+iron": {
-    "result": "magnet",
-    "reasoning": "Applying Electricity to Iron produces magnet"
-  },
-  "electricity+lead": {
-    "result": "magnet",
-    "reasoning": "Electricity through Lead = Magnet — invisible force, visible wonder."
-  },
-  "electricity+lens": {
-    "result": "led",
-    "reasoning": "Electricity + Lens = LED — efficient light that changed the world."
-  },
-  "electricity+metal": {
-    "result": "battery",
-    "reasoning": "Electricity stored in metal — a battery"
-  },
-  "electricity+mirror": {
-    "result": "led",
-    "reasoning": "Electricity + Mirror = LED — efficient light that changed the world."
-  },
-  "electricity+natural-gas": {
-    "result": "neon-sign",
-    "reasoning": "Combine Electricity with Natural Gas to create Neon Sign."
-  },
-  "electricity+nickel": {
-    "result": "magnet",
-    "reasoning": "Electricity through Nickel = Magnet — invisible force, visible wonder."
-  },
-  "electricity+platinum": {
-    "result": "magnet",
-    "reasoning": "Electricity through Platinum = Magnet — invisible force, visible wonder."
-  },
-  "electricity+prism": {
-    "result": "led",
-    "reasoning": "Electricity + Prism = LED — efficient light that changed the world."
-  },
-  "electricity+silicon": {
-    "result": "semiconductor",
-    "reasoning": "Applying Electricity to Silicon produces Semiconductor"
-  },
-  "electricity+silver": {
-    "result": "magnet",
-    "reasoning": "Electricity through Silver = Magnet — invisible force, visible wonder."
-  },
-  "electricity+steel": {
-    "result": "magnet",
-    "reasoning": "Electricity through Steel = Magnet — invisible force, visible wonder."
-  },
-  "electricity+tin": {
-    "result": "magnet",
-    "reasoning": "Electricity through Tin = Magnet — invisible force, visible wonder."
-  },
-  "electricity+titanium": {
-    "result": "magnet",
-    "reasoning": "Electricity through Titanium = Magnet — invisible force, visible wonder."
-  },
-  "electricity+tungsten": {
-    "result": "magnet",
-    "reasoning": "Electricity through Tungsten = Magnet — invisible force, visible wonder."
-  },
-  "electricity+wire": {
-    "result": "current",
-    "reasoning": "Applying Electricity to Wire produces Current"
-  },
-  "electricity+zinc": {
-    "result": "magnet",
-    "reasoning": "Electricity through Zinc = Magnet — invisible force, visible wonder."
-  },
-  "electrode+metal": {
-    "result": "metal-detector",
-    "reasoning": "Combine Metal with Electrode to create Metal Detector."
-  },
-  "fabric+fiber-optic": {
-    "result": "linen",
-    "reasoning": "Combine Fabric with Fiber Optic to create Linen."
-  },
-  "fabric+press": {
-    "result": "felt",
-    "reasoning": "Combine Fabric with Press to create Felt."
-  },
-  "fiber-optic+paint": {
-    "result": "tapestry",
-    "reasoning": "Fiber Optic woven as Paint — a Tapestry."
-  },
-  "fiber+fiber-optic": {
-    "result": "burlap",
-    "reasoning": "Combine Fiber with Fiber Optic to create Burlap."
-  },
-  "fiber+power-plant": {
-    "result": "hemp",
-    "reasoning": "Combine Fiber with Power Plant to create Hemp."
-  },
-  "fossil+library-software": {
-    "result": "pyramid",
-    "reasoning": "An Fossil Library Software = Pyramid — wonder of the world."
-  },
-  "galvanized-steel+library-software": {
-    "result": "skyscraper",
-    "reasoning": "Galvanized Steel gives Library Software the strength to reach the sky — Skyscraper."
-  },
-  "galvanized-steel+metal-detector": {
-    "result": "alloy",
-    "reasoning": "Combining Galvanized Steel with Metal Detector creates an Alloy — stronger than either alone."
-  },
-  "galvanized-steel+tree-data": {
-    "result": "axe",
-    "reasoning": "Galvanized Steel head on Tree Data handle = Axe — humanity's oldest composite tool."
-  },
-  "gold+library-software": {
-    "result": "skyscraper",
-    "reasoning": "Gold gives Library Software the strength to reach the sky — Skyscraper."
-  },
-  "gold+metal-detector": {
-    "result": "alloy",
-    "reasoning": "Combining Gold with Metal Detector creates an Alloy — stronger than either alone."
-  },
-  "gold+tree-data": {
-    "result": "axe",
-    "reasoning": "Gold head on Tree Data handle = Axe — humanity's oldest composite tool."
-  },
-  "hard-drive+metal": {
-    "result": "tungsten",
-    "reasoning": "Combine Metal with Hard Drive to create Tungsten."
-  },
-  "heat-pump+ingot": {
-    "result": "alloy",
-    "reasoning": "Intense Heat Pump fuses Ingot into an Alloy."
-  },
-  "heat-pump+iron": {
-    "result": "ingot",
-    "reasoning": "Smelting Iron with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+limestone": {
-    "result": "quicklite",
-    "reasoning": "Combine Limestone with Heat Pump to create Quicklite."
-  },
-  "heat-pump+marble": {
-    "result": "lava",
-    "reasoning": "Heat Pump melts Marble into flowing Lava."
-  },
-  "heat-pump+metal": {
-    "result": "ingot",
-    "reasoning": "Smelting metal with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+mineral": {
-    "result": "vermiculite",
-    "reasoning": "Combine Mineral with Heat Pump to create Vermiculite."
-  },
-  "heat-pump+mirror": {
-    "result": "lens",
-    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
-  },
-  "heat-pump+nickel": {
-    "result": "ingot",
-    "reasoning": "Smelting Nickel with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+plank": {
-    "result": "charcoal",
-    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
-  },
-  "heat-pump+platinum": {
-    "result": "ingot",
-    "reasoning": "Smelting Platinum with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+prism": {
-    "result": "lens",
-    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
-  },
-  "heat-pump+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+soil": {
-    "result": "lava",
-    "reasoning": "Heat Pump melts Soil into flowing Lava."
-  },
-  "heat-pump+steel": {
-    "result": "ingot",
-    "reasoning": "Smelting Steel with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+tin": {
-    "result": "ingot",
-    "reasoning": "Smelting Tin with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+titanium": {
-    "result": "ingot",
-    "reasoning": "Smelting Titanium with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+tungsten": {
-    "result": "ingot",
-    "reasoning": "Smelting Tungsten with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "ingot+library-software": {
-    "result": "skyscraper",
-    "reasoning": "Ingot gives Library Software the strength to reach the sky — Skyscraper."
-  },
   "ingot+metal-detector": {
     "result": "alloy",
     "reasoning": "Combining Ingot with Metal Detector creates an Alloy — stronger than either alone."
@@ -217,15 +9,39 @@
   },
   "ink+keyboard": {
     "result": "typewriter",
-    "reasoning": "Applying Ink to Keyboard produces Typewriter"
+    "reasoning": "Did you know? A typewriter is a mechanical or electromechanical machine for typing characters. That's why Ink + Keyboard = Typewriter."
+  },
+  "ink+pattern": {
+    "result": "crystal",
+    "reasoning": "Ink and pattern share a deep connection. A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Result: Crystal."
+  },
+  "ink+potentiometer": {
+    "result": "graphite",
+    "reasoning": "Wikipedia says: Graphite is a crystalline allotrope (form) of the element carbon. That explains why Ink + Potentiometer = Graphite."
+  },
+  "ink+power-grid": {
+    "result": "germany",
+    "reasoning": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. That's the connection between Ink and Power Grid — giving us Germany."
   },
   "ink+press": {
     "result": "printing",
-    "reasoning": "Applying Ink to press produces Printing"
+    "reasoning": "Ink and press together? Printing is a process for mass reproducing text and images using a master form or template. The result: Printing."
+  },
+  "ink+semiconductor": {
+    "result": "crystal",
+    "reasoning": "Wikipedia says: A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. That explains why Ink + Semiconductor = Crystal."
+  },
+  "internet+kevlar": {
+    "result": "compiler",
+    "reasoning": "In computing, a compiler is software that translates computer code written in one programming language into another language. That's the connection between internet and Kevlar — giving us Compiler."
   },
   "internet+shield": {
     "result": "cybersecurity",
-    "reasoning": "Applying internet to Shield produces Cybersecurity"
+    "reasoning": "Computer security is a subdiscipline within the field of information security. Combine internet with Shield and you naturally get Cybersecurity."
+  },
+  "internet+teflon": {
+    "result": "compiler",
+    "reasoning": "Here's a real-world link: In computing, a compiler is software that translates computer code written in one programming language into another language. Combine internet with Teflon and you get Compiler."
   },
   "iron+library-software": {
     "result": "skyscraper",
@@ -239,61 +55,145 @@
     "result": "axe",
     "reasoning": "Iron head on Tree Data handle = Axe — humanity's oldest composite tool."
   },
-  "kiln+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Kiln creates an Ingot — the foundation of metallurgy."
+  "jackhammer+kevlar": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. So when Jackhammer meets Kevlar, Escalator is the natural outcome."
+  },
+  "jackhammer+plaster": {
+    "result": "concrete",
+    "reasoning": "Here's a real-world link: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Combine Jackhammer with Plaster and you get Concrete."
+  },
+  "jackhammer+rust": {
+    "result": "concrete",
+    "reasoning": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That's the connection between Jackhammer and Rust — giving us Concrete."
+  },
+  "jackhammer+shield": {
+    "result": "gunpowder",
+    "reasoning": "Gunpowder, commonly referred to as black powder to distinguish it from modern smokeless powder, is the earliest known chemical explosive. That's the connection between Jackhammer and Shield — giving us Gunpowder."
+  },
+  "jackhammer+teflon": {
+    "result": "escalator",
+    "reasoning": "Here's a real-world link: An escalator is a moving staircase which carries people between floors of a building or structure. Combine Jackhammer with Teflon and you get Escalator."
+  },
+  "javascript+kevlar": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between JavaScript and Kevlar — giving us Escalator."
+  },
+  "javascript+teflon": {
+    "result": "escalator",
+    "reasoning": "The science is clear — An escalator is a moving staircase which carries people between floors of a building or structure. Mix JavaScript and Teflon for Escalator."
+  },
+  "joystick+kevlar": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between Joystick and Kevlar — giving us Escalator."
+  },
+  "joystick+lens": {
+    "result": "camera",
+    "reasoning": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. So when Joystick meets Lens, camera is the natural outcome."
+  },
+  "joystick+teflon": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between Joystick and Teflon — giving us Escalator."
+  },
+  "kevlar+loudspeaker": {
+    "result": "escalator",
+    "reasoning": "The science is clear — An escalator is a moving staircase which carries people between floors of a building or structure. Mix Kevlar and Loudspeaker for Escalator."
+  },
+  "kevlar+microphone": {
+    "result": "escalator",
+    "reasoning": "Kevlar and Microphone share a deep connection. An escalator is a moving staircase which carries people between floors of a building or structure. Result: Escalator."
+  },
+  "kevlar+modem": {
+    "result": "escalator",
+    "reasoning": "Here's a real-world link: An escalator is a moving staircase which carries people between floors of a building or structure. Combine Kevlar with Modem and you get Escalator."
+  },
+  "kevlar+oscilloscope": {
+    "result": "escalator",
+    "reasoning": "Wikipedia says: An escalator is a moving staircase which carries people between floors of a building or structure. That explains why Kevlar + Oscilloscope = Escalator."
+  },
+  "kevlar+phonograph": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. So when Kevlar meets Phonograph, Escalator is the natural outcome."
+  },
+  "kevlar+relay": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between Kevlar and Relay — giving us Escalator."
+  },
+  "kevlar+supercomputer": {
+    "result": "escalator",
+    "reasoning": "The science is clear — An escalator is a moving staircase which carries people between floors of a building or structure. Mix Kevlar and Supercomputer for Escalator."
+  },
+  "kevlar+technology": {
+    "result": "bellows",
+    "reasoning": "Bellows are a device constructed to expel a controlled blast of air. That's the connection between Kevlar and technology — giving us Bellows."
+  },
+  "kevlar+telephone": {
+    "result": "escalator",
+    "reasoning": "The science is clear — An escalator is a moving staircase which carries people between floors of a building or structure. Mix Kevlar and Telephone for Escalator."
+  },
+  "kevlar+television": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. So when Kevlar meets Television, Escalator is the natural outcome."
+  },
+  "kevlar+thermostat": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. So when Kevlar meets Thermostat, Escalator is the natural outcome."
+  },
+  "kevlar+touchscreen": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between Kevlar and Touchscreen — giving us Escalator."
+  },
+  "kevlar+transistor": {
+    "result": "ethernet",
+    "reasoning": "Here's a real-world link: Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). Combine Kevlar with Transistor and you get Ethernet."
+  },
+  "kevlar+usb": {
+    "result": "ethernet",
+    "reasoning": "Here's a real-world link: Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). Combine Kevlar with USB and you get Ethernet."
+  },
+  "kevlar+vlog": {
+    "result": "ethernet",
+    "reasoning": "Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). That's the connection between Kevlar and Vlog — giving us Ethernet."
   },
   "kiln+limestone": {
     "result": "lava",
     "reasoning": "Kiln melts Limestone into flowing Lava."
   },
-  "kiln+marble": {
-    "result": "lava",
-    "reasoning": "Kiln melts Marble into flowing Lava."
-  },
-  "kiln+metal": {
-    "result": "ingot",
-    "reasoning": "Smelting metal with Kiln creates an Ingot — the foundation of metallurgy."
-  },
-  "kiln+mineral": {
-    "result": "lava",
-    "reasoning": "Kiln melts Mineral into flowing Lava."
-  },
   "kiln+mirror": {
     "result": "lens",
     "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
-  },
-  "kiln+nickel": {
-    "result": "ingot",
-    "reasoning": "Smelting Nickel with Kiln creates an Ingot — the foundation of metallurgy."
   },
   "kiln+plank": {
     "result": "charcoal",
     "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
   },
+  "kiln+plaster": {
+    "result": "limestone",
+    "reasoning": "The science is clear — Limestone is a type of carbonate sedimentary rock which is the main source of the material lime. Mix Kiln and Plaster for Limestone."
+  },
   "kiln+platinum": {
     "result": "ingot",
     "reasoning": "Smelting Platinum with Kiln creates an Ingot — the foundation of metallurgy."
+  },
+  "kiln+porcelain": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. So when Kiln meets Porcelain, Ceramic is the natural outcome."
   },
   "kiln+prism": {
     "result": "lens",
     "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
   },
-  "kiln+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Kiln creates an Ingot — the foundation of metallurgy."
+  "kiln+solder": {
+    "result": "ceramic",
+    "reasoning": "The science is clear — A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Mix Kiln and Solder for Ceramic."
   },
-  "kiln+soil": {
-    "result": "lava",
-    "reasoning": "Kiln melts Soil into flowing Lava."
+  "kiln+tar": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Kiln with Tar and you get Charcoal."
   },
-  "kiln+steel": {
-    "result": "ingot",
-    "reasoning": "Smelting Steel with Kiln creates an Ingot — the foundation of metallurgy."
-  },
-  "kiln+tin": {
-    "result": "ingot",
-    "reasoning": "Smelting Tin with Kiln creates an Ingot — the foundation of metallurgy."
+  "kiln+terracotta": {
+    "result": "ceramic",
+    "reasoning": "Wikipedia says: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That explains why Kiln + Terracotta = Ceramic."
   },
   "kiln+titanium": {
     "result": "ingot",
@@ -303,9 +203,17 @@
     "result": "ingot",
     "reasoning": "Smelting Tungsten with Kiln creates an Ingot — the foundation of metallurgy."
   },
-  "kiln+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Kiln creates an Ingot — the foundation of metallurgy."
+  "kiln+wire": {
+    "result": "electricity",
+    "reasoning": "Wikipedia says: Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. That explains why Kiln + Wire = Electricity."
+  },
+  "lathe+papyrus": {
+    "result": "egypt",
+    "reasoning": "The science is clear — Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Mix Lathe and Papyrus for Egypt."
+  },
+  "lathe+suede": {
+    "result": "furniture",
+    "reasoning": "Lathe and Suede share a deep connection. Furniture refers to objects intended to support various human activities such as seating, eating (tables), storing items, working, and sleeping. Result: Furniture."
   },
   "lead+library-software": {
     "result": "skyscraper",
@@ -319,6 +227,18 @@
     "result": "axe",
     "reasoning": "Lead head on Tree Data handle = Axe — humanity's oldest composite tool."
   },
+  "lens+photodiode": {
+    "result": "camera",
+    "reasoning": "Here's a real-world link: A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. Combine Lens with Photodiode and you get camera."
+  },
+  "lens+pixel": {
+    "result": "camera",
+    "reasoning": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. So when Lens meets Pixel, camera is the natural outcome."
+  },
+  "lens+selfie": {
+    "result": "camera",
+    "reasoning": "Here's a real-world link: A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. Combine Lens with Selfie and you get camera."
+  },
   "library-software+paint": {
     "result": "museum",
     "reasoning": "A Library Software preserving Paint — a Museum."
@@ -326,6 +246,22 @@
   "library-software+shield": {
     "result": "armory",
     "reasoning": "A Library Software storing Shield — an Armory."
+  },
+  "loop+plank": {
+    "result": "board",
+    "reasoning": "Loop and plank both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for board."
+  },
+  "loudspeaker+mica": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between Loudspeaker and Mica — giving us Aluminum."
+  },
+  "loudspeaker+quartz": {
+    "result": "aluminum",
+    "reasoning": "Loudspeaker and Quartz share a deep connection. Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. Result: Aluminum."
+  },
+  "loudspeaker+teflon": {
+    "result": "ethernet",
+    "reasoning": "Here's a real-world link: Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). Combine Loudspeaker with Teflon and you get Ethernet."
   },
   "magma+metal-detector": {
     "result": "ingot",
@@ -342,6 +278,42 @@
   "magnet+metal": {
     "result": "compass",
     "reasoning": "A magnetized metal needle points north — compass"
+  },
+  "magnet+mica": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between magnet and Mica — giving us Aluminum."
+  },
+  "magnet+quartz": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. So when magnet meets Quartz, Aluminum is the natural outcome."
+  },
+  "magnet+silicon": {
+    "result": "ceramic",
+    "reasoning": "magnet and Silicon share a deep connection. A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Result: Ceramic."
+  },
+  "magnet+solder": {
+    "result": "cobalt",
+    "reasoning": "Cobalt is a chemical element; it has symbol Co and atomic number 27. So when magnet meets Solder, Cobalt is the natural outcome."
+  },
+  "magnet+terracotta": {
+    "result": "ceramic",
+    "reasoning": "magnet and Terracotta share a deep connection. A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Result: Ceramic."
+  },
+  "mail+paint": {
+    "result": "calligraphy",
+    "reasoning": "Calligraphy is fine handwriting taken to the level of visual art. So when Mail meets Paint, Calligraphy is the natural outcome."
+  },
+  "mail+paper": {
+    "result": "barcode",
+    "reasoning": "A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. That's the connection between Mail and Paper — giving us Barcode."
+  },
+  "mail+papyrus": {
+    "result": "barcode",
+    "reasoning": "A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. So when Mail meets Papyrus, Barcode is the natural outcome."
+  },
+  "mail+plastic": {
+    "result": "barcode",
+    "reasoning": "Mail and Plastic share a deep connection. A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. Result: Barcode."
   },
   "metal-detector+nickel": {
     "result": "alloy",
@@ -373,7 +345,7 @@
   },
   "metal-detector+titanium": {
     "result": "mithril",
-    "reasoning": "Combine Titanium with Metal Detector to create Mithril."
+    "reasoning": "Did you know? Mithril is a fictional metal found in J. That's why Metal Detector + Titanium = Mithril."
   },
   "metal-detector+tungsten": {
     "result": "alloy",
@@ -385,23 +357,35 @@
   },
   "metal+metal-detector": {
     "result": "welding-torch",
-    "reasoning": "Combine Metal Detector with Metal to create Welding Torch."
+    "reasoning": "metal and Metal Detector together? A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well. The result: Welding Torch."
   },
   "metal+press": {
     "result": "clamp",
-    "reasoning": "Combine Metal with Press to create Clamp."
+    "reasoning": "A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well. That's how metal and press give us Clamp."
+  },
+  "metal+radiator": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So when metal meets Radiator, building is the natural outcome."
   },
   "metal+tree-data": {
     "result": "axe",
     "reasoning": "metal head on Tree Data handle = Axe — humanity's oldest composite tool."
   },
-  "mirror+modem": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Modem = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  "metronome+solder": {
+    "result": "electronics",
+    "reasoning": "Here's a real-world link: Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. Combine Metronome with Solder and you get Electronics."
   },
-  "mirror+monitor": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Monitor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  "mica+pattern": {
+    "result": "crystal",
+    "reasoning": "A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. That's the connection between Mica and pattern — giving us Crystal."
+  },
+  "mica+semiconductor": {
+    "result": "crystal",
+    "reasoning": "The science is clear — A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Mix Mica and Semiconductor for Crystal."
+  },
+  "microphone+teflon": {
+    "result": "ethernet",
+    "reasoning": "Wikipedia says: Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). That explains why Microphone + Teflon = Ethernet."
   },
   "mirror+morse-code": {
     "result": "e-waste",
@@ -419,10 +403,6 @@
     "result": "e-waste",
     "reasoning": "Mirror + Multimeter = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+name": {
-    "result": "e-waste",
-    "reasoning": "Mirror + name = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+navigation": {
     "result": "e-waste",
     "reasoning": "Mirror + Navigation = E-Waste. 50M tons per year. Your old phone is in there somewhere."
@@ -430,14 +410,6 @@
   "mirror+neon-sign": {
     "result": "e-waste",
     "reasoning": "Mirror + Neon Sign = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+netflix": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Netflix = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+network": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Network = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+neural-link": {
     "result": "e-waste",
@@ -451,10 +423,6 @@
     "result": "e-waste",
     "reasoning": "Mirror + Newsletter = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+nft": {
-    "result": "e-waste",
-    "reasoning": "Mirror + NFT = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+notification": {
     "result": "e-waste",
     "reasoning": "Mirror + Notification = E-Waste. 50M tons per year. Your old phone is in there somewhere."
@@ -462,18 +430,6 @@
   "mirror+nuclear-reactor": {
     "result": "e-waste",
     "reasoning": "Mirror + Nuclear Reactor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+object": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Object = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+offline": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Offline = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+online": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Online = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+open-source": {
     "result": "e-waste",
@@ -495,21 +451,9 @@
     "result": "e-waste",
     "reasoning": "Mirror + Particle Accelerator = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+password": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Password = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+pattern": {
-    "result": "e-waste",
-    "reasoning": "Mirror + pattern = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+periscope": {
     "result": "e-waste",
     "reasoning": "Mirror + Periscope = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+phishing": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Phishing = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+phonograph": {
     "result": "e-waste",
@@ -523,25 +467,13 @@
     "result": "e-waste",
     "reasoning": "Mirror + Piezoelectric = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+pixel": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Pixel = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+pneumatic": {
     "result": "e-waste",
     "reasoning": "Mirror + Pneumatic = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+podcast": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Podcast = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+polymorphism": {
     "result": "e-waste",
     "reasoning": "Mirror + Polymorphism = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+post": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Post = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+post-office": {
     "result": "e-waste",
@@ -563,77 +495,17 @@
     "result": "e-waste",
     "reasoning": "Mirror + Power Strip = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+press": {
-    "result": "e-waste",
-    "reasoning": "Mirror + press = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+pressure-cooker": {
     "result": "e-waste",
     "reasoning": "Mirror + Pressure Cooker = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+printer": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Printer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+printing": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Printing = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+privacy": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Privacy = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+processor": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Processor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+product": {
-    "result": "e-waste",
-    "reasoning": "Mirror + product = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+profile": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Profile = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+program": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Program = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+propane-tank": {
     "result": "e-waste",
     "reasoning": "Mirror + Propane Tank = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+python": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Python = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+qr-code": {
-    "result": "e-waste",
-    "reasoning": "Mirror + QR Code = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+quantum-computer": {
     "result": "e-waste",
     "reasoning": "Mirror + Quantum Computer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+queue": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Queue = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+radar": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Radar = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+radiator": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Radiator = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+radio": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Radio = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+ram": {
-    "result": "e-waste",
-    "reasoning": "Mirror + RAM = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+ransomware": {
     "result": "e-waste",
@@ -643,57 +515,9 @@
     "result": "e-waste",
     "reasoning": "Mirror + Record Player = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+recursion": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Recursion = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+reddit": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Reddit = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+regex": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Regex = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+relay": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Relay = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+remote": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Remote = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+resistor": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Resistor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+resolution": {
     "result": "e-waste",
     "reasoning": "Mirror + Resolution = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+rest-api": {
-    "result": "e-waste",
-    "reasoning": "Mirror + REST API = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+robot": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Robot = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+router": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Router = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+saas": {
-    "result": "e-waste",
-    "reasoning": "Mirror + SaaS = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+screen": {
-    "result": "e-waste",
-    "reasoning": "Mirror + screen = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+scuba": {
-    "result": "e-waste",
-    "reasoning": "Mirror + SCUBA = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+search-engine": {
     "result": "e-waste",
@@ -703,41 +527,9 @@
     "result": "e-waste",
     "reasoning": "Mirror + Self Driving Car = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+selfie": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Selfie = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+semiconductor": {
     "result": "e-waste",
     "reasoning": "Mirror + Semiconductor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+sensor": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Sensor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+server": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Server = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+share": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Share = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+signal": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Signal = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+sim-card": {
-    "result": "e-waste",
-    "reasoning": "Mirror + SIM Card = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+siri": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Siri = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+slack": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Slack = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+smart-contract": {
     "result": "e-waste",
@@ -767,73 +559,25 @@
     "result": "e-waste",
     "reasoning": "Mirror + Social Media = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+software": {
-    "result": "e-waste",
-    "reasoning": "Mirror + software = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+solar-panel": {
     "result": "e-waste",
     "reasoning": "Mirror + Solar Panel = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+sonar": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Sonar = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+sort": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Sort = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+spacex": {
-    "result": "e-waste",
-    "reasoning": "Mirror + SpaceX = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+spam": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Spam = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+speaker": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Speaker = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+spectroscope": {
     "result": "e-waste",
     "reasoning": "Mirror + Spectroscope = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+spotify": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Spotify = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+ssd": {
-    "result": "e-waste",
-    "reasoning": "Mirror + SSD = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+stable-diffusion": {
     "result": "e-waste",
     "reasoning": "Mirror + Stable Diffusion = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+stack": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Stack = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+stack-overflow": {
     "result": "e-waste",
     "reasoning": "Mirror + Stack Overflow = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+stamp": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Stamp = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+starlink": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Starlink = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+steam-engine": {
     "result": "e-waste",
     "reasoning": "Mirror + Steam Engine = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+streaming": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Streaming = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
   "mirror+supercomputer": {
     "result": "e-waste",
@@ -843,10 +587,6 @@
     "result": "e-waste",
     "reasoning": "Mirror + Synthesizer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+tablet": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Tablet = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+technical-debt": {
     "result": "e-waste",
     "reasoning": "Mirror + Technical Debt = E-Waste. 50M tons per year. Your old phone is in there somewhere."
@@ -855,28 +595,288 @@
     "result": "e-waste",
     "reasoning": "Mirror + technology = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+telegram": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Telegram = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+telegraph": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Telegraph = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+telephone": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Telephone = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
-  "mirror+teletype": {
-    "result": "e-waste",
-    "reasoning": "Mirror + Teletype = E-Waste. 50M tons per year. Your old phone is in there somewhere."
-  },
   "mirror+television": {
     "result": "e-waste",
     "reasoning": "Mirror + Television = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   },
-  "mirror+tesla": {
+  "mirror+tesla-coil": {
     "result": "e-waste",
-    "reasoning": "Mirror + Tesla = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+    "reasoning": "Mirror + Tesla Coil = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+thermostat": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Thermostat = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+touchscreen": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Touchscreen = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+transformer": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Transformer = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+transistor": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Transistor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+troll-internet": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Troll Internet = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+typewriter": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Typewriter = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+vacuum-tube": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Vacuum Tube = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+viral-video": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Viral Video = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+voltaic-pile": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Voltaic Pile = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+vr-headset": {
+    "result": "e-waste",
+    "reasoning": "Mirror + VR Headset = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+water-wheel": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Water Wheel = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+weather-app": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Weather App = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+welding-torch": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Welding Torch = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+wildlife-camera": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Wildlife Camera = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+wind-turbine": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Wind Turbine = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+windows-os": {
+    "result": "e-waste",
+    "reasoning": "Mirror + Windows OS = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "mirror+x-ray-machine": {
+    "result": "e-waste",
+    "reasoning": "Mirror + X-Ray Machine = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "modem+teflon": {
+    "result": "ethernet",
+    "reasoning": "Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). So when Modem meets Teflon, Ethernet is the natural outcome."
+  },
+  "morse-code+paint": {
+    "result": "3d-model",
+    "reasoning": "Morse Code creating Paint in 3D."
+  },
+  "name+varnish": {
+    "result": "brand",
+    "reasoning": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. That's the connection between name and Varnish — giving us Brand."
+  },
+  "natural-gas+neon-sign": {
+    "result": "zeppelin",
+    "reasoning": "A Zeppelin is a type of rigid airship named after the German inventor Ferdinand von Zeppelin who pioneered rigid airship development at the beginning of the 20th century. Combine Natural Gas with Neon Sign and you naturally get Zeppelin."
+  },
+  "natural-gas+propane-tank": {
+    "result": "zeppelin",
+    "reasoning": "Did you know? A Zeppelin is a type of rigid airship named after the German inventor Ferdinand von Zeppelin who pioneered rigid airship development at the beginning of the 20th century. That's why Natural Gas + Propane Tank = Zeppelin."
+  },
+  "net+upload": {
+    "result": "internet",
+    "reasoning": "Wikipedia says: The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. That explains why Net + Upload = internet."
+  },
+  "net+vlog": {
+    "result": "internet",
+    "reasoning": "The science is clear — The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. Mix Net and Vlog for internet."
+  },
+  "network+wire": {
+    "result": "ethernet",
+    "reasoning": "Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). Combine Network with Wire and you naturally get Ethernet."
+  },
+  "nickel+tree-data": {
+    "result": "axe",
+    "reasoning": "Nickel head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "oscilloscope+teflon": {
+    "result": "ethernet",
+    "reasoning": "Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). That's the connection between Oscilloscope and Teflon — giving us Ethernet."
+  },
+  "paint+pattern": {
+    "result": "stencil",
+    "reasoning": "Here's the connection: Stencilling produces an image or pattern on a surface by applying pigment to a surface through an intermediate object, with designed holes in the intermediate object. So Paint + pattern = Stencil."
+  },
+  "paper+pattern": {
+    "result": "stamp",
+    "reasoning": "Paper is a thin sheet of matted cellulose fibers. That's how Paper and pattern give us Stamp."
+  },
+  "paper+power-plant": {
+    "result": "papyrus",
+    "reasoning": "Paper and Power Plant together? Papyrus is a material similar to thick paper that was used in ancient times as a writing material. The result: Papyrus."
+  },
+  "paper+printing": {
+    "result": "bag",
+    "reasoning": "A bag, also known regionally as a sack or tote, is a common tool in the form of a floppy container, typically made of cloth, leather, bamboo, paper, or plastic. That's the connection between Paper and Printing — giving us bag."
+  },
+  "paper+sim-card": {
+    "result": "fax-machine",
+    "reasoning": "Fax, sometimes called telecopying or telefax, is the telephonic transmission of scanned printed material, normally to a telephone number connected to a printer or other output device. That's how Paper and SIM Card give us Fax Machine."
+  },
+  "papyrus+printing": {
+    "result": "barcode",
+    "reasoning": "A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. That's the connection between Papyrus and Printing — giving us Barcode."
+  },
+  "parchment+printing": {
+    "result": "papyrus",
+    "reasoning": "Papyrus is a material similar to thick paper that was used in ancient times as a writing material. So when Parchment meets Printing, Papyrus is the natural outcome."
+  },
+  "pattern+pumice": {
+    "result": "crystal",
+    "reasoning": "pattern and Pumice share a deep connection. A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Result: Crystal."
+  },
+  "pattern+quartz": {
+    "result": "crystal",
+    "reasoning": "pattern and Quartz share a deep connection. A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Result: Crystal."
+  },
+  "pattern+silk": {
+    "result": "damask",
+    "reasoning": "Did you know? Damask is a woven, reversible patterned fabric. That's why pattern + Silk = Damask."
+  },
+  "permafrost+radar": {
+    "result": "terraforming",
+    "reasoning": "Both Permafrost and Radar are rooted in 1940S Neologisms. Together they make Terraforming."
+  },
+  "permafrost+water-wheel": {
+    "result": "ice",
+    "reasoning": "Permafrost freezes Water Wheel into Ice — water's solid form."
+  },
+  "pewter+phonograph": {
+    "result": "diamond",
+    "reasoning": "Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. That's the connection between Pewter and Phonograph — giving us Diamond."
+  },
+  "phonograph+quartz": {
+    "result": "diamond",
+    "reasoning": "The science is clear — Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. Mix Phonograph and Quartz for Diamond."
+  },
+  "phonograph+teflon": {
+    "result": "fiberglass",
+    "reasoning": "The science is clear — Fiberglass or fibreglass is a common type of fiber-reinforced plastic using glass fiber. Mix Phonograph and Teflon for Fiberglass."
+  },
+  "phonograph+wire": {
+    "result": "diamond",
+    "reasoning": "Here's a real-world link: Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. Combine Phonograph with Wire and you get Diamond."
+  },
+  "photodiode+rust": {
+    "result": "electron",
+    "reasoning": "The electron is a subatomic particle whose electric charge is negative one elementary charge. That's the connection between Photodiode and Rust — giving us Electron."
+  },
+  "plank+printer": {
+    "result": "board",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, plank meets Printer to create board."
+  },
+  "plank+speaker": {
+    "result": "board",
+    "reasoning": "Both plank and Speaker are rooted in Disambiguation Pages With Surname Holder Lists. Together they make board."
+  },
+  "plank+water-wheel": {
+    "result": "boat",
+    "reasoning": "plank on Water Wheel — a Boat. Humanity's first vehicle."
+  },
+  "plaster+stamp": {
+    "result": "japan",
+    "reasoning": "Here's a real-world link: Japan is an island country in East Asia. Combine Plaster with Stamp and you get Japan."
+  },
+  "plastic+printing": {
+    "result": "barcode",
+    "reasoning": "A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. So when Plastic meets Printing, Barcode is the natural outcome."
+  },
+  "plastic+technology": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when Plastic meets technology, Airplane is the natural outcome."
+  },
+  "platinum+tree-data": {
+    "result": "axe",
+    "reasoning": "Platinum head on Tree Data handle = Axe — humanity's oldest composite tool."
+  },
+  "porcelain+printing": {
+    "result": "crossbow",
+    "reasoning": "Here's a real-world link: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Combine Porcelain with Printing and you get Crossbow."
+  },
+  "potentiometer+rust": {
+    "result": "graphite",
+    "reasoning": "Graphite is a crystalline allotrope (form) of the element carbon. So when Potentiometer meets Rust, Graphite is the natural outcome."
+  },
+  "power-grid+slate": {
+    "result": "coal",
+    "reasoning": "The science is clear — Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Mix Power Grid and Slate for Coal."
+  },
+  "power-grid+taxidermy": {
+    "result": "germany",
+    "reasoning": "The science is clear — Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. Mix Power Grid and Taxidermy for Germany."
+  },
+  "power-plant+wire": {
+    "result": "power-grid",
+    "reasoning": "Power Grid is the English-language version of the second edition of the multiplayer German-style board game Funkenschlag, designed by Friedemann Friese and first released in 2004. Combine Power Plant with Wire and you naturally get Power Grid."
+  },
+  "printing+sail": {
+    "result": "crossbow",
+    "reasoning": "Here's a real-world link: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Combine Printing with Sail and you get Crossbow."
+  },
+  "printing+silk": {
+    "result": "crossbow",
+    "reasoning": "Wikipedia says: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That explains why Printing + Silk = Crossbow."
+  },
+  "printing+varnish": {
+    "result": "crossbow",
+    "reasoning": "Printing and Varnish share a deep connection. A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Result: Crossbow."
+  },
+  "pumice+semiconductor": {
+    "result": "crystal",
+    "reasoning": "Wikipedia says: A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. That explains why Pumice + Semiconductor = Crystal."
+  },
+  "quartz+semiconductor": {
+    "result": "crystal",
+    "reasoning": "Here's a real-world link: A crystal or crystalline solid is a solid material whose constituents are arranged in a highly ordered microscopic structure, forming a crystal lattice that extends in all directions. Combine Quartz with Semiconductor and you get Crystal."
+  },
+  "radiator+solder": {
+    "result": "electronics",
+    "reasoning": "The science is clear — Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. Mix Radiator and Solder for Electronics."
+  },
+  "radiator+steel": {
+    "result": "car",
+    "reasoning": "The science is clear — A car, or an automobile, is a motor vehicle with wheels. Mix Radiator and Steel for Car."
+  },
+  "radiator+tar": {
+    "result": "russia",
+    "reasoning": "Russia, or the Russian Federation, is a country in Eastern Europe and North Asia. That's the connection between Radiator and Tar — giving us Russia."
+  },
+  "relay+teflon": {
+    "result": "fiberglass",
+    "reasoning": "The science is clear — Fiberglass or fibreglass is a common type of fiber-reinforced plastic using glass fiber. Mix Relay and Teflon for Fiberglass."
+  },
+  "rubber+tree-data": {
+    "result": "latex",
+    "reasoning": "Latex is an emulsion of polymer microparticles in water. That's how Rubber and Tree Data give us Latex."
+  },
+  "rust+voltage": {
+    "result": "electrolysis",
+    "reasoning": "Wikipedia says: In chemistry and manufacturing, electrolysis is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous biological and physical reaction. That explains why Rust + Voltage = Electrolysis."
+  },
+  "sail+self-driving-car": {
+    "result": "e-waste",
+    "reasoning": "Sail + Self Driving Car = E-Waste. 50M tons per year. Your old phone is in there somewhere."
+  },
+  "sail+semiconductor": {
+    "result": "e-waste",
+    "reasoning": "Sail + Semiconductor = E-Waste. 50M tons per year. Your old phone is in there somewhere."
   }
 }

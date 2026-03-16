@@ -1,195 +1,63 @@
 {
-  "fire+hot-air-balloon": {
-    "result": "bellows",
-    "reasoning": "Combine Hot Air Balloon with Fire to create Bellows."
-  },
-  "fire+magnifying-glass": {
-    "result": "lens",
-    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
-  },
-  "fire+pliers": {
-    "result": "tongs",
-    "reasoning": "Combine Pliers with Fire to create Tongs."
-  },
-  "fire+soldering-iron": {
-    "result": "ingot",
-    "reasoning": "Smelting Soldering Iron with Fire creates an Ingot — the foundation of metallurgy."
-  },
-  "fire+spring": {
-    "result": "steam",
-    "reasoning": "Fire turns Spring to Steam — the force that powered the Industrial Revolution."
-  },
-  "fire+tongs": {
-    "result": "brazier",
-    "reasoning": "Combine Tongs with Fire to create Brazier."
-  },
-  "flood+garden-shed": {
-    "result": "garden",
-    "reasoning": "Flood + Garden Shed + patience = a Garden."
-  },
-  "flood+soldering-iron": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Soldering Iron — the slow destruction of Rust."
-  },
-  "forge-bellows+glacial-lake": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Glacial Lake to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+gravel": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Gravel into flowing Lava."
-  },
-  "forge-bellows+hot-spring": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Hot Spring to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+lagoon": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Lagoon to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+lake": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Lake to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+mountain": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts mountain into flowing Lava."
-  },
-  "forge-bellows+mud": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Mud into flowing Lava."
-  },
-  "forge-bellows+ocean": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns ocean to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+rain": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Rain to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+river": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns River to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+sand": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Sand into flowing Lava."
-  },
-  "forge-bellows+sand-bar": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Sand Bar into flowing Lava."
-  },
-  "forge-bellows+sand-storm": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Sand Storm into flowing Lava."
-  },
-  "forge-bellows+sea-cave": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Sea Cave into flowing Lava."
-  },
-  "forge-bellows+sea-stack": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Sea Stack to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+stone": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Stone into flowing Lava."
-  },
-  "forge-bellows+stream": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns stream to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+swamp": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Swamp to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+tide": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Tide to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+tide-pool": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Tide Pool to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+water": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Water to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+waterfall": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Waterfall to Steam — the force that powered the Industrial Revolution."
-  },
-  "frost+spring": {
-    "result": "ice",
-    "reasoning": "Frost freezes Spring into Ice — water's solid form."
-  },
-  "generator+water": {
-    "result": "hydropower",
-    "reasoning": "Generator and Water explain the phenomenon of Hydropower"
-  },
-  "glacial-lake+soldering-iron": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Soldering Iron — the slow destruction of Rust."
-  },
-  "glacier+spring": {
-    "result": "ice",
-    "reasoning": "Glacier freezes Spring into Ice — water's solid form."
-  },
-  "hammer+stone": {
-    "result": "sculpture",
-    "reasoning": "Hammer and Stone create Sculpture"
-  },
-  "hammer+thunder": {
-    "result": "thunder-hammer",
-    "reasoning": "Combine Hammer with Thunder to create Thunder Hammer."
-  },
-  "heat+kettle": {
-    "result": "soldering-iron",
-    "reasoning": "Combine Kettle with Heat to create Soldering Iron."
-  },
-  "heat+magnifying-glass": {
-    "result": "lens",
-    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
-  },
-  "heat+soldering-iron": {
-    "result": "heat-pump",
-    "reasoning": "Combine Heat with Soldering Iron to create Heat Pump."
-  },
-  "heat+spring": {
-    "result": "steam",
-    "reasoning": "Heat turns Spring to Steam — the force that powered the Industrial Revolution."
-  },
-  "hot-air-balloon+hot-spring": {
-    "result": "thermal-pool",
-    "reasoning": "Combine Hot Spring with Hot Air Balloon to create Thermal Pool."
-  },
-  "hot-spring+soldering-iron": {
-    "result": "rust",
-    "reasoning": "Hot Spring oxidizes Soldering Iron — the slow destruction of Rust."
-  },
   "hot-spring+spring": {
     "result": "dynamometer",
-    "reasoning": "Combine Spring with Hot Spring to create Dynamometer."
+    "reasoning": "Here's the connection: A hot spring, thermal spring, hydrothermal spring, or geothermal spring is a spring produced by the emergence of geothermally heated groundwater onto the surface of the Earth. So Hot Spring + Spring = Dynamometer."
   },
   "ice+motorcycle": {
     "result": "snowmobile",
     "reasoning": "A motorcycle adapted for ice is a Snowmobile"
   },
+  "ice+satellite": {
+    "result": "canada",
+    "reasoning": "Ice and Satellite share a deep connection. Canada is a country in North America. Result: Canada."
+  },
   "ice+spring": {
     "result": "glacier",
     "reasoning": "Millennia of Ice compact Spring into a massive Glacier."
   },
+  "ice+thermometer": {
+    "result": "absolute-zero",
+    "reasoning": "Wikipedia says: Absolute zero is the lowest theoretically possible temperature, a state at which a system's internal energy, and in ideal cases entropy, reach their minimum values. That explains why Ice + Thermometer = Absolute Zero."
+  },
+  "iceberg+weight": {
+    "result": "buoyancy",
+    "reasoning": "Here's a real-world link: Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. Combine Iceberg with weight and you get Buoyancy."
+  },
   "kettle+water": {
     "result": "snorkel",
-    "reasoning": "Combine Water with Kettle to create Snorkel."
+    "reasoning": "A kettle, sometimes called a tea kettle or teakettle, is a device specialized for boiling water, commonly with a lid, spout, and handle. That's how Kettle and Water give us Snorkel."
   },
   "lagoon+soldering-iron": {
     "result": "rust",
     "reasoning": "Lagoon oxidizes Soldering Iron — the slow destruction of Rust."
   },
+  "lake+rivet": {
+    "result": "building",
+    "reasoning": "Lake and Rivet share a deep connection. A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Result: building."
+  },
   "lake+soldering-iron": {
     "result": "rust",
     "reasoning": "Lake oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "land+machine": {
+    "result": "airplane",
+    "reasoning": "Wikipedia says: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. That explains why land + machine = Airplane."
+  },
+  "land+tool": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when land meets tool, Airplane is the natural outcome."
+  },
+  "landslide+road": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. So when Landslide meets Road, Avalanche is the natural outcome."
+  },
+  "lantern+rain": {
+    "result": "lighthouse",
+    "reasoning": "The Fresnel lens, invented in 1822 and installed in lighthouse lanterns, could project a single flame's light over 20 miles even through heavy rain and fog — reducing maritime shipwrecks so dramatically that France alone saved an estimated 400 ships in the first decade of use."
+  },
+  "lantern+smoke": {
+    "result": "combustion",
+    "reasoning": "The science is clear — Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Lantern and Smoke for Combustion."
   },
   "lava-field+magnifying-glass": {
     "result": "lens",
@@ -219,13 +87,13 @@
     "result": "lens",
     "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
   },
+  "lava+quill": {
+    "result": "obsidian",
+    "reasoning": "Before bird-feather quills, ancient Mesoamerican and Pacific Island peoples used blades of volcanic obsidian to incise writing and images into surfaces, as obsidian fractures to edges sharper than surgical steel."
+  },
   "lava+soldering-iron": {
     "result": "ingot",
     "reasoning": "Smelting Soldering Iron with Lava creates an Ingot — the foundation of metallurgy."
-  },
-  "lava+spring": {
-    "result": "steam",
-    "reasoning": "Lava turns Spring to Steam — the force that powered the Industrial Revolution."
   },
   "lever+stone": {
     "result": "lever",
@@ -235,205 +103,37 @@
     "result": "led",
     "reasoning": "Lightning + Magnifying Glass = LED — efficient light that changed the world."
   },
+  "lightning+satellite": {
+    "result": "cloud",
+    "reasoning": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. That's the connection between Lightning and Satellite — giving us Cloud."
+  },
   "lightning+soldering-iron": {
     "result": "magnet",
     "reasoning": "Lightning through Soldering Iron = Magnet — invisible force, visible wonder."
+  },
+  "lightning+weight": {
+    "result": "joule",
+    "reasoning": "The joule — the SI unit of energy — was named after James Prescott Joule, who in 1843 proved that mechanical work (lifting a weight) and heat are equivalent forms of energy, unifying the physics of a lightning bolt with that of a falling hammer."
+  },
+  "machine+puddle": {
+    "result": "boat",
+    "reasoning": "Wikipedia says: A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. That explains why machine + Puddle = Boat."
   },
   "machine+water": {
     "result": "pump",
     "reasoning": "Crafting machine with Water produces Pump"
   },
+  "mesa+weight": {
+    "result": "mars",
+    "reasoning": "Mars is the fourth planet from the Sun. So when Mesa meets weight, Mars is the natural outcome."
+  },
   "mist+mortar-and-pestle": {
     "result": "garden-shed",
     "reasoning": "Mist + Mortar and Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "mist+motor": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Motor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+motorcycle": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Motorcycle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+mousetrap": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Mousetrap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+needle": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Needle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+notebook": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Notebook = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+oar": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Oar = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+padlock": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Padlock = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pen": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pen = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pencil": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pestle": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pestle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pick": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pick = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+piston": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Piston = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+plane": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Plane = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pliers": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pliers = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+plough": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Plough = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+plumb-bob": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Plumb Bob = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+power-tool": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Power Tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+protractor": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Protractor = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pulley": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pulley = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+pump": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Pump = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+purse": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Purse = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+quill": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Quill = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+quiver": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Quiver = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+raft": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Raft = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+railway": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Railway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+rake": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Rake = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+ratchet": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Ratchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+rivet": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Rivet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+road": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Road = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+rocket": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Rocket = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+ruler": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Ruler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sailboat": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sailboat = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+satellite": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Satellite = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+saw": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+scale": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Scale = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+scalpel": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Scalpel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+scissors": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Scissors = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+screw": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Screw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sextant": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sextant = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+ship": {
-    "result": "garden-shed",
-    "reasoning": "Mist + ship = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+shovel": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Shovel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sickle": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sickle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sieve": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sieve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sled": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sled = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "mist+sledgehammer": {
     "result": "garden-shed",
     "reasoning": "Mist + Sledgehammer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+smelting": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Smelting = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+snorkel": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Snorkel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "mist+socket-wrench": {
     "result": "garden-shed",
@@ -443,161 +143,45 @@
     "result": "garden-shed",
     "reasoning": "Mist + Soldering Iron = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "mist+spear": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Spear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+spindle": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Spindle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+spring": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Spring = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+spyglass": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Spyglass = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+stapler": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Stapler = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+stencil": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Stencil = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+submarine": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Submarine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+subway": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Subway = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+suitcase": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Suitcase = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+sundial": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sundial = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "mist+swiss-army-knife": {
     "result": "garden-shed",
     "reasoning": "Mist + Swiss Army Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "mist+sword": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Sword = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+tanning": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Tanning = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+taxi": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Taxi = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+    "result": "samurai",
+    "reasoning": "Japanese swordsmanship schools trained specifically in misty dawn conditions, as diffuse early-morning light reveals the hamon temper line along a blade's edge and conceals a fighter's footwork on dewy ground."
   },
   "mist+thermometer": {
     "result": "garden-shed",
     "reasoning": "Mist + Thermometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "mist+tongs": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+tool": {
-    "result": "garden-shed",
-    "reasoning": "Mist + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+traffic": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Traffic = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+train": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Train = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+trap": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Trap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+trebuchet": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Trebuchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+tripod": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Tripod = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+trowel": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Trowel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+truck": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Truck = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+turbine": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Turbine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+valve": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Valve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+vise": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Vise = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+wagon": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Wagon = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+wallet": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Wallet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+weaving": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Weaving = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+weight": {
-    "result": "garden-shed",
-    "reasoning": "Mist + weight = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+welding": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Welding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+wheel": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Wheel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "mist+wheelbarrow": {
     "result": "garden-shed",
     "reasoning": "Mist + Wheelbarrow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "mist+whetstone": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Whetstone = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+winch": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Winch = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+wing": {
-    "result": "garden-shed",
-    "reasoning": "Mist + wing = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "mist+wrench": {
-    "result": "garden-shed",
-    "reasoning": "Mist + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "mortar-and-pestle+stone": {
     "result": "pestle",
-    "reasoning": "Combine Mortar And Pestle with Stone to create Pestle."
+    "reasoning": "Mortar and Pestle and Stone together? A mortar and pestle is a set of two simple tools used to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, laboratory, and pharmacy. The result: Pestle."
+  },
+  "mountain+rivet": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So when mountain meets Rivet, building is the natural outcome."
+  },
+  "mud+road": {
+    "result": "bitumen",
+    "reasoning": "Wikipedia says: Bitumen is an immensely viscous constituent of petroleum. That explains why Mud + Road = Bitumen."
+  },
+  "mud+spear": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Mud and Spear for Bitumen."
+  },
+  "notebook+rain": {
+    "result": "journal",
+    "reasoning": "The Romantic poets — Coleridge, Keats, and Wordsworth — famously wrote their most celebrated verses in rain-soaked notebooks during stormy retreats in the English Lake District."
+  },
+  "obsidian+pliers": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. That's the connection between Obsidian and Pliers — giving us Bronze."
   },
   "ocean+ship": {
     "result": "submarine",
@@ -607,33 +191,141 @@
     "result": "rust",
     "reasoning": "ocean oxidizes Soldering Iron — the slow destruction of Rust."
   },
+  "pebble+shovel": {
+    "result": "gravel",
+    "reasoning": "Wikipedia says: Gravel is a loose aggregation of rock fragments. That explains why Pebble + Shovel = Gravel."
+  },
+  "pen+pressure": {
+    "result": "capillary-action",
+    "reasoning": "Pen and Pressure share a deep connection. Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Result: Capillary Action."
+  },
+  "pen+quicksand": {
+    "result": "gel",
+    "reasoning": "Wikipedia says: A gel is a semi-solid that can have properties ranging from soft and weak to hard and tough. That explains why Pen + Quicksand = Gel."
+  },
+  "pencil+rainforest": {
+    "result": "charcoal",
+    "reasoning": "Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. So when Pencil meets Rainforest, Charcoal is the natural outcome."
+  },
   "piston+steam": {
     "result": "steam-engine",
-    "reasoning": "Combine Steam with Piston to create Steam Engine."
+    "reasoning": "A piston is a component of reciprocating engines, reciprocating pumps, gas compressors, hydraulic cylinders and pneumatic cylinders, among other similar mechanisms. That's how Piston and Steam give us Steam Engine."
+  },
+  "plateau+rivet": {
+    "result": "bridge",
+    "reasoning": "Here's a real-world link: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Combine Plateau with Rivet and you get Bridge."
+  },
+  "pliers+prairie": {
+    "result": "blacksmith",
+    "reasoning": "Here's a real-world link: A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Combine Pliers with Prairie and you get Blacksmith."
+  },
+  "prairie+spear": {
+    "result": "blacksmith",
+    "reasoning": "Here's a real-world link: A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Combine Prairie with Spear and you get Blacksmith."
+  },
+  "prairie+tongs": {
+    "result": "blacksmith",
+    "reasoning": "A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. That's the connection between Prairie and Tongs — giving us Blacksmith."
+  },
+  "prairie+welding": {
+    "result": "blacksmith",
+    "reasoning": "The science is clear — A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Mix Prairie and Welding for Blacksmith."
+  },
+  "pressure+pump": {
+    "result": "capillary-action",
+    "reasoning": "Pressure and Pump share a deep connection. Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Result: Capillary Action."
+  },
+  "pressure+quill": {
+    "result": "capillary-action",
+    "reasoning": "Pressure and Quill share a deep connection. Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Result: Capillary Action."
+  },
+  "pressure+satellite": {
+    "result": "cloud",
+    "reasoning": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. So when Pressure meets Satellite, Cloud is the natural outcome."
+  },
+  "pressure+thermometer": {
+    "result": "capillary-action",
+    "reasoning": "Wikipedia says: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. That explains why Pressure + Thermometer = Capillary Action."
+  },
+  "puddle+sailboat": {
+    "result": "boat",
+    "reasoning": "Here's a real-world link: A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. Combine Puddle with Sailboat and you get Boat."
+  },
+  "puddle+trowel": {
+    "result": "cement",
+    "reasoning": "The science is clear — A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Mix Puddle and Trowel for Cement."
+  },
+  "puddle+valve": {
+    "result": "cement",
+    "reasoning": "The science is clear — A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Mix Puddle and Valve for Cement."
   },
   "pump+stone": {
     "result": "fountain",
     "reasoning": "Pump and Stone create Fountain"
   },
+  "quill+wind": {
+    "result": "poem",
+    "reasoning": "Shelley's 'Ode to the West Wind,' written with a quill in 1819, asked the wind to scatter his words 'among mankind' like dead leaves, and became one of literature's greatest celebrations of both poetic inspiration and meteorological force."
+  },
+  "rain+road": {
+    "result": "mud",
+    "reasoning": "Unpaved roads become impassable mud after heavy rain, a tactical reality that historically defined military campaign seasons — armies halted operations when roads turned to quagmire."
+  },
   "rain+soldering-iron": {
     "result": "rust",
     "reasoning": "Rain oxidizes Soldering Iron — the slow destruction of Rust."
+  },
+  "rain+spear": {
+    "result": "fishing",
+    "reasoning": "Spear fishing in rain has been practiced for over 500,000 years, and rain actually improves yields by diffusing surface light that would otherwise let fish see the hunter lurking above the water."
+  },
+  "rain+submarine": {
+    "result": "thermocline",
+    "reasoning": "Rain chills the ocean surface, sharpening the thermocline — a steep temperature boundary that reflects sonar pulses, giving submarines a hiding layer beneath it."
+  },
+  "rain+thermometer": {
+    "result": "meteorology",
+    "reasoning": "The rain gauge (invented 1441 in Korea) and mercury thermometer (invented 1714 by Fahrenheit) became the two foundational instruments from which meteorology grew as a quantitative science."
+  },
+  "rain+traffic": {
+    "result": "flood",
+    "reasoning": "Urban flash floods occur when rain intensity exceeds the drainage capacity of road storm sewers, turning streets into rivers within minutes and stranding vehicles."
+  },
+  "rain+trowel": {
+    "result": "mud",
+    "reasoning": "The earliest bricks in Mesopotamia were shaped from Nile and Tigris mud using trowel-like tools, with builders timing their work to coincide with seasonal rains that provided just the right consistency of clay."
+  },
+  "rainbow+sickle": {
+    "result": "anvil",
+    "reasoning": "Rainbow and Sickle share a deep connection. An anvil is a metalworking tool consisting of a large block of metal, with a flattened top surface, upon which another object is struck. Result: Anvil."
+  },
+  "rainforest+satellite": {
+    "result": "brazil",
+    "reasoning": "Here's a real-world link: Brazil, officially the Federative Republic of Brazil, is the largest country in South America. Combine Rainforest with Satellite and you get Brazil."
+  },
+  "rainforest+smelting": {
+    "result": "charcoal",
+    "reasoning": "Wikipedia says: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. That explains why Rainforest + Smelting = Charcoal."
+  },
+  "rainforest+sword": {
+    "result": "conquistador",
+    "reasoning": "Spanish conquistadors hacking through Central and South American rainforests with steel swords in the 16th century destroyed civilizations that had thrived for millennia, triggering the largest ecological and demographic catastrophe in the Western Hemisphere."
   },
   "river+soldering-iron": {
     "result": "rust",
     "reasoning": "River oxidizes Soldering Iron — the slow destruction of Rust."
   },
+  "road+tsunami": {
+    "result": "avalanche",
+    "reasoning": "The science is clear — An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. Mix Road and Tsunami for Avalanche."
+  },
+  "rocket+stalactite": {
+    "result": "chemical-reaction",
+    "reasoning": "The science is clear — A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another. Mix Rocket and Stalactite for Chemical reaction."
+  },
   "salt-flat+satellite": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Satellite = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+saw": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Saw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+scale": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Scale = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+scalpel": {
     "result": "garden-shed",
@@ -643,17 +335,9 @@
     "result": "garden-shed",
     "reasoning": "Salt Flat + Scissors = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+screw": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Screw = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+sextant": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Sextant = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+ship": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + ship = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+shovel": {
     "result": "garden-shed",
@@ -662,14 +346,6 @@
   "salt-flat+sickle": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Sickle = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+sieve": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Sieve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+sled": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Sled = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+sledgehammer": {
     "result": "garden-shed",
@@ -690,10 +366,6 @@
   "salt-flat+soldering-iron": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Soldering Iron = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+spear": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Spear = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+spindle": {
     "result": "garden-shed",
@@ -735,41 +407,17 @@
     "result": "garden-shed",
     "reasoning": "Salt Flat + Swiss Army Knife = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+sword": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Sword = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+tanning": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Tanning = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+taxi": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Taxi = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+thermometer": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Thermometer = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+tongs": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+tool": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+traffic": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Traffic = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+train": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Train = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+trap": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Trap = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+trebuchet": {
     "result": "garden-shed",
@@ -783,25 +431,9 @@
     "result": "garden-shed",
     "reasoning": "Salt Flat + Trowel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+truck": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Truck = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+turbine": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Turbine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+valve": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Valve = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+vise": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Vise = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+wagon": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Wagon = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
   "salt-flat+wallet": {
     "result": "garden-shed",
@@ -819,10 +451,6 @@
     "result": "garden-shed",
     "reasoning": "Salt Flat + Welding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+wheel": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Wheel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+wheelbarrow": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Wheelbarrow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
@@ -831,33 +459,77 @@
     "result": "garden-shed",
     "reasoning": "Salt Flat + Whetstone = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "salt-flat+winch": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + Winch = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
-  "salt-flat+wing": {
-    "result": "garden-shed",
-    "reasoning": "Salt Flat + wing = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
-  },
   "salt-flat+wrench": {
     "result": "garden-shed",
     "reasoning": "Salt Flat + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "sand+welding": {
+    "result": "glass",
+    "reasoning": "Silica sand is the key ingredient in both glass (melted at 1,700°C into a transparent solid) and welding flux (where it forms a protective slag layer that floats impurities to the surface of a weld bead)."
+  },
+  "satellite+smoke": {
+    "result": "cloud",
+    "reasoning": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. So when Satellite meets Smoke, Cloud is the natural outcome."
+  },
+  "satellite+snow": {
+    "result": "canada",
+    "reasoning": "Here's a real-world link: Canada is a country in North America. Combine Satellite with Snow and you get Canada."
+  },
+  "satellite+storm": {
+    "result": "cloud",
+    "reasoning": "The science is clear — In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. Mix Satellite and Storm for Cloud."
+  },
+  "satellite+weather": {
+    "result": "cloud",
+    "reasoning": "In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. So when Satellite meets weather, Cloud is the natural outcome."
+  },
+  "screw+steam": {
+    "result": "industrial-revolution",
+    "reasoning": "The science is clear — Beginning in Great Britain around 1760, the Industrial Revolution had spread to continental Europe and the United States by about 1840. Mix Screw and Steam for Industrial Revolution."
   },
   "sea-stack+soldering-iron": {
     "result": "rust",
     "reasoning": "Sea Stack oxidizes Soldering Iron — the slow destruction of Rust."
   },
+  "sextant+steam": {
+    "result": "mist",
+    "reasoning": "Wikipedia says: Mist is a natural phenomenon caused by small droplets of water aerosols suspended in the cold air, usually by condensation. That explains why Sextant + Steam = Mist."
+  },
+  "shovel+strait": {
+    "result": "gravel",
+    "reasoning": "Wikipedia says: Gravel is a loose aggregation of rock fragments. That explains why Shovel + Strait = Gravel."
+  },
+  "sled+steam": {
+    "result": "ice",
+    "reasoning": "Ice is water that is frozen into a solid state, typically forming at or below temperatures of 0 °C, 32 °F, or 273.15 K. That's the connection between Sled and Steam — giving us Ice."
+  },
+  "smelting+smoke": {
+    "result": "carbon",
+    "reasoning": "Carbon is a chemical element; it has symbol C and atomic number 6. That's the connection between Smelting and Smoke — giving us Carbon."
+  },
+  "smelting+stalactite": {
+    "result": "chemical-reaction",
+    "reasoning": "Smelting and Stalactite share a deep connection. A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another. Result: Chemical reaction."
+  },
   "smelting+stone": {
     "result": "lava",
     "reasoning": "Smelting melts Stone into flowing Lava."
   },
-  "snow+spring": {
-    "result": "ice",
-    "reasoning": "Snow freezes Spring into Ice — water's solid form."
+  "spear+wind": {
+    "result": "arrow",
+    "reasoning": "Ancient archers developed sophisticated techniques to compensate for crosswind, eventually leading to the fletching design — angled feathers that spin arrows for stability — still used today."
   },
   "spring+stone": {
     "result": "mud",
     "reasoning": "Spring + Stone = Mud — simple, squishy, essential."
+  },
+  "stalactite+trebuchet": {
+    "result": "france",
+    "reasoning": "France, officially the French Republic, is a country primarily located in Western Europe. So when Stalactite meets Trebuchet, France is the natural outcome."
+  },
+  "steam+thermometer": {
+    "result": "autoclave",
+    "reasoning": "The science is clear — An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Steam and Thermometer for Autoclave."
   },
   "stone+sword": {
     "result": "catapult",
@@ -869,14 +541,70 @@
   },
   "stone+wheel": {
     "result": "grinder",
-    "reasoning": "Combine Wheel with Stone to create Grinder."
+    "reasoning": "In geology, a rock is any naturally occurring solid mass or aggregate of minerals or mineraloid matter. That's how Stone and Wheel give us Grinder."
   },
-  "tide-pool+tongs": {
+  "tide-pool+traffic": {
     "result": "garden-shed",
-    "reasoning": "Tide Pool + Tongs = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+    "reasoning": "Tide Pool + Traffic = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   },
-  "tide-pool+tool": {
+  "tide-pool+trebuchet": {
     "result": "garden-shed",
-    "reasoning": "Tide Pool + tool = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+    "reasoning": "Tide Pool + Trebuchet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+tripod": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Tripod = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+trowel": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Trowel = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+turbine": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Turbine = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+wallet": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Wallet = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+weaving": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Weaving = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+weight": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + weight = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+welding": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Welding = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+wheelbarrow": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Wheelbarrow = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+whetstone": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Whetstone = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "tide-pool+wrench": {
+    "result": "garden-shed",
+    "reasoning": "Tide Pool + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
+  },
+  "trowel+wind": {
+    "result": "archaeologist",
+    "reasoning": "Desert archaeologists rely on wind erosion to expose buried artifacts just below the surface, then use trowels to carefully excavate them layer by layer—nowhere more productively than in the Gobi Desert, where wind constantly uncovers dinosaur fossils."
+  },
+  "turbine+wind": {
+    "result": "wind-turbine",
+    "reasoning": "A wind turbine is a device that converts the kinetic energy of wind into electrical energy. That's how Turbine and Wind give us Wind Turbine."
+  },
+  "water+wheel": {
+    "result": "water-wheel",
+    "reasoning": "Water and Wheel together? A water wheel is a machine for converting the kinetic energy of flowing or falling water into useful forms of power, often in a watermill. The result: Water Wheel."
+  },
+  "whirlpool+wrench": {
+    "result": "garden-shed",
+    "reasoning": "Whirlpool + Wrench = a Garden Shed. Part storage, part sanctuary, 100% full of spiders."
   }
 }

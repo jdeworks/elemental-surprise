@@ -1,55 +1,431 @@
 {
   "3d-model+radio": {
     "result": "radar",
-    "reasoning": "Combine Radio with 3D Model to create Radar."
+    "reasoning": "Radar is a system that uses radio waves to determine the distance (ranging), direction, and radial velocity of objects relative to the site. Combine 3D Model with Radio and you naturally get Radar."
+  },
+  "abstraction+bit": {
+    "result": "communication",
+    "reasoning": "The science is clear — Communication is commonly defined as the transmission of information. Mix Abstraction and Bit for Communication."
+  },
+  "abstraction+meme": {
+    "result": "consciousness",
+    "reasoning": "The science is clear — Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. Mix Abstraction and Meme for Consciousness."
+  },
+  "abstraction+pattern": {
+    "result": "consciousness",
+    "reasoning": "Here's a real-world link: Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. Combine Abstraction with pattern and you get Consciousness."
+  },
+  "abstraction+podcast": {
+    "result": "communication",
+    "reasoning": "Here's a real-world link: Communication is commonly defined as the transmission of information. Combine Abstraction with Podcast and you get Communication."
+  },
+  "abstraction+vlog": {
+    "result": "communication",
+    "reasoning": "Here's a real-world link: Communication is commonly defined as the transmission of information. Combine Abstraction with Vlog and you get Communication."
   },
   "air-conditioner+compressor": {
     "result": "pneumatic",
-    "reasoning": "Combine Air Conditioner with Compressor to create Pneumatic."
+    "reasoning": "Pneumatics is the use of gas or pressurized air to create mechanical motion in mechanical systems. Combine Air Conditioner with Compressor and you naturally get Pneumatic."
+  },
+  "airbnb+amazon": {
+    "result": "apple-company",
+    "reasoning": "The science is clear — is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer electronics, software and online services. Mix Airbnb and Amazon for Apple Company."
+  },
+  "airbnb+github": {
+    "result": "stack-overflow",
+    "reasoning": "The science is clear — Stack Overflow is a question-and-answer website for computer programmers. Mix Airbnb and GitHub for Stack Overflow."
+  },
+  "airbnb+instagram": {
+    "result": "anthropic",
+    "reasoning": "Wikipedia says: Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco. That explains why Airbnb + Instagram = Anthropic."
+  },
+  "airbnb+reddit": {
+    "result": "anthropic",
+    "reasoning": "Here's a real-world link: Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco. Combine Airbnb with Reddit and you get Anthropic."
+  },
+  "airbnb+stack-overflow": {
+    "result": "github",
+    "reasoning": "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. That's the connection between Airbnb and Stack Overflow — giving us GitHub."
+  },
+  "airbnb+tesla": {
+    "result": "amazon",
+    "reasoning": "Wikipedia says: is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. That explains why Airbnb + Tesla = Amazon."
+  },
+  "airbnb+uber": {
+    "result": "anthropic",
+    "reasoning": "Wikipedia says: Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco. That explains why Airbnb + Uber = Anthropic."
+  },
+  "airbnb+wikipedia": {
+    "result": "youtube",
+    "reasoning": "Here's a real-world link: YouTube is an American online video sharing platform owned by Google. Combine Airbnb with Wikipedia and you get YouTube."
+  },
+  "airbnb+youtube": {
+    "result": "wikipedia",
+    "reasoning": "Wikipedia says: Wikipedia is a free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and the wiki software MediaWiki. That explains why Airbnb + YouTube = Wikipedia."
   },
   "algorithm+algorithm": {
     "result": "recursion",
-    "reasoning": "Applying Algorithm to Algorithm produces Recursion"
+    "reasoning": "Algorithm and Algorithm together? Recursion occurs when the definition of a concept or process depends on a simpler or previous version of itself. The result: Recursion."
   },
   "algorithm+browser": {
     "result": "search-engine",
-    "reasoning": "Applying Algorithm to Browser produces Search Engine"
+    "reasoning": "Did you know? A search engine is a software system that provides hyperlinks to web pages, and other relevant information on the Web in response to a user's query. That's why Algorithm + Browser = Search Engine."
   },
   "algorithm+data": {
     "result": "stack",
-    "reasoning": "Applying Algorithm to data produces Stack"
+    "reasoning": "Here's the connection: In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. So Algorithm + data = Stack."
+  },
+  "algorithm+pattern": {
+    "result": "chaos-theory",
+    "reasoning": "Here's a real-world link: Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Combine Algorithm with pattern and you get Chaos Theory."
+  },
+  "algorithm+recursion": {
+    "result": "chaos-theory",
+    "reasoning": "Wikipedia says: Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. That explains why Algorithm + Recursion = Chaos Theory."
   },
   "algorithm+variable": {
     "result": "function",
-    "reasoning": "Applying Algorithm to Variable produces Function"
+    "reasoning": "In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Combine Algorithm with Variable and you naturally get Function."
+  },
+  "amazon+github": {
+    "result": "google",
+    "reasoning": "Amazon and GitHub share a deep connection. It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Result: Google."
+  },
+  "amazon+google-maps": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. So when Amazon meets Google Maps, API is the natural outcome."
+  },
+  "amazon+instagram": {
+    "result": "api",
+    "reasoning": "Amazon and Instagram share a deep connection. An application programming interface (API) is a connection between computers or between computer programs. Result: API."
+  },
+  "amazon+internet": {
+    "result": "airbnb",
+    "reasoning": "The science is clear — is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. Mix Amazon and internet for Airbnb."
+  },
+  "amazon+javascript": {
+    "result": "api",
+    "reasoning": "Amazon and JavaScript share a deep connection. An application programming interface (API) is a connection between computers or between computer programs. Result: API."
+  },
+  "amazon+kubernetes": {
+    "result": "api",
+    "reasoning": "Wikipedia says: An application programming interface (API) is a connection between computers or between computer programs. That explains why Amazon + Kubernetes = API."
+  },
+  "amazon+linux": {
+    "result": "api",
+    "reasoning": "Here's a real-world link: An application programming interface (API) is a connection between computers or between computer programs. Combine Amazon with Linux and you get API."
+  },
+  "amazon+tesla": {
+    "result": "airbnb",
+    "reasoning": "is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. So when Amazon meets Tesla, Airbnb is the natural outcome."
+  },
+  "amazon+uber": {
+    "result": "airbnb",
+    "reasoning": "is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. So when Amazon meets Uber, Airbnb is the natural outcome."
+  },
+  "amplifier+bit": {
+    "result": "cathode-ray-tube",
+    "reasoning": "A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. So when Amplifier meets Bit, Cathode Ray Tube is the natural outcome."
+  },
+  "amplifier+capacitor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Amplifier + Capacitor = Cathode Ray Tube."
+  },
+  "amplifier+diode": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. That's the connection between Amplifier and Diode — giving us Capacitor."
+  },
+  "amplifier+electricity": {
+    "result": "capacitor",
+    "reasoning": "The science is clear — A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Mix Amplifier and Electricity for Capacitor."
+  },
+  "amplifier+loudspeaker": {
+    "result": "capacitor",
+    "reasoning": "Here's a real-world link: A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Combine Amplifier with Loudspeaker and you get Capacitor."
   },
   "amplifier+magnet": {
     "result": "speaker",
-    "reasoning": "Applying Amplifier to magnet produces Speaker"
+    "reasoning": "Did you know? Speaker most commonly refers to:Speaker, a person who produces speech\nLoudspeaker, a device that produces sound\nComputer speakers That's why Amplifier + magnet = Speaker."
+  },
+  "amplifier+microphone": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. So when Amplifier meets Microphone, Capacitor is the natural outcome."
+  },
+  "amplifier+oscilloscope": {
+    "result": "amplitude",
+    "reasoning": "The science is clear — The amplitude of a periodic variable is a measure of its change in a single period. Mix Amplifier and Oscilloscope for Amplitude."
+  },
+  "amplifier+photodiode": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. So when Amplifier meets Photodiode, Capacitor is the natural outcome."
+  },
+  "amplifier+potentiometer": {
+    "result": "capacitor",
+    "reasoning": "Amplifier and Potentiometer share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
+  },
+  "amplifier+radio": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. That's the connection between Amplifier and Radio — giving us Amplitude."
+  },
+  "amplifier+resistor": {
+    "result": "capacitor",
+    "reasoning": "The science is clear — A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Mix Amplifier and Resistor for Capacitor."
+  },
+  "amplifier+synthesizer": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Amplifier with Synthesizer and you get Amplitude."
+  },
+  "amplifier+thermostat": {
+    "result": "capacitor",
+    "reasoning": "Here's a real-world link: A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Combine Amplifier with Thermostat and you get Capacitor."
+  },
+  "amplifier+transformer": {
+    "result": "capacitor",
+    "reasoning": "The science is clear — A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Mix Amplifier and Transformer for Capacitor."
+  },
+  "amplifier+transistor": {
+    "result": "capacitor",
+    "reasoning": "Amplifier and Transistor share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
+  },
+  "android+neuralink": {
+    "result": "cyborg",
+    "reasoning": "Android and Neuralink share a deep connection. A cyborg is a being with both organic and biomechatronic body parts. Result: Cyborg."
   },
   "antenna+radio": {
     "result": "broadcast",
-    "reasoning": "Applying antenna to Radio produces Broadcast"
+    "reasoning": "Here's the connection: Broadcasting is the distribution of audio and audiovisual content to dispersed audiences via an electronic mass communications medium, typically using radio waves in a one-to-many model. So antenna + Radio = Broadcast."
   },
   "antenna+screen": {
     "result": "television",
-    "reasoning": "Applying antenna to screen produces Television"
+    "reasoning": "Did you know? Television (TV) is a telecommunication medium for transmitting moving images and sound. That's why antenna + screen = Television."
+  },
+  "api+email": {
+    "result": "contract",
+    "reasoning": "Here's a real-world link: A contract is an agreement that specifies certain legally enforceable rights and obligations pertaining to two or more parties. Combine API with Email and you get Contract."
+  },
+  "api+ethernet": {
+    "result": "computer",
+    "reasoning": "Through Bibcode (Identifier), API and Ethernet find common ground: Computer."
+  },
+  "api+graphql": {
+    "result": "database",
+    "reasoning": "The DBMS additionally encompasses the core facilities provided to administer the database. So when API meets GraphQL, Database is the natural outcome."
+  },
+  "api+hacker": {
+    "result": "compiler",
+    "reasoning": "In computing, a compiler is software that translates computer code written in one programming language into another language. That's the connection between API and Hacker — giving us Compiler."
+  },
+  "api+html": {
+    "result": "xml",
+    "reasoning": "Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing data. So when API meets HTML, XML is the natural outcome."
   },
   "api+internet": {
     "result": "rest-api",
-    "reasoning": "Applying API to internet produces REST API"
+    "reasoning": "API and internet together? REST is a software architectural style that was created to describe the design and guide the development of the architecture for the World Wide Web. The result: REST API."
+  },
+  "api+joystick": {
+    "result": "computer",
+    "reasoning": "The link between API and Joystick? Computer. The result? Computer."
+  },
+  "api+malware": {
+    "result": "computer",
+    "reasoning": "Through Berkeley Software Distribution, API and Malware find common ground: Computer."
+  },
+  "api+password": {
+    "result": "database",
+    "reasoning": "The DBMS additionally encompasses the core facilities provided to administer the database. So when API meets Password, Database is the natural outcome."
+  },
+  "api+podcast": {
+    "result": "computer",
+    "reasoning": "API and Podcast are both connected to Computer — that shared bond creates Computer."
+  },
+  "api+selfie": {
+    "result": "computer",
+    "reasoning": "API and Selfie are both connected to Ars Technica — that shared bond creates Computer."
   },
   "api+software": {
     "result": "microservice",
-    "reasoning": "Applying API to software produces Microservice"
+    "reasoning": "Here's the connection: In software engineering, a microservice architecture is an architectural pattern that organizes an application into a collection of loosely coupled, fine-grained services that communicate through lightweight protocols. So API + software = Microservice."
+  },
+  "api+touchscreen": {
+    "result": "computer",
+    "reasoning": "API and Touchscreen are both connected to Bibcode (Identifier) — that shared bond creates Computer."
+  },
+  "api+upload": {
+    "result": "computer",
+    "reasoning": "API and Upload are both connected to Computing Platform — that shared bond creates Computer."
+  },
+  "api+usb": {
+    "result": "computer",
+    "reasoning": "The link between API and USB? Computer Hardware. The result? Computer."
+  },
+  "api+webcam": {
+    "result": "computer",
+    "reasoning": "The link between API and Webcam? Apple Macintosh. The result? Computer."
+  },
+  "api+website": {
+    "result": "database",
+    "reasoning": "Wikipedia says: The DBMS additionally encompasses the core facilities provided to administer the database. That explains why API + Website = Database."
+  },
+  "api+xml": {
+    "result": "html",
+    "reasoning": "Wikipedia says: Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. That explains why API + XML = HTML."
   },
   "app+message": {
     "result": "notification",
-    "reasoning": "Applying App to message produces Notification"
+    "reasoning": "A message is a unit of communication that conveys information from a sender to a receiver. That's how App and message give us Notification."
   },
   "audio+internet": {
     "result": "podcast",
-    "reasoning": "Applying Audio to internet produces Podcast"
+    "reasoning": "Here's the connection: A podcast is a program episode made available in digital format for download over the Internet. So Audio + internet = Podcast."
+  },
+  "autoclave+defibrillator": {
+    "result": "crutch",
+    "reasoning": "A crutch is a mobility aid that transfers weight from the legs to the upper body. So when Autoclave meets Defibrillator, Crutch is the natural outcome."
+  },
+  "autoclave+gadget": {
+    "result": "electronics",
+    "reasoning": "Here's a real-world link: Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. Combine Autoclave with Gadget and you get Electronics."
+  },
+  "autoclave+metronome": {
+    "result": "electronics",
+    "reasoning": "The science is clear — Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. Mix Autoclave and Metronome for Electronics."
+  },
+  "autoclave+oscilloscope": {
+    "result": "crucible",
+    "reasoning": "Autoclave and Oscilloscope share a deep connection. A crucible is a container in which metals or other substances may be melted or subjected to very high temperatures. Result: Crucible."
+  },
+  "autoclave+radiator": {
+    "result": "electronics",
+    "reasoning": "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. So when Autoclave meets Radiator, Electronics is the natural outcome."
+  },
+  "autoclave+signal": {
+    "result": "electronics",
+    "reasoning": "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. That's the connection between Autoclave and Signal — giving us Electronics."
+  },
+  "automation+compiler": {
+    "result": "algorithm",
+    "reasoning": "Automation and Compiler share a deep connection. In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Result: Algorithm."
+  },
+  "automation+computer": {
+    "result": "algorithm",
+    "reasoning": "In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. So when Automation meets Computer, Algorithm is the natural outcome."
+  },
+  "automation+cyborg": {
+    "result": "artificial-intelligence",
+    "reasoning": "Automation and Cyborg share a deep connection. Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. Result: Artificial Intelligence."
+  },
+  "automation+robot": {
+    "result": "artificial-intelligence",
+    "reasoning": "Wikipedia says: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. That explains why Automation + Robot = Artificial Intelligence."
+  },
+  "automation+technology": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when Automation meets technology, Airplane is the natural outcome."
+  },
+  "barcode+compiler": {
+    "result": "augmented-reality",
+    "reasoning": "The science is clear — Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Mix Barcode and Compiler for Augmented Reality."
+  },
+  "barcode+cyborg": {
+    "result": "augmented-reality",
+    "reasoning": "Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. So when Barcode meets Cyborg, Augmented Reality is the natural outcome."
+  },
+  "barcode+database": {
+    "result": "augmented-reality",
+    "reasoning": "The science is clear — Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Mix Barcode and Database for Augmented Reality."
+  },
+  "barcode+escalator": {
+    "result": "coca-cola",
+    "reasoning": "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. That's the connection between Barcode and Escalator — giving us Coca Cola."
+  },
+  "barcode+ethernet": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and Ethernet share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+instagram": {
+    "result": "augmented-reality",
+    "reasoning": "The science is clear — Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Mix Barcode and Instagram for Augmented Reality."
+  },
+  "barcode+internet": {
+    "result": "coca-cola",
+    "reasoning": "The science is clear — Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Mix Barcode and internet for Coca Cola."
+  },
+  "barcode+jackhammer": {
+    "result": "coca-cola",
+    "reasoning": "Here's a real-world link: Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Combine Barcode with Jackhammer and you get Coca Cola."
+  },
+  "barcode+javascript": {
+    "result": "coca-cola",
+    "reasoning": "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. So when Barcode meets JavaScript, Coca Cola is the natural outcome."
+  },
+  "barcode+joystick": {
+    "result": "coca-cola",
+    "reasoning": "The science is clear — Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Mix Barcode and Joystick for Coca Cola."
+  },
+  "barcode+loudspeaker": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and Loudspeaker share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+metaverse": {
+    "result": "augmented-reality",
+    "reasoning": "Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. That's the connection between Barcode and Metaverse — giving us Augmented Reality."
+  },
+  "barcode+microphone": {
+    "result": "coca-cola",
+    "reasoning": "Here's a real-world link: Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Combine Barcode with Microphone and you get Coca Cola."
+  },
+  "barcode+modem": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and Modem share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+neuralink": {
+    "result": "augmented-reality",
+    "reasoning": "Wikipedia says: Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. That explains why Barcode + Neuralink = Augmented Reality."
+  },
+  "barcode+oscilloscope": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and Oscilloscope share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+phonograph": {
+    "result": "coca-cola",
+    "reasoning": "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. So when Barcode meets Phonograph, Coca Cola is the natural outcome."
+  },
+  "barcode+relay": {
+    "result": "coca-cola",
+    "reasoning": "The science is clear — Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Mix Barcode and Relay for Coca Cola."
+  },
+  "barcode+supercomputer": {
+    "result": "augmented-reality",
+    "reasoning": "Wikipedia says: Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. That explains why Barcode + Supercomputer = Augmented Reality."
+  },
+  "barcode+telephone": {
+    "result": "coca-cola",
+    "reasoning": "The science is clear — Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Mix Barcode and Telephone for Coca Cola."
+  },
+  "barcode+television": {
+    "result": "coca-cola",
+    "reasoning": "The science is clear — Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Mix Barcode and Television for Coca Cola."
+  },
+  "barcode+thermostat": {
+    "result": "coca-cola",
+    "reasoning": "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. That's the connection between Barcode and Thermostat — giving us Coca Cola."
+  },
+  "barcode+touchscreen": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and Touchscreen share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+transistor": {
+    "result": "coca-cola",
+    "reasoning": "Here's a real-world link: Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Combine Barcode with Transistor and you get Coca Cola."
+  },
+  "barcode+usb": {
+    "result": "coca-cola",
+    "reasoning": "Barcode and USB share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "barcode+vlog": {
+    "result": "coca-cola",
+    "reasoning": "Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. So when Barcode meets Vlog, Coca Cola is the natural outcome."
   },
   "battery+battery": {
     "result": "power-grid",
@@ -57,7 +433,7 @@
   },
   "battery+computer": {
     "result": "laptop",
-    "reasoning": "Applying Battery to Computer produces Laptop"
+    "reasoning": "A laptop is a portable personal computer (PC). Combine Battery with Computer and you naturally get Laptop."
   },
   "battery+metal-detector": {
     "result": "magnet",
@@ -65,818 +441,442 @@
   },
   "battery+self-driving-car": {
     "result": "tesla",
-    "reasoning": "Applying Battery to Self Driving Car produces Tesla"
+    "reasoning": "is an American multinational automotive and clean energy company. That's how Battery and Self Driving Car give us Tesla."
+  },
+  "binary+byte": {
+    "result": "bit",
+    "reasoning": "Here's a real-world link: The bit is the most basic unit of information in computing and digital communication. Combine Binary with Byte and you get Bit."
   },
   "binary+electricity": {
     "result": "bit",
-    "reasoning": "Applying Binary to Electricity produces Bit"
+    "reasoning": "The bit is the most basic unit of information in computing and digital communication. Combine Binary with Electricity and you naturally get Bit."
   },
   "binary+electronics": {
     "result": "digital",
-    "reasoning": "Applying Binary to Electronics produces digital"
+    "reasoning": "Binary and Electronics together? Digital usually refers to something using discrete digits, often binary digits. The result: digital."
+  },
+  "binary+loudspeaker": {
+    "result": "bit",
+    "reasoning": "The science is clear — The bit is the most basic unit of information in computing and digital communication. Mix Binary and Loudspeaker for Bit."
+  },
+  "binary+radio": {
+    "result": "bit",
+    "reasoning": "Here's a real-world link: The bit is the most basic unit of information in computing and digital communication. Combine Binary with Radio and you get Bit."
   },
   "bit+bit": {
     "result": "byte",
-    "reasoning": "Applying Bit to Bit produces Byte"
+    "reasoning": "Bit and Bit together? The byte is a unit of digital information that most commonly consists of eight bits. The result: Byte."
+  },
+  "bit+capacitor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Bit and Capacitor for Cathode Ray Tube."
+  },
+  "bit+diode": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Bit and Diode for Cathode Ray Tube."
+  },
+  "bit+electronics": {
+    "result": "capacitor",
+    "reasoning": "Here's a real-world link: A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Combine Bit with Electronics and you get Capacitor."
+  },
+  "bit+error": {
+    "result": "dna",
+    "reasoning": "Here's a real-world link: Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. Combine Bit with error and you get DNA."
+  },
+  "bit+photodiode": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Bit + Photodiode = Cathode Ray Tube."
+  },
+  "bit+potentiometer": {
+    "result": "cathode-ray-tube",
+    "reasoning": "A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That's the connection between Bit and Potentiometer — giving us Cathode Ray Tube."
+  },
+  "bit+resistor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Bit with Resistor and you get Cathode Ray Tube."
+  },
+  "bit+spotify": {
+    "result": "byte",
+    "reasoning": "The byte is a unit of digital information that most commonly consists of eight bits. So when Bit meets Spotify, Byte is the natural outcome."
+  },
+  "bit+thermostat": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Bit and Thermostat for Cathode Ray Tube."
+  },
+  "bit+transformer": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Bit with Transformer and you get Cathode Ray Tube."
+  },
+  "bit+transistor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Bit with Transistor and you get Cathode Ray Tube."
+  },
+  "bit+vlog": {
+    "result": "communication",
+    "reasoning": "Communication is commonly defined as the transmission of information. So when Bit meets Vlog, Communication is the natural outcome."
+  },
+  "bit+xml": {
+    "result": "byte",
+    "reasoning": "The byte is a unit of digital information that most commonly consists of eight bits. That's the connection between Bit and XML — giving us Byte."
+  },
+  "bitcoin+blockchain": {
+    "result": "car",
+    "reasoning": "Wikipedia says: A car, or an automobile, is a motor vehicle with wheels. That explains why Bitcoin + Blockchain = Car."
+  },
+  "bitcoin+cryptocurrency": {
+    "result": "car",
+    "reasoning": "Here's a real-world link: A car, or an automobile, is a motor vehicle with wheels. Combine Bitcoin with Cryptocurrency and you get Car."
+  },
+  "bitcoin+metaverse": {
+    "result": "blockchain",
+    "reasoning": "Wikipedia says: A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. That explains why Bitcoin + Metaverse = Blockchain."
+  },
+  "bitcoin+reddit": {
+    "result": "blockchain",
+    "reasoning": "The science is clear — A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Mix Bitcoin and Reddit for Blockchain."
+  },
+  "bitcoin+spotify": {
+    "result": "blockchain",
+    "reasoning": "Here's a real-world link: A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. Combine Bitcoin with Spotify and you get Blockchain."
+  },
+  "bitcoin+web3": {
+    "result": "blockchain",
+    "reasoning": "A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. So when Bitcoin meets Web3, Blockchain is the natural outcome."
+  },
+  "blockchain+cryptocurrency": {
+    "result": "bank",
+    "reasoning": "A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. So when Blockchain meets Cryptocurrency, Bank is the natural outcome."
+  },
+  "blockchain+database": {
+    "result": "acid",
+    "reasoning": "Wikipedia says: An acid is a molecule or ion capable of either donating a proton (i.e. That explains why Blockchain + Database = Acid."
   },
   "blockchain+internet": {
     "result": "web3",
-    "reasoning": "Applying Blockchain to internet produces Web3"
+    "reasoning": "Did you know? Web3 is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, tokenomics, and privacy-enhancing technologies. That's why Blockchain + internet = Web3."
+  },
+  "blockchain+linux": {
+    "result": "automation",
+    "reasoning": "Wikipedia says: Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. That explains why Blockchain + Linux = Automation."
+  },
+  "blockchain+mail": {
+    "result": "bank",
+    "reasoning": "A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. That's the connection between Blockchain and Mail — giving us Bank."
+  },
+  "blockchain+phishing": {
+    "result": "bitcoin",
+    "reasoning": "Wikipedia says: Bitcoin is the first decentralized cryptocurrency. That explains why Blockchain + Phishing = Bitcoin."
+  },
+  "blockchain+podcast": {
+    "result": "graphene",
+    "reasoning": "Graphene is a variety of the element carbon which occurs naturally in small amounts. So when Blockchain meets Podcast, Graphene is the natural outcome."
+  },
+  "blockchain+ransomware": {
+    "result": "bitcoin",
+    "reasoning": "Wikipedia says: Bitcoin is the first decentralized cryptocurrency. That explains why Blockchain + Ransomware = Bitcoin."
+  },
+  "blockchain+reddit": {
+    "result": "bitcoin",
+    "reasoning": "Bitcoin is the first decentralized cryptocurrency. That's the connection between Blockchain and Reddit — giving us Bitcoin."
+  },
+  "blockchain+robot": {
+    "result": "automation",
+    "reasoning": "Here's a real-world link: Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Combine Blockchain with Robot and you get Automation."
+  },
+  "blockchain+technology": {
+    "result": "automation",
+    "reasoning": "Blockchain and technology share a deep connection. Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Result: Automation."
+  },
+  "blockchain+web3": {
+    "result": "cryptocurrency",
+    "reasoning": "A cryptocurrency is a digital currency designed to work through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it. So when Blockchain meets Web3, Cryptocurrency is the natural outcome."
   },
   "blog+video": {
     "result": "vlog",
-    "reasoning": "Applying blog to video produces Vlog"
+    "reasoning": "Did you know? A vlog, also known as a video blog or video log, is a form of blog for which the medium is video. That's why blog + video = Vlog."
+  },
+  "bluetooth+capacitor": {
+    "result": "submarine",
+    "reasoning": "A submarine is a watercraft capable of independent operation underwater. So when Bluetooth meets Capacitor, Submarine is the natural outcome."
+  },
+  "bluetooth+laptop": {
+    "result": "wi-fi",
+    "reasoning": "Wi-Fi is a family of wireless network protocols based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access, allowing nearby digital devices to exchange data by radio waves. That's the connection between Bluetooth and Laptop — giving us Wi-Fi."
+  },
+  "bluetooth+radar": {
+    "result": "wi-fi",
+    "reasoning": "The science is clear — Wi-Fi is a family of wireless network protocols based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access, allowing nearby digital devices to exchange data by radio waves. Mix Bluetooth and Radar for Wi-Fi."
+  },
+  "bluetooth+thermostat": {
+    "result": "submarine",
+    "reasoning": "Wikipedia says: A submarine is a watercraft capable of independent operation underwater. That explains why Bluetooth + Thermostat = Submarine."
+  },
+  "bluetooth+wi-fi": {
+    "result": "submarine",
+    "reasoning": "Bluetooth and Wi-Fi share a deep connection. A submarine is a watercraft capable of independent operation underwater. Result: Submarine."
+  },
+  "bug+cable": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Cable to create Brook."
+  },
+  "bug+domain": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Domain to create Brook."
+  },
+  "bug+fame": {
+    "result": "brook",
+    "reasoning": "Bug and fame both belong to the world of Place Name Disambiguation Pages — combine them for Brook."
+  },
+  "bug+forum": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Forum to create Brook."
+  },
+  "bug+loop": {
+    "result": "brook",
+    "reasoning": "Both Bug and Loop are rooted in Place Name Disambiguation Pages. Together they make Brook."
+  },
+  "bug+monitor": {
+    "result": "brook",
+    "reasoning": "Both Bug and Monitor are rooted in Place Name Disambiguation Pages. Together they make Brook."
+  },
+  "bug+post": {
+    "result": "buffalo",
+    "reasoning": "Both Bug and Post are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "bug+printer": {
+    "result": "buffalo",
+    "reasoning": "Both Bug and Printer are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "bug+remote": {
+    "result": "buffalo",
+    "reasoning": "Both Bug and Remote are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "bug+resolution": {
+    "result": "buffalo",
+    "reasoning": "Bug and Resolution both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "bug+tor": {
+    "result": "buffalo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Tor to create Buffalo."
   },
   "button+button": {
     "result": "keyboard",
-    "reasoning": "Applying button to button produces Keyboard"
+    "reasoning": "A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. Combine button with button and you naturally get Keyboard."
+  },
+  "button+mail": {
+    "result": "calligraphy",
+    "reasoning": "Calligraphy is fine handwriting taken to the level of visual art. That's the connection between button and Mail — giving us Calligraphy."
+  },
+  "button+pattern": {
+    "result": "carpet",
+    "reasoning": "A carpet or rug is a textile floor covering that typically consists of an upper layer of pile attached to a backing. So when button meets pattern, Carpet is the natural outcome."
   },
   "button+television": {
     "result": "remote",
-    "reasoning": "Applying button to Television produces Remote"
+    "reasoning": "A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. That's how button and Television give us Remote."
+  },
+  "button+wearable": {
+    "result": "clothing",
+    "reasoning": "The science is clear — Clothing is any item worn on a human body. Mix button and Wearable for Clothing."
   },
   "byte+byte": {
     "result": "data",
     "reasoning": "Bytes accumulated become data — the raw material of the digital age"
   },
+  "byte+github": {
+    "result": "net",
+    "reasoning": "The link between Byte and GitHub? C Sharp (Programming Language). The result? Net."
+  },
+  "byte+hacker": {
+    "result": "data",
+    "reasoning": "Data are a collection of discrete or continuous values that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally. That's the connection between Byte and Hacker — giving us data."
+  },
+  "byte+json": {
+    "result": "net",
+    "reasoning": "Through .Net, Byte and JSON find common ground: Net."
+  },
+  "byte+kubernetes": {
+    "result": "net",
+    "reasoning": "Through Android (Operating System), Byte and Kubernetes find common ground: Net."
+  },
+  "byte+loudspeaker": {
+    "result": "bit",
+    "reasoning": "Byte and Loudspeaker share a deep connection. The bit is the most basic unit of information in computing and digital communication. Result: Bit."
+  },
+  "byte+pattern": {
+    "result": "data",
+    "reasoning": "Byte and pattern share a deep connection. Data are a collection of discrete or continuous values that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally. Result: data."
+  },
+  "byte+radio": {
+    "result": "bit",
+    "reasoning": "Here's a real-world link: The bit is the most basic unit of information in computing and digital communication. Combine Byte with Radio and you get Bit."
+  },
+  "byte+signal": {
+    "result": "data",
+    "reasoning": "Byte and Signal share a deep connection. Data are a collection of discrete or continuous values that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally. Result: data."
+  },
+  "byte+upload": {
+    "result": "data",
+    "reasoning": "Wikipedia says: Data are a collection of discrete or continuous values that convey information, describing the quantity, quality, fact, statistics, other basic units of meaning, or simply sequences of symbols that may be further interpreted formally. That explains why Byte + Upload = data."
+  },
+  "byte+wiki": {
+    "result": "net",
+    "reasoning": "Through .Net, Byte and Wiki find common ground: Net."
+  },
   "cable+defibrillator": {
     "result": "electrode",
-    "reasoning": "Combine Cable with Defibrillator to create Electrode."
+    "reasoning": "Cable and Defibrillator together? An electrode is an electrical conductor used to make contact with a nonmetallic part of a circuit. The result: Electrode."
+  },
+  "cable+domain": {
+    "result": "buffalo",
+    "reasoning": "Cable and Domain both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
   },
   "cable+electricity": {
     "result": "defibrillator",
-    "reasoning": "Combine Electricity with Cable to create Defibrillator."
+    "reasoning": "Did you know? Defibrillation is a treatment for life-threatening cardiac arrhythmias, specifically ventricular fibrillation (V-Fib) and non-perfusing ventricular tachycardia (V-Tach). That's why Cable + Electricity = Defibrillator."
   },
   "cable+electrode": {
     "result": "voltaic-pile",
-    "reasoning": "Combine Cable with Electrode to create Voltaic Pile."
+    "reasoning": "Did you know? The voltaic pile was the first electrical battery that could continuously provide an electric current to a circuit. That's why Cable + Electrode = Voltaic Pile."
+  },
+  "cable+fame": {
+    "result": "buffalo",
+    "reasoning": "Cable and fame both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "cable+forum": {
+    "result": "buffalo",
+    "reasoning": "Both Cable and Forum are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "cable+loop": {
+    "result": "buffalo",
+    "reasoning": "Cable and Loop both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
   },
   "cable+metal-detector": {
     "result": "voltaic-pile",
-    "reasoning": "Combine Cable with Metal Detector to create Voltaic Pile."
+    "reasoning": "Cable and Metal Detector together? The voltaic pile was the first electrical battery that could continuously provide an electric current to a circuit. The result: Voltaic Pile."
+  },
+  "cable+monitor": {
+    "result": "buffalo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cable meets Monitor to create Buffalo."
+  },
+  "cable+post": {
+    "result": "buffalo",
+    "reasoning": "Cable and Post both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "cable+printer": {
+    "result": "buffalo",
+    "reasoning": "Cable and Printer both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "cable+remote": {
+    "result": "buffalo",
+    "reasoning": "Both Cable and Remote are rooted in Place Name Disambiguation Pages. Together they make Buffalo."
+  },
+  "cable+resolution": {
+    "result": "buffalo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cable meets Resolution to create Buffalo."
+  },
+  "cable+tor": {
+    "result": "bug",
+    "reasoning": "Cable and Tor both belong to the world of Place Name Disambiguation Pages — combine them for Bug."
+  },
+  "capacitor+diode": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Capacitor + Diode = Cathode Ray Tube."
+  },
+  "capacitor+electronics": {
+    "result": "amplifier",
+    "reasoning": "Capacitor and Electronics share a deep connection. An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Result: Amplifier."
+  },
+  "capacitor+loudspeaker": {
+    "result": "aluminum",
+    "reasoning": "Capacitor and Loudspeaker share a deep connection. Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. Result: Aluminum."
+  },
+  "capacitor+magnet": {
+    "result": "aluminum",
+    "reasoning": "Capacitor and magnet share a deep connection. Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. Result: Aluminum."
+  },
+  "capacitor+microphone": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. So when Capacitor meets Microphone, Amplifier is the natural outcome."
+  },
+  "capacitor+oscilloscope": {
+    "result": "amplifier",
+    "reasoning": "The science is clear — An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Mix Capacitor and Oscilloscope for Amplifier."
+  },
+  "capacitor+phonograph": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. So when Capacitor meets Phonograph, Amplifier is the natural outcome."
+  },
+  "capacitor+photodiode": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Capacitor and Photodiode share a deep connection. A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Result: Cathode Ray Tube."
+  },
+  "capacitor+potentiometer": {
+    "result": "cathode-ray-tube",
+    "reasoning": "A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That's the connection between Capacitor and Potentiometer — giving us Cathode Ray Tube."
+  },
+  "capacitor+radar": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Capacitor and Radar — giving us Amplifier."
+  },
+  "capacitor+radio": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Capacitor and Radio — giving us Amplifier."
+  },
+  "capacitor+relay": {
+    "result": "carabiner",
+    "reasoning": "The word comes from the German Karabiner, short for Karabinerhaken, meaning \"carbine hook,\" as the device was used by carabiniers to attach their carbines to their belts. That's the connection between Capacitor and Relay — giving us Carabiner."
+  },
+  "capacitor+resistor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Capacitor with Resistor and you get Cathode Ray Tube."
+  },
+  "capacitor+semiconductor": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Capacitor with Semiconductor and you get Ceramic."
+  },
+  "capacitor+synthesizer": {
+    "result": "amplifier",
+    "reasoning": "Here's a real-world link: An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Combine Capacitor with Synthesizer and you get Amplifier."
+  },
+  "capacitor+technology": {
+    "result": "airplane",
+    "reasoning": "Here's a real-world link: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Combine Capacitor with technology and you get Airplane."
+  },
+  "capacitor+telephone": {
+    "result": "carabiner",
+    "reasoning": "Capacitor and Telephone share a deep connection. The word comes from the German Karabiner, short for Karabinerhaken, meaning \"carbine hook,\" as the device was used by carabiniers to attach their carbines to their belts. Result: Carabiner."
+  },
+  "capacitor+television": {
+    "result": "carabiner",
+    "reasoning": "The word comes from the German Karabiner, short for Karabinerhaken, meaning \"carbine hook,\" as the device was used by carabiniers to attach their carbines to their belts. That's the connection between Capacitor and Television — giving us Carabiner."
+  },
+  "capacitor+thermostat": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Wikipedia says: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. That explains why Capacitor + Thermostat = Cathode Ray Tube."
+  },
+  "capacitor+transformer": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Capacitor with Transformer and you get Cathode Ray Tube."
+  },
+  "capacitor+transistor": {
+    "result": "cathode-ray-tube",
+    "reasoning": "The science is clear — A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Mix Capacitor and Transistor for Cathode Ray Tube."
+  },
+  "capacitor+vlog": {
+    "result": "carabiner",
+    "reasoning": "The word comes from the German Karabiner, short for Karabinerhaken, meaning \"carbine hook,\" as the device was used by carabiniers to attach their carbines to their belts. That's the connection between Capacitor and Vlog — giving us Carabiner."
+  },
+  "capacitor+voltmeter": {
+    "result": "amplifier",
+    "reasoning": "Here's a real-world link: An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Combine Capacitor with Voltmeter and you get Amplifier."
+  },
+  "capacitor+wi-fi": {
+    "result": "submarine",
+    "reasoning": "A submarine is a watercraft capable of independent operation underwater. So when Capacitor meets Wi-Fi, Submarine is the natural outcome."
   },
   "chronometer+galvanometer": {
     "result": "micrometer",
-    "reasoning": "Combine Chronometer with Galvanometer to create Micrometer."
-  },
-  "chronometer+micrometer": {
-    "result": "caliper",
-    "reasoning": "Combine Micrometer with Chronometer to create Caliper."
-  },
-  "chronometer+oscilloscope": {
-    "result": "micrometer",
-    "reasoning": "Combine Chronometer with Oscilloscope to create Micrometer."
-  },
-  "chronometer+voltmeter": {
-    "result": "micrometer",
-    "reasoning": "Combine Chronometer with Voltmeter to create Micrometer."
-  },
-  "circuit-board+metal-detector": {
-    "result": "magnet",
-    "reasoning": "Circuit Board through Metal Detector = Magnet — invisible force, visible wonder."
-  },
-  "circuit-board+screen": {
-    "result": "e-reader",
-    "reasoning": "Combine Screen with Circuit Board to create E-Reader."
-  },
-  "circuit+metal-detector": {
-    "result": "magnet",
-    "reasoning": "Circuit through Metal Detector = Magnet — invisible force, visible wonder."
-  },
-  "circuit+semiconductor": {
-    "result": "transistor",
-    "reasoning": "Semiconductors in circuits form transistors"
-  },
-  "class+class": {
-    "result": "inheritance",
-    "reasoning": "Applying Class to Class produces Inheritance"
-  },
-  "cloud-computing+file": {
-    "result": "cloud-storage",
-    "reasoning": "Applying Cloud Computing to File produces Cloud Storage"
-  },
-  "cloud-computing+git": {
-    "result": "github",
-    "reasoning": "Applying Cloud Computing to Git produces GitHub"
-  },
-  "cloud-computing+library-software": {
-    "result": "artificial-intelligence",
-    "reasoning": "Cloud Computing + Library Software = AI — humanity's greatest amplifier."
-  },
-  "cloud-computing+software": {
-    "result": "saas",
-    "reasoning": "Applying Cloud Computing to software produces SaaS"
-  },
-  "cloud-computing+video": {
-    "result": "streaming",
-    "reasoning": "Applying Cloud Computing to video produces Streaming"
-  },
-  "communication+lie": {
-    "result": "deception",
-    "reasoning": "Applying Communication to lie produces deception"
-  },
-  "communication+software": {
-    "result": "api",
-    "reasoning": "Applying Communication to software produces API"
-  },
-  "communication+video": {
-    "result": "zoom",
-    "reasoning": "Applying Communication to video produces Zoom"
-  },
-  "compass-sensor+digital": {
-    "result": "modem",
-    "reasoning": "Combine Digital with Compass Sensor to create Modem."
-  },
-  "compass-sensor+electric-car": {
-    "result": "loudspeaker",
-    "reasoning": "Combine Electric Car with Compass Sensor to create Loudspeaker."
-  },
-  "compass-sensor+electricity": {
-    "result": "photodiode",
-    "reasoning": "Combine Electricity with Compass Sensor to create Photodiode."
-  },
-  "compass-sensor+sensor": {
-    "result": "motion-sensor",
-    "reasoning": "Combine Sensor with Compass Sensor to create Motion Sensor."
-  },
-  "computer+computer": {
-    "result": "server",
-    "reasoning": "Computers linked together form the internet"
-  },
-  "computer+library-software": {
-    "result": "artificial-intelligence",
-    "reasoning": "Computer + Library Software = AI — humanity's greatest amplifier."
-  },
-  "computer+printer": {
-    "result": "3d-printer",
-    "reasoning": "Applying Computer to Printer produces 3D Printer"
-  },
-  "computer+screen": {
-    "result": "monitor",
-    "reasoning": "Applying Computer to screen produces Monitor"
-  },
-  "computer+sensor": {
-    "result": "edge-computing",
-    "reasoning": "Computing at the edge, close to data"
-  },
-  "computer+software": {
-    "result": "operating-system",
-    "reasoning": "Applying Computer to software produces Operating System"
-  },
-  "computer+telephone": {
-    "result": "smartphone",
-    "reasoning": "Connecting computers over phone lines — the internet"
-  },
-  "computer+television": {
-    "result": "console",
-    "reasoning": "Computer and Television create Console"
-  },
-  "computer+touchscreen": {
-    "result": "tablet",
-    "reasoning": "Applying Computer to Touchscreen produces Tablet"
-  },
-  "conveyor-belt+particle-accelerator": {
-    "result": "brownian-motion",
-    "reasoning": "Combine Particle Accelerator with Conveyor Belt to create Brownian Motion."
-  },
-  "current+metal-detector": {
-    "result": "magnet",
-    "reasoning": "Current through Metal Detector = Magnet — invisible force, visible wonder."
-  },
-  "current+voltage": {
-    "result": "ohms-law",
-    "reasoning": "Combine Current with Voltage to create Ohms Law."
-  },
-  "data+data": {
-    "result": "dataset",
-    "reasoning": "data enhanced with data creates Dataset"
-  },
-  "data+encryption": {
-    "result": "hash",
-    "reasoning": "Applying data to Encryption produces Hash"
-  },
-  "data+internet": {
-    "result": "upload",
-    "reasoning": "Applying data to internet produces Upload"
-  },
-  "data+name": {
-    "result": "file",
-    "reasoning": "Applying data to name produces File"
-  },
-  "data+server": {
-    "result": "database",
-    "reasoning": "Applying data to Server produces Database"
-  },
-  "database+database": {
-    "result": "big-data",
-    "reasoning": "Database enhanced with Database creates Big Data"
-  },
-  "deception+email": {
-    "result": "phishing",
-    "reasoning": "Applying deception to Email produces Phishing"
-  },
-  "defibrillator+electricity": {
-    "result": "fuel-cell",
-    "reasoning": "Combine Electricity with Defibrillator to create Fuel Cell."
-  },
-  "digital+magnet": {
-    "result": "compass-sensor",
-    "reasoning": "Combine Digital with Magnet to create Compass Sensor."
-  },
-  "digital+sensor": {
-    "result": "compass-sensor",
-    "reasoning": "Combine Digital with Sensor to create Compass Sensor."
-  },
-  "digital+signal": {
-    "result": "modem",
-    "reasoning": "Combine Digital with Signal to create Modem."
-  },
-  "digital+technology": {
-    "result": "modem",
-    "reasoning": "Combine Digital with Technology to create Modem."
-  },
-  "docker+server": {
-    "result": "kubernetes",
-    "reasoning": "Applying Docker to Server produces Kubernetes"
-  },
-  "dynamo+electricity": {
-    "result": "galvanometer",
-    "reasoning": "Combine Electricity with Dynamo to create Galvanometer."
-  },
-  "e-reader+screen": {
-    "result": "cathode-ray-tube",
-    "reasoning": "Combine Screen with E Reader to create Cathode Ray Tube."
-  },
-  "electric-car+magnet": {
-    "result": "loudspeaker",
-    "reasoning": "Combine Electric Car with Magnet to create Loudspeaker."
-  },
-  "electric-car+metal-detector": {
-    "result": "magnet",
-    "reasoning": "Electric Car through Metal Detector = Magnet — invisible force, visible wonder."
-  },
-  "electric-car+self-driving-car": {
-    "result": "dashcam",
-    "reasoning": "Combine Electric Car with Self Driving Car to create Dashcam."
-  },
-  "electric-car+webcam": {
-    "result": "dashcam",
-    "reasoning": "Combine Electric Car with Webcam to create Dashcam."
-  },
-  "electricity+electrode": {
-    "result": "multimeter",
-    "reasoning": "Combine Electricity with Electrode to create Multimeter."
-  },
-  "electricity+fuel-cell": {
-    "result": "piezoelectric",
-    "reasoning": "Combine Electricity with Fuel Cell to create Piezoelectric."
-  },
-  "electricity+galvanometer": {
-    "result": "multimeter",
-    "reasoning": "Combine Electricity with Galvanometer to create Multimeter."
-  },
-  "electricity+gyroscope": {
-    "result": "dynamo",
-    "reasoning": "Combine Electricity with Gyroscope to create Dynamo."
-  },
-  "electricity+loudspeaker": {
-    "result": "dynamo",
-    "reasoning": "Combine Electricity with Loudspeaker to create Dynamo."
-  },
-  "electricity+magnet": {
-    "result": "dynamo",
-    "reasoning": "Combine Electricity with Magnet to create Dynamo."
-  },
-  "electricity+message": {
-    "result": "telegram",
-    "reasoning": "Applying Electricity to message produces Telegram"
-  },
-  "electricity+metal-detector": {
-    "result": "magnet",
-    "reasoning": "Electricity through Metal Detector = Magnet — invisible force, visible wonder."
-  },
-  "electricity+microchip": {
-    "result": "ssd",
-    "reasoning": "Applying Electricity to Microchip produces SSD"
-  },
-  "electricity+modem": {
-    "result": "relay",
-    "reasoning": "Combine Electricity with Modem to create Relay."
-  },
-  "electricity+multimeter": {
-    "result": "neon-sign",
-    "reasoning": "Combine Electricity with Multimeter to create Neon Sign."
-  },
-  "electricity+neon-sign": {
-    "result": "potentiometer",
-    "reasoning": "Combine Electricity with Neon Sign to create Potentiometer."
-  },
-  "electricity+oscilloscope": {
-    "result": "voltmeter",
-    "reasoning": "Combine Electricity with Oscilloscope to create Voltmeter."
-  },
-  "electricity+photodiode": {
-    "result": "power-strip",
-    "reasoning": "Combine Electricity with Photodiode to create Power Strip."
-  },
-  "electricity+piezoelectric": {
-    "result": "voltmeter",
-    "reasoning": "Combine Electricity with Piezoelectric to create Voltmeter."
-  },
-  "electricity+potentiometer": {
-    "result": "relay",
-    "reasoning": "Combine Electricity with Potentiometer to create Relay."
-  },
-  "electricity+power-grid": {
-    "result": "power-strip",
-    "reasoning": "Combine Electricity with Power Grid to create Power Strip."
-  },
-  "electricity+power-plant": {
-    "result": "power-strip",
-    "reasoning": "Combine Electricity with Power Plant to create Power Strip."
-  },
-  "electricity+power-strip": {
-    "result": "potentiometer",
-    "reasoning": "Combine Electricity with Power Strip to create Potentiometer."
-  },
-  "electricity+relay": {
-    "result": "telegraph",
-    "reasoning": "Combine Electricity with Relay to create Telegraph."
-  },
-  "electricity+sensor": {
-    "result": "photodiode",
-    "reasoning": "Combine Electricity with Sensor to create Photodiode."
-  },
-  "electricity+signal": {
-    "result": "relay",
-    "reasoning": "Combine Electricity with Signal to create Relay."
-  },
-  "electricity+telegraph": {
-    "result": "tesla-coil",
-    "reasoning": "Combine Electricity with Telegraph to create Tesla Coil."
-  },
-  "electricity+tesla": {
-    "result": "tesla-coil",
-    "reasoning": "Combine Electricity with Tesla to create Tesla Coil."
-  },
-  "electricity+voltage": {
-    "result": "voltmeter",
-    "reasoning": "Combine Electricity with Voltage to create Voltmeter."
-  },
-  "electricity+voltmeter": {
-    "result": "galvanometer",
-    "reasoning": "Combine Electricity with Voltmeter to create Galvanometer."
-  },
-  "email+email": {
-    "result": "spam",
-    "reasoning": "Applying Email to Email produces Spam"
-  },
-  "encryption+internet": {
-    "result": "tor",
-    "reasoning": "Applying Encryption to internet produces Tor"
-  },
-  "error+function": {
-    "result": "loss-function",
-    "reasoning": "Combine Error with Function to create Loss Function."
-  },
-  "escalator+particle-accelerator": {
-    "result": "brownian-motion",
-    "reasoning": "Combine Particle Accelerator with Escalator to create Brownian Motion."
-  },
-  "fame+social-media": {
-    "result": "influencer",
-    "reasoning": "Applying fame to Social Media produces Influencer"
-  },
-  "file+file": {
-    "result": "folder",
-    "reasoning": "Applying File to File produces Folder"
-  },
-  "file+internet": {
-    "result": "download",
-    "reasoning": "Applying File to internet produces Download"
-  },
-  "forum+social-media": {
-    "result": "reddit",
-    "reasoning": "Applying Forum to Social Media produces Reddit"
-  },
-  "friend+post": {
-    "result": "share",
-    "reasoning": "Applying friend to Post produces Share"
-  },
-  "friend+social-media": {
-    "result": "follower",
-    "reasoning": "Applying friend to Social Media produces Follower"
-  },
-  "galvanometer+micrometer": {
-    "result": "caliper",
-    "reasoning": "Combine Micrometer with Galvanometer to create Caliper."
-  },
-  "git+internet": {
-    "result": "github",
-    "reasoning": "Applying Git to internet produces GitHub"
-  },
-  "gps+internet": {
-    "result": "google-maps",
-    "reasoning": "Applying GPS to internet produces Google Maps"
-  },
-  "gyroscope+navigation": {
-    "result": "chronometer",
-    "reasoning": "Combine Navigation with Gyroscope to create Chronometer."
-  },
-  "hacker+internet": {
-    "result": "hacking",
-    "reasoning": "Applying Hacker to internet produces Hacking"
-  },
-  "hard-drive+usb": {
-    "result": "flash-drive",
-    "reasoning": "Combine Usb with Hard Drive to create Flash Drive."
-  },
-  "heat-pump+metal-detector": {
-    "result": "ingot",
-    "reasoning": "Smelting Metal Detector with Heat Pump creates an Ingot — the foundation of metallurgy."
-  },
-  "heat-pump+tree-data": {
-    "result": "charcoal",
-    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
-  },
-  "heat-pump+water-wheel": {
-    "result": "steam",
-    "reasoning": "Heat Pump turns Water Wheel to Steam — the force that powered the Industrial Revolution."
-  },
-  "hologram+html": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + HTML = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+hydraulic-press": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Hydraulic Press = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+incubator": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Incubator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+influencer": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Influencer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+inheritance": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Inheritance = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+instagram": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Instagram = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+intercom": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Intercom = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+interface": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Interface = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+internet": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + internet = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+iot": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + IoT = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+ip-address": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + IP Address = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+jackhammer": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Jackhammer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+java": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Java = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+javascript": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + JavaScript = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+joystick": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Joystick = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+json": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + JSON = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+keyboard": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Keyboard = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+kiln": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Kiln = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+kubernetes": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Kubernetes = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+laptop": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Laptop = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+lathe": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Lathe = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+led": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + LED = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+library-software": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Library Software = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+lidar": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + LIDAR = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+lie": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + lie = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+like": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Like = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+linux": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Linux = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+loop": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Loop = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+loudspeaker": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Loudspeaker = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+magnet": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + magnet = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+mail": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Mail = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+mainframe": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Mainframe = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+malware": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Malware = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+markdown": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Markdown = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+meme": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Meme = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+message": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + message = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+metal-detector": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Metal Detector = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+metaverse": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Metaverse = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+metronome": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Metronome = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+microchip": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Microchip = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+micrometer": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Micrometer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+microphone": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Microphone = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+microservice": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Microservice = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+midjourney": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Midjourney = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+modem": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Modem = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+monitor": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Monitor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+morse-code": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Morse Code = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+motion-sensor": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Motion Sensor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+mouse-device": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Mouse Device = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+multimeter": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Multimeter = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+name": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + name = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+navigation": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Navigation = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+neon-sign": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Neon Sign = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+netflix": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Netflix = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+network": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Network = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+neural-link": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Neural Link = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+neuralink": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Neuralink = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+newsletter": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Newsletter = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+nft": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + NFT = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+notification": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Notification = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+nuclear-reactor": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Nuclear Reactor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+object": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Object = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+offline": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Offline = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+online": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Online = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+open-source": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Open Source = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+operating-system": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Operating System = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+oscillator": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Oscillator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+oscilloscope": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Oscilloscope = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+particle-accelerator": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Particle Accelerator = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+password": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Password = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+pattern": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + pattern = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+periscope": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Periscope = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+phishing": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Phishing = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+phonograph": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Phonograph = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+photodiode": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Photodiode = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+piezoelectric": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Piezoelectric = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+pixel": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Pixel = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+pneumatic": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Pneumatic = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+podcast": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Podcast = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+polymorphism": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Polymorphism = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+post": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Post = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+post-office": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Post Office = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+potentiometer": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Potentiometer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+power-grid": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Power Grid = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+power-plant": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Power Plant = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+power-strip": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Power Strip = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+press": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + press = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+pressure-cooker": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Pressure Cooker = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+printer": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Printer = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+printing": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Printing = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+privacy": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Privacy = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+processor": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Processor = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+product": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + product = Technical Debt. It works, nobody knows why, and nobody dares touch it."
-  },
-  "hologram+profile": {
-    "result": "technical-debt",
-    "reasoning": "Hologram + Profile = Technical Debt. It works, nobody knows why, and nobody dares touch it."
+    "reasoning": "Micrometer can mean:Micrometer (device), used for accurate measurements by means of a calibrated screw\nMicrometre, a millionth of a metre Combine Chronometer with Galvanometer and you naturally get Micrometer."
   }
 }

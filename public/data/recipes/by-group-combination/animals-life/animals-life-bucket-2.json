@@ -1,40 +1,4 @@
 {
-  "alpaca+forest": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+fungus": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+grass": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+herb": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+leaf": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+moss": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+mushroom": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+plant": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
-  "alpaca+pollen": {
-    "result": "wool",
-    "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
-  },
   "alpaca+root": {
     "result": "wool",
     "reasoning": "Alpacas graze Andean grasses and produce luxuriously soft Wool"
@@ -135,6 +99,10 @@
     "result": "ecosystem",
     "reasoning": "Animals and plants form the web of life, an Ecosystem"
   },
+  "anglerfish+coral": {
+    "result": "aquarium",
+    "reasoning": "Wikipedia says: An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. That explains why Anglerfish + Coral = Aquarium."
+  },
   "anglerfish+fern": {
     "result": "ecosystem",
     "reasoning": "Animals and plants form the web of life, an Ecosystem"
@@ -170,6 +138,10 @@
   "anglerfish+mushroom": {
     "result": "ecosystem",
     "reasoning": "Animals and plants form the web of life, an Ecosystem"
+  },
+  "anglerfish+phytoplankton": {
+    "result": "aquarium",
+    "reasoning": "Anglerfish and Phytoplankton share a deep connection. An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Result: Aquarium."
   },
   "anglerfish+plant": {
     "result": "ecosystem",
@@ -223,58 +195,6 @@
     "result": "ecosystem",
     "reasoning": "Animals and plants form the web of life, an Ecosystem"
   },
-  "animal-kingdom+grass": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+herb": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+leaf": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+moss": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+mushroom": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+plant": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+pollen": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+root": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+seaweed": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+seed": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+spore": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+tree": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+vine": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
   "animal+bacteria": {
     "result": "manticore",
     "reasoning": "A poisonous beast is the Manticore"
@@ -309,7 +229,7 @@
   },
   "animal+jungle": {
     "result": "jaguar",
-    "reasoning": "Combine Animal with Jungle to create Jaguar."
+    "reasoning": "The jaguar is a large cat species and the only living member of the genus Panthera that is native to the Americas. Combine animal with Jungle and you naturally get Jaguar."
   },
   "animal+leaf": {
     "result": "deer",
@@ -325,11 +245,11 @@
   },
   "animal+phytoplankton": {
     "result": "zooplankton",
-    "reasoning": "Combine Phytoplankton with Animal to create Zooplankton."
+    "reasoning": "Here's the connection: Zooplankton are the heterotrophic component of the planktonic community, having to consume other organisms to thrive. So animal + Phytoplankton = Zooplankton."
   },
   "animal+plant": {
     "result": "habitat",
-    "reasoning": "Combine Animal with Plant to create Habitat."
+    "reasoning": "animal and plant together? In ecology, habitat refers to the array of resources, biotic factors that are present in an area, such as to support the survival and reproduction of a particular species. The result: Habitat."
   },
   "animal+pollen": {
     "result": "ecosystem",
@@ -361,7 +281,7 @@
   },
   "animal+wood": {
     "result": "beaver",
-    "reasoning": "Combine Animal with Wood to create Beaver."
+    "reasoning": "Did you know? Beavers are large semiaquatic rodents of the Northern Hemisphere. That's why animal + wood = Beaver."
   },
   "ant+cactus": {
     "result": "composting",
@@ -427,6 +347,10 @@
     "result": "composting",
     "reasoning": "Ants aerate soil and break down organic matter into Compost"
   },
+  "ant+symbiosis": {
+    "result": "lichen",
+    "reasoning": "Wikipedia says: A lichen is a hybrid colony of algae or cyanobacteria living symbiotically among filaments of multiple fungus species, along with bacteria embedded in the cortex or \"skin\", in a mutualistic relationship. That explains why Ant + Symbiosis = Lichen."
+  },
   "ant+tree": {
     "result": "composting",
     "reasoning": "Ants aerate soil and break down organic matter into Compost"
@@ -435,53 +359,13 @@
     "result": "composting",
     "reasoning": "Ants aerate soil and break down organic matter into Compost"
   },
-  "anteater+antibody": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Antibody = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+appendix": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Appendix = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+artery": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Artery = the Food Chain. Circle of life, Simba."
-  },
   "anteater+astrobiology": {
     "result": "food-chain",
     "reasoning": "Anteater + Astrobiology = the Food Chain. Circle of life, Simba."
   },
-  "anteater+axon": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Axon = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+bacteria": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Bacteria = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+bark": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Bark = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+bean": {
-    "result": "food-chain",
-    "reasoning": "Anteater + bean = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+bile": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Bile = the Food Chain. Circle of life, Simba."
-  },
   "anteater+biodiversity": {
     "result": "food-chain",
     "reasoning": "Anteater + Biodiversity = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+biofilm": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Biofilm = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+biome": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Biome = the Food Chain. Circle of life, Simba."
   },
   "anteater+blastocyst": {
     "result": "food-chain",
@@ -503,13 +387,9 @@
     "result": "food-chain",
     "reasoning": "Anteater + Cartilage = the Food Chain. Circle of life, Simba."
   },
-  "anteater+cell": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Cell = the Food Chain. Circle of life, Simba."
-  },
   "anteater+chitin": {
     "result": "exoskeleton",
-    "reasoning": "Combine Chitin with Anteater to create Exoskeleton."
+    "reasoning": "Some large, hard and non-flexible protective exoskeletons are known as shell or armour. That's how Anteater and Chitin give us Exoskeleton."
   },
   "anteater+chloroplast": {
     "result": "food-chain",
@@ -519,37 +399,9 @@
     "result": "food-chain",
     "reasoning": "Anteater + Chromosome = the Food Chain. Circle of life, Simba."
   },
-  "anteater+cilium": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Cilium = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+clone": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Clone = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+codon": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Codon = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+collagen": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Collagen = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+coral": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Coral = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+cortex": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Cortex = the Food Chain. Circle of life, Simba."
-  },
   "anteater+cytokinesis": {
     "result": "food-chain",
     "reasoning": "Anteater + Cytokinesis = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+dendrite": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Dendrite = the Food Chain. Circle of life, Simba."
   },
   "anteater+digestion": {
     "result": "food-chain",
@@ -559,33 +411,17 @@
     "result": "food-chain",
     "reasoning": "Anteater + Dissection = the Food Chain. Circle of life, Simba."
   },
-  "anteater+dna": {
-    "result": "food-chain",
-    "reasoning": "Anteater + DNA = the Food Chain. Circle of life, Simba."
-  },
   "anteater+dna-discovery": {
     "result": "food-chain",
     "reasoning": "Anteater + DNA Discovery = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+dopamine": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Dopamine = the Food Chain. Circle of life, Simba."
   },
   "anteater+ecosystem": {
     "result": "food-chain",
     "reasoning": "Anteater + Ecosystem = the Food Chain. Circle of life, Simba."
   },
-  "anteater+embryo": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Embryo = the Food Chain. Circle of life, Simba."
-  },
   "anteater+endorphin": {
     "result": "food-chain",
     "reasoning": "Anteater + Endorphin = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+enzyme": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Enzyme = the Food Chain. Circle of life, Simba."
   },
   "anteater+epidermis": {
     "result": "food-chain",
@@ -623,33 +459,13 @@
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
   },
-  "anteater+fruit": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Fruit = the Food Chain. Circle of life, Simba."
-  },
   "anteater+fungus": {
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
   },
-  "anteater+ganglia": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Ganglia = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+gene": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Gene = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+genome": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Genome = the Food Chain. Circle of life, Simba."
-  },
   "anteater+golgi-apparatus": {
     "result": "food-chain",
     "reasoning": "Anteater + Golgi Apparatus = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+grape": {
-    "result": "food-chain",
-    "reasoning": "Anteater + grape = the Food Chain. Circle of life, Simba."
   },
   "anteater+grass": {
     "result": "root",
@@ -659,10 +475,6 @@
     "result": "food-chain",
     "reasoning": "Anteater + Gut Flora = the Food Chain. Circle of life, Simba."
   },
-  "anteater+haploid": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Haploid = the Food Chain. Circle of life, Simba."
-  },
   "anteater+hemoglobin": {
     "result": "food-chain",
     "reasoning": "Anteater + Hemoglobin = the Food Chain. Circle of life, Simba."
@@ -671,69 +483,25 @@
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
   },
-  "anteater+hormone": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Hormone = the Food Chain. Circle of life, Simba."
-  },
   "anteater+immune-system": {
     "result": "food-chain",
     "reasoning": "Anteater + Immune System = the Food Chain. Circle of life, Simba."
   },
-  "anteater+insulin": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Insulin = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+jungle": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Jungle = the Food Chain. Circle of life, Simba."
-  },
   "anteater+keratin": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Keratin = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+larva": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Larva = the Food Chain. Circle of life, Simba."
+    "result": "armadillo",
+    "reasoning": "The science is clear — Armadillos are placental mammals in the order Cingulata. Mix Anteater and Keratin for Armadillo."
   },
   "anteater+leaf": {
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
   },
-  "anteater+life": {
-    "result": "food-chain",
-    "reasoning": "Anteater + life = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+lignin": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Lignin = the Food Chain. Circle of life, Simba."
-  },
   "anteater+lipid-bilayer": {
     "result": "food-chain",
     "reasoning": "Anteater + Lipid Bilayer = the Food Chain. Circle of life, Simba."
   },
-  "anteater+lysosome": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Lysosome = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+marrow": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Marrow = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+meiosis": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Meiosis = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+melanin": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Melanin = the Food Chain. Circle of life, Simba."
-  },
   "anteater+melatonin": {
     "result": "food-chain",
     "reasoning": "Anteater + Melatonin = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+membrane": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Membrane = the Food Chain. Circle of life, Simba."
   },
   "anteater+metabolite": {
     "result": "food-chain",
@@ -747,61 +515,17 @@
     "result": "food-chain",
     "reasoning": "Anteater + Mitochondria = the Food Chain. Circle of life, Simba."
   },
-  "anteater+mitosis": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Mitosis = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+mold": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Mold = the Food Chain. Circle of life, Simba."
-  },
   "anteater+moss": {
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
-  },
-  "anteater+mucus": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Mucus = the Food Chain. Circle of life, Simba."
   },
   "anteater+mushroom": {
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
   },
-  "anteater+mutation": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Mutation = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+mycelium": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Mycelium = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+neuron": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Neuron = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+nucleus": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Nucleus = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+organ": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Organ = the Food Chain. Circle of life, Simba."
-  },
   "anteater+organelle": {
     "result": "food-chain",
     "reasoning": "Anteater + Organelle = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+ovum": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Ovum = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+pandemic": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Pandemic = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+parasite": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Parasite = the Food Chain. Circle of life, Simba."
   },
   "anteater+penicillin": {
     "result": "food-chain",
@@ -823,17 +547,9 @@
     "result": "food-chain",
     "reasoning": "Anteater + Phytoplankton = the Food Chain. Circle of life, Simba."
   },
-  "anteater+plankton": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Plankton = the Food Chain. Circle of life, Simba."
-  },
   "anteater+plant": {
     "result": "root",
     "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
-  },
-  "anteater+platelet": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Platelet = the Food Chain. Circle of life, Simba."
   },
   "anteater+pollen": {
     "result": "root",
@@ -842,30 +558,6 @@
   "anteater+primordial-soup": {
     "result": "food-chain",
     "reasoning": "Anteater + Primordial Soup = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+prion": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Prion = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+resin": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Resin = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+retina": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Retina = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+ribosome": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Ribosome = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+root": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Root = the Food Chain. Circle of life, Simba."
-  },
-  "anteater+sap": {
-    "result": "food-chain",
-    "reasoning": "Anteater + Sap = the Food Chain. Circle of life, Simba."
   },
   "anteater+seaweed": {
     "result": "root",
@@ -878,5 +570,313 @@
   "anteater+serotonin": {
     "result": "food-chain",
     "reasoning": "Anteater + Serotonin = the Food Chain. Circle of life, Simba."
+  },
+  "anteater+spore": {
+    "result": "root",
+    "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
+  },
+  "anteater+stem-cell": {
+    "result": "food-chain",
+    "reasoning": "Anteater + Stem Cell = the Food Chain. Circle of life, Simba."
+  },
+  "anteater+symbiosis": {
+    "result": "food-chain",
+    "reasoning": "Anteater + Symbiosis = the Food Chain. Circle of life, Simba."
+  },
+  "anteater+tree": {
+    "result": "root",
+    "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
+  },
+  "anteater+vegetable": {
+    "result": "food-chain",
+    "reasoning": "Anteater + Vegetable = the Food Chain. Circle of life, Simba."
+  },
+  "anteater+vine": {
+    "result": "root",
+    "reasoning": "Anteaters dig at the base of trees to find ant colonies in Roots"
+  },
+  "anteater+zooplankton": {
+    "result": "food-chain",
+    "reasoning": "Anteater + Zooplankton = the Food Chain. Circle of life, Simba."
+  },
+  "antelope+cactus": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+embryo": {
+    "result": "cheetah",
+    "reasoning": "The cheetah is a species of large feline and the only living member of the genus Acinonyx. That's the connection between Antelope and Embryo — giving us Cheetah."
+  },
+  "antelope+fern": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+flower": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+forest": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+fungus": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+grass": {
+    "result": "gazelle",
+    "reasoning": "Did you know? A gazelle is one of many antelope species in the genus Gazella. That's why Antelope + Grass = Gazelle."
+  },
+  "antelope+herb": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+leaf": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+moss": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+mushroom": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+plant": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+pollen": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+root": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+seaweed": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+seed": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+spore": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+tree": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "antelope+vine": {
+    "result": "savanna",
+    "reasoning": "Antelopes graze the African Savanna in vast herds"
+  },
+  "armadillo+cactus": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+fern": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+flower": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+forest": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+fungus": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+grass": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+herb": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+leaf": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+moss": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+mushroom": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+plant": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+pollen": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+seaweed": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+seed": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+spore": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+tree": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "armadillo+vine": {
+    "result": "root",
+    "reasoning": "Armadillos dig up Roots and grubs with their powerful claws"
+  },
+  "axolotl+coral": {
+    "result": "aquarium",
+    "reasoning": "An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. That's the connection between Axolotl and Coral — giving us Aquarium."
+  },
+  "axolotl+phytoplankton": {
+    "result": "aquarium",
+    "reasoning": "Here's a real-world link: An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Combine Axolotl with Phytoplankton and you get Aquarium."
+  },
+  "axolotl+yeast": {
+    "result": "aquarium",
+    "reasoning": "An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. That's the connection between Axolotl and Yeast — giving us Aquarium."
+  },
+  "baboon+cactus": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+fern": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+flower": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+forest": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+fungus": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+grass": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+herb": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+leaf": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+moss": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+mushroom": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+plant": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+pollen": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+root": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+seaweed": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+seed": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+spore": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+tree": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "baboon+vine": {
+    "result": "fruit",
+    "reasoning": "Baboons forage for Fruit across the African savanna"
+  },
+  "bacteria+camel": {
+    "result": "antibody",
+    "reasoning": "The science is clear — Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Mix Bacteria and Camel for Antibody."
+  },
+  "bacteria+dinosaur": {
+    "result": "antibody",
+    "reasoning": "The science is clear — Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Mix Bacteria and Dinosaur for Antibody."
+  },
+  "bacteria+hyena": {
+    "result": "antibody",
+    "reasoning": "Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. So when Bacteria meets Hyena, Antibody is the natural outcome."
+  },
+  "bacteria+insect": {
+    "result": "scorpion",
+    "reasoning": "A poisonous arthropod is a Scorpion"
+  },
+  "bacteria+snake": {
+    "result": "cobra",
+    "reasoning": "A venomous snake is a Cobra"
+  },
+  "bacteria+tiger": {
+    "result": "antibody",
+    "reasoning": "The science is clear — Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Mix Bacteria and Tiger for Antibody."
+  },
+  "badger+cactus": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
+  },
+  "badger+fern": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
+  },
+  "badger+flower": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
+  },
+  "badger+forest": {
+    "result": "elk",
+    "reasoning": "The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. That's how Badger and Forest give us Elk."
+  },
+  "badger+fungus": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
+  },
+  "badger+grass": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
+  },
+  "badger+herb": {
+    "result": "root",
+    "reasoning": "Badgers dig among Roots for earthworms and grubs"
   }
 }

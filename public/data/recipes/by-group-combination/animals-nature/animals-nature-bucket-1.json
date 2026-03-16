@@ -17,7 +17,7 @@
   },
   "albatross+coral-reef": {
     "result": "anemone",
-    "reasoning": "Combine Coral Reef with Albatross to create Anemone."
+    "reasoning": "Here's the connection: Anemone is a genus of flowering plants in the buttercup family Ranunculaceae. So Albatross + Coral Reef = Anemone."
   },
   "albatross+creek": {
     "result": "fish",
@@ -77,7 +77,7 @@
   },
   "albatross+ocean": {
     "result": "cormorant",
-    "reasoning": "Combine Albatross with Ocean to create Cormorant."
+    "reasoning": "Albatross and ocean together? Phalacrocoracidae is a family of approximately 40 species of aquatic birds found worldwide and commonly known as cormorants and shags. The result: Cormorant."
   },
   "albatross+rain": {
     "result": "fish",
@@ -145,7 +145,7 @@
   },
   "alpaca+cold": {
     "result": "yak",
-    "reasoning": "Combine Alpaca with Cold to create Yak."
+    "reasoning": "It is descended from the wild yak. That's how Alpaca and Cold give us Yak."
   },
   "alpaca+creek": {
     "result": "fish",
@@ -205,7 +205,7 @@
   },
   "alpaca+mountain": {
     "result": "chinchilla",
-    "reasoning": "Combine Alpaca with Mountain to create Chinchilla."
+    "reasoning": "Did you know? Chinchilla is a genus consisting of two species of crepuscular rodents of the parvorder Caviomorpha, native to the Andes Mountains in South America. That's why Alpaca + mountain = Chinchilla."
   },
   "alpaca+ocean": {
     "result": "fish",
@@ -229,7 +229,7 @@
   },
   "alpaca+snow": {
     "result": "caribou",
-    "reasoning": "Combine Snow with Alpaca to create Caribou."
+    "reasoning": "Here's the connection: The reindeer or caribou is a species of deer with circumpolar distribution, native to Arctic, subarctic, tundra, boreal, and mountainous regions of Northern Europe, Siberia, and North America. So Alpaca + Snow = Caribou."
   },
   "alpaca+stream": {
     "result": "fish",
@@ -237,7 +237,7 @@
   },
   "alpaca+swamp": {
     "result": "toad",
-    "reasoning": "Combine Swamp with Alpaca to create Toad."
+    "reasoning": "Toad is a common name for certain frogs, especially of the family Bufonidae, that are characterized by dry, leathery skin, short legs, and large bumps covering the parotoid glands. Combine Alpaca with Swamp and you naturally get Toad."
   },
   "alpaca+tide": {
     "result": "fish",
@@ -337,7 +337,7 @@
   },
   "anemone+ocean": {
     "result": "sea-cucumber",
-    "reasoning": "Combine Ocean with Anemone to create Sea Cucumber."
+    "reasoning": "Here's the connection: Sea cucumbers are echinoderms from the class Holothuroidea. So Anemone + ocean = Sea Cucumber."
   },
   "anemone+rain": {
     "result": "fish",
@@ -439,6 +439,10 @@
     "result": "wool",
     "reasoning": "Cold drives evolution toward thick insulating coats"
   },
+  "anglerfish+island": {
+    "result": "aquarium",
+    "reasoning": "The science is clear — An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Mix Anglerfish and Island for Aquarium."
+  },
   "anglerfish+kelp-forest": {
     "result": "ecosystem",
     "reasoning": "Animals and plants form the web of life, an Ecosystem"
@@ -467,6 +471,10 @@
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
   },
+  "anglerfish+peat": {
+    "result": "aquarium",
+    "reasoning": "The science is clear — An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Mix Anglerfish and Peat for Aquarium."
+  },
   "anglerfish+rain": {
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
@@ -474,6 +482,10 @@
   "anglerfish+river": {
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "anglerfish+sand": {
+    "result": "aquarium",
+    "reasoning": "Wikipedia says: An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. That explains why Anglerfish + Sand = Aquarium."
   },
   "anglerfish+sea-cave": {
     "result": "fish",
@@ -519,65 +531,9 @@
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
   },
-  "animal-kingdom+bay": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+blizzard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "animal-kingdom+brook": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+cold": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "animal-kingdom+creek": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+flood": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+frost": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "animal-kingdom+glacial-lake": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+glacier": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
   "animal-kingdom+heat": {
     "result": "meat",
     "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "animal-kingdom+hot-spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+ice": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "animal-kingdom+kelp-forest": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "animal-kingdom+lagoon": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+lake": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
   },
   "animal-kingdom+lava": {
     "result": "meat",
@@ -591,65 +547,17 @@
     "result": "meat",
     "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "animal-kingdom+ocean": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+rain": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+river": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+sea-cave": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+sea-stack": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+snow": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "animal-kingdom+stream": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+swamp": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+tide": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+tide-pool": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+tundra": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
   "animal-kingdom+volcano": {
     "result": "meat",
     "reasoning": "Cooking transforms animal protein into edible meat"
   },
-  "animal-kingdom+water": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "animal-kingdom+waterfall": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
   "animal+bay": {
     "result": "fish",
     "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  },
+  "animal+beach": {
+    "result": "turtle",
+    "reasoning": "Female sea turtles use Earth's magnetic field as a GPS to return to the exact beach where they hatched — sometimes navigating 10,000 miles across open ocean — to lay their own eggs there, a geomagnetic navigation feat that still eludes complete scientific explanation."
   },
   "animal+blizzard": {
     "result": "wool",
@@ -713,11 +621,11 @@
   },
   "animal+ice": {
     "result": "seal",
-    "reasoning": "Combine Animal with Ice to create Seal."
+    "reasoning": "animal and Ice together? Animals are multicellular, eukaryotic organisms belonging to the biological kingdom Animalia. The result: Seal."
   },
   "animal+island": {
     "result": "lemur",
-    "reasoning": "Combine Animal with Island to create Lemur."
+    "reasoning": "animal and Island together? Lemurs are wet-nosed primates of the superfamily Lemuroidea, divided into eight families and consisting of 15 genera and around 100 extant species. The result: Lemur."
   },
   "animal+kelp-forest": {
     "result": "ecosystem",
@@ -765,7 +673,7 @@
   },
   "animal+river": {
     "result": "beaver",
-    "reasoning": "Combine Animal with River to create Beaver."
+    "reasoning": "Beavers are large semiaquatic rodents of the Northern Hemisphere. That's how animal and River give us Beaver."
   },
   "animal+sea-cave": {
     "result": "fish",
@@ -777,7 +685,7 @@
   },
   "animal+snow": {
     "result": "caribou",
-    "reasoning": "Combine Animal with Snow to create Caribou."
+    "reasoning": "The reindeer or caribou is a species of deer with circumpolar distribution, native to Arctic, subarctic, tundra, boreal, and mountainous regions of Northern Europe, Siberia, and North America. Combine animal with Snow and you naturally get Caribou."
   },
   "animal+stone": {
     "result": "turtle",
@@ -871,6 +779,10 @@
     "result": "meat",
     "reasoning": "Cooking transforms animal protein into edible meat"
   },
+  "ant+lichen": {
+    "result": "symbiosis",
+    "reasoning": "Here's a real-world link: Symbiosis is any close and long-term biological interaction between two organisms of different species. Combine Ant with Lichen and you get Symbiosis."
+  },
   "ant+ocean": {
     "result": "barnacle",
     "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
@@ -878,5 +790,93 @@
   "ant+rain": {
     "result": "barnacle",
     "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+river": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+sea-cave": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+sea-stack": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+stream": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+swamp": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+tide": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+tide-pool": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+volcano": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "ant+water": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "ant+waterfall": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are colonial creatures attached to surfaces — ants of the sea"
+  },
+  "anteater+archipelago": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Archipelago = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+avalanche": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Avalanche = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+brine-pool": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Brine Pool = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+composting": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Composting = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+continent": {
+    "result": "wildlife",
+    "reasoning": "Anteater + continent = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+coral-reef": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Coral Reef = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+earthquake": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Earthquake = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+escarpment": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Escarpment = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+evergreen": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Evergreen = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+floodplain": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Floodplain = Wildlife. Nature's greatest show, no ticket required."
+  },
+  "anteater+heat": {
+    "result": "meat",
+    "reasoning": "Cooking transforms animal protein into edible meat"
+  },
+  "anteater+hurricane": {
+    "result": "wildlife",
+    "reasoning": "Anteater + Hurricane = Wildlife. Nature's greatest show, no ticket required."
   }
 }

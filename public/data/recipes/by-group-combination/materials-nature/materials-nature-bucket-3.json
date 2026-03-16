@@ -1,23 +1,303 @@
 {
-  "heat+ingot": {
-    "result": "alloy",
-    "reasoning": "Intense Heat fuses Ingot into an Alloy."
+  "foam+mountain": {
+    "result": "dune",
+    "reasoning": "Wikipedia says: A dune is a landform composed of wind- or water-driven sand. That explains why Foam + mountain = Dune."
   },
-  "heat+iron": {
-    "result": "ingot",
-    "reasoning": "Smelting Iron with Heat creates an Ingot — the foundation of metallurgy."
+  "foam+plateau": {
+    "result": "dune",
+    "reasoning": "A dune is a landform composed of wind- or water-driven sand. That's the connection between Foam and Plateau — giving us Dune."
   },
-  "heat+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Heat creates an Ingot — the foundation of metallurgy."
+  "foam+pressure": {
+    "result": "buoyancy",
+    "reasoning": "Here's a real-world link: Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. Combine Foam with Pressure and you get Buoyancy."
+  },
+  "foam+ridge": {
+    "result": "dune",
+    "reasoning": "The science is clear — A dune is a landform composed of wind- or water-driven sand. Mix Foam and Ridge for Dune."
+  },
+  "foam+weather": {
+    "result": "chaos-theory",
+    "reasoning": "Foam and weather share a deep connection. Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. Result: Chaos Theory."
+  },
+  "fossil+heat": {
+    "result": "natural-gas",
+    "reasoning": "Processing Fossil with Heat yields Natural Gas"
+  },
+  "fossil+pressure": {
+    "result": "petroleum",
+    "reasoning": "Processing Fossil with Pressure yields Petroleum"
+  },
+  "frost+permafrost": {
+    "result": "bog",
+    "reasoning": "The science is clear — A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. Mix Frost and Permafrost for Bog."
+  },
+  "fumarole+oil": {
+    "result": "hydrogen",
+    "reasoning": "Hydrogen is a chemical element; it has the symbol H and atomic number 1. So when Fumarole meets Oil, Hydrogen is the natural outcome."
+  },
+  "fumarole+pumice": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Fumarole meets Pumice, Caldera is the natural outcome."
+  },
+  "fumarole+silicone": {
+    "result": "hydrogen",
+    "reasoning": "Hydrogen is a chemical element; it has the symbol H and atomic number 1. So when Fumarole meets Silicone, Hydrogen is the natural outcome."
+  },
+  "gel+heat": {
+    "result": "teflon",
+    "reasoning": "Polytetrafluoroethylene (PTFE) is a synthetic fluoropolymer of tetrafluoroethylene, and has numerous applications because it is chemically inert. Combine Gel with Heat and you naturally get Teflon."
+  },
+  "gel+steam": {
+    "result": "gelatin",
+    "reasoning": "Gelatin is extracted by steaming animal bones and connective tissue for hours, breaking down collagen proteins into individual chains that, upon cooling, re-link into the elastic gel matrix used in desserts, photography film, and pharmaceuticals."
+  },
+  "geyser+granite": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Geyser meets Granite, Caldera is the natural outcome."
+  },
+  "geyser+limestone": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. That's the connection between Geyser and Limestone — giving us Beach."
+  },
+  "geyser+metal": {
+    "result": "building",
+    "reasoning": "Here's a real-world link: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Combine Geyser with metal and you get building."
+  },
+  "geyser+pumice": {
+    "result": "caldera",
+    "reasoning": "Geyser and Pumice share a deep connection. A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Result: Caldera."
+  },
+  "geyser+sandstone": {
+    "result": "beach",
+    "reasoning": "Geyser and Sandstone share a deep connection. A beach is a landform alongside a body of water which consists of loose particles. Result: Beach."
+  },
+  "glacial-lake+gold": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Gold — the slow destruction of Rust."
+  },
+  "glacial-lake+ingot": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Ingot — the slow destruction of Rust."
+  },
+  "glacial-lake+iron": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Iron — the slow destruction of Rust."
+  },
+  "glacial-lake+lead": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Lead — the slow destruction of Rust."
+  },
+  "glacial-lake+limestone": {
+    "result": "mud",
+    "reasoning": "Glacial Lake + Limestone = Mud — simple, squishy, essential."
+  },
+  "glacial-lake+marble": {
+    "result": "mud",
+    "reasoning": "Glacial Lake + Marble = Mud — simple, squishy, essential."
+  },
+  "glacial-lake+metal": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes metal — the slow destruction of Rust."
+  },
+  "glacial-lake+mineral": {
+    "result": "mud",
+    "reasoning": "Glacial Lake + Mineral = Mud — simple, squishy, essential."
+  },
+  "glacial-lake+nickel": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Nickel — the slow destruction of Rust."
+  },
+  "glacial-lake+platinum": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Platinum — the slow destruction of Rust."
+  },
+  "glacial-lake+silver": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Silver — the slow destruction of Rust."
+  },
+  "glacial-lake+soil": {
+    "result": "mud",
+    "reasoning": "Glacial Lake + Soil = Mud — simple, squishy, essential."
+  },
+  "glacial-lake+steel": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Steel — the slow destruction of Rust."
+  },
+  "glacial-lake+tin": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Tin — the slow destruction of Rust."
+  },
+  "glacial-lake+titanium": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Titanium — the slow destruction of Rust."
+  },
+  "glacial-lake+tungsten": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "glacial-lake+zinc": {
+    "result": "rust",
+    "reasoning": "Glacial Lake oxidizes Zinc — the slow destruction of Rust."
+  },
+  "glacier+permafrost": {
+    "result": "ridge",
+    "reasoning": "Wikipedia says: A ridge is a long, narrow, elevated geomorphologic landform, structural feature, or a combination of both separated from the surrounding terrain by steep sides. That explains why Glacier + Permafrost = Ridge."
+  },
+  "glass+ocean": {
+    "result": "aquarium",
+    "reasoning": "Glass and ocean create Aquarium"
+  },
+  "glass+pressure": {
+    "result": "fragility",
+    "reasoning": "Glass under pressure shows Fragility"
+  },
+  "glass+rainbow": {
+    "result": "prism",
+    "reasoning": "Processing Glass with Rainbow yields Prism"
+  },
+  "glass+wind": {
+    "result": "flute",
+    "reasoning": "Benjamin Franklin invented the glass armonica in 1761 — a set of spinning glass bowls played with wet fingers that produced ethereal wind-like tones so haunting that Mozart and Beethoven both composed original works for this instrument made entirely of glass."
+  },
+  "gold+mist": {
+    "result": "aurora",
+    "reasoning": "The science is clear — An aurora is a natural light display in Earth’s upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. Mix Gold and Mist for Aurora."
+  },
+  "gold+obsidian": {
+    "result": "amber",
+    "reasoning": "Here's a real-world link: Amber is fossilized tree resin. Combine Gold with Obsidian and you get Amber."
+  },
+  "gold+ocean": {
+    "result": "pirate-captain",
+    "reasoning": "Treasure hunting across the ocean — a Pirate Captain"
+  },
+  "gold+rainbow": {
+    "result": "leprechaun",
+    "reasoning": "A leprechaun is a diminutive supernatural being in Irish folklore, classed by some as a type of solitary fairy. That's how Gold and Rainbow give us Leprechaun."
+  },
+  "granite+karst": {
+    "result": "chalk",
+    "reasoning": "Granite and Karst share a deep connection. Chalk is a soft, white, porous, sedimentary carbonate rock. Result: Chalk."
+  },
+  "granite+lake": {
+    "result": "caldera",
+    "reasoning": "Granite and Lake share a deep connection. A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Result: Caldera."
+  },
+  "granite+land": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Granite and land — giving us Basalt."
+  },
+  "granite+lava": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Granite meets Lava, Caldera is the natural outcome."
+  },
+  "granite+mountain": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Granite meets mountain, Caldera is the natural outcome."
+  },
+  "granite+obsidian": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. That's the connection between Granite and Obsidian — giving us Caldera."
+  },
+  "granite+plateau": {
+    "result": "caldera",
+    "reasoning": "Here's a real-world link: A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Combine Granite with Plateau and you get Caldera."
+  },
+  "granite+ridge": {
+    "result": "caldera",
+    "reasoning": "The science is clear — A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Mix Granite and Ridge for Caldera."
+  },
+  "granite+sand": {
+    "result": "brick",
+    "reasoning": "Wikipedia says: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That explains why Granite + Sand = Brick."
+  },
+  "granite+steppe": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. That's the connection between Granite and Steppe — giving us Caldera."
+  },
+  "granite+volcano": {
+    "result": "caldera",
+    "reasoning": "Granite and Volcano share a deep connection. A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Result: Caldera."
+  },
+  "graphite+rainforest": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Graphite with Rainforest and you get Charcoal."
+  },
+  "gravel+limestone": {
+    "result": "beach",
+    "reasoning": "Here's a real-world link: A beach is a landform alongside a body of water which consists of loose particles. Combine Gravel with Limestone and you get Beach."
+  },
+  "gravel+marble": {
+    "result": "alabaster",
+    "reasoning": "Gravel and Marble share a deep connection. Alabaster is a soft rock used for carvings and as a source of plaster powder. Result: Alabaster."
+  },
+  "gravel+mica": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Gravel and Mica — giving us Bitumen."
+  },
+  "gravel+mineral": {
+    "result": "boulder",
+    "reasoning": "The science is clear — In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Mix Gravel and Mineral for Boulder."
+  },
+  "gravel+plaster": {
+    "result": "concrete",
+    "reasoning": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That's the connection between Gravel and Plaster — giving us Concrete."
+  },
+  "gravel+pumice": {
+    "result": "concrete",
+    "reasoning": "The science is clear — Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Mix Gravel and Pumice for Concrete."
+  },
+  "gravel+rust": {
+    "result": "concrete",
+    "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Gravel + Rust = Concrete."
+  },
+  "gravel+sandstone": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. So when Gravel meets Sandstone, Beach is the natural outcome."
+  },
+  "gravel+slate": {
+    "result": "clay",
+    "reasoning": "The science is clear — Clay is a type of fine-grained natural soil material containing clay minerals. Mix Gravel and Slate for Clay."
+  },
+  "gravel+soil": {
+    "result": "boulder",
+    "reasoning": "Wikipedia says: In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. That explains why Gravel + Soil = Boulder."
+  },
+  "gravel+tar": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Gravel and Tar for Bitumen."
+  },
+  "gravel+vermiculite": {
+    "result": "concrete",
+    "reasoning": "Gravel and Vermiculite share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "grotto+limestone": {
+    "result": "cenote",
+    "reasoning": "A cenote is a natural pit, or sinkhole, resulting when a collapse of limestone bedrock exposes groundwater. So when Grotto meets Limestone, Cenote is the natural outcome."
+  },
+  "gunpowder+obsidian": {
+    "result": "bronze",
+    "reasoning": "Wikipedia says: Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. That explains why Gunpowder + Obsidian = Bronze."
+  },
+  "gunpowder+rainforest": {
+    "result": "charcoal",
+    "reasoning": "The science is clear — Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Mix Gunpowder and Rainforest for Charcoal."
+  },
+  "habitat+permafrost": {
+    "result": "biomass",
+    "reasoning": "Here's a real-world link: Biomass is material produced by the growth of microorganisms, plants or animals. Combine Habitat with Permafrost and you get Biomass."
+  },
+  "heat+kevlar": {
+    "result": "bellows",
+    "reasoning": "Bellows are a device constructed to expel a controlled blast of air. So when Heat meets Kevlar, Bellows is the natural outcome."
+  },
+  "heat+lacquer": {
+    "result": "evaporation",
+    "reasoning": "Here's a real-world link: Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase. Combine Heat with Lacquer and you get Evaporation."
   },
   "heat+limestone": {
     "result": "quicklite",
-    "reasoning": "Combine Limestone with Heat to create Quicklite."
-  },
-  "heat+marble": {
-    "result": "lava",
-    "reasoning": "Heat melts Marble into flowing Lava."
+    "reasoning": "Heat and Limestone together? In thermodynamics, heat is defined as the form of energy crossing the boundary of a thermodynamic system by virtue of a temperature difference across the boundary. The result: Quicklite."
   },
   "heat+metal": {
     "result": "tin",
@@ -33,15 +313,11 @@
   },
   "heat+natural-gas": {
     "result": "evaporation",
-    "reasoning": "Combine Heat with Natural Gas to create Evaporation."
-  },
-  "heat+nickel": {
-    "result": "ingot",
-    "reasoning": "Smelting Nickel with Heat creates an Ingot — the foundation of metallurgy."
+    "reasoning": "Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase. Combine Heat with Natural Gas and you naturally get Evaporation."
   },
   "heat+oil": {
     "result": "tar",
-    "reasoning": "Combine Oil with Heat to create Tar."
+    "reasoning": "Did you know? Tar is a dark brown or black viscous liquid of hydrocarbons and free carbon, obtained from a wide variety of organic materials through destructive distillation. That's why Heat + Oil = Tar."
   },
   "heat+petroleum": {
     "result": "plastic",
@@ -59,25 +335,17 @@
     "result": "lens",
     "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
   },
-  "heat+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Heat creates an Ingot — the foundation of metallurgy."
-  },
-  "heat+soil": {
-    "result": "lava",
-    "reasoning": "Heat melts Soil into flowing Lava."
+  "heat+solder": {
+    "result": "glass",
+    "reasoning": "Glass is an amorphous (non-crystalline) solid. That's the connection between Heat and Solder — giving us Glass."
   },
   "heat+steel": {
-    "result": "ingot",
-    "reasoning": "Smelting Steel with Heat creates an Ingot — the foundation of metallurgy."
+    "result": "bellows",
+    "reasoning": "The science is clear — Bellows are a device constructed to expel a controlled blast of air. Mix Heat and Steel for Bellows."
   },
   "heat+tar": {
     "result": "teflon",
-    "reasoning": "Combine Heat with Tar to create Teflon."
-  },
-  "heat+tin": {
-    "result": "ingot",
-    "reasoning": "Smelting Tin with Heat creates an Ingot — the foundation of metallurgy."
+    "reasoning": "Heat and Tar together? Polytetrafluoroethylene (PTFE) is a synthetic fluoropolymer of tetrafluoroethylene, and has numerous applications because it is chemically inert. The result: Teflon."
   },
   "heat+titanium": {
     "result": "ingot",
@@ -87,9 +355,9 @@
     "result": "ingot",
     "reasoning": "Smelting Tungsten with Heat creates an Ingot — the foundation of metallurgy."
   },
-  "heat+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Heat creates an Ingot — the foundation of metallurgy."
+  "heath+soil": {
+    "result": "farm",
+    "reasoning": "Heath and Soil share a deep connection. A farm is an area of land that is devoted primarily to agricultural processes with the primary objective of producing food and other crops; it is the basic facility in food production. Result: farm."
   },
   "hot-spring+ingot": {
     "result": "rust",
@@ -117,7 +385,7 @@
   },
   "hot-spring+mineral": {
     "result": "thermal-pool",
-    "reasoning": "Combine Hot Spring with Mineral to create Thermal Pool."
+    "reasoning": "A hot spring, thermal spring, hydrothermal spring, or geothermal spring is a spring produced by the emergence of geothermally heated groundwater onto the surface of the Earth. Combine Hot Spring with Mineral and you naturally get Thermal Pool."
   },
   "hot-spring+nickel": {
     "result": "rust",
@@ -155,21 +423,93 @@
     "result": "rust",
     "reasoning": "Hot Spring oxidizes Zinc — the slow destruction of Rust."
   },
+  "ice+metal": {
+    "result": "absolute-zero",
+    "reasoning": "Absolute zero is the lowest theoretically possible temperature, a state at which a system's internal energy, and in ideal cases entropy, reach their minimum values. That's the connection between Ice and metal — giving us Absolute Zero."
+  },
+  "ice+mineral": {
+    "result": "biodiversity",
+    "reasoning": "Wikipedia says: Biodiversity is the variability of life on Earth. That explains why Ice + Mineral = Biodiversity."
+  },
   "ice+soil": {
     "result": "permafrost",
-    "reasoning": "Combine Soil with Ice to create Permafrost."
+    "reasoning": "Did you know? Permafrost is soil or underwater sediment which continuously remains below 0 °C (32 °F) for two years or more; the oldest permafrost has been continuously frozen for around 700,000 years. That's why Ice + Soil = Permafrost."
+  },
+  "ink+quicksand": {
+    "result": "gel",
+    "reasoning": "Here's a real-world link: A gel is a semi-solid that can have properties ranging from soft and weak to hard and tough. Combine Ink with Quicksand and you get Gel."
   },
   "iron+lightning": {
     "result": "magnetism",
-    "reasoning": "Iron and Lightning explain the phenomenon of Magnetism"
+    "reasoning": "Here's the connection: Magnetism is the class of physical attributes that occur through a magnetic field, which allows objects to attract or repel each other. So Iron + Lightning = Magnetism."
   },
-  "iron+rain": {
-    "result": "rust",
-    "reasoning": "Rainwater oxidizes iron, forming rust"
+  "island+lacquer": {
+    "result": "coconut",
+    "reasoning": "Island and Lacquer share a deep connection. The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. Result: Coconut."
   },
-  "iron+water": {
-    "result": "rust",
-    "reasoning": "Processing Iron with Water yields Rust"
+  "island+sandstone": {
+    "result": "boulder",
+    "reasoning": "Island and Sandstone share a deep connection. In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Result: Boulder."
+  },
+  "island+wax": {
+    "result": "coconut",
+    "reasoning": "The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. So when Island meets wax, Coconut is the natural outcome."
+  },
+  "isthmus+sandstone": {
+    "result": "boulder",
+    "reasoning": "The science is clear — In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Mix Isthmus and Sandstone for Boulder."
+  },
+  "ivory+obsidian": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Ivory meets Obsidian, Brass is the natural outcome."
+  },
+  "ivory+wildlife": {
+    "result": "coral",
+    "reasoning": "The science is clear — Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Mix Ivory and Wildlife for Coral."
+  },
+  "karst+limestone": {
+    "result": "cave",
+    "reasoning": "Karst and Limestone share a deep connection. Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. Result: Cave."
+  },
+  "karst+marble": {
+    "result": "chalk",
+    "reasoning": "The science is clear — Chalk is a soft, white, porous, sedimentary carbonate rock. Mix Karst and Marble for Chalk."
+  },
+  "karst+permafrost": {
+    "result": "badlands",
+    "reasoning": "Here's a real-world link: Badlands are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. Combine Karst with Permafrost and you get Badlands."
+  },
+  "karst+plaster": {
+    "result": "chalk",
+    "reasoning": "Karst and Plaster share a deep connection. Chalk is a soft, white, porous, sedimentary carbonate rock. Result: Chalk."
+  },
+  "karst+pumice": {
+    "result": "chalk",
+    "reasoning": "Here's a real-world link: Chalk is a soft, white, porous, sedimentary carbonate rock. Combine Karst with Pumice and you get Chalk."
+  },
+  "karst+sandstone": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Karst meets Sandstone, Chalk is the natural outcome."
+  },
+  "karst+shale": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. That's the connection between Karst and Shale — giving us Chalk."
+  },
+  "karst+slate": {
+    "result": "chalk",
+    "reasoning": "Karst and Slate share a deep connection. Chalk is a soft, white, porous, sedimentary carbonate rock. Result: Chalk."
+  },
+  "lacquer+peat": {
+    "result": "coconut",
+    "reasoning": "The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. That's the connection between Lacquer and Peat — giving us Coconut."
+  },
+  "lacquer+puddle": {
+    "result": "evaporation",
+    "reasoning": "The science is clear — Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase. Mix Lacquer and Puddle for Evaporation."
+  },
+  "lacquer+steam": {
+    "result": "autoclave",
+    "reasoning": "Here's a real-world link: An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Combine Lacquer with Steam and you get Autoclave."
   },
   "lagoon+lead": {
     "result": "rust",
@@ -199,6 +539,10 @@
     "result": "rust",
     "reasoning": "Lagoon oxidizes Platinum — the slow destruction of Rust."
   },
+  "lagoon+sandstone": {
+    "result": "beach",
+    "reasoning": "Here's a real-world link: A beach is a landform alongside a body of water which consists of loose particles. Combine Lagoon with Sandstone and you get Beach."
+  },
   "lagoon+silver": {
     "result": "rust",
     "reasoning": "Lagoon oxidizes Silver — the slow destruction of Rust."
@@ -210,10 +554,6 @@
   "lagoon+steel": {
     "result": "rust",
     "reasoning": "Lagoon oxidizes Steel — the slow destruction of Rust."
-  },
-  "lagoon+tin": {
-    "result": "rust",
-    "reasoning": "Lagoon oxidizes Tin — the slow destruction of Rust."
   },
   "lagoon+titanium": {
     "result": "rust",
@@ -227,10 +567,6 @@
     "result": "rust",
     "reasoning": "Lagoon oxidizes Zinc — the slow destruction of Rust."
   },
-  "lake+lead": {
-    "result": "rust",
-    "reasoning": "Lake oxidizes Lead — the slow destruction of Rust."
-  },
   "lake+limestone": {
     "result": "mud",
     "reasoning": "Lake + Limestone = Mud — simple, squishy, essential."
@@ -240,8 +576,8 @@
     "reasoning": "Lake + Marble = Mud — simple, squishy, essential."
   },
   "lake+metal": {
-    "result": "rust",
-    "reasoning": "Lake oxidizes metal — the slow destruction of Rust."
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So when Lake meets metal, building is the natural outcome."
   },
   "lake+mineral": {
     "result": "mud",
@@ -255,6 +591,10 @@
     "result": "rust",
     "reasoning": "Lake oxidizes Platinum — the slow destruction of Rust."
   },
+  "lake+pumice": {
+    "result": "caldera",
+    "reasoning": "Lake and Pumice share a deep connection. A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Result: Caldera."
+  },
   "lake+silver": {
     "result": "rust",
     "reasoning": "Lake oxidizes Silver — the slow destruction of Rust."
@@ -262,14 +602,6 @@
   "lake+soil": {
     "result": "mud",
     "reasoning": "Lake + Soil = Mud — simple, squishy, essential."
-  },
-  "lake+steel": {
-    "result": "rust",
-    "reasoning": "Lake oxidizes Steel — the slow destruction of Rust."
-  },
-  "lake+tin": {
-    "result": "rust",
-    "reasoning": "Lake oxidizes Tin — the slow destruction of Rust."
   },
   "lake+titanium": {
     "result": "rust",
@@ -279,13 +611,17 @@
     "result": "rust",
     "reasoning": "Lake oxidizes Tungsten — the slow destruction of Rust."
   },
-  "lake+zinc": {
-    "result": "rust",
-    "reasoning": "Lake oxidizes Zinc — the slow destruction of Rust."
-  },
   "land+paper": {
     "result": "map",
     "reasoning": "land combined with Paper leads to Map"
+  },
+  "land+permafrost": {
+    "result": "badlands",
+    "reasoning": "Badlands are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. That's the connection between land and Permafrost — giving us Badlands."
+  },
+  "latex+rainforest": {
+    "result": "biomass",
+    "reasoning": "Latex and Rainforest share a deep connection. Biomass is material produced by the growth of microorganisms, plants or animals. Result: Biomass."
   },
   "lava-field+lead": {
     "result": "ingot",
@@ -423,21 +759,17 @@
     "result": "ingot",
     "reasoning": "Smelting Zinc with Lava Tube creates an Ingot — the foundation of metallurgy."
   },
-  "lava+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Lava creates an Ingot — the foundation of metallurgy."
-  },
   "lava+limestone": {
     "result": "ceramic",
     "reasoning": "Firing Limestone with Lava creates Ceramic."
   },
+  "lava+magma": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Lava meets Magma, Basalt is the natural outcome."
+  },
   "lava+marble": {
     "result": "ceramic",
     "reasoning": "Firing Marble with Lava creates Ceramic."
-  },
-  "lava+metal": {
-    "result": "ingot",
-    "reasoning": "Smelting metal with Lava creates an Ingot — the foundation of metallurgy."
   },
   "lava+mineral": {
     "result": "ceramic",
@@ -447,9 +779,9 @@
     "result": "lens",
     "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
   },
-  "lava+nickel": {
-    "result": "ingot",
-    "reasoning": "Smelting Nickel with Lava creates an Ingot — the foundation of metallurgy."
+  "lava+petroleum": {
+    "result": "caramel",
+    "reasoning": "Here's a real-world link: Caramel is a range of food ingredients made by heating sugars to high temperatures. Combine Lava with Petroleum and you get Caramel."
   },
   "lava+plank": {
     "result": "charcoal",
@@ -463,21 +795,25 @@
     "result": "lens",
     "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
   },
-  "lava+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Lava creates an Ingot — the foundation of metallurgy."
+  "lava+pumice": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Lava meets Pumice, Caldera is the natural outcome."
+  },
+  "lava+sandstone": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Lava and Sandstone — giving us Basalt."
+  },
+  "lava+shale": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Lava meets Shale, Basalt is the natural outcome."
+  },
+  "lava+slate": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Lava meets Slate, Basalt is the natural outcome."
   },
   "lava+soil": {
     "result": "ceramic",
     "reasoning": "Firing Soil with Lava creates Ceramic."
-  },
-  "lava+steel": {
-    "result": "ingot",
-    "reasoning": "Smelting Steel with Lava creates an Ingot — the foundation of metallurgy."
-  },
-  "lava+tin": {
-    "result": "ingot",
-    "reasoning": "Smelting Tin with Lava creates an Ingot — the foundation of metallurgy."
   },
   "lava+titanium": {
     "result": "ingot",
@@ -487,9 +823,13 @@
     "result": "ingot",
     "reasoning": "Smelting Tungsten with Lava creates an Ingot — the foundation of metallurgy."
   },
-  "lava+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Lava creates an Ingot — the foundation of metallurgy."
+  "lead+water": {
+    "result": "helium",
+    "reasoning": "The science is clear — Helium is a chemical element; it has symbol He and atomic number 2. Mix Lead and Water for Helium."
+  },
+  "leather+prairie": {
+    "result": "bison",
+    "reasoning": "Leather and Prairie share a deep connection. A bison is a large bovine in the genus Bison within the tribe Bovini. Result: Bison."
   },
   "lightning+metal": {
     "result": "aluminum",
@@ -533,350 +873,10 @@
   },
   "lightning+wire": {
     "result": "electricity",
-    "reasoning": "Applying Lightning to Wire produces Electricity"
+    "reasoning": "Lightning and Wire together? Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. The result: Electricity."
   },
   "lightning+zinc": {
     "result": "magnet",
     "reasoning": "Lightning through Zinc = Magnet — invisible force, visible wonder."
-  },
-  "limestone+pressure": {
-    "result": "chalk",
-    "reasoning": "Processing Limestone with Pressure yields Chalk"
-  },
-  "limestone+water": {
-    "result": "mortar",
-    "reasoning": "Limestone mixed with water makes Mortar"
-  },
-  "magma+mountain": {
-    "result": "lava",
-    "reasoning": "Magma melts mountain into flowing Lava."
-  },
-  "magma+mud": {
-    "result": "lava",
-    "reasoning": "Magma melts Mud into flowing Lava."
-  },
-  "magma+ocean": {
-    "result": "steam",
-    "reasoning": "Magma turns ocean to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+rain": {
-    "result": "steam",
-    "reasoning": "Magma turns Rain to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+river": {
-    "result": "steam",
-    "reasoning": "Magma turns River to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+sand": {
-    "result": "lava",
-    "reasoning": "Magma melts Sand into flowing Lava."
-  },
-  "magma+sand-bar": {
-    "result": "lava",
-    "reasoning": "Magma melts Sand Bar into flowing Lava."
-  },
-  "magma+sand-storm": {
-    "result": "lava",
-    "reasoning": "Magma melts Sand Storm into flowing Lava."
-  },
-  "magma+sea-cave": {
-    "result": "lava",
-    "reasoning": "Magma melts Sea Cave into flowing Lava."
-  },
-  "magma+sea-stack": {
-    "result": "steam",
-    "reasoning": "Magma turns Sea Stack to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+stone": {
-    "result": "granite",
-    "reasoning": "Processing Magma with Stone yields Granite"
-  },
-  "magma+stream": {
-    "result": "steam",
-    "reasoning": "Magma turns stream to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+swamp": {
-    "result": "steam",
-    "reasoning": "Magma turns Swamp to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+tide": {
-    "result": "steam",
-    "reasoning": "Magma turns Tide to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+tide-pool": {
-    "result": "steam",
-    "reasoning": "Magma turns Tide Pool to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+water": {
-    "result": "steam",
-    "reasoning": "Magma turns Water to Steam — the force that powered the Industrial Revolution."
-  },
-  "magma+waterfall": {
-    "result": "steam",
-    "reasoning": "Magma turns Waterfall to Steam — the force that powered the Industrial Revolution."
-  },
-  "metal+pressure": {
-    "result": "platinum",
-    "reasoning": "Processing metal with Pressure yields Platinum"
-  },
-  "metal+stone": {
-    "result": "copper",
-    "reasoning": "Processing metal with Stone yields Copper"
-  },
-  "metal+water": {
-    "result": "bucket",
-    "reasoning": "Combine Metal with Water to create Bucket."
-  },
-  "mineral+pressure": {
-    "result": "crystal",
-    "reasoning": "Processing Mineral with Pressure yields Crystal"
-  },
-  "mineral+stone": {
-    "result": "pigment",
-    "reasoning": "Crushing minerals on stone yields Pigment"
-  },
-  "mineral+water": {
-    "result": "plaster",
-    "reasoning": "Gypsum mixed with water makes Plaster"
-  },
-  "mirror+mist": {
-    "result": "erosion",
-    "reasoning": "Mirror + Mist = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+moraine": {
-    "result": "erosion",
-    "reasoning": "Mirror + Moraine = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+mountain": {
-    "result": "erosion",
-    "reasoning": "Mirror + mountain = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+mud": {
-    "result": "erosion",
-    "reasoning": "Mirror + Mud = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+mudflat": {
-    "result": "erosion",
-    "reasoning": "Mirror + Mudflat = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+mudslide": {
-    "result": "erosion",
-    "reasoning": "Mirror + Mudslide = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+muskeg": {
-    "result": "erosion",
-    "reasoning": "Mirror + Muskeg = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+national-park": {
-    "result": "erosion",
-    "reasoning": "Mirror + National Park = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+nature-documentary": {
-    "result": "erosion",
-    "reasoning": "Mirror + Nature Documentary = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+oasis": {
-    "result": "erosion",
-    "reasoning": "Mirror + Oasis = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+obsidian": {
-    "result": "erosion",
-    "reasoning": "Mirror + Obsidian = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+ocean": {
-    "result": "erosion",
-    "reasoning": "Mirror + ocean = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+peat": {
-    "result": "erosion",
-    "reasoning": "Mirror + Peat = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+pebble": {
-    "result": "erosion",
-    "reasoning": "Mirror + Pebble = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+peninsula": {
-    "result": "erosion",
-    "reasoning": "Mirror + Peninsula = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+phytoplankton-bloom": {
-    "result": "erosion",
-    "reasoning": "Mirror + Phytoplankton Bloom = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+plateau": {
-    "result": "erosion",
-    "reasoning": "Mirror + Plateau = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+prairie": {
-    "result": "erosion",
-    "reasoning": "Mirror + Prairie = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+pressure": {
-    "result": "erosion",
-    "reasoning": "Mirror + Pressure = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+puddle": {
-    "result": "erosion",
-    "reasoning": "Mirror + Puddle = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+quicksand": {
-    "result": "erosion",
-    "reasoning": "Mirror + Quicksand = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+rain": {
-    "result": "erosion",
-    "reasoning": "Mirror + Rain = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+rainbow": {
-    "result": "erosion",
-    "reasoning": "Mirror + Rainbow = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+rainforest": {
-    "result": "erosion",
-    "reasoning": "Mirror + Rainforest = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+rapids": {
-    "result": "erosion",
-    "reasoning": "Mirror + Rapids = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+ravine": {
-    "result": "erosion",
-    "reasoning": "Mirror + Ravine = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+reef": {
-    "result": "erosion",
-    "reasoning": "Mirror + Reef = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+ridge": {
-    "result": "erosion",
-    "reasoning": "Mirror + Ridge = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+rift-valley": {
-    "result": "erosion",
-    "reasoning": "Mirror + Rift Valley = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+river": {
-    "result": "erosion",
-    "reasoning": "Mirror + River = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+salt-flat": {
-    "result": "erosion",
-    "reasoning": "Mirror + Salt Flat = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sand": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sand = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sand-bar": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sand Bar = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sand-storm": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sand Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+savanna": {
-    "result": "erosion",
-    "reasoning": "Mirror + Savanna = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+scrubland": {
-    "result": "erosion",
-    "reasoning": "Mirror + Scrubland = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sea-cave": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sea Cave = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sea-stack": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sea Stack = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+sinkhole": {
-    "result": "erosion",
-    "reasoning": "Mirror + Sinkhole = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+smoke": {
-    "result": "erosion",
-    "reasoning": "Mirror + Smoke = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+snow": {
-    "result": "erosion",
-    "reasoning": "Mirror + Snow = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+stalactite": {
-    "result": "erosion",
-    "reasoning": "Mirror + Stalactite = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+stalagmite": {
-    "result": "erosion",
-    "reasoning": "Mirror + Stalagmite = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+steam": {
-    "result": "erosion",
-    "reasoning": "Mirror + Steam = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+steppe": {
-    "result": "erosion",
-    "reasoning": "Mirror + Steppe = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+stone": {
-    "result": "erosion",
-    "reasoning": "Mirror + Stone = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+storm": {
-    "result": "erosion",
-    "reasoning": "Mirror + Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+strait": {
-    "result": "erosion",
-    "reasoning": "Mirror + Strait = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+stream": {
-    "result": "erosion",
-    "reasoning": "Mirror + stream = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+swamp": {
-    "result": "erosion",
-    "reasoning": "Mirror + Swamp = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+taiga": {
-    "result": "erosion",
-    "reasoning": "Mirror + Taiga = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+thermal-pool": {
-    "result": "erosion",
-    "reasoning": "Mirror + Thermal Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+thermal-vent": {
-    "result": "erosion",
-    "reasoning": "Mirror + Thermal Vent = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+thicket": {
-    "result": "erosion",
-    "reasoning": "Mirror + Thicket = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+thunder": {
-    "result": "erosion",
-    "reasoning": "Mirror + Thunder = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+tide": {
-    "result": "erosion",
-    "reasoning": "Mirror + Tide = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+tide-pool": {
-    "result": "erosion",
-    "reasoning": "Mirror + Tide Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+tornado": {
-    "result": "erosion",
-    "reasoning": "Mirror + Tornado = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+tributary": {
-    "result": "erosion",
-    "reasoning": "Mirror + Tributary = Erosion. Nature always wins. It just takes a while."
-  },
-  "mirror+tsunami": {
-    "result": "erosion",
-    "reasoning": "Mirror + Tsunami = Erosion. Nature always wins. It just takes a while."
   }
 }

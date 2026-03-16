@@ -1,27 +1,31 @@
 {
   "absurdity+judge": {
     "result": "prejudice",
-    "reasoning": "Combine Judge with Absurdity to create Prejudice."
+    "reasoning": "Prejudice can be an affective feeling towards a person based on their perceived social group membership. Combine Absurdity with Judge and you naturally get Prejudice."
   },
   "absurdity+justice": {
     "result": "vengeance",
-    "reasoning": "Combine Justice with Absurdity to create Vengeance."
+    "reasoning": "Absurdity is the state or condition of being unreasonable, meaningless, or so unsound as to be irrational. That's how Absurdity and Justice give us Vengeance."
   },
   "alchemist+peace": {
     "result": "serenity",
-    "reasoning": "Combine Peace with Alchemist to create Serenity."
+    "reasoning": "Alchemy is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. That's how Alchemist and Peace give us Serenity."
+  },
+  "altruism+tradition": {
+    "result": "jurisprudence",
+    "reasoning": "The science is clear — Jurisprudence, also known as theory of law or philosophy of law, is the examination in a general perspective of what law is and what it ought to be. Mix Altruism and Tradition for Jurisprudence."
   },
   "ambition+peace": {
     "result": "serenity",
-    "reasoning": "Combine Peace with Ambition to create Serenity."
+    "reasoning": "Peace is a state of harmony arising from the absence of any significant feelings of fear or of want. That's how Ambition and Peace give us Serenity."
   },
   "amphitheater+apothecary": {
     "result": "apothecary-shop",
-    "reasoning": "Combine Apothecary with Amphitheater to create Apothecary Shop."
+    "reasoning": "The Apothecary Shop is a building at the Shelburne Museum in Shelburne, Vermont, that exhibits objects salvaged from New England pharmacies that were closing in the early decades of the 20th century. Combine Amphitheater with Apothecary and you naturally get Apothecary Shop."
   },
   "amphitheater+body": {
     "result": "mortuary",
-    "reasoning": "Combine Body with Amphitheater to create Mortuary."
+    "reasoning": "A morgue or mortuary is a place used for the storage of human corpses awaiting identification (ID), removal for autopsy, respectful burial, entombment or cremation. Combine Amphitheater with Body and you naturally get Mortuary."
   },
   "anger+society": {
     "result": "revolution",
@@ -29,7 +33,11 @@
   },
   "apothecary-shop+belief": {
     "result": "placebo",
-    "reasoning": "Combine Belief with Apothecary Shop to create Placebo."
+    "reasoning": "A placebo is a medicine or treatment intended to appear genuine to its recipient, but which has no pharmaceutical effect. That's how Apothecary Shop and Belief give us Placebo."
+  },
+  "apothecary-shop+pharmacist": {
+    "result": "apothecary",
+    "reasoning": "Wikipedia says: Apothecary is an archaic English term for a medical professional who formulates and dispenses materia medicacode: lat promoted to code: la  ('medicine') to physicians, surgeons and patients. That explains why Apothecary Shop + Pharmacist = Apothecary."
   },
   "apothecary+apothecary-shop": {
     "result": "office-politics",
@@ -43,45 +51,13 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Architect = Office Politics. More complex than actual politics."
   },
-  "apothecary+arena": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Arena = Office Politics. More complex than actual politics."
-  },
-  "apothecary+armory": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Armory = Office Politics. More complex than actual politics."
-  },
-  "apothecary+army": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Army = Office Politics. More complex than actual politics."
-  },
-  "apothecary+artist": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Artist = Office Politics. More complex than actual politics."
-  },
   "apothecary+astronomer": {
     "result": "office-politics",
     "reasoning": "Apothecary + Astronomer = Office Politics. More complex than actual politics."
   },
-  "apothecary+asylum": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Asylum = Office Politics. More complex than actual politics."
-  },
-  "apothecary+attic": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Attic = Office Politics. More complex than actual politics."
-  },
   "apothecary+australia": {
     "result": "office-politics",
     "reasoning": "Apothecary + Australia = Office Politics. More complex than actual politics."
-  },
-  "apothecary+author": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Author = Office Politics. More complex than actual politics."
-  },
-  "apothecary+bakery": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Bakery = Office Politics. More complex than actual politics."
   },
   "apothecary+ballroom": {
     "result": "office-politics",
@@ -95,21 +71,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Barracks = Office Politics. More complex than actual politics."
   },
-  "apothecary+bazaar": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Bazaar = Office Politics. More complex than actual politics."
-  },
   "apothecary+bell-tower": {
     "result": "office-politics",
     "reasoning": "Apothecary + Bell Tower = Office Politics. More complex than actual politics."
-  },
-  "apothecary+big-ben": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Big Ben = Office Politics. More complex than actual politics."
-  },
-  "apothecary+bill": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Bill = Office Politics. More complex than actual politics."
   },
   "apothecary+blacksmith-shop": {
     "result": "office-politics",
@@ -123,49 +87,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Bootlegger = Office Politics. More complex than actual politics."
   },
-  "apothecary+brand": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Brand = Office Politics. More complex than actual politics."
-  },
-  "apothecary+brazil": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Brazil = Office Politics. More complex than actual politics."
-  },
-  "apothecary+brewery": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Brewery = Office Politics. More complex than actual politics."
-  },
-  "apothecary+bunker": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Bunker = Office Politics. More complex than actual politics."
-  },
   "apothecary+bureaucracy": {
     "result": "office-politics",
     "reasoning": "Apothecary + Bureaucracy = Office Politics. More complex than actual politics."
-  },
-  "apothecary+canada": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Canada = Office Politics. More complex than actual politics."
-  },
-  "apothecary+canal": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Canal = Office Politics. More complex than actual politics."
-  },
-  "apothecary+cannery": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Cannery = Office Politics. More complex than actual politics."
-  },
-  "apothecary+capital": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Capital = Office Politics. More complex than actual politics."
-  },
-  "apothecary+captain": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Captain = Office Politics. More complex than actual politics."
-  },
-  "apothecary+caravan": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Caravan = Office Politics. More complex than actual politics."
   },
   "apothecary+carnival": {
     "result": "office-politics",
@@ -183,34 +107,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Centurion = Office Politics. More complex than actual politics."
   },
-  "apothecary+ceo": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + CEO = Office Politics. More complex than actual politics."
-  },
-  "apothecary+chapel": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Chapel = Office Politics. More complex than actual politics."
-  },
-  "apothecary+chef": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Chef = Office Politics. More complex than actual politics."
-  },
-  "apothecary+china": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + China = Office Politics. More complex than actual politics."
-  },
-  "apothecary+choice": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + choice = Office Politics. More complex than actual politics."
-  },
-  "apothecary+citadel": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Citadel = Office Politics. More complex than actual politics."
-  },
-  "apothecary+city": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + city = Office Politics. More complex than actual politics."
-  },
   "apothecary+civilization": {
     "result": "office-politics",
     "reasoning": "Apothecary + Civilization = Office Politics. More complex than actual politics."
@@ -218,14 +114,6 @@
   "apothecary+clock-tower": {
     "result": "office-politics",
     "reasoning": "Apothecary + Clock Tower = Office Politics. More complex than actual politics."
-  },
-  "apothecary+coin": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Coin = Office Politics. More complex than actual politics."
-  },
-  "apothecary+colony": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Colony = Office Politics. More complex than actual politics."
   },
   "apothecary+colosseum": {
     "result": "office-politics",
@@ -235,10 +123,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Community = Office Politics. More complex than actual politics."
   },
-  "apothecary+company": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + company = Office Politics. More complex than actual politics."
-  },
   "apothecary+conquistador": {
     "result": "office-politics",
     "reasoning": "Apothecary + Conquistador = Office Politics. More complex than actual politics."
@@ -247,10 +131,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Construction Site = Office Politics. More complex than actual politics."
   },
-  "apothecary+consul": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Consul = Office Politics. More complex than actual politics."
-  },
   "apothecary+consulate": {
     "result": "office-politics",
     "reasoning": "Apothecary + Consulate = Office Politics. More complex than actual politics."
@@ -258,10 +138,6 @@
   "apothecary+corporation": {
     "result": "office-politics",
     "reasoning": "Apothecary + Corporation = Office Politics. More complex than actual politics."
-  },
-  "apothecary+court": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Court = Office Politics. More complex than actual politics."
   },
   "apothecary+courthouse": {
     "result": "office-politics",
@@ -278,30 +154,6 @@
   "apothecary+crusader": {
     "result": "office-politics",
     "reasoning": "Apothecary + Crusader = Office Politics. More complex than actual politics."
-  },
-  "apothecary+crypt": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Crypt = Office Politics. More complex than actual politics."
-  },
-  "apothecary+culture": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Culture = Office Politics. More complex than actual politics."
-  },
-  "apothecary+customs": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Customs = Office Politics. More complex than actual politics."
-  },
-  "apothecary+czar": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Czar = Office Politics. More complex than actual politics."
-  },
-  "apothecary+debt": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Debt = Office Politics. More complex than actual politics."
-  },
-  "apothecary+degree": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Degree = Office Politics. More complex than actual politics."
   },
   "apothecary+democracy": {
     "result": "office-politics",
@@ -323,45 +175,17 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Director = Office Politics. More complex than actual politics."
   },
-  "apothecary+doctor": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Doctor = Office Politics. More complex than actual politics."
-  },
   "apothecary+drawbridge": {
     "result": "office-politics",
     "reasoning": "Apothecary + Drawbridge = Office Politics. More complex than actual politics."
-  },
-  "apothecary+egypt": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Egypt = Office Politics. More complex than actual politics."
   },
   "apothecary+eiffel-tower": {
     "result": "office-politics",
     "reasoning": "Apothecary + Eiffel Tower = Office Politics. More complex than actual politics."
   },
-  "apothecary+embassy": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Embassy = Office Politics. More complex than actual politics."
-  },
-  "apothecary+empire": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Empire = Office Politics. More complex than actual politics."
-  },
   "apothecary+engineer": {
     "result": "office-politics",
     "reasoning": "Apothecary + Engineer = Office Politics. More complex than actual politics."
-  },
-  "apothecary+europe": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + europe = Office Politics. More complex than actual politics."
-  },
-  "apothecary+exam": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Exam = Office Politics. More complex than actual politics."
-  },
-  "apothecary+farmer": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Farmer = Office Politics. More complex than actual politics."
   },
   "apothecary+festival": {
     "result": "office-politics",
@@ -371,26 +195,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Feudalism = Office Politics. More complex than actual politics."
   },
-  "apothecary+flag": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Flag = Office Politics. More complex than actual politics."
-  },
-  "apothecary+forge": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Forge = Office Politics. More complex than actual politics."
-  },
-  "apothecary+foundry": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Foundry = Office Politics. More complex than actual politics."
-  },
-  "apothecary+france": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + France = Office Politics. More complex than actual politics."
-  },
-  "apothecary+freedom": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + freedom = Office Politics. More complex than actual politics."
-  },
   "apothecary+garrison": {
     "result": "office-politics",
     "reasoning": "Apothecary + Garrison = Office Politics. More complex than actual politics."
@@ -399,10 +203,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Gatehouse = Office Politics. More complex than actual politics."
   },
-  "apothecary+germany": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Germany = Office Politics. More complex than actual politics."
-  },
   "apothecary+gladiator": {
     "result": "office-politics",
     "reasoning": "Apothecary + Gladiator = Office Politics. More complex than actual politics."
@@ -410,14 +210,6 @@
   "apothecary+government": {
     "result": "office-politics",
     "reasoning": "Apothecary + government = Office Politics. More complex than actual politics."
-  },
-  "apothecary+grammy": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Grammy = Office Politics. More complex than actual politics."
-  },
-  "apothecary+granary": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Granary = Office Politics. More complex than actual politics."
   },
   "apothecary+grand-canyon": {
     "result": "office-politics",
@@ -431,21 +223,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Great Wall = Office Politics. More complex than actual politics."
   },
-  "apothecary+guild": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Guild = Office Politics. More complex than actual politics."
-  },
-  "apothecary+harbor": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Harbor = Office Politics. More complex than actual politics."
-  },
   "apothecary+homework": {
     "result": "office-politics",
     "reasoning": "Apothecary + Homework = Office Politics. More complex than actual politics."
-  },
-  "apothecary+india": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + India = Office Politics. More complex than actual politics."
   },
   "apothecary+industrial-revolution": {
     "result": "office-politics",
@@ -459,10 +239,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Infrastructure = Office Politics. More complex than actual politics."
   },
-  "apothecary+inn": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Inn = Office Politics. More complex than actual politics."
-  },
   "apothecary+inquisition": {
     "result": "office-politics",
     "reasoning": "Apothecary + Inquisition = Office Politics. More complex than actual politics."
@@ -475,57 +251,13 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Investment = Office Politics. More complex than actual politics."
   },
-  "apothecary+italy": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Italy = Office Politics. More complex than actual politics."
-  },
-  "apothecary+japan": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Japan = Office Politics. More complex than actual politics."
-  },
   "apothecary+journalist": {
     "result": "office-politics",
     "reasoning": "Apothecary + Journalist = Office Politics. More complex than actual politics."
   },
-  "apothecary+judge": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Judge = Office Politics. More complex than actual politics."
-  },
-  "apothecary+jury": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Jury = Office Politics. More complex than actual politics."
-  },
-  "apothecary+justice": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Justice = Office Politics. More complex than actual politics."
-  },
-  "apothecary+kaiser": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Kaiser = Office Politics. More complex than actual politics."
-  },
-  "apothecary+keep": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Keep = Office Politics. More complex than actual politics."
-  },
-  "apothecary+korea": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Korea = Office Politics. More complex than actual politics."
-  },
-  "apothecary+law": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + law = Office Politics. More complex than actual politics."
-  },
-  "apothecary+lawyer": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Lawyer = Office Politics. More complex than actual politics."
-  },
   "apothecary+legionnaire": {
     "result": "office-politics",
     "reasoning": "Apothecary + Legionnaire = Office Politics. More complex than actual politics."
-  },
-  "apothecary+loan": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Loan = Office Politics. More complex than actual politics."
   },
   "apothecary+machu-picchu": {
     "result": "office-politics",
@@ -535,29 +267,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Magna Carta = Office Politics. More complex than actual politics."
   },
-  "apothecary+market": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Market = Office Politics. More complex than actual politics."
-  },
   "apothecary+marketing": {
     "result": "office-politics",
     "reasoning": "Apothecary + Marketing = Office Politics. More complex than actual politics."
-  },
-  "apothecary+media": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + media = Office Politics. More complex than actual politics."
-  },
-  "apothecary+mexico": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Mexico = Office Politics. More complex than actual politics."
-  },
-  "apothecary+mint": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Mint = Office Politics. More complex than actual politics."
-  },
-  "apothecary+moat": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Moat = Office Politics. More complex than actual politics."
   },
   "apothecary+monarchy": {
     "result": "office-politics",
@@ -566,10 +278,6 @@
   "apothecary+monastery": {
     "result": "office-politics",
     "reasoning": "Apothecary + Monastery = Office Politics. More complex than actual politics."
-  },
-  "apothecary+money": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + money = Office Politics. More complex than actual politics."
   },
   "apothecary+mortuary": {
     "result": "office-politics",
@@ -587,10 +295,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Musketeer = Office Politics. More complex than actual politics."
   },
-  "apothecary+nation": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Nation = Office Politics. More complex than actual politics."
-  },
   "apothecary+niagara-falls": {
     "result": "office-politics",
     "reasoning": "Apothecary + Niagara Falls = Office Politics. More complex than actual politics."
@@ -598,14 +302,6 @@
   "apothecary+nobel-prize": {
     "result": "office-politics",
     "reasoning": "Apothecary + Nobel Prize = Office Politics. More complex than actual politics."
-  },
-  "apothecary+nurse": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Nurse = Office Politics. More complex than actual politics."
-  },
-  "apothecary+obelisk": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Obelisk = Office Politics. More complex than actual politics."
   },
   "apothecary+olympic-games": {
     "result": "office-politics",
@@ -615,53 +311,17 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Orphanage = Office Politics. More complex than actual politics."
   },
-  "apothecary+oscar": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Oscar = Office Politics. More complex than actual politics."
-  },
-  "apothecary+ottoman": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Ottoman = Office Politics. More complex than actual politics."
-  },
-  "apothecary+outpost": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Outpost = Office Politics. More complex than actual politics."
-  },
-  "apothecary+pagoda": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Pagoda = Office Politics. More complex than actual politics."
-  },
-  "apothecary+palace": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Palace = Office Politics. More complex than actual politics."
-  },
   "apothecary+parliament": {
     "result": "office-politics",
     "reasoning": "Apothecary + Parliament = Office Politics. More complex than actual politics."
-  },
-  "apothecary+peace": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Peace = Office Politics. More complex than actual politics."
   },
   "apothecary+pest-control": {
     "result": "office-politics",
     "reasoning": "Apothecary + Pest Control = Office Politics. More complex than actual politics."
   },
-  "apothecary+pharaoh": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + pharaoh = Office Politics. More complex than actual politics."
-  },
   "apothecary+philosopher": {
     "result": "office-politics",
     "reasoning": "Apothecary + Philosopher = Office Politics. More complex than actual politics."
-  },
-  "apothecary+pier": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Pier = Office Politics. More complex than actual politics."
-  },
-  "apothecary+pilot": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Pilot = Office Politics. More complex than actual politics."
   },
   "apothecary+pirate-captain": {
     "result": "office-politics",
@@ -671,21 +331,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Plantation = Office Politics. More complex than actual politics."
   },
-  "apothecary+police": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Police = Office Politics. More complex than actual politics."
-  },
-  "apothecary+poverty": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Poverty = Office Politics. More complex than actual politics."
-  },
   "apothecary+professor": {
     "result": "office-politics",
     "reasoning": "Apothecary + Professor = Office Politics. More complex than actual politics."
-  },
-  "apothecary+profit": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Profit = Office Politics. More complex than actual politics."
   },
   "apothecary+programmer": {
     "result": "office-politics",
@@ -702,10 +350,6 @@
   "apothecary+pyramids-of-giza": {
     "result": "office-politics",
     "reasoning": "Apothecary + Pyramids of Giza = Office Politics. More complex than actual politics."
-  },
-  "apothecary+quarry": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Quarry = Office Politics. More complex than actual politics."
   },
   "apothecary+red-tape": {
     "result": "office-politics",
@@ -727,18 +371,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Revolution = Office Politics. More complex than actual politics."
   },
-  "apothecary+ritual": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Ritual = Office Politics. More complex than actual politics."
-  },
-  "apothecary+russia": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Russia = Office Politics. More complex than actual politics."
-  },
-  "apothecary+sawmill": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Sawmill = Office Politics. More complex than actual politics."
-  },
   "apothecary+scientist": {
     "result": "office-politics",
     "reasoning": "Apothecary + Scientist = Office Politics. More complex than actual politics."
@@ -746,14 +378,6 @@
   "apothecary+shipyard": {
     "result": "office-politics",
     "reasoning": "Apothecary + Shipyard = Office Politics. More complex than actual politics."
-  },
-  "apothecary+shogun": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Shogun = Office Politics. More complex than actual politics."
-  },
-  "apothecary+siege": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Siege = Office Politics. More complex than actual politics."
   },
   "apothecary+silk-road": {
     "result": "office-politics",
@@ -763,37 +387,13 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Smart City = Office Politics. More complex than actual politics."
   },
-  "apothecary+smithy": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Smithy = Office Politics. More complex than actual politics."
-  },
-  "apothecary+society": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + society = Office Politics. More complex than actual politics."
-  },
   "apothecary+space-race": {
     "result": "office-politics",
     "reasoning": "Apothecary + Space Race = Office Politics. More complex than actual politics."
   },
-  "apothecary+spartan": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Spartan = Office Politics. More complex than actual politics."
-  },
-  "apothecary+stable": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Stable = Office Politics. More complex than actual politics."
-  },
-  "apothecary+startup": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Startup = Office Politics. More complex than actual politics."
-  },
   "apothecary+statue-of-liberty": {
     "result": "office-politics",
     "reasoning": "Apothecary + Statue of Liberty = Office Politics. More complex than actual politics."
-  },
-  "apothecary+stock": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Stock = Office Politics. More complex than actual politics."
   },
   "apothecary+stockade": {
     "result": "office-politics",
@@ -803,14 +403,6 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Stonehenge = Office Politics. More complex than actual politics."
   },
-  "apothecary+student": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Student = Office Politics. More complex than actual politics."
-  },
-  "apothecary+sweden": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Sweden = Office Politics. More complex than actual politics."
-  },
   "apothecary+switzerland": {
     "result": "office-politics",
     "reasoning": "Apothecary + Switzerland = Office Politics. More complex than actual politics."
@@ -819,37 +411,9 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Taj Mahal = Office Politics. More complex than actual politics."
   },
-  "apothecary+tannery": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Tannery = Office Politics. More complex than actual politics."
-  },
-  "apothecary+tavern": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Tavern = Office Politics. More complex than actual politics."
-  },
-  "apothecary+tax": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Tax = Office Politics. More complex than actual politics."
-  },
-  "apothecary+teacher": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Teacher = Office Politics. More complex than actual politics."
-  },
-  "apothecary+templar": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Templar = Office Politics. More complex than actual politics."
-  },
   "apothecary+toll-booth": {
     "result": "office-politics",
     "reasoning": "Apothecary + Toll Booth = Office Politics. More complex than actual politics."
-  },
-  "apothecary+town": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Town = Office Politics. More complex than actual politics."
-  },
-  "apothecary+trade": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + trade = Office Politics. More complex than actual politics."
   },
   "apothecary+tradition": {
     "result": "office-politics",
@@ -859,24 +423,460 @@
     "result": "office-politics",
     "reasoning": "Apothecary + Treasury = Office Politics. More complex than actual politics."
   },
-  "apothecary+treaty": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Treaty = Office Politics. More complex than actual politics."
-  },
-  "apothecary+tribune": {
-    "result": "office-politics",
-    "reasoning": "Apothecary + Tribune = Office Politics. More complex than actual politics."
-  },
   "apothecary+trojan-horse": {
     "result": "office-politics",
     "reasoning": "Apothecary + Trojan Horse = Office Politics. More complex than actual politics."
   },
-  "apothecary+turret": {
+  "apothecary+watchtower": {
     "result": "office-politics",
-    "reasoning": "Apothecary + Turret = Office Politics. More complex than actual politics."
+    "reasoning": "Apothecary + Watchtower = Office Politics. More complex than actual politics."
   },
-  "apothecary+uk": {
+  "apothecary+world-cup": {
     "result": "office-politics",
-    "reasoning": "Apothecary + UK = Office Politics. More complex than actual politics."
+    "reasoning": "Apothecary + World Cup = Office Politics. More complex than actual politics."
+  },
+  "aqueduct+potter": {
+    "result": "agi",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Aqueduct meets Potter to create AGI."
+  },
+  "aqueduct+ranger": {
+    "result": "agi",
+    "reasoning": "Both Aqueduct and Ranger are rooted in Place Name Disambiguation Pages. Together they make AGI."
+  },
+  "aqueduct+weaver": {
+    "result": "agi",
+    "reasoning": "Both Aqueduct and Weaver are rooted in Place Name Disambiguation Pages. Together they make AGI."
+  },
+  "aqueduct+wonder": {
+    "result": "agi",
+    "reasoning": "Aqueduct and Wonder both belong to the world of Place Name Disambiguation Pages — combine them for AGI."
+  },
+  "arena+human": {
+    "result": "wrestling",
+    "reasoning": "Humans competing in an arena — that's Wrestling"
+  },
+  "artist+baker": {
+    "result": "tailor",
+    "reasoning": "A tailor is a person who makes or alters clothing, particularly men's clothing. That's the connection between Artist and Baker — giving us Tailor."
+  },
+  "artist+boredom": {
+    "result": "art",
+    "reasoning": "The link between Artist and Boredom? Appropriation (Art). The result? art."
+  },
+  "artist+creativity": {
+    "result": "entertainment",
+    "reasoning": "The science is clear — Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. Mix Artist and Creativity for entertainment."
+  },
+  "artist+tailor": {
+    "result": "baker",
+    "reasoning": "A baker is a tradesperson who bakes and sometimes sells breads and other products made of flour by using an oven or other concentrated heat source. That's the connection between Artist and Tailor — giving us Baker."
+  },
+  "astronomer+geologist": {
+    "result": "geology",
+    "reasoning": "Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. So when Astronomer meets Geologist, Geology is the natural outcome."
+  },
+  "asylum+child": {
+    "result": "orphanage",
+    "reasoning": "An orphanage is a residential institution, total institution or group home, devoted to the care of orphans and children who, for various reasons, cannot be cared for by their biological families. That's how Asylum and Child give us Orphanage."
+  },
+  "asylum+potter": {
+    "result": "bark",
+    "reasoning": "Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals That's the connection between Asylum and Potter — giving us Bark."
+  },
+  "asylum+ranger": {
+    "result": "bark",
+    "reasoning": "Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals That's the connection between Asylum and Ranger — giving us Bark."
+  },
+  "asylum+weaver": {
+    "result": "bark",
+    "reasoning": "Wikipedia says: Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals That explains why Asylum + Weaver = Bark."
+  },
+  "asylum+wonder": {
+    "result": "bark",
+    "reasoning": "Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals So when Asylum meets Wonder, Bark is the natural outcome."
+  },
+  "awe+culture": {
+    "result": "beauty",
+    "reasoning": "Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. That's the connection between Awe and Culture — giving us beauty."
+  },
+  "baker+bakery": {
+    "result": "bread",
+    "reasoning": "Baker and Bakery share a deep connection. Bread is a baked food product made from water, flour, and often yeast. Result: Bread."
+  },
+  "baker+bazaar": {
+    "result": "butcher",
+    "reasoning": "A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. So when Baker meets Bazaar, Butcher is the natural outcome."
+  },
+  "baker+brewery": {
+    "result": "beer",
+    "reasoning": "Baker and Brewery share a deep connection. Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize, rice, and oats are also used. Result: Beer."
+  },
+  "baker+chef": {
+    "result": "butcher",
+    "reasoning": "Baker and Chef share a deep connection. A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. Result: Butcher."
+  },
+  "bakery+butcher": {
+    "result": "baker",
+    "reasoning": "A baker is a tradesperson who bakes and sometimes sells breads and other products made of flour by using an oven or other concentrated heat source. That's the connection between Bakery and Butcher — giving us Baker."
+  },
+  "belief+ritual": {
+    "result": "afterlife",
+    "reasoning": "The afterlife or life after death is a speculation concerning existence after death, in which the essential part of an individual's stream of consciousness or identity continues to exist after the death of their physical body. That's the connection between Belief and Ritual — giving us Afterlife."
+  },
+  "bell-tower+monk": {
+    "result": "temple",
+    "reasoning": "A Bell Tower for Monk — a Temple."
+  },
+  "bell-tower+wisdom": {
+    "result": "library",
+    "reasoning": "A Bell Tower filled with Wisdom — a Library."
+  },
+  "betrayal+choice": {
+    "result": "charisma",
+    "reasoning": "Charisma is a personal quality of magnetic charm, persuasion, or appeal. That's the connection between Betrayal and choice — giving us Charisma."
+  },
+  "betrayal+company": {
+    "result": "contract",
+    "reasoning": "The science is clear — A contract is an agreement that specifies certain legally enforceable rights and obligations pertaining to two or more parties. Mix Betrayal and company for Contract."
+  },
+  "betrayal+consul": {
+    "result": "contract",
+    "reasoning": "The science is clear — A contract is an agreement that specifies certain legally enforceable rights and obligations pertaining to two or more parties. Mix Betrayal and Consul for Contract."
+  },
+  "betrayal+court": {
+    "result": "contract",
+    "reasoning": "A contract is an agreement that specifies certain legally enforceable rights and obligations pertaining to two or more parties. That's the connection between Betrayal and Court — giving us Contract."
+  },
+  "betrayal+culture": {
+    "result": "charisma",
+    "reasoning": "The science is clear — Charisma is a personal quality of magnetic charm, persuasion, or appeal. Mix Betrayal and Culture for Charisma."
+  },
+  "betrayal+freedom": {
+    "result": "charisma",
+    "reasoning": "Betrayal and freedom share a deep connection. Charisma is a personal quality of magnetic charm, persuasion, or appeal. Result: Charisma."
+  },
+  "betrayal+loan": {
+    "result": "contract",
+    "reasoning": "Here's a real-world link: A contract is an agreement that specifies certain legally enforceable rights and obligations pertaining to two or more parties. Combine Betrayal with Loan and you get Contract."
+  },
+  "betrayal+peace": {
+    "result": "charisma",
+    "reasoning": "Here's a real-world link: Charisma is a personal quality of magnetic charm, persuasion, or appeal. Combine Betrayal with Peace and you get Charisma."
+  },
+  "betrayal+revolution": {
+    "result": "charisma",
+    "reasoning": "Charisma is a personal quality of magnetic charm, persuasion, or appeal. That's the connection between Betrayal and Revolution — giving us Charisma."
+  },
+  "blacksmith+forge": {
+    "result": "chisel",
+    "reasoning": "Wikipedia says: A chisel is a hand tool with a characteristic wedge-shaped cutting edge on the end of its blade. That explains why Blacksmith + Forge = Chisel."
+  },
+  "blacksmith+foundry": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Blacksmith and Foundry — giving us Brass."
+  },
+  "bliss+peace": {
+    "result": "forgiveness",
+    "reasoning": "Here's the connection: Theorists differ in the extent to which they believe forgiveness also implies replacing the negative emotions with positive attitudes, or requires reconciliation with the offender. So Bliss + Peace = Forgiveness."
+  },
+  "bone+farmer": {
+    "result": "taxidermist",
+    "reasoning": "Taxidermists preserve and mount animal specimens"
+  },
+  "boredom+culture": {
+    "result": "art",
+    "reasoning": "Boredom and Culture are both connected to Aesthetics — that shared bond creates art."
+  },
+  "brewer+brewery": {
+    "result": "brewing",
+    "reasoning": "The science is clear — Brewing is the production of beer by steeping a starch source in water and fermenting the resulting sweet liquid with yeast. Mix Brewer and Brewery for Brewing."
+  },
+  "brewery+human": {
+    "result": "brewer",
+    "reasoning": "Did you know? Brewing is the production of beer by steeping a starch source in water and fermenting the resulting sweet liquid with yeast. That's why Brewery + human = Brewer."
+  },
+  "butcher+chef": {
+    "result": "baker",
+    "reasoning": "Butcher and Chef share a deep connection. A baker is a tradesperson who bakes and sometimes sells breads and other products made of flour by using an oven or other concentrated heat source. Result: Baker."
+  },
+  "butcher+market": {
+    "result": "bazaar",
+    "reasoning": "A bazaar or souk is a marketplace consisting of multiple small stalls or shops, especially in the Middle East, the Balkans, Central Asia, North Africa and South Asia. So when Butcher meets Market, Bazaar is the natural outcome."
+  },
+  "camping+courtyard": {
+    "result": "fire",
+    "reasoning": "Fire is the rapid oxidation of a fuel in the exothermic chemical process of combustion, releasing heat, light, and various reaction products. So when Camping meets Courtyard, Fire is the natural outcome."
+  },
+  "camping+inn": {
+    "result": "food",
+    "reasoning": "Camping and Inn share a deep connection. Food is any substance consumed by an organism for nutritional support. Result: food."
+  },
+  "camping+pier": {
+    "result": "fishing",
+    "reasoning": "Camping and Pier share a deep connection. Fishing is the activity of trying to catch fish. Result: Fishing."
+  },
+  "camping+tavern": {
+    "result": "food",
+    "reasoning": "The science is clear — Food is any substance consumed by an organism for nutritional support. Mix Camping and Tavern for food."
+  },
+  "carnival+fear": {
+    "result": "archetype",
+    "reasoning": "The concept of an archetype appears in areas relating to behavior, historical psychology, philosophy and literary analysis. So when carnival meets fear, Archetype is the natural outcome."
+  },
+  "catharsis+peace": {
+    "result": "forgiveness",
+    "reasoning": "Theorists differ in the extent to which they believe forgiveness also implies replacing the negative emotions with positive attitudes, or requires reconciliation with the offender. Combine Catharsis with Peace and you naturally get Forgiveness."
+  },
+  "cathedral+monk": {
+    "result": "temple",
+    "reasoning": "A Cathedral for Monk — a Temple."
+  },
+  "charisma+choice": {
+    "result": "betrayal",
+    "reasoning": "Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. That's the connection between Charisma and choice — giving us Betrayal."
+  },
+  "charisma+civilization": {
+    "result": "bureaucracy",
+    "reasoning": "Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. That's the connection between Charisma and Civilization — giving us Bureaucracy."
+  },
+  "charisma+colony": {
+    "result": "bureaucracy",
+    "reasoning": "Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. So when Charisma meets Colony, Bureaucracy is the natural outcome."
+  },
+  "charisma+corporation": {
+    "result": "bureaucracy",
+    "reasoning": "Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. So when Charisma meets Corporation, Bureaucracy is the natural outcome."
+  },
+  "charisma+court": {
+    "result": "bureaucracy",
+    "reasoning": "The science is clear — Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Mix Charisma and Court for Bureaucracy."
+  },
+  "charisma+culture": {
+    "result": "betrayal",
+    "reasoning": "Wikipedia says: Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. That explains why Charisma + Culture = Betrayal."
+  },
+  "charisma+freedom": {
+    "result": "bureaucracy",
+    "reasoning": "Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. So when Charisma meets freedom, Bureaucracy is the natural outcome."
+  },
+  "charisma+government": {
+    "result": "bureaucracy",
+    "reasoning": "Charisma and government share a deep connection. Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Result: Bureaucracy."
+  },
+  "charisma+lawyer": {
+    "result": "bureaucracy",
+    "reasoning": "The science is clear — Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Mix Charisma and Lawyer for Bureaucracy."
+  },
+  "charisma+parliament": {
+    "result": "bureaucracy",
+    "reasoning": "Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. That's the connection between Charisma and Parliament — giving us Bureaucracy."
+  },
+  "charisma+peace": {
+    "result": "betrayal",
+    "reasoning": "Wikipedia says: Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. That explains why Charisma + Peace = Betrayal."
+  },
+  "charisma+revolution": {
+    "result": "betrayal",
+    "reasoning": "Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. That's the connection between Charisma and Revolution — giving us Betrayal."
+  },
+  "charisma+society": {
+    "result": "bureaucracy",
+    "reasoning": "The science is clear — Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Mix Charisma and society for Bureaucracy."
+  },
+  "child+justice": {
+    "result": "judge",
+    "reasoning": "Judges render justice — the final word in the courtroom"
+  },
+  "child+law": {
+    "result": "lawyer",
+    "reasoning": "Lawyers interpret and argue the law — society's rule enforcers"
+  },
+  "child+monastery": {
+    "result": "monk",
+    "reasoning": "Monasteries are where monks live, pray, and preserve knowledge"
+  },
+  "choice+consciousness": {
+    "result": "free-will",
+    "reasoning": "The human experience of choice and Consciousness manifests as Free Will"
+  },
+  "choice+generosity": {
+    "result": "betrayal",
+    "reasoning": "Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. So when choice meets Generosity, Betrayal is the natural outcome."
+  },
+  "choice+human": {
+    "result": "vote",
+    "reasoning": "choice and human together shape vote"
+  },
+  "choice+thought": {
+    "result": "preference",
+    "reasoning": "choice enhanced with Thought creates preference"
+  },
+  "city+human": {
+    "result": "population",
+    "reasoning": "The human experience of city and human manifests as population"
+  },
+  "civilization+family": {
+    "result": "society",
+    "reasoning": "A society is a group of individuals involved in persistent social interaction or a large social group sharing the same spatial or social territory, typically subject to the same political authority and dominant cultural expectations. That's the connection between Civilization and Family — giving us society."
+  },
+  "civilization+fear": {
+    "result": "law",
+    "reasoning": "Thomas Hobbes argued in Leviathan (1651) that fear of violent death in a lawless state of nature drives people to surrender personal freedoms to a sovereign authority — making existential fear the psychological engine that generated legal civilization."
+  },
+  "civilization+human": {
+    "result": "art",
+    "reasoning": "Civilization and human are both connected to Ancient Egypt — that shared bond creates art."
+  },
+  "civilization+imagination": {
+    "result": "art",
+    "reasoning": "Civilization and imagination are both connected to Aristotle — that shared bond creates art."
+  },
+  "clock-tower+monk": {
+    "result": "temple",
+    "reasoning": "A Clock Tower for Monk — a Temple."
+  },
+  "clock-tower+wisdom": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "community+diplomat": {
+    "result": "economics",
+    "reasoning": "Community and Diplomat share a deep connection. Economics is a social science that studies the production, distribution, and consumption of goods and services. Result: Economics."
+  },
+  "community+pharmacist": {
+    "result": "economics",
+    "reasoning": "Community and Pharmacist share a deep connection. Economics is a social science that studies the production, distribution, and consumption of goods and services. Result: Economics."
+  },
+  "community+population": {
+    "result": "ecology",
+    "reasoning": "Wikipedia says: Ecology is the natural science of the relationships among living organisms and their environment. That explains why Community + population = Ecology."
+  },
+  "company+idea": {
+    "result": "startup",
+    "reasoning": "company and Idea together shape Startup"
+  },
+  "compassion+justice": {
+    "result": "conscience",
+    "reasoning": "Wikipedia says: A conscience is a cognitive process that elicits emotion and rational associations based on an individual's moral philosophy or value system. That explains why Compassion + Justice = Conscience."
+  },
+  "conscience+freedom": {
+    "result": "reality",
+    "reasoning": "Reality is the state of everything that exists, not how they might be imagined. That's the connection between Conscience and freedom — giving us Reality."
+  },
+  "conscience+justice": {
+    "result": "empathy",
+    "reasoning": "Empathy is generally described as the ability to perceive another person's perspective, to understand, feel, and possibly share and respond to their experience. That's the connection between Conscience and Justice — giving us Empathy."
+  },
+  "consul+diplomat": {
+    "result": "consulate",
+    "reasoning": "Consul and Diplomat share a deep connection. A consulate is the office of a consul. Result: Consulate."
+  },
+  "consul+hope": {
+    "result": "republic",
+    "reasoning": "The Roman Republic was founded in 509 BCE on the hope that replacing a king with two elected consuls would prevent tyranny forever—the word 'republic' itself comes from 'res publica,' meaning the people's shared hope."
+  },
+  "consulate+diplomat": {
+    "result": "diplomacy",
+    "reasoning": "Wikipedia says: Diplomacy is the communication by representatives of state, intergovernmental, or non-governmental institutions intended to influence events in the international system. That explains why Consulate + Diplomat = Diplomacy."
+  },
+  "contentment+embassy": {
+    "result": "diplomat",
+    "reasoning": "Here's the connection: A diplomat is a person appointed by a state, intergovernmental, or nongovernmental institution to conduct diplomacy with one or more other states or international organizations. So Contentment + Embassy = Diplomat."
+  },
+  "contentment+freedom": {
+    "result": "conscience",
+    "reasoning": "Here's a real-world link: A conscience is a cognitive process that elicits emotion and rational associations based on an individual's moral philosophy or value system. Combine Contentment with freedom and you get Conscience."
+  },
+  "contentment+justice": {
+    "result": "courage",
+    "reasoning": "Contentment and Justice share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "contentment+nation": {
+    "result": "diplomat",
+    "reasoning": "Here's the connection: A diplomat is a person appointed by a state, intergovernmental, or nongovernmental institution to conduct diplomacy with one or more other states or international organizations. So Contentment + Nation = Diplomat."
+  },
+  "contentment+peace": {
+    "result": "serenity",
+    "reasoning": "Here's the connection: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So Contentment + Peace = Serenity."
+  },
+  "corporation+human": {
+    "result": "ceo",
+    "reasoning": "Corporation and human together shape CEO"
+  },
+  "courage+justice": {
+    "result": "curiosity",
+    "reasoning": "Here's a real-world link: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Combine courage with Justice and you get Curiosity."
+  },
+  "courage+peace": {
+    "result": "curiosity",
+    "reasoning": "Here's a real-world link: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Combine courage with Peace and you get Curiosity."
+  },
+  "courthouse+librarian": {
+    "result": "court",
+    "reasoning": "Courthouse and Librarian share a deep connection. A court is an institution, often a government entity, with the authority to adjudicate legal disputes between parties and administer justice in civil, criminal, and administrative matters in accordance with the rule of law. Result: Court."
+  },
+  "creativity+culture": {
+    "result": "beauty",
+    "reasoning": "Wikipedia says: Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. That explains why Creativity + Culture = beauty."
+  },
+  "creativity+designer": {
+    "result": "pattern",
+    "reasoning": "A pattern is a regularity in the world, in human-made design, or in abstract ideas. So when Creativity meets Designer, pattern is the natural outcome."
+  },
+  "creativity+feudalism": {
+    "result": "analogy",
+    "reasoning": "Wikipedia says: Analogy is a comparison or correspondence between two things because of a third element that they are considered to share. That explains why Creativity + Feudalism = Analogy."
+  },
+  "creativity+law": {
+    "result": "analogy",
+    "reasoning": "The science is clear — Analogy is a comparison or correspondence between two things because of a third element that they are considered to share. Mix Creativity and law for Analogy."
+  },
+  "crypt+pharmacist": {
+    "result": "germany",
+    "reasoning": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. That's the connection between Crypt and Pharmacist — giving us Germany."
+  },
+  "culture+emotion": {
+    "result": "slam-poetry",
+    "reasoning": "Here's the connection: A poetry slam is a competitive art event in which poets perform spoken word poetry before a live audience and a panel of judges. So Culture + Emotion = Slam Poetry."
+  },
+  "culture+generosity": {
+    "result": "betrayal",
+    "reasoning": "Here's a real-world link: Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. Combine Culture with Generosity and you get Betrayal."
+  },
+  "culture+human": {
+    "result": "art",
+    "reasoning": "Culture and human are both connected to Anthropology — that shared bond creates art."
+  },
+  "culture+imagination": {
+    "result": "art",
+    "reasoning": "Through Arxiv (Identifier), Culture and imagination find common ground: art."
+  },
+  "culture+skepticism": {
+    "result": "belief",
+    "reasoning": "A belief is a subjective attitude that something is true or a state of affairs is the case. So when Culture meets Skepticism, Belief is the natural outcome."
+  },
+  "culture+wisdom": {
+    "result": "beauty",
+    "reasoning": "Here's a real-world link: Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. Combine Culture with Wisdom and you get beauty."
+  },
+  "curiosity+justice": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. So when Curiosity meets Justice, courage is the natural outcome."
+  },
+  "curiosity+peace": {
+    "result": "courage",
+    "reasoning": "Wikipedia says: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That explains why Curiosity + Peace = courage."
+  },
+  "debt+human": {
+    "result": "poverty",
+    "reasoning": "Debt and human together shape Poverty"
+  },
+  "deja-vu+eiffel-tower": {
+    "result": "office-politics",
+    "reasoning": "Deja Vu + Eiffel Tower = Office Politics. More complex than actual politics."
+  },
+  "deja-vu+grand-canyon": {
+    "result": "office-politics",
+    "reasoning": "Deja Vu + Grand Canyon = Office Politics. More complex than actual politics."
   }
 }

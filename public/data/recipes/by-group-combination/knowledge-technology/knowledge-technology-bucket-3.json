@@ -1,27 +1,175 @@
 {
+  "name+reason": {
+    "result": "dilemma",
+    "reasoning": "A dilemma is a problem offering two possibilities, neither of which is unambiguously acceptable or preferable. That's the connection between name and Reason — giving us Dilemma."
+  },
+  "name+rhetoric": {
+    "result": "fallacy",
+    "reasoning": "A fallacy is the use of invalid or otherwise faulty reasoning in the construction of an argument that may appear to be well-reasoned if unnoticed. So when name meets Rhetoric, Fallacy is the natural outcome."
+  },
+  "name+theorem": {
+    "result": "dilemma",
+    "reasoning": "The science is clear — A dilemma is a problem offering two possibilities, neither of which is unambiguously acceptable or preferable. Mix name and Theorem for Dilemma."
+  },
+  "name+theory": {
+    "result": "chemistry",
+    "reasoning": "The science is clear — Chemistry is the scientific study of the properties and behavior of matter. Mix name and Theory for Chemistry."
+  },
+  "name+truth": {
+    "result": "dilemma",
+    "reasoning": "Here's a real-world link: A dilemma is a problem offering two possibilities, neither of which is unambiguously acceptable or preferable. Combine name with Truth and you get Dilemma."
+  },
+  "network+number": {
+    "result": "ip-address",
+    "reasoning": "An Internet Protocol address is a numerical label, such as 192.0.2.1 or 2001:db8::42, that is assigned to a device connected to a computer network that uses the Internet Protocol for communication. Combine Network with number and you naturally get IP Address."
+  },
+  "network+research-paper": {
+    "result": "artificial-intelligence",
+    "reasoning": "Network + Research Paper = AI — humanity's greatest amplifier."
+  },
+  "network+theory-of-relativity": {
+    "result": "artificial-intelligence",
+    "reasoning": "Network + Theory of Relativity = AI — humanity's greatest amplifier."
+  },
+  "newspaper+podcast": {
+    "result": "blog",
+    "reasoning": "The science is clear — A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. Mix Newspaper and Podcast for blog."
+  },
+  "newspaper+printing": {
+    "result": "stencil",
+    "reasoning": "The science is clear — Stencilling produces an image or pattern on a surface by applying pigment to a surface through an intermediate object, with designed holes in the intermediate object. Mix Newspaper and Printing for Stencil."
+  },
+  "newspaper+radio": {
+    "result": "album",
+    "reasoning": "Here's a real-world link: An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Combine Newspaper with Radio and you get Album."
+  },
+  "newspaper+sensor": {
+    "result": "bias",
+    "reasoning": "Wikipedia says: Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. That explains why Newspaper + Sensor = Bias."
+  },
+  "newspaper+television": {
+    "result": "media",
+    "reasoning": "Newspaper and Television together shape media"
+  },
+  "newspaper+video": {
+    "result": "album",
+    "reasoning": "Newspaper and video share a deep connection. An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Result: Album."
+  },
+  "newspaper+vlog": {
+    "result": "blog",
+    "reasoning": "A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. That's the connection between Newspaper and Vlog — giving us blog."
+  },
+  "number+software": {
+    "result": "version",
+    "reasoning": "Did you know? A number is a mathematical object used to count, measure, and label. That's why number + software = Version."
+  },
+  "number+typewriter": {
+    "result": "braille",
+    "reasoning": "Wikipedia says: Braille is a tactile writing system used by blind or visually impaired people. That explains why number + Typewriter = Braille."
+  },
+  "paradigm+pattern": {
+    "result": "archetype",
+    "reasoning": "Did you know? The concept of an archetype appears in areas relating to behavior, historical psychology, philosophy and literary analysis. That's why Paradigm + pattern = Archetype."
+  },
+  "paradigm+sensor": {
+    "result": "bias",
+    "reasoning": "The science is clear — Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. Mix Paradigm and Sensor for Bias."
+  },
+  "paradox+pattern": {
+    "result": "consciousness",
+    "reasoning": "Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. That's the connection between Paradox and pattern — giving us Consciousness."
+  },
+  "paradox+sensor": {
+    "result": "antibody",
+    "reasoning": "The science is clear — Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Mix Paradox and Sensor for Antibody."
+  },
+  "patent+podcast": {
+    "result": "company",
+    "reasoning": "A company is a legal entity representing an association of legal persons with a shared objective, such as generating profit or benefiting society. That's the connection between Patent and Podcast — giving us company."
+  },
+  "patent+slack": {
+    "result": "cloud-computing",
+    "reasoning": "Wikipedia says: It is commonly referred to as \"the cloud\". That explains why Patent + Slack = Cloud Computing."
+  },
+  "patent+software": {
+    "result": "cloud-computing",
+    "reasoning": "The science is clear — It is commonly referred to as \"the cloud\". Mix Patent and software for Cloud Computing."
+  },
+  "pattern+reality": {
+    "result": "consciousness",
+    "reasoning": "Wikipedia says: Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. That explains why pattern + Reality = Consciousness."
+  },
+  "pattern+reason": {
+    "result": "abstraction",
+    "reasoning": "Abstraction is the process of generalizing rules and concepts from specific examples, literal signifiers, first principles, or other methods. So when pattern meets Reason, Abstraction is the natural outcome."
+  },
+  "pattern+symbol": {
+    "result": "archetype",
+    "reasoning": "The concept of an archetype appears in areas relating to behavior, historical psychology, philosophy and literary analysis. That's the connection between pattern and symbol — giving us Archetype."
+  },
+  "pattern+theory": {
+    "result": "abstraction",
+    "reasoning": "The science is clear — Abstraction is the process of generalizing rules and concepts from specific examples, literal signifiers, first principles, or other methods. Mix pattern and Theory for Abstraction."
+  },
+  "pattern+truth": {
+    "result": "consciousness",
+    "reasoning": "Here's a real-world link: Consciousness is being aware of something internal to one's self or being conscious of states or objects in one's external environment. Combine pattern with Truth and you get Consciousness."
+  },
+  "pattern+utopia": {
+    "result": "abstraction",
+    "reasoning": "The science is clear — Abstraction is the process of generalizing rules and concepts from specific examples, literal signifiers, first principles, or other methods. Mix pattern and Utopia for Abstraction."
+  },
+  "pattern+word": {
+    "result": "determinism",
+    "reasoning": "Determinism is the metaphysical view that all events within the universe can occur only in one possible way. That's the connection between pattern and Word — giving us Determinism."
+  },
+  "philosophy+phonograph": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Phonograph = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+photodiode": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Photodiode = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+piezoelectric": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Piezoelectric = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+polymorphism": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Polymorphism = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+post-office": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Post Office = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+potentiometer": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Potentiometer = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+power-grid": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Power Grid = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+power-plant": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Power Plant = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+power-strip": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Power Strip = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+pressure-cooker": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Pressure Cooker = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
+  "philosophy+propane-tank": {
+    "result": "stack-overflow",
+    "reasoning": "Philosophy + Propane Tank = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  },
   "philosophy+quantum-computer": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Quantum Computer = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+queue": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Queue = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+radar": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Radar = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+radiator": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Radiator = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+radio": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Radio = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+ram": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + RAM = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+ransomware": {
     "result": "stack-overflow",
@@ -31,57 +179,9 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Record Player = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+recursion": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Recursion = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+reddit": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Reddit = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+regex": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Regex = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+relay": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Relay = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+remote": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Remote = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+resistor": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Resistor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+resolution": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Resolution = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+rest-api": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + REST API = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+robot": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Robot = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+router": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Router = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+saas": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + SaaS = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+screen": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + screen = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+scuba": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + SCUBA = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+search-engine": {
     "result": "stack-overflow",
@@ -91,33 +191,9 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Self Driving Car = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+selfie": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Selfie = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+semiconductor": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Semiconductor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+sensor": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Sensor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+server": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Server = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+signal": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Signal = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+sim-card": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + SIM Card = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+siri": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Siri = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+smart-contract": {
     "result": "stack-overflow",
@@ -147,73 +223,25 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Social Media = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+software": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + software = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+solar-panel": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Solar Panel = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+sonar": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Sonar = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+sort": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Sort = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+spacex": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + SpaceX = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+spam": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Spam = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+speaker": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Speaker = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+spectroscope": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Spectroscope = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+spotify": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Spotify = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+ssd": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + SSD = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+stable-diffusion": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Stable Diffusion = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+stack": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Stack = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+stack-overflow": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Stack Overflow = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+stamp": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Stamp = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+starlink": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Starlink = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+steam-engine": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Steam Engine = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+streaming": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Streaming = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+supercomputer": {
     "result": "stack-overflow",
@@ -223,10 +251,6 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Synthesizer = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+tablet": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Tablet = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+technical-debt": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Technical Debt = Stack Overflow. Where every programmer goes to copy-paste their way to success."
@@ -235,29 +259,9 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + technology = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+telegram": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Telegram = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+telegraph": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Telegraph = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+telephone": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Telephone = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+teletype": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Teletype = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+television": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Television = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+tesla": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Tesla = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+tesla-coil": {
     "result": "stack-overflow",
@@ -266,14 +270,6 @@
   "philosophy+thermostat": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Thermostat = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+tiktok": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + TikTok = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+tor": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Tor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+touchscreen": {
     "result": "stack-overflow",
@@ -287,81 +283,25 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Transistor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+tree-data": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Tree Data = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+troll-internet": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Troll Internet = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+twitter": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Twitter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+typewriter": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Typewriter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+uber": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Uber = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+upload": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Upload = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+url": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + URL = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+usb": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + USB = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+vacuum-tube": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Vacuum Tube = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+variable": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Variable = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+version": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Version = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+video": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + video = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+viral": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Viral = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+viral-video": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Viral Video = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+vlog": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Vlog = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+voltage": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Voltage = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+voltaic-pile": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Voltaic Pile = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+voltmeter": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Voltmeter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+vpn": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + VPN = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+vr-headset": {
     "result": "stack-overflow",
@@ -371,49 +311,13 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + Water Wheel = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+wearable": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Wearable = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+weather-app": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Weather App = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+web-page": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Web Page = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+web3": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Web3 = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+webcam": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Webcam = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+website": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Website = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "philosophy+welding-torch": {
     "result": "stack-overflow",
     "reasoning": "Philosophy + Welding Torch = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+wi-fi": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Wi-Fi = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+wifi": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + WiFi = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+wiki": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Wiki = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "philosophy+wikipedia": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Wikipedia = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "philosophy+wildlife-camera": {
     "result": "stack-overflow",
@@ -431,81 +335,133 @@
     "result": "stack-overflow",
     "reasoning": "Philosophy + X-Ray Machine = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "philosophy+xml": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + XML = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  "phishing+placebo": {
+    "result": "betrayal",
+    "reasoning": "The science is clear — Betrayal is the breaking or violation of a presumptive contract, trust, or confidence that produces moral and psychological conflict within a relationship amongst individuals, between organizations or between individuals and organizations. Mix Phishing and Placebo for Betrayal."
   },
-  "philosophy+youtube": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + YouTube = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  "photodiode+photograph": {
+    "result": "camera",
+    "reasoning": "Photodiode and Photograph share a deep connection. A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. Result: camera."
   },
-  "philosophy+zeppelin": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Zeppelin = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  "photograph+pixel": {
+    "result": "camera",
+    "reasoning": "Here's a real-world link: A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. Combine Photograph with Pixel and you get camera."
   },
-  "philosophy+zoom": {
-    "result": "stack-overflow",
-    "reasoning": "Philosophy + Zoom = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  "photograph+selfie": {
+    "result": "camera",
+    "reasoning": "Wikipedia says: A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. That explains why Photograph + Selfie = camera."
+  },
+  "podcast+symbol": {
+    "result": "communication",
+    "reasoning": "Here's a real-world link: Communication is commonly defined as the transmission of information. Combine Podcast with symbol and you get Communication."
+  },
+  "post+story": {
+    "result": "hydra",
+    "reasoning": "Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria That's the connection between Post and Story — giving us Hydra."
   },
   "press+text": {
     "result": "newspaper",
     "reasoning": "press combined with Text leads to Newspaper"
   },
+  "printer+story": {
+    "result": "ide",
+    "reasoning": "Printer and Story both belong to the world of Place Name Disambiguation Pages — combine them for IDE."
+  },
+  "printing+scroll": {
+    "result": "papyrus",
+    "reasoning": "Papyrus is a material similar to thick paper that was used in ancient times as a writing material. So when Printing meets Scroll, Papyrus is the natural outcome."
+  },
+  "printing+writing": {
+    "result": "barcode",
+    "reasoning": "Wikipedia says: A barcode or bar code is a method of representing data in a visual, machine-readable symbolic form. That explains why Printing + Writing = Barcode."
+  },
+  "privacy+research": {
+    "result": "big-data",
+    "reasoning": "Big data primarily refers to data sets that are too large or complex to be dealt with by traditional data-processing software. That's the connection between Privacy and Research — giving us Big Data."
+  },
+  "python+story": {
+    "result": "brownie",
+    "reasoning": "In the realm of Disambiguation Pages With Given Name Holder Lists, Python meets Story to create Brownie."
+  },
+  "radio+sign": {
+    "result": "bit",
+    "reasoning": "The science is clear — The bit is the most basic unit of information in computing and digital communication. Mix Radio and Sign for Bit."
+  },
+  "recursion+syllogism": {
+    "result": "axiom",
+    "reasoning": "Recursion and Syllogism share a deep connection. An axiom, postulate, or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. Result: Axiom."
+  },
+  "recursion+theorem": {
+    "result": "axiom",
+    "reasoning": "An axiom, postulate, or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. That's the connection between Recursion and Theorem — giving us Axiom."
+  },
+  "recursion+theory": {
+    "result": "axiom",
+    "reasoning": "Recursion and Theory share a deep connection. An axiom, postulate, or assumption is a statement that is taken to be true, to serve as a premise or starting point for further reasoning and arguments. Result: Axiom."
+  },
+  "remote+story": {
+    "result": "jack",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Remote meets Story to create Jack."
+  },
+  "research+sensor": {
+    "result": "bias",
+    "reasoning": "Wikipedia says: Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. That explains why Research + Sensor = Bias."
+  },
+  "resolution+story": {
+    "result": "jack",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Resolution meets Story to create Jack."
+  },
+  "rhetoric+sensor": {
+    "result": "bias",
+    "reasoning": "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. That's the connection between Rhetoric and Sensor — giving us Bias."
+  },
+  "signal+textbook": {
+    "result": "evolution",
+    "reasoning": "The science is clear — Evolution is the change in the heritable characteristics of biological populations over successive generations. Mix Signal and Textbook for Evolution."
+  },
+  "simulation+technology": {
+    "result": "automation",
+    "reasoning": "Wikipedia says: Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. That explains why Simulation + technology = Automation."
+  },
+  "slack+symbol": {
+    "result": "emoji",
+    "reasoning": "The science is clear — An emoji is a pictogram, logogram, ideogram, or smiley embedded in text and used in electronic messages and web pages. Mix Slack and symbol for Emoji."
+  },
+  "slack+taxonomy": {
+    "result": "github",
+    "reasoning": "Slack and Taxonomy share a deep connection. GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. Result: GitHub."
+  },
   "social-media+symbol": {
     "result": "hashtag",
-    "reasoning": "Applying Social Media to symbol produces Hashtag"
+    "reasoning": "A hashtag is a metadata tag operator that is prefaced by the hash symbol, #. Combine Social Media with symbol and you naturally get Hashtag."
   },
   "social-media+text": {
     "result": "post",
-    "reasoning": "Applying Social Media to Text produces Post"
+    "reasoning": "Did you know? Social media are new media technologies that facilitate the creation, sharing and aggregation of content amongst virtual communities and networks. That's why Social Media + Text = Post."
+  },
+  "story+telegram": {
+    "result": "instagram",
+    "reasoning": "Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. So when Story meets Telegram, Instagram is the natural outcome."
+  },
+  "story+tor": {
+    "result": "key",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Story meets Tor to create key."
+  },
+  "story+vlog": {
+    "result": "instagram",
+    "reasoning": "Wikipedia says: Instagram is an American photo and short-form video sharing social networking service owned by Meta Platforms. That explains why Story + Vlog = Instagram."
+  },
+  "symbol+telephone": {
+    "result": "conversation",
+    "reasoning": "symbol and Telephone share a deep connection. Conversation is interactive communication between two or more people. Result: conversation."
+  },
+  "symbol+vlog": {
+    "result": "communication",
+    "reasoning": "Wikipedia says: Communication is commonly defined as the transmission of information. That explains why symbol + Vlog = Communication."
   },
   "tautology+technical-debt": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Technical Debt = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+technology": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + technology = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+telegram": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Telegram = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+telegraph": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Telegraph = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+telephone": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Telephone = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+teletype": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Teletype = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+television": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Television = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+tesla": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Tesla = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+tesla-coil": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Tesla Coil = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+thermostat": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Thermostat = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+tiktok": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + TikTok = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+tor": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Tor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "tautology+touchscreen": {
     "result": "stack-overflow",
@@ -515,137 +471,33 @@
     "result": "stack-overflow",
     "reasoning": "Tautology + Transformer = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+transistor": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Transistor = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+tree-data": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Tree Data = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "tautology+troll-internet": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Troll Internet = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+twitter": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Twitter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+typewriter": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Typewriter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+uber": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Uber = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+upload": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Upload = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+url": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + URL = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+usb": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + USB = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "tautology+vacuum-tube": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Vacuum Tube = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+variable": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Variable = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+version": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Version = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+video": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + video = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+viral": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Viral = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "tautology+viral-video": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Viral Video = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+vlog": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Vlog = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+voltage": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Voltage = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "tautology+voltaic-pile": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Voltaic Pile = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+voltmeter": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Voltmeter = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+vpn": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + VPN = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+vr-headset": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + VR Headset = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "tautology+water-wheel": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Water Wheel = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+wearable": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Wearable = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "tautology+weather-app": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Weather App = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+web-page": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Web Page = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+web3": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Web3 = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+webcam": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Webcam = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+website": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Website = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "tautology+welding-torch": {
     "result": "stack-overflow",
     "reasoning": "Tautology + Welding Torch = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+wi-fi": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Wi-Fi = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+wifi": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + WiFi = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+wiki": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Wiki = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+wikipedia": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Wikipedia = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
   "tautology+wildlife-camera": {
     "result": "stack-overflow",
@@ -655,32 +507,16 @@
     "result": "stack-overflow",
     "reasoning": "Tautology + Wind Turbine = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+windows-os": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Windows OS = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
   "tautology+x-ray-machine": {
     "result": "stack-overflow",
     "reasoning": "Tautology + X-Ray Machine = Stack Overflow. Where every programmer goes to copy-paste their way to success."
   },
-  "tautology+xml": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + XML = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+youtube": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + YouTube = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+zeppelin": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Zeppelin = Stack Overflow. Where every programmer goes to copy-paste their way to success."
-  },
-  "tautology+zoom": {
-    "result": "stack-overflow",
-    "reasoning": "Tautology + Zoom = Stack Overflow. Where every programmer goes to copy-paste their way to success."
+  "telephone+writing": {
+    "result": "conversation",
+    "reasoning": "Conversation is interactive communication between two or more people. That's the connection between Telephone and Writing — giving us conversation."
   },
   "text+website": {
     "result": "web-page",
-    "reasoning": "Applying Text to Website produces Web Page"
+    "reasoning": "Did you know? A web page, or webpage, is a Web document that is accessed in a web browser. That's why Text + Website = Web Page."
   }
 }

@@ -1,79 +1,759 @@
 {
   "acceleration+crystal": {
     "result": "crystallization",
-    "reasoning": "Combine Crystal with Acceleration to create Crystallization."
+    "reasoning": "Crystallization is a process that leads to solids with a uniform pattern of atoms or molecules, i.e. Combine Acceleration with Crystal and you naturally get Crystallization."
+  },
+  "acid+aerogel": {
+    "result": "catalyst",
+    "reasoning": "Wikipedia says: Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That explains why Acid + Aerogel = Catalyst."
   },
   "acid+crystal": {
     "result": "lattice",
-    "reasoning": "Combine Crystal with Acid to create Lattice."
+    "reasoning": "Did you know? An acid is a molecule or ion capable of either donating a proton (i.e. That's why Acid + Crystal = Lattice."
+  },
+  "acid+soap": {
+    "result": "catalyst",
+    "reasoning": "Wikipedia says: Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That explains why Acid + Soap = Catalyst."
+  },
+  "aerodynamics+alloy": {
+    "result": "density",
+    "reasoning": "Wikipedia says: Density is the ratio of a substance's mass to its volume. That explains why Aerodynamics + Alloy = Density."
+  },
+  "aerodynamics+cement": {
+    "result": "airplane",
+    "reasoning": "The science is clear — An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Mix Aerodynamics and Cement for Airplane."
+  },
+  "aerodynamics+foam": {
+    "result": "density",
+    "reasoning": "Here's a real-world link: Density is the ratio of a substance's mass to its volume. Combine Aerodynamics with Foam and you get Density."
+  },
+  "aerodynamics+plastic": {
+    "result": "airplane",
+    "reasoning": "Aerodynamics and Plastic share a deep connection. An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Result: Airplane."
+  },
+  "aerodynamics+steel": {
+    "result": "car",
+    "reasoning": "The science is clear — A car, or an automobile, is a motor vehicle with wheels. Mix Aerodynamics and Steel for Car."
+  },
+  "aerogel+buoyancy": {
+    "result": "density",
+    "reasoning": "Aerogel and Buoyancy share a deep connection. Density is the ratio of a substance's mass to its volume. Result: Density."
   },
   "aerogel+carbon": {
     "result": "fullerene",
-    "reasoning": "Combine Carbon with Aerogel to create Fullerene."
+    "reasoning": "Here's the connection: A fullerene is an allotrope of carbon whose molecules consist of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh, with fused rings of five to six atoms. So Aerogel + Carbon = Fullerene."
+  },
+  "aerogel+centrifuge": {
+    "result": "density",
+    "reasoning": "Aerogel and Centrifuge share a deep connection. Density is the ratio of a substance's mass to its volume. Result: Density."
+  },
+  "aerogel+combustion": {
+    "result": "carbon",
+    "reasoning": "Aerogel and Combustion share a deep connection. Carbon is a chemical element; it has symbol C and atomic number 6. Result: Carbon."
+  },
+  "aerogel+convection": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Aerogel and Convection for Density."
+  },
+  "aerogel+diffusion": {
+    "result": "catalyst",
+    "reasoning": "Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That's the connection between Aerogel and Diffusion — giving us Catalyst."
+  },
+  "aerogel+evaporation": {
+    "result": "density",
+    "reasoning": "Wikipedia says: Density is the ratio of a substance's mass to its volume. That explains why Aerogel + Evaporation = Density."
+  },
+  "aerogel+momentum": {
+    "result": "capillary-action",
+    "reasoning": "Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. So when Aerogel meets Momentum, Capillary Action is the natural outcome."
+  },
+  "aerogel+neon": {
+    "result": "density",
+    "reasoning": "Aerogel and Neon share a deep connection. Density is the ratio of a substance's mass to its volume. Result: Density."
+  },
+  "aerogel+nutrition": {
+    "result": "catalyst",
+    "reasoning": "Wikipedia says: Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That explains why Aerogel + Nutrition = Catalyst."
+  },
+  "aerogel+solvent": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Aerogel and Solvent for Density."
+  },
+  "aerogel+turbulence": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Aerogel and Turbulence for Density."
+  },
+  "aerogel+viscosity": {
+    "result": "capillary-action",
+    "reasoning": "The science is clear — Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Mix Aerogel and Viscosity for Capillary Action."
   },
   "alabaster+carbon": {
     "result": "fullerene",
-    "reasoning": "Combine Carbon with Alabaster to create Fullerene."
+    "reasoning": "Alabaster and Carbon together? A fullerene is an allotrope of carbon whose molecules consist of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh, with fused rings of five to six atoms. The result: Fullerene."
+  },
+  "alabaster+hydraulics": {
+    "result": "egypt",
+    "reasoning": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. That's the connection between Alabaster and Hydraulics — giving us Egypt."
+  },
+  "alloy+atom": {
+    "result": "chemical-reaction",
+    "reasoning": "Here's a real-world link: A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another. Combine Alloy with Atom and you get Chemical reaction."
+  },
+  "alloy+buoyancy": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Alloy and Buoyancy for Density."
   },
   "alloy+carbon": {
     "result": "graphite",
-    "reasoning": "Combine Carbon with Alloy to create Graphite."
+    "reasoning": "Here's the connection: Graphite is a crystalline allotrope (form) of the element carbon. So Alloy + Carbon = Graphite."
+  },
+  "alloy+chemistry": {
+    "result": "bronze",
+    "reasoning": "Alloy and Chemistry share a deep connection. Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. Result: Bronze."
+  },
+  "alloy+convection": {
+    "result": "density",
+    "reasoning": "Alloy and Convection share a deep connection. Density is the ratio of a substance's mass to its volume. Result: Density."
+  },
+  "alloy+density": {
+    "result": "copper",
+    "reasoning": "Copper is a chemical element; it has symbol Cu and atomic number 29. That's the connection between Alloy and Density — giving us Copper."
+  },
+  "alloy+electrolysis": {
+    "result": "copper",
+    "reasoning": "Alloy and Electrolysis share a deep connection. Copper is a chemical element; it has symbol Cu and atomic number 29. Result: Copper."
+  },
+  "alloy+evaporation": {
+    "result": "density",
+    "reasoning": "Wikipedia says: Density is the ratio of a substance's mass to its volume. That explains why Alloy + Evaporation = Density."
+  },
+  "alloy+fluorescence": {
+    "result": "chemical-reaction",
+    "reasoning": "A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another. So when Alloy meets Fluorescence, Chemical reaction is the natural outcome."
+  },
+  "alloy+hydraulics": {
+    "result": "egypt",
+    "reasoning": "Alloy and Hydraulics share a deep connection. Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Result: Egypt."
+  },
+  "alloy+ion": {
+    "result": "atom",
+    "reasoning": "Alloy and Ion share a deep connection. Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. Result: Atom."
+  },
+  "alloy+isotope": {
+    "result": "carbon",
+    "reasoning": "Alloy and Isotope share a deep connection. Carbon is a chemical element; it has symbol C and atomic number 6. Result: Carbon."
+  },
+  "alloy+magnetism": {
+    "result": "carbon",
+    "reasoning": "Here's a real-world link: Carbon is a chemical element; it has symbol C and atomic number 6. Combine Alloy with Magnetism and you get Carbon."
+  },
+  "alloy+microscope": {
+    "result": "crucible",
+    "reasoning": "The science is clear — A crucible is a container in which metals or other substances may be melted or subjected to very high temperatures. Mix Alloy and Microscope for Crucible."
+  },
+  "alloy+molecule": {
+    "result": "chemical-reaction",
+    "reasoning": "Alloy and Molecule share a deep connection. A chemical reaction is a process that leads to the chemical transformation of one set of chemical substances to another. Result: Chemical reaction."
+  },
+  "alloy+momentum": {
+    "result": "archimedes-principle",
+    "reasoning": "Alloy and Momentum share a deep connection. Archimedes' principle states that the upward buoyant force that is exerted on a body immersed in a fluid, whether fully or partially, is equal to the weight of the fluid that the body displaces. Result: Archimedes Principle."
+  },
+  "alloy+neon": {
+    "result": "density",
+    "reasoning": "Here's a real-world link: Density is the ratio of a substance's mass to its volume. Combine Alloy with Neon and you get Density."
+  },
+  "alloy+osmosis": {
+    "result": "diffusion",
+    "reasoning": "The science is clear — Diffusion is the net movement of anything generally from a region of higher concentration to a region of lower concentration. Mix Alloy and Osmosis for Diffusion."
+  },
+  "alloy+oxygen": {
+    "result": "bauxite",
+    "reasoning": "Bauxite is a sedimentary rock with a relatively high aluminium content. So when Alloy meets Oxygen, Bauxite is the natural outcome."
+  },
+  "alloy+pendulum": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Alloy and Pendulum — giving us Brass."
+  },
+  "alloy+piezoelectricity": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. So when Alloy meets Piezoelectricity, Bronze is the natural outcome."
+  },
+  "alloy+recycling": {
+    "result": "bauxite",
+    "reasoning": "Bauxite is a sedimentary rock with a relatively high aluminium content. That's the connection between Alloy and Recycling — giving us Bauxite."
+  },
+  "alloy+solvent": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Alloy and Solvent for Density."
+  },
+  "alloy+viscosity": {
+    "result": "archimedes-principle",
+    "reasoning": "Wikipedia says: Archimedes' principle states that the upward buoyant force that is exerted on a body immersed in a fluid, whether fully or partially, is equal to the weight of the fluid that the body displaces. That explains why Alloy + Viscosity = Archimedes Principle."
   },
   "aluminum+carbon": {
     "result": "graphite",
-    "reasoning": "Combine Carbon with Aluminum to create Graphite."
+    "reasoning": "Did you know? Graphite is a crystalline allotrope (form) of the element carbon. That's why Aluminum + Carbon = Graphite."
+  },
+  "amplitude+wire": {
+    "result": "loudspeaker",
+    "reasoning": "A loudspeaker is a combination of one or more speaker drivers, an enclosure, and electrical connections. That's the connection between Amplitude and Wire — giving us Loudspeaker."
+  },
+  "astronomy+basalt": {
+    "result": "asteroid",
+    "reasoning": "Here's a real-world link: An asteroid is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—that orbits within the inner Solar System or is co-orbital with Jupiter. Combine Astronomy with Basalt and you get Asteroid."
+  },
+  "astronomy+brass": {
+    "result": "astrolabe",
+    "reasoning": "An astrolabe is an astronomical instrument dating to ancient times. So when Astronomy meets Brass, Astrolabe is the natural outcome."
+  },
+  "astronomy+glass": {
+    "result": "astronomer",
+    "reasoning": "The science is clear — An astronomer is a scientist in the field of astronomy who focuses on a specific question or field outside the scope of Earth. Mix Astronomy and Glass for Astronomer."
+  },
+  "atom+copper": {
+    "result": "alchemy",
+    "reasoning": "Wikipedia says: Alchemy is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. That explains why Atom + Copper = Alchemy."
+  },
+  "atom+metal": {
+    "result": "absolute-zero",
+    "reasoning": "The science is clear — Absolute zero is the lowest theoretically possible temperature, a state at which a system's internal energy, and in ideal cases entropy, reach their minimum values. Mix Atom and metal for Absolute Zero."
+  },
+  "atom+nickel": {
+    "result": "bacteria",
+    "reasoning": "Atom and Nickel share a deep connection. Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. Result: Bacteria."
+  },
+  "atom+silver": {
+    "result": "bacteria",
+    "reasoning": "Here's a real-world link: Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. Combine Atom with Silver and you get Bacteria."
+  },
+  "basalt+geology": {
+    "result": "bacteria",
+    "reasoning": "Wikipedia says: Bacteria are ubiquitous, mostly free-living organisms often consisting of one biological cell. That explains why Basalt + Geology = Bacteria."
+  },
+  "basalt+helium": {
+    "result": "asteroid",
+    "reasoning": "Wikipedia says: An asteroid is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—that orbits within the inner Solar System or is co-orbital with Jupiter. That explains why Basalt + Helium = Asteroid."
+  },
+  "basalt+oxygen": {
+    "result": "bauxite",
+    "reasoning": "Here's a real-world link: Bauxite is a sedimentary rock with a relatively high aluminium content. Combine Basalt with Oxygen and you get Bauxite."
+  },
+  "basalt+recycling": {
+    "result": "bauxite",
+    "reasoning": "Bauxite is a sedimentary rock with a relatively high aluminium content. So when Basalt meets Recycling, Bauxite is the natural outcome."
+  },
+  "base+plank": {
+    "result": "batter",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Base meets plank to create Batter."
+  },
+  "bauxite+density": {
+    "result": "copper",
+    "reasoning": "Bauxite and Density share a deep connection. Copper is a chemical element; it has symbol Cu and atomic number 29. Result: Copper."
+  },
+  "bauxite+electrolysis": {
+    "result": "copper",
+    "reasoning": "Copper is a chemical element; it has symbol Cu and atomic number 29. So when Bauxite meets Electrolysis, Copper is the natural outcome."
+  },
+  "bauxite+isotope": {
+    "result": "copper",
+    "reasoning": "Here's a real-world link: Copper is a chemical element; it has symbol Cu and atomic number 29. Combine Bauxite with Isotope and you get Copper."
+  },
+  "bauxite+magnetism": {
+    "result": "copper",
+    "reasoning": "The science is clear — Copper is a chemical element; it has symbol Cu and atomic number 29. Mix Bauxite and Magnetism for Copper."
+  },
+  "bauxite+neon": {
+    "result": "china",
+    "reasoning": "Bauxite and Neon share a deep connection. China, officially the People's Republic of China (PRC), is a country in East Asia. Result: China."
+  },
+  "bauxite+waste": {
+    "result": "china",
+    "reasoning": "The science is clear — China, officially the People's Republic of China (PRC), is a country in East Asia. Mix Bauxite and waste for China."
+  },
+  "biomass+bitumen": {
+    "result": "bicycle",
+    "reasoning": "Wikipedia says: A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. That explains why Biomass + Bitumen = Bicycle."
+  },
+  "biomass+steel": {
+    "result": "bicycle",
+    "reasoning": "The science is clear — A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. Mix Biomass and Steel for Bicycle."
+  },
+  "bitumen+combustion": {
+    "result": "coal",
+    "reasoning": "Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. So when Bitumen meets Combustion, Coal is the natural outcome."
+  },
+  "bitumen+hydrogen": {
+    "result": "boiling-point",
+    "reasoning": "The science is clear — The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. Mix Bitumen and Hydrogen for Boiling Point."
+  },
+  "bitumen+hydropower": {
+    "result": "coal",
+    "reasoning": "Here's a real-world link: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Combine Bitumen with Hydropower and you get Coal."
+  },
+  "bitumen+solvent": {
+    "result": "boiling-point",
+    "reasoning": "Wikipedia says: The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. That explains why Bitumen + Solvent = Boiling Point."
+  },
+  "bitumen+torque": {
+    "result": "bicycle",
+    "reasoning": "A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. So when Bitumen meets Torque, Bicycle is the natural outcome."
+  },
+  "bitumen+toxicity": {
+    "result": "coal",
+    "reasoning": "Here's a real-world link: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Combine Bitumen with Toxicity and you get Coal."
+  },
+  "bitumen+vacuum": {
+    "result": "boiling-point",
+    "reasoning": "The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. So when Bitumen meets Vacuum, Boiling Point is the natural outcome."
+  },
+  "bitumen+wheelchair": {
+    "result": "canoe",
+    "reasoning": "A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. So when Bitumen meets Wheelchair, Canoe is the natural outcome."
+  },
+  "blade+combustion": {
+    "result": "cooking",
+    "reasoning": "Here's a real-world link: Cooking, also known as cookery, is the art, science and craft of using heat to make food more palatable, digestible, nutritious, or safe. Combine Blade with Combustion and you get Cooking."
   },
   "blade+medicine": {
     "result": "surgery",
-    "reasoning": "Blade and Medicine explain the phenomenon of Surgery"
+    "reasoning": "Did you know? A blade is the sharp, cutting portion of a tool, weapon, or machine, specifically designed to puncture, chop, slice, or scrape surfaces or materials. That's why Blade + Medicine = Surgery."
+  },
+  "blade+syringe": {
+    "result": "cooking",
+    "reasoning": "Cooking, also known as cookery, is the art, science and craft of using heat to make food more palatable, digestible, nutritious, or safe. That's the connection between Blade and Syringe — giving us Cooking."
   },
   "boiling-point+natural-gas": {
     "result": "ideal-gas-law",
-    "reasoning": "Combine Natural Gas with Boiling Point to create Ideal Gas Law."
+    "reasoning": "Did you know? The ideal gas law, also called the general gas equation, is the equation of state of a hypothetical ideal gas. That's why Boiling Point + Natural Gas = Ideal Gas Law."
+  },
+  "brass+clock": {
+    "result": "astrolabe",
+    "reasoning": "Here's a real-world link: An astrolabe is an astronomical instrument dating to ancient times. Combine Brass with Clock and you get Astrolabe."
+  },
+  "brass+hydraulics": {
+    "result": "bellows",
+    "reasoning": "Bellows are a device constructed to expel a controlled blast of air. So when Brass meets Hydraulics, Bellows is the natural outcome."
+  },
+  "brass+hydropower": {
+    "result": "bellows",
+    "reasoning": "The science is clear — Bellows are a device constructed to expel a controlled blast of air. Mix Brass and Hydropower for Bellows."
+  },
+  "brass+optics": {
+    "result": "acoustics",
+    "reasoning": "The science is clear — Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Mix Brass and Optics for Acoustics."
+  },
+  "brass+physics": {
+    "result": "acoustics",
+    "reasoning": "Brass and Physics share a deep connection. Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Result: Acoustics."
+  },
+  "brass+thermodynamics": {
+    "result": "acoustics",
+    "reasoning": "The science is clear — Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Mix Brass and Thermodynamics for Acoustics."
+  },
+  "brass+vacuum": {
+    "result": "bellows",
+    "reasoning": "The science is clear — Bellows are a device constructed to expel a controlled blast of air. Mix Brass and Vacuum for Bellows."
+  },
+  "brass+viscosity": {
+    "result": "acoustics",
+    "reasoning": "The science is clear — Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Mix Brass and Viscosity for Acoustics."
+  },
+  "brass+watch": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. So when Brass meets Watch, Alloy is the natural outcome."
+  },
+  "brick+geology": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That's the connection between Brick and Geology — giving us Avalanche."
+  },
+  "brick+microscope": {
+    "result": "autoclave",
+    "reasoning": "An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. So when Brick meets Microscope, Autoclave is the natural outcome."
+  },
+  "brick+syringe": {
+    "result": "autoclave",
+    "reasoning": "An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. That's the connection between Brick and Syringe — giving us Autoclave."
+  },
+  "bronze+density": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Bronze and Density — giving us Brass."
+  },
+  "bronze+watch": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Bronze and Watch — giving us Alloy."
+  },
+  "buoyancy+candle": {
+    "result": "capillary-action",
+    "reasoning": "Here's a real-world link: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Combine Buoyancy with Candle and you get Capillary Action."
+  },
+  "buoyancy+foam": {
+    "result": "density",
+    "reasoning": "Density is the ratio of a substance's mass to its volume. That's the connection between Buoyancy and Foam — giving us Density."
+  },
+  "calculus+cement": {
+    "result": "abacus",
+    "reasoning": "An abacus consists of a two-dimensional array of slidable beads. So when Calculus meets Cement, Abacus is the natural outcome."
+  },
+  "calculus+plastic": {
+    "result": "abacus",
+    "reasoning": "Here's a real-world link: An abacus consists of a two-dimensional array of slidable beads. Combine Calculus with Plastic and you get Abacus."
+  },
+  "calico+combustion": {
+    "result": "cotton",
+    "reasoning": "Calico and Combustion share a deep connection. Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Result: Cotton."
+  },
+  "calico+yoga": {
+    "result": "button",
+    "reasoning": "Here's a real-world link: A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. Combine Calico with Yoga and you get button."
+  },
+  "candle+fluorescence": {
+    "result": "chandelier",
+    "reasoning": "The science is clear — A chandelier is an ornamental lighting device, typically with spreading branched supports for multiple lights, designed to be hung from the ceiling. Mix Candle and Fluorescence for Chandelier."
+  },
+  "candle+luminescence": {
+    "result": "combustion",
+    "reasoning": "The science is clear — Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Candle and Luminescence for Combustion."
+  },
+  "candle+momentum": {
+    "result": "capillary-action",
+    "reasoning": "Here's a real-world link: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. Combine Candle with Momentum and you get Capillary Action."
+  },
+  "candle+viscosity": {
+    "result": "capillary-action",
+    "reasoning": "Wikipedia says: Capillary action is the process of a liquid flowing in a narrow space without the assistance of external forces like gravity. That explains why Candle + Viscosity = Capillary Action."
+  },
+  "candle+waste": {
+    "result": "combustion",
+    "reasoning": "The science is clear — Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Candle and waste for Combustion."
+  },
+  "canvas+glasses": {
+    "result": "rocket",
+    "reasoning": "The science is clear — A rocket is an elongated flying vehicle that uses a rocket engine to accelerate without using any surrounding air. Mix canvas and Glasses for Rocket."
+  },
+  "carbon+cobalt": {
+    "result": "atom",
+    "reasoning": "Carbon and Cobalt share a deep connection. Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. Result: Atom."
+  },
+  "carbon+copper": {
+    "result": "amino-acid",
+    "reasoning": "Amino acids are organic compounds that contain both amino and carboxylic acid functional groups. So when Carbon meets Copper, Amino Acid is the natural outcome."
+  },
+  "carbon+diamond": {
+    "result": "allotrope",
+    "reasoning": "Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. So when Carbon meets Diamond, Allotrope is the natural outcome."
   },
   "carbon+epoxy": {
     "result": "graphene",
-    "reasoning": "Combine Carbon with Epoxy to create Graphene."
+    "reasoning": "Here's the connection: Graphene is a variety of the element carbon which occurs naturally in small amounts. So Carbon + Epoxy = Graphene."
   },
   "carbon+fiberglass": {
     "result": "graphene",
-    "reasoning": "Combine Carbon with Fiberglass to create Graphene."
+    "reasoning": "Graphene is a variety of the element carbon which occurs naturally in small amounts. That's how Carbon and Fiberglass give us Graphene."
   },
   "carbon+fullerene": {
     "result": "graphene",
-    "reasoning": "Combine Carbon with Fullerene to create Graphene."
+    "reasoning": "Graphene is a variety of the element carbon which occurs naturally in small amounts. Combine Carbon with Fullerene and you naturally get Graphene."
+  },
+  "carbon+gold": {
+    "result": "cobalt",
+    "reasoning": "Cobalt is a chemical element; it has symbol Co and atomic number 27. So when Carbon meets Gold, Cobalt is the natural outcome."
+  },
+  "carbon+graphene": {
+    "result": "atom",
+    "reasoning": "Carbon and Graphene share a deep connection. Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. Result: Atom."
   },
   "carbon+graphite": {
     "result": "fullerene",
-    "reasoning": "Combine Carbon with Graphite to create Fullerene."
+    "reasoning": "Carbon and Graphite together? A fullerene is an allotrope of carbon whose molecules consist of carbon atoms connected by single and double bonds so as to form a closed or partially closed mesh, with fused rings of five to six atoms. The result: Fullerene."
+  },
+  "carbon+iron": {
+    "result": "alloy",
+    "reasoning": "Here's a real-world link: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Combine Carbon with Iron and you get Alloy."
+  },
+  "carbon+lead": {
+    "result": "atom",
+    "reasoning": "Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. So when Carbon meets Lead, Atom is the natural outcome."
+  },
+  "carbon+metal": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Carbon and metal — giving us Alloy."
+  },
+  "carbon+nickel": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Carbon and Nickel — giving us Alloy."
+  },
+  "carbon+platinum": {
+    "result": "alloy",
+    "reasoning": "Here's a real-world link: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Combine Carbon with Platinum and you get Alloy."
+  },
+  "carbon+silicon": {
+    "result": "cobalt",
+    "reasoning": "Here's a real-world link: Cobalt is a chemical element; it has symbol Co and atomic number 27. Combine Carbon with Silicon and you get Cobalt."
+  },
+  "carbon+silver": {
+    "result": "alloy",
+    "reasoning": "Here's a real-world link: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Combine Carbon with Silver and you get Alloy."
+  },
+  "carbon+tin": {
+    "result": "allotrope",
+    "reasoning": "Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. So when Carbon meets Tin, Allotrope is the natural outcome."
+  },
+  "carbon+titanium": {
+    "result": "alloy",
+    "reasoning": "The science is clear — An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Mix Carbon and Titanium for Alloy."
+  },
+  "carbon+tungsten": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Carbon + Tungsten = Alloy."
   },
   "carbon+wire": {
     "result": "resistor",
-    "reasoning": "Applying Carbon to Wire produces Resistor"
+    "reasoning": "A resistor is a passive two-terminal electronic component that implements electrical resistance as a circuit element. Combine Carbon with Wire and you naturally get Resistor."
+  },
+  "carbon+zinc": {
+    "result": "cobalt",
+    "reasoning": "Here's a real-world link: Cobalt is a chemical element; it has symbol Co and atomic number 27. Combine Carbon with Zinc and you get Cobalt."
+  },
+  "cellophane+combustion": {
+    "result": "cotton",
+    "reasoning": "Cellophane and Combustion share a deep connection. Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Result: Cotton."
+  },
+  "cellophane+syringe": {
+    "result": "candy",
+    "reasoning": "Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. So when Cellophane meets Syringe, Candy is the natural outcome."
+  },
+  "cement+engineering": {
+    "result": "artificial-intelligence",
+    "reasoning": "The science is clear — Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. Mix Cement and engineering for Artificial Intelligence."
+  },
+  "centrifuge+coal": {
+    "result": "bitumen",
+    "reasoning": "Wikipedia says: Bitumen is an immensely viscous constituent of petroleum. That explains why Centrifuge + Coal = Bitumen."
+  },
+  "centrifuge+concrete": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Centrifuge and Concrete for Bitumen."
+  },
+  "centrifuge+foam": {
+    "result": "density",
+    "reasoning": "Here's a real-world link: Density is the ratio of a substance's mass to its volume. Combine Centrifuge with Foam and you get Density."
+  },
+  "centrifuge+mica": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Centrifuge and Mica — giving us Bitumen."
+  },
+  "centrifuge+parchment": {
+    "result": "dna",
+    "reasoning": "The science is clear — Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. Mix Centrifuge and Parchment for DNA."
+  },
+  "centrifuge+tar": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. So when Centrifuge meets Tar, Bitumen is the natural outcome."
+  },
+  "centrifuge+vermiculite": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Centrifuge with Vermiculite and you get Bitumen."
+  },
+  "ceramic+chemistry": {
+    "result": "acid",
+    "reasoning": "Wikipedia says: An acid is a molecule or ion capable of either donating a proton (i.e. That explains why Ceramic + Chemistry = Acid."
+  },
+  "ceramic+electrolysis": {
+    "result": "copper",
+    "reasoning": "Wikipedia says: Copper is a chemical element; it has symbol Cu and atomic number 29. That explains why Ceramic + Electrolysis = Copper."
+  },
+  "ceramic+magnetism": {
+    "result": "copper",
+    "reasoning": "Here's a real-world link: Copper is a chemical element; it has symbol Cu and atomic number 29. Combine Ceramic with Magnetism and you get Copper."
+  },
+  "ceramic+neon": {
+    "result": "copper",
+    "reasoning": "Copper is a chemical element; it has symbol Cu and atomic number 29. So when Ceramic meets Neon, Copper is the natural outcome."
+  },
+  "ceramic+oxygen": {
+    "result": "acid",
+    "reasoning": "Here's a real-world link: An acid is a molecule or ion capable of either donating a proton (i.e. Combine Ceramic with Oxygen and you get Acid."
+  },
+  "ceramic+piezoelectricity": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. That's the connection between Ceramic and Piezoelectricity — giving us Capacitor."
+  },
+  "ceramic+skeleton": {
+    "result": "collagen",
+    "reasoning": "Ceramic and Skeleton share a deep connection. Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. Result: Collagen."
   },
   "chain+molecule": {
     "result": "polymer",
-    "reasoning": "Combine Molecule with Chain to create Polymer."
+    "reasoning": "A polymer is a substance or material that consists of very large molecules, or macromolecules, that are constituted by many repeating subunits derived from one or more species of monomers. That's how Chain and Molecule give us Polymer."
   },
   "chain+nuclear": {
     "result": "critical-mass",
-    "reasoning": "Combine Nuclear with Chain to create Critical Mass."
+    "reasoning": "Here's the connection: Critical mass is the amount of fissile material needed to sustain nuclear fission. So Chain + Nuclear = Critical Mass."
+  },
+  "chalk+combustion": {
+    "result": "coal",
+    "reasoning": "The science is clear — Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Mix Chalk and Combustion for Coal."
+  },
+  "change+cork": {
+    "result": "cable",
+    "reasoning": "change and Cork both belong to the world of Place Name Disambiguation Pages — combine them for Cable."
+  },
+  "charcoal+compost": {
+    "result": "peat",
+    "reasoning": "The science is clear — Peat is an accumulation of partially decayed vegetation or organic matter. Mix Charcoal and Compost for Peat."
+  },
+  "charcoal+recycling": {
+    "result": "cardboard",
+    "reasoning": "Wikipedia says: Cardboard is a generic term for heavy paper-based products ranging from a thick paper known as paperboard to corrugated fiberboard. That explains why Charcoal + Recycling = Cardboard."
+  },
+  "chemistry+diamond": {
+    "result": "allotrope",
+    "reasoning": "Here's a real-world link: Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. Combine Chemistry with Diamond and you get Allotrope."
+  },
+  "chemistry+fullerene": {
+    "result": "allotrope",
+    "reasoning": "Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. So when Chemistry meets Fullerene, Allotrope is the natural outcome."
+  },
+  "chemistry+graphene": {
+    "result": "allotrope",
+    "reasoning": "Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. So when Chemistry meets Graphene, Allotrope is the natural outcome."
+  },
+  "chemistry+ivory": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. That's the connection between Chemistry and Ivory — giving us Bronze."
+  },
+  "chemistry+lead": {
+    "result": "atom",
+    "reasoning": "The science is clear — Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. Mix Chemistry and Lead for Atom."
+  },
+  "chemistry+metal": {
+    "result": "alchemy",
+    "reasoning": "Alchemy is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. That's the connection between Chemistry and metal — giving us Alchemy."
+  },
+  "chemistry+mineral": {
+    "result": "acid",
+    "reasoning": "Here's a real-world link: An acid is a molecule or ion capable of either donating a proton (i.e. Combine Chemistry with Mineral and you get Acid."
+  },
+  "chemistry+nickel": {
+    "result": "bronze",
+    "reasoning": "Here's a real-world link: Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. Combine Chemistry with Nickel and you get Bronze."
+  },
+  "chemistry+nylon": {
+    "result": "acid",
+    "reasoning": "Chemistry and Nylon share a deep connection. An acid is a molecule or ion capable of either donating a proton (i.e. Result: Acid."
+  },
+  "chemistry+platinum": {
+    "result": "bronze",
+    "reasoning": "The science is clear — Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. Mix Chemistry and Platinum for Bronze."
+  },
+  "chemistry+tin": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. So when Chemistry meets Tin, Bronze is the natural outcome."
+  },
+  "chemistry+titanium": {
+    "result": "allotrope",
+    "reasoning": "The science is clear — Allotropy or allotropism is the property of some chemical elements to exist in two or more different forms, in the same physical state, known as allotropes of the elements. Mix Chemistry and Titanium for Allotrope."
+  },
+  "chemistry+tungsten": {
+    "result": "acid",
+    "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. So when Chemistry meets Tungsten, Acid is the natural outcome."
+  },
+  "chemistry+zinc": {
+    "result": "acid",
+    "reasoning": "Wikipedia says: An acid is a molecule or ion capable of either donating a proton (i.e. That explains why Chemistry + Zinc = Acid."
+  },
+  "cloning+mica": {
+    "result": "dna",
+    "reasoning": "Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. So when Cloning meets Mica, DNA is the natural outcome."
+  },
+  "cloning+parchment": {
+    "result": "dna",
+    "reasoning": "Cloning and Parchment share a deep connection. Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. Result: DNA."
   },
   "coal+element": {
     "result": "carbon",
-    "reasoning": "Coal and element explain the phenomenon of Carbon"
+    "reasoning": "Carbon is a chemical element; it has symbol C and atomic number 6. Combine Coal with element and you naturally get Carbon."
   },
-  "coil+combustion": {
-    "result": "periodic-table",
-    "reasoning": "coil + Combustion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  "coal+hydropower": {
+    "result": "biomass",
+    "reasoning": "Biomass is material produced by the growth of microorganisms, plants or animals. So when Coal meets Hydropower, Biomass is the natural outcome."
   },
-  "coil+compass": {
-    "result": "periodic-table",
-    "reasoning": "coil + compass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  "coal+pollution": {
+    "result": "biomass",
+    "reasoning": "Biomass is material produced by the growth of microorganisms, plants or animals. So when Coal meets Pollution, Biomass is the natural outcome."
   },
-  "coil+compost": {
-    "result": "periodic-table",
-    "reasoning": "coil + Compost = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+  "coal+smog": {
+    "result": "biomass",
+    "reasoning": "Coal and Smog share a deep connection. Biomass is material produced by the growth of microorganisms, plants or animals. Result: Biomass."
+  },
+  "coal+stethoscope": {
+    "result": "artery",
+    "reasoning": "An artery is a blood vessel in humans and most other animals that takes oxygenated blood away from the heart in the systemic circulation to one or more parts of the body. That's the connection between Coal and Stethoscope — giving us Artery."
+  },
+  "cobalt+helium": {
+    "result": "atom",
+    "reasoning": "Wikipedia says: Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. That explains why Cobalt + Helium = Atom."
+  },
+  "cobalt+hydrogen": {
+    "result": "boiling-point",
+    "reasoning": "Wikipedia says: The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. That explains why Cobalt + Hydrogen = Boiling Point."
+  },
+  "cobalt+matter": {
+    "result": "boiling-point",
+    "reasoning": "The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. So when Cobalt meets matter, Boiling Point is the natural outcome."
+  },
+  "cobalt+neon": {
+    "result": "atom",
+    "reasoning": "Wikipedia says: Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. That explains why Cobalt + Neon = Atom."
+  },
+  "cobalt+nitrogen": {
+    "result": "gold",
+    "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. That's the connection between Cobalt and Nitrogen — giving us Gold."
+  },
+  "cobalt+oxygen": {
+    "result": "gold",
+    "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. So when Cobalt meets Oxygen, Gold is the natural outcome."
+  },
+  "cobalt+vacuum": {
+    "result": "boiling-point",
+    "reasoning": "Cobalt and Vacuum share a deep connection. The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. Result: Boiling Point."
+  },
+  "coffin+gunpowder": {
+    "result": "compass",
+    "reasoning": "A compass is a device that shows the cardinal directions used for navigation and geographic orientation. So when Coffin meets Gunpowder, compass is the natural outcome."
+  },
+  "coffin+paper": {
+    "result": "compass",
+    "reasoning": "Wikipedia says: A compass is a device that shows the cardinal directions used for navigation and geographic orientation. That explains why Coffin + Paper = compass."
+  },
+  "coffin+porcelain": {
+    "result": "compass",
+    "reasoning": "The science is clear — A compass is a device that shows the cardinal directions used for navigation and geographic orientation. Mix Coffin and Porcelain for compass."
+  },
+  "coffin+sail": {
+    "result": "compass",
+    "reasoning": "Coffin and Sail share a deep connection. A compass is a device that shows the cardinal directions used for navigation and geographic orientation. Result: compass."
+  },
+  "coffin+silk": {
+    "result": "compass",
+    "reasoning": "Wikipedia says: A compass is a device that shows the cardinal directions used for navigation and geographic orientation. That explains why Coffin + Silk = compass."
+  },
+  "coffin+solder": {
+    "result": "lead",
+    "reasoning": "Lead is a chemical element with the symbol Pb and atomic number 82. That's the connection between Coffin and Solder — giving us Lead."
+  },
+  "coffin+taxidermy": {
+    "result": "requiem",
+    "reasoning": "Wikipedia says: A Requiem or Requiem Mass, also known as Mass for the dead or Mass of the dead, is a Mass of the Catholic Church offered for the repose of the souls of the deceased, using a particular form of the Roman Missal. That explains why Coffin + Taxidermy = Requiem."
+  },
+  "coffin+varnish": {
+    "result": "compass",
+    "reasoning": "Here's a real-world link: A compass is a device that shows the cardinal directions used for navigation and geographic orientation. Combine Coffin with Varnish and you get compass."
+  },
+  "coffin+wire": {
+    "result": "lead",
+    "reasoning": "Here's a real-world link: Lead is a chemical element with the symbol Pb and atomic number 82. Combine Coffin with Wire and you get Lead."
   },
   "coil+conductivity": {
     "result": "periodic-table",
@@ -83,10 +763,6 @@
     "result": "periodic-table",
     "reasoning": "coil + Contact Lens = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+convection": {
-    "result": "periodic-table",
-    "reasoning": "coil + Convection = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+coriolis-effect": {
     "result": "periodic-table",
     "reasoning": "coil + Coriolis Effect = the Periodic Table. 118 elements. Memorize them all. There will be a test."
@@ -95,69 +771,17 @@
     "result": "periodic-table",
     "reasoning": "coil + Coulombs Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+crispr": {
-    "result": "periodic-table",
-    "reasoning": "coil + CRISPR = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+critical-mass": {
     "result": "periodic-table",
     "reasoning": "coil + Critical Mass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+crutch": {
-    "result": "periodic-table",
-    "reasoning": "coil + Crutch = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+crystallization": {
     "result": "periodic-table",
     "reasoning": "coil + Crystallization = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+death": {
-    "result": "periodic-table",
-    "reasoning": "coil + death = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+decay": {
-    "result": "periodic-table",
-    "reasoning": "coil + Decay = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+density": {
-    "result": "periodic-table",
-    "reasoning": "coil + Density = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+destiny": {
-    "result": "periodic-table",
-    "reasoning": "coil + Destiny = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+diffusion": {
-    "result": "periodic-table",
-    "reasoning": "coil + Diffusion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+direction": {
-    "result": "periodic-table",
-    "reasoning": "coil + direction = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+distilling": {
-    "result": "periodic-table",
-    "reasoning": "coil + Distilling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+doppler-effect": {
     "result": "periodic-table",
     "reasoning": "coil + Doppler Effect = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+drug": {
-    "result": "periodic-table",
-    "reasoning": "coil + Drug = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+ecology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Ecology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+economics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Economics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+elasticity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Elasticity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+electrolysis": {
     "result": "periodic-table",
@@ -167,29 +791,9 @@
     "result": "periodic-table",
     "reasoning": "coil + Electromagnetic Spectrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+electron": {
-    "result": "periodic-table",
-    "reasoning": "coil + Electron = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+element": {
-    "result": "periodic-table",
-    "reasoning": "coil + element = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+engineering": {
-    "result": "periodic-table",
-    "reasoning": "coil + engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+entropy": {
-    "result": "periodic-table",
-    "reasoning": "coil + Entropy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+equilibrium": {
-    "result": "periodic-table",
-    "reasoning": "coil + Equilibrium = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+evaporation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Evaporation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
+    "result": "bit",
+    "reasoning": "Wikipedia says: The bit is the most basic unit of information in computing and digital communication. That explains why coil + Entropy = Bit."
   },
   "coil+failed-experiment": {
     "result": "periodic-table",
@@ -199,14 +803,6 @@
     "result": "periodic-table",
     "reasoning": "coil + Fermentation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+fertilizer": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fertilizer = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+fission": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fission = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+fluorescence": {
     "result": "periodic-table",
     "reasoning": "coil + Fluorescence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
@@ -215,668 +811,72 @@
     "result": "periodic-table",
     "reasoning": "coil + Food Science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+fossil-fuel": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fossil Fuel = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+fragility": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fragility = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+frequency": {
-    "result": "periodic-table",
-    "reasoning": "coil + Frequency = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+fulcrum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fulcrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+fusion": {
-    "result": "periodic-table",
-    "reasoning": "coil + Fusion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+future": {
-    "result": "periodic-table",
-    "reasoning": "coil + Future = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+genetic-engineering": {
     "result": "periodic-table",
     "reasoning": "coil + Genetic Engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+geology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Geology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+geometry": {
-    "result": "periodic-table",
-    "reasoning": "coil + Geometry = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+geothermal": {
-    "result": "periodic-table",
-    "reasoning": "coil + Geothermal = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+glasses": {
-    "result": "periodic-table",
-    "reasoning": "coil + Glasses = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+global-warming": {
     "result": "periodic-table",
     "reasoning": "coil + Global Warming = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+grave": {
-    "result": "periodic-table",
-    "reasoning": "coil + Grave = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+green-energy": {
     "result": "periodic-table",
     "reasoning": "coil + Green Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+half-life": {
-    "result": "periodic-table",
-    "reasoning": "coil + Half-Life = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+harmonic": {
-    "result": "periodic-table",
-    "reasoning": "coil + Harmonic = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+hearing-aid": {
-    "result": "periodic-table",
-    "reasoning": "coil + Hearing Aid = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+helium": {
-    "result": "periodic-table",
-    "reasoning": "coil + Helium = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+history": {
-    "result": "periodic-table",
-    "reasoning": "coil + history = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+hourglass": {
-    "result": "periodic-table",
-    "reasoning": "coil + Hourglass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+hydraulics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Hydraulics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+hydrogen": {
-    "result": "periodic-table",
-    "reasoning": "coil + Hydrogen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+hydropower": {
-    "result": "periodic-table",
-    "reasoning": "coil + Hydropower = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+ideal-gas-law": {
     "result": "periodic-table",
     "reasoning": "coil + Ideal Gas Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+impulse": {
-    "result": "periodic-table",
-    "reasoning": "coil + Impulse = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+inertia": {
-    "result": "periodic-table",
-    "reasoning": "coil + Inertia = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+infinity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Infinity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+insulation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Insulation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+interference": {
     "result": "periodic-table",
     "reasoning": "coil + Interference = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+ion": {
-    "result": "periodic-table",
-    "reasoning": "coil + Ion = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+isotope": {
-    "result": "periodic-table",
-    "reasoning": "coil + Isotope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+joule": {
-    "result": "periodic-table",
-    "reasoning": "coil + Joule = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+kinetics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Kinetics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+lab-equipment": {
     "result": "periodic-table",
     "reasoning": "coil + Lab Equipment = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+lab-rat": {
-    "result": "periodic-table",
-    "reasoning": "coil + Lab Rat = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+laser": {
-    "result": "periodic-table",
-    "reasoning": "coil + Laser = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+lattice": {
-    "result": "periodic-table",
-    "reasoning": "coil + Lattice = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+line": {
-    "result": "periodic-table",
-    "reasoning": "coil + line = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+luminescence": {
     "result": "periodic-table",
     "reasoning": "coil + Luminescence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+mach-number": {
-    "result": "periodic-table",
-    "reasoning": "coil + Mach Number = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+magnetism": {
-    "result": "periodic-table",
-    "reasoning": "coil + Magnetism = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+mass": {
-    "result": "periodic-table",
-    "reasoning": "coil + mass = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+mathematics": {
-    "result": "periodic-table",
-    "reasoning": "coil + mathematics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+matter": {
-    "result": "periodic-table",
-    "reasoning": "coil + matter = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+measurement": {
-    "result": "periodic-table",
-    "reasoning": "coil + Measurement = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+medicine": {
-    "result": "periodic-table",
-    "reasoning": "coil + Medicine = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+meditation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Meditation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+meteorology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Meteorology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+microscope": {
-    "result": "periodic-table",
-    "reasoning": "coil + Microscope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+molecule": {
-    "result": "periodic-table",
-    "reasoning": "coil + Molecule = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+momentum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Momentum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+mri": {
-    "result": "periodic-table",
-    "reasoning": "coil + MRI = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+neon": {
-    "result": "periodic-table",
-    "reasoning": "coil + Neon = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+neutron": {
-    "result": "periodic-table",
-    "reasoning": "coil + Neutron = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+newtons-cradle": {
     "result": "periodic-table",
     "reasoning": "coil + Newtons Cradle = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+nitrogen": {
-    "result": "periodic-table",
-    "reasoning": "coil + Nitrogen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+nuclear": {
-    "result": "periodic-table",
-    "reasoning": "coil + Nuclear = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+nutrition": {
-    "result": "periodic-table",
-    "reasoning": "coil + Nutrition = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+ohms-law": {
-    "result": "periodic-table",
-    "reasoning": "coil + Ohms Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+optics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Optics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+oscillation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Oscillation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+osmosis": {
-    "result": "periodic-table",
-    "reasoning": "coil + Osmosis = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+oxidation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Oxidation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+oxygen": {
-    "result": "periodic-table",
-    "reasoning": "coil + Oxygen = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+pacemaker": {
-    "result": "periodic-table",
-    "reasoning": "coil + Pacemaker = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+pascals-law": {
-    "result": "periodic-table",
-    "reasoning": "coil + Pascals Law = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+past": {
-    "result": "periodic-table",
-    "reasoning": "coil + Past = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+peer-pressure": {
     "result": "periodic-table",
     "reasoning": "coil + Peer Pressure = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+pendulum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Pendulum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+phase-transition": {
     "result": "periodic-table",
     "reasoning": "coil + Phase Transition = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+physics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Physics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+piezoelectricity": {
     "result": "periodic-table",
     "reasoning": "coil + Piezoelectricity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+pill": {
-    "result": "periodic-table",
-    "reasoning": "coil + Pill = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+plasma": {
-    "result": "periodic-table",
-    "reasoning": "coil + Plasma = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+plasma-state": {
     "result": "periodic-table",
     "reasoning": "coil + Plasma State = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+point": {
-    "result": "periodic-table",
-    "reasoning": "coil + point = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+polarization": {
     "result": "periodic-table",
     "reasoning": "coil + Polarization = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+pollution": {
-    "result": "periodic-table",
-    "reasoning": "coil + Pollution = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+polymer": {
-    "result": "periodic-table",
-    "reasoning": "coil + Polymer = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+prophecy": {
-    "result": "periodic-table",
-    "reasoning": "coil + Prophecy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+prosthetic": {
-    "result": "periodic-table",
-    "reasoning": "coil + Prosthetic = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+proton": {
-    "result": "periodic-table",
-    "reasoning": "coil + Proton = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+psychology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Psychology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+quantum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Quantum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+radiation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Radiation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+radioactivity": {
     "result": "periodic-table",
     "reasoning": "coil + Radioactivity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+rebirth": {
-    "result": "periodic-table",
-    "reasoning": "coil + Rebirth = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+recycling": {
-    "result": "periodic-table",
-    "reasoning": "coil + Recycling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+refraction": {
-    "result": "periodic-table",
-    "reasoning": "coil + Refraction = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+relativity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Relativity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+renewable-energy": {
     "result": "periodic-table",
     "reasoning": "coil + Renewable Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+resonance": {
-    "result": "periodic-table",
-    "reasoning": "coil + Resonance = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
   "coil+rocket-science": {
     "result": "periodic-table",
     "reasoning": "coil + Rocket Science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   },
-  "coil+science": {
-    "result": "periodic-table",
-    "reasoning": "coil + science = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+shape": {
-    "result": "periodic-table",
-    "reasoning": "coil + shape = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+sharpness": {
-    "result": "periodic-table",
-    "reasoning": "coil + Sharpness = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+skeleton": {
-    "result": "periodic-table",
-    "reasoning": "coil + Skeleton = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+smog": {
-    "result": "periodic-table",
-    "reasoning": "coil + Smog = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+sociology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Sociology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+solvent": {
-    "result": "periodic-table",
-    "reasoning": "coil + Solvent = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+spectrum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Spectrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+speed": {
-    "result": "periodic-table",
-    "reasoning": "coil + Speed = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+static": {
-    "result": "periodic-table",
-    "reasoning": "coil + Static = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+statistics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Statistics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+stethoscope": {
-    "result": "periodic-table",
-    "reasoning": "coil + Stethoscope = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+sublimation": {
-    "result": "periodic-table",
-    "reasoning": "coil + Sublimation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
   "coil+superconductor": {
     "result": "periodic-table",
     "reasoning": "coil + Superconductor = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+supercooling": {
-    "result": "periodic-table",
-    "reasoning": "coil + Supercooling = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+surface-tension": {
-    "result": "periodic-table",
-    "reasoning": "coil + Surface Tension = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+surgery": {
-    "result": "periodic-table",
-    "reasoning": "coil + Surgery = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+sustainability": {
-    "result": "periodic-table",
-    "reasoning": "coil + Sustainability = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+syringe": {
-    "result": "periodic-table",
-    "reasoning": "coil + Syringe = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+therapy": {
-    "result": "periodic-table",
-    "reasoning": "coil + Therapy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+thermocline": {
-    "result": "periodic-table",
-    "reasoning": "coil + Thermocline = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+thermodynamics": {
-    "result": "periodic-table",
-    "reasoning": "coil + Thermodynamics = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+time": {
-    "result": "periodic-table",
-    "reasoning": "coil + time = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+torque": {
-    "result": "periodic-table",
-    "reasoning": "coil + Torque = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+toxicity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Toxicity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+transparency": {
-    "result": "periodic-table",
-    "reasoning": "coil + Transparency = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+turbulence": {
-    "result": "periodic-table",
-    "reasoning": "coil + Turbulence = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+vaccine": {
-    "result": "periodic-table",
-    "reasoning": "coil + Vaccine = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+vacuum": {
-    "result": "periodic-table",
-    "reasoning": "coil + Vacuum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+velocity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Velocity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+vibration": {
-    "result": "periodic-table",
-    "reasoning": "coil + Vibration = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+viscosity": {
-    "result": "periodic-table",
-    "reasoning": "coil + Viscosity = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+vitamin": {
-    "result": "periodic-table",
-    "reasoning": "coil + Vitamin = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+void": {
-    "result": "periodic-table",
-    "reasoning": "coil + void = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+waste": {
-    "result": "periodic-table",
-    "reasoning": "coil + waste = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+watch": {
-    "result": "periodic-table",
-    "reasoning": "coil + Watch = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+wave": {
-    "result": "periodic-table",
-    "reasoning": "coil + Wave = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+wave-particle-duality": {
-    "result": "periodic-table",
-    "reasoning": "coil + Wave-Particle Duality = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+wavelength": {
-    "result": "periodic-table",
-    "reasoning": "coil + Wavelength = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+wheelchair": {
-    "result": "periodic-table",
-    "reasoning": "coil + Wheelchair = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+x-ray": {
-    "result": "periodic-table",
-    "reasoning": "coil + X Ray = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+yoga": {
-    "result": "periodic-table",
-    "reasoning": "coil + Yoga = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+zero": {
-    "result": "periodic-table",
-    "reasoning": "coil + Zero = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "coil+zoology": {
-    "result": "periodic-table",
-    "reasoning": "coil + Zoology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "combustion+copper": {
-    "result": "ingot",
-    "reasoning": "Smelting Copper with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+crystal": {
-    "result": "lens",
-    "reasoning": "Shaping heated Crystal creates a Lens — focusing light since ancient Rome."
-  },
-  "combustion+galvanized-steel": {
-    "result": "ingot",
-    "reasoning": "Smelting Galvanized Steel with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+glass": {
-    "result": "lens",
-    "reasoning": "Shaping heated Glass creates a Lens — focusing light since ancient Rome."
-  },
-  "combustion+gold": {
-    "result": "ingot",
-    "reasoning": "Smelting Gold with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+ingot": {
-    "result": "alloy",
-    "reasoning": "Intense Combustion fuses Ingot into an Alloy."
-  },
-  "combustion+iron": {
-    "result": "ingot",
-    "reasoning": "Smelting Iron with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+limestone": {
-    "result": "lava",
-    "reasoning": "Combustion melts Limestone into flowing Lava."
-  },
-  "combustion+marble": {
-    "result": "lava",
-    "reasoning": "Combustion melts Marble into flowing Lava."
-  },
-  "combustion+mineral": {
-    "result": "lava",
-    "reasoning": "Combustion melts Mineral into flowing Lava."
-  },
-  "combustion+mirror": {
-    "result": "lens",
-    "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
-  },
-  "combustion+plank": {
-    "result": "charcoal",
-    "reasoning": "Burning plank slowly without air produces Charcoal — one of the first chemical processes."
-  },
-  "combustion+platinum": {
-    "result": "ingot",
-    "reasoning": "Smelting Platinum with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+prism": {
-    "result": "lens",
-    "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
-  },
-  "combustion+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "combustion+soil": {
-    "result": "lava",
-    "reasoning": "Combustion melts Soil into flowing Lava."
-  },
-  "combustion+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Combustion creates an Ingot — the foundation of metallurgy."
-  },
-  "contact-lens+glass": {
-    "result": "magnifying-glass",
-    "reasoning": "Combine Glass with Contact Lens to create Magnifying Glass."
-  },
-  "contact-lens+lens": {
-    "result": "optics",
-    "reasoning": "Combine Contact Lens with Lens to create Optics."
-  },
-  "contact-lens+mirror": {
-    "result": "optics",
-    "reasoning": "Combine Contact Lens with Mirror to create Optics."
-  },
-  "cork+destiny": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Destiny = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+evaporation": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Evaporation = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+fulcrum": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Fulcrum = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+genetic-engineering": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Genetic Engineering = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+geology": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Geology = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+geometry": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Geometry = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+geothermal": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Geothermal = the Periodic Table. 118 elements. Memorize them all. There will be a test."
-  },
-  "cork+green-energy": {
-    "result": "periodic-table",
-    "reasoning": "Cork + Green Energy = the Periodic Table. 118 elements. Memorize them all. There will be a test."
   }
 }

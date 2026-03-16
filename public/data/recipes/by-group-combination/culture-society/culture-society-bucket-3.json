@@ -1,151 +1,395 @@
 {
-  "glove+siege": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Siege = a Public Holiday. Finally, a day off."
+  "engineer+toyota": {
+    "result": "astronaut",
+    "reasoning": "Here's a real-world link: An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Combine Engineer with Toyota and you get Astronaut."
   },
-  "glove+silk-road": {
+  "entertainment+italy": {
+    "result": "acrobatics",
+    "reasoning": "Acrobatics is the performance of human feats of balance, agility, and motor coordination. So when entertainment meets Italy, Acrobatics is the natural outcome."
+  },
+  "entertainment+war": {
+    "result": "archery",
+    "reasoning": "Wikipedia says: Archery is the sport, practice, or skill of using a bow to shoot arrows. That explains why entertainment + War = Archery."
+  },
+  "etching+forge": {
+    "result": "foundry",
+    "reasoning": "A foundry is a factory that produces metal castings. That's the connection between Etching and Forge — giving us Foundry."
+  },
+  "etching+foundry": {
+    "result": "forge",
+    "reasoning": "Here's a real-world link: A forge is a type of hearth used for heating metals, or the workplace (smithy) where such a hearth is located. Combine Etching with Foundry and you get Forge."
+  },
+  "factory+foundry": {
+    "result": "harbor",
+    "reasoning": "A harbor, or harbour, is a sheltered body of water where ships, boats, and barges can be moored. So when Factory meets Foundry, Harbor is the natural outcome."
+  },
+  "factory+guild": {
+    "result": "corporation",
+    "reasoning": "Wikipedia says: A corporation or body corporate is an individual or group, such as an association or company, that has been authorized by the state to act as a single entity and recognized as such in law for certain purposes. That explains why Factory + Guild = Corporation."
+  },
+  "factory+harbor": {
+    "result": "foundry",
+    "reasoning": "Factory and Harbor share a deep connection. A foundry is a factory that produces metal castings. Result: Foundry."
+  },
+  "factory+obelisk": {
+    "result": "egypt",
+    "reasoning": "Here's a real-world link: Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Combine Factory with Obelisk and you get Egypt."
+  },
+  "factory+windmill": {
+    "result": "foundry",
+    "reasoning": "Wikipedia says: A foundry is a factory that produces metal castings. That explains why Factory + Windmill = Foundry."
+  },
+  "farmer+flute": {
+    "result": "musician",
+    "reasoning": "The oldest known instrument is a 43,000-year-old bone flute"
+  },
+  "farmer+guitar": {
+    "result": "musician",
+    "reasoning": "The guitar — the world's most popular instrument, from blues to rock"
+  },
+  "farmer+harmonica": {
+    "result": "musician",
+    "reasoning": "The harmonica — small enough for a pocket, soulful enough for the blues"
+  },
+  "farmer+harp": {
+    "result": "musician",
+    "reasoning": "Harps have been played for 5,000 years — the instrument of angels"
+  },
+  "farmer+mandolin": {
+    "result": "musician",
+    "reasoning": "Mandolins give folk and bluegrass their signature twang"
+  },
+  "farmer+oboe": {
+    "result": "musician",
+    "reasoning": "The oboe tunes the entire orchestra — its A is the standard"
+  },
+  "farmer+photography": {
+    "result": "artist",
+    "reasoning": "Photography — painting with light since 1826"
+  },
+  "farmer+piano": {
+    "result": "musician",
+    "reasoning": "The piano has 88 keys and can play any genre ever created"
+  },
+  "farmer+pottery": {
+    "result": "potter",
+    "reasoning": "Potters have shaped clay since 29,000 BCE — the oldest craft"
+  },
+  "farmer+saxophone": {
+    "result": "musician",
+    "reasoning": "Adolphe Sax invented the saxophone in 1846 for military bands"
+  },
+  "farmer+sculpting": {
+    "result": "artist",
+    "reasoning": "Sculptors turn stone and clay into immortal forms"
+  },
+  "farmer+temple": {
+    "result": "monk",
+    "reasoning": "Buddhist monks maintain temples and practice meditation"
+  },
+  "farmer+trumpet": {
+    "result": "musician",
+    "reasoning": "Trumpets announce kings and lead jazz bands"
+  },
+  "farmer+tuba": {
+    "result": "musician",
+    "reasoning": "The tuba — the foundation of every brass section"
+  },
+  "farmer+ukulele": {
+    "result": "musician",
+    "reasoning": "The ukulele — Hawaii's gift to the world of music"
+  },
+  "farmer+violin": {
+    "result": "musician",
+    "reasoning": "Stradivarius violins from the 1700s are worth millions today"
+  },
+  "farmer+xylophone": {
+    "result": "musician",
+    "reasoning": "Xylophones produce crystal-clear tones from wooden bars"
+  },
+  "fencing+war": {
+    "result": "archery",
+    "reasoning": "The science is clear — Archery is the sport, practice, or skill of using a bow to shoot arrows. Mix Fencing and War for Archery."
+  },
+  "festival+fun": {
+    "result": "entertainment",
+    "reasoning": "Here's a real-world link: Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. Combine Festival with fun and you get entertainment."
+  },
+  "festival+game": {
+    "result": "entertainment",
+    "reasoning": "Here's a real-world link: Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. Combine Festival with Game and you get entertainment."
+  },
+  "festival+toy": {
+    "result": "entertainment",
+    "reasoning": "Wikipedia says: Entertainment is a form of activity that holds the attention and interest of an audience or gives pleasure and delight. That explains why Festival + Toy = entertainment."
+  },
+  "feudalism+furniture": {
+    "result": "baroque",
+    "reasoning": "Here's a real-world link: The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Combine Feudalism with Furniture and you get Baroque."
+  },
+  "feudalism+harp": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. So when Feudalism meets Harp, Baroque is the natural outcome."
+  },
+  "feudalism+music": {
+    "result": "baroque",
+    "reasoning": "The science is clear — The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Mix Feudalism and Music for Baroque."
+  },
+  "feudalism+necklace": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. That's the connection between Feudalism and Necklace — giving us Baroque."
+  },
+  "feudalism+opera": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. So when Feudalism meets Opera, Baroque is the natural outcome."
+  },
+  "feudalism+tapestry": {
+    "result": "baroque",
+    "reasoning": "The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. So when Feudalism meets Tapestry, Baroque is the natural outcome."
+  },
+  "feudalism+violin": {
+    "result": "baroque",
+    "reasoning": "The science is clear — The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Mix Feudalism and Violin for Baroque."
+  },
+  "film+olympic-games": {
+    "result": "animation",
+    "reasoning": "Wikipedia says: Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. That explains why Film + Olympic Games = Animation."
+  },
+  "fireplace+forge": {
+    "result": "bellows",
+    "reasoning": "Here's a real-world link: Bellows are a device constructed to expel a controlled blast of air. Combine Fireplace with Forge and you get Bellows."
+  },
+  "fireplace+workshop": {
+    "result": "bedroom",
+    "reasoning": "Fireplace and Workshop share a deep connection. A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Result: Bedroom."
+  },
+  "floor+workshop": {
+    "result": "building",
+    "reasoning": "Wikipedia says: A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. That explains why Floor + Workshop = building."
+  },
+  "forge+punk-rock": {
+    "result": "lava",
+    "reasoning": "Forge melts Punk Rock into flowing Lava."
+  },
+  "forge+rock-music": {
+    "result": "lava",
+    "reasoning": "Forge melts Rock Music into flowing Lava."
+  },
+  "forge+stained-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "forge+toilet": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Forge with Toilet and you get Ceramic."
+  },
+  "foundry+port": {
+    "result": "factory",
+    "reasoning": "Foundry and Port share a deep connection. A factory, manufacturing plant or production plant is an industrial facility, often a complex consisting of several buildings filled with machinery, where workers manufacture items or operate machines which process each item into another. Result: Factory."
+  },
+  "fountain+moat": {
+    "result": "flood",
+    "reasoning": "The science is clear — A flood is an overflow of water that submerges land that is usually dry. Mix Fountain and Moat for Flood."
+  },
+  "fountain+obelisk": {
+    "result": "gargoyle",
+    "reasoning": "Architects often used multiple gargoyles on a building to divide the flow of rainwater off the roof to minimize potential damage from rainstorms. So when Fountain meets Obelisk, Gargoyle is the natural outcome."
+  },
+  "freedom+music": {
+    "result": "jazz",
+    "reasoning": "freedom and Music create Jazz"
+  },
+  "freedom+samsung": {
+    "result": "bureaucracy",
+    "reasoning": "Here's a real-world link: Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Combine freedom with Samsung and you get Bureaucracy."
+  },
+  "fresco+great-wall": {
+    "result": "graffiti",
+    "reasoning": "Did you know? Graffiti is writing or drawings made on a wall or other surface, usually without permission and within public view. That's why Fresco + Great Wall = Graffiti."
+  },
+  "furniture+granary": {
+    "result": "bed",
+    "reasoning": "A bed is a piece of furniture that is used as a place to sleep, rest, and relax. So when Furniture meets Granary, Bed is the natural outcome."
+  },
+  "furniture+homework": {
+    "result": "courtyard",
+    "reasoning": "The science is clear — A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. Mix Furniture and Homework for Courtyard."
+  },
+  "furniture+reservoir": {
+    "result": "bed",
+    "reasoning": "A bed is a piece of furniture that is used as a place to sleep, rest, and relax. That's the connection between Furniture and Reservoir — giving us Bed."
+  },
+  "furniture+sweden": {
+    "result": "ikea",
+    "reasoning": "Furniture and Sweden create IKEA"
+  },
+  "furniture+workshop": {
+    "result": "bedroom",
+    "reasoning": "Furniture and Workshop share a deep connection. A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. Result: Bedroom."
+  },
+  "game+japan": {
+    "result": "nintendo",
+    "reasoning": "Japan's legendary game company — Nintendo"
+  },
+  "game+law": {
+    "result": "rule",
+    "reasoning": "Game and law create Rule"
+  },
+  "game+programmer": {
+    "result": "algorithm",
+    "reasoning": "Game and Programmer share a deep connection. In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Result: Algorithm."
+  },
+  "gatehouse+tower": {
+    "result": "castle",
+    "reasoning": "The science is clear — A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Mix Gatehouse and Tower for Castle."
+  },
+  "gatehouse+tunnel": {
+    "result": "bunker",
+    "reasoning": "The science is clear — A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Mix Gatehouse and Tunnel for Bunker."
+  },
+  "gatehouse+well": {
+    "result": "bunker",
+    "reasoning": "A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That's the connection between Gatehouse and Well — giving us Bunker."
+  },
+  "gladiator+zoo": {
+    "result": "colosseum",
+    "reasoning": "Here's a real-world link: The Colosseum is an elliptical amphitheatre in the centre of the city of Rome, Italy, just east of the Roman Forum. Combine Gladiator with Zoo and you get Colosseum."
+  },
+  "glove+government": {
     "result": "public-holiday",
-    "reasoning": "Glove + Silk Road = a Public Holiday. Finally, a day off."
+    "reasoning": "Glove + government = a Public Holiday. Finally, a day off."
+  },
+  "glove+grand-canyon": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Grand Canyon = a Public Holiday. Finally, a day off."
+  },
+  "glove+great-barrier-reef": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Great Barrier Reef = a Public Holiday. Finally, a day off."
+  },
+  "glove+great-wall": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Great Wall = a Public Holiday. Finally, a day off."
+  },
+  "glove+industrial-revolution": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Industrial Revolution = a Public Holiday. Finally, a day off."
+  },
+  "glove+infrastructure": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Infrastructure = a Public Holiday. Finally, a day off."
+  },
+  "glove+inquisition": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Inquisition = a Public Holiday. Finally, a day off."
+  },
+  "glove+investment": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Investment = a Public Holiday. Finally, a day off."
+  },
+  "glove+journalist": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Journalist = a Public Holiday. Finally, a day off."
+  },
+  "glove+legionnaire": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Legionnaire = a Public Holiday. Finally, a day off."
+  },
+  "glove+machu-picchu": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Machu Picchu = a Public Holiday. Finally, a day off."
+  },
+  "glove+magna-carta": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Magna Carta = a Public Holiday. Finally, a day off."
+  },
+  "glove+mount-everest": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Mount Everest = a Public Holiday. Finally, a day off."
+  },
+  "glove+niagara-falls": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Niagara Falls = a Public Holiday. Finally, a day off."
+  },
+  "glove+nobel-prize": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Nobel Prize = a Public Holiday. Finally, a day off."
+  },
+  "glove+olympic-games": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Olympic Games = a Public Holiday. Finally, a day off."
+  },
+  "glove+parliament": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Parliament = a Public Holiday. Finally, a day off."
+  },
+  "glove+pest-control": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Pest Control = a Public Holiday. Finally, a day off."
+  },
+  "glove+philosopher": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Philosopher = a Public Holiday. Finally, a day off."
+  },
+  "glove+pirate-captain": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Pirate Captain = a Public Holiday. Finally, a day off."
+  },
+  "glove+plantation": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Plantation = a Public Holiday. Finally, a day off."
+  },
+  "glove+programmer": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Programmer = a Public Holiday. Finally, a day off."
+  },
+  "glove+prohibition": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Prohibition = a Public Holiday. Finally, a day off."
+  },
+  "glove+public-holiday": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Public Holiday = a Public Holiday. Finally, a day off."
+  },
+  "glove+pyramids-of-giza": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Pyramids of Giza = a Public Holiday. Finally, a day off."
+  },
+  "glove+reformation": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Reformation = a Public Holiday. Finally, a day off."
+  },
+  "glove+revolution": {
+    "result": "public-holiday",
+    "reasoning": "Glove + Revolution = a Public Holiday. Finally, a day off."
   },
   "glove+smart-city": {
     "result": "public-holiday",
     "reasoning": "Glove + Smart City = a Public Holiday. Finally, a day off."
   },
-  "glove+smithy": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Smithy = a Public Holiday. Finally, a day off."
-  },
-  "glove+society": {
-    "result": "public-holiday",
-    "reasoning": "Glove + society = a Public Holiday. Finally, a day off."
-  },
   "glove+space-race": {
     "result": "public-holiday",
     "reasoning": "Glove + Space Race = a Public Holiday. Finally, a day off."
-  },
-  "glove+spartan": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Spartan = a Public Holiday. Finally, a day off."
-  },
-  "glove+stable": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Stable = a Public Holiday. Finally, a day off."
-  },
-  "glove+startup": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Startup = a Public Holiday. Finally, a day off."
   },
   "glove+statue-of-liberty": {
     "result": "public-holiday",
     "reasoning": "Glove + Statue of Liberty = a Public Holiday. Finally, a day off."
   },
-  "glove+stock": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Stock = a Public Holiday. Finally, a day off."
-  },
-  "glove+stockade": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Stockade = a Public Holiday. Finally, a day off."
-  },
   "glove+stonehenge": {
     "result": "public-holiday",
     "reasoning": "Glove + Stonehenge = a Public Holiday. Finally, a day off."
-  },
-  "glove+student": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Student = a Public Holiday. Finally, a day off."
-  },
-  "glove+sweden": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Sweden = a Public Holiday. Finally, a day off."
   },
   "glove+switzerland": {
     "result": "public-holiday",
     "reasoning": "Glove + Switzerland = a Public Holiday. Finally, a day off."
   },
-  "glove+taj-mahal": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Taj Mahal = a Public Holiday. Finally, a day off."
-  },
-  "glove+tannery": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Tannery = a Public Holiday. Finally, a day off."
-  },
-  "glove+tavern": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Tavern = a Public Holiday. Finally, a day off."
-  },
-  "glove+tax": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Tax = a Public Holiday. Finally, a day off."
-  },
-  "glove+teacher": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Teacher = a Public Holiday. Finally, a day off."
-  },
-  "glove+templar": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Templar = a Public Holiday. Finally, a day off."
-  },
   "glove+toll-booth": {
     "result": "public-holiday",
     "reasoning": "Glove + Toll Booth = a Public Holiday. Finally, a day off."
   },
-  "glove+town": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Town = a Public Holiday. Finally, a day off."
-  },
-  "glove+trade": {
-    "result": "public-holiday",
-    "reasoning": "Glove + trade = a Public Holiday. Finally, a day off."
-  },
-  "glove+tradition": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Tradition = a Public Holiday. Finally, a day off."
-  },
-  "glove+treasury": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Treasury = a Public Holiday. Finally, a day off."
-  },
-  "glove+treaty": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Treaty = a Public Holiday. Finally, a day off."
-  },
-  "glove+tribune": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Tribune = a Public Holiday. Finally, a day off."
-  },
   "glove+trojan-horse": {
     "result": "public-holiday",
     "reasoning": "Glove + Trojan Horse = a Public Holiday. Finally, a day off."
-  },
-  "glove+turret": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Turret = a Public Holiday. Finally, a day off."
-  },
-  "glove+uk": {
-    "result": "public-holiday",
-    "reasoning": "Glove + UK = a Public Holiday. Finally, a day off."
-  },
-  "glove+usa": {
-    "result": "public-holiday",
-    "reasoning": "Glove + USA = a Public Holiday. Finally, a day off."
-  },
-  "glove+viking": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Viking = a Public Holiday. Finally, a day off."
-  },
-  "glove+village": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Village = a Public Holiday. Finally, a day off."
-  },
-  "glove+vineyard": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Vineyard = a Public Holiday. Finally, a day off."
-  },
-  "glove+vote": {
-    "result": "public-holiday",
-    "reasoning": "Glove + vote = a Public Holiday. Finally, a day off."
   },
   "glove+war": {
     "result": "boxing",
@@ -155,29 +399,89 @@
     "result": "public-holiday",
     "reasoning": "Glove + Watchtower = a Public Holiday. Finally, a day off."
   },
-  "glove+wealth": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Wealth = a Public Holiday. Finally, a day off."
+  "gothic+media": {
+    "result": "discovery",
+    "reasoning": "Both Gothic and media are rooted in Ship Disambiguation Pages. Together they make Discovery."
   },
-  "glove+windmill": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Windmill = a Public Holiday. Finally, a day off."
+  "government+park": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. That's the connection between government and Park — giving us building."
   },
-  "glove+workshop": {
-    "result": "public-holiday",
-    "reasoning": "Glove + Workshop = a Public Holiday. Finally, a day off."
+  "government+samsung": {
+    "result": "bureaucracy",
+    "reasoning": "government and Samsung share a deep connection. Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Result: Bureaucracy."
   },
-  "glove+world-cup": {
-    "result": "public-holiday",
-    "reasoning": "Glove + World Cup = a Public Holiday. Finally, a day off."
+  "granary+kitchen": {
+    "result": "attic",
+    "reasoning": "Wikipedia says: An attic is a space found directly below the pitched roof of a house or other building. That explains why Granary + Kitchen = Attic."
+  },
+  "granary+pyramid": {
+    "result": "axe",
+    "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. So when Granary meets Pyramid, Axe is the natural outcome."
+  },
+  "granary+shoe": {
+    "result": "arrow",
+    "reasoning": "Here's a real-world link: An arrow is a fin-stabilized projectile launched by a bow. Combine Granary with Shoe and you get Arrow."
+  },
+  "granary+well": {
+    "result": "cave",
+    "reasoning": "Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. So when Granary meets Well, Cave is the natural outcome."
   },
   "great-wall+wall": {
     "result": "fresco",
-    "reasoning": "Combine Wall with Great Wall to create Fresco."
+    "reasoning": "Great Wall and Wall together? Fresco is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster. The result: Fresco."
   },
   "guild+song": {
     "result": "hymn",
-    "reasoning": "Combine Song with Guild to create Hymn."
+    "reasoning": "Here's the connection: A hymn is a type of song, and partially synonymous with devotional song, specifically written for the purpose of adoration or prayer, and typically addressed to a deity or deities, or to a prominent figure or personification. So Guild + Song = Hymn."
+  },
+  "guitar+musician": {
+    "result": "blues",
+    "reasoning": "Wikipedia says: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. That explains why Guitar + Musician = Blues."
+  },
+  "harbor+port": {
+    "result": "china",
+    "reasoning": "Wikipedia says: China, officially the People's Republic of China (PRC), is a country in East Asia. That explains why Harbor + Port = China."
+  },
+  "harbor+tent": {
+    "result": "boat",
+    "reasoning": "Harbor and Tent share a deep connection. A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. Result: Boat."
+  },
+  "harbor+ukulele": {
+    "result": "france",
+    "reasoning": "Here's a real-world link: France, officially the French Republic, is a country primarily located in Western Europe. Combine Harbor with Ukulele and you get France."
+  },
+  "harbor+well": {
+    "result": "fjord",
+    "reasoning": "The science is clear — In physical geography, a fjord is a long, narrow sea inlet with steep sides or cliffs in a valley created by a former glacier, which has since become inundated with water. Mix Harbor and Well for Fjord."
+  },
+  "harmonica+musician": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That's the connection between Harmonica and Musician — giving us Classical Music."
+  },
+  "harmony+musician": {
+    "result": "blues",
+    "reasoning": "harmony and Musician share a deep connection. Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Result: Blues."
+  },
+  "homework+house": {
+    "result": "courtyard",
+    "reasoning": "Here's a real-world link: A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. Combine Homework with house and you get Courtyard."
+  },
+  "homework+puzzle": {
+    "result": "knowledge",
+    "reasoning": "The science is clear — Knowledge is an awareness of facts, a familiarity with individuals and situations, or a practical skill. Mix Homework and Puzzle for knowledge."
+  },
+  "homework+wall": {
+    "result": "courtyard",
+    "reasoning": "A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. That's the connection between Homework and Wall — giving us Courtyard."
+  },
+  "hospital+infrastructure": {
+    "result": "bridge",
+    "reasoning": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. So when Hospital meets Infrastructure, Bridge is the natural outcome."
+  },
+  "house+infrastructure": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why house + Infrastructure = Airport."
   },
   "house+justice": {
     "result": "court",
@@ -187,37 +491,53 @@
     "result": "prison",
     "reasoning": "house and law create Prison"
   },
+  "house+monastery": {
+    "result": "barn",
+    "reasoning": "The science is clear — A barn is an agricultural building usually on farms and used for various purposes. Mix house and Monastery for Barn."
+  },
   "house+money": {
     "result": "bank",
     "reasoning": "house and money create Bank"
+  },
+  "house+stable": {
+    "result": "barn",
+    "reasoning": "Wikipedia says: A barn is an agricultural building usually on farms and used for various purposes. That explains why house + Stable = Barn."
   },
   "house+trade": {
     "result": "warehouse",
     "reasoning": "house and trade create Warehouse"
   },
-  "inn+mosaic": {
-    "result": "museum",
-    "reasoning": "A Inn preserving Mosaic — a Museum."
+  "house+workshop": {
+    "result": "building",
+    "reasoning": "A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. So when house meets Workshop, building is the natural outcome."
   },
-  "inn+mural": {
-    "result": "museum",
-    "reasoning": "A Inn preserving Mural — a Museum."
+  "infrastructure+park": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when Infrastructure meets Park, Airport is the natural outcome."
   },
-  "inn+origami": {
-    "result": "museum",
-    "reasoning": "A Inn preserving Origami — a Museum."
+  "infrastructure+port": {
+    "result": "bridge",
+    "reasoning": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. So when Infrastructure meets Port, Bridge is the natural outcome."
+  },
+  "infrastructure+skyscraper": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when Infrastructure meets Skyscraper, Airport is the natural outcome."
+  },
+  "infrastructure+stadium": {
+    "result": "bridge",
+    "reasoning": "Wikipedia says: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. That explains why Infrastructure + Stadium = Bridge."
+  },
+  "infrastructure+tent": {
+    "result": "arena",
+    "reasoning": "Here's a real-world link: An arena is a large enclosed venue, often circular or oval-shaped, designed to showcase theatre, musical performances or sporting events. Combine Infrastructure with Tent and you get Arena."
+  },
+  "infrastructure+tunnel": {
+    "result": "bridge",
+    "reasoning": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. That's the connection between Infrastructure and Tunnel — giving us Bridge."
   },
   "inn+pixel-art": {
     "result": "museum",
     "reasoning": "A Inn preserving Pixel Art — a Museum."
-  },
-  "inn+pop-art": {
-    "result": "museum",
-    "reasoning": "A Inn preserving Pop Art — a Museum."
-  },
-  "inn+science-fiction": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
   },
   "inn+sculpture": {
     "result": "museum",
@@ -231,9 +551,37 @@
     "result": "museum",
     "reasoning": "A Inn preserving Watercolor — a Museum."
   },
+  "insurance+skyscraper": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why Insurance + Skyscraper = Airport."
+  },
+  "insurance+tent": {
+    "result": "airport",
+    "reasoning": "Wikipedia says: An airport is an aerodrome with extended facilities, mostly for commercial air transport. That explains why Insurance + Tent = Airport."
+  },
+  "italy+music": {
+    "result": "acrobatics",
+    "reasoning": "Acrobatics is the performance of human feats of balance, agility, and motor coordination. That's the connection between Italy and Music — giving us Acrobatics."
+  },
+  "italy+opera": {
+    "result": "acrobatics",
+    "reasoning": "Here's a real-world link: Acrobatics is the performance of human feats of balance, agility, and motor coordination. Combine Italy with Opera and you get Acrobatics."
+  },
   "italy+stadium": {
     "result": "colosseum",
     "reasoning": "Italy and Stadium together shape Colosseum"
+  },
+  "japan+karate": {
+    "result": "anime",
+    "reasoning": "Japan and Karate share a deep connection. Anime  is animation originating from Japan. Result: Anime."
+  },
+  "japan+manga": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when Japan meets Manga, Anime is the natural outcome."
+  },
+  "japan+sony": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when Japan meets Sony, Anime is the natural outcome."
   },
   "japan+sport": {
     "result": "karate",
@@ -241,11 +589,163 @@
   },
   "japan+theater": {
     "result": "kabuki",
-    "reasoning": "Combine Theater with Japan to create Kabuki."
+    "reasoning": "Kabuki  is a classical form of Japanese theatre, mixing dramatic performance with traditional dance. That's how Japan and theater give us Kabuki."
+  },
+  "journalist+playstation": {
+    "result": "blog",
+    "reasoning": "A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. So when Journalist meets PlayStation, blog is the natural outcome."
+  },
+  "karate+war": {
+    "result": "archery",
+    "reasoning": "Wikipedia says: Archery is the sport, practice, or skill of using a bow to shoot arrows. That explains why Karate + War = Archery."
+  },
+  "keep+tower": {
+    "result": "bell-tower",
+    "reasoning": "A bell tower is a tower that contains or is designed to contain one or more bells. So when Keep meets Tower, Bell Tower is the natural outcome."
+  },
+  "keep+tunnel": {
+    "result": "bunker",
+    "reasoning": "Here's a real-world link: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Combine Keep with Tunnel and you get Bunker."
+  },
+  "keep+well": {
+    "result": "bunker",
+    "reasoning": "Keep and Well share a deep connection. A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Result: Bunker."
+  },
+  "kitchen+workshop": {
+    "result": "bedroom",
+    "reasoning": "A bedroom or bedchamber is a room situated within a residential or accommodation unit, primarily used for sleeping. So when Kitchen meets Workshop, Bedroom is the natural outcome."
+  },
+  "lawyer+samsung": {
+    "result": "bureaucracy",
+    "reasoning": "Lawyer and Samsung share a deep connection. Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Result: Bureaucracy."
+  },
+  "lighthouse+obelisk": {
+    "result": "egypt",
+    "reasoning": "Here's a real-world link: Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Combine Lighthouse with Obelisk and you get Egypt."
+  },
+  "lighthouse+tax": {
+    "result": "lathe",
+    "reasoning": "Both Lighthouse and Tax are rooted in Egyptian Inventions. Together they make Lathe."
+  },
+  "lighthouse+trojan-horse": {
+    "result": "astrolabe",
+    "reasoning": "Wikipedia says: An astrolabe is an astronomical instrument dating to ancient times. That explains why Lighthouse + Trojan Horse = Astrolabe."
+  },
+  "lullaby+musician": {
+    "result": "folk-music",
+    "reasoning": "Here's a real-world link: Folk music is a genre of music. Combine Lullaby with Musician and you get Folk Music."
+  },
+  "lyre+obelisk": {
+    "result": "egypt",
+    "reasoning": "The science is clear — Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Mix Lyre and Obelisk for Egypt."
+  },
+  "mandolin+musician": {
+    "result": "classical-music",
+    "reasoning": "Mandolin and Musician share a deep connection. Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Result: Classical Music."
+  },
+  "marketing+playstation": {
+    "result": "brand",
+    "reasoning": "Here's a real-world link: A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Combine Marketing with PlayStation and you get Brand."
+  },
+  "marketing+sony": {
+    "result": "brand",
+    "reasoning": "Here's a real-world link: A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. Combine Marketing with Sony and you get Brand."
+  },
+  "marketing+toy": {
+    "result": "brand",
+    "reasoning": "A brand is a name, term, design, symbol or any other feature that distinguishes one seller's goods or service from those of other sellers. So when Marketing meets Toy, Brand is the natural outcome."
+  },
+  "media+rule": {
+    "result": "fame",
+    "reasoning": "Fame usually refers to the state of notability or celebrity. So when media meets Rule, fame is the natural outcome."
+  },
+  "melody+musician": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. So when Melody meets Musician, Classical Music is the natural outcome."
+  },
+  "moat+tower": {
+    "result": "building",
+    "reasoning": "The science is clear — A building or edifice is an enclosed structure with a roof, walls and often windows, usually standing permanently in one place, such as a house or factory. Mix Moat and Tower for building."
+  },
+  "moat+tunnel": {
+    "result": "bunker",
+    "reasoning": "Here's a real-world link: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Combine Moat with Tunnel and you get Bunker."
+  },
+  "moat+well": {
+    "result": "bunker",
+    "reasoning": "A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That's the connection between Moat and Well — giving us Bunker."
+  },
+  "monastery+prison": {
+    "result": "barracks",
+    "reasoning": "Wikipedia says: Barracks are buildings used to accommodate military personnel and quasi-military personnel such as police. That explains why Monastery + Prison = Barracks."
+  },
+  "monastery+temple": {
+    "result": "chapel",
+    "reasoning": "Wikipedia says: A chapel is a Christian place of prayer and worship that is usually relatively small. That explains why Monastery + Temple = Chapel."
+  },
+  "monument+scientist": {
+    "result": "archaeologist",
+    "reasoning": "Archaeology or archeology is the study of human activity through the recovery and analysis of material culture. So when Monument meets Scientist, Archaeologist is the natural outcome."
+  },
+  "music+musician": {
+    "result": "album",
+    "reasoning": "Music and Musician share a deep connection. An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Result: Album."
+  },
+  "music+student": {
+    "result": "album",
+    "reasoning": "The science is clear — An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Mix Music and Student for Album."
   },
   "music+tradition": {
     "result": "festival",
     "reasoning": "Music and Tradition together shape Festival"
+  },
+  "musician+oboe": {
+    "result": "classical-music",
+    "reasoning": "Musician and Oboe share a deep connection. Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Result: Classical Music."
+  },
+  "musician+orchestra": {
+    "result": "classical-music",
+    "reasoning": "The science is clear — Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Mix Musician and Orchestra for Classical Music."
+  },
+  "musician+piano": {
+    "result": "classical-music",
+    "reasoning": "Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That's the connection between Musician and Piano — giving us Classical Music."
+  },
+  "musician+polka": {
+    "result": "blues",
+    "reasoning": "Musician and Polka share a deep connection. Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Result: Blues."
+  },
+  "musician+rhyme": {
+    "result": "folk-music",
+    "reasoning": "Musician and Rhyme share a deep connection. Folk music is a genre of music. Result: Folk Music."
+  },
+  "musician+samba": {
+    "result": "blues",
+    "reasoning": "Musician and Samba share a deep connection. Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Result: Blues."
+  },
+  "musician+saxophone": {
+    "result": "blues",
+    "reasoning": "The science is clear — Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Mix Musician and Saxophone for Blues."
+  },
+  "musician+song": {
+    "result": "classical-music",
+    "reasoning": "Musician and Song share a deep connection. Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Result: Classical Music."
+  },
+  "musician+tambourine": {
+    "result": "blues",
+    "reasoning": "Here's a real-world link: Blues is a music genre and musical form that originated among African Americans in the Deep South of the United States around the 1860s. Combine Musician with Tambourine and you get Blues."
+  },
+  "musician+ukulele": {
+    "result": "jazz",
+    "reasoning": "Jazz is a music genre that originated in the African-American communities of New Orleans, Louisiana, in the late 19th and early 20th centuries. So when Musician meets Ukulele, Jazz is the natural outcome."
+  },
+  "musician+vaudeville": {
+    "result": "classical-music",
+    "reasoning": "Wikipedia says: Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. That explains why Musician + Vaudeville = Classical Music."
+  },
+  "musician+violin": {
+    "result": "classical-music",
+    "reasoning": "Here's a real-world link: Classical music generally refers to the art music of the Western world, considered to be distinct from Western folk music or popular music traditions. Combine Musician with Violin and you get Classical Music."
   },
   "nation+soccer": {
     "result": "world-cup",
@@ -254,6 +754,58 @@
   "nation+sport": {
     "result": "olympic-games",
     "reasoning": "Nations competing in sports — the Olympic Games"
+  },
+  "nation+strategy": {
+    "result": "army",
+    "reasoning": "Nation and strategy share a deep connection. An army, ground force or land force is an armed force that fights primarily on land. Result: Army."
+  },
+  "nation+tent": {
+    "result": "army",
+    "reasoning": "Wikipedia says: An army, ground force or land force is an armed force that fights primarily on land. That explains why Nation + Tent = Army."
+  },
+  "obelisk+pyramid": {
+    "result": "temple",
+    "reasoning": "The science is clear — A temple is a place of worship, a building used for spiritual rituals and activities such as prayer and sacrifice. Mix Obelisk and Pyramid for Temple."
+  },
+  "obelisk+stadium": {
+    "result": "concrete",
+    "reasoning": "Obelisk and Stadium share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "obelisk+temple": {
+    "result": "pyramid",
+    "reasoning": "A pyramid is a structure whose visible surfaces are triangular in broad outline and converge toward the top, making the appearance roughly a pyramid in the geometric sense. That's the connection between Obelisk and Temple — giving us Pyramid."
+  },
+  "olympic-games+photography": {
+    "result": "animation",
+    "reasoning": "Wikipedia says: Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. That explains why Olympic Games + Photography = Animation."
+  },
+  "olympic-games+umbrella": {
+    "result": "animation",
+    "reasoning": "The science is clear — Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. Mix Olympic Games and Umbrella for Animation."
+  },
+  "orphanage+prison": {
+    "result": "barracks",
+    "reasoning": "The science is clear — Barracks are buildings used to accommodate military personnel and quasi-military personnel such as police. Mix Orphanage and Prison for Barracks."
+  },
+  "oscar+rule": {
+    "result": "furnace",
+    "reasoning": "Oscar and Rule both belong to the world of Place Name Disambiguation Pages — combine them for Furnace."
+  },
+  "outpost+rule": {
+    "result": "grinder",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Outpost meets Rule to create Grinder."
+  },
+  "pagoda+skyscraper": {
+    "result": "silo",
+    "reasoning": "Here's a real-world link: A silo is a structure for storing bulk materials. Combine Pagoda with Skyscraper and you get Silo."
+  },
+  "pagoda+temple": {
+    "result": "silo",
+    "reasoning": "Pagoda and Temple share a deep connection. A silo is a structure for storing bulk materials. Result: Silo."
+  },
+  "pagoda+tower": {
+    "result": "watchtower",
+    "reasoning": "Here's a real-world link: A watchtower or guardtower is a type of military/paramilitary or policiary tower used for guarding an area. Combine Pagoda with Tower and you get Watchtower."
   },
   "palace+pixel-art": {
     "result": "museum",
@@ -279,13 +831,9 @@
     "result": "museum",
     "reasoning": "A Palace preserving Watercolor — a Museum."
   },
-  "piano+pier": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Pier = a Public Holiday. Finally, a day off."
-  },
-  "piano+pilot": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Pilot = a Public Holiday. Finally, a day off."
+  "parliament+samsung": {
+    "result": "bureaucracy",
+    "reasoning": "Parliament and Samsung share a deep connection. Bureaucracy is a system of organization where laws or regulatory authority are implemented by civil servants. Result: Bureaucracy."
   },
   "piano+pirate-captain": {
     "result": "public-holiday",
@@ -294,22 +842,6 @@
   "piano+plantation": {
     "result": "public-holiday",
     "reasoning": "Piano + Plantation = a Public Holiday. Finally, a day off."
-  },
-  "piano+police": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Police = a Public Holiday. Finally, a day off."
-  },
-  "piano+poverty": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Poverty = a Public Holiday. Finally, a day off."
-  },
-  "piano+professor": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Professor = a Public Holiday. Finally, a day off."
-  },
-  "piano+profit": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Profit = a Public Holiday. Finally, a day off."
   },
   "piano+programmer": {
     "result": "public-holiday",
@@ -327,556 +859,24 @@
     "result": "public-holiday",
     "reasoning": "Piano + Pyramids of Giza = a Public Holiday. Finally, a day off."
   },
-  "piano+quarry": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Quarry = a Public Holiday. Finally, a day off."
-  },
-  "piano+red-tape": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Red Tape = a Public Holiday. Finally, a day off."
-  },
   "piano+reformation": {
     "result": "public-holiday",
     "reasoning": "Piano + Reformation = a Public Holiday. Finally, a day off."
-  },
-  "piano+republic": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Republic = a Public Holiday. Finally, a day off."
-  },
-  "piano+reservoir": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Reservoir = a Public Holiday. Finally, a day off."
   },
   "piano+revolution": {
     "result": "public-holiday",
     "reasoning": "Piano + Revolution = a Public Holiday. Finally, a day off."
   },
-  "piano+ritual": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Ritual = a Public Holiday. Finally, a day off."
-  },
-  "piano+russia": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Russia = a Public Holiday. Finally, a day off."
-  },
-  "piano+sawmill": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Sawmill = a Public Holiday. Finally, a day off."
-  },
-  "piano+scientist": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Scientist = a Public Holiday. Finally, a day off."
-  },
-  "piano+shipyard": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Shipyard = a Public Holiday. Finally, a day off."
-  },
-  "piano+shogun": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Shogun = a Public Holiday. Finally, a day off."
-  },
-  "piano+siege": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Siege = a Public Holiday. Finally, a day off."
-  },
-  "piano+silk-road": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Silk Road = a Public Holiday. Finally, a day off."
-  },
   "piano+smart-city": {
     "result": "public-holiday",
     "reasoning": "Piano + Smart City = a Public Holiday. Finally, a day off."
-  },
-  "piano+smithy": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Smithy = a Public Holiday. Finally, a day off."
-  },
-  "piano+society": {
-    "result": "public-holiday",
-    "reasoning": "Piano + society = a Public Holiday. Finally, a day off."
   },
   "piano+space-race": {
     "result": "public-holiday",
     "reasoning": "Piano + Space Race = a Public Holiday. Finally, a day off."
   },
-  "piano+spartan": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Spartan = a Public Holiday. Finally, a day off."
-  },
-  "piano+stable": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Stable = a Public Holiday. Finally, a day off."
-  },
-  "piano+startup": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Startup = a Public Holiday. Finally, a day off."
-  },
   "piano+statue-of-liberty": {
     "result": "public-holiday",
     "reasoning": "Piano + Statue of Liberty = a Public Holiday. Finally, a day off."
-  },
-  "piano+stock": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Stock = a Public Holiday. Finally, a day off."
-  },
-  "piano+stockade": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Stockade = a Public Holiday. Finally, a day off."
-  },
-  "piano+stonehenge": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Stonehenge = a Public Holiday. Finally, a day off."
-  },
-  "piano+student": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Student = a Public Holiday. Finally, a day off."
-  },
-  "piano+sweden": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Sweden = a Public Holiday. Finally, a day off."
-  },
-  "piano+switzerland": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Switzerland = a Public Holiday. Finally, a day off."
-  },
-  "piano+taj-mahal": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Taj Mahal = a Public Holiday. Finally, a day off."
-  },
-  "piano+tannery": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Tannery = a Public Holiday. Finally, a day off."
-  },
-  "piano+tavern": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Tavern = a Public Holiday. Finally, a day off."
-  },
-  "piano+tax": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Tax = a Public Holiday. Finally, a day off."
-  },
-  "piano+teacher": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Teacher = a Public Holiday. Finally, a day off."
-  },
-  "piano+templar": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Templar = a Public Holiday. Finally, a day off."
-  },
-  "piano+toll-booth": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Toll Booth = a Public Holiday. Finally, a day off."
-  },
-  "piano+town": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Town = a Public Holiday. Finally, a day off."
-  },
-  "piano+trade": {
-    "result": "public-holiday",
-    "reasoning": "Piano + trade = a Public Holiday. Finally, a day off."
-  },
-  "piano+tradition": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Tradition = a Public Holiday. Finally, a day off."
-  },
-  "piano+treasury": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Treasury = a Public Holiday. Finally, a day off."
-  },
-  "piano+treaty": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Treaty = a Public Holiday. Finally, a day off."
-  },
-  "piano+tribune": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Tribune = a Public Holiday. Finally, a day off."
-  },
-  "piano+trojan-horse": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Trojan Horse = a Public Holiday. Finally, a day off."
-  },
-  "piano+turret": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Turret = a Public Holiday. Finally, a day off."
-  },
-  "piano+uk": {
-    "result": "public-holiday",
-    "reasoning": "Piano + UK = a Public Holiday. Finally, a day off."
-  },
-  "piano+usa": {
-    "result": "public-holiday",
-    "reasoning": "Piano + USA = a Public Holiday. Finally, a day off."
-  },
-  "piano+viking": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Viking = a Public Holiday. Finally, a day off."
-  },
-  "piano+village": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Village = a Public Holiday. Finally, a day off."
-  },
-  "piano+vineyard": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Vineyard = a Public Holiday. Finally, a day off."
-  },
-  "piano+vote": {
-    "result": "public-holiday",
-    "reasoning": "Piano + vote = a Public Holiday. Finally, a day off."
-  },
-  "piano+war": {
-    "result": "public-holiday",
-    "reasoning": "Piano + War = a Public Holiday. Finally, a day off."
-  },
-  "piano+watchtower": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Watchtower = a Public Holiday. Finally, a day off."
-  },
-  "piano+wealth": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Wealth = a Public Holiday. Finally, a day off."
-  },
-  "piano+windmill": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Windmill = a Public Holiday. Finally, a day off."
-  },
-  "piano+workshop": {
-    "result": "public-holiday",
-    "reasoning": "Piano + Workshop = a Public Holiday. Finally, a day off."
-  },
-  "piano+world-cup": {
-    "result": "public-holiday",
-    "reasoning": "Piano + World Cup = a Public Holiday. Finally, a day off."
-  },
-  "port+society": {
-    "result": "harbor",
-    "reasoning": "Combine Port with Society to create Harbor."
-  },
-  "pyramid+pyramids-of-giza": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Pyramids of Giza = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+quarry": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Quarry = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+red-tape": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Red Tape = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+reformation": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Reformation = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+republic": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Republic = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+reservoir": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Reservoir = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+revolution": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Revolution = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+ritual": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Ritual = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+russia": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Russia = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+sawmill": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Sawmill = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+scientist": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Scientist = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+shipyard": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Shipyard = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+shogun": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Shogun = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+siege": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Siege = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+silk-road": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Silk Road = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+smart-city": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Smart City = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+smithy": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Smithy = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+society": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + society = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+space-race": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Space Race = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+spartan": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Spartan = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+stable": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Stable = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+startup": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Startup = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+statue-of-liberty": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Statue of Liberty = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+stock": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Stock = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+stockade": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Stockade = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+stonehenge": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Stonehenge = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+student": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Student = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+sweden": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Sweden = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+switzerland": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Switzerland = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+taj-mahal": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Taj Mahal = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+tannery": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Tannery = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+tavern": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Tavern = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+tax": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Tax = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+teacher": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Teacher = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+templar": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Templar = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+toll-booth": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Toll Booth = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+town": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Town = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+trade": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + trade = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+tradition": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Tradition = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+treasury": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Treasury = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+treaty": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Treaty = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+tribune": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Tribune = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+trojan-horse": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Trojan Horse = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+turret": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Turret = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+uk": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + UK = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+usa": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + USA = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+viking": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Viking = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+village": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Village = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+vineyard": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Vineyard = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+vote": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + vote = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+war": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + War = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+watchtower": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Watchtower = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+wealth": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Wealth = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+windmill": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Windmill = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+workshop": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + Workshop = a Public Holiday. Finally, a day off."
-  },
-  "pyramid+world-cup": {
-    "result": "public-holiday",
-    "reasoning": "Pyramid + World Cup = a Public Holiday. Finally, a day off."
-  },
-  "reservoir+rock-music": {
-    "result": "mud",
-    "reasoning": "Reservoir + Rock Music = Mud — simple, squishy, essential."
-  },
-  "science-fiction+tavern": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
-  },
-  "silk-road+watercolor": {
-    "result": "tapestry",
-    "reasoning": "Silk Road woven as Watercolor — a Tapestry."
-  },
-  "slam-poetry+smart-city": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Smart City = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+smithy": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Smithy = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+society": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + society = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+space-race": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Space Race = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+spartan": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Spartan = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+stable": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Stable = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+startup": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Startup = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+statue-of-liberty": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Statue of Liberty = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+stock": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Stock = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+stockade": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Stockade = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+stonehenge": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Stonehenge = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+student": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Student = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+sweden": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Sweden = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+switzerland": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Switzerland = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+taj-mahal": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Taj Mahal = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+tannery": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Tannery = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+tavern": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Tavern = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+tax": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Tax = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+teacher": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Teacher = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+templar": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Templar = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+toll-booth": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Toll Booth = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+town": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + Town = a Public Holiday. Finally, a day off."
-  },
-  "slam-poetry+trade": {
-    "result": "public-holiday",
-    "reasoning": "Slam Poetry + trade = a Public Holiday. Finally, a day off."
   }
 }

@@ -1,7 +1,7 @@
 {
   "alien+space": {
     "result": "event-horizon",
-    "reasoning": "Combine Space with Alien to create Event Horizon."
+    "reasoning": "Here's the connection: In astrophysics, an event horizon is a boundary in spacetime beyond which no signal can ever reach a given observer. So Alien + space = Event Horizon."
   },
   "asteroid-belt+dark-energy": {
     "result": "black-hole",
@@ -17,11 +17,15 @@
   },
   "asteroid-belt+ring": {
     "result": "planetary-ring",
-    "reasoning": "Combine Ring with Asteroid Belt to create Planetary Ring."
+    "reasoning": "Asteroid Belt and ring together? The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. The result: Planetary Ring."
   },
   "asteroid+asteroid": {
     "result": "asteroid-belt",
     "reasoning": "Asteroids grouped together form the asteroid belt between Mars and Jupiter"
+  },
+  "asteroid+comet": {
+    "result": "earth",
+    "reasoning": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. So when Asteroid meets Comet, Earth is the natural outcome."
   },
   "asteroid+dark-energy": {
     "result": "black-hole",
@@ -33,47 +37,151 @@
   },
   "asteroid+mars": {
     "result": "asteroid-belt",
-    "reasoning": "Combine Asteroid with Mars to create Asteroid Belt."
+    "reasoning": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. Combine Asteroid with Mars and you naturally get Asteroid Belt."
   },
   "asteroid+mars-colony": {
     "result": "asteroid-belt",
-    "reasoning": "Combine Asteroid with Mars Colony to create Asteroid Belt."
+    "reasoning": "Asteroid and Mars Colony together? The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. The result: Asteroid Belt."
   },
   "asteroid+mars-rover": {
     "result": "asteroid-belt",
-    "reasoning": "Combine Asteroid with Mars Rover to create Asteroid Belt."
+    "reasoning": "Asteroid and Mars Rover together? The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. The result: Asteroid Belt."
+  },
+  "asteroid+meteorite": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Asteroid + Meteorite = Comet."
+  },
+  "asteroid+moon": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Asteroid + Moon = Comet."
   },
   "asteroid+night": {
     "result": "black-hole",
     "reasoning": "Asteroid collapses into Night — a Black Hole, where not even light escapes."
   },
+  "asteroid+planet": {
+    "result": "comet",
+    "reasoning": "Here's a real-world link: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Combine Asteroid with Planet and you get Comet."
+  },
+  "asteroid+saturn": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Asteroid + Saturn = Comet."
+  },
   "asteroid+space": {
     "result": "event-horizon",
-    "reasoning": "Combine Space with Asteroid to create Event Horizon."
+    "reasoning": "In astrophysics, an event horizon is a boundary in spacetime beyond which no signal can ever reach a given observer. Combine Asteroid with space and you naturally get Event Horizon."
+  },
+  "asteroid+sun": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Asteroid + sun = Comet."
   },
   "astrolabe+binary-star": {
     "result": "interstellar",
-    "reasoning": "Combine Binary Star with Astrolabe to create Interstellar."
+    "reasoning": "Astrolabe and Binary Star together? An astrolabe is an astronomical instrument dating to ancient times. The result: Interstellar."
   },
   "astrolabe+star-map": {
     "result": "sextant",
-    "reasoning": "Combine Star Map with Astrolabe to create Sextant."
+    "reasoning": "Here's the connection: A sextant is a doubly reflecting navigation instrument that measures the angular distance between two visible objects. So Astrolabe + Star Map = Sextant."
+  },
+  "astrolabe+telescope": {
+    "result": "sextant",
+    "reasoning": "Wikipedia says: A sextant is a doubly reflecting navigation instrument that measures the angular distance between two visible objects. That explains why Astrolabe + Telescope = Sextant."
   },
   "astronaut+moon": {
     "result": "moon-landing",
     "reasoning": "Astronaut and Moon combine in the cosmos to create Moon Landing"
   },
+  "aurora+dawn": {
+    "result": "eclipse",
+    "reasoning": "An eclipse is an astronomical event which occurs when an astronomical object or spacecraft is temporarily obscured, by passing into the shadow of another body or by having another body pass between it and the viewer. That's the connection between Aurora and Dawn — giving us Eclipse."
+  },
+  "aurora+eclipse": {
+    "result": "dawn",
+    "reasoning": "Dawn is the time that marks the beginning of twilight before sunrise. So when Aurora meets Eclipse, Dawn is the natural outcome."
+  },
+  "aurora+exoplanet": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Aurora and Exoplanet for Comet."
+  },
+  "aurora+galaxy": {
+    "result": "brown-dwarf",
+    "reasoning": "Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. So when Aurora meets Galaxy, Brown Dwarf is the natural outcome."
+  },
+  "aurora+gravity": {
+    "result": "acceleration",
+    "reasoning": "Here's a real-world link: In mechanics, an acceleration is a change in velocity and is calculated as the rate of change of the velocity of an object with respect to time. Combine Aurora with Gravity and you get Acceleration."
+  },
+  "aurora+magnetar": {
+    "result": "brown-dwarf",
+    "reasoning": "Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. So when Aurora meets Magnetar, Brown Dwarf is the natural outcome."
+  },
+  "aurora+meteor": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Aurora + Meteor = Comet."
+  },
+  "aurora+milky-way": {
+    "result": "brown-dwarf",
+    "reasoning": "Wikipedia says: Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. That explains why Aurora + Milky Way = Brown Dwarf."
+  },
+  "aurora+moonlight": {
+    "result": "luminescence",
+    "reasoning": "Aurora and Moonlight share a deep connection. Luminescence is the emission of optical radiation by a substance due to a process other than heating. Result: Luminescence."
+  },
+  "aurora+nebula": {
+    "result": "comet",
+    "reasoning": "Aurora and Nebula share a deep connection. A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Result: Comet."
+  },
+  "aurora+orbit": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Aurora and Orbit for Comet."
+  },
+  "aurora+planetarium": {
+    "result": "comet",
+    "reasoning": "Here's a real-world link: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Combine Aurora with Planetarium and you get Comet."
+  },
+  "aurora+protostar": {
+    "result": "brown-dwarf",
+    "reasoning": "Here's a real-world link: Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. Combine Aurora with Protostar and you get Brown Dwarf."
+  },
+  "aurora+pulsar": {
+    "result": "brown-dwarf",
+    "reasoning": "Aurora and Pulsar share a deep connection. Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. Result: Brown Dwarf."
+  },
+  "aurora+space": {
+    "result": "acceleration",
+    "reasoning": "Here's a real-world link: In mechanics, an acceleration is a change in velocity and is calculated as the rate of change of the velocity of an object with respect to time. Combine Aurora with space and you get Acceleration."
+  },
+  "aurora+star": {
+    "result": "luminescence",
+    "reasoning": "Luminescence is the emission of optical radiation by a substance due to a process other than heating. So when Aurora meets Star, Luminescence is the natural outcome."
+  },
+  "aurora+sun": {
+    "result": "luminescence",
+    "reasoning": "Luminescence is the emission of optical radiation by a substance due to a process other than heating. That's the connection between Aurora and sun — giving us Luminescence."
+  },
+  "aurora+sunlight": {
+    "result": "luminescence",
+    "reasoning": "Wikipedia says: Luminescence is the emission of optical radiation by a substance due to a process other than heating. That explains why Aurora + Sunlight = Luminescence."
+  },
+  "aurora+sunset": {
+    "result": "dawn",
+    "reasoning": "Here's a real-world link: Dawn is the time that marks the beginning of twilight before sunrise. Combine Aurora with Sunset and you get Dawn."
+  },
+  "aurora+universe": {
+    "result": "acceleration",
+    "reasoning": "Aurora and Universe share a deep connection. In mechanics, an acceleration is a change in velocity and is calculated as the rate of change of the velocity of an object with respect to time. Result: Acceleration."
+  },
   "binary-star+brown-dwarf": {
     "result": "globular-cluster",
-    "reasoning": "Combine Binary Star with Brown Dwarf to create Globular Cluster."
+    "reasoning": "A globular cluster is a spheroidal conglomeration of stars that is bound together by gravity, with a higher concentration of stars towards its center. That's how Binary Star and Brown Dwarf give us Globular Cluster."
   },
   "binary-star+cosmic-dust": {
     "result": "neutron-star",
-    "reasoning": "Combine Binary Star with Cosmic Dust to create Neutron Star."
+    "reasoning": "Here's the connection: A neutron star is the gravitationally collapsed core of a massive supergiant star. So Binary Star + Cosmic Dust = Neutron Star."
   },
   "binary-star+dark-energy": {
     "result": "dyson-sphere",
-    "reasoning": "Combine Binary Star with Dark Energy to create Dyson Sphere."
+    "reasoning": "A Dyson sphere is a hypothetical megastructure that encompasses a star and captures a large percentage of its power output. That's how Binary Star and Dark Energy give us Dyson Sphere."
   },
   "binary-star+dark-matter": {
     "result": "black-hole",
@@ -81,39 +189,39 @@
   },
   "binary-star+dwarf-planet": {
     "result": "neutron-star",
-    "reasoning": "Combine Binary Star with Dwarf Planet to create Neutron Star."
+    "reasoning": "A neutron star is the gravitationally collapsed core of a massive supergiant star. That's how Binary Star and Dwarf Planet give us Neutron Star."
   },
   "binary-star+dwarf-star": {
     "result": "brown-dwarf",
-    "reasoning": "Combine Dwarf Star with Binary Star to create Brown Dwarf."
+    "reasoning": "Did you know? Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. That's why Binary Star + Dwarf Star = Brown Dwarf."
   },
   "binary-star+dyson-sphere": {
     "result": "interstellar",
-    "reasoning": "Combine Binary Star with Dyson Sphere to create Interstellar."
+    "reasoning": "Did you know? A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. That's why Binary Star + Dyson Sphere = Interstellar."
   },
   "binary-star+gamma-ray-burst": {
     "result": "nova",
-    "reasoning": "Combine Binary Star with Gamma Ray Burst to create Nova."
+    "reasoning": "Here's the connection: A nova is a transient astronomical event that causes the sudden appearance of a bright, apparently \"new\" star that slowly fades over weeks or months. So Binary Star + Gamma Ray Burst = Nova."
   },
   "binary-star+globular-cluster": {
     "result": "magnetar",
-    "reasoning": "Combine Binary Star with Globular Cluster to create Magnetar."
+    "reasoning": "Binary Star and Globular Cluster together? A magnetar is a type of neutron star with an extremely powerful magnetic field (~109 to 1011 T, ~1013 to 1015 G). The result: Magnetar."
   },
   "binary-star+interstellar": {
     "result": "planetarium",
-    "reasoning": "Combine Binary Star with Interstellar to create Planetarium."
+    "reasoning": "Binary Star and Interstellar together? A planetarium is a theatre built primarily for presenting educational and entertaining shows about astronomy and the night sky, or for training in celestial navigation. The result: Planetarium."
   },
   "binary-star+magnetar": {
     "result": "neutron-star",
-    "reasoning": "Combine Binary Star with Magnetar to create Neutron Star."
+    "reasoning": "A neutron star is the gravitationally collapsed core of a massive supergiant star. That's how Binary Star and Magnetar give us Neutron Star."
   },
   "binary-star+moon-base": {
     "result": "planetarium",
-    "reasoning": "Combine Binary Star with Moon Base to create Planetarium."
+    "reasoning": "A planetarium is a theatre built primarily for presenting educational and entertaining shows about astronomy and the night sky, or for training in celestial navigation. That's how Binary Star and Moon Base give us Planetarium."
   },
   "binary-star+neutron-star": {
     "result": "nova",
-    "reasoning": "Combine Binary Star with Neutron Star to create Nova."
+    "reasoning": "Did you know? A nova is a transient astronomical event that causes the sudden appearance of a bright, apparently \"new\" star that slowly fades over weeks or months. That's why Binary Star + Neutron Star = Nova."
   },
   "binary-star+night": {
     "result": "black-hole",
@@ -121,35 +229,35 @@
   },
   "binary-star+nova": {
     "result": "red-giant",
-    "reasoning": "Combine Binary Star with Nova to create Red Giant."
+    "reasoning": "Did you know? A red giant is a luminous giant star of low or intermediate mass in a late phase of stellar evolution. That's why Binary Star + Nova = Red Giant."
   },
   "binary-star+planetarium": {
     "result": "star-map",
-    "reasoning": "Combine Binary Star with Planetarium to create Star Map."
+    "reasoning": "Here's the connection: A star chart is a celestial map of the night sky with astronomical objects laid out on a grid system. So Binary Star + Planetarium = Star Map."
   },
   "binary-star+red-giant": {
     "result": "astrolabe",
-    "reasoning": "Combine Binary Star with Red Giant to create Astrolabe."
+    "reasoning": "An astrolabe is an astronomical instrument dating to ancient times. Combine Binary Star with Red Giant and you naturally get Astrolabe."
   },
   "binary-star+space": {
     "result": "globular-cluster",
-    "reasoning": "Combine Binary Star with Space to create Globular Cluster."
+    "reasoning": "Here's the connection: A globular cluster is a spheroidal conglomeration of stars that is bound together by gravity, with a higher concentration of stars towards its center. So Binary Star + space = Globular Cluster."
   },
   "binary-star+star": {
     "result": "globular-cluster",
-    "reasoning": "Combine Binary Star with Star to create Globular Cluster."
+    "reasoning": "A globular cluster is a spheroidal conglomeration of stars that is bound together by gravity, with a higher concentration of stars towards its center. Combine Binary Star with Star and you naturally get Globular Cluster."
   },
   "binary-star+star-map": {
     "result": "sextant",
-    "reasoning": "Combine Star Map with Binary Star to create Sextant."
+    "reasoning": "Here's the connection: A sextant is a doubly reflecting navigation instrument that measures the angular distance between two visible objects. So Binary Star + Star Map = Sextant."
   },
   "binary-star+time-travel": {
     "result": "interstellar",
-    "reasoning": "Combine Binary Star with Time Travel to create Interstellar."
+    "reasoning": "Here's the connection: A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. So Binary Star + Time Travel = Interstellar."
   },
   "binary-star+white-dwarf": {
     "result": "astrolabe",
-    "reasoning": "Combine Binary Star with White Dwarf to create Astrolabe."
+    "reasoning": "Here's the connection: An astrolabe is an astronomical instrument dating to ancient times. So Binary Star + White Dwarf = Astrolabe."
   },
   "black-hole+black-hole": {
     "result": "multiverse",
@@ -157,19 +265,19 @@
   },
   "black-hole+lunar-eclipse": {
     "result": "lunar-crater",
-    "reasoning": "Combine Black Hole with Lunar Eclipse to create Lunar Crater."
+    "reasoning": "A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. That's how Black Hole and Lunar Eclipse give us Lunar Crater."
   },
   "black-hole+meteor": {
     "result": "crater",
-    "reasoning": "Combine Black Hole with Meteor to create Crater."
+    "reasoning": "A crater is a landform consisting of a hole or depression on a planetary surface, usually caused either by an object hitting the surface, or by geological activity on the planet. That's how Black Hole and Meteor give us Crater."
   },
   "black-hole+moon": {
     "result": "lunar-crater",
-    "reasoning": "Combine Black Hole with Moon to create Lunar Crater."
+    "reasoning": "Did you know? A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. That's why Black Hole + Moon = Lunar Crater."
   },
   "black-hole+moon-landing": {
     "result": "lunar-crater",
-    "reasoning": "Combine Black Hole with Moon Landing to create Lunar Crater."
+    "reasoning": "Here's the connection: A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. So Black Hole + Moon Landing = Lunar Crater."
   },
   "black-hole+space": {
     "result": "wormhole",
@@ -177,15 +285,19 @@
   },
   "brown-dwarf+dwarf-star": {
     "result": "white-dwarf",
-    "reasoning": "Combine Dwarf Star with Brown Dwarf to create White Dwarf."
+    "reasoning": "Brown Dwarf and Dwarf Star together? A white dwarf is a compact star that is no longer generating energy through nuclear fusion at its core. The result: White Dwarf."
   },
   "brown-dwarf+planet": {
     "result": "dwarf-planet",
-    "reasoning": "Combine Planet with Brown Dwarf to create Dwarf Planet."
+    "reasoning": "Brown Dwarf and Planet together? A dwarf planet is a small planetary-mass object that is in direct orbit around the Sun, massive enough to be gravitationally rounded, but insufficient to achieve orbital dominance like the eight classical planets of the Solar System. The result: Dwarf Planet."
   },
   "comet+comet": {
     "result": "meteor-shower",
     "reasoning": "Comets leaving debris trails create meteor showers"
+  },
+  "comet+constellation": {
+    "result": "eclipse",
+    "reasoning": "Comet and Constellation share a deep connection. An eclipse is an astronomical event which occurs when an astronomical object or spacecraft is temporarily obscured, by passing into the shadow of another body or by having another body pass between it and the viewer. Result: Eclipse."
   },
   "comet+dark-energy": {
     "result": "black-hole",
@@ -195,9 +307,65 @@
     "result": "black-hole",
     "reasoning": "Comet collapses into Dark Matter — a Black Hole, where not even light escapes."
   },
+  "comet+eclipse": {
+    "result": "constellation",
+    "reasoning": "A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. So when Comet meets Eclipse, Constellation is the natural outcome."
+  },
+  "comet+exoplanet": {
+    "result": "constellation",
+    "reasoning": "The science is clear — A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. Mix Comet and Exoplanet for Constellation."
+  },
+  "comet+galaxy": {
+    "result": "constellation",
+    "reasoning": "Here's a real-world link: A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. Combine Comet with Galaxy and you get Constellation."
+  },
+  "comet+mars": {
+    "result": "earth",
+    "reasoning": "Here's a real-world link: Earth is the third planet from the Sun and the only astronomical object known to harbor life. Combine Comet with Mars and you get Earth."
+  },
+  "comet+meteorite": {
+    "result": "earth",
+    "reasoning": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. So when Comet meets Meteorite, Earth is the natural outcome."
+  },
+  "comet+moon": {
+    "result": "earth",
+    "reasoning": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. That's the connection between Comet and Moon — giving us Earth."
+  },
+  "comet+nebula": {
+    "result": "constellation",
+    "reasoning": "Here's a real-world link: A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. Combine Comet with Nebula and you get Constellation."
+  },
   "comet+night": {
     "result": "black-hole",
     "reasoning": "Comet collapses into Night — a Black Hole, where not even light escapes."
+  },
+  "comet+orbit": {
+    "result": "constellation",
+    "reasoning": "A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. So when Comet meets Orbit, Constellation is the natural outcome."
+  },
+  "comet+planet": {
+    "result": "constellation",
+    "reasoning": "Here's a real-world link: A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. Combine Comet with Planet and you get Constellation."
+  },
+  "comet+quasar": {
+    "result": "constellation",
+    "reasoning": "Wikipedia says: A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. That explains why Comet + Quasar = Constellation."
+  },
+  "comet+saturn": {
+    "result": "earth",
+    "reasoning": "Here's a real-world link: Earth is the third planet from the Sun and the only astronomical object known to harbor life. Combine Comet with Saturn and you get Earth."
+  },
+  "comet+star": {
+    "result": "constellation",
+    "reasoning": "A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. So when Comet meets Star, Constellation is the natural outcome."
+  },
+  "comet+sun": {
+    "result": "earth",
+    "reasoning": "Earth is the third planet from the Sun and the only astronomical object known to harbor life. That's the connection between Comet and sun — giving us Earth."
+  },
+  "comet+universe": {
+    "result": "constellation",
+    "reasoning": "The science is clear — A constellation is an area on the celestial sphere in which a group of visible stars forms a perceived pattern or outline, typically representing an animal, mythological subject, or inanimate object. Mix Comet and Universe for Constellation."
   },
   "constellation+dark-energy": {
     "result": "black-hole",
@@ -207,57 +375,133 @@
     "result": "black-hole",
     "reasoning": "Constellation collapses into Dark Matter — a Black Hole, where not even light escapes."
   },
+  "constellation+eclipse": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Constellation + Eclipse = Comet."
+  },
+  "constellation+exoplanet": {
+    "result": "comet",
+    "reasoning": "A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. So when Constellation meets Exoplanet, Comet is the natural outcome."
+  },
+  "constellation+galaxy": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Constellation + Galaxy = Comet."
+  },
+  "constellation+magnetar": {
+    "result": "astronomy",
+    "reasoning": "Wikipedia says: Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. That explains why Constellation + Magnetar = Astronomy."
+  },
+  "constellation+nebula": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Constellation and Nebula for Comet."
+  },
   "constellation+night": {
     "result": "black-hole",
     "reasoning": "Constellation collapses into Night — a Black Hole, where not even light escapes."
   },
+  "constellation+orbit": {
+    "result": "comet",
+    "reasoning": "A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That's the connection between Constellation and Orbit — giving us Comet."
+  },
+  "constellation+planet": {
+    "result": "astronomy",
+    "reasoning": "The science is clear — Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. Mix Constellation and Planet for Astronomy."
+  },
+  "constellation+planetarium": {
+    "result": "astronomy",
+    "reasoning": "The science is clear — Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. Mix Constellation and Planetarium for Astronomy."
+  },
+  "constellation+quasar": {
+    "result": "comet",
+    "reasoning": "A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. So when Constellation meets Quasar, Comet is the natural outcome."
+  },
+  "constellation+saturn": {
+    "result": "astronomy",
+    "reasoning": "Constellation and Saturn share a deep connection. Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. Result: Astronomy."
+  },
+  "constellation+star": {
+    "result": "comet",
+    "reasoning": "Constellation and Star share a deep connection. A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Result: Comet."
+  },
+  "constellation+telescope": {
+    "result": "astronomy",
+    "reasoning": "Wikipedia says: Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. That explains why Constellation + Telescope = Astronomy."
+  },
+  "constellation+universe": {
+    "result": "comet",
+    "reasoning": "A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. So when Constellation meets Universe, Comet is the natural outcome."
+  },
   "corona+dark-matter": {
     "result": "sunspot",
-    "reasoning": "Combine Dark Matter with Corona to create Sunspot."
+    "reasoning": "Sunspots are temporary spots on the Sun's surface that are darker than the surrounding area. That's how Corona and Dark Matter give us Sunspot."
   },
   "corona+orbit": {
     "result": "kuiper-belt",
-    "reasoning": "Combine Orbit with Corona to create Kuiper Belt."
+    "reasoning": "Did you know? The Kuiper belt is a circumstellar disc in the outer Solar System, extending from the orbit of Neptune at 30 astronomical units (AU) to approximately 50 AU from the Sun. That's why Corona + Orbit = Kuiper Belt."
   },
   "corona+sun": {
     "result": "heliopause",
-    "reasoning": "Combine Sun with Corona to create Heliopause."
+    "reasoning": "The Sun is the star at the centre of the Solar System. That's how Corona and sun give us Heliopause."
   },
   "cosmic-dust+planet": {
     "result": "dwarf-planet",
-    "reasoning": "Combine Planet with Cosmic Dust to create Dwarf Planet."
+    "reasoning": "Did you know? A dwarf planet is a small planetary-mass object that is in direct orbit around the Sun, massive enough to be gravitationally rounded, but insufficient to achieve orbital dominance like the eight classical planets of the Solar System. That's why Cosmic Dust + Planet = Dwarf Planet."
   },
   "cosmic-dust+space": {
     "result": "event-horizon",
-    "reasoning": "Combine Space with Cosmic Dust to create Event Horizon."
+    "reasoning": "Cosmic Dust and space together? In astrophysics, an event horizon is a boundary in spacetime beyond which no signal can ever reach a given observer. The result: Event Horizon."
   },
   "cosmic-ray+space": {
     "result": "cosmic-dust",
-    "reasoning": "Combine Space with Cosmic Ray to create Cosmic Dust."
+    "reasoning": "Cosmic dust – also called extraterrestrial dust, space dust, or star dust – is dust that occurs in outer space or has fallen onto Earth. That's how Cosmic Ray and space give us Cosmic Dust."
   },
   "cosmic-string+space": {
     "result": "zero-gravity",
-    "reasoning": "Combine Space with Cosmic String to create Zero Gravity."
+    "reasoning": "Cosmic String and space together? Weightlessness is the complete or near-complete absence of the sensation of weight, i.e., zero apparent weight. The result: Zero Gravity."
   },
   "dark-energy+dark-matter": {
     "result": "sunspot",
-    "reasoning": "Combine Dark Matter with Dark Energy to create Sunspot."
+    "reasoning": "Sunspots are temporary spots on the Sun's surface that are darker than the surrounding area. That's how Dark Energy and Dark Matter give us Sunspot."
   },
   "dark-matter+sun": {
     "result": "sunspot",
-    "reasoning": "Combine Dark Matter with Sun to create Sunspot."
+    "reasoning": "Sunspots are temporary spots on the Sun's surface that are darker than the surrounding area. That's how Dark Matter and sun give us Sunspot."
   },
   "dark-matter+sunspot": {
     "result": "gothic",
-    "reasoning": "Combine Dark Matter with Sunspot to create Gothic."
+    "reasoning": "In astronomy and cosmology, dark matter is an invisible and hypothetical form of matter that does not interact with light or other electromagnetic radiation. Combine Dark Matter with Sunspot and you naturally get Gothic."
+  },
+  "dawn+eclipse": {
+    "result": "aurora",
+    "reasoning": "Here's a real-world link: An aurora is a natural light display in Earth’s upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. Combine Dawn with Eclipse and you get Aurora."
+  },
+  "dawn+night": {
+    "result": "sunset",
+    "reasoning": "Sunset is the disappearance of the Sun at the end of the Sun path, below the horizon of the Earth due to its rotation. That's the connection between Dawn and Night — giving us Sunset."
+  },
+  "dawn+sunset": {
+    "result": "night",
+    "reasoning": "Wikipedia says: Night, or nighttime, is the period of darkness when the Sun is below the horizon. That explains why Dawn + Sunset = Night."
   },
   "day+night": {
     "result": "time",
-    "reasoning": "Day and Night explain the phenomenon of time"
+    "reasoning": "Here's the connection: Time is the continuous progression of existence that occurs in an apparently irreversible succession from the past, through the present, and into the future. So Day + Night = time."
+  },
+  "day+planetarium": {
+    "result": "computer",
+    "reasoning": "The link between Day and Planetarium? Astrarium. The result? Computer."
+  },
+  "day+sky": {
+    "result": "astronomy",
+    "reasoning": "Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. That's the connection between Day and Sky — giving us Astronomy."
+  },
+  "day+sunset": {
+    "result": "astronomy",
+    "reasoning": "Wikipedia says: Astronomy is a natural science that studies celestial objects and the phenomena that occur in the cosmos. That explains why Day + Sunset = Astronomy."
   },
   "dwarf-planet+dwarf-star": {
     "result": "white-dwarf",
-    "reasoning": "Combine Dwarf Star with Dwarf Planet to create White Dwarf."
+    "reasoning": "Dwarf Planet and Dwarf Star together? A white dwarf is a compact star that is no longer generating energy through nuclear fusion at its core. The result: White Dwarf."
   },
   "dwarf-planet+night": {
     "result": "black-hole",
@@ -265,11 +509,11 @@
   },
   "dwarf-planet+ring": {
     "result": "planetary-ring",
-    "reasoning": "Combine Ring with Dwarf Planet to create Planetary Ring."
+    "reasoning": "Did you know? A dwarf planet is a small planetary-mass object that is in direct orbit around the Sun, massive enough to be gravitationally rounded, but insufficient to achieve orbital dominance like the eight classical planets of the Solar System. That's why Dwarf Planet + ring = Planetary Ring."
   },
   "dwarf-star+neutron-star": {
     "result": "white-dwarf",
-    "reasoning": "Combine Dwarf Star with Neutron Star to create White Dwarf."
+    "reasoning": "Dwarf Star and Neutron Star together? A white dwarf is a compact star that is no longer generating energy through nuclear fusion at its core. The result: White Dwarf."
   },
   "dwarf-star+night": {
     "result": "black-hole",
@@ -277,23 +521,163 @@
   },
   "dwarf-star+star": {
     "result": "brown-dwarf",
-    "reasoning": "Combine Dwarf Star with Star to create Brown Dwarf."
+    "reasoning": "Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. That's how Dwarf Star and Star give us Brown Dwarf."
   },
   "dwarf-star+star-map": {
     "result": "sextant",
-    "reasoning": "Combine Star Map with Dwarf Star to create Sextant."
+    "reasoning": "Dwarf Star and Star Map together? A sextant is a doubly reflecting navigation instrument that measures the angular distance between two visible objects. The result: Sextant."
+  },
+  "eclipse+exoplanet": {
+    "result": "binary-star",
+    "reasoning": "Eclipse and Exoplanet share a deep connection. A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Result: Binary Star."
+  },
+  "eclipse+galaxy": {
+    "result": "binary-star",
+    "reasoning": "Eclipse and Galaxy share a deep connection. A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Result: Binary Star."
+  },
+  "eclipse+magnetar": {
+    "result": "binary-star",
+    "reasoning": "Eclipse and Magnetar share a deep connection. A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Result: Binary Star."
   },
   "eclipse+moon": {
     "result": "solar-eclipse",
-    "reasoning": "Combine Moon with Eclipse to create Solar Eclipse."
+    "reasoning": "Did you know? A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby obscuring the view of the Sun from a small part of Earth, totally or partially. That's why Eclipse + Moon = Solar Eclipse."
+  },
+  "eclipse+nebula": {
+    "result": "comet",
+    "reasoning": "Eclipse and Nebula share a deep connection. A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Result: Comet."
+  },
+  "eclipse+nova": {
+    "result": "binary-star",
+    "reasoning": "The science is clear — A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Mix Eclipse and Nova for Binary Star."
+  },
+  "eclipse+orbit": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Eclipse + Orbit = Comet."
+  },
+  "eclipse+planet": {
+    "result": "comet",
+    "reasoning": "A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That's the connection between Eclipse and Planet — giving us Comet."
+  },
+  "eclipse+protostar": {
+    "result": "binary-star",
+    "reasoning": "A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. So when Eclipse meets Protostar, Binary Star is the natural outcome."
+  },
+  "eclipse+pulsar": {
+    "result": "binary-star",
+    "reasoning": "The science is clear — A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Mix Eclipse and Pulsar for Binary Star."
+  },
+  "eclipse+quasar": {
+    "result": "binary-star",
+    "reasoning": "Here's a real-world link: A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Combine Eclipse with Quasar and you get Binary Star."
+  },
+  "eclipse+star": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Eclipse + Star = Comet."
+  },
+  "eclipse+sunlight": {
+    "result": "binary-star",
+    "reasoning": "Eclipse and Sunlight share a deep connection. A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Result: Binary Star."
+  },
+  "eclipse+sunset": {
+    "result": "aurora",
+    "reasoning": "The science is clear — An aurora is a natural light display in Earth’s upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. Mix Eclipse and Sunset for Aurora."
+  },
+  "eclipse+universe": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Eclipse and Universe for Comet."
   },
   "event-horizon+sun": {
     "result": "heliopause",
-    "reasoning": "Combine Sun with Event Horizon to create Heliopause."
+    "reasoning": "In astrophysics, an event horizon is a boundary in spacetime beyond which no signal can ever reach a given observer. Combine Event Horizon with sun and you naturally get Heliopause."
+  },
+  "exoplanet+galaxy": {
+    "result": "brown-dwarf",
+    "reasoning": "Wikipedia says: Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. That explains why Exoplanet + Galaxy = Brown Dwarf."
+  },
+  "exoplanet+gravity": {
+    "result": "brown-dwarf",
+    "reasoning": "The science is clear — Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. Mix Exoplanet and Gravity for Brown Dwarf."
+  },
+  "exoplanet+magnetar": {
+    "result": "brown-dwarf",
+    "reasoning": "Exoplanet and Magnetar share a deep connection. Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. Result: Brown Dwarf."
+  },
+  "exoplanet+meteor": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Exoplanet and Meteor for Comet."
+  },
+  "exoplanet+milky-way": {
+    "result": "brown-dwarf",
+    "reasoning": "Wikipedia says: Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. That explains why Exoplanet + Milky Way = Brown Dwarf."
+  },
+  "exoplanet+nebula": {
+    "result": "cosmic-dust",
+    "reasoning": "Here's a real-world link: Cosmic dust – also called extraterrestrial dust, space dust, or star dust – is dust that occurs in outer space or has fallen onto Earth. Combine Exoplanet with Nebula and you get Cosmic Dust."
+  },
+  "exoplanet+nova": {
+    "result": "binary-star",
+    "reasoning": "Wikipedia says: A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. That explains why Exoplanet + Nova = Binary Star."
+  },
+  "exoplanet+orbit": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Exoplanet + Orbit = Comet."
+  },
+  "exoplanet+planet": {
+    "result": "astrobiology",
+    "reasoning": "Astrobiology is a scientific field within the life and environmental sciences that studies the origins, early evolution, distribution, and future of life in the universe by investigating its deterministic conditions and contingent events. That's the connection between Exoplanet and Planet — giving us Astrobiology."
+  },
+  "exoplanet+planetarium": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Exoplanet and Planetarium for Comet."
+  },
+  "exoplanet+protostar": {
+    "result": "cosmic-dust",
+    "reasoning": "The science is clear — Cosmic dust – also called extraterrestrial dust, space dust, or star dust – is dust that occurs in outer space or has fallen onto Earth. Mix Exoplanet and Protostar for Cosmic Dust."
+  },
+  "exoplanet+pulsar": {
+    "result": "brown-dwarf",
+    "reasoning": "Here's a real-world link: Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. Combine Exoplanet with Pulsar and you get Brown Dwarf."
+  },
+  "exoplanet+quasar": {
+    "result": "binary-star",
+    "reasoning": "Exoplanet and Quasar share a deep connection. A binary star or binary star system is a system of two stars that are gravitationally bound to and in orbit around each other. Result: Binary Star."
+  },
+  "exoplanet+saturn": {
+    "result": "asteroid-belt",
+    "reasoning": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. That's the connection between Exoplanet and Saturn — giving us Asteroid Belt."
+  },
+  "exoplanet+sky": {
+    "result": "cloud",
+    "reasoning": "Exoplanet and Sky share a deep connection. In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. Result: Cloud."
+  },
+  "exoplanet+space": {
+    "result": "cloud",
+    "reasoning": "Exoplanet and space share a deep connection. In meteorology, a cloud is an aerosol consisting of a visible mass of miniature liquid droplets, ice crystals, or other particles, suspended in the atmosphere of a planetary body or similar space. Result: Cloud."
+  },
+  "exoplanet+star": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Exoplanet and Star for Comet."
+  },
+  "exoplanet+sun": {
+    "result": "asteroid-belt",
+    "reasoning": "The asteroid belt is a torus-shaped region in the Solar System, centered on the Sun and roughly spanning the space between the orbits of the planets Jupiter and Mars. That's the connection between Exoplanet and sun — giving us Asteroid Belt."
+  },
+  "exoplanet+sunlight": {
+    "result": "astrobiology",
+    "reasoning": "Exoplanet and Sunlight share a deep connection. Astrobiology is a scientific field within the life and environmental sciences that studies the origins, early evolution, distribution, and future of life in the universe by investigating its deterministic conditions and contingent events. Result: Astrobiology."
+  },
+  "exoplanet+sunspot": {
+    "result": "aurora",
+    "reasoning": "Here's a real-world link: An aurora is a natural light display in Earth’s upper atmosphere caused by charged particles from the Sun colliding with atoms in the atmosphere. Combine Exoplanet with Sunspot and you get Aurora."
+  },
+  "exoplanet+universe": {
+    "result": "comet",
+    "reasoning": "Exoplanet and Universe share a deep connection. A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Result: Comet."
   },
   "galactic-core+galaxy": {
     "result": "milky-way",
-    "reasoning": "Combine Galaxy with Galactic Core to create Milky Way."
+    "reasoning": "Did you know? The Galactic Center is the barycenter of the Milky Way and a corresponding point on the rotational axis of the galaxy. That's why Galactic Core + Galaxy = Milky Way."
   },
   "galactic-core+gamma-ray-burst": {
     "result": "space-junk",
@@ -307,10 +691,6 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Gravitational Wave = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+gravity": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Gravity = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+heliopause": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Heliopause = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
@@ -322,10 +702,6 @@
   "galactic-core+interstellar": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Interstellar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+iss": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + ISS = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+james-webb": {
     "result": "space-junk",
@@ -351,10 +727,6 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Magnetar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+mars": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Mars = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+mars-colony": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Mars Colony = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
@@ -362,10 +734,6 @@
   "galactic-core+mars-rover": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Mars Rover = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+meteor": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Meteor = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+meteor-shower": {
     "result": "space-junk",
@@ -379,10 +747,6 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Milky Way = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+moon": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Moon = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+moon-landing": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Moon Landing = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
@@ -391,25 +755,9 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Moonlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+nasa": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + NASA = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+nebula": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Nebula = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+neutron-star": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Neutron Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+night": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Night = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+nova": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Nova = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+observatory": {
     "result": "space-junk",
@@ -419,14 +767,6 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Oort Cloud = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+orbit": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Orbit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+planet": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Planet = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+planetary-ring": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Planetary Ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
@@ -434,14 +774,6 @@
   "galactic-core+protostar": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Protostar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+pulsar": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Pulsar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+quasar": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Quasar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+radio-telescope": {
     "result": "space-junk",
@@ -451,21 +783,9 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Red Giant = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+ring": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+satellite-dish": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Satellite Dish = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+seti": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + SETI = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+sky": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Sky = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+solar-flare": {
     "result": "space-junk",
@@ -478,10 +798,6 @@
   "galactic-core+solar-wind": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Solar Wind = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+space": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + space = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+space-debris": {
     "result": "space-junk",
@@ -515,25 +831,13 @@
     "result": "space-junk",
     "reasoning": "Galactic Core + Space Wrench = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+star": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+star-map": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Star Map = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
-  "galactic-core+sun": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + sun = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
   "galactic-core+sunlight": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Sunlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+sunset": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + Sunset = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+supernova": {
     "result": "space-junk",
@@ -550,10 +854,6 @@
   "galactic-core+time-travel": {
     "result": "space-junk",
     "reasoning": "Galactic Core + Time Travel = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "galactic-core+ufo": {
-    "result": "space-junk",
-    "reasoning": "Galactic Core + UFO = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
   },
   "galactic-core+voyager-probe": {
     "result": "space-junk",
@@ -575,308 +875,8 @@
     "result": "universe",
     "reasoning": "Galaxy and Galaxy combine in the cosmos to create Universe"
   },
-  "galaxy+neutron-star": {
-    "result": "galactic-core",
-    "reasoning": "Combine Galaxy with Neutron Star to create Galactic Core."
-  },
-  "galaxy+night": {
-    "result": "black-hole",
-    "reasoning": "Galaxy collapses into Night — a Black Hole, where not even light escapes."
-  },
-  "galaxy+space": {
-    "result": "galactic-core",
-    "reasoning": "Combine Galaxy with Space to create Galactic Core."
-  },
-  "gravitational-wave+gravity-wave": {
-    "result": "oscilloscope",
-    "reasoning": "Combine Gravitational Wave with Gravity Wave to create Oscilloscope."
-  },
-  "gravity-wave+light-year": {
-    "result": "relativity",
-    "reasoning": "Combine Light Year with Gravity Wave to create Relativity."
-  },
-  "gravity-wave+space": {
-    "result": "zero-gravity",
-    "reasoning": "Combine Space with Gravity Wave to create Zero Gravity."
-  },
-  "gravity+gravity": {
-    "result": "black-hole",
-    "reasoning": "Gravity concentrated creates a black hole — spacetime's ultimate trap"
-  },
-  "gravity+gravity-wave": {
-    "result": "gravitational-wave",
-    "reasoning": "Combine Gravity Wave with Gravity to create Gravitational Wave."
-  },
-  "gravity+light-year": {
-    "result": "relativity",
-    "reasoning": "Combine Light Year with Gravity to create Relativity."
-  },
-  "gravity+orbit": {
-    "result": "lagrange-point",
-    "reasoning": "Combine Gravity with Orbit to create Lagrange Point."
-  },
-  "gravity+space": {
-    "result": "orbit",
-    "reasoning": "Gravity and space combine in the cosmos to create Orbit"
-  },
-  "gravity+space-debris": {
-    "result": "lagrange-point",
-    "reasoning": "Combine Gravity with Space Debris to create Lagrange Point."
-  },
-  "gravity+sun": {
-    "result": "binary-star",
-    "reasoning": "Gravity binding two suns creates a Binary Star"
-  },
-  "gravity+universe": {
-    "result": "dark-matter",
-    "reasoning": "Gravity and Universe combine in the cosmos to create Dark Matter"
-  },
-  "heliopause+sun": {
-    "result": "solar-wind",
-    "reasoning": "Combine Sun with Heliopause to create Solar Wind."
-  },
-  "hubble-telescope+telescope": {
-    "result": "radio-telescope",
-    "reasoning": "Combine Hubble Telescope with Telescope to create Radio Telescope."
-  },
-  "hubble-telescope+universe": {
-    "result": "james-webb",
-    "reasoning": "Hubble Telescope and Universe combine in the cosmos to create James Webb"
-  },
-  "james-webb+kuiper-belt": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Kuiper Belt = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+lagrange-point": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Lagrange Point = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+light-year": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Light Year = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+lunar-crater": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Lunar Crater = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+lunar-eclipse": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Lunar Eclipse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+magnetar": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Magnetar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+mars": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Mars = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+mars-colony": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Mars Colony = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+mars-rover": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Mars Rover = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+meteor": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Meteor = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+meteor-shower": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Meteor Shower = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+meteorite": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Meteorite = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+milky-way": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Milky Way = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+moon": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Moon = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+moon-base": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Moon Base = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+moon-landing": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Moon Landing = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+moonlight": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Moonlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+multiverse": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Multiverse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+nasa": {
-    "result": "space-junk",
-    "reasoning": "James Webb + NASA = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+nebula": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Nebula = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+neutron-star": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Neutron Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+night": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Night = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+nova": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Nova = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+observatory": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Observatory = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+oort-cloud": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Oort Cloud = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+orbit": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Orbit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+planet": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Planet = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+planetarium": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Planetarium = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+planetary-ring": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Planetary Ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+protostar": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Protostar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+pulsar": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Pulsar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+quasar": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Quasar = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+radio-telescope": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Radio Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+red-giant": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Red Giant = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+ring": {
-    "result": "space-junk",
-    "reasoning": "James Webb + ring = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+satellite-dish": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Satellite Dish = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+saturn": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Saturn = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+seti": {
-    "result": "space-junk",
-    "reasoning": "James Webb + SETI = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+sky": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Sky = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+solar-eclipse": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Solar Eclipse = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+solar-flare": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Solar Flare = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+solar-sail": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Solar Sail = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+solar-wind": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Solar Wind = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space": {
-    "result": "space-junk",
-    "reasoning": "James Webb + space = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-debris": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Debris = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-elevator": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Elevator = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-junk": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Junk = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-monkey": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Monkey = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-probe": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Probe = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-station": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Station = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-suit": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Suit = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-telescope": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Telescope = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+space-wrench": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Space Wrench = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+star": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Star = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+star-map": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Star Map = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+sun": {
-    "result": "space-junk",
-    "reasoning": "James Webb + sun = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+sunlight": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Sunlight = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+sunset": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Sunset = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
-  },
-  "james-webb+sunspot": {
-    "result": "space-junk",
-    "reasoning": "James Webb + Sunspot = Space Junk, orbiting Earth forever. There are 27,000 pieces tracked."
+  "galaxy+gravity": {
+    "result": "brown-dwarf",
+    "reasoning": "Brown dwarfs are substellar objects that have more mass than the biggest gas giant planets, but less than the least massive main-sequence stars. So when Galaxy meets Gravity, Brown Dwarf is the natural outcome."
   }
 }

@@ -1,27 +1,359 @@
 {
+  "aqueduct+arroyo": {
+    "result": "agi",
+    "reasoning": "Aqueduct and Arroyo both belong to the world of Place Name Disambiguation Pages — combine them for AGI."
+  },
+  "aqueduct+brook": {
+    "result": "agi",
+    "reasoning": "Both Aqueduct and Brook are rooted in Place Name Disambiguation Pages. Together they make AGI."
+  },
+  "aqueduct+delta": {
+    "result": "agi",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Aqueduct meets Delta to create AGI."
+  },
+  "aqueduct+grove": {
+    "result": "agi",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Aqueduct meets Grove to create AGI."
+  },
+  "arena+butte": {
+    "result": "dam",
+    "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. So when Arena meets Butte, Dam is the natural outcome."
+  },
+  "arena+floodplain": {
+    "result": "dam",
+    "reasoning": "Arena and Floodplain share a deep connection. A dam is a barrier that stops or restricts the flow of surface water or underground streams. Result: Dam."
+  },
+  "arena+lake": {
+    "result": "dam",
+    "reasoning": "Here's a real-world link: A dam is a barrier that stops or restricts the flow of surface water or underground streams. Combine Arena with Lake and you get Dam."
+  },
+  "arena+mountain": {
+    "result": "dam",
+    "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. That's the connection between Arena and mountain — giving us Dam."
+  },
+  "arena+peninsula": {
+    "result": "dam",
+    "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. That's the connection between Arena and Peninsula — giving us Dam."
+  },
+  "arena+plateau": {
+    "result": "dam",
+    "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. That's the connection between Arena and Plateau — giving us Dam."
+  },
+  "arena+rapids": {
+    "result": "dam",
+    "reasoning": "A dam is a barrier that stops or restricts the flow of surface water or underground streams. So when Arena meets Rapids, Dam is the natural outcome."
+  },
+  "arena+steppe": {
+    "result": "dam",
+    "reasoning": "Here's a real-world link: A dam is a barrier that stops or restricts the flow of surface water or underground streams. Combine Arena with Steppe and you get Dam."
+  },
+  "arroyo+asylum": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Asylum are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+media": {
+    "result": "arcade",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Arroyo meets media to create Arcade."
+  },
+  "arroyo+oscar": {
+    "result": "arcade",
+    "reasoning": "Both Arroyo and Oscar are rooted in Place Name Disambiguation Pages. Together they make Arcade."
+  },
+  "arroyo+outpost": {
+    "result": "arcade",
+    "reasoning": "Arroyo and Outpost both belong to the world of Place Name Disambiguation Pages — combine them for Arcade."
+  },
+  "artist+cape": {
+    "result": "clothing",
+    "reasoning": "Here's a real-world link: Clothing is any item worn on a human body. Combine Artist with Cape and you get Clothing."
+  },
+  "artist+dust": {
+    "result": "clothing",
+    "reasoning": "The science is clear — Clothing is any item worn on a human body. Mix Artist and Dust for Clothing."
+  },
+  "artist+earth": {
+    "result": "pottery",
+    "reasoning": "The earliest known decorative art involves fired clay vessels dating back 20,000 years in China — pottery made the abstract concept of artistic craft concrete by turning raw earth into functional beauty through the alchemy of heat."
+  },
+  "artist+lava": {
+    "result": "obsidian",
+    "reasoning": "Obsidian, the naturally occurring volcanic glass formed when lava cools rapidly, was prized by Mesoamerican and Mediterranean artists for its mirror-like polish and razor-sharp edges — Aztec sculptures and ancient Greek mirrors were both made from this volcanic canvas."
+  },
+  "artist+rain": {
+    "result": "watercolor",
+    "reasoning": "Watercolor emerged as the medium of choice for European landscape artists sketching outdoors in unpredictable weather, with Turner famously lashing himself to a ship's mast in storms to capture rain's luminous effects."
+  },
+  "artist+wind": {
+    "result": "landscape-painting",
+    "reasoning": "J.M.W. Turner famously had himself lashed to a ship's mast during a violent storm to experience the wind firsthand before painting 'Snow Storm: Steam-Boat off a Harbour's Mouth,' his greatest meteorological masterpiece."
+  },
+  "ash+forge": {
+    "result": "coal",
+    "reasoning": "Here's a real-world link: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Combine Ash with Forge and you get Coal."
+  },
+  "ash+plantation": {
+    "result": "charcoal",
+    "reasoning": "Ash and Plantation share a deep connection. Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Result: Charcoal."
+  },
+  "ash+quarry": {
+    "result": "coal",
+    "reasoning": "Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. So when Ash meets Quarry, Coal is the natural outcome."
+  },
+  "astronomer+boulder": {
+    "result": "geology",
+    "reasoning": "Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. That's the connection between Astronomer and Boulder — giving us Geology."
+  },
+  "astronomer+dust": {
+    "result": "comet",
+    "reasoning": "Wikipedia says: A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. That explains why Astronomer + Dust = Comet."
+  },
+  "astronomer+gravel": {
+    "result": "geology",
+    "reasoning": "Wikipedia says: Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. That explains why Astronomer + Gravel = Geology."
+  },
+  "astronomer+plateau": {
+    "result": "geology",
+    "reasoning": "The science is clear — Geology is a branch of natural science concerned with the Earth and other astronomical bodies, the rocks of which they are composed, and the processes by which they change over time. Mix Astronomer and Plateau for Geology."
+  },
+  "astronomer+stream": {
+    "result": "classification",
+    "reasoning": "Here's a real-world link: Classification is the activity of assigning objects to some pre-existing classes or categories. Combine Astronomer with stream and you get Classification."
+  },
+  "asylum+brook": {
+    "result": "arcade",
+    "reasoning": "Asylum and Brook both belong to the world of Place Name Disambiguation Pages — combine them for Arcade."
+  },
+  "asylum+delta": {
+    "result": "arroyo",
+    "reasoning": "Asylum and Delta share a deep connection. Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Result: Arroyo."
+  },
+  "asylum+grove": {
+    "result": "bark",
+    "reasoning": "The science is clear — Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals Mix Asylum and Grove for Bark."
+  },
+  "atoll+japan": {
+    "result": "archipelago",
+    "reasoning": "The science is clear — An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. Mix Atoll and Japan for Archipelago."
+  },
+  "attic+rain": {
+    "result": "mold",
+    "reasoning": "Attic mold is the most common household fungal infestation because the combination of heat trapped near the roof and moisture from rain infiltration or condensation on poorly insulated rafters creates ideal conditions for Stachybotrys and Cladosporium growth."
+  },
   "australia+reef": {
     "result": "great-barrier-reef",
     "reasoning": "Australia and Reef together shape Great Barrier Reef"
+  },
+  "avalanche+obelisk": {
+    "result": "concrete",
+    "reasoning": "Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That's the connection between Avalanche and Obelisk — giving us Concrete."
+  },
+  "badlands+granary": {
+    "result": "cave",
+    "reasoning": "The science is clear — Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. Mix Badlands and Granary for Cave."
+  },
+  "badlands+quarry": {
+    "result": "clay",
+    "reasoning": "Badlands and Quarry share a deep connection. Clay is a type of fine-grained natural soil material containing clay minerals. Result: Clay."
+  },
+  "ballroom+stalagmite": {
+    "result": "floor",
+    "reasoning": "Ballroom and Stalagmite share a deep connection. A floor is the bottom surface of a room or vehicle. Result: Floor."
+  },
+  "bay+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "Wikipedia says: An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. That explains why Bay + Great Barrier Reef = Atoll."
+  },
+  "bay+harbor": {
+    "result": "fjord",
+    "reasoning": "In physical geography, a fjord is a long, narrow sea inlet with steep sides or cliffs in a valley created by a former glacier, which has since become inundated with water. That's the connection between Bay and Harbor — giving us Fjord."
+  },
+  "bay+japan": {
+    "result": "archipelago",
+    "reasoning": "An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. That's the connection between Bay and Japan — giving us Archipelago."
+  },
+  "bay+reservoir": {
+    "result": "fjord",
+    "reasoning": "Wikipedia says: In physical geography, a fjord is a long, narrow sea inlet with steep sides or cliffs in a valley created by a former glacier, which has since become inundated with water. That explains why Bay + Reservoir = Fjord."
+  },
+  "beach+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "The science is clear — An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. Mix Beach and Great Barrier Reef for Atoll."
+  },
+  "beach+japan": {
+    "result": "archipelago",
+    "reasoning": "Beach and Japan share a deep connection. An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. Result: Archipelago."
   },
   "blizzard+reservoir": {
     "result": "ice",
     "reasoning": "Blizzard freezes Reservoir into Ice — water's solid form."
   },
+  "bog+canal": {
+    "result": "beaver",
+    "reasoning": "Beavers are large semiaquatic rodents of the Northern Hemisphere. So when Bog meets Canal, Beaver is the natural outcome."
+  },
+  "bog+grand-canyon": {
+    "result": "beaver",
+    "reasoning": "The science is clear — Beavers are large semiaquatic rodents of the Northern Hemisphere. Mix Bog and Grand Canyon for Beaver."
+  },
+  "boulder+japan": {
+    "result": "archipelago",
+    "reasoning": "An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. That's the connection between Boulder and Japan — giving us Archipelago."
+  },
+  "boulder+obelisk": {
+    "result": "greenhouse",
+    "reasoning": "Here's a real-world link: A greenhouse is a structure that is designed to regulate the temperature and humidity of the environment inside. Combine Boulder with Obelisk and you get Greenhouse."
+  },
+  "brewery+dust": {
+    "result": "enzyme",
+    "reasoning": "An enzyme is a biological macromolecule, usually a protein, that acts as a biological catalyst, accelerating chemical reactions without being consumed in the process. So when Brewery meets Dust, Enzyme is the natural outcome."
+  },
+  "brook+media": {
+    "result": "brace",
+    "reasoning": "Brook and media both belong to the world of Place Name Disambiguation Pages — combine them for Brace."
+  },
+  "brook+oscar": {
+    "result": "brace",
+    "reasoning": "Brook and Oscar both belong to the world of Place Name Disambiguation Pages — combine them for Brace."
+  },
+  "brook+outpost": {
+    "result": "brace",
+    "reasoning": "Brook and Outpost both belong to the world of Place Name Disambiguation Pages — combine them for Brace."
+  },
+  "bunker+grotto": {
+    "result": "bank-vault",
+    "reasoning": "The link between Bunker and Grotto? Basement. The result? Bank Vault."
+  },
+  "butte+courthouse": {
+    "result": "film",
+    "reasoning": "Through Film, Butte and Courthouse find common ground: Film."
+  },
+  "butte+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. That's the connection between Butte and Great Barrier Reef — giving us Atoll."
+  },
+  "butte+infrastructure": {
+    "result": "dam",
+    "reasoning": "Here's a real-world link: A dam is a barrier that stops or restricts the flow of surface water or underground streams. Combine Butte with Infrastructure and you get Dam."
+  },
+  "caldera+granary": {
+    "result": "cave",
+    "reasoning": "Wikipedia says: Caves and caverns are natural voids under the surface of the Earth and have been observed in other rocky worlds also. That explains why Caldera + Granary = Cave."
+  },
+  "caldera+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "The science is clear — An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. Mix Caldera and Great Barrier Reef for Atoll."
+  },
+  "caldera+harbor": {
+    "result": "china",
+    "reasoning": "China, officially the People's Republic of China (PRC), is a country in East Asia. So when Caldera meets Harbor, China is the natural outcome."
+  },
+  "caldera+japan": {
+    "result": "archipelago",
+    "reasoning": "The science is clear — An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. Mix Caldera and Japan for Archipelago."
+  },
+  "caldera+shipyard": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. That's the connection between Caldera and Shipyard — giving us Beach."
+  },
   "canada+waterfall": {
     "result": "niagara-falls",
     "reasoning": "Canada and Waterfall together shape Niagara Falls"
+  },
+  "canal+flood": {
+    "result": "beaver",
+    "reasoning": "Beavers are large semiaquatic rodents of the Northern Hemisphere. That's the connection between Canal and Flood — giving us Beaver."
+  },
+  "canal+muskeg": {
+    "result": "beaver",
+    "reasoning": "Beavers are large semiaquatic rodents of the Northern Hemisphere. So when Canal meets Muskeg, Beaver is the natural outcome."
+  },
+  "canal+taiga": {
+    "result": "beaver",
+    "reasoning": "Canal and Taiga share a deep connection. Beavers are large semiaquatic rodents of the Northern Hemisphere. Result: Beaver."
+  },
+  "canal+wetland": {
+    "result": "beaver",
+    "reasoning": "Beavers are large semiaquatic rodents of the Northern Hemisphere. That's the connection between Canal and Wetland — giving us Beaver."
   },
   "canyon+usa": {
     "result": "grand-canyon",
     "reasoning": "Canyon and USA together shape Grand Canyon"
   },
+  "cape+designer": {
+    "result": "clothing",
+    "reasoning": "Here's a real-world link: Clothing is any item worn on a human body. Combine Cape with Designer and you get Clothing."
+  },
+  "cape+society": {
+    "result": "clothing",
+    "reasoning": "Wikipedia says: Clothing is any item worn on a human body. That explains why Cape + society = Clothing."
+  },
+  "cape+tavern": {
+    "result": "clothing",
+    "reasoning": "Clothing is any item worn on a human body. So when Cape meets Tavern, Clothing is the natural outcome."
+  },
   "cave+shipyard": {
     "result": "stalagmite",
-    "reasoning": "Combine Cave with Shipyard to create Stalagmite."
+    "reasoning": "Here's the connection: A stalagmite \nis a type of rock formation that rises from the floor of a cave due to the accumulation of material deposited on the floor from ceiling drippings. So Cave + Shipyard = Stalagmite."
+  },
+  "cenote+citadel": {
+    "result": "bunker",
+    "reasoning": "Wikipedia says: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That explains why Cenote + Citadel = Bunker."
+  },
+  "cenote+drawbridge": {
+    "result": "bunker",
+    "reasoning": "A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That's the connection between Cenote and Drawbridge — giving us Bunker."
+  },
+  "cenote+gatehouse": {
+    "result": "bunker",
+    "reasoning": "The science is clear — A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Mix Cenote and Gatehouse for Bunker."
+  },
+  "cenote+keep": {
+    "result": "bunker",
+    "reasoning": "Wikipedia says: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That explains why Cenote + Keep = Bunker."
+  },
+  "cenote+moat": {
+    "result": "bunker",
+    "reasoning": "Wikipedia says: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That explains why Cenote + Moat = Bunker."
+  },
+  "cenote+stockade": {
+    "result": "bunker",
+    "reasoning": "Cenote and Stockade share a deep connection. A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Result: Bunker."
+  },
+  "cenote+watchtower": {
+    "result": "bunker",
+    "reasoning": "Here's a real-world link: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Combine Cenote with Watchtower and you get Bunker."
+  },
+  "chapel+grotto": {
+    "result": "crypt",
+    "reasoning": "Chapel and Grotto share a deep connection. A crypt is a stone chamber beneath the floor of a church, above ground within a cemetery’s mausoleum or a free-standing outdoor memorial tomb. Result: Crypt."
+  },
+  "chef+fire": {
+    "result": "cooking",
+    "reasoning": "Chef and Fire share a deep connection. Cooking, also known as cookery, is the art, science and craft of using heat to make food more palatable, digestible, nutritious, or safe. Result: Cooking."
+  },
+  "citadel+grotto": {
+    "result": "canada",
+    "reasoning": "Canada is a country in North America. So when Citadel meets Grotto, Canada is the natural outcome."
+  },
+  "citadel+karst": {
+    "result": "bunker",
+    "reasoning": "Wikipedia says: A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. That explains why Citadel + Karst = Bunker."
+  },
+  "citadel+sinkhole": {
+    "result": "bunker",
+    "reasoning": "Citadel and Sinkhole share a deep connection. A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Result: Bunker."
   },
   "citadel+water": {
     "result": "moat",
-    "reasoning": "Combine Citadel with Water to create Moat."
+    "reasoning": "A moat is a deep, broad ditch dug around a castle, fortification, building, or town, historically to provide it with a preliminary line of defence. Combine Citadel with Water and you naturally get Moat."
+  },
+  "city+hail": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when city meets Hail, Airport is the natural outcome."
+  },
+  "city+land": {
+    "result": "airplane",
+    "reasoning": "Here's a real-world link: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Combine city with land and you get Airplane."
   },
   "city+ocean": {
     "result": "port",
@@ -29,11 +361,39 @@
   },
   "city+smoke": {
     "result": "pollution",
-    "reasoning": "city and Smoke explain the phenomenon of Pollution"
+    "reasoning": "Pollution is the introduction of contaminants into the natural environment that cause harm. Combine city with Smoke and you naturally get Pollution."
   },
   "city+water": {
     "result": "canal",
-    "reasoning": "Combine City with Water to create Canal."
+    "reasoning": "city and Water together? Canals or artificial waterways are waterways or engineered channels built for drainage management or for conveyancing water transport vehicles. The result: Canal."
+  },
+  "civilization+drought": {
+    "result": "china",
+    "reasoning": "Civilization and Drought share a deep connection. China, officially the People's Republic of China (PRC), is a country in East Asia. Result: China."
+  },
+  "civilization+island": {
+    "result": "climate-change",
+    "reasoning": "Present-day climate change includes both global warming—the ongoing increase in global average temperature—and its wider effects on Earth's climate system. That's the connection between Civilization and Island — giving us Climate Change."
+  },
+  "clay+forge": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Clay and Forge — giving us Ceramic."
+  },
+  "cliff+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. That's the connection between Cliff and Great Barrier Reef — giving us Atoll."
+  },
+  "cliff+japan": {
+    "result": "archipelago",
+    "reasoning": "Wikipedia says: An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. That explains why Cliff + Japan = Archipelago."
+  },
+  "cliff+quarry": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Cliff meets Quarry, Chalk is the natural outcome."
+  },
+  "cloud+scientist": {
+    "result": "calculus",
+    "reasoning": "The science is clear — Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. Mix Cloud and Scientist for Calculus."
   },
   "cold+nation": {
     "result": "russia",
@@ -43,49 +403,29 @@
     "result": "ice",
     "reasoning": "Cold freezes Reservoir into Ice — water's solid form."
   },
+  "community+marsh": {
+    "result": "ecology",
+    "reasoning": "Wikipedia says: Ecology is the natural science of the relationships among living organisms and their environment. That explains why Community + Marsh = Ecology."
+  },
   "continent+democracy": {
     "result": "usa",
     "reasoning": "continent and Democracy together shape USA"
+  },
+  "courtyard+grotto": {
+    "result": "fountain",
+    "reasoning": "A fountain, from the Latin \"fons\", meaning source or spring, is a decorative reservoir used for discharging water. That's the connection between Courtyard and Grotto — giving us Fountain."
+  },
+  "courtyard+stalagmite": {
+    "result": "floor",
+    "reasoning": "The science is clear — A floor is the bottom surface of a room or vehicle. Mix Courtyard and Stalagmite for Floor."
   },
   "crater+credit-card": {
     "result": "national-park",
     "reasoning": "Crater + Credit Card = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+crusader": {
-    "result": "national-park",
-    "reasoning": "Crater + Crusader = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+crypt": {
-    "result": "national-park",
-    "reasoning": "Crater + Crypt = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+culture": {
-    "result": "national-park",
-    "reasoning": "Crater + Culture = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+customs": {
-    "result": "national-park",
-    "reasoning": "Crater + Customs = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+czar": {
-    "result": "national-park",
-    "reasoning": "Crater + Czar = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+debt": {
-    "result": "national-park",
-    "reasoning": "Crater + Debt = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+degree": {
-    "result": "national-park",
-    "reasoning": "Crater + Degree = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+democracy": {
     "result": "national-park",
     "reasoning": "Crater + Democracy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+designer": {
-    "result": "national-park",
-    "reasoning": "Crater + Designer = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+developer": {
     "result": "national-park",
@@ -95,89 +435,21 @@
     "result": "national-park",
     "reasoning": "Crater + Diplomacy = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+director": {
-    "result": "national-park",
-    "reasoning": "Crater + Director = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+doctor": {
-    "result": "national-park",
-    "reasoning": "Crater + Doctor = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+drawbridge": {
     "result": "national-park",
     "reasoning": "Crater + Drawbridge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+egypt": {
-    "result": "national-park",
-    "reasoning": "Crater + Egypt = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+eiffel-tower": {
     "result": "national-park",
     "reasoning": "Crater + Eiffel Tower = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+embassy": {
-    "result": "national-park",
-    "reasoning": "Crater + Embassy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+empire": {
-    "result": "national-park",
-    "reasoning": "Crater + Empire = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+engineer": {
-    "result": "national-park",
-    "reasoning": "Crater + Engineer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+europe": {
-    "result": "national-park",
-    "reasoning": "Crater + europe = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+exam": {
-    "result": "national-park",
-    "reasoning": "Crater + Exam = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+farmer": {
-    "result": "national-park",
-    "reasoning": "Crater + Farmer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+festival": {
-    "result": "national-park",
-    "reasoning": "Crater + Festival = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+feudalism": {
     "result": "national-park",
     "reasoning": "Crater + Feudalism = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+flag": {
-    "result": "national-park",
-    "reasoning": "Crater + Flag = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+forge": {
-    "result": "national-park",
-    "reasoning": "Crater + Forge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+foundry": {
-    "result": "national-park",
-    "reasoning": "Crater + Foundry = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+france": {
-    "result": "national-park",
-    "reasoning": "Crater + France = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+freedom": {
-    "result": "national-park",
-    "reasoning": "Crater + freedom = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+garrison": {
-    "result": "national-park",
-    "reasoning": "Crater + Garrison = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+gatehouse": {
     "result": "national-park",
     "reasoning": "Crater + Gatehouse = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+germany": {
-    "result": "national-park",
-    "reasoning": "Crater + Germany = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+gladiator": {
     "result": "national-park",
@@ -186,14 +458,6 @@
   "crater+government": {
     "result": "national-park",
     "reasoning": "Crater + government = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+grammy": {
-    "result": "national-park",
-    "reasoning": "Crater + Grammy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+granary": {
-    "result": "national-park",
-    "reasoning": "Crater + Granary = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+grand-canyon": {
     "result": "national-park",
@@ -207,22 +471,6 @@
     "result": "national-park",
     "reasoning": "Crater + Great Wall = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+guild": {
-    "result": "national-park",
-    "reasoning": "Crater + Guild = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+harbor": {
-    "result": "national-park",
-    "reasoning": "Crater + Harbor = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+homework": {
-    "result": "national-park",
-    "reasoning": "Crater + Homework = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+india": {
-    "result": "national-park",
-    "reasoning": "Crater + India = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+industrial-revolution": {
     "result": "national-park",
     "reasoning": "Crater + Industrial Revolution = a National Park. Humanity's best idea: protecting nature from... humanity."
@@ -234,10 +482,6 @@
   "crater+infrastructure": {
     "result": "national-park",
     "reasoning": "Crater + Infrastructure = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+inn": {
-    "result": "national-park",
-    "reasoning": "Crater + Inn = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+inquisition": {
     "result": "national-park",
@@ -251,57 +495,13 @@
     "result": "national-park",
     "reasoning": "Crater + Investment = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+italy": {
-    "result": "national-park",
-    "reasoning": "Crater + Italy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+japan": {
-    "result": "national-park",
-    "reasoning": "Crater + Japan = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+journalist": {
     "result": "national-park",
     "reasoning": "Crater + Journalist = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+judge": {
-    "result": "national-park",
-    "reasoning": "Crater + Judge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+jury": {
-    "result": "national-park",
-    "reasoning": "Crater + Jury = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+justice": {
-    "result": "national-park",
-    "reasoning": "Crater + Justice = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+kaiser": {
-    "result": "national-park",
-    "reasoning": "Crater + Kaiser = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+keep": {
-    "result": "national-park",
-    "reasoning": "Crater + Keep = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+korea": {
-    "result": "national-park",
-    "reasoning": "Crater + Korea = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+law": {
-    "result": "national-park",
-    "reasoning": "Crater + law = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+lawyer": {
-    "result": "national-park",
-    "reasoning": "Crater + Lawyer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+legionnaire": {
     "result": "national-park",
     "reasoning": "Crater + Legionnaire = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+loan": {
-    "result": "national-park",
-    "reasoning": "Crater + Loan = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+machu-picchu": {
     "result": "national-park",
@@ -311,61 +511,21 @@
     "result": "national-park",
     "reasoning": "Crater + Magna Carta = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+market": {
-    "result": "national-park",
-    "reasoning": "Crater + Market = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+marketing": {
     "result": "national-park",
     "reasoning": "Crater + Marketing = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+media": {
-    "result": "national-park",
-    "reasoning": "Crater + media = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+mexico": {
-    "result": "national-park",
-    "reasoning": "Crater + Mexico = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+mint": {
-    "result": "national-park",
-    "reasoning": "Crater + Mint = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+moat": {
-    "result": "national-park",
-    "reasoning": "Crater + Moat = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+monarchy": {
-    "result": "national-park",
-    "reasoning": "Crater + Monarchy = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+monastery": {
     "result": "national-park",
     "reasoning": "Crater + Monastery = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+money": {
-    "result": "national-park",
-    "reasoning": "Crater + money = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+mortuary": {
-    "result": "national-park",
-    "reasoning": "Crater + Mortuary = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+mount-everest": {
     "result": "national-park",
     "reasoning": "Crater + Mount Everest = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+musician": {
-    "result": "national-park",
-    "reasoning": "Crater + Musician = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+musketeer": {
     "result": "national-park",
     "reasoning": "Crater + Musketeer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+nation": {
-    "result": "national-park",
-    "reasoning": "Crater + Nation = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+niagara-falls": {
     "result": "national-park",
@@ -375,14 +535,6 @@
     "result": "national-park",
     "reasoning": "Crater + Nobel Prize = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+nurse": {
-    "result": "national-park",
-    "reasoning": "Crater + Nurse = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+obelisk": {
-    "result": "national-park",
-    "reasoning": "Crater + Obelisk = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+olympic-games": {
     "result": "national-park",
     "reasoning": "Crater + Olympic Games = a National Park. Humanity's best idea: protecting nature from... humanity."
@@ -391,53 +543,17 @@
     "result": "national-park",
     "reasoning": "Crater + Orphanage = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+oscar": {
-    "result": "national-park",
-    "reasoning": "Crater + Oscar = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+ottoman": {
-    "result": "national-park",
-    "reasoning": "Crater + Ottoman = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+outpost": {
-    "result": "national-park",
-    "reasoning": "Crater + Outpost = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+pagoda": {
-    "result": "national-park",
-    "reasoning": "Crater + Pagoda = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+palace": {
-    "result": "national-park",
-    "reasoning": "Crater + Palace = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+parliament": {
     "result": "national-park",
     "reasoning": "Crater + Parliament = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+peace": {
-    "result": "national-park",
-    "reasoning": "Crater + Peace = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+pest-control": {
     "result": "national-park",
     "reasoning": "Crater + Pest Control = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+pharaoh": {
-    "result": "national-park",
-    "reasoning": "Crater + pharaoh = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+philosopher": {
     "result": "national-park",
     "reasoning": "Crater + Philosopher = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+pier": {
-    "result": "national-park",
-    "reasoning": "Crater + Pier = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+pilot": {
-    "result": "national-park",
-    "reasoning": "Crater + Pilot = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+pirate-captain": {
     "result": "national-park",
@@ -447,21 +563,9 @@
     "result": "national-park",
     "reasoning": "Crater + Plantation = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+police": {
-    "result": "national-park",
-    "reasoning": "Crater + Police = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+poverty": {
-    "result": "national-park",
-    "reasoning": "Crater + Poverty = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+professor": {
     "result": "national-park",
     "reasoning": "Crater + Professor = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+profit": {
-    "result": "national-park",
-    "reasoning": "Crater + Profit = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+programmer": {
     "result": "national-park",
@@ -479,21 +583,9 @@
     "result": "national-park",
     "reasoning": "Crater + Pyramids of Giza = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+quarry": {
-    "result": "national-park",
-    "reasoning": "Crater + Quarry = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+red-tape": {
-    "result": "national-park",
-    "reasoning": "Crater + Red Tape = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+reformation": {
     "result": "national-park",
     "reasoning": "Crater + Reformation = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+republic": {
-    "result": "national-park",
-    "reasoning": "Crater + Republic = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+reservoir": {
     "result": "national-park",
@@ -503,33 +595,9 @@
     "result": "national-park",
     "reasoning": "Crater + Revolution = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+ritual": {
-    "result": "national-park",
-    "reasoning": "Crater + Ritual = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+russia": {
-    "result": "national-park",
-    "reasoning": "Crater + Russia = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+sawmill": {
-    "result": "national-park",
-    "reasoning": "Crater + Sawmill = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+scientist": {
     "result": "national-park",
     "reasoning": "Crater + Scientist = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+shipyard": {
-    "result": "national-park",
-    "reasoning": "Crater + Shipyard = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+shogun": {
-    "result": "national-park",
-    "reasoning": "Crater + Shogun = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+siege": {
-    "result": "national-park",
-    "reasoning": "Crater + Siege = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+silk-road": {
     "result": "national-park",
@@ -539,53 +607,17 @@
     "result": "national-park",
     "reasoning": "Crater + Smart City = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+smithy": {
-    "result": "national-park",
-    "reasoning": "Crater + Smithy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+society": {
-    "result": "national-park",
-    "reasoning": "Crater + society = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+space-race": {
     "result": "national-park",
     "reasoning": "Crater + Space Race = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+spartan": {
-    "result": "national-park",
-    "reasoning": "Crater + Spartan = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+stable": {
-    "result": "national-park",
-    "reasoning": "Crater + Stable = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+startup": {
-    "result": "national-park",
-    "reasoning": "Crater + Startup = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+statue-of-liberty": {
     "result": "national-park",
     "reasoning": "Crater + Statue of Liberty = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+stock": {
-    "result": "national-park",
-    "reasoning": "Crater + Stock = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+stockade": {
-    "result": "national-park",
-    "reasoning": "Crater + Stockade = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+stonehenge": {
     "result": "national-park",
     "reasoning": "Crater + Stonehenge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+student": {
-    "result": "national-park",
-    "reasoning": "Crater + Student = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+sweden": {
-    "result": "national-park",
-    "reasoning": "Crater + Sweden = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+switzerland": {
     "result": "national-park",
@@ -595,217 +627,65 @@
     "result": "national-park",
     "reasoning": "Crater + Taj Mahal = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+tannery": {
-    "result": "national-park",
-    "reasoning": "Crater + Tannery = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+tavern": {
-    "result": "national-park",
-    "reasoning": "Crater + Tavern = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+tax": {
-    "result": "national-park",
-    "reasoning": "Crater + Tax = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+teacher": {
-    "result": "national-park",
-    "reasoning": "Crater + Teacher = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+templar": {
-    "result": "national-park",
-    "reasoning": "Crater + Templar = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+toll-booth": {
     "result": "national-park",
     "reasoning": "Crater + Toll Booth = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+town": {
-    "result": "national-park",
-    "reasoning": "Crater + Town = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+trade": {
-    "result": "national-park",
-    "reasoning": "Crater + trade = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+tradition": {
     "result": "national-park",
     "reasoning": "Crater + Tradition = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+treasury": {
-    "result": "national-park",
-    "reasoning": "Crater + Treasury = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+treaty": {
-    "result": "national-park",
-    "reasoning": "Crater + Treaty = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+tribune": {
-    "result": "national-park",
-    "reasoning": "Crater + Tribune = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+trojan-horse": {
     "result": "national-park",
     "reasoning": "Crater + Trojan Horse = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+turret": {
-    "result": "national-park",
-    "reasoning": "Crater + Turret = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+uk": {
-    "result": "national-park",
-    "reasoning": "Crater + UK = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+usa": {
-    "result": "national-park",
-    "reasoning": "Crater + USA = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+viking": {
-    "result": "national-park",
-    "reasoning": "Crater + Viking = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+village": {
-    "result": "national-park",
-    "reasoning": "Crater + Village = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+vineyard": {
-    "result": "national-park",
-    "reasoning": "Crater + Vineyard = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+vote": {
-    "result": "national-park",
-    "reasoning": "Crater + vote = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+war": {
-    "result": "national-park",
-    "reasoning": "Crater + War = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "crater+watchtower": {
     "result": "national-park",
     "reasoning": "Crater + Watchtower = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "crater+wealth": {
-    "result": "national-park",
-    "reasoning": "Crater + Wealth = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+windmill": {
-    "result": "national-park",
-    "reasoning": "Crater + Windmill = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "crater+workshop": {
-    "result": "national-park",
-    "reasoning": "Crater + Workshop = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "crater+world-cup": {
     "result": "national-park",
     "reasoning": "Crater + World Cup = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "crypt+grotto": {
+    "result": "bank-vault",
+    "reasoning": "The link between Crypt and Grotto? Bank Vault. The result? Bank Vault."
+  },
+  "culture+energy": {
+    "result": "education",
+    "reasoning": "Wikipedia says: Education is the transmission of knowledge and skills and the development of character traits. That explains why Culture + Energy = Education."
+  },
+  "debt+snow": {
+    "result": "avalanche",
+    "reasoning": "The 'debt avalanche' repayment method takes its name from the way compound interest causes small debts to cascade into crushing financial burdens, just as a small snow disturbance can trigger a mountain of accumulated snow to collapse."
+  },
+  "delta+doctor": {
+    "result": "brownie",
+    "reasoning": "In the realm of Disambiguation Pages With Given Name Holder Lists, Delta meets Doctor to create Brownie."
+  },
+  "delta+media": {
+    "result": "clone",
+    "reasoning": "Delta and media both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
+  },
+  "delta+oscar": {
+    "result": "clone",
+    "reasoning": "Both Delta and Oscar are rooted in Place Name Disambiguation Pages. Together they make Clone."
+  },
+  "delta+outpost": {
+    "result": "clone",
+    "reasoning": "Delta and Outpost both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
   },
   "desert+trade": {
     "result": "silk-road",
     "reasoning": "Desert and trade together shape Silk Road"
   },
-  "dew+diplomacy": {
-    "result": "national-park",
-    "reasoning": "Dew + Diplomacy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+director": {
-    "result": "national-park",
-    "reasoning": "Dew + Director = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+doctor": {
-    "result": "national-park",
-    "reasoning": "Dew + Doctor = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+drawbridge": {
-    "result": "national-park",
-    "reasoning": "Dew + Drawbridge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+egypt": {
-    "result": "national-park",
-    "reasoning": "Dew + Egypt = a National Park. Humanity's best idea: protecting nature from... humanity."
+  "designer+dust": {
+    "result": "clothing",
+    "reasoning": "Designer and Dust share a deep connection. Clothing is any item worn on a human body. Result: Clothing."
   },
   "dew+eiffel-tower": {
     "result": "national-park",
     "reasoning": "Dew + Eiffel Tower = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+embassy": {
-    "result": "national-park",
-    "reasoning": "Dew + Embassy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+empire": {
-    "result": "national-park",
-    "reasoning": "Dew + Empire = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+engineer": {
-    "result": "national-park",
-    "reasoning": "Dew + Engineer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+europe": {
-    "result": "national-park",
-    "reasoning": "Dew + europe = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+exam": {
-    "result": "national-park",
-    "reasoning": "Dew + Exam = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+farmer": {
-    "result": "national-park",
-    "reasoning": "Dew + Farmer = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+festival": {
-    "result": "national-park",
-    "reasoning": "Dew + Festival = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+feudalism": {
-    "result": "national-park",
-    "reasoning": "Dew + Feudalism = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+flag": {
-    "result": "national-park",
-    "reasoning": "Dew + Flag = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+forge": {
-    "result": "national-park",
-    "reasoning": "Dew + Forge = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+foundry": {
-    "result": "national-park",
-    "reasoning": "Dew + Foundry = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+france": {
-    "result": "national-park",
-    "reasoning": "Dew + France = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+freedom": {
-    "result": "national-park",
-    "reasoning": "Dew + freedom = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+garrison": {
-    "result": "national-park",
-    "reasoning": "Dew + Garrison = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+gatehouse": {
-    "result": "national-park",
-    "reasoning": "Dew + Gatehouse = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+germany": {
-    "result": "national-park",
-    "reasoning": "Dew + Germany = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+gladiator": {
-    "result": "national-park",
-    "reasoning": "Dew + Gladiator = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+government": {
-    "result": "national-park",
-    "reasoning": "Dew + government = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+grammy": {
-    "result": "national-park",
-    "reasoning": "Dew + Grammy = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+granary": {
-    "result": "national-park",
-    "reasoning": "Dew + Granary = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "dew+grand-canyon": {
     "result": "national-park",
@@ -815,68 +695,188 @@
     "result": "national-park",
     "reasoning": "Dew + Great Barrier Reef = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+great-wall": {
-    "result": "national-park",
-    "reasoning": "Dew + Great Wall = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+guild": {
-    "result": "national-park",
-    "reasoning": "Dew + Guild = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+harbor": {
-    "result": "national-park",
-    "reasoning": "Dew + Harbor = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+homework": {
-    "result": "national-park",
-    "reasoning": "Dew + Homework = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+india": {
-    "result": "national-park",
-    "reasoning": "Dew + India = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
   "dew+industrial-revolution": {
     "result": "national-park",
     "reasoning": "Dew + Industrial Revolution = a National Park. Humanity's best idea: protecting nature from... humanity."
-  },
-  "dew+infirmary": {
-    "result": "national-park",
-    "reasoning": "Dew + Infirmary = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
   "dew+infrastructure": {
     "result": "national-park",
     "reasoning": "Dew + Infrastructure = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+inn": {
+  "dew+machu-picchu": {
     "result": "national-park",
-    "reasoning": "Dew + Inn = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Machu Picchu = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+inquisition": {
+  "dew+mount-everest": {
     "result": "national-park",
-    "reasoning": "Dew + Inquisition = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Mount Everest = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+insurance": {
+  "dew+niagara-falls": {
     "result": "national-park",
-    "reasoning": "Dew + Insurance = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Niagara Falls = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+investment": {
+  "dew+olympic-games": {
     "result": "national-park",
-    "reasoning": "Dew + Investment = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Olympic Games = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+italy": {
+  "dew+pest-control": {
     "result": "national-park",
-    "reasoning": "Dew + Italy = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Pest Control = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+japan": {
+  "dew+pirate-captain": {
     "result": "national-park",
-    "reasoning": "Dew + Japan = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Pirate Captain = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+journalist": {
+  "dew+public-holiday": {
     "result": "national-park",
-    "reasoning": "Dew + Journalist = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Public Holiday = a National Park. Humanity's best idea: protecting nature from... humanity."
   },
-  "dew+judge": {
+  "dew+pyramids-of-giza": {
     "result": "national-park",
-    "reasoning": "Dew + Judge = a National Park. Humanity's best idea: protecting nature from... humanity."
+    "reasoning": "Dew + Pyramids of Giza = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "dew+statue-of-liberty": {
+    "result": "national-park",
+    "reasoning": "Dew + Statue of Liberty = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "dew+trojan-horse": {
+    "result": "national-park",
+    "reasoning": "Dew + Trojan Horse = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "drawbridge+grotto": {
+    "result": "bunker",
+    "reasoning": "The science is clear — A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Mix Drawbridge and Grotto for Bunker."
+  },
+  "drawbridge+karst": {
+    "result": "bunker",
+    "reasoning": "Drawbridge and Karst share a deep connection. A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Result: Bunker."
+  },
+  "drawbridge+sinkhole": {
+    "result": "bunker",
+    "reasoning": "Drawbridge and Sinkhole share a deep connection. A bunker is a defensive fortification designed to protect people and valued materials from falling bombs, artillery, or other attacks. Result: Bunker."
+  },
+  "dune+japan": {
+    "result": "archipelago",
+    "reasoning": "The science is clear — An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. Mix Dune and Japan for Archipelago."
+  },
+  "dust+society": {
+    "result": "clothing",
+    "reasoning": "Here's a real-world link: Clothing is any item worn on a human body. Combine Dust with society and you get Clothing."
+  },
+  "dust+tavern": {
+    "result": "clothing",
+    "reasoning": "Clothing is any item worn on a human body. That's the connection between Dust and Tavern — giving us Clothing."
+  },
+  "earth+engineer": {
+    "result": "geothermal",
+    "reasoning": "Icelandic engineers in the 1930s were the first to systematically harness Earth's internal heat for district heating, drilling into geothermal reservoirs to pipe hot water directly into Reykjavik homes."
+  },
+  "egypt+stone": {
+    "result": "obelisk",
+    "reasoning": "An obelisk, less often spelled obelisque, is a tall, slender, tapered monument with four sides and a pyramidal or pyramidion top. Combine Egypt with Stone and you naturally get Obelisk."
+  },
+  "energy+government": {
+    "result": "culture",
+    "reasoning": "Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. So when Energy meets government, Culture is the natural outcome."
+  },
+  "energy+law": {
+    "result": "culture",
+    "reasoning": "Energy and law share a deep connection. Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. Result: Culture."
+  },
+  "energy+scientist": {
+    "result": "calculus",
+    "reasoning": "The science is clear — Calculus is the mathematical study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalizations of arithmetic operations. Mix Energy and Scientist for Calculus."
+  },
+  "energy+society": {
+    "result": "culture",
+    "reasoning": "Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. That's the connection between Energy and society — giving us Culture."
+  },
+  "engineer+lava": {
+    "result": "geothermal",
+    "reasoning": "Iceland's engineers tap directly into volcanic lava fields through geothermal wells, generating 90% of the country's heating from magma chambers as shallow as 2 km below the surface—the most direct engineering use of Earth's internal heat."
+  },
+  "engineer+rainforest": {
+    "result": "bauxite",
+    "reasoning": "Engineer and Rainforest share a deep connection. Bauxite is a sedimentary rock with a relatively high aluminium content. Result: Bauxite."
+  },
+  "engineer+wind": {
+    "result": "wind-turbine",
+    "reasoning": "Modern wind turbine engineering requires solving one of the most complex problems in fluid dynamics—the Betz limit—which states that no turbine can extract more than 59.3% of the kinetic energy from wind, a constraint that shapes every blade design."
+  },
+  "erosion+quarry": {
+    "result": "chalk",
+    "reasoning": "Erosion and Quarry share a deep connection. Chalk is a soft, white, porous, sedimentary carbonate rock. Result: Chalk."
+  },
+  "estuary+great-barrier-reef": {
+    "result": "atoll",
+    "reasoning": "An atoll is a ring-shaped island, including a coral rim that encircles a lagoon. That's the connection between Estuary and Great Barrier Reef — giving us Atoll."
+  },
+  "estuary+harbor": {
+    "result": "fjord",
+    "reasoning": "The science is clear — In physical geography, a fjord is a long, narrow sea inlet with steep sides or cliffs in a valley created by a former glacier, which has since become inundated with water. Mix Estuary and Harbor for Fjord."
+  },
+  "estuary+japan": {
+    "result": "archipelago",
+    "reasoning": "An archipelago, sometimes called an island group or island chain, is a chain, cluster, or collection of islands. That's the connection between Estuary and Japan — giving us Archipelago."
+  },
+  "estuary+reservoir": {
+    "result": "fjord",
+    "reasoning": "Here's a real-world link: In physical geography, a fjord is a long, narrow sea inlet with steep sides or cliffs in a valley created by a former glacier, which has since become inundated with water. Combine Estuary with Reservoir and you get Fjord."
+  },
+  "evergreen+festival": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Festival = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+freedom": {
+    "result": "national-park",
+    "reasoning": "Evergreen + freedom = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+gatehouse": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Gatehouse = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+gladiator": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Gladiator = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+homework": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Homework = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+insurance": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Insurance = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+lawyer": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Lawyer = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+nobel-prize": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Nobel Prize = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+pirate-captain": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Pirate Captain = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+reformation": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Reformation = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+reservoir": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Reservoir = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+stonehenge": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Stonehenge = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+switzerland": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Switzerland = a National Park. Humanity's best idea: protecting nature from... humanity."
+  },
+  "evergreen+trojan-horse": {
+    "result": "national-park",
+    "reasoning": "Evergreen + Trojan Horse = a National Park. Humanity's best idea: protecting nature from... humanity."
   }
 }

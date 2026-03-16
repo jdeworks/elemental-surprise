@@ -1,15 +1,419 @@
 {
-  "glove+saas": {
-    "result": "viral-video",
-    "reasoning": "Glove + SaaS = a Viral Video. 10 million views and counting."
+  "electricity+violin": {
+    "result": "synthesizer",
+    "reasoning": "Electricity creating Violin — a Synthesizer. Music was never the same."
   },
-  "glove+screen": {
-    "result": "viral-video",
-    "reasoning": "Glove + screen = a Viral Video. 10 million views and counting."
+  "electrode+etching": {
+    "result": "electrolysis",
+    "reasoning": "In chemistry and manufacturing, electrolysis is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous biological and physical reaction. That's the connection between Electrode and Etching — giving us Electrolysis."
   },
-  "glove+scuba": {
+  "electronics+guitar": {
+    "result": "amplifier",
+    "reasoning": "The science is clear — An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Mix Electronics and Guitar for Amplifier."
+  },
+  "electronics+light": {
+    "result": "led",
+    "reasoning": "Here's the connection: A light-emitting diode (LED) is an electronic component that uses a semiconductor to emit light when current flows through it. So Electronics + light = LED."
+  },
+  "electronics+sound": {
+    "result": "microphone",
+    "reasoning": "Here's the connection: A microphone, colloquially called a mic, or mike, is a transducer that converts sound into an electrical signal. So Electronics + sound = Microphone."
+  },
+  "email+factory": {
+    "result": "corporation",
+    "reasoning": "Here's a real-world link: A corporation or body corporate is an individual or group, such as an association or company, that has been authorized by the state to act as a single entity and recognized as such in law for certain purposes. Combine Email with Factory and you get Corporation."
+  },
+  "email+playstation": {
+    "result": "blog",
+    "reasoning": "A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. So when Email meets PlayStation, blog is the natural outcome."
+  },
+  "encryption+game": {
+    "result": "algorithm",
+    "reasoning": "In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. So when Encryption meets Game, Algorithm is the natural outcome."
+  },
+  "encryption+puzzle": {
+    "result": "cipher",
+    "reasoning": "In cryptography, a cipher is an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure. That's the connection between Encryption and Puzzle — giving us Cipher."
+  },
+  "encryption+sony": {
+    "result": "bluetooth",
+    "reasoning": "Here's a real-world link: Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). Combine Encryption with Sony and you get Bluetooth."
+  },
+  "entertainment+phonograph": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between entertainment and Phonograph — giving us Amplifier."
+  },
+  "entertainment+synthesizer": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between entertainment and Synthesizer — giving us Amplifier."
+  },
+  "entertainment+television": {
+    "result": "acrobatics",
+    "reasoning": "Acrobatics is the performance of human feats of balance, agility, and motor coordination. That's the connection between entertainment and Television — giving us Acrobatics."
+  },
+  "escalator+hospital": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. That's the connection between Escalator and Hospital — giving us Airport."
+  },
+  "escalator+park": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. That's the connection between Escalator and Park — giving us Airport."
+  },
+  "escalator+port": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when Escalator meets Port, Airport is the natural outcome."
+  },
+  "escalator+skateboard": {
+    "result": "coca-cola",
+    "reasoning": "Wikipedia says: Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. That explains why Escalator + Skateboard = Coca Cola."
+  },
+  "escalator+stadium": {
+    "result": "arena",
+    "reasoning": "An arena is a large enclosed venue, often circular or oval-shaped, designed to showcase theatre, musical performances or sporting events. So when Escalator meets Stadium, Arena is the natural outcome."
+  },
+  "escalator+sunglasses": {
+    "result": "coca-cola",
+    "reasoning": "Escalator and Sunglasses share a deep connection. Coca-Cola, or Coke, is a cola soft drink manufactured by the Coca-Cola Company. Result: Coca Cola."
+  },
+  "escalator+tent": {
+    "result": "arena",
+    "reasoning": "Escalator and Tent share a deep connection. An arena is a large enclosed venue, often circular or oval-shaped, designed to showcase theatre, musical performances or sporting events. Result: Arena."
+  },
+  "escalator+tunnel": {
+    "result": "arena",
+    "reasoning": "Here's a real-world link: An arena is a large enclosed venue, often circular or oval-shaped, designed to showcase theatre, musical performances or sporting events. Combine Escalator with Tunnel and you get Arena."
+  },
+  "esports+streaming": {
+    "result": "twitch",
+    "reasoning": "Esports and Streaming create Twitch"
+  },
+  "etching+mail": {
+    "result": "calligraphy",
+    "reasoning": "Here's a real-world link: Calligraphy is fine handwriting taken to the level of visual art. Combine Etching with Mail and you get Calligraphy."
+  },
+  "etching+pattern": {
+    "result": "carpet",
+    "reasoning": "A carpet or rug is a textile floor covering that typically consists of an upper layer of pile attached to a backing. So when Etching meets pattern, Carpet is the natural outcome."
+  },
+  "etching+voltage": {
+    "result": "electrolysis",
+    "reasoning": "The science is clear — In chemistry and manufacturing, electrolysis is a technique that uses direct electric current (DC) to drive an otherwise non-spontaneous biological and physical reaction. Mix Etching and Voltage for Electrolysis."
+  },
+  "ethernet+lego": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Ethernet and Lego — giving us Bluetooth."
+  },
+  "ethernet+playstation": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Ethernet and PlayStation — giving us Bluetooth."
+  },
+  "ethernet+skateboard": {
+    "result": "compiler",
+    "reasoning": "Here's a real-world link: In computing, a compiler is software that translates computer code written in one programming language into another language. Combine Ethernet with Skateboard and you get Compiler."
+  },
+  "ethernet+sony": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Ethernet and Sony — giving us Bluetooth."
+  },
+  "ethernet+sunglasses": {
+    "result": "compiler",
+    "reasoning": "The science is clear — In computing, a compiler is software that translates computer code written in one programming language into another language. Mix Ethernet and Sunglasses for Compiler."
+  },
+  "factory+kiln": {
+    "result": "electricity",
+    "reasoning": "Wikipedia says: Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. That explains why Factory + Kiln = Electricity."
+  },
+  "factory+library-software": {
+    "result": "library",
+    "reasoning": "A Factory filled with Library Software — a Library."
+  },
+  "factory+robot": {
+    "result": "automation",
+    "reasoning": "Here's a real-world link: Automation describes a wide range of technologies that reduce human intervention in processes, mainly by predetermining decision criteria, subprocess relationships, and related actions, as well as embodying those predeterminations in machines. Combine Factory with Robot and you get Automation."
+  },
+  "factory+technology": {
+    "result": "conveyor-belt",
+    "reasoning": "A factory, manufacturing plant or production plant is an industrial facility, often a complex consisting of several buildings filled with machinery, where workers manufacture items or operate machines which process each item into another. That's how Factory and technology give us Conveyor Belt."
+  },
+  "factory+voltage": {
+    "result": "electricity",
+    "reasoning": "Factory and Voltage share a deep connection. Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Result: Electricity."
+  },
+  "fame+rule": {
+    "result": "cork",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, fame meets Rule to create Cork."
+  },
+  "fame+sport": {
+    "result": "celebrity",
+    "reasoning": "The science is clear — Celebrity is a condition of fame and broad public recognition of a person or group due to the attention given to them by mass media. Mix fame and sport for Celebrity."
+  },
+  "fiber-optic+fresco": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Fresco — a Tapestry."
+  },
+  "fiber-optic+graffiti": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Graffiti — a Tapestry."
+  },
+  "fiber-optic+mosaic": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Mosaic — a Tapestry."
+  },
+  "fiber-optic+mural": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Mural — a Tapestry."
+  },
+  "fiber-optic+origami": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Origami — a Tapestry."
+  },
+  "fiber-optic+pixel-art": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Pixel Art — a Tapestry."
+  },
+  "fiber-optic+pop-art": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Pop Art — a Tapestry."
+  },
+  "fiber-optic+sculpture": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Sculpture — a Tapestry."
+  },
+  "fiber-optic+watercolor": {
+    "result": "tapestry",
+    "reasoning": "Fiber Optic woven as Watercolor — a Tapestry."
+  },
+  "film+metronome": {
+    "result": "car",
+    "reasoning": "Film and Metronome share a deep connection. A car, or an automobile, is a motor vehicle with wheels. Result: Car."
+  },
+  "film+microphone": {
+    "result": "car",
+    "reasoning": "Film and Microphone share a deep connection. A car, or an automobile, is a motor vehicle with wheels. Result: Car."
+  },
+  "film+midjourney": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when Film meets Midjourney, Anime is the natural outcome."
+  },
+  "film+phonograph": {
+    "result": "car",
+    "reasoning": "Here's a real-world link: A car, or an automobile, is a motor vehicle with wheels. Combine Film with Phonograph and you get Car."
+  },
+  "film+podcast": {
+    "result": "album",
+    "reasoning": "The science is clear — An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Mix Film and Podcast for Album."
+  },
+  "film+radio": {
+    "result": "album",
+    "reasoning": "The science is clear — An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Mix Film and Radio for Album."
+  },
+  "film+relay": {
+    "result": "car",
+    "reasoning": "Wikipedia says: A car, or an automobile, is a motor vehicle with wheels. That explains why Film + Relay = Car."
+  },
+  "film+sonar": {
+    "result": "animation",
+    "reasoning": "Wikipedia says: Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. That explains why Film + Sonar = Animation."
+  },
+  "film+stable-diffusion": {
+    "result": "anime",
+    "reasoning": "Film and Stable Diffusion share a deep connection. Anime  is animation originating from Japan. Result: Anime."
+  },
+  "film+streaming": {
+    "result": "netflix",
+    "reasoning": "Here's the connection: Netflix is an American subscription video on-demand over-the-top streaming service. So Film + Streaming = Netflix."
+  },
+  "film+telephone": {
+    "result": "car",
+    "reasoning": "The science is clear — A car, or an automobile, is a motor vehicle with wheels. Mix Film and Telephone for Car."
+  },
+  "film+television": {
+    "result": "album",
+    "reasoning": "The science is clear — An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Mix Film and Television for Album."
+  },
+  "film+transformer": {
+    "result": "car",
+    "reasoning": "Here's a real-world link: A car, or an automobile, is a motor vehicle with wheels. Combine Film with Transformer and you get Car."
+  },
+  "film+typewriter": {
+    "result": "car",
+    "reasoning": "Wikipedia says: A car, or an automobile, is a motor vehicle with wheels. That explains why Film + Typewriter = Car."
+  },
+  "film+video": {
+    "result": "album",
+    "reasoning": "Film and video share a deep connection. An album is a collection of audio recordings issued on a medium such as compact disc (CD), vinyl (record), or audio tape, or in digital format. Result: Album."
+  },
+  "fireplace+technology": {
+    "result": "bellows",
+    "reasoning": "Here's a real-world link: Bellows are a device constructed to expel a controlled blast of air. Combine Fireplace with technology and you get Bellows."
+  },
+  "fireplace+thermostat": {
+    "result": "attic",
+    "reasoning": "Fireplace and Thermostat share a deep connection. An attic is a space found directly below the pitched roof of a house or other building. Result: Attic."
+  },
+  "floor+pattern": {
+    "result": "carpet",
+    "reasoning": "Floor and pattern share a deep connection. A carpet or rug is a textile floor covering that typically consists of an upper layer of pile attached to a backing. Result: Carpet."
+  },
+  "floor+thermostat": {
+    "result": "attic",
+    "reasoning": "The science is clear — An attic is a space found directly below the pitched roof of a house or other building. Mix Floor and Thermostat for Attic."
+  },
+  "forum+rule": {
+    "result": "cork",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Forum meets Rule to create Cork."
+  },
+  "fresco+wikipedia": {
+    "result": "artist",
+    "reasoning": "An artist is a person who creates art, or practices the arts. That's the connection between Fresco and Wikipedia — giving us Artist."
+  },
+  "fun+meme": {
+    "result": "beauty",
+    "reasoning": "Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. So when fun meets Meme, beauty is the natural outcome."
+  },
+  "furniture+power-plant": {
+    "result": "rattan",
+    "reasoning": "Furniture and Power Plant together? Rattan, also spelled ratan, is the name for roughly 600 species of Old World climbing palms belonging to subfamily Calamoideae. The result: Rattan."
+  },
+  "furniture+thermostat": {
+    "result": "attic",
+    "reasoning": "Wikipedia says: An attic is a space found directly below the pitched roof of a house or other building. That explains why Furniture + Thermostat = Attic."
+  },
+  "galvanometer+skiing": {
+    "result": "compass",
+    "reasoning": "The science is clear — A compass is a device that shows the cardinal directions used for navigation and geographic orientation. Mix Galvanometer and Skiing for compass."
+  },
+  "galvanometer+sound": {
+    "result": "brain",
+    "reasoning": "Wikipedia says: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. That explains why Galvanometer + sound = Brain."
+  },
+  "github+microsoft": {
+    "result": "amazon",
+    "reasoning": "The science is clear — is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Mix GitHub and Microsoft for Amazon."
+  },
+  "github+playstation": {
+    "result": "blog",
+    "reasoning": "GitHub and PlayStation share a deep connection. A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. Result: blog."
+  },
+  "github+sony": {
+    "result": "ai",
+    "reasoning": "Here's a real-world link: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. Combine GitHub with Sony and you get AI."
+  },
+  "glove+google-maps": {
     "result": "viral-video",
-    "reasoning": "Glove + SCUBA = a Viral Video. 10 million views and counting."
+    "reasoning": "Glove + Google Maps = a Viral Video. 10 million views and counting."
+  },
+  "glove+hard-drive": {
+    "result": "viral-video",
+    "reasoning": "Glove + Hard Drive = a Viral Video. 10 million views and counting."
+  },
+  "glove+hydraulic-press": {
+    "result": "viral-video",
+    "reasoning": "Glove + Hydraulic Press = a Viral Video. 10 million views and counting."
+  },
+  "glove+influencer": {
+    "result": "viral-video",
+    "reasoning": "Glove + Influencer = a Viral Video. 10 million views and counting."
+  },
+  "glove+inheritance": {
+    "result": "viral-video",
+    "reasoning": "Glove + Inheritance = a Viral Video. 10 million views and counting."
+  },
+  "glove+ip-address": {
+    "result": "viral-video",
+    "reasoning": "Glove + IP Address = a Viral Video. 10 million views and counting."
+  },
+  "glove+library-software": {
+    "result": "viral-video",
+    "reasoning": "Glove + Library Software = a Viral Video. 10 million views and counting."
+  },
+  "glove+loudspeaker": {
+    "result": "viral-video",
+    "reasoning": "Glove + Loudspeaker = a Viral Video. 10 million views and counting."
+  },
+  "glove+metal-detector": {
+    "result": "viral-video",
+    "reasoning": "Glove + Metal Detector = a Viral Video. 10 million views and counting."
+  },
+  "glove+microservice": {
+    "result": "viral-video",
+    "reasoning": "Glove + Microservice = a Viral Video. 10 million views and counting."
+  },
+  "glove+motion-sensor": {
+    "result": "viral-video",
+    "reasoning": "Glove + Motion Sensor = a Viral Video. 10 million views and counting."
+  },
+  "glove+mouse-device": {
+    "result": "viral-video",
+    "reasoning": "Glove + Mouse Device = a Viral Video. 10 million views and counting."
+  },
+  "glove+neural-link": {
+    "result": "viral-video",
+    "reasoning": "Glove + Neural Link = a Viral Video. 10 million views and counting."
+  },
+  "glove+notification": {
+    "result": "viral-video",
+    "reasoning": "Glove + Notification = a Viral Video. 10 million views and counting."
+  },
+  "glove+nuclear-reactor": {
+    "result": "viral-video",
+    "reasoning": "Glove + Nuclear Reactor = a Viral Video. 10 million views and counting."
+  },
+  "glove+open-source": {
+    "result": "viral-video",
+    "reasoning": "Glove + Open Source = a Viral Video. 10 million views and counting."
+  },
+  "glove+operating-system": {
+    "result": "viral-video",
+    "reasoning": "Glove + Operating System = a Viral Video. 10 million views and counting."
+  },
+  "glove+oscilloscope": {
+    "result": "viral-video",
+    "reasoning": "Glove + Oscilloscope = a Viral Video. 10 million views and counting."
+  },
+  "glove+particle-accelerator": {
+    "result": "viral-video",
+    "reasoning": "Glove + Particle Accelerator = a Viral Video. 10 million views and counting."
+  },
+  "glove+piezoelectric": {
+    "result": "viral-video",
+    "reasoning": "Glove + Piezoelectric = a Viral Video. 10 million views and counting."
+  },
+  "glove+polymorphism": {
+    "result": "viral-video",
+    "reasoning": "Glove + Polymorphism = a Viral Video. 10 million views and counting."
+  },
+  "glove+post-office": {
+    "result": "viral-video",
+    "reasoning": "Glove + Post Office = a Viral Video. 10 million views and counting."
+  },
+  "glove+potentiometer": {
+    "result": "viral-video",
+    "reasoning": "Glove + Potentiometer = a Viral Video. 10 million views and counting."
+  },
+  "glove+power-plant": {
+    "result": "viral-video",
+    "reasoning": "Glove + Power Plant = a Viral Video. 10 million views and counting."
+  },
+  "glove+power-strip": {
+    "result": "viral-video",
+    "reasoning": "Glove + Power Strip = a Viral Video. 10 million views and counting."
+  },
+  "glove+pressure-cooker": {
+    "result": "viral-video",
+    "reasoning": "Glove + Pressure Cooker = a Viral Video. 10 million views and counting."
+  },
+  "glove+propane-tank": {
+    "result": "viral-video",
+    "reasoning": "Glove + Propane Tank = a Viral Video. 10 million views and counting."
+  },
+  "glove+quantum-computer": {
+    "result": "viral-video",
+    "reasoning": "Glove + Quantum Computer = a Viral Video. 10 million views and counting."
+  },
+  "glove+record-player": {
+    "result": "viral-video",
+    "reasoning": "Glove + Record Player = a Viral Video. 10 million views and counting."
   },
   "glove+search-engine": {
     "result": "viral-video",
@@ -19,137 +423,41 @@
     "result": "viral-video",
     "reasoning": "Glove + Self Driving Car = a Viral Video. 10 million views and counting."
   },
-  "glove+selfie": {
-    "result": "viral-video",
-    "reasoning": "Glove + Selfie = a Viral Video. 10 million views and counting."
-  },
   "glove+semiconductor": {
     "result": "viral-video",
     "reasoning": "Glove + Semiconductor = a Viral Video. 10 million views and counting."
-  },
-  "glove+sensor": {
-    "result": "viral-video",
-    "reasoning": "Glove + Sensor = a Viral Video. 10 million views and counting."
-  },
-  "glove+server": {
-    "result": "viral-video",
-    "reasoning": "Glove + Server = a Viral Video. 10 million views and counting."
-  },
-  "glove+share": {
-    "result": "viral-video",
-    "reasoning": "Glove + Share = a Viral Video. 10 million views and counting."
-  },
-  "glove+signal": {
-    "result": "viral-video",
-    "reasoning": "Glove + Signal = a Viral Video. 10 million views and counting."
-  },
-  "glove+sim-card": {
-    "result": "viral-video",
-    "reasoning": "Glove + SIM Card = a Viral Video. 10 million views and counting."
-  },
-  "glove+siri": {
-    "result": "viral-video",
-    "reasoning": "Glove + Siri = a Viral Video. 10 million views and counting."
-  },
-  "glove+slack": {
-    "result": "viral-video",
-    "reasoning": "Glove + Slack = a Viral Video. 10 million views and counting."
   },
   "glove+smart-contract": {
     "result": "viral-video",
     "reasoning": "Glove + Smart Contract = a Viral Video. 10 million views and counting."
   },
-  "glove+smart-home": {
-    "result": "viral-video",
-    "reasoning": "Glove + Smart Home = a Viral Video. 10 million views and counting."
-  },
   "glove+smart-speaker": {
     "result": "viral-video",
     "reasoning": "Glove + Smart Speaker = a Viral Video. 10 million views and counting."
-  },
-  "glove+smartphone": {
-    "result": "viral-video",
-    "reasoning": "Glove + Smartphone = a Viral Video. 10 million views and counting."
-  },
-  "glove+smartwatch": {
-    "result": "viral-video",
-    "reasoning": "Glove + Smartwatch = a Viral Video. 10 million views and counting."
-  },
-  "glove+snowmobile": {
-    "result": "viral-video",
-    "reasoning": "Glove + Snowmobile = a Viral Video. 10 million views and counting."
   },
   "glove+social-media": {
     "result": "viral-video",
     "reasoning": "Glove + Social Media = a Viral Video. 10 million views and counting."
   },
-  "glove+software": {
-    "result": "viral-video",
-    "reasoning": "Glove + software = a Viral Video. 10 million views and counting."
-  },
   "glove+solar-panel": {
     "result": "viral-video",
     "reasoning": "Glove + Solar Panel = a Viral Video. 10 million views and counting."
-  },
-  "glove+sonar": {
-    "result": "viral-video",
-    "reasoning": "Glove + Sonar = a Viral Video. 10 million views and counting."
-  },
-  "glove+sort": {
-    "result": "viral-video",
-    "reasoning": "Glove + Sort = a Viral Video. 10 million views and counting."
-  },
-  "glove+spacex": {
-    "result": "viral-video",
-    "reasoning": "Glove + SpaceX = a Viral Video. 10 million views and counting."
-  },
-  "glove+spam": {
-    "result": "viral-video",
-    "reasoning": "Glove + Spam = a Viral Video. 10 million views and counting."
-  },
-  "glove+speaker": {
-    "result": "viral-video",
-    "reasoning": "Glove + Speaker = a Viral Video. 10 million views and counting."
   },
   "glove+spectroscope": {
     "result": "viral-video",
     "reasoning": "Glove + Spectroscope = a Viral Video. 10 million views and counting."
   },
-  "glove+spotify": {
-    "result": "viral-video",
-    "reasoning": "Glove + Spotify = a Viral Video. 10 million views and counting."
-  },
-  "glove+ssd": {
-    "result": "viral-video",
-    "reasoning": "Glove + SSD = a Viral Video. 10 million views and counting."
-  },
   "glove+stable-diffusion": {
     "result": "viral-video",
     "reasoning": "Glove + Stable Diffusion = a Viral Video. 10 million views and counting."
-  },
-  "glove+stack": {
-    "result": "viral-video",
-    "reasoning": "Glove + Stack = a Viral Video. 10 million views and counting."
   },
   "glove+stack-overflow": {
     "result": "viral-video",
     "reasoning": "Glove + Stack Overflow = a Viral Video. 10 million views and counting."
   },
-  "glove+stamp": {
-    "result": "viral-video",
-    "reasoning": "Glove + Stamp = a Viral Video. 10 million views and counting."
-  },
-  "glove+starlink": {
-    "result": "viral-video",
-    "reasoning": "Glove + Starlink = a Viral Video. 10 million views and counting."
-  },
   "glove+steam-engine": {
     "result": "viral-video",
     "reasoning": "Glove + Steam Engine = a Viral Video. 10 million views and counting."
-  },
-  "glove+streaming": {
-    "result": "viral-video",
-    "reasoning": "Glove + Streaming = a Viral Video. 10 million views and counting."
   },
   "glove+supercomputer": {
     "result": "viral-video",
@@ -159,57 +467,9 @@
     "result": "viral-video",
     "reasoning": "Glove + Synthesizer = a Viral Video. 10 million views and counting."
   },
-  "glove+tablet": {
-    "result": "viral-video",
-    "reasoning": "Glove + Tablet = a Viral Video. 10 million views and counting."
-  },
   "glove+technical-debt": {
     "result": "viral-video",
     "reasoning": "Glove + Technical Debt = a Viral Video. 10 million views and counting."
-  },
-  "glove+technology": {
-    "result": "viral-video",
-    "reasoning": "Glove + technology = a Viral Video. 10 million views and counting."
-  },
-  "glove+telegram": {
-    "result": "viral-video",
-    "reasoning": "Glove + Telegram = a Viral Video. 10 million views and counting."
-  },
-  "glove+telegraph": {
-    "result": "viral-video",
-    "reasoning": "Glove + Telegraph = a Viral Video. 10 million views and counting."
-  },
-  "glove+telephone": {
-    "result": "viral-video",
-    "reasoning": "Glove + Telephone = a Viral Video. 10 million views and counting."
-  },
-  "glove+teletype": {
-    "result": "viral-video",
-    "reasoning": "Glove + Teletype = a Viral Video. 10 million views and counting."
-  },
-  "glove+television": {
-    "result": "viral-video",
-    "reasoning": "Glove + Television = a Viral Video. 10 million views and counting."
-  },
-  "glove+tesla": {
-    "result": "viral-video",
-    "reasoning": "Glove + Tesla = a Viral Video. 10 million views and counting."
-  },
-  "glove+tesla-coil": {
-    "result": "viral-video",
-    "reasoning": "Glove + Tesla Coil = a Viral Video. 10 million views and counting."
-  },
-  "glove+thermostat": {
-    "result": "viral-video",
-    "reasoning": "Glove + Thermostat = a Viral Video. 10 million views and counting."
-  },
-  "glove+tiktok": {
-    "result": "viral-video",
-    "reasoning": "Glove + TikTok = a Viral Video. 10 million views and counting."
-  },
-  "glove+tor": {
-    "result": "viral-video",
-    "reasoning": "Glove + Tor = a Viral Video. 10 million views and counting."
   },
   "glove+touchscreen": {
     "result": "viral-video",
@@ -219,137 +479,33 @@
     "result": "viral-video",
     "reasoning": "Glove + Transformer = a Viral Video. 10 million views and counting."
   },
-  "glove+transistor": {
-    "result": "viral-video",
-    "reasoning": "Glove + Transistor = a Viral Video. 10 million views and counting."
-  },
-  "glove+tree-data": {
-    "result": "viral-video",
-    "reasoning": "Glove + Tree Data = a Viral Video. 10 million views and counting."
-  },
   "glove+troll-internet": {
     "result": "viral-video",
     "reasoning": "Glove + Troll Internet = a Viral Video. 10 million views and counting."
-  },
-  "glove+twitter": {
-    "result": "viral-video",
-    "reasoning": "Glove + Twitter = a Viral Video. 10 million views and counting."
-  },
-  "glove+typewriter": {
-    "result": "viral-video",
-    "reasoning": "Glove + Typewriter = a Viral Video. 10 million views and counting."
-  },
-  "glove+uber": {
-    "result": "viral-video",
-    "reasoning": "Glove + Uber = a Viral Video. 10 million views and counting."
-  },
-  "glove+upload": {
-    "result": "viral-video",
-    "reasoning": "Glove + Upload = a Viral Video. 10 million views and counting."
-  },
-  "glove+url": {
-    "result": "viral-video",
-    "reasoning": "Glove + URL = a Viral Video. 10 million views and counting."
-  },
-  "glove+usb": {
-    "result": "viral-video",
-    "reasoning": "Glove + USB = a Viral Video. 10 million views and counting."
   },
   "glove+vacuum-tube": {
     "result": "viral-video",
     "reasoning": "Glove + Vacuum Tube = a Viral Video. 10 million views and counting."
   },
-  "glove+variable": {
-    "result": "viral-video",
-    "reasoning": "Glove + Variable = a Viral Video. 10 million views and counting."
-  },
-  "glove+version": {
-    "result": "viral-video",
-    "reasoning": "Glove + Version = a Viral Video. 10 million views and counting."
-  },
-  "glove+video": {
-    "result": "viral-video",
-    "reasoning": "Glove + video = a Viral Video. 10 million views and counting."
-  },
-  "glove+viral": {
-    "result": "viral-video",
-    "reasoning": "Glove + Viral = a Viral Video. 10 million views and counting."
-  },
   "glove+viral-video": {
     "result": "viral-video",
     "reasoning": "Glove + Viral Video = a Viral Video. 10 million views and counting."
-  },
-  "glove+vlog": {
-    "result": "viral-video",
-    "reasoning": "Glove + Vlog = a Viral Video. 10 million views and counting."
-  },
-  "glove+voltage": {
-    "result": "viral-video",
-    "reasoning": "Glove + Voltage = a Viral Video. 10 million views and counting."
   },
   "glove+voltaic-pile": {
     "result": "viral-video",
     "reasoning": "Glove + Voltaic Pile = a Viral Video. 10 million views and counting."
   },
-  "glove+voltmeter": {
-    "result": "viral-video",
-    "reasoning": "Glove + Voltmeter = a Viral Video. 10 million views and counting."
-  },
-  "glove+vpn": {
-    "result": "viral-video",
-    "reasoning": "Glove + VPN = a Viral Video. 10 million views and counting."
-  },
-  "glove+vr-headset": {
-    "result": "viral-video",
-    "reasoning": "Glove + VR Headset = a Viral Video. 10 million views and counting."
-  },
   "glove+water-wheel": {
     "result": "viral-video",
     "reasoning": "Glove + Water Wheel = a Viral Video. 10 million views and counting."
-  },
-  "glove+wearable": {
-    "result": "viral-video",
-    "reasoning": "Glove + Wearable = a Viral Video. 10 million views and counting."
   },
   "glove+weather-app": {
     "result": "viral-video",
     "reasoning": "Glove + Weather App = a Viral Video. 10 million views and counting."
   },
-  "glove+web-page": {
-    "result": "viral-video",
-    "reasoning": "Glove + Web Page = a Viral Video. 10 million views and counting."
-  },
-  "glove+web3": {
-    "result": "viral-video",
-    "reasoning": "Glove + Web3 = a Viral Video. 10 million views and counting."
-  },
-  "glove+webcam": {
-    "result": "viral-video",
-    "reasoning": "Glove + Webcam = a Viral Video. 10 million views and counting."
-  },
-  "glove+website": {
-    "result": "viral-video",
-    "reasoning": "Glove + Website = a Viral Video. 10 million views and counting."
-  },
   "glove+welding-torch": {
     "result": "viral-video",
     "reasoning": "Glove + Welding Torch = a Viral Video. 10 million views and counting."
-  },
-  "glove+wi-fi": {
-    "result": "viral-video",
-    "reasoning": "Glove + Wi-Fi = a Viral Video. 10 million views and counting."
-  },
-  "glove+wifi": {
-    "result": "viral-video",
-    "reasoning": "Glove + WiFi = a Viral Video. 10 million views and counting."
-  },
-  "glove+wiki": {
-    "result": "viral-video",
-    "reasoning": "Glove + Wiki = a Viral Video. 10 million views and counting."
-  },
-  "glove+wikipedia": {
-    "result": "viral-video",
-    "reasoning": "Glove + Wikipedia = a Viral Video. 10 million views and counting."
   },
   "glove+wildlife-camera": {
     "result": "viral-video",
@@ -359,29 +515,69 @@
     "result": "viral-video",
     "reasoning": "Glove + Wind Turbine = a Viral Video. 10 million views and counting."
   },
-  "glove+windows-os": {
-    "result": "viral-video",
-    "reasoning": "Glove + Windows OS = a Viral Video. 10 million views and counting."
-  },
   "glove+x-ray-machine": {
     "result": "viral-video",
     "reasoning": "Glove + X-Ray Machine = a Viral Video. 10 million views and counting."
   },
-  "glove+xml": {
-    "result": "viral-video",
-    "reasoning": "Glove + XML = a Viral Video. 10 million views and counting."
+  "gong+printing": {
+    "result": "coffin",
+    "reasoning": "The science is clear — A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. Mix Gong and Printing for Coffin."
   },
-  "glove+youtube": {
-    "result": "viral-video",
-    "reasoning": "Glove + YouTube = a Viral Video. 10 million views and counting."
+  "google-maps+iphone": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. That's the connection between Google Maps and iPhone — giving us API."
   },
-  "glove+zeppelin": {
-    "result": "viral-video",
-    "reasoning": "Glove + Zeppelin = a Viral Video. 10 million views and counting."
+  "google-maps+xbox": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. That's the connection between Google Maps and Xbox — giving us API."
   },
-  "glove+zoom": {
-    "result": "viral-video",
-    "reasoning": "Glove + Zoom = a Viral Video. 10 million views and counting."
+  "graphql+string": {
+    "result": "database",
+    "reasoning": "GraphQL and string share a deep connection. The DBMS additionally encompasses the core facilities provided to administer the database. Result: Database."
+  },
+  "graphql+warehouse": {
+    "result": "database",
+    "reasoning": "The science is clear — The DBMS additionally encompasses the core facilities provided to administer the database. Mix GraphQL and Warehouse for Database."
+  },
+  "guitar+loudspeaker": {
+    "result": "amplifier",
+    "reasoning": "Guitar and Loudspeaker share a deep connection. An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Result: Amplifier."
+  },
+  "guitar+microphone": {
+    "result": "amplifier",
+    "reasoning": "Here's a real-world link: An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Combine Guitar with Microphone and you get Amplifier."
+  },
+  "guitar+oscilloscope": {
+    "result": "amplifier",
+    "reasoning": "Here's a real-world link: An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Combine Guitar with Oscilloscope and you get Amplifier."
+  },
+  "guitar+phonograph": {
+    "result": "amplifier",
+    "reasoning": "Guitar and Phonograph share a deep connection. An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. Result: Amplifier."
+  },
+  "guitar+photodiode": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Guitar and Photodiode — giving us Amplifier."
+  },
+  "guitar+synthesizer": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Guitar and Synthesizer — giving us Amplifier."
+  },
+  "guitar+transformer": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Guitar and Transformer — giving us Amplifier."
+  },
+  "guitar+transistor": {
+    "result": "amplifier",
+    "reasoning": "An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the magnitude of a signal. That's the connection between Guitar and Transistor — giving us Amplifier."
+  },
+  "harmony+meme": {
+    "result": "beauty",
+    "reasoning": "Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. So when harmony meets Meme, beauty is the natural outcome."
+  },
+  "hashtag+playstation": {
+    "result": "blog",
+    "reasoning": "A blog is an informational website consisting of discrete, often informal diary-style text entries also known as posts. So when Hashtag meets PlayStation, blog is the natural outcome."
   },
   "heat-pump+punk-rock": {
     "result": "lava",
@@ -405,27 +601,131 @@
   },
   "house+mail": {
     "result": "post-office",
-    "reasoning": "Applying house to Mail produces Post Office"
+    "reasoning": "A post office is a public facility and a retailer that provides mail services, such as accepting letters and parcels, providing post office boxes, and selling postage stamps, packaging, and stationery. That's how house and Mail give us Post Office."
+  },
+  "house+thermostat": {
+    "result": "attic",
+    "reasoning": "An attic is a space found directly below the pitched roof of a house or other building. That's the connection between house and Thermostat — giving us Attic."
   },
   "humor+internet": {
     "result": "meme",
-    "reasoning": "Applying humor to internet produces Meme"
+    "reasoning": "Humour or humor is the tendency of experiences to provoke laughter and provide amusement. Combine humor with internet and you naturally get Meme."
+  },
+  "ikea+instagram": {
+    "result": "augmented-reality",
+    "reasoning": "Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. So when IKEA meets Instagram, Augmented Reality is the natural outcome."
+  },
+  "ikea+metaverse": {
+    "result": "augmented-reality",
+    "reasoning": "IKEA and Metaverse share a deep connection. Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Result: Augmented Reality."
+  },
+  "ikea+neuralink": {
+    "result": "augmented-reality",
+    "reasoning": "Wikipedia says: Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. That explains why IKEA + Neuralink = Augmented Reality."
+  },
+  "ikea+reddit": {
+    "result": "ceo",
+    "reasoning": "Wikipedia says: A chief executive officer (CEO), also known as a chief executive or managing director, is the top-ranking corporate officer charged with the management of a company or a nonprofit organization. That explains why IKEA + Reddit = CEO."
+  },
+  "ikea+supercomputer": {
+    "result": "augmented-reality",
+    "reasoning": "The science is clear — Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Mix IKEA and Supercomputer for Augmented Reality."
+  },
+  "ikea+uber": {
+    "result": "canada",
+    "reasoning": "Wikipedia says: Canada is a country in North America. That explains why IKEA + Uber = Canada."
+  },
+  "instagram+iphone": {
+    "result": "api",
+    "reasoning": "The science is clear — An application programming interface (API) is a connection between computers or between computer programs. Mix Instagram and iPhone for API."
+  },
+  "instagram+sony": {
+    "result": "ai",
+    "reasoning": "Wikipedia says: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. That explains why Instagram + Sony = AI."
   },
   "instrument+wind-turbine": {
     "result": "recorder",
-    "reasoning": "Combine Instrument with Wind Turbine to create Recorder."
+    "reasoning": "A wind turbine is a device that converts the kinetic energy of wind into electrical energy. Combine Instrument with Wind Turbine and you naturally get Recorder."
+  },
+  "internet+microsoft": {
+    "result": "airbnb",
+    "reasoning": "Here's a real-world link: is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. Combine internet with Microsoft and you get Airbnb."
   },
   "internet+rpg": {
     "result": "mmorpg",
     "reasoning": "internet and RPG create MMORPG"
   },
+  "internet+skateboard": {
+    "result": "compiler",
+    "reasoning": "In computing, a compiler is software that translates computer code written in one programming language into another language. So when internet meets Skateboard, Compiler is the natural outcome."
+  },
+  "internet+sunglasses": {
+    "result": "compiler",
+    "reasoning": "In computing, a compiler is software that translates computer code written in one programming language into another language. That's the connection between internet and Sunglasses — giving us Compiler."
+  },
   "internet+video-game": {
     "result": "webcam",
-    "reasoning": "Combine Internet with Video Game to create Webcam."
+    "reasoning": "A webcam is a video camera which is designed to record or stream to a computer or computer network. Combine internet with Video Game and you naturally get Webcam."
+  },
+  "iphone+smartphone": {
+    "result": "smartwatch",
+    "reasoning": "iPhone and Smartphone share a deep connection. A smartwatch is a portable wearable computer that resembles a wristwatch. Result: Smartwatch."
+  },
+  "iphone+smartwatch": {
+    "result": "smartphone",
+    "reasoning": "The science is clear — A smartphone is a mobile device that combines the functionality of a traditional mobile phone with advanced computing capabilities. Mix iPhone and Smartwatch for Smartphone."
+  },
+  "iphone+spotify": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. That's the connection between iPhone and Spotify — giving us API."
+  },
+  "jackhammer+skateboard": {
+    "result": "escalator",
+    "reasoning": "The science is clear — An escalator is a moving staircase which carries people between floors of a building or structure. Mix Jackhammer and Skateboard for Escalator."
+  },
+  "jackhammer+sunglasses": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. That's the connection between Jackhammer and Sunglasses — giving us Escalator."
+  },
+  "javascript+skateboard": {
+    "result": "escalator",
+    "reasoning": "Wikipedia says: An escalator is a moving staircase which carries people between floors of a building or structure. That explains why JavaScript + Skateboard = Escalator."
+  },
+  "javascript+sunglasses": {
+    "result": "escalator",
+    "reasoning": "JavaScript and Sunglasses share a deep connection. An escalator is a moving staircase which carries people between floors of a building or structure. Result: Escalator."
+  },
+  "javascript+xbox": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. That's the connection between JavaScript and Xbox — giving us API."
+  },
+  "joystick+photography": {
+    "result": "camera",
+    "reasoning": "A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. So when Joystick meets Photography, camera is the natural outcome."
+  },
+  "joystick+rhythm": {
+    "result": "chimpanzee",
+    "reasoning": "Wikipedia says: The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. That explains why Joystick + Rhythm = Chimpanzee."
+  },
+  "joystick+skateboard": {
+    "result": "escalator",
+    "reasoning": "An escalator is a moving staircase which carries people between floors of a building or structure. So when Joystick meets Skateboard, Escalator is the natural outcome."
+  },
+  "joystick+skiing": {
+    "result": "compass",
+    "reasoning": "Wikipedia says: A compass is a device that shows the cardinal directions used for navigation and geographic orientation. That explains why Joystick + Skiing = compass."
+  },
+  "joystick+sunglasses": {
+    "result": "escalator",
+    "reasoning": "Here's a real-world link: An escalator is a moving staircase which carries people between floors of a building or structure. Combine Joystick with Sunglasses and you get Escalator."
   },
   "keyboard+music": {
     "result": "synthesizer",
-    "reasoning": "Combine Keyboard with Music to create Synthesizer."
+    "reasoning": "A synthesizer is an electronic musical instrument that generates audio signals. Combine Keyboard with Music and you naturally get Synthesizer."
+  },
+  "kiln+kite": {
+    "result": "electricity",
+    "reasoning": "Here's a real-world link: Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Combine Kiln with Kite and you get Electricity."
   },
   "kiln+punk-rock": {
     "result": "lava",
@@ -435,17 +735,61 @@
     "result": "lava",
     "reasoning": "Kiln melts Rock Music into flowing Lava."
   },
+  "kiln+roof": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine Kiln with Roof and you get Ceramic."
+  },
   "kiln+stained-glass": {
     "result": "lens",
     "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
   },
-  "kiln+well": {
-    "result": "steam",
-    "reasoning": "Kiln turns Well to Steam — the force that powered the Industrial Revolution."
+  "kiln+toilet": {
+    "result": "ceramic",
+    "reasoning": "Wikipedia says: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That explains why Kiln + Toilet = Ceramic."
   },
-  "library-software+lighthouse": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
+  "kitchen+thermostat": {
+    "result": "attic",
+    "reasoning": "Kitchen and Thermostat share a deep connection. An attic is a space found directly below the pitched roof of a house or other building. Result: Attic."
+  },
+  "kite+technology": {
+    "result": "airplane",
+    "reasoning": "Kite and technology share a deep connection. An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. Result: Airplane."
+  },
+  "kite+voltage": {
+    "result": "electricity",
+    "reasoning": "Wikipedia says: Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. That explains why Kite + Voltage = Electricity."
+  },
+  "kubernetes+xbox": {
+    "result": "api",
+    "reasoning": "An application programming interface (API) is a connection between computers or between computer programs. That's the connection between Kubernetes and Xbox — giving us API."
+  },
+  "laptop+lego": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Laptop and Lego — giving us Bluetooth."
+  },
+  "laptop+playstation": {
+    "result": "bluetooth",
+    "reasoning": "Laptop and PlayStation share a deep connection. Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). Result: Bluetooth."
+  },
+  "laptop+sony": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). So when Laptop meets Sony, Bluetooth is the natural outcome."
+  },
+  "lathe+lighthouse": {
+    "result": "lever",
+    "reasoning": "A lever is a simple machine consisting of a beam or rigid rod pivoted at a fixed hinge, or fulcrum. That's the connection between Lathe and Lighthouse — giving us Lever."
+  },
+  "lathe+lyre": {
+    "result": "egypt",
+    "reasoning": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. So when Lathe meets Lyre, Egypt is the natural outcome."
+  },
+  "lego+phonograph": {
+    "result": "bluetooth",
+    "reasoning": "Wikipedia says: Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That explains why Lego + Phonograph = Bluetooth."
+  },
+  "lego+smartphone": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Lego and Smartphone — giving us Bluetooth."
   },
   "library-software+lyre": {
     "result": "spotify",
@@ -483,10 +827,6 @@
     "result": "museum",
     "reasoning": "A Library Software preserving Pop Art — a Museum."
   },
-  "library-software+prison": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
-  },
   "library-software+rock-music": {
     "result": "spotify",
     "reasoning": "Library Software streaming Rock Music — Spotify."
@@ -519,10 +859,6 @@
     "result": "cathedral",
     "reasoning": "A grand Library Software for Temple — a Cathedral."
   },
-  "library-software+tower": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
-  },
   "library-software+trumpet": {
     "result": "spotify",
     "reasoning": "Library Software streaming Trumpet — Spotify."
@@ -535,348 +871,12 @@
     "result": "spotify",
     "reasoning": "Library Software streaming Violin — Spotify."
   },
-  "library-software+warehouse": {
-    "result": "school",
-    "reasoning": "A Building for Knowledge creates a School, education for all"
-  },
   "library-software+watercolor": {
     "result": "museum",
     "reasoning": "A Library Software preserving Watercolor — a Museum."
   },
-  "light+message": {
-    "result": "signal",
-    "reasoning": "Applying light to message produces Signal"
-  },
-  "light+screen": {
-    "result": "pixel",
-    "reasoning": "Applying light to screen produces Pixel"
-  },
-  "loudspeaker+sound": {
-    "result": "sonar",
-    "reasoning": "Combine Sound with Loudspeaker to create Sonar."
-  },
-  "metal-detector+mosaic": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Mosaic — a Sculpture."
-  },
-  "metal-detector+mural": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Mural — a Sculpture."
-  },
-  "metal-detector+origami": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Origami — a Sculpture."
-  },
-  "metal-detector+pixel-art": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Pixel Art — a Sculpture."
-  },
-  "metal-detector+pop-art": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Pop Art — a Sculpture."
-  },
-  "metal-detector+prison": {
-    "result": "skyscraper",
-    "reasoning": "Metal Detector gives Prison the strength to reach the sky — Skyscraper."
-  },
-  "metal-detector+sculpture": {
-    "result": "jewelry",
-    "reasoning": "Precious Metal Detector crafted as Sculpture — Jewelry."
-  },
-  "metal-detector+temple": {
-    "result": "skyscraper",
-    "reasoning": "Metal Detector gives Temple the strength to reach the sky — Skyscraper."
-  },
-  "metal-detector+tower": {
-    "result": "skyscraper",
-    "reasoning": "Metal Detector gives Tower the strength to reach the sky — Skyscraper."
-  },
-  "metal-detector+warehouse": {
-    "result": "skyscraper",
-    "reasoning": "Metal Detector gives Warehouse the strength to reach the sky — Skyscraper."
-  },
-  "metal-detector+watercolor": {
-    "result": "sculpture",
-    "reasoning": "Metal Detector shaped by Watercolor — a Sculpture."
-  },
-  "morse-code+mosaic": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Mosaic in 3D."
-  },
-  "morse-code+mural": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Mural in 3D."
-  },
-  "morse-code+music": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Music — Spotify."
-  },
-  "morse-code+orchestra": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Orchestra — Spotify."
-  },
-  "morse-code+origami": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Origami in 3D."
-  },
-  "morse-code+piano": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Piano — Spotify."
-  },
-  "morse-code+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Pixel Art in 3D."
-  },
-  "morse-code+pop-art": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Pop Art in 3D."
-  },
-  "morse-code+rock-music": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Rock Music — Spotify."
-  },
-  "morse-code+saxophone": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Saxophone — Spotify."
-  },
-  "morse-code+science-fiction": {
-    "result": "artificial-intelligence",
-    "reasoning": "Morse Code + Science Fiction = AI — humanity's greatest amplifier."
-  },
-  "morse-code+sculpture": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Sculpture in 3D."
-  },
-  "morse-code+song": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Song — Spotify."
-  },
-  "morse-code+soul-music": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Soul Music — Spotify."
-  },
-  "morse-code+symphony": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Symphony — Spotify."
-  },
-  "morse-code+trumpet": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Trumpet — Spotify."
-  },
-  "morse-code+ukulele": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Ukulele — Spotify."
-  },
-  "morse-code+violin": {
-    "result": "spotify",
-    "reasoning": "Morse Code streaming Violin — Spotify."
-  },
-  "morse-code+watercolor": {
-    "result": "3d-model",
-    "reasoning": "Morse Code creating Watercolor in 3D."
-  },
-  "motion-sensor+sound": {
-    "result": "sonar",
-    "reasoning": "Combine Sound with Motion Sensor to create Sonar."
-  },
-  "music+streaming": {
-    "result": "spotify",
-    "reasoning": "Applying Music to Streaming produces Spotify"
-  },
-  "network+orchestra": {
-    "result": "spotify",
-    "reasoning": "Network streaming Orchestra — Spotify."
-  },
-  "network+origami": {
-    "result": "3d-model",
-    "reasoning": "Network creating Origami in 3D."
-  },
-  "network+piano": {
-    "result": "spotify",
-    "reasoning": "Network streaming Piano — Spotify."
-  },
-  "network+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "Network creating Pixel Art in 3D."
-  },
-  "network+pop-art": {
-    "result": "3d-model",
-    "reasoning": "Network creating Pop Art in 3D."
-  },
-  "network+rock-music": {
-    "result": "spotify",
-    "reasoning": "Network streaming Rock Music — Spotify."
-  },
-  "network+saxophone": {
-    "result": "spotify",
-    "reasoning": "Network streaming Saxophone — Spotify."
-  },
-  "network+science-fiction": {
-    "result": "artificial-intelligence",
-    "reasoning": "Network + Science Fiction = AI — humanity's greatest amplifier."
-  },
-  "network+sculpture": {
-    "result": "3d-model",
-    "reasoning": "Network creating Sculpture in 3D."
-  },
-  "network+song": {
-    "result": "spotify",
-    "reasoning": "Network streaming Song — Spotify."
-  },
-  "network+soul-music": {
-    "result": "spotify",
-    "reasoning": "Network streaming Soul Music — Spotify."
-  },
-  "network+symphony": {
-    "result": "spotify",
-    "reasoning": "Network streaming Symphony — Spotify."
-  },
-  "network+trumpet": {
-    "result": "spotify",
-    "reasoning": "Network streaming Trumpet — Spotify."
-  },
-  "network+ukulele": {
-    "result": "spotify",
-    "reasoning": "Network streaming Ukulele — Spotify."
-  },
-  "network+violin": {
-    "result": "spotify",
-    "reasoning": "Network streaming Violin — Spotify."
-  },
-  "network+watercolor": {
-    "result": "3d-model",
-    "reasoning": "Network creating Watercolor in 3D."
-  },
-  "operating-system+window": {
-    "result": "windows-os",
-    "reasoning": "Applying Operating System to Window produces Windows OS"
-  },
-  "photography+smartphone": {
-    "result": "selfie",
-    "reasoning": "Applying Photography to Smartphone produces Selfie"
-  },
-  "photography+social-media": {
-    "result": "instagram",
-    "reasoning": "Applying Photography to Social Media produces Instagram"
-  },
-  "piano+piezoelectric": {
-    "result": "viral-video",
-    "reasoning": "Piano + Piezoelectric = a Viral Video. 10 million views and counting."
-  },
-  "piano+pixel": {
-    "result": "viral-video",
-    "reasoning": "Piano + Pixel = a Viral Video. 10 million views and counting."
-  },
-  "piano+pneumatic": {
-    "result": "viral-video",
-    "reasoning": "Piano + Pneumatic = a Viral Video. 10 million views and counting."
-  },
-  "piano+podcast": {
-    "result": "viral-video",
-    "reasoning": "Piano + Podcast = a Viral Video. 10 million views and counting."
-  },
-  "piano+polymorphism": {
-    "result": "viral-video",
-    "reasoning": "Piano + Polymorphism = a Viral Video. 10 million views and counting."
-  },
-  "piano+post": {
-    "result": "viral-video",
-    "reasoning": "Piano + Post = a Viral Video. 10 million views and counting."
-  },
-  "piano+post-office": {
-    "result": "viral-video",
-    "reasoning": "Piano + Post Office = a Viral Video. 10 million views and counting."
-  },
-  "piano+potentiometer": {
-    "result": "viral-video",
-    "reasoning": "Piano + Potentiometer = a Viral Video. 10 million views and counting."
-  },
-  "piano+power-grid": {
-    "result": "viral-video",
-    "reasoning": "Piano + Power Grid = a Viral Video. 10 million views and counting."
-  },
-  "piano+power-plant": {
-    "result": "viral-video",
-    "reasoning": "Piano + Power Plant = a Viral Video. 10 million views and counting."
-  },
-  "piano+power-strip": {
-    "result": "viral-video",
-    "reasoning": "Piano + Power Strip = a Viral Video. 10 million views and counting."
-  },
-  "piano+press": {
-    "result": "viral-video",
-    "reasoning": "Piano + press = a Viral Video. 10 million views and counting."
-  },
-  "piano+pressure-cooker": {
-    "result": "viral-video",
-    "reasoning": "Piano + Pressure Cooker = a Viral Video. 10 million views and counting."
-  },
-  "piano+printer": {
-    "result": "viral-video",
-    "reasoning": "Piano + Printer = a Viral Video. 10 million views and counting."
-  },
-  "piano+printing": {
-    "result": "viral-video",
-    "reasoning": "Piano + Printing = a Viral Video. 10 million views and counting."
-  },
-  "piano+privacy": {
-    "result": "viral-video",
-    "reasoning": "Piano + Privacy = a Viral Video. 10 million views and counting."
-  },
-  "piano+processor": {
-    "result": "viral-video",
-    "reasoning": "Piano + Processor = a Viral Video. 10 million views and counting."
-  },
-  "piano+product": {
-    "result": "viral-video",
-    "reasoning": "Piano + product = a Viral Video. 10 million views and counting."
-  },
-  "piano+profile": {
-    "result": "viral-video",
-    "reasoning": "Piano + Profile = a Viral Video. 10 million views and counting."
-  },
-  "piano+program": {
-    "result": "viral-video",
-    "reasoning": "Piano + Program = a Viral Video. 10 million views and counting."
-  },
-  "piano+propane-tank": {
-    "result": "viral-video",
-    "reasoning": "Piano + Propane Tank = a Viral Video. 10 million views and counting."
-  },
-  "piano+python": {
-    "result": "viral-video",
-    "reasoning": "Piano + Python = a Viral Video. 10 million views and counting."
-  },
-  "piano+qr-code": {
-    "result": "viral-video",
-    "reasoning": "Piano + QR Code = a Viral Video. 10 million views and counting."
-  },
-  "piano+quantum-computer": {
-    "result": "viral-video",
-    "reasoning": "Piano + Quantum Computer = a Viral Video. 10 million views and counting."
-  },
-  "piano+queue": {
-    "result": "viral-video",
-    "reasoning": "Piano + Queue = a Viral Video. 10 million views and counting."
-  },
-  "piano+radar": {
-    "result": "viral-video",
-    "reasoning": "Piano + Radar = a Viral Video. 10 million views and counting."
-  },
-  "piano+radiator": {
-    "result": "viral-video",
-    "reasoning": "Piano + Radiator = a Viral Video. 10 million views and counting."
-  },
-  "piano+radio": {
-    "result": "viral-video",
-    "reasoning": "Piano + Radio = a Viral Video. 10 million views and counting."
-  },
-  "piano+ram": {
-    "result": "viral-video",
-    "reasoning": "Piano + RAM = a Viral Video. 10 million views and counting."
-  },
-  "piano+ransomware": {
-    "result": "viral-video",
-    "reasoning": "Piano + Ransomware = a Viral Video. 10 million views and counting."
+  "lie+rhythm": {
+    "result": "deception",
+    "reasoning": "lie and Rhythm share a deep connection. Deception is the act of convincing of one or many recipients of untrue information. Result: deception."
   }
 }

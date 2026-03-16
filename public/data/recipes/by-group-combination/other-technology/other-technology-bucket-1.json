@@ -1,43 +1,67 @@
 {
+  "bug+furnace": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bug meets Furnace to create Brook."
+  },
+  "building+capacitor": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between building and Capacitor — giving us Aluminum."
+  },
   "building+cloud-storage": {
     "result": "armory",
-    "reasoning": "Combine Building with Cloud Storage to create Armory."
+    "reasoning": "Did you know? An arsenal is a place where arms and ammunition are made, maintained and repaired, stored, or issued, in any combination, whether privately or publicly owned. That's why building + Cloud Storage = Armory."
+  },
+  "building+escalator": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when building meets Escalator, Airport is the natural outcome."
   },
   "building+library-software": {
     "result": "library",
     "reasoning": "A building filled with Library Software — a Library."
   },
+  "building+magnet": {
+    "result": "aluminum",
+    "reasoning": "Aluminium or aluminum is a chemical element; it has symbol Al and atomic number 13. That's the connection between building and magnet — giving us Aluminum."
+  },
   "building+microphone": {
     "result": "intercom",
-    "reasoning": "Combine Microphone with Building to create Intercom."
+    "reasoning": "Did you know? Intercoms are generally mounted permanently in buildings and vehicles, but can also be detachable and portable. That's why building + Microphone = Intercom."
   },
   "building+open-source": {
     "result": "courtyard",
-    "reasoning": "Combine Building with Open Source to create Courtyard."
+    "reasoning": "building and Open Source together? A courtyard or court is a circumscribed area, often surrounded by a building or complex, that is open to the sky. The result: Courtyard."
+  },
+  "building+radar": {
+    "result": "airport",
+    "reasoning": "The science is clear — An airport is an aerodrome with extended facilities, mostly for commercial air transport. Mix building and Radar for Airport."
+  },
+  "building+thermostat": {
+    "result": "attic",
+    "reasoning": "building and Thermostat share a deep connection. An attic is a space found directly below the pitched roof of a house or other building. Result: Attic."
+  },
+  "cable+furnace": {
+    "result": "buffalo",
+    "reasoning": "Cable and Furnace both belong to the world of Place Name Disambiguation Pages — combine them for Buffalo."
+  },
+  "capacitor+oven": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Capacitor and Oven — giving us Ceramic."
   },
   "chemical-reaction+signal": {
     "result": "pheromone",
-    "reasoning": "Combine Chemical Reaction with Signal to create Pheromone."
+    "reasoning": "Did you know? A pheromone is a chemical that is secreted or excreted by an organism, which triggers a social response in members of the same species. That's why Chemical reaction + Signal = Pheromone."
   },
   "chip+chronometer": {
     "result": "gadget",
     "reasoning": "chip + Chronometer = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+ci-cd": {
-    "result": "gadget",
-    "reasoning": "chip + CI CD = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+circuit": {
     "result": "circuit-board",
-    "reasoning": "Combine Chip with Circuit to create Circuit Board."
+    "reasoning": "PCBs are used to connect or \"wire\" components to one another in an electronic circuit. That's how chip and Circuit give us Circuit Board."
   },
   "chip+circuit-board": {
     "result": "gadget",
     "reasoning": "chip + Circuit Board = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+class": {
-    "result": "gadget",
-    "reasoning": "chip + Class = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+cloud-computing": {
     "result": "gadget",
@@ -47,10 +71,6 @@
     "result": "gadget",
     "reasoning": "chip + Cloud Storage = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+comment": {
-    "result": "gadget",
-    "reasoning": "chip + Comment = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+communication": {
     "result": "gadget",
     "reasoning": "chip + Communication = a Gadget. Solves a problem you didn't know you had."
@@ -58,18 +78,6 @@
   "chip+compass-sensor": {
     "result": "gadget",
     "reasoning": "chip + Compass Sensor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+compiler": {
-    "result": "gadget",
-    "reasoning": "chip + Compiler = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+compressor": {
-    "result": "gadget",
-    "reasoning": "chip + Compressor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+computer": {
-    "result": "gadget",
-    "reasoning": "chip + Computer = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+conveyor-belt": {
     "result": "gadget",
@@ -79,14 +87,6 @@
     "result": "gadget",
     "reasoning": "chip + Cryptocurrency = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+css": {
-    "result": "gadget",
-    "reasoning": "chip + CSS = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+current": {
-    "result": "gadget",
-    "reasoning": "chip + Current = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+cyberbullying": {
     "result": "gadget",
     "reasoning": "chip + Cyberbullying = a Gadget. Solves a problem you didn't know you had."
@@ -95,89 +95,9 @@
     "result": "gadget",
     "reasoning": "chip + Cybersecurity = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+cyborg": {
-    "result": "gadget",
-    "reasoning": "chip + Cyborg = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+dao": {
-    "result": "gadget",
-    "reasoning": "chip + DAO = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+dark-web": {
-    "result": "gadget",
-    "reasoning": "chip + Dark Web = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+dashcam": {
-    "result": "gadget",
-    "reasoning": "chip + Dashcam = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+data": {
-    "result": "gadget",
-    "reasoning": "chip + data = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+database": {
-    "result": "gadget",
-    "reasoning": "chip + Database = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+debug": {
-    "result": "gadget",
-    "reasoning": "chip + Debug = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+deception": {
-    "result": "gadget",
-    "reasoning": "chip + deception = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+defi": {
-    "result": "gadget",
-    "reasoning": "chip + DeFi = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+defibrillator": {
     "result": "gadget",
     "reasoning": "chip + Defibrillator = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+desktop": {
-    "result": "gadget",
-    "reasoning": "chip + Desktop = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+devops": {
-    "result": "gadget",
-    "reasoning": "chip + DevOps = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+digital": {
-    "result": "gadget",
-    "reasoning": "chip + digital = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+diode": {
-    "result": "gadget",
-    "reasoning": "chip + Diode = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+discord": {
-    "result": "gadget",
-    "reasoning": "chip + Discord = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+docker": {
-    "result": "gadget",
-    "reasoning": "chip + Docker = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+domain": {
-    "result": "gadget",
-    "reasoning": "chip + Domain = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+download": {
-    "result": "gadget",
-    "reasoning": "chip + Download = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+drone": {
-    "result": "gadget",
-    "reasoning": "chip + Drone = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+dynamo": {
-    "result": "gadget",
-    "reasoning": "chip + Dynamo = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+e-reader": {
-    "result": "gadget",
-    "reasoning": "chip + E-Reader = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+edge-computing": {
     "result": "gadget",
@@ -191,37 +111,9 @@
     "result": "computer",
     "reasoning": "An electrified chip processes information — a computer"
   },
-  "chip+electrode": {
-    "result": "gadget",
-    "reasoning": "chip + Electrode = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+electronics": {
     "result": "gadget",
     "reasoning": "chip + Electronics = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+email": {
-    "result": "gadget",
-    "reasoning": "chip + Email = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+encryption": {
-    "result": "gadget",
-    "reasoning": "chip + Encryption = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+error": {
-    "result": "gadget",
-    "reasoning": "chip + error = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+escalator": {
-    "result": "gadget",
-    "reasoning": "chip + Escalator = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+ethernet": {
-    "result": "gadget",
-    "reasoning": "chip + Ethernet = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+fame": {
-    "result": "gadget",
-    "reasoning": "chip + fame = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+fax-machine": {
     "result": "gadget",
@@ -231,54 +123,6 @@
     "result": "gadget",
     "reasoning": "chip + Fiber Optic = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+file": {
-    "result": "gadget",
-    "reasoning": "chip + File = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+firewall": {
-    "result": "gadget",
-    "reasoning": "chip + Firewall = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+flash-drive": {
-    "result": "gadget",
-    "reasoning": "chip + Flash Drive = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+flywheel": {
-    "result": "gadget",
-    "reasoning": "chip + Flywheel = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+folder": {
-    "result": "gadget",
-    "reasoning": "chip + Folder = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+follower": {
-    "result": "gadget",
-    "reasoning": "chip + Follower = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+forum": {
-    "result": "gadget",
-    "reasoning": "chip + Forum = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+framework": {
-    "result": "gadget",
-    "reasoning": "chip + Framework = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+friend": {
-    "result": "gadget",
-    "reasoning": "chip + friend = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+fuel-cell": {
-    "result": "gadget",
-    "reasoning": "chip + Fuel Cell = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+function": {
-    "result": "gadget",
-    "reasoning": "chip + Function = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+gadget": {
-    "result": "gadget",
-    "reasoning": "chip + Gadget = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+galvanometer": {
     "result": "gadget",
     "reasoning": "chip + Galvanometer = a Gadget. Solves a problem you didn't know you had."
@@ -287,249 +131,21 @@
     "result": "gadget",
     "reasoning": "chip + Geiger Counter = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+git": {
-    "result": "gadget",
-    "reasoning": "chip + Git = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+github": {
-    "result": "gadget",
-    "reasoning": "chip + GitHub = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+google-maps": {
-    "result": "gadget",
-    "reasoning": "chip + Google Maps = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+gps": {
-    "result": "gadget",
-    "reasoning": "chip + GPS = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+graphql": {
-    "result": "gadget",
-    "reasoning": "chip + GraphQL = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+gyroscope": {
-    "result": "gadget",
-    "reasoning": "chip + Gyroscope = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hacker": {
-    "result": "gadget",
-    "reasoning": "chip + Hacker = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hacking": {
-    "result": "gadget",
-    "reasoning": "chip + Hacking = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hard-drive": {
-    "result": "gadget",
-    "reasoning": "chip + Hard Drive = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hash": {
-    "result": "gadget",
-    "reasoning": "chip + Hash = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hashtag": {
-    "result": "gadget",
-    "reasoning": "chip + Hashtag = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+headphone": {
-    "result": "gadget",
-    "reasoning": "chip + Headphone = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+heat-pump": {
-    "result": "gadget",
-    "reasoning": "chip + Heat Pump = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+hologram": {
-    "result": "gadget",
-    "reasoning": "chip + Hologram = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+html": {
-    "result": "gadget",
-    "reasoning": "chip + HTML = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+hydraulic-press": {
     "result": "gadget",
     "reasoning": "chip + Hydraulic Press = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+incubator": {
-    "result": "gadget",
-    "reasoning": "chip + Incubator = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+influencer": {
-    "result": "gadget",
-    "reasoning": "chip + Influencer = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+inheritance": {
-    "result": "gadget",
-    "reasoning": "chip + Inheritance = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+instagram": {
-    "result": "gadget",
-    "reasoning": "chip + Instagram = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+intercom": {
-    "result": "gadget",
-    "reasoning": "chip + Intercom = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+interface": {
-    "result": "gadget",
-    "reasoning": "chip + Interface = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+internet": {
-    "result": "gadget",
-    "reasoning": "chip + internet = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+iot": {
-    "result": "gadget",
-    "reasoning": "chip + IoT = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+ip-address": {
-    "result": "gadget",
-    "reasoning": "chip + IP Address = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+jackhammer": {
-    "result": "gadget",
-    "reasoning": "chip + Jackhammer = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+java": {
-    "result": "gadget",
-    "reasoning": "chip + Java = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+javascript": {
-    "result": "gadget",
-    "reasoning": "chip + JavaScript = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+joystick": {
-    "result": "gadget",
-    "reasoning": "chip + Joystick = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+json": {
-    "result": "gadget",
-    "reasoning": "chip + JSON = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+keyboard": {
-    "result": "gadget",
-    "reasoning": "chip + Keyboard = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+kiln": {
-    "result": "gadget",
-    "reasoning": "chip + Kiln = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+kubernetes": {
-    "result": "gadget",
-    "reasoning": "chip + Kubernetes = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+laptop": {
-    "result": "gadget",
-    "reasoning": "chip + Laptop = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+lathe": {
-    "result": "gadget",
-    "reasoning": "chip + Lathe = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+led": {
-    "result": "gadget",
-    "reasoning": "chip + LED = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+library-software": {
     "result": "gadget",
     "reasoning": "chip + Library Software = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+lidar": {
-    "result": "gadget",
-    "reasoning": "chip + LIDAR = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+lie": {
-    "result": "gadget",
-    "reasoning": "chip + lie = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+like": {
-    "result": "gadget",
-    "reasoning": "chip + Like = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+linux": {
-    "result": "gadget",
-    "reasoning": "chip + Linux = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+loop": {
-    "result": "gadget",
-    "reasoning": "chip + Loop = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+loudspeaker": {
-    "result": "gadget",
-    "reasoning": "chip + Loudspeaker = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+magnet": {
-    "result": "gadget",
-    "reasoning": "chip + magnet = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+mail": {
-    "result": "gadget",
-    "reasoning": "chip + Mail = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+mainframe": {
-    "result": "gadget",
-    "reasoning": "chip + Mainframe = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+malware": {
-    "result": "gadget",
-    "reasoning": "chip + Malware = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+markdown": {
-    "result": "gadget",
-    "reasoning": "chip + Markdown = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+meme": {
-    "result": "gadget",
-    "reasoning": "chip + Meme = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+message": {
-    "result": "gadget",
-    "reasoning": "chip + message = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+metal-detector": {
     "result": "gadget",
     "reasoning": "chip + Metal Detector = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+metaverse": {
-    "result": "gadget",
-    "reasoning": "chip + Metaverse = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+metronome": {
-    "result": "gadget",
-    "reasoning": "chip + Metronome = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+microchip": {
-    "result": "gadget",
-    "reasoning": "chip + Microchip = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+micrometer": {
-    "result": "gadget",
-    "reasoning": "chip + Micrometer = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+microphone": {
-    "result": "gadget",
-    "reasoning": "chip + Microphone = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+microservice": {
     "result": "gadget",
     "reasoning": "chip + Microservice = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+midjourney": {
-    "result": "gadget",
-    "reasoning": "chip + Midjourney = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+modem": {
-    "result": "gadget",
-    "reasoning": "chip + Modem = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+monitor": {
-    "result": "gadget",
-    "reasoning": "chip + Monitor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+morse-code": {
-    "result": "gadget",
-    "reasoning": "chip + Morse Code = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+motion-sensor": {
     "result": "gadget",
@@ -539,46 +155,6 @@
     "result": "gadget",
     "reasoning": "chip + Mouse Device = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+multimeter": {
-    "result": "gadget",
-    "reasoning": "chip + Multimeter = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+name": {
-    "result": "gadget",
-    "reasoning": "chip + name = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+navigation": {
-    "result": "gadget",
-    "reasoning": "chip + Navigation = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+neon-sign": {
-    "result": "gadget",
-    "reasoning": "chip + Neon Sign = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+netflix": {
-    "result": "gadget",
-    "reasoning": "chip + Netflix = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+network": {
-    "result": "gadget",
-    "reasoning": "chip + Network = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+neural-link": {
-    "result": "gadget",
-    "reasoning": "chip + Neural Link = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+neuralink": {
-    "result": "gadget",
-    "reasoning": "chip + Neuralink = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+newsletter": {
-    "result": "gadget",
-    "reasoning": "chip + Newsletter = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+nft": {
-    "result": "gadget",
-    "reasoning": "chip + NFT = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+notification": {
     "result": "gadget",
     "reasoning": "chip + Notification = a Gadget. Solves a problem you didn't know you had."
@@ -587,29 +163,9 @@
     "result": "gadget",
     "reasoning": "chip + Nuclear Reactor = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+object": {
-    "result": "gadget",
-    "reasoning": "chip + Object = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+offline": {
-    "result": "gadget",
-    "reasoning": "chip + Offline = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+online": {
-    "result": "gadget",
-    "reasoning": "chip + Online = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+open-source": {
-    "result": "gadget",
-    "reasoning": "chip + Open Source = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+operating-system": {
     "result": "gadget",
     "reasoning": "chip + Operating System = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+oscillator": {
-    "result": "gadget",
-    "reasoning": "chip + Oscillator = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+oscilloscope": {
     "result": "gadget",
@@ -619,205 +175,33 @@
     "result": "gadget",
     "reasoning": "chip + Particle Accelerator = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+password": {
-    "result": "gadget",
-    "reasoning": "chip + Password = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+pattern": {
-    "result": "gadget",
-    "reasoning": "chip + pattern = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+periscope": {
-    "result": "gadget",
-    "reasoning": "chip + Periscope = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+phishing": {
-    "result": "gadget",
-    "reasoning": "chip + Phishing = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+phonograph": {
-    "result": "gadget",
-    "reasoning": "chip + Phonograph = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+photodiode": {
-    "result": "gadget",
-    "reasoning": "chip + Photodiode = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+piezoelectric": {
     "result": "gadget",
     "reasoning": "chip + Piezoelectric = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+pixel": {
-    "result": "gadget",
-    "reasoning": "chip + Pixel = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+pneumatic": {
-    "result": "gadget",
-    "reasoning": "chip + Pneumatic = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+podcast": {
-    "result": "gadget",
-    "reasoning": "chip + Podcast = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+polymorphism": {
     "result": "gadget",
     "reasoning": "chip + Polymorphism = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+post": {
-    "result": "gadget",
-    "reasoning": "chip + Post = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+post-office": {
-    "result": "gadget",
-    "reasoning": "chip + Post Office = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+potentiometer": {
     "result": "gadget",
     "reasoning": "chip + Potentiometer = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+power-grid": {
-    "result": "gadget",
-    "reasoning": "chip + Power Grid = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+power-plant": {
-    "result": "gadget",
-    "reasoning": "chip + Power Plant = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+power-strip": {
-    "result": "gadget",
-    "reasoning": "chip + Power Strip = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+press": {
-    "result": "gadget",
-    "reasoning": "chip + press = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+pressure-cooker": {
     "result": "gadget",
     "reasoning": "chip + Pressure Cooker = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+printer": {
-    "result": "gadget",
-    "reasoning": "chip + Printer = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+printing": {
-    "result": "gadget",
-    "reasoning": "chip + Printing = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+privacy": {
-    "result": "gadget",
-    "reasoning": "chip + Privacy = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+processor": {
-    "result": "gadget",
-    "reasoning": "chip + Processor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+product": {
-    "result": "gadget",
-    "reasoning": "chip + product = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+profile": {
-    "result": "gadget",
-    "reasoning": "chip + Profile = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+program": {
-    "result": "gadget",
-    "reasoning": "chip + Program = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+propane-tank": {
     "result": "gadget",
     "reasoning": "chip + Propane Tank = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+python": {
-    "result": "gadget",
-    "reasoning": "chip + Python = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+qr-code": {
-    "result": "gadget",
-    "reasoning": "chip + QR Code = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+quantum-computer": {
     "result": "gadget",
     "reasoning": "chip + Quantum Computer = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+queue": {
-    "result": "gadget",
-    "reasoning": "chip + Queue = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+radar": {
-    "result": "gadget",
-    "reasoning": "chip + Radar = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+radiator": {
-    "result": "gadget",
-    "reasoning": "chip + Radiator = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+radio": {
-    "result": "gadget",
-    "reasoning": "chip + Radio = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+ram": {
-    "result": "gadget",
-    "reasoning": "chip + RAM = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+ransomware": {
-    "result": "gadget",
-    "reasoning": "chip + Ransomware = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+record-player": {
     "result": "gadget",
     "reasoning": "chip + Record Player = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+recursion": {
-    "result": "gadget",
-    "reasoning": "chip + Recursion = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+reddit": {
-    "result": "gadget",
-    "reasoning": "chip + Reddit = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+regex": {
-    "result": "gadget",
-    "reasoning": "chip + Regex = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+relay": {
-    "result": "gadget",
-    "reasoning": "chip + Relay = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+remote": {
-    "result": "gadget",
-    "reasoning": "chip + Remote = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+resistor": {
-    "result": "gadget",
-    "reasoning": "chip + Resistor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+resolution": {
-    "result": "gadget",
-    "reasoning": "chip + Resolution = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+rest-api": {
-    "result": "gadget",
-    "reasoning": "chip + REST API = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+robot": {
-    "result": "gadget",
-    "reasoning": "chip + Robot = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+router": {
-    "result": "gadget",
-    "reasoning": "chip + Router = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+saas": {
-    "result": "gadget",
-    "reasoning": "chip + SaaS = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+screen": {
-    "result": "gadget",
-    "reasoning": "chip + screen = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+scuba": {
-    "result": "gadget",
-    "reasoning": "chip + SCUBA = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+search-engine": {
     "result": "gadget",
@@ -827,56 +211,540 @@
     "result": "gadget",
     "reasoning": "chip + Self Driving Car = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+selfie": {
-    "result": "gadget",
-    "reasoning": "chip + Selfie = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+semiconductor": {
     "result": "gadget",
     "reasoning": "chip + Semiconductor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+sensor": {
-    "result": "gadget",
-    "reasoning": "chip + Sensor = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+server": {
-    "result": "gadget",
-    "reasoning": "chip + Server = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+share": {
-    "result": "gadget",
-    "reasoning": "chip + Share = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+signal": {
-    "result": "gadget",
-    "reasoning": "chip + Signal = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+sim-card": {
-    "result": "gadget",
-    "reasoning": "chip + SIM Card = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+siri": {
-    "result": "gadget",
-    "reasoning": "chip + Siri = a Gadget. Solves a problem you didn't know you had."
-  },
-  "chip+slack": {
-    "result": "gadget",
-    "reasoning": "chip + Slack = a Gadget. Solves a problem you didn't know you had."
   },
   "chip+smart-contract": {
     "result": "gadget",
     "reasoning": "chip + Smart Contract = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+smart-home": {
-    "result": "gadget",
-    "reasoning": "chip + Smart Home = a Gadget. Solves a problem you didn't know you had."
-  },
   "chip+smart-speaker": {
     "result": "gadget",
     "reasoning": "chip + Smart Speaker = a Gadget. Solves a problem you didn't know you had."
   },
-  "chip+smartphone": {
+  "chip+social-media": {
     "result": "gadget",
-    "reasoning": "chip + Smartphone = a Gadget. Solves a problem you didn't know you had."
+    "reasoning": "chip + Social Media = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+spectroscope": {
+    "result": "gadget",
+    "reasoning": "chip + Spectroscope = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+stable-diffusion": {
+    "result": "gadget",
+    "reasoning": "chip + Stable Diffusion = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+stack-overflow": {
+    "result": "gadget",
+    "reasoning": "chip + Stack Overflow = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+steam-engine": {
+    "result": "gadget",
+    "reasoning": "chip + Steam Engine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+supercomputer": {
+    "result": "gadget",
+    "reasoning": "chip + Supercomputer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+technical-debt": {
+    "result": "gadget",
+    "reasoning": "chip + Technical Debt = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+troll-internet": {
+    "result": "gadget",
+    "reasoning": "chip + Troll Internet = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+voltaic-pile": {
+    "result": "gadget",
+    "reasoning": "chip + Voltaic Pile = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+welding-torch": {
+    "result": "gadget",
+    "reasoning": "chip + Welding Torch = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+wildlife-camera": {
+    "result": "gadget",
+    "reasoning": "chip + Wildlife Camera = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+wind-turbine": {
+    "result": "gadget",
+    "reasoning": "chip + Wind Turbine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "chip+x-ray-machine": {
+    "result": "gadget",
+    "reasoning": "chip + X-Ray Machine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "cloth+pattern": {
+    "result": "weaving",
+    "reasoning": "Cloth with patterns requires Weaving"
+  },
+  "domain+furnace": {
+    "result": "cobbler",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Domain meets Furnace to create Cobbler."
+  },
+  "electricity+fuel": {
+    "result": "capacitor",
+    "reasoning": "Electricity and fuel share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
+  },
+  "fame+furnace": {
+    "result": "cobbler",
+    "reasoning": "Both fame and Furnace are rooted in Place Name Disambiguation Pages. Together they make Cobbler."
+  },
+  "forum+furnace": {
+    "result": "cork",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Forum meets Furnace to create Cork."
+  },
+  "fuel+transformer": {
+    "result": "coal",
+    "reasoning": "Wikipedia says: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. That explains why fuel + Transformer = Coal."
+  },
+  "furnace+galvanometer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Galvanometer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+google-maps": {
+    "result": "gadget",
+    "reasoning": "Furnace + Google Maps = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+gyroscope": {
+    "result": "gadget",
+    "reasoning": "Furnace + Gyroscope = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+hacking": {
+    "result": "block",
+    "reasoning": "Furnace and Hacking both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for block."
+  },
+  "furnace+hard-drive": {
+    "result": "gadget",
+    "reasoning": "Furnace + Hard Drive = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+headphone": {
+    "result": "gadget",
+    "reasoning": "Furnace + Headphone = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+heat-pump": {
+    "result": "gadget",
+    "reasoning": "Furnace + Heat Pump = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+hydraulic-press": {
+    "result": "gadget",
+    "reasoning": "Furnace + Hydraulic Press = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+influencer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Influencer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+inheritance": {
+    "result": "gadget",
+    "reasoning": "Furnace + Inheritance = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+instagram": {
+    "result": "gadget",
+    "reasoning": "Furnace + Instagram = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+interface": {
+    "result": "gadget",
+    "reasoning": "Furnace + Interface = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+ip-address": {
+    "result": "gadget",
+    "reasoning": "Furnace + IP Address = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+jackhammer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Jackhammer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+kiln": {
+    "result": "oven",
+    "reasoning": "Wikipedia says: An oven is a tool that is used to expose materials to a hot environment. That explains why Furnace + Kiln = Oven."
+  },
+  "furnace+kubernetes": {
+    "result": "gadget",
+    "reasoning": "Furnace + Kubernetes = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+library-software": {
+    "result": "gadget",
+    "reasoning": "Furnace + Library Software = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+loop": {
+    "result": "corona",
+    "reasoning": "Furnace and Loop both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Corona."
+  },
+  "furnace+loudspeaker": {
+    "result": "gadget",
+    "reasoning": "Furnace + Loudspeaker = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+mainframe": {
+    "result": "gadget",
+    "reasoning": "Furnace + Mainframe = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+metal-detector": {
+    "result": "ingot",
+    "reasoning": "Smelting Metal Detector with Furnace creates an Ingot — the foundation of metallurgy."
+  },
+  "furnace+metronome": {
+    "result": "gadget",
+    "reasoning": "Furnace + Metronome = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+microchip": {
+    "result": "gadget",
+    "reasoning": "Furnace + Microchip = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+micrometer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Micrometer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+microphone": {
+    "result": "gadget",
+    "reasoning": "Furnace + Microphone = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+monitor": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Monitor to create Corona."
+  },
+  "furnace+morse-code": {
+    "result": "gadget",
+    "reasoning": "Furnace + Morse Code = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+motion-sensor": {
+    "result": "gadget",
+    "reasoning": "Furnace + Motion Sensor = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+mouse-device": {
+    "result": "gadget",
+    "reasoning": "Furnace + Mouse Device = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+multimeter": {
+    "result": "gadget",
+    "reasoning": "Furnace + Multimeter = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+navigation": {
+    "result": "gadget",
+    "reasoning": "Furnace + Navigation = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+neon-sign": {
+    "result": "gadget",
+    "reasoning": "Furnace + Neon Sign = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+neural-link": {
+    "result": "gadget",
+    "reasoning": "Furnace + Neural Link = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+neuralink": {
+    "result": "gadget",
+    "reasoning": "Furnace + Neuralink = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+notification": {
+    "result": "gadget",
+    "reasoning": "Furnace + Notification = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+nuclear-reactor": {
+    "result": "gadget",
+    "reasoning": "Furnace + Nuclear Reactor = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+open-source": {
+    "result": "gadget",
+    "reasoning": "Furnace + Open Source = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+operating-system": {
+    "result": "gadget",
+    "reasoning": "Furnace + Operating System = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+oscillator": {
+    "result": "gadget",
+    "reasoning": "Furnace + Oscillator = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+oscilloscope": {
+    "result": "gadget",
+    "reasoning": "Furnace + Oscilloscope = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+particle-accelerator": {
+    "result": "gadget",
+    "reasoning": "Furnace + Particle Accelerator = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+periscope": {
+    "result": "gadget",
+    "reasoning": "Furnace + Periscope = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+phonograph": {
+    "result": "gadget",
+    "reasoning": "Furnace + Phonograph = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+photodiode": {
+    "result": "gadget",
+    "reasoning": "Furnace + Photodiode = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+piezoelectric": {
+    "result": "gadget",
+    "reasoning": "Furnace + Piezoelectric = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+pneumatic": {
+    "result": "gadget",
+    "reasoning": "Furnace + Pneumatic = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+polymorphism": {
+    "result": "gadget",
+    "reasoning": "Furnace + Polymorphism = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+post": {
+    "result": "corona",
+    "reasoning": "Furnace and Post both belong to the world of Place Name Disambiguation Pages — combine them for Corona."
+  },
+  "furnace+post-office": {
+    "result": "gadget",
+    "reasoning": "Furnace + Post Office = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+potentiometer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Potentiometer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+power-grid": {
+    "result": "gadget",
+    "reasoning": "Furnace + Power Grid = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+power-plant": {
+    "result": "gadget",
+    "reasoning": "Furnace + Power Plant = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+power-strip": {
+    "result": "gadget",
+    "reasoning": "Furnace + Power Strip = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+pressure-cooker": {
+    "result": "gadget",
+    "reasoning": "Furnace + Pressure Cooker = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+printer": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Printer are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+processor": {
+    "result": "gadget",
+    "reasoning": "Furnace + Processor = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+propane-tank": {
+    "result": "gadget",
+    "reasoning": "Furnace + Propane Tank = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+ransomware": {
+    "result": "gadget",
+    "reasoning": "Furnace + Ransomware = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+record-player": {
+    "result": "gadget",
+    "reasoning": "Furnace + Record Player = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+recursion": {
+    "result": "gadget",
+    "reasoning": "Furnace + Recursion = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+remote": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Remote are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+resolution": {
+    "result": "gadget",
+    "reasoning": "Furnace + Resolution = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+search-engine": {
+    "result": "gadget",
+    "reasoning": "Furnace + Search Engine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+self-driving-car": {
+    "result": "gadget",
+    "reasoning": "Furnace + Self Driving Car = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+semiconductor": {
+    "result": "gadget",
+    "reasoning": "Furnace + Semiconductor = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+smart-contract": {
+    "result": "gadget",
+    "reasoning": "Furnace + Smart Contract = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+smart-home": {
+    "result": "gadget",
+    "reasoning": "Furnace + Smart Home = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+smart-speaker": {
+    "result": "gadget",
+    "reasoning": "Furnace + Smart Speaker = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+smartphone": {
+    "result": "gadget",
+    "reasoning": "Furnace + Smartphone = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+smartwatch": {
+    "result": "gadget",
+    "reasoning": "Furnace + Smartwatch = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+snowmobile": {
+    "result": "gadget",
+    "reasoning": "Furnace + Snowmobile = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+social-media": {
+    "result": "gadget",
+    "reasoning": "Furnace + Social Media = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+solar-panel": {
+    "result": "gadget",
+    "reasoning": "Furnace + Solar Panel = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+speaker": {
+    "result": "block",
+    "reasoning": "Furnace and Speaker both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for block."
+  },
+  "furnace+spectroscope": {
+    "result": "gadget",
+    "reasoning": "Furnace + Spectroscope = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+stable-diffusion": {
+    "result": "gadget",
+    "reasoning": "Furnace + Stable Diffusion = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+stack-overflow": {
+    "result": "gadget",
+    "reasoning": "Furnace + Stack Overflow = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+steam-engine": {
+    "result": "gadget",
+    "reasoning": "Furnace + Steam Engine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+streaming": {
+    "result": "gadget",
+    "reasoning": "Furnace + Streaming = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+supercomputer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Supercomputer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+synthesizer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Synthesizer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+technical-debt": {
+    "result": "gadget",
+    "reasoning": "Furnace + Technical Debt = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+technology": {
+    "result": "gadget",
+    "reasoning": "Furnace + technology = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+telegraph": {
+    "result": "gadget",
+    "reasoning": "Furnace + Telegraph = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+telephone": {
+    "result": "gadget",
+    "reasoning": "Furnace + Telephone = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+television": {
+    "result": "gadget",
+    "reasoning": "Furnace + Television = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+tesla-coil": {
+    "result": "gadget",
+    "reasoning": "Furnace + Tesla Coil = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+thermostat": {
+    "result": "gadget",
+    "reasoning": "Furnace + Thermostat = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+tor": {
+    "result": "corona",
+    "reasoning": "Both Furnace and Tor are rooted in Place Name Disambiguation Pages. Together they make Corona."
+  },
+  "furnace+touchscreen": {
+    "result": "gadget",
+    "reasoning": "Furnace + Touchscreen = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+transformer": {
+    "result": "gadget",
+    "reasoning": "Furnace + Transformer = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+transistor": {
+    "result": "gadget",
+    "reasoning": "Furnace + Transistor = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "furnace+troll-internet": {
+    "result": "gadget",
+    "reasoning": "Furnace + Troll Internet = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+typewriter": {
+    "result": "gadget",
+    "reasoning": "Furnace + Typewriter = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+vacuum-tube": {
+    "result": "gadget",
+    "reasoning": "Furnace + Vacuum Tube = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+viral-video": {
+    "result": "gadget",
+    "reasoning": "Furnace + Viral Video = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+voltaic-pile": {
+    "result": "gadget",
+    "reasoning": "Furnace + Voltaic Pile = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+voltmeter": {
+    "result": "gadget",
+    "reasoning": "Furnace + Voltmeter = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+vr-headset": {
+    "result": "gadget",
+    "reasoning": "Furnace + VR Headset = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+water-wheel": {
+    "result": "gadget",
+    "reasoning": "Furnace + Water Wheel = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+weather-app": {
+    "result": "gadget",
+    "reasoning": "Furnace + Weather App = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+welding-torch": {
+    "result": "gadget",
+    "reasoning": "Furnace + Welding Torch = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+wikipedia": {
+    "result": "gadget",
+    "reasoning": "Furnace + Wikipedia = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+wildlife-camera": {
+    "result": "gadget",
+    "reasoning": "Furnace + Wildlife Camera = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+wind-turbine": {
+    "result": "gadget",
+    "reasoning": "Furnace + Wind Turbine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "furnace+x-ray-machine": {
+    "result": "gadget",
+    "reasoning": "Furnace + X-Ray Machine = a Gadget. Solves a problem you didn't know you had."
+  },
+  "intercom+phone": {
+    "result": "telephone",
+    "reasoning": "Here's a real-world link: A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly. Combine Intercom with Phone and you get Telephone."
+  },
+  "kiln+oven": {
+    "result": "brick",
+    "reasoning": "Here's a real-world link: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Combine Kiln with Oven and you get Brick."
+  },
+  "magnet+oven": {
+    "result": "ceramic",
+    "reasoning": "Here's a real-world link: A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Combine magnet with Oven and you get Ceramic."
+  },
+  "oven+tree-data": {
+    "result": "charcoal",
+    "reasoning": "Burning Tree Data slowly without air produces Charcoal — one of the first chemical processes."
+  },
+  "phone+telegram": {
+    "result": "telephone",
+    "reasoning": "Phone and Telegram share a deep connection. A telephone, commonly shortened to phone, is a telecommunications device that enables two or more users to conduct a conversation when they are too far apart to be easily heard directly. Result: Telephone."
   }
 }

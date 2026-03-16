@@ -1,50 +1,882 @@
 {
-  "thief+voice": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets voice and now everyone's having an Existential Crisis."
+  "emotion+gratitude": {
+    "result": "jealousy",
+    "reasoning": "Jealousy generally refers to the thoughts or feelings of insecurity, fear, and concern over a relative lack of possessions or safety. Combine Emotion with Gratitude and you naturally get Jealousy."
   },
-  "thief+wanderlust": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Wanderlust and now everyone's having an Existential Crisis."
+  "emotion+heart": {
+    "result": "adrenaline",
+    "reasoning": "Emotion and Heart share a deep connection. Adrenaline, also known as epinephrine and alternatively spelled adrenalin, is a hormone and medication which is involved in regulating visceral functions. Result: Adrenaline."
   },
-  "thief+weaver": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Weaver and now everyone's having an Existential Crisis."
+  "emotion+intelligence": {
+    "result": "artificial-intelligence",
+    "reasoning": "Wikipedia says: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. That explains why Emotion + intelligence = Artificial Intelligence."
   },
-  "thief+wisdom": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Wisdom and now everyone's having an Existential Crisis."
+  "emotion+intuition": {
+    "result": "thought",
+    "reasoning": "In their most common sense, thought and thinking refer to cognitive processes that occur independently of direct sensory stimulation. That's the connection between Emotion and Intuition — giving us Thought."
   },
-  "thief+woman": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Woman and now everyone's having an Existential Crisis."
+  "emotion+jealousy": {
+    "result": "melancholy",
+    "reasoning": "Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure. That's how Emotion and Jealousy give us Melancholy."
   },
-  "thief+wonder": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Wonder and now everyone's having an Existential Crisis."
+  "emotion+joy": {
+    "result": "euphoria",
+    "reasoning": "Euphoria is the experience of pleasure or excitement and intense feelings of well-being and happiness. That's how Emotion and Joy give us Euphoria."
   },
-  "thief+yearning": {
-    "result": "existential-crisis",
-    "reasoning": "Thief meets Yearning and now everyone's having an Existential Crisis."
+  "emotion+loneliness": {
+    "result": "artificial-intelligence",
+    "reasoning": "Here's a real-world link: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. Combine Emotion with Loneliness and you get Artificial Intelligence."
   },
-  "thought+thought": {
+  "emotion+melancholy": {
+    "result": "sympathy",
+    "reasoning": "Here's the connection: Sympathy is the perception of, understanding of, and supportive reaction to the distress or need of another life form. So Emotion + Melancholy = Sympathy."
+  },
+  "emotion+sleep": {
+    "result": "deception",
+    "reasoning": "The science is clear — Deception is the act of convincing of one or many recipients of untrue information. Mix Emotion and sleep for deception."
+  },
+  "emotion+sympathy": {
+    "result": "slam-poetry",
+    "reasoning": "A poetry slam is a competitive art event in which poets perform spoken word poetry before a live audience and a panel of judges. That's how Emotion and Sympathy give us Slam Poetry."
+  },
+  "emotion+thought": {
+    "result": "intuition",
+    "reasoning": "Here's a real-world link: Intuition is the ability to acquire knowledge without recourse to conscious reasoning or needing an explanation. Combine Emotion with Thought and you get Intuition."
+  },
+  "empathy+envy": {
+    "result": "contentment",
+    "reasoning": "The science is clear — Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Mix Empathy and Envy for Contentment."
+  },
+  "empathy+euphoria": {
+    "result": "contentment",
+    "reasoning": "Empathy and Euphoria share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "empathy+fear": {
+    "result": "contentment",
+    "reasoning": "Here's a real-world link: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Combine Empathy with fear and you get Contentment."
+  },
+  "empathy+forgiveness": {
+    "result": "anger",
+    "reasoning": "Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. So when Empathy meets Forgiveness, Anger is the natural outcome."
+  },
+  "empathy+frustration": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Empathy and Frustration — giving us Contentment."
+  },
+  "empathy+gratitude": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. That's the connection between Empathy and Gratitude — giving us attention."
+  },
+  "empathy+grief": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Empathy + Grief = Contentment."
+  },
+  "empathy+happiness": {
+    "result": "contentment",
+    "reasoning": "Here's a real-world link: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Combine Empathy with Happiness and you get Contentment."
+  },
+  "empathy+hope": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Empathy and Hope — giving us Contentment."
+  },
+  "empathy+human": {
+    "result": "compassion",
+    "reasoning": "Did you know? Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That's why Empathy + human = Compassion."
+  },
+  "empathy+hysteria": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Empathy meets Hysteria, Contentment is the natural outcome."
+  },
+  "empathy+idea": {
+    "result": "paradox",
+    "reasoning": "Empathy and Idea share a deep connection. A paradox is a logically self-contradictory statement or a statement that runs contrary to one's expectation. Result: Paradox."
+  },
+  "empathy+imagination": {
+    "result": "altruism",
+    "reasoning": "Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. So when Empathy meets imagination, Altruism is the natural outcome."
+  },
+  "empathy+jealousy": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Empathy and Jealousy — giving us Contentment."
+  },
+  "empathy+joy": {
+    "result": "contentment",
+    "reasoning": "Empathy and Joy share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "empathy+loneliness": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Empathy and Loneliness — giving us Contentment."
+  },
+  "empathy+love": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when Empathy meets Love, attention is the natural outcome."
+  },
+  "empathy+loyalty": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Empathy meets Loyalty, Contentment is the natural outcome."
+  },
+  "empathy+nostalgia": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Empathy meets Nostalgia, Contentment is the natural outcome."
+  },
+  "empathy+patience": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Empathy meets Patience, Contentment is the natural outcome."
+  },
+  "empathy+pride": {
+    "result": "attention",
+    "reasoning": "Wikipedia says: Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. That explains why Empathy + Pride = attention."
+  },
+  "empathy+regret": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Empathy and Regret — giving us Contentment."
+  },
+  "empathy+resentment": {
+    "result": "contentment",
+    "reasoning": "The science is clear — Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Mix Empathy and Resentment for Contentment."
+  },
+  "empathy+sadness": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Empathy meets Sadness, Contentment is the natural outcome."
+  },
+  "empathy+shame": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Empathy + Shame = Contentment."
+  },
+  "empathy+soul": {
     "result": "idea",
-    "reasoning": "Two thoughts combining spark a new idea"
+    "reasoning": "In philosophy and in common usage, an idea is the result of thought. That's the connection between Empathy and Soul — giving us Idea."
   },
-  "thought+voice": {
-    "result": "speech",
-    "reasoning": "Thought expressed through voice becomes speech"
+  "empathy+sympathy": {
+    "result": "attention",
+    "reasoning": "Here's a real-world link: Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Combine Empathy with Sympathy and you get attention."
   },
-  "thought+wisdom": {
-    "result": "philosophy",
-    "reasoning": "Thought combined with Wisdom leads to Philosophy"
+  "empathy+thought": {
+    "result": "idea",
+    "reasoning": "In philosophy and in common usage, an idea is the result of thought. So when Empathy meets Thought, Idea is the natural outcome."
   },
-  "wisdom+wisdom": {
-    "result": "philosophy",
-    "reasoning": "Wisdom seeking wisdom is the definition of philosophy"
+  "empathy+virtue": {
+    "result": "conscience",
+    "reasoning": "Empathy and Virtue share a deep connection. A conscience is a cognitive process that elicits emotion and rational associations based on an individual's moral philosophy or value system. Result: Conscience."
   },
-  "woman+woman": {
-    "result": "population",
-    "reasoning": "People gathered form a population"
+  "envy+euphoria": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Envy + Euphoria = Contentment."
+  },
+  "envy+fear": {
+    "result": "attention",
+    "reasoning": "Envy and fear share a deep connection. Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Result: attention."
+  },
+  "envy+frustration": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Envy meets Frustration, Anxiety is the natural outcome."
+  },
+  "envy+generosity": {
+    "result": "compassion",
+    "reasoning": "Wikipedia says: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That explains why Envy + Generosity = Compassion."
+  },
+  "envy+gratitude": {
+    "result": "awe",
+    "reasoning": "Wikipedia says: Awe is an emotion comparable to wonder but less joyous. That explains why Envy + Gratitude = Awe."
+  },
+  "envy+grief": {
+    "result": "contentment",
+    "reasoning": "The science is clear — Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Mix Envy and Grief for Contentment."
+  },
+  "envy+happiness": {
+    "result": "awe",
+    "reasoning": "Wikipedia says: Awe is an emotion comparable to wonder but less joyous. That explains why Envy + Happiness = Awe."
+  },
+  "envy+hope": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Envy meets Hope, Anxiety is the natural outcome."
+  },
+  "envy+humility": {
+    "result": "compassion",
+    "reasoning": "Wikipedia says: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That explains why Envy + Humility = Compassion."
+  },
+  "envy+hysteria": {
+    "result": "anxiety",
+    "reasoning": "The science is clear — Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Mix Envy and Hysteria for Anxiety."
+  },
+  "envy+imagination": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That's the connection between Envy and imagination — giving us Compassion."
+  },
+  "envy+jealousy": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Envy with Jealousy and you get Awe."
+  },
+  "envy+joy": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Envy meets Joy, Anxiety is the natural outcome."
+  },
+  "envy+loneliness": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Envy with Loneliness and you get Awe."
+  },
+  "envy+loyalty": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That's the connection between Envy and Loyalty — giving us Compassion."
+  },
+  "envy+nostalgia": {
+    "result": "anxiety",
+    "reasoning": "The science is clear — Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Mix Envy and Nostalgia for Anxiety."
+  },
+  "envy+patience": {
+    "result": "compassion",
+    "reasoning": "Envy and Patience share a deep connection. Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Result: Compassion."
+  },
+  "envy+pride": {
+    "result": "awe",
+    "reasoning": "The science is clear — Awe is an emotion comparable to wonder but less joyous. Mix Envy and Pride for Awe."
+  },
+  "envy+regret": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Envy meets Regret, Anxiety is the natural outcome."
+  },
+  "envy+resentment": {
+    "result": "anxiety",
+    "reasoning": "Here's a real-world link: Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Combine Envy with Resentment and you get Anxiety."
+  },
+  "envy+sadness": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. That's the connection between Envy and Sadness — giving us Anxiety."
+  },
+  "envy+shame": {
+    "result": "anxiety",
+    "reasoning": "The science is clear — Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Mix Envy and Shame for Anxiety."
+  },
+  "envy+stubbornness": {
+    "result": "temptation",
+    "reasoning": "Here's the connection: Temptation is a desire to engage in short-term urges for enjoyment that threatens long-term goals. So Envy + Stubbornness = Temptation."
+  },
+  "envy+sympathy": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Envy meets Sympathy, Awe is the natural outcome."
+  },
+  "envy+temptation": {
+    "result": "curiosity",
+    "reasoning": "Wikipedia says: Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. That explains why Envy + Temptation = Curiosity."
+  },
+  "euphoria+fear": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Euphoria + fear = Contentment."
+  },
+  "euphoria+frustration": {
+    "result": "contentment",
+    "reasoning": "Euphoria and Frustration share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "euphoria+gratitude": {
+    "result": "contentment",
+    "reasoning": "The science is clear — Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Mix Euphoria and Gratitude for Contentment."
+  },
+  "euphoria+grief": {
+    "result": "contentment",
+    "reasoning": "Euphoria and Grief share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "euphoria+happiness": {
+    "result": "contentment",
+    "reasoning": "Here's a real-world link: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Combine Euphoria with Happiness and you get Contentment."
+  },
+  "euphoria+hope": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Euphoria meets Hope, Contentment is the natural outcome."
+  },
+  "euphoria+hysteria": {
+    "result": "contentment",
+    "reasoning": "The science is clear — Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Mix Euphoria and Hysteria for Contentment."
+  },
+  "euphoria+jealousy": {
+    "result": "contentment",
+    "reasoning": "Euphoria and Jealousy share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "euphoria+joy": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. So when Euphoria meets Joy, Contentment is the natural outcome."
+  },
+  "euphoria+loneliness": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Euphoria and Loneliness — giving us Contentment."
+  },
+  "euphoria+loyalty": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Euphoria + Loyalty = Contentment."
+  },
+  "euphoria+nostalgia": {
+    "result": "contentment",
+    "reasoning": "Euphoria and Nostalgia share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "euphoria+patience": {
+    "result": "contentment",
+    "reasoning": "Wikipedia says: Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That explains why Euphoria + Patience = Contentment."
+  },
+  "euphoria+pride": {
+    "result": "contentment",
+    "reasoning": "Euphoria and Pride share a deep connection. Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. Result: Contentment."
+  },
+  "euphoria+regret": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Euphoria and Regret — giving us Contentment."
+  },
+  "euphoria+resentment": {
+    "result": "contentment",
+    "reasoning": "Contentment is a moderate form of happiness, a state of being or emotion in which one is satisfied with their current life situation, and the state of affairs in one's life as they presently are. That's the connection between Euphoria and Resentment — giving us Contentment."
+  },
+  "euphoria+sadness": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Euphoria and Sadness for courage."
+  },
+  "euphoria+shame": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Euphoria and Shame — giving us courage."
+  },
+  "euphoria+sympathy": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. So when Euphoria meets Sympathy, courage is the natural outcome."
+  },
+  "eye+head": {
+    "result": "brain",
+    "reasoning": "Wikipedia says: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. That explains why eye + head = Brain."
+  },
+  "faith+humility": {
+    "result": "patience",
+    "reasoning": "Patience, or forbearance, is the ability to endure difficult or undesired long-term circumstances. That's the connection between Faith and Humility — giving us Patience."
+  },
+  "faith+patience": {
+    "result": "humility",
+    "reasoning": "The science is clear — Humility is the quality of being humble and kind. Mix Faith and Patience for Humility."
+  },
+  "faith+soul": {
+    "result": "altruism",
+    "reasoning": "Here's a real-world link: Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. Combine Faith with Soul and you get Altruism."
+  },
+  "faith+thought": {
+    "result": "belief",
+    "reasoning": "The human experience of Faith and Thought manifests as Belief"
+  },
+  "family+family": {
+    "result": "community",
+    "reasoning": "Family and Family together shape Community"
+  },
+  "fear+fear": {
+    "result": "nightmare",
+    "reasoning": "Fear amplified becomes a nightmare — terror without escape"
+  },
+  "fear+frustration": {
+    "result": "attention",
+    "reasoning": "The science is clear — Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Mix fear and Frustration for attention."
+  },
+  "fear+gratitude": {
+    "result": "attention",
+    "reasoning": "The science is clear — Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Mix fear and Gratitude for attention."
+  },
+  "fear+grief": {
+    "result": "anger",
+    "reasoning": "The science is clear — Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix fear and Grief for Anger."
+  },
+  "fear+happiness": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when fear meets Happiness, attention is the natural outcome."
+  },
+  "fear+heart": {
+    "result": "courage",
+    "reasoning": "The human experience of fear and Heart manifests as courage"
+  },
+  "fear+hope": {
+    "result": "anger",
+    "reasoning": "Wikipedia says: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. That explains why fear + Hope = Anger."
+  },
+  "fear+hysteria": {
+    "result": "attention",
+    "reasoning": "The science is clear — Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Mix fear and Hysteria for attention."
+  },
+  "fear+jealousy": {
+    "result": "attention",
+    "reasoning": "Here's a real-world link: Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Combine fear with Jealousy and you get attention."
+  },
+  "fear+joy": {
+    "result": "anger",
+    "reasoning": "fear and Joy share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
+  },
+  "fear+loneliness": {
+    "result": "attention",
+    "reasoning": "fear and Loneliness share a deep connection. Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Result: attention."
+  },
+  "fear+loyalty": {
+    "result": "courage",
+    "reasoning": "fear and Loyalty share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "fear+nightmare": {
+    "result": "hysteria",
+    "reasoning": "Both fear and Nightmare are rooted in Fear. Together they make Hysteria."
+  },
+  "fear+nostalgia": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when fear meets Nostalgia, attention is the natural outcome."
+  },
+  "fear+patience": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. So when fear meets Patience, courage is the natural outcome."
+  },
+  "fear+pride": {
+    "result": "anger",
+    "reasoning": "fear and Pride share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
+  },
+  "fear+regret": {
+    "result": "attention",
+    "reasoning": "Wikipedia says: Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. That explains why fear + Regret = attention."
+  },
+  "fear+resentment": {
+    "result": "anger",
+    "reasoning": "fear and Resentment share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
+  },
+  "fear+sadness": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when fear meets Sadness, attention is the natural outcome."
+  },
+  "fear+shame": {
+    "result": "attention",
+    "reasoning": "Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. So when fear meets Shame, attention is the natural outcome."
+  },
+  "fear+sympathy": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. That's the connection between fear and Sympathy — giving us Awe."
+  },
+  "firefighter+human": {
+    "result": "geologist",
+    "reasoning": "A geologist is a scientist who studies the structure, composition, and history of Earth. Combine Firefighter with human and you naturally get Geologist."
+  },
+  "firefighter+paramedic": {
+    "result": "mining",
+    "reasoning": "Here's a real-world link: Mining is the extraction of geological materials and minerals from the surface of the Earth. Combine Firefighter with Paramedic and you get Mining."
+  },
+  "florist+human": {
+    "result": "jeweler",
+    "reasoning": "Florist and human together? A bench jeweler is an artisan who uses a combination of skills to make and repair jewelry. The result: Jeweler."
+  },
+  "foot+heart": {
+    "result": "artery",
+    "reasoning": "An artery is a blood vessel in humans and most other animals that takes oxygenated blood away from the heart in the systemic circulation to one or more parts of the body. That's the connection between foot and Heart — giving us Artery."
+  },
+  "foot+skin": {
+    "result": "bone",
+    "reasoning": "A bone is a rigid organ that constitutes part of the skeleton in most vertebrate animals. So when foot meets skin, Bone is the natural outcome."
+  },
+  "forgiveness+gratitude": {
+    "result": "anger",
+    "reasoning": "Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. So when Forgiveness meets Gratitude, Anger is the natural outcome."
+  },
+  "forgiveness+love": {
+    "result": "anger",
+    "reasoning": "Forgiveness and Love share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
+  },
+  "forgiveness+pride": {
+    "result": "anger",
+    "reasoning": "The science is clear — Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix Forgiveness and Pride for Anger."
+  },
+  "forgiveness+sympathy": {
+    "result": "anger",
+    "reasoning": "Forgiveness and Sympathy share a deep connection. Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Result: Anger."
+  },
+  "frustration+generosity": {
+    "result": "courage",
+    "reasoning": "Wikipedia says: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That explains why Frustration + Generosity = courage."
+  },
+  "frustration+gratitude": {
+    "result": "awe",
+    "reasoning": "Frustration and Gratitude share a deep connection. Awe is an emotion comparable to wonder but less joyous. Result: Awe."
+  },
+  "frustration+grief": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. So when Frustration meets Grief, courage is the natural outcome."
+  },
+  "frustration+happiness": {
+    "result": "anger",
+    "reasoning": "Here's a real-world link: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Combine Frustration with Happiness and you get Anger."
+  },
+  "frustration+hope": {
+    "result": "anxiety",
+    "reasoning": "Here's a real-world link: Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Combine Frustration with Hope and you get Anxiety."
+  },
+  "frustration+humility": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Frustration with Humility and you get Compassion."
+  },
+  "frustration+hysteria": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Frustration meets Hysteria, Anxiety is the natural outcome."
+  },
+  "frustration+imagination": {
+    "result": "compassion",
+    "reasoning": "The science is clear — Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Mix Frustration and imagination for Compassion."
+  },
+  "frustration+instinct": {
+    "result": "emotion",
+    "reasoning": "Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure. So when Frustration meets Instinct, Emotion is the natural outcome."
+  },
+  "frustration+jealousy": {
+    "result": "awe",
+    "reasoning": "Frustration and Jealousy share a deep connection. Awe is an emotion comparable to wonder but less joyous. Result: Awe."
+  },
+  "frustration+joy": {
+    "result": "emotion",
+    "reasoning": "Frustration and Joy share a deep connection. Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure. Result: Emotion."
+  },
+  "frustration+loneliness": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Frustration with Loneliness and you get Awe."
+  },
+  "frustration+loyalty": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Frustration and Loyalty — giving us courage."
+  },
+  "frustration+nostalgia": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. That's the connection between Frustration and Nostalgia — giving us Anxiety."
+  },
+  "frustration+patience": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That's the connection between Frustration and Patience — giving us Compassion."
+  },
+  "frustration+pride": {
+    "result": "anger",
+    "reasoning": "Wikipedia says: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. That explains why Frustration + Pride = Anger."
+  },
+  "frustration+regret": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. That's the connection between Frustration and Regret — giving us Anxiety."
+  },
+  "frustration+resentment": {
+    "result": "emotion",
+    "reasoning": "Wikipedia says: Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure. That explains why Frustration + Resentment = Emotion."
+  },
+  "frustration+sadness": {
+    "result": "anxiety",
+    "reasoning": "The science is clear — Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Mix Frustration and Sadness for Anxiety."
+  },
+  "frustration+shame": {
+    "result": "anxiety",
+    "reasoning": "Wikipedia says: Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. That explains why Frustration + Shame = Anxiety."
+  },
+  "frustration+sympathy": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Frustration meets Sympathy, Awe is the natural outcome."
+  },
+  "frustration+temptation": {
+    "result": "curiosity",
+    "reasoning": "The science is clear — Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. Mix Frustration and Temptation for Curiosity."
+  },
+  "frustration+thought": {
+    "result": "emotion",
+    "reasoning": "Wikipedia says: Emotions are physical and mental states brought on by neurophysiological changes, variously associated with thoughts, feelings, behavioral responses, and a degree of pleasure or displeasure. That explains why Frustration + Thought = Emotion."
+  },
+  "generosity+gratitude": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. So when Generosity meets Gratitude, Compassion is the natural outcome."
+  },
+  "generosity+hope": {
+    "result": "courage",
+    "reasoning": "Generosity and Hope share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "generosity+humility": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That's the connection between Generosity and Humility — giving us Compassion."
+  },
+  "generosity+hysteria": {
+    "result": "courage",
+    "reasoning": "Wikipedia says: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That explains why Generosity + Hysteria = courage."
+  },
+  "generosity+imagination": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Generosity with imagination and you get Compassion."
+  },
+  "generosity+joy": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. So when Generosity meets Joy, courage is the natural outcome."
+  },
+  "generosity+loyalty": {
+    "result": "compassion",
+    "reasoning": "The science is clear — Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Mix Generosity and Loyalty for Compassion."
+  },
+  "generosity+nostalgia": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Generosity and Nostalgia for courage."
+  },
+  "generosity+patience": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Generosity with Patience and you get Compassion."
+  },
+  "generosity+population": {
+    "result": "empathy",
+    "reasoning": "The science is clear — Empathy is generally described as the ability to perceive another person's perspective, to understand, feel, and possibly share and respond to their experience. Mix Generosity and population for Empathy."
+  },
+  "generosity+pride": {
+    "result": "altruism",
+    "reasoning": "The science is clear — Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. Mix Generosity and Pride for Altruism."
+  },
+  "generosity+regret": {
+    "result": "compassion",
+    "reasoning": "Wikipedia says: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. That explains why Generosity + Regret = Compassion."
+  },
+  "generosity+resentment": {
+    "result": "courage",
+    "reasoning": "Here's a real-world link: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Combine Generosity with Resentment and you get courage."
+  },
+  "generosity+sadness": {
+    "result": "compassion",
+    "reasoning": "The science is clear — Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Mix Generosity and Sadness for Compassion."
+  },
+  "generosity+shame": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Generosity and Shame for courage."
+  },
+  "generosity+sympathy": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Generosity with Sympathy and you get Compassion."
+  },
+  "generosity+virtue": {
+    "result": "curiosity",
+    "reasoning": "Curiosity is a quality related to inquisitive thinking, such as exploration, investigation, and learning, evident in humans and other animals. That's the connection between Generosity and Virtue — giving us Curiosity."
+  },
+  "generosity+wisdom": {
+    "result": "charisma",
+    "reasoning": "The science is clear — Charisma is a personal quality of magnetic charm, persuasion, or appeal. Mix Generosity and Wisdom for Charisma."
+  },
+  "geologist+human": {
+    "result": "spy",
+    "reasoning": "Geologist and human together? Espionage, spying, or intelligence gathering, as a subfield of the intelligence field, is the act of obtaining secret, confidential, or in some way valuable information. The result: Spy."
+  },
+  "gratitude+grief": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Gratitude and Grief for courage."
+  },
+  "gratitude+happiness": {
+    "result": "awe",
+    "reasoning": "Gratitude and Happiness share a deep connection. Awe is an emotion comparable to wonder but less joyous. Result: Awe."
+  },
+  "gratitude+hope": {
+    "result": "awe",
+    "reasoning": "The science is clear — Awe is an emotion comparable to wonder but less joyous. Mix Gratitude and Hope for Awe."
+  },
+  "gratitude+humility": {
+    "result": "compassion",
+    "reasoning": "Gratitude and Humility share a deep connection. Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Result: Compassion."
+  },
+  "gratitude+hysteria": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Gratitude with Hysteria and you get Awe."
+  },
+  "gratitude+imagination": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Gratitude with imagination and you get Compassion."
+  },
+  "gratitude+jealousy": {
+    "result": "awe",
+    "reasoning": "Gratitude and Jealousy share a deep connection. Awe is an emotion comparable to wonder but less joyous. Result: Awe."
+  },
+  "gratitude+joy": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Gratitude with Joy and you get Awe."
+  },
+  "gratitude+loneliness": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Gratitude meets Loneliness, Awe is the natural outcome."
+  },
+  "gratitude+love": {
+    "result": "attention",
+    "reasoning": "Wikipedia says: Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. That explains why Gratitude + Love = attention."
+  },
+  "gratitude+loyalty": {
+    "result": "compassion",
+    "reasoning": "Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. So when Gratitude meets Loyalty, Compassion is the natural outcome."
+  },
+  "gratitude+nostalgia": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. So when Gratitude meets Nostalgia, Awe is the natural outcome."
+  },
+  "gratitude+patience": {
+    "result": "compassion",
+    "reasoning": "Here's a real-world link: Compassion is a social emotion that motivates people to go out of their way to relieve the physical, mental, or emotional pains of others and themselves. Combine Gratitude with Patience and you get Compassion."
+  },
+  "gratitude+pride": {
+    "result": "anxiety",
+    "reasoning": "Here's a real-world link: Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. Combine Gratitude with Pride and you get Anxiety."
+  },
+  "gratitude+regret": {
+    "result": "awe",
+    "reasoning": "The science is clear — Awe is an emotion comparable to wonder but less joyous. Mix Gratitude and Regret for Awe."
+  },
+  "gratitude+resentment": {
+    "result": "awe",
+    "reasoning": "Awe is an emotion comparable to wonder but less joyous. That's the connection between Gratitude and Resentment — giving us Awe."
+  },
+  "gratitude+sadness": {
+    "result": "awe",
+    "reasoning": "Wikipedia says: Awe is an emotion comparable to wonder but less joyous. That explains why Gratitude + Sadness = Awe."
+  },
+  "gratitude+shame": {
+    "result": "awe",
+    "reasoning": "Here's a real-world link: Awe is an emotion comparable to wonder but less joyous. Combine Gratitude with Shame and you get Awe."
+  },
+  "gratitude+sympathy": {
+    "result": "anxiety",
+    "reasoning": "Anxiety is an emotion characterised by an unpleasant state of inner turmoil and includes feelings of dread over anticipated events. So when Gratitude meets Sympathy, Anxiety is the natural outcome."
+  },
+  "gratitude+virtue": {
+    "result": "altruism",
+    "reasoning": "Gratitude and Virtue share a deep connection. Altruism is concern for the well-being, the life, of others independently of personal benefit or reciprocity. Result: Altruism."
+  },
+  "gratitude+wisdom": {
+    "result": "charisma",
+    "reasoning": "Wikipedia says: Charisma is a personal quality of magnetic charm, persuasion, or appeal. That explains why Gratitude + Wisdom = Charisma."
+  },
+  "grief+happiness": {
+    "result": "courage",
+    "reasoning": "Grief and Happiness share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "grief+hope": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Grief and Hope — giving us courage."
+  },
+  "grief+hysteria": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Grief and Hysteria for courage."
+  },
+  "grief+jealousy": {
+    "result": "anger",
+    "reasoning": "Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. So when Grief meets Jealousy, Anger is the natural outcome."
+  },
+  "grief+joy": {
+    "result": "courage",
+    "reasoning": "Grief and Joy share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "grief+loneliness": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Grief and Loneliness for courage."
+  },
+  "grief+loyalty": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Grief and Loyalty for courage."
+  },
+  "grief+nostalgia": {
+    "result": "courage",
+    "reasoning": "Here's a real-world link: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Combine Grief with Nostalgia and you get courage."
+  },
+  "grief+patience": {
+    "result": "courage",
+    "reasoning": "Grief and Patience share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "grief+pride": {
+    "result": "courage",
+    "reasoning": "The science is clear — Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Mix Grief and Pride for courage."
+  },
+  "grief+regret": {
+    "result": "courage",
+    "reasoning": "Here's a real-world link: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Combine Grief with Regret and you get courage."
+  },
+  "grief+resentment": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Grief and Resentment — giving us courage."
+  },
+  "grief+sadness": {
+    "result": "anger",
+    "reasoning": "Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. That's the connection between Grief and Sadness — giving us Anger."
+  },
+  "grief+shame": {
+    "result": "courage",
+    "reasoning": "Here's a real-world link: Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Combine Grief with Shame and you get courage."
+  },
+  "grief+sympathy": {
+    "result": "anger",
+    "reasoning": "Here's a real-world link: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Combine Grief with Sympathy and you get Anger."
+  },
+  "guard+impostor-syndrome": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Impostor Syndrome and now everyone's having an Existential Crisis."
+  },
+  "guard+mad-scientist": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Mad Scientist and now everyone's having an Existential Crisis."
+  },
+  "guard+midlife-crisis": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Midlife Crisis and now everyone's having an Existential Crisis."
+  },
+  "guard+office-politics": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Office Politics and now everyone's having an Existential Crisis."
+  },
+  "guard+screen-addiction": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Screen Addiction and now everyone's having an Existential Crisis."
+  },
+  "guard+space-madness": {
+    "result": "existential-crisis",
+    "reasoning": "Guard meets Space Madness and now everyone's having an Existential Crisis."
+  },
+  "hand+imagination": {
+    "result": "chimpanzee",
+    "reasoning": "The science is clear — The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. Mix hand and imagination for Chimpanzee."
+  },
+  "hand+instinct": {
+    "result": "chimpanzee",
+    "reasoning": "The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. That's the connection between hand and Instinct — giving us Chimpanzee."
+  },
+  "hand+regret": {
+    "result": "chimpanzee",
+    "reasoning": "Here's a real-world link: The chimpanzee, also simply known as the chimp, is an endangered species of great ape native to the forests and savannahs of tropical Africa. Combine hand with Regret and you get Chimpanzee."
+  },
+  "happiness+hope": {
+    "result": "anger",
+    "reasoning": "The science is clear — Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix Happiness and Hope for Anger."
+  },
+  "happiness+human": {
+    "result": "play",
+    "reasoning": "Happiness and human create play"
+  },
+  "happiness+hysteria": {
+    "result": "anger",
+    "reasoning": "Wikipedia says: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. That explains why Happiness + Hysteria = Anger."
+  },
+  "happiness+jealousy": {
+    "result": "attention",
+    "reasoning": "Happiness and Jealousy share a deep connection. Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Result: attention."
+  },
+  "happiness+joy": {
+    "result": "anger",
+    "reasoning": "Here's a real-world link: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Combine Happiness with Joy and you get Anger."
+  },
+  "happiness+loneliness": {
+    "result": "anger",
+    "reasoning": "Here's a real-world link: Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Combine Happiness with Loneliness and you get Anger."
+  },
+  "happiness+loyalty": {
+    "result": "courage",
+    "reasoning": "Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. That's the connection between Happiness and Loyalty — giving us courage."
+  },
+  "happiness+nostalgia": {
+    "result": "anger",
+    "reasoning": "The science is clear — Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix Happiness and Nostalgia for Anger."
+  },
+  "happiness+patience": {
+    "result": "courage",
+    "reasoning": "Happiness and Patience share a deep connection. Courage is the choice and willingness to confront agony, pain, danger, uncertainty, or intimidation. Result: courage."
+  },
+  "happiness+pride": {
+    "result": "awe",
+    "reasoning": "The science is clear — Awe is an emotion comparable to wonder but less joyous. Mix Happiness and Pride for Awe."
+  },
+  "happiness+regret": {
+    "result": "anger",
+    "reasoning": "The science is clear — Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. Mix Happiness and Regret for Anger."
+  },
+  "happiness+resentment": {
+    "result": "anger",
+    "reasoning": "Anger, also known as wrath or rage, is an intense emotional state involving a strong, uncomfortable and non-cooperative response to a perceived provocation, hurt, or threat. That's the connection between Happiness and Resentment — giving us Anger."
+  },
+  "happiness+sadness": {
+    "result": "attention",
+    "reasoning": "Happiness and Sadness share a deep connection. Attention is the concentration of awareness directed at some phenomenon while mostly excluding others. Result: attention."
   }
 }

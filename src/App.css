@@ -311,9 +311,15 @@
   padding: 0 20px 12px;
 }
 
+.recipes-search-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
 .recipes-search input {
   width: 100%;
-  padding: 8px 12px;
+  padding: 8px 32px 8px 12px;
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.08);
@@ -321,6 +327,23 @@
   font-size: 14px;
   outline: none;
   box-sizing: border-box;
+}
+
+.recipes-search-clear {
+  position: absolute;
+  right: 6px;
+  padding: 4px;
+  background: rgba(255, 255, 255, 0.15);
+  border: none;
+  border-radius: 4px;
+  color: rgba(255, 255, 255, 0.7);
+  cursor: pointer;
+  line-height: 0;
+}
+
+.recipes-search-clear:hover {
+  background: rgba(255, 255, 255, 0.25);
+  color: white;
 }
 
 .recipes-search input::placeholder {
@@ -403,6 +426,26 @@
   opacity: 0.6;
   white-space: nowrap;
   font-style: italic;
+}
+
+.recipes-element-btn {
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 1px 4px;
+  border-radius: 4px;
+  font-size: inherit;
+  font-family: inherit;
+}
+
+.recipes-element-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  text-decoration: underline;
+}
+
+.recipes-result-btn {
+  font-weight: 600;
 }
 
 /* Save State Browser modal */

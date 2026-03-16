@@ -1,172 +1,4 @@
 {
-  "body+tool": {
-    "result": "hand",
-    "reasoning": "The human experience of Body and tool manifests as hand"
-  },
-  "bow+child": {
-    "result": "ranger",
-    "reasoning": "Rangers are master archers, patrolling the wilderness"
-  },
-  "bow+human": {
-    "result": "hunter",
-    "reasoning": "A human with a bow becomes a Hunter"
-  },
-  "bow+man": {
-    "result": "ranger",
-    "reasoning": "Rangers are master archers, patrolling the wilderness"
-  },
-  "bow+monk": {
-    "result": "ranger",
-    "reasoning": "Rangers are master archers, patrolling the wilderness"
-  },
-  "bow+woman": {
-    "result": "ranger",
-    "reasoning": "Rangers are master archers, patrolling the wilderness"
-  },
-  "canoe+love": {
-    "result": "gondola",
-    "reasoning": "A romantic canoe ride — that's a Gondola"
-  },
-  "catapult+child": {
-    "result": "centurion",
-    "reasoning": "Roman centurions deployed catapults during sieges"
-  },
-  "catapult+human": {
-    "result": "centurion",
-    "reasoning": "Roman centurions deployed catapults during sieges"
-  },
-  "catapult+man": {
-    "result": "centurion",
-    "reasoning": "Roman centurions deployed catapults during sieges"
-  },
-  "catapult+monk": {
-    "result": "centurion",
-    "reasoning": "Roman centurions deployed catapults during sieges"
-  },
-  "catapult+woman": {
-    "result": "centurion",
-    "reasoning": "Roman centurions deployed catapults during sieges"
-  },
-  "child+chisel": {
-    "result": "carpenter",
-    "reasoning": "Carpenters chisel joints with precision — no nails needed"
-  },
-  "child+crossbow": {
-    "result": "ranger",
-    "reasoning": "Crossbows democratized archery — less training, more power"
-  },
-  "child+crucible": {
-    "result": "alchemist",
-    "reasoning": "Alchemists used crucibles to attempt transmuting lead into gold"
-  },
-  "child+dagger": {
-    "result": "assassin",
-    "reasoning": "Assassins favor daggers — silent, concealable, and deadly"
-  },
-  "child+drill": {
-    "result": "miner",
-    "reasoning": "Drill technology lets miners reach deeper deposits"
-  },
-  "child+engine": {
-    "result": "mechanic",
-    "reasoning": "Mechanics keep engines running — the heartbeat of machines"
-  },
-  "child+forge-bellows": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "child+gear": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "child+generator": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "child+gun": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "child+hammer": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "child+helicopter": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
-  "child+helmet": {
-    "result": "centurion",
-    "reasoning": "Roman centurions wore crested helmets to lead their legions"
-  },
-  "child+hoe": {
-    "result": "farmer",
-    "reasoning": "The hoe — the most basic and universal farming tool"
-  },
-  "child+kettle": {
-    "result": "brewer",
-    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
-  },
-  "child+key": {
-    "result": "locksmith",
-    "reasoning": "Locksmiths craft keys — the guardians of security"
-  },
-  "child+lock": {
-    "result": "locksmith",
-    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
-  },
-  "child+loom": {
-    "result": "weaver",
-    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
-  },
-  "child+mace": {
-    "result": "knight",
-    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
-  },
-  "child+machine": {
-    "result": "engineer",
-    "reasoning": "Engineers design machines that multiply human capability"
-  },
-  "child+magnifying-glass": {
-    "result": "spy",
-    "reasoning": "Detectives and spies examine clues with magnifying glasses"
-  },
-  "child+needle": {
-    "result": "tailor",
-    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
-  },
-  "child+notebook": {
-    "result": "journalist",
-    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
-  },
-  "child+pen": {
-    "result": "author",
-    "reasoning": "The pen is mightier than the sword — authors shape history"
-  },
-  "child+pick": {
-    "result": "miner",
-    "reasoning": "Miners use picks to extract ore from deep underground"
-  },
-  "child+pliers": {
-    "result": "plumber",
-    "reasoning": "Plumbers use pliers to grip pipes — keeping water flowing"
-  },
-  "child+plough": {
-    "result": "farmer",
-    "reasoning": "Ploughs turn soil for planting — the tool that made cities possible"
-  },
-  "child+quill": {
-    "result": "scribe",
-    "reasoning": "Scribes used goose quill pens for over 1,000 years"
-  },
-  "child+rocket": {
-    "result": "pilot",
-    "reasoning": "Rocket pilots push the boundaries of human exploration"
-  },
-  "child+sailboat": {
-    "result": "sailor",
-    "reasoning": "Sailors have crossed oceans under sail for thousands of years"
-  },
   "child+saw": {
     "result": "carpenter",
     "reasoning": "Carpenters cut wood to build — saws have existed since ancient Egypt"
@@ -243,9 +75,17 @@
     "result": "carpenter",
     "reasoning": "Carpenters chisel joints with precision — no nails needed"
   },
+  "consciousness+engine": {
+    "result": "sentient-ai",
+    "reasoning": "Alan Turing proposed in 1950 that if a computational engine could sustain conversation indistinguishable from a human's, we should consider it conscious — a thought experiment that still defines the core debate in AI alignment research today."
+  },
   "courage+ship": {
     "result": "captain",
     "reasoning": "courage and ship together shape Captain"
+  },
+  "creativity+invention": {
+    "result": "idea",
+    "reasoning": "The science is clear — In philosophy and in common usage, an idea is the result of thought. Mix Creativity and invention for Idea."
   },
   "crossbow+human": {
     "result": "ranger",
@@ -295,269 +135,53 @@
     "result": "assassin",
     "reasoning": "Assassins favor daggers — silent, concealable, and deadly"
   },
-  "deja-vu+drawknife": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Drawknife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+drill": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Drill = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+dyeing": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Dyeing = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+dynamometer": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Dynamometer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+engine": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Engine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+eraser": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Eraser = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+forge-bellows": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Forge Bellows = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+forging": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Forging = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+funnel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Funnel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+garden-shed": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Garden Shed = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+gear": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Gear = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+gears": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Gears = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+generator": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Generator = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+gimbal": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Gimbal = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+gondola": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Gondola = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+grappling-hook": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Grappling Hook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+grinder": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Grinder = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+grinding": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Grinding = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+gun": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + gun = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+hammer": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Hammer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+hand-saw": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Hand Saw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+helicopter": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Helicopter = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+helmet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Helmet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+highway": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Highway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+hoe": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Hoe = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+hook": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Hook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+hot-air-balloon": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Hot Air Balloon = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+hunting": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Hunting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+invention": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + invention = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+jack": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Jack = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+junk-drawer": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Junk Drawer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+kettle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Kettle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+key": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + key = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+kitchen-gadget": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Kitchen Gadget = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+knife": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Knife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+knitting": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Knitting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+ladle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Ladle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+lantern": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Lantern = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+level": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Level = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+lever": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Lever = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+lock": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Lock = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+loom": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Loom = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+mace": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Mace = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+machine": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + machine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+magnifying-glass": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Magnifying Glass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+mallet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Mallet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+manacle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Manacle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+mechanical": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Mechanical = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+mining": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Mining = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+mortar-and-pestle": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Mortar and Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+motor": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Motor = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+motorcycle": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Motorcycle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+mousetrap": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Mousetrap = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+needle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Needle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+notebook": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Notebook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+oar": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Oar = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+padlock": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Padlock = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pen": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pen = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pencil": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pencil = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pestle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pick": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pick = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+piston": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Piston = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+plane": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Plane = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pliers": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pliers = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+plough": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Plough = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+plumb-bob": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Plumb Bob = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+power-tool": {
     "result": "diy-disaster",
@@ -567,121 +191,9 @@
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Protractor = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+pulley": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pulley = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+pump": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Pump = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+purse": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Purse = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+quill": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Quill = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+quiver": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Quiver = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+raft": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Raft = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+railway": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Railway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+rake": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Rake = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+ratchet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Ratchet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+rivet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Rivet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+road": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Road = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+rocket": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Rocket = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+ruler": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Ruler = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sailboat": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sailboat = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+satellite": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Satellite = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+saw": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Saw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+scale": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Scale = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+scalpel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Scalpel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+scissors": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Scissors = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+screw": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Screw = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sextant": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sextant = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+ship": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + ship = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+shovel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Shovel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sickle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sickle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sieve": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sieve = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sled": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sled = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+sledgehammer": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Sledgehammer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+smelting": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Smelting = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+snorkel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Snorkel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+socket-wrench": {
     "result": "diy-disaster",
@@ -691,161 +203,41 @@
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Soldering Iron = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+spear": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Spear = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+spindle": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Spindle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+spring": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Spring = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+spyglass": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Spyglass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+stapler": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Stapler = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+stencil": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Stencil = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+submarine": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Submarine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+subway": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Subway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+suitcase": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Suitcase = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sundial": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sundial = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+swiss-army-knife": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Swiss Army Knife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+sword": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Sword = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+tanning": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Tanning = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+taxi": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Taxi = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
   "deja-vu+thermometer": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Thermometer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+tongs": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Tongs = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+tool": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + tool = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+traffic": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Traffic = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+train": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Train = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+trap": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Trap = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+trebuchet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Trebuchet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+tripod": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Tripod = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+trowel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Trowel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+truck": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Truck = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+turbine": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Turbine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+valve": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Valve = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+vise": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Vise = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+wagon": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Wagon = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+wallet": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Wallet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+weaving": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Weaving = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+weight": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + weight = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+welding": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Welding = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
-  "deja-vu+wheel": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Wheel = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
-  },
   "deja-vu+wheelbarrow": {
     "result": "diy-disaster",
     "reasoning": "Deja Vu + Wheelbarrow = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   },
-  "deja-vu+whetstone": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Whetstone = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  "doubt+engine": {
+    "result": "failed-experiment",
+    "reasoning": "James Watt documented dozens of failed engine prototypes before perfecting his 1769 steam engine design, demonstrating that engineering doubt and iterative failure are the true engines of mechanical progress."
   },
-  "deja-vu+winch": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Winch = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  "dream+knife": {
+    "result": "bed",
+    "reasoning": "A bed is a piece of furniture that is used as a place to sleep, rest, and relax. So when Dream meets Knife, Bed is the natural outcome."
   },
-  "deja-vu+wing": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + wing = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  "dream+oar": {
+    "result": "bed",
+    "reasoning": "Wikipedia says: A bed is a piece of furniture that is used as a place to sleep, rest, and relax. That explains why Dream + Oar = Bed."
   },
-  "deja-vu+wrench": {
-    "result": "diy-disaster",
-    "reasoning": "Deja Vu + Wrench = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  "dream+tool": {
+    "result": "bed",
+    "reasoning": "Dream and tool share a deep connection. A bed is a piece of furniture that is used as a place to sleep, rest, and relax. Result: Bed."
+  },
+  "dream+wheel": {
+    "result": "bed",
+    "reasoning": "A bed is a piece of furniture that is used as a place to sleep, rest, and relax. That's the connection between Dream and Wheel — giving us Bed."
   },
   "drill+hand": {
     "result": "brace",
-    "reasoning": "Combine Drill with Hand to create Brace."
+    "reasoning": "A drill is a tool used for making round holes or driving fasteners. That's how Drill and hand give us Brace."
   },
   "drill+human": {
     "result": "miner",
@@ -863,20 +255,628 @@
     "result": "miner",
     "reasoning": "Drill technology lets miners reach deeper deposits"
   },
+  "electrician+taxi": {
+    "result": "architect",
+    "reasoning": "An architect is a person who plans, designs, and oversees the construction of buildings. So when Electrician meets Taxi, Architect is the natural outcome."
+  },
+  "engine+firefighter": {
+    "result": "combustion",
+    "reasoning": "The science is clear — Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Engine and Firefighter for Combustion."
+  },
+  "engine+generosity": {
+    "result": "community",
+    "reasoning": "Anthropologists have found that generosity — particularly food sharing — is the engine that drove the formation of the first human communities, as reciprocal altruism created bonds stronger than kinship alone."
+  },
   "engine+human": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running — the heartbeat of machines"
+  },
+  "engine+instinct": {
+    "result": "robot",
+    "reasoning": "Early roboticist Rodney Brooks argued that useful robots needed programmed 'subsumption architectures' — layered instinct-like reflexes that bypass deliberate reasoning — rather than complex engines of logical thought."
+  },
+  "engine+intuition": {
+    "result": "navigation",
+    "reasoning": "Before GPS, ship navigators used 'dead reckoning' — an intuitive engine of the mind combining speed, heading, and time — and the word 'navigation' itself derives from the Latin for ship, reflecting that seamanship was the original intuitive wayfinding."
+  },
+  "engine+lumberjack": {
+    "result": "sawmill",
+    "reasoning": "Steam-powered sawmills transformed the 19th-century lumber industry by replacing water wheels, allowing mills to operate anywhere a boiler could be fired and accelerating the clearing of North American forests."
   },
   "engine+man": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running — the heartbeat of machines"
   },
+  "engine+merchant": {
+    "result": "trade",
+    "reasoning": "The steam engine collapsed the cost of long-distance trade by replacing months-long ox-cart journeys with days-long rail shipments, enabling merchant capitalism to operate at continental scale and creating modern global supply chains."
+  },
   "engine+monk": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running — the heartbeat of machines"
   },
+  "engine+scribe": {
+    "result": "printing",
+    "reasoning": "Gutenberg's 1440 printing press was essentially a mechanical scribe — a wine-press engine fitted with movable type that could reproduce in hours what a monastery of copyists labored years to produce, making books affordable and literacy widespread."
+  },
+  "engine+speech": {
+    "result": "broadcast",
+    "reasoning": "Radio transmitters, the first 'speech engines,' enabled Reginald Fessenden to broadcast the human voice across hundreds of miles for the first time on Christmas Eve 1906."
+  },
+  "engine+wanderlust": {
+    "result": "motorcycle",
+    "reasoning": "The motorcycle—essentially a wanderlust engine on two wheels—was immortalized as a symbol of freedom by Jack Kerouac and Robert Pirsig, whose road-trip literature made the rumble of an engine synonymous with the open road."
+  },
   "engine+woman": {
     "result": "mechanic",
     "reasoning": "Mechanics keep engines running — the heartbeat of machines"
+  },
+  "eye+tripod": {
+    "result": "camera",
+    "reasoning": "The science is clear — A camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemically via a light-sensitive material such as photographic film. Mix eye and Tripod for camera."
+  },
+  "fear+knife": {
+    "result": "instinct",
+    "reasoning": "The amygdala triggers fight-or-flight instinct within milliseconds of detecting a sharp object — firing before conscious thought even registers the threat, a survival reflex honed across millions of years of predator-prey evolution."
+  },
+  "firefighter+magnifying-glass": {
+    "result": "glassblower",
+    "reasoning": "Glassblowing is a glassforming technique that involves inflating molten glass into a bubble with the aid of a blowpipe. That's how Firefighter and Magnifying Glass give us Glassblower."
+  },
+  "firefighter+mining": {
+    "result": "paramedic",
+    "reasoning": "Firefighter and Mining share a deep connection. A paramedic is a healthcare professional trained in the medical model, whose main role has historically been to respond to emergency calls for medical help outside of a hospital. Result: Paramedic."
+  },
+  "firefighter+rocket": {
+    "result": "combustion",
+    "reasoning": "Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. So when Firefighter meets Rocket, Combustion is the natural outcome."
+  },
+  "firefighter+smelting": {
+    "result": "carbon",
+    "reasoning": "The science is clear — Carbon is a chemical element; it has symbol C and atomic number 6. Mix Firefighter and Smelting for Carbon."
+  },
+  "forge-bellows+human": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+man": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+monk": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forge-bellows+woman": {
+    "result": "blacksmith",
+    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
+  },
+  "forging+instinct": {
+    "result": "foraging",
+    "reasoning": "Wikipedia says: Foraging is searching for wild food resources. That explains why Forging + Instinct = Foraging."
+  },
+  "gear+human": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+man": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+monk": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "gear+woman": {
+    "result": "engineer",
+    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
+  },
+  "generator+human": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+man": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+monk": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "generator+woman": {
+    "result": "electrician",
+    "reasoning": "Electricians install and maintain generators that create power"
+  },
+  "geologist+weight": {
+    "result": "chemistry",
+    "reasoning": "Chemistry is the scientific study of the properties and behavior of matter. So when Geologist meets weight, Chemistry is the natural outcome."
+  },
+  "gondola+navigator": {
+    "result": "boat",
+    "reasoning": "A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. So when Gondola meets Navigator, Boat is the natural outcome."
+  },
+  "grinder+potter": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Grinder meets Potter to create Corona."
+  },
+  "grinder+ranger": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Grinder meets Ranger to create Corona."
+  },
+  "grinder+weaver": {
+    "result": "cracker",
+    "reasoning": "The science is clear — Crackers are a type of biscuit. Mix Grinder and Weaver for Cracker."
+  },
+  "grinder+wonder": {
+    "result": "cracker",
+    "reasoning": "Crackers are a type of biscuit. That's the connection between Grinder and Wonder — giving us Cracker."
+  },
+  "guard+hot-air-balloon": {
+    "result": "diy-disaster",
+    "reasoning": "Guard + Hot Air Balloon = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "guard+magnifying-glass": {
+    "result": "diy-disaster",
+    "reasoning": "Guard + Magnifying Glass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "guard+mortar-and-pestle": {
+    "result": "diy-disaster",
+    "reasoning": "Guard + Mortar and Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "guard+sledgehammer": {
+    "result": "diy-disaster",
+    "reasoning": "Guard + Sledgehammer = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "guard+swiss-army-knife": {
+    "result": "diy-disaster",
+    "reasoning": "Guard + Swiss Army Knife = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "gun+human": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+man": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+monk": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "gun+woman": {
+    "result": "hunter",
+    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
+  },
+  "hammer+human": {
+    "result": "blacksmith",
+    "reasoning": "A human wielding a hammer becomes a Blacksmith"
+  },
+  "hammer+man": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+monk": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "hammer+woman": {
+    "result": "blacksmith",
+    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
+  },
+  "head+traffic": {
+    "result": "building",
+    "reasoning": "head combined with Traffic yields building"
+  },
+  "head+wing": {
+    "result": "evolution",
+    "reasoning": "The science is clear — Evolution is the change in the heritable characteristics of biological populations over successive generations. Mix head and wing for Evolution."
+  },
+  "helicopter+human": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+man": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+monk": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helicopter+woman": {
+    "result": "pilot",
+    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "helmet+human": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+man": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+monk": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "helmet+woman": {
+    "result": "centurion",
+    "reasoning": "Roman centurions wore crested helmets to lead their legions"
+  },
+  "hoe+human": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+man": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+monk": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+woman": {
+    "result": "farmer",
+    "reasoning": "The hoe — the most basic and universal farming tool"
+  },
+  "hoe+wonder": {
+    "result": "board",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Hoe meets Wonder to create board."
+  },
+  "human+kettle": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "human+key": {
+    "result": "locksmith",
+    "reasoning": "Locksmithing is the work of creating and bypassing locks. Combine human with key and you naturally get Locksmith."
+  },
+  "human+knife": {
+    "result": "butcher",
+    "reasoning": "Here's the connection: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. So human + Knife = Butcher."
+  },
+  "human+lock": {
+    "result": "locksmith",
+    "reasoning": "Locksmithing is the work of creating and bypassing locks. That's how human and Lock give us Locksmith."
+  },
+  "human+loom": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "human+mace": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "human+machine": {
+    "result": "mechanic",
+    "reasoning": "human and machine together? A mechanic is a skilled tradesperson who uses tools to build, maintain, or repair machinery, especially engines. The result: Mechanic."
+  },
+  "human+magnifying-glass": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "human+needle": {
+    "result": "tailor",
+    "reasoning": "Here's the connection: A tailor is a person who makes or alters clothing, particularly men's clothing. So human + Needle = Tailor."
+  },
+  "human+notebook": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "human+padlock": {
+    "result": "locksmith",
+    "reasoning": "Locksmithing is the work of creating and bypassing locks. That's how human and Padlock give us Locksmith."
+  },
+  "human+pen": {
+    "result": "author",
+    "reasoning": "The pen is mightier than the sword — authors shape history"
+  },
+  "human+pick": {
+    "result": "miner",
+    "reasoning": "Miners use picks to extract ore from deep underground"
+  },
+  "human+pliers": {
+    "result": "plumber",
+    "reasoning": "Plumbers use pliers to grip pipes — keeping water flowing"
+  },
+  "human+plough": {
+    "result": "farmer",
+    "reasoning": "Ploughs turn soil for planting — the tool that made cities possible"
+  },
+  "human+quill": {
+    "result": "scribe",
+    "reasoning": "Scribes used goose quill pens for over 1,000 years"
+  },
+  "human+rocket": {
+    "result": "astronaut",
+    "reasoning": "human and Rocket combine in the cosmos to create Astronaut"
+  },
+  "human+sailboat": {
+    "result": "sailor",
+    "reasoning": "Sailors have crossed oceans under sail for thousands of years"
+  },
+  "human+saw": {
+    "result": "carpenter",
+    "reasoning": "Carpenters cut wood to build — saws have existed since ancient Egypt"
+  },
+  "human+scale": {
+    "result": "scientist",
+    "reasoning": "Scientists use precision scales to measure matter"
+  },
+  "human+scalpel": {
+    "result": "surgeon",
+    "reasoning": "Surgeons wield scalpels with incredible precision"
+  },
+  "human+scissors": {
+    "result": "barber",
+    "reasoning": "human and Scissors together? A barber is a person whose occupation is mainly to cut, dress, groom, style and shave hair or beards. The result: Barber."
+  },
+  "human+sextant": {
+    "result": "navigator",
+    "reasoning": "Sextants let sailors determine latitude by measuring star angles"
+  },
+  "human+ship": {
+    "result": "pirate",
+    "reasoning": "Through mystical forces, human and ship become Pirate"
+  },
+  "human+shovel": {
+    "result": "miner",
+    "reasoning": "Miners dig with shovels — unearthing the earth's treasures"
+  },
+  "human+sickle": {
+    "result": "farmer",
+    "reasoning": "Farmers have harvested grain with sickles for 10,000 years"
+  },
+  "human+spear": {
+    "result": "gladiator",
+    "reasoning": "Gladiators fought with spears in Roman arenas"
+  },
+  "human+submarine": {
+    "result": "diver",
+    "reasoning": "Divers explore the deep — submarines are their ultimate vehicle"
+  },
+  "human+sword": {
+    "result": "army",
+    "reasoning": "human and Sword together shape Army"
+  },
+  "human+thermometer": {
+    "result": "scientist",
+    "reasoning": "Galileo invented the thermometer — measuring heat scientifically"
+  },
+  "human+tool": {
+    "result": "weaver",
+    "reasoning": "A human at a loom is a Weaver"
+  },
+  "human+traffic": {
+    "result": "road",
+    "reasoning": "The Romans engineered over 85,000 km of roads specifically designed to move humans, armies, and goods at predictable speeds — the phrase 'all roads lead to Rome' reflects how mastering human traffic flow built an empire."
+  },
+  "human+trap": {
+    "result": "spy",
+    "reasoning": "Spies set traps — information warfare at its finest"
+  },
+  "human+trebuchet": {
+    "result": "centurion",
+    "reasoning": "The trebuchet — the medieval superweapon of siege warfare"
+  },
+  "human+wheel": {
+    "result": "wheelchair",
+    "reasoning": "A wheelchair is a mobilized form of chair using two or more wheels, a footrest, and an armrest usually cushioned. That's how human and Wheel give us Wheelchair."
+  },
+  "human+wrench": {
+    "result": "mechanic",
+    "reasoning": "Mechanics reach for wrenches — the universal fixing tool"
+  },
+  "hunter+mousetrap": {
+    "result": "hunting",
+    "reasoning": "Hunting is the human practice of seeking, pursuing, capturing, and killing wildlife or feral animals. That's the connection between Hunter and Mousetrap — giving us Hunting."
+  },
+  "idea+invention": {
+    "result": "creativity",
+    "reasoning": "Here's a real-world link: Creativity is the ability to generate novel and valuable ideas or works through the exercise of imagination. Combine Idea with invention and you get Creativity."
+  },
+  "idea+tool": {
+    "result": "invention",
+    "reasoning": "Crafting Idea with tool produces invention"
+  },
+  "intelligence+sword": {
+    "result": "samurai",
+    "reasoning": "The samurai code of Bushido demanded equal mastery of the sword and the intellectual arts—calligraphy, poetry, and Zen philosophy—because a warrior guided by intelligence was considered far more dangerous than one relying on brute force alone."
+  },
+  "intuition+invention": {
+    "result": "creativity",
+    "reasoning": "The science is clear — Creativity is the ability to generate novel and valuable ideas or works through the exercise of imagination. Mix Intuition and invention for Creativity."
+  },
+  "invention+thought": {
+    "result": "creativity",
+    "reasoning": "invention and Thought share a deep connection. Creativity is the ability to generate novel and valuable ideas or works through the exercise of imagination. Result: Creativity."
+  },
+  "jack+potter": {
+    "result": "crane",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Jack meets Potter to create Crane."
+  },
+  "jack+ranger": {
+    "result": "crane",
+    "reasoning": "Both Jack and Ranger are rooted in Place Name Disambiguation Pages. Together they make Crane."
+  },
+  "jack+weaver": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between Jack and Weaver — giving us Delta."
+  },
+  "jack+wonder": {
+    "result": "delta",
+    "reasoning": "The science is clear — Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Mix Jack and Wonder for Delta."
+  },
+  "kettle+man": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+monk": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "kettle+woman": {
+    "result": "brewer",
+    "reasoning": "Brewers use kettles to boil wort — the key step in making beer"
+  },
+  "key+man": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+monk": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+potter": {
+    "result": "delta",
+    "reasoning": "Wikipedia says: Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That explains why key + Potter = Delta."
+  },
+  "key+ranger": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between key and Ranger — giving us Delta."
+  },
+  "key+weaver": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier So when key meets Weaver, Delta is the natural outcome."
+  },
+  "key+woman": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+wonder": {
+    "result": "delta",
+    "reasoning": "The science is clear — Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Mix key and Wonder for Delta."
+  },
+  "knife+nightmare": {
+    "result": "bed",
+    "reasoning": "The science is clear — A bed is a piece of furniture that is used as a place to sleep, rest, and relax. Mix Knife and Nightmare for Bed."
+  },
+  "knife+sleep": {
+    "result": "bed",
+    "reasoning": "Wikipedia says: A bed is a piece of furniture that is used as a place to sleep, rest, and relax. That explains why Knife + sleep = Bed."
+  },
+  "knitting+scribe": {
+    "result": "calligraphy",
+    "reasoning": "Wikipedia says: Calligraphy is fine handwriting taken to the level of visual art. That explains why Knitting + Scribe = Calligraphy."
+  },
+  "level+potter": {
+    "result": "delta",
+    "reasoning": "Wikipedia says: Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That explains why Level + Potter = Delta."
+  },
+  "level+ranger": {
+    "result": "delta",
+    "reasoning": "Level and Ranger share a deep connection. Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Result: Delta."
+  },
+  "level+weaver": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. So when Level meets Weaver, Domain is the natural outcome."
+  },
+  "level+wonder": {
+    "result": "domain",
+    "reasoning": "The science is clear — A domain is a geographic area controlled by a single person or organization. Mix Level and Wonder for Domain."
+  },
+  "lock+man": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+monk": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+potter": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. So when Lock meets Potter, Domain is the natural outcome."
+  },
+  "lock+ranger": {
+    "result": "domain",
+    "reasoning": "Here's a real-world link: A domain is a geographic area controlled by a single person or organization. Combine Lock with Ranger and you get Domain."
+  },
+  "lock+weaver": {
+    "result": "domain",
+    "reasoning": "Lock and Weaver share a deep connection. A domain is a geographic area controlled by a single person or organization. Result: Domain."
+  },
+  "lock+woman": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+wonder": {
+    "result": "domain",
+    "reasoning": "Here's a real-world link: A domain is a geographic area controlled by a single person or organization. Combine Lock with Wonder and you get Domain."
+  },
+  "loom+man": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "loom+monk": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "loom+tailor": {
+    "result": "button",
+    "reasoning": "Wikipedia says: A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. That explains why Loom + Tailor = button."
+  },
+  "loom+woman": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "lumberjack+machine": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + machine = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+magnifying-glass": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Magnifying Glass = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+manacle": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Manacle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+mechanical": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Mechanical = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+mortar-and-pestle": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Mortar and Pestle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+motorcycle": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Motorcycle = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+mousetrap": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Mousetrap = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+notebook": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Notebook = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+padlock": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Padlock = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+plumb-bob": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Plumb Bob = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+power-tool": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Power Tool = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+protractor": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Protractor = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+railway": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Railway = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+ratchet": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Ratchet = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
+  },
+  "lumberjack+sailboat": {
+    "result": "diy-disaster",
+    "reasoning": "Lumberjack + Sailboat = a DIY Disaster. 'I watched a YouTube video, how hard can it be?'"
   }
 }

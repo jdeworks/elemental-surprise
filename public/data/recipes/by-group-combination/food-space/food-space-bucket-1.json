@@ -1,27 +1,7 @@
 {
-  "aioli+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "alcohol+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "astronaut-food+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
   "bagel+sun": {
     "result": "toast",
     "reasoning": "Toasted bagels with cream cheese, a New York breakfast Toast ritual"
-  },
-  "baklava+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "barn+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
   },
   "batter+sun": {
     "result": "pancake",
@@ -31,89 +11,33 @@
     "result": "brewing",
     "reasoning": "Brewing beer requires boiling the wort, heat is essential"
   },
-  "biscuit+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
   "bread+ring": {
     "result": "bagel",
-    "reasoning": "Combine Bread with Ring to create Bagel."
+    "reasoning": "Here's the connection: A bagel is a bread roll originating in the Jewish communities of Poland. So Bread + ring = Bagel."
   },
   "bread+sun": {
     "result": "toast",
     "reasoning": "Toasting bread caramelizes its sugars into crunchy golden Toast"
   },
-  "brewing+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brioche+brown-dwarf": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Brown Dwarf = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+comet": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Comet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+constellation": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Constellation = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+corona": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Corona = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+cosmic-dust": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Cosmic Dust = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+cosmic-ray": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Cosmic Ray = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+cosmic-string": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Cosmic String = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+dark-energy": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Dark Energy = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+dark-matter": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Dark Matter = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+dawn": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Dawn = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+day": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Day = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+dwarf-planet": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Dwarf Planet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+dwarf-star": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Dwarf Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+dyson-sphere": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Dyson Sphere = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+eclipse": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+event-horizon": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Event Horizon = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+exoplanet": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Exoplanet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+extraterrestrial": {
     "result": "astronaut-food",
@@ -122,10 +46,6 @@
   "brioche+galactic-core": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Galactic Core = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+galaxy": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Galaxy = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+gamma-ray-burst": {
     "result": "astronaut-food",
@@ -139,17 +59,9 @@
     "result": "astronaut-food",
     "reasoning": "Brioche + Gravitational Wave = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+gravity": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Gravity = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+gravity-wave": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Gravity Wave = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+heliopause": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Heliopause = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+hubble-telescope": {
     "result": "astronaut-food",
@@ -159,25 +71,9 @@
     "result": "astronaut-food",
     "reasoning": "Brioche + Interstellar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+iss": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + ISS = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+james-webb": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + James Webb = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+kuiper-belt": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Kuiper Belt = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+lagrange-point": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Lagrange Point = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+light-year": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Light Year = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+lunar-crater": {
     "result": "astronaut-food",
@@ -187,161 +83,33 @@
     "result": "astronaut-food",
     "reasoning": "Brioche + Lunar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+magnetar": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Magnetar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+mars": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Mars = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+mars-colony": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Mars Colony = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+mars-rover": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Mars Rover = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+meteor": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Meteor = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+meteor-shower": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Meteor Shower = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+meteorite": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Meteorite = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+milky-way": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Milky Way = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+moon": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Moon = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+moon-base": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Moon Base = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+moon-landing": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Moon Landing = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+moonlight": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Moonlight = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+multiverse": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Multiverse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+nasa": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + NASA = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+nebula": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Nebula = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+neutron-star": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Neutron Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+night": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Night = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+nova": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Nova = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+observatory": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Observatory = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+oort-cloud": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Oort Cloud = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+orbit": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Orbit = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+planet": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Planet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+planetarium": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Planetarium = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+planetary-ring": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Planetary Ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+protostar": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Protostar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+pulsar": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Pulsar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+quasar": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Quasar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+radio-telescope": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Radio Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+red-giant": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Red Giant = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+ring": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+satellite-dish": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Satellite Dish = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+saturn": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Saturn = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+seti": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + SETI = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+sky": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Sky = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+solar-eclipse": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Solar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+solar-flare": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Solar Flare = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+solar-sail": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Solar Sail = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+solar-wind": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Solar Wind = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+space": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + space = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+space-debris": {
     "result": "astronaut-food",
@@ -351,113 +119,25 @@
     "result": "astronaut-food",
     "reasoning": "Brioche + Space Elevator = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+space-junk": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Space Junk = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+space-monkey": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Space Monkey = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+space-probe": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Space Probe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+space-station": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Space Station = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+space-suit": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Space Suit = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "brioche+space-telescope": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Space Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "brioche+space-wrench": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Space Wrench = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+star": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+star-map": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Star Map = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "brioche+sunlight": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Sunlight = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+sunset": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Sunset = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+sunspot": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Sunspot = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+supernova": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Supernova = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+telescope": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+terraforming": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Terraforming = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+time-travel": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Time Travel = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+ufo": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + UFO = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+universe": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Universe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "brioche+voyager-probe": {
     "result": "astronaut-food",
     "reasoning": "Brioche + Voyager Probe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+white-dwarf": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + White Dwarf = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+wormhole": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Wormhole = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "brioche+zero-gravity": {
-    "result": "astronaut-food",
-    "reasoning": "Brioche + Zero Gravity = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "broth+sun": {
     "result": "soup",
     "reasoning": "Heating broth with ingredients creates Soup, universal comfort food"
   },
-  "bruschetta+comet": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Comet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+constellation": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Constellation = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+corona": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Corona = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+cosmic-dust": {
     "result": "astronaut-food",
@@ -479,14 +159,6 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Dark Matter = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+dawn": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Dawn = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+day": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Day = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+dwarf-planet": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Dwarf Planet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
@@ -499,17 +171,9 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Dyson Sphere = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+eclipse": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+event-horizon": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Event Horizon = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+exoplanet": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Exoplanet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+extraterrestrial": {
     "result": "astronaut-food",
@@ -518,10 +182,6 @@
   "bruschetta+galactic-core": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Galactic Core = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+galaxy": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Galaxy = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+gamma-ray-burst": {
     "result": "astronaut-food",
@@ -534,10 +194,6 @@
   "bruschetta+gravitational-wave": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Gravitational Wave = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+gravity": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Gravity = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+gravity-wave": {
     "result": "astronaut-food",
@@ -554,10 +210,6 @@
   "bruschetta+interstellar": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Interstellar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+iss": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + ISS = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+james-webb": {
     "result": "astronaut-food",
@@ -583,14 +235,6 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Lunar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+magnetar": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Magnetar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+mars": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Mars = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+mars-colony": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Mars Colony = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
@@ -599,61 +243,21 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Mars Rover = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+meteor": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Meteor = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+meteor-shower": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Meteor Shower = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+meteorite": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Meteorite = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+milky-way": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Milky Way = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+moon": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Moon = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+moon-base": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Moon Base = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+moon-landing": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Moon Landing = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+moonlight": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Moonlight = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+multiverse": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Multiverse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+nasa": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + NASA = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+nebula": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Nebula = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+neutron-star": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Neutron Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+night": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Night = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+nova": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Nova = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+observatory": {
     "result": "astronaut-food",
@@ -663,14 +267,6 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Oort Cloud = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+orbit": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Orbit = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+planet": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Planet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+planetarium": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Planetarium = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
@@ -679,45 +275,13 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Planetary Ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+protostar": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Protostar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+pulsar": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Pulsar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+quasar": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Quasar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+radio-telescope": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Radio Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+red-giant": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Red Giant = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+ring": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+satellite-dish": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Satellite Dish = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+saturn": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Saturn = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+seti": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + SETI = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+sky": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Sky = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+solar-eclipse": {
     "result": "astronaut-food",
@@ -734,10 +298,6 @@
   "bruschetta+solar-wind": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Solar Wind = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+space": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + space = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+space-debris": {
     "result": "astronaut-food",
@@ -775,38 +335,6 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Space Wrench = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+star": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+star-map": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Star Map = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "bruschetta+sunlight": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Sunlight = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+sunset": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Sunset = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+sunspot": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Sunspot = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+supernova": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Supernova = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+telescope": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+terraforming": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Terraforming = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
@@ -814,14 +342,6 @@
   "bruschetta+time-travel": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Time Travel = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+ufo": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + UFO = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "bruschetta+universe": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Universe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
   "bruschetta+voyager-probe": {
     "result": "astronaut-food",
@@ -831,17 +351,9 @@
     "result": "astronaut-food",
     "reasoning": "Bruschetta + White Dwarf = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
   },
-  "bruschetta+wormhole": {
-    "result": "astronaut-food",
-    "reasoning": "Bruschetta + Wormhole = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
   "bruschetta+zero-gravity": {
     "result": "astronaut-food",
     "reasoning": "Bruschetta + Zero Gravity = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
-  },
-  "burrito+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
   },
   "butter+sun": {
     "result": "cooking",
@@ -859,24 +371,444 @@
     "result": "candy",
     "reasoning": "Heating Caramel further creates hard Candy, sugar glass"
   },
-  "caviar+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "ceviche+sun": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
   "cheese+sun": {
     "result": "fondue",
     "reasoning": "Heat melts cheese into Fondue, Switzerland's communal dish"
   },
-  "chili+comet": {
-    "result": "astronaut-food",
-    "reasoning": "Chili + Comet = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  "chili+corona": {
+    "result": "cardinal",
+    "reasoning": "Both Chili and Corona are rooted in Place Name Disambiguation Pages. Together they make Cardinal."
   },
-  "chili+constellation": {
+  "chili+extraterrestrial": {
     "result": "astronaut-food",
-    "reasoning": "Chili + Constellation = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+    "reasoning": "Chili + Extraterrestrial = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+gamma-ray-burst": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Gamma Ray Burst = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+globular-cluster": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Globular Cluster = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+gravitational-wave": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Gravitational Wave = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+hubble-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Hubble Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+radio-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Radio Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+space-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Chili + Space Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "chili+sun": {
+    "result": "corona",
+    "reasoning": "Here's the connection: The Sun is the star at the centre of the Solar System. So Chili + sun = Corona."
+  },
+  "chocolate+sun": {
+    "result": "fondue",
+    "reasoning": "Melted chocolate becomes Fondue, the ultimate dessert dip"
+  },
+  "cider+sun": {
+    "result": "brewing",
+    "reasoning": "Heated cider with spices becomes mulled cider, autumn Brewing"
+  },
+  "cobbler+corona": {
+    "result": "chat",
+    "reasoning": "Cobbler and Corona both belong to the world of Place Name Disambiguation Pages — combine them for Chat."
+  },
+  "coffee+sun": {
+    "result": "espresso",
+    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  },
+  "cookie+sun": {
+    "result": "cooking",
+    "reasoning": "Baking cookies fills the house with the best Cooking smell"
+  },
+  "corn+sun": {
+    "result": "popcorn",
+    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
+  },
+  "corona+cracker": {
+    "result": "chili",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Corona meets Cracker to create Chili."
+  },
+  "corona+pepper": {
+    "result": "chili",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Corona meets Pepper to create Chili."
+  },
+  "cream+sun": {
+    "result": "custard",
+    "reasoning": "Heated cream with eggs sets into silky Custard"
+  },
+  "croissant+sun": {
+    "result": "toast",
+    "reasoning": "A toasted croissant is extra flaky and buttery, warm Toast"
+  },
+  "curry+sun": {
+    "result": "cooking",
+    "reasoning": "Curry spices bloom in hot oil, the first step in Indian Cooking"
+  },
+  "dough+sun": {
+    "result": "bread",
+    "reasoning": "Baking Dough creates Bread, the Maillard reaction makes that golden crust"
+  },
+  "dumpling+sun": {
+    "result": "dim-sum",
+    "reasoning": "Steamed dumplings become Dim Sum, Cantonese breakfast tradition"
+  },
+  "egg-food+sun": {
+    "result": "omelette",
+    "reasoning": "Heat transforms eggs into an Omelette, the French cook's test"
+  },
+  "flour+sun": {
+    "result": "bread",
+    "reasoning": "Flour in a hot oven with yeast becomes risen Bread"
+  },
+  "flour+time-travel": {
+    "result": "sourdough",
+    "reasoning": "Sourdough is a type of bread that uses fermentation by naturally occurring yeast and lactobacillus bacteria to raise (leaven) the dough. That's how Flour and Time Travel give us Sourdough."
+  },
+  "focaccia+sun": {
+    "result": "toast",
+    "reasoning": "Toasted focaccia with olive oil is crispy Italian Toast"
+  },
+  "gelatin+globular-cluster": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Globular Cluster = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+gravitational-wave": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Gravitational Wave = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+hubble-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Hubble Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+lagrange-point": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Lagrange Point = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+lunar-eclipse": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Lunar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+meteor-shower": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Meteor Shower = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+planetary-ring": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Planetary Ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+radio-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Radio Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+satellite-dish": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Satellite Dish = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+solar-eclipse": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Solar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+space-elevator": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Space Elevator = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+space-station": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Space Station = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+space-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Space Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "gelatin+voyager-probe": {
+    "result": "astronaut-food",
+    "reasoning": "Gelatin + Voyager Probe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+interstellar": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Interstellar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+kuiper-belt": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Kuiper Belt = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+lunar-crater": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Lunar Crater = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+lunar-eclipse": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Lunar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+meteor-shower": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Meteor Shower = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+observatory": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Observatory = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+satellite-dish": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Satellite Dish = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+solar-flare": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Solar Flare = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+space-debris": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Space Debris = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+space-monkey": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Space Monkey = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "hamburger+terraforming": {
+    "result": "astronaut-food",
+    "reasoning": "Hamburger + Terraforming = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "harvest+sun": {
+    "result": "wheat",
+    "reasoning": "Wheat's amber waves are essentially stored sunlight — photosynthesis converts solar energy into carbohydrates, and the timing of harvest is dictated by solar seasons, making wheat civilization's most important capture of solar energy."
+  },
+  "hummus+sun": {
+    "result": "falafel",
+    "reasoning": "Heated chickpea mixture is shaped and fried into Falafel"
+  },
+  "ice-cream+orbit": {
+    "result": "kuiper-belt",
+    "reasoning": "Did you know? The Kuiper belt is a circumstellar disc in the outer Solar System, extending from the orbit of Neptune at 30 astronomical units (AU) to approximately 50 AU from the Sun. That's why Ice Cream + Orbit = Kuiper Belt."
+  },
+  "ice-cream+sun": {
+    "result": "oort-cloud",
+    "reasoning": "Ice Cream and sun together? The Oort cloud, sometimes called the Öpik–Oort cloud, is theorized to be a cloud of billions of icy planetesimals surrounding the Sun at distances ranging from 2,000 to 200,000 AU. The result: Oort Cloud."
+  },
+  "juice+sun": {
+    "result": "jam",
+    "reasoning": "Boiling juice with sugar concentrates it into Jam"
+  },
+  "kimchi+sun": {
+    "result": "stew",
+    "reasoning": "Kimchi jjigae, fermented kimchi becomes a bubbling spicy Stew"
+  },
+  "maple-syrup+sun": {
+    "result": "caramel",
+    "reasoning": "Boiling maple syrup further concentrates it into maple Caramel"
+  },
+  "meat+sun": {
+    "result": "jerky",
+    "reasoning": "Meat dried in the sun becomes Jerky"
+  },
+  "milk+sun": {
+    "result": "cream",
+    "reasoning": "Heating milk causes it to reduce and thicken into rich Cream"
+  },
+  "mushroom-soup+neutron-star": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Neutron Star = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+observatory": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Observatory = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+oort-cloud": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Oort Cloud = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+planetarium": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Planetarium = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+planetary-ring": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Planetary Ring = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+protostar": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Protostar = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+radio-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Radio Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+red-giant": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Red Giant = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+satellite-dish": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Satellite Dish = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+solar-eclipse": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Solar Eclipse = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+solar-flare": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Solar Flare = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+solar-sail": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Solar Sail = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+solar-wind": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Solar Wind = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-debris": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Debris = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-elevator": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Elevator = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-junk": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Junk = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-monkey": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Monkey = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-probe": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Probe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-station": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Station = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-suit": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Suit = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+space-wrench": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Space Wrench = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+star-map": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Star Map = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+sunlight": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Sunlight = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+sunspot": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Sunspot = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+supernova": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Supernova = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+terraforming": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Terraforming = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+time-travel": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Time Travel = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+universe": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Universe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+voyager-probe": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Voyager Probe = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+white-dwarf": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + White Dwarf = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+wormhole": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Wormhole = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "mushroom-soup+zero-gravity": {
+    "result": "astronaut-food",
+    "reasoning": "Mushroom Soup + Zero Gravity = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "naan+sun": {
+    "result": "bread",
+    "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
+  },
+  "noodle+sun": {
+    "result": "ramen",
+    "reasoning": "Noodles cooked in hot broth become Ramen, Japan's comfort food"
+  },
+  "olive+sun": {
+    "result": "olive-oil",
+    "reasoning": "Pressing heated olives yields Olive Oil, Mediterranean liquid gold"
+  },
+  "pasta+sun": {
+    "result": "spaghetti",
+    "reasoning": "Boiling pasta al dente is the Italian art of perfect Spaghetti"
+  },
+  "porridge+sun": {
+    "result": "toast",
+    "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
+  },
+  "quiche+sun": {
+    "result": "greenhouse",
+    "reasoning": "The greenhouse effect, named because glass structures trap solar heat to grow food like the vegetables in quiche, is both the agricultural technology that extends growing seasons and the atmospheric phenomenon reshaping Earth's climate."
+  },
+  "roast+space-telescope": {
+    "result": "astronaut-food",
+    "reasoning": "Roast + Space Telescope = Astronaut Food. Freeze-dried ice cream: disappointing on Earth, amazing in orbit."
+  },
+  "spice+sun": {
+    "result": "curry",
+    "reasoning": "Toasting spices in oil blooms their essential oils, the start of Curry"
+  },
+  "star+wine": {
+    "result": "constellation",
+    "reasoning": "Ancient Greek and Roman astronomers mapped the night sky at outdoor symposia fueled by wine, naming constellations after mythological figures — Dionysus, god of wine, even inspired the star cluster Vindemiatrix ('grape-gatherer')."
+  },
+  "sugar+sun": {
+    "result": "caramel",
+    "reasoning": "Heat transforms white sugar into golden Caramel at 170 degrees C"
+  },
+  "sun+sushi": {
+    "result": "tempura",
+    "reasoning": "Heat transforms raw sushi ingredients into crispy Tempura"
+  },
+  "sun+tea": {
+    "result": "brewing",
+    "reasoning": "Hot water extracts flavor from tea leaves, the art of Brewing"
+  },
+  "sun+tortilla": {
+    "result": "taco",
+    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
+  },
+  "sun+wheat": {
+    "result": "corn",
+    "reasoning": "Combining sun with wheat makes delicious Corn"
+  },
+  "sun+wine": {
+    "result": "vineyard",
+    "reasoning": "Grapevines require over 1,300 hours of direct sunlight annually to develop the sugars that ferment into wine — a great vintage is literally bottled sunlight, with terroir determined largely by how each hillside faces the sun."
   }
 }

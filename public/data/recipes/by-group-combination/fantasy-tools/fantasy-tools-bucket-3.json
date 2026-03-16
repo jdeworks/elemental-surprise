@@ -1,172 +1,4 @@
 {
-  "forge-bellows+lich-king": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "forge-bellows+philosopher-stone": {
-    "result": "lava",
-    "reasoning": "Forge Bellows melts Philosopher Stone into flowing Lava."
-  },
-  "forge-bellows+queen": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "forge-bellows+space-wizard": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "forge-bellows+water-elemental": {
-    "result": "steam",
-    "reasoning": "Forge Bellows turns Water Elemental to Steam — the force that powered the Industrial Revolution."
-  },
-  "forge-bellows+witch": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "forge-bellows+wizard": {
-    "result": "blacksmith",
-    "reasoning": "Bellows blast air into the forge to reach metal-melting temperatures"
-  },
-  "frost-giant+spring": {
-    "result": "ice",
-    "reasoning": "Frost Giant freezes Spring into Ice — water's solid form."
-  },
-  "gear+king": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+knight": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+lich-king": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+queen": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+space-wizard": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+witch": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "gear+wizard": {
-    "result": "engineer",
-    "reasoning": "Engineers design gears — the teeth that transfer mechanical power"
-  },
-  "generator+king": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+knight": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+lich-king": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+queen": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+space-wizard": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+witch": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "generator+wizard": {
-    "result": "electrician",
-    "reasoning": "Electricians install and maintain generators that create power"
-  },
-  "grinder+philosopher-stone": {
-    "result": "whetstone",
-    "reasoning": "Combine Grinder with Philosopher Stone to create Whetstone."
-  },
-  "gun+king": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+knight": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+lich-king": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+queen": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+space-wizard": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+witch": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "gun+wizard": {
-    "result": "hunter",
-    "reasoning": "Hunters use firearms for game — the modern evolution of the bow"
-  },
-  "hammer+king": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+knight": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+lich-king": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+queen": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+space-wizard": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+witch": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "hammer+wizard": {
-    "result": "blacksmith",
-    "reasoning": "Blacksmiths have hammered metal into shape for 6,000 years"
-  },
-  "helicopter+king": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
-  "helicopter+knight": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
-  "helicopter+lich-king": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
-  "helicopter+queen": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
-  "helicopter+space-wizard": {
-    "result": "pilot",
-    "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
-  },
   "helicopter+witch": {
     "result": "pilot",
     "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
@@ -174,6 +6,18 @@
   "helicopter+wizard": {
     "result": "pilot",
     "reasoning": "Helicopter pilots can hover, land anywhere, and rescue anyone"
+  },
+  "hellhound+pen": {
+    "result": "goose",
+    "reasoning": "The science is clear — A goose is a bird of any of several waterfowl species in the family Anatidae. Mix Hellhound and Pen for Goose."
+  },
+  "hellhound+quill": {
+    "result": "goose",
+    "reasoning": "Hellhound and Quill share a deep connection. A goose is a bird of any of several waterfowl species in the family Anatidae. Result: Goose."
+  },
+  "hellhound+trebuchet": {
+    "result": "germany",
+    "reasoning": "The science is clear — Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. Mix Hellhound and Trebuchet for Germany."
   },
   "helmet+king": {
     "result": "centurion",
@@ -219,6 +63,10 @@
     "result": "farmer",
     "reasoning": "The hoe — the most basic and universal farming tool"
   },
+  "hoe+roc": {
+    "result": "board",
+    "reasoning": "Hoe and Roc both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for board."
+  },
   "hoe+space-wizard": {
     "result": "farmer",
     "reasoning": "The hoe — the most basic and universal farming tool"
@@ -233,447 +81,95 @@
   },
   "hot-air-balloon+spirit": {
     "result": "sylph",
-    "reasoning": "Combine Spirit with Hot Air Balloon to create Sylph."
-  },
-  "hydra+invention": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + invention = a Magic Wand. Point and swish. Hope for the best."
+    "reasoning": "Here's the connection: A sylph is an air spirit stemming from the 16th-century works of Paracelsus, who describes sylphs as (invisible) beings of the air, his elementals of air. So Hot Air Balloon + Spirit = Sylph."
   },
   "hydra+jack": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Jack = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+junk-drawer": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Junk Drawer = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+kettle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Kettle = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Crackers are a type of biscuit. So when Hydra meets Jack, Cracker is the natural outcome."
   },
   "hydra+key": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + key = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+kitchen-gadget": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Kitchen Gadget = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+knife": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Knife = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+knitting": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Knitting = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+ladle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Ladle = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+lantern": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Lantern = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Here's a real-world link: Crackers are a type of biscuit. Combine Hydra with key and you get Cracker."
   },
   "hydra+level": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Level = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+lever": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Lever = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Wikipedia says: Crackers are a type of biscuit. That explains why Hydra + Level = Cracker."
   },
   "hydra+lock": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Lock = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+loom": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Loom = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Hydra and Lock share a deep connection. Crackers are a type of biscuit. Result: Cracker."
   },
   "hydra+mace": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Mace = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+machine": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + machine = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Crackers are a type of biscuit. So when Hydra meets Mace, Cracker is the natural outcome."
   },
   "hydra+magnifying-glass": {
     "result": "magic-wand",
     "reasoning": "Hydra + Magnifying Glass = a Magic Wand. Point and swish. Hope for the best."
   },
-  "hydra+mallet": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Mallet = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+manacle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Manacle = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+mechanical": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Mechanical = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+mining": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Mining = a Magic Wand. Point and swish. Hope for the best."
-  },
   "hydra+mortar-and-pestle": {
     "result": "magic-wand",
     "reasoning": "Hydra + Mortar and Pestle = a Magic Wand. Point and swish. Hope for the best."
   },
-  "hydra+motor": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Motor = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+motorcycle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Motorcycle = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+mousetrap": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Mousetrap = a Magic Wand. Point and swish. Hope for the best."
-  },
   "hydra+needle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Needle = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+notebook": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Notebook = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+oar": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Oar = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+padlock": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Padlock = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pen": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pen = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pencil": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pencil = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pestle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pestle = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Wikipedia says: Crackers are a type of biscuit. That explains why Hydra + Needle = Cracker."
   },
   "hydra+pick": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pick = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+piston": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Piston = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Crackers are a type of biscuit. That's the connection between Hydra and Pick — giving us Cracker."
   },
   "hydra+plane": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Plane = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pliers": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pliers = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+plough": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Plough = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+plumb-bob": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Plumb Bob = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+power-tool": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Power Tool = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+protractor": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Protractor = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pulley": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pulley = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+pump": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Pump = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+purse": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Purse = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+quill": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Quill = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+quiver": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Quiver = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+raft": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Raft = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+railway": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Railway = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Here's a real-world link: Crackers are a type of biscuit. Combine Hydra with Plane and you get Cracker."
   },
   "hydra+rake": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Rake = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+ratchet": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Ratchet = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+rivet": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Rivet = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+road": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Road = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+rocket": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Rocket = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+ruler": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Ruler = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sailboat": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sailboat = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+satellite": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Satellite = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+saw": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Saw = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "The science is clear — Crackers are a type of biscuit. Mix Hydra and Rake for Cracker."
   },
   "hydra+scale": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Scale = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+scalpel": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Scalpel = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+scissors": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Scissors = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+screw": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Screw = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sextant": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sextant = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+ship": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + ship = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+shovel": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Shovel = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sickle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sickle = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sieve": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sieve = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sled": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sled = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sledgehammer": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sledgehammer = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+smelting": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Smelting = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+snorkel": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Snorkel = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+socket-wrench": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Socket Wrench = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+soldering-iron": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Soldering Iron = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+spear": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Spear = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+spindle": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Spindle = a Magic Wand. Point and swish. Hope for the best."
+    "result": "cracker",
+    "reasoning": "Hydra and Scale share a deep connection. Crackers are a type of biscuit. Result: Cracker."
   },
   "hydra+spring": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Spring = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+spyglass": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Spyglass = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+stapler": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Stapler = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+stencil": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Stencil = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+submarine": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Submarine = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+subway": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Subway = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+suitcase": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Suitcase = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sundial": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sundial = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+swiss-army-knife": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Swiss Army Knife = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+sword": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Sword = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+tanning": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Tanning = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+taxi": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Taxi = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+thermometer": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Thermometer = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+tongs": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Tongs = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+tool": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + tool = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+traffic": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Traffic = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+train": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Train = a Magic Wand. Point and swish. Hope for the best."
+    "result": "crane",
+    "reasoning": "Hydra and Spring both belong to the world of Place Name Disambiguation Pages — combine them for Crane."
   },
   "hydra+trap": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Trap = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+trebuchet": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Trebuchet = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+tripod": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Tripod = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+trowel": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Trowel = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+truck": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Truck = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+turbine": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Turbine = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+valve": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Valve = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+vise": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Vise = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wagon": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Wagon = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wallet": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Wallet = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+weaving": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Weaving = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+weight": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + weight = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+welding": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Welding = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wheel": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Wheel = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wheelbarrow": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Wheelbarrow = a Magic Wand. Point and swish. Hope for the best."
+    "result": "crane",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Hydra meets Trap to create Crane."
   },
   "hydra+whetstone": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Whetstone = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+winch": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Winch = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wing": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + wing = a Magic Wand. Point and swish. Hope for the best."
-  },
-  "hydra+wrench": {
-    "result": "magic-wand",
-    "reasoning": "Hydra + Wrench = a Magic Wand. Point and swish. Hope for the best."
+    "result": "crane",
+    "reasoning": "Both Hydra and Whetstone are rooted in Place Name Disambiguation Pages. Together they make Crane."
   },
   "ice-dragon+spring": {
     "result": "ice",
     "reasoning": "Ice Dragon freezes Spring into Ice — water's solid form."
+  },
+  "jack+naga": {
+    "result": "crane",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Jack meets Naga to create Crane."
+  },
+  "jack+phoenix": {
+    "result": "crane",
+    "reasoning": "Jack and Phoenix both belong to the world of Place Name Disambiguation Pages — combine them for Crane."
+  },
+  "jack+portal": {
+    "result": "crane",
+    "reasoning": "Jack and Portal both belong to the world of Place Name Disambiguation Pages — combine them for Crane."
+  },
+  "jack+roc": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between Jack and Roc — giving us Delta."
+  },
+  "jack+siren": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between Jack and Siren — giving us Delta."
+  },
+  "jack+thunderbird": {
+    "result": "delta",
+    "reasoning": "Wikipedia says: Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That explains why Jack + Thunderbird = Delta."
   },
   "kettle+king": {
     "result": "brewer",
@@ -715,13 +211,37 @@
     "result": "locksmith",
     "reasoning": "Locksmiths craft keys — the guardians of security"
   },
+  "key+naga": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between key and Naga — giving us Delta."
+  },
+  "key+phoenix": {
+    "result": "delta",
+    "reasoning": "Here's a real-world link: Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Combine key with Phoenix and you get Delta."
+  },
+  "key+portal": {
+    "result": "delta",
+    "reasoning": "Wikipedia says: Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That explains why key + Portal = Delta."
+  },
   "key+queen": {
     "result": "locksmith",
     "reasoning": "Locksmiths craft keys — the guardians of security"
   },
+  "key+roc": {
+    "result": "delta",
+    "reasoning": "The science is clear — Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Mix key and Roc for Delta."
+  },
+  "key+siren": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier That's the connection between key and Siren — giving us Delta."
+  },
   "key+space-wizard": {
     "result": "locksmith",
     "reasoning": "Locksmiths craft keys — the guardians of security"
+  },
+  "key+thunderbird": {
+    "result": "delta",
+    "reasoning": "The science is clear — Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier Mix key and Thunderbird for Delta."
   },
   "key+witch": {
     "result": "locksmith",
@@ -847,10 +367,6 @@
     "result": "mechanic",
     "reasoning": "Mechanics reach for wrenches — the universal fixing tool"
   },
-  "knight+knitting": {
-    "result": "magic-wand",
-    "reasoning": "Knight + Knitting = a Magic Wand. Point and swish. Hope for the best."
-  },
   "knight+lock": {
     "result": "locksmith",
     "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
@@ -867,16 +383,500 @@
     "result": "spy",
     "reasoning": "Detectives and spies examine clues with magnifying glasses"
   },
-  "knight+mallet": {
+  "knight+mortar-and-pestle": {
     "result": "magic-wand",
-    "reasoning": "Knight + Mallet = a Magic Wand. Point and swish. Hope for the best."
+    "reasoning": "Knight + Mortar and Pestle = a Magic Wand. Point and swish. Hope for the best."
   },
-  "knight+mechanical": {
-    "result": "magic-wand",
-    "reasoning": "Knight + Mechanical = a Magic Wand. Point and swish. Hope for the best."
+  "knight+needle": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
   },
-  "knight+mining": {
+  "knight+notebook": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "knight+pen": {
+    "result": "author",
+    "reasoning": "The pen is mightier than the sword — authors shape history"
+  },
+  "knight+pick": {
+    "result": "miner",
+    "reasoning": "Miners use picks to extract ore from deep underground"
+  },
+  "knight+pliers": {
+    "result": "plumber",
+    "reasoning": "Plumbers use pliers to grip pipes — keeping water flowing"
+  },
+  "knight+plough": {
+    "result": "farmer",
+    "reasoning": "Ploughs turn soil for planting — the tool that made cities possible"
+  },
+  "knight+quill": {
+    "result": "scribe",
+    "reasoning": "Scribes used goose quill pens for over 1,000 years"
+  },
+  "knight+rocket": {
+    "result": "pilot",
+    "reasoning": "Rocket pilots push the boundaries of human exploration"
+  },
+  "knight+sailboat": {
+    "result": "sailor",
+    "reasoning": "Sailors have crossed oceans under sail for thousands of years"
+  },
+  "knight+satellite": {
+    "result": "astronaut",
+    "reasoning": "Wikipedia says: An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. That explains why Knight + Satellite = Astronaut."
+  },
+  "knight+saw": {
+    "result": "carpenter",
+    "reasoning": "Carpenters cut wood to build — saws have existed since ancient Egypt"
+  },
+  "knight+scale": {
+    "result": "scientist",
+    "reasoning": "Scientists use precision scales to measure matter"
+  },
+  "knight+scalpel": {
+    "result": "surgeon",
+    "reasoning": "Surgeons wield scalpels with incredible precision"
+  },
+  "knight+scissors": {
+    "result": "tailor",
+    "reasoning": "Tailors' scissors are sacred — never use them on paper"
+  },
+  "knight+sextant": {
+    "result": "navigator",
+    "reasoning": "Sextants let sailors determine latitude by measuring star angles"
+  },
+  "knight+ship": {
+    "result": "viking",
+    "reasoning": "A warrior on a ship is a Viking"
+  },
+  "knight+shovel": {
+    "result": "miner",
+    "reasoning": "Miners dig with shovels — unearthing the earth's treasures"
+  },
+  "knight+sickle": {
+    "result": "farmer",
+    "reasoning": "Farmers have harvested grain with sickles for 10,000 years"
+  },
+  "knight+spear": {
+    "result": "gladiator",
+    "reasoning": "Gladiators fought with spears in Roman arenas"
+  },
+  "knight+submarine": {
+    "result": "diver",
+    "reasoning": "Divers explore the deep — submarines are their ultimate vehicle"
+  },
+  "knight+swiss-army-knife": {
     "result": "magic-wand",
-    "reasoning": "Knight + Mining = a Magic Wand. Point and swish. Hope for the best."
+    "reasoning": "Knight + Swiss Army Knife = a Magic Wand. Point and swish. Hope for the best."
+  },
+  "knight+sword": {
+    "result": "samurai",
+    "reasoning": "Through mystical forces, Knight and Sword become Samurai"
+  },
+  "knight+thermometer": {
+    "result": "scientist",
+    "reasoning": "Galileo invented the thermometer — measuring heat scientifically"
+  },
+  "knight+trap": {
+    "result": "spy",
+    "reasoning": "Spies set traps — information warfare at its finest"
+  },
+  "knight+trebuchet": {
+    "result": "centurion",
+    "reasoning": "The trebuchet — the medieval superweapon of siege warfare"
+  },
+  "knight+wrench": {
+    "result": "mechanic",
+    "reasoning": "Mechanics reach for wrenches — the universal fixing tool"
+  },
+  "lantern+wand": {
+    "result": "candle",
+    "reasoning": "The science is clear — A candle is an ignitable wick embedded in wax, or another flammable solid substance such as tallow, that provides light, and in some cases, a fragrance. Mix Lantern and Wand for Candle."
+  },
+  "level+naga": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier So when Level meets Naga, Delta is the natural outcome."
+  },
+  "level+phoenix": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier So when Level meets Phoenix, Delta is the natural outcome."
+  },
+  "level+portal": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier So when Level meets Portal, Delta is the natural outcome."
+  },
+  "level+roc": {
+    "result": "delta",
+    "reasoning": "Delta commonly refers to:Delta (letter), the fourth letter of the Greek alphabet\nD, the fourth letter in the Latin alphabet\nRiver delta, at a river mouth\nDelta Air Lines, a major US carrier So when Level meets Roc, Delta is the natural outcome."
+  },
+  "level+siren": {
+    "result": "domain",
+    "reasoning": "Here's a real-world link: A domain is a geographic area controlled by a single person or organization. Combine Level with Siren and you get Domain."
+  },
+  "level+thunderbird": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. So when Level meets Thunderbird, Domain is the natural outcome."
+  },
+  "lever+rune": {
+    "result": "scissors",
+    "reasoning": "The link between Lever and Rune? Scissors. The result? Scissors."
+  },
+  "lich-king+lock": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lich-king+loom": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "lich-king+mace": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "lich-king+machine": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "lich-king+magnifying-glass": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "lich-king+needle": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "lich-king+notebook": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "lich-king+pen": {
+    "result": "author",
+    "reasoning": "The pen is mightier than the sword — authors shape history"
+  },
+  "lich-king+pick": {
+    "result": "miner",
+    "reasoning": "Miners use picks to extract ore from deep underground"
+  },
+  "lich-king+pliers": {
+    "result": "plumber",
+    "reasoning": "Plumbers use pliers to grip pipes — keeping water flowing"
+  },
+  "lich-king+plough": {
+    "result": "farmer",
+    "reasoning": "Ploughs turn soil for planting — the tool that made cities possible"
+  },
+  "lich-king+quill": {
+    "result": "scribe",
+    "reasoning": "Scribes used goose quill pens for over 1,000 years"
+  },
+  "lich-king+rocket": {
+    "result": "pilot",
+    "reasoning": "Rocket pilots push the boundaries of human exploration"
+  },
+  "lich-king+sailboat": {
+    "result": "sailor",
+    "reasoning": "Sailors have crossed oceans under sail for thousands of years"
+  },
+  "lich-king+saw": {
+    "result": "carpenter",
+    "reasoning": "Carpenters cut wood to build — saws have existed since ancient Egypt"
+  },
+  "lich-king+scale": {
+    "result": "scientist",
+    "reasoning": "Scientists use precision scales to measure matter"
+  },
+  "lich-king+scalpel": {
+    "result": "surgeon",
+    "reasoning": "Surgeons wield scalpels with incredible precision"
+  },
+  "lich-king+scissors": {
+    "result": "tailor",
+    "reasoning": "Tailors' scissors are sacred — never use them on paper"
+  },
+  "lich-king+sextant": {
+    "result": "navigator",
+    "reasoning": "Sextants let sailors determine latitude by measuring star angles"
+  },
+  "lich-king+ship": {
+    "result": "captain",
+    "reasoning": "Captains command ships — responsibility for crew and cargo"
+  },
+  "lich-king+shovel": {
+    "result": "miner",
+    "reasoning": "Miners dig with shovels — unearthing the earth's treasures"
+  },
+  "lich-king+sickle": {
+    "result": "farmer",
+    "reasoning": "Farmers have harvested grain with sickles for 10,000 years"
+  },
+  "lich-king+spear": {
+    "result": "gladiator",
+    "reasoning": "Gladiators fought with spears in Roman arenas"
+  },
+  "lich-king+submarine": {
+    "result": "diver",
+    "reasoning": "Divers explore the deep — submarines are their ultimate vehicle"
+  },
+  "lich-king+sword": {
+    "result": "knight",
+    "reasoning": "Knights wielded swords as symbols of honor and chivalry"
+  },
+  "lich-king+thermometer": {
+    "result": "scientist",
+    "reasoning": "Galileo invented the thermometer — measuring heat scientifically"
+  },
+  "lich-king+trap": {
+    "result": "spy",
+    "reasoning": "Spies set traps — information warfare at its finest"
+  },
+  "lich-king+trebuchet": {
+    "result": "centurion",
+    "reasoning": "The trebuchet — the medieval superweapon of siege warfare"
+  },
+  "lich-king+wrench": {
+    "result": "mechanic",
+    "reasoning": "Mechanics reach for wrenches — the universal fixing tool"
+  },
+  "lock+naga": {
+    "result": "domain",
+    "reasoning": "Here's a real-world link: A domain is a geographic area controlled by a single person or organization. Combine Lock with Naga and you get Domain."
+  },
+  "lock+phoenix": {
+    "result": "domain",
+    "reasoning": "The science is clear — A domain is a geographic area controlled by a single person or organization. Mix Lock and Phoenix for Domain."
+  },
+  "lock+portal": {
+    "result": "domain",
+    "reasoning": "The science is clear — A domain is a geographic area controlled by a single person or organization. Mix Lock and Portal for Domain."
+  },
+  "lock+queen": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+roc": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. That's the connection between Lock and Roc — giving us Domain."
+  },
+  "lock+siren": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. So when Lock meets Siren, Domain is the natural outcome."
+  },
+  "lock+space-wizard": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+thunderbird": {
+    "result": "domain",
+    "reasoning": "A domain is a geographic area controlled by a single person or organization. So when Lock meets Thunderbird, Domain is the natural outcome."
+  },
+  "lock+witch": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "lock+wizard": {
+    "result": "locksmith",
+    "reasoning": "Locksmiths have picked and made locks since ancient Egypt"
+  },
+  "loom+queen": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "loom+space-wizard": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "loom+witch": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "loom+wizard": {
+    "result": "weaver",
+    "reasoning": "Weavers at the loom create textiles — the Jacquard loom inspired computers"
+  },
+  "mace+naga": {
+    "result": "fame",
+    "reasoning": "Mace and Naga share a deep connection. Fame usually refers to the state of notability or celebrity. Result: fame."
+  },
+  "mace+phoenix": {
+    "result": "fame",
+    "reasoning": "Fame usually refers to the state of notability or celebrity. That's the connection between Mace and Phoenix — giving us fame."
+  },
+  "mace+portal": {
+    "result": "fame",
+    "reasoning": "Wikipedia says: Fame usually refers to the state of notability or celebrity. That explains why Mace + Portal = fame."
+  },
+  "mace+queen": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "mace+roc": {
+    "result": "fame",
+    "reasoning": "Mace and Roc share a deep connection. Fame usually refers to the state of notability or celebrity. Result: fame."
+  },
+  "mace+siren": {
+    "result": "fame",
+    "reasoning": "Here's a real-world link: Fame usually refers to the state of notability or celebrity. Combine Mace with Siren and you get fame."
+  },
+  "mace+space-wizard": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "mace+thunderbird": {
+    "result": "fame",
+    "reasoning": "Here's a real-world link: Fame usually refers to the state of notability or celebrity. Combine Mace with Thunderbird and you get fame."
+  },
+  "mace+witch": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "mace+wizard": {
+    "result": "knight",
+    "reasoning": "Maces were designed to defeat armor — a knight's backup weapon"
+  },
+  "machine+queen": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "machine+space-wizard": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "machine+werewolf": {
+    "result": "blade",
+    "reasoning": "machine and Werewolf share a deep connection. A blade is the sharp, cutting portion of a tool, weapon, or machine, specifically designed to puncture, chop, slice, or scrape surfaces or materials. Result: Blade."
+  },
+  "machine+witch": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "machine+wizard": {
+    "result": "engineer",
+    "reasoning": "Engineers design machines that multiply human capability"
+  },
+  "magic-carpet+soldering-iron": {
+    "result": "mithril",
+    "reasoning": "Magic Carpet transforms Soldering Iron into legendary Mithril."
+  },
+  "magic-show+soldering-iron": {
+    "result": "mithril",
+    "reasoning": "Magic Show transforms Soldering Iron into legendary Mithril."
+  },
+  "magic-wand+soldering-iron": {
+    "result": "mithril",
+    "reasoning": "Magic Wand transforms Soldering Iron into legendary Mithril."
+  },
+  "magic+soldering-iron": {
+    "result": "mithril",
+    "reasoning": "Magic transforms Soldering Iron into legendary Mithril."
+  },
+  "magnifying-glass+queen": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "magnifying-glass+space-wizard": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "magnifying-glass+witch": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "magnifying-glass+wizard": {
+    "result": "spy",
+    "reasoning": "Detectives and spies examine clues with magnifying glasses"
+  },
+  "mortar-and-pestle+philosopher-stone": {
+    "result": "pestle",
+    "reasoning": "Here's the connection: A mortar and pestle is a set of two simple tools used to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, laboratory, and pharmacy. So Mortar and Pestle + Philosopher Stone = Pestle."
+  },
+  "naga+needle": {
+    "result": "forum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Naga meets Needle to create Forum."
+  },
+  "naga+pick": {
+    "result": "forum",
+    "reasoning": "Both Naga and Pick are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "naga+plane": {
+    "result": "forum",
+    "reasoning": "Naga and Plane both belong to the world of Place Name Disambiguation Pages — combine them for Forum."
+  },
+  "naga+rake": {
+    "result": "forum",
+    "reasoning": "Both Naga and Rake are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "naga+scale": {
+    "result": "forum",
+    "reasoning": "Both Naga and Scale are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "naga+spring": {
+    "result": "forum",
+    "reasoning": "Both Naga and Spring are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "naga+trap": {
+    "result": "forum",
+    "reasoning": "Naga and Trap both belong to the world of Place Name Disambiguation Pages — combine them for Forum."
+  },
+  "naga+whetstone": {
+    "result": "forum",
+    "reasoning": "Both Naga and Whetstone are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "needle+phoenix": {
+    "result": "forum",
+    "reasoning": "Both Needle and Phoenix are rooted in Place Name Disambiguation Pages. Together they make Forum."
+  },
+  "needle+portal": {
+    "result": "forum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Needle meets Portal to create Forum."
+  },
+  "needle+queen": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "needle+roc": {
+    "result": "furnace",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Needle meets Roc to create Furnace."
+  },
+  "needle+siren": {
+    "result": "furnace",
+    "reasoning": "Both Needle and Siren are rooted in Place Name Disambiguation Pages. Together they make Furnace."
+  },
+  "needle+space-wizard": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "needle+thunderbird": {
+    "result": "furnace",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Needle meets Thunderbird to create Furnace."
+  },
+  "needle+witch": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "needle+wizard": {
+    "result": "tailor",
+    "reasoning": "Tailors wield needles to create clothing — the world's oldest craft tool"
+  },
+  "ninja+shovel": {
+    "result": "gravel",
+    "reasoning": "Wikipedia says: Gravel is a loose aggregation of rock fragments. That explains why Ninja + Shovel = Gravel."
+  },
+  "notebook+queen": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "notebook+space-wizard": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "notebook+witch": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
+  },
+  "notebook+wizard": {
+    "result": "journalist",
+    "reasoning": "Journalists carry notebooks to capture stories as they unfold"
   }
 }

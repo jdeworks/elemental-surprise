@@ -1,31 +1,859 @@
 {
-  "coil+gem": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Gem = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+plank": {
+    "result": "axe",
+    "reasoning": "Brass head on plank handle = Axe — humanity's oldest composite tool."
   },
-  "coil+glass": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Glass = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+platinum": {
+    "result": "alloy",
+    "reasoning": "Combining Brass with Platinum creates an Alloy — stronger than either alone."
   },
-  "coil+glue": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Glue = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+silver": {
+    "result": "alloy",
+    "reasoning": "Combining Brass with Silver creates an Alloy — stronger than either alone."
   },
-  "coil+gold": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Gold = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+steel": {
+    "result": "galvanized-steel",
+    "reasoning": "Did you know? Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's why Brass + Steel = Galvanized Steel."
   },
-  "coil+granite": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Granite = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+titanium": {
+    "result": "alloy",
+    "reasoning": "Combining Brass with Titanium creates an Alloy — stronger than either alone."
   },
-  "coil+graphene": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Graphene = a Scrap Heap. One person's trash is another's... still trash."
+  "brass+tungsten": {
+    "result": "alloy",
+    "reasoning": "Combining Brass with Tungsten creates an Alloy — stronger than either alone."
   },
-  "coil+graphite": {
+  "brick+brick": {
+    "result": "wall",
+    "reasoning": "Brick and Brick create Wall"
+  },
+  "brick+cement": {
+    "result": "felt",
+    "reasoning": "Wikipedia says: Felt is a textile that is produced by matting, condensing, and pressing fibers together. That explains why Brick + Cement = Felt."
+  },
+  "brick+clinker": {
+    "result": "firebrick",
+    "reasoning": "Brick and Clinker together? A fire brick, firebrick, fireclay brick, or refractory brick is a block of ceramic material used in lining furnaces, kilns, fireboxes, and fireplaces. The result: Firebrick."
+  },
+  "brick+concrete": {
+    "result": "avalanche",
+    "reasoning": "Wikipedia says: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That explains why Brick + Concrete = Avalanche."
+  },
+  "brick+felt": {
+    "result": "cement",
+    "reasoning": "A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. So when Brick meets Felt, Cement is the natural outcome."
+  },
+  "brick+flint": {
+    "result": "clinker",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's how Brick and Flint give us Clinker."
+  },
+  "brick+granite": {
+    "result": "castle",
+    "reasoning": "Brick and Granite share a deep connection. A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Result: Castle."
+  },
+  "brick+iron": {
+    "result": "cement",
+    "reasoning": "A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. So when Brick meets Iron, Cement is the natural outcome."
+  },
+  "brick+lacquer": {
+    "result": "autoclave",
+    "reasoning": "An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. So when Brick meets Lacquer, Autoclave is the natural outcome."
+  },
+  "brick+marble": {
+    "result": "castle",
+    "reasoning": "A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. So when Brick meets Marble, Castle is the natural outcome."
+  },
+  "brick+plaster": {
+    "result": "cement",
+    "reasoning": "Brick and Plaster share a deep connection. A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Result: Cement."
+  },
+  "brick+sandstone": {
+    "result": "castle",
+    "reasoning": "The science is clear — A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Mix Brick and Sandstone for Castle."
+  },
+  "brick+slate": {
+    "result": "castle",
+    "reasoning": "Brick and Slate share a deep connection. A castle is a type of fortified structure built during the Middle Ages predominantly by the nobility or royalty and by military orders. Result: Castle."
+  },
+  "brick+steel": {
+    "result": "cement",
+    "reasoning": "Brick and Steel share a deep connection. A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Result: Cement."
+  },
+  "bronze+canvas": {
+    "result": "sculpture",
+    "reasoning": "Bronze shaped by canvas — a Sculpture."
+  },
+  "bronze+chrome": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Chrome creates an Alloy — stronger than either alone."
+  },
+  "bronze+cobalt": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Cobalt creates an Alloy — stronger than either alone."
+  },
+  "bronze+copper": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Copper creates an Alloy — stronger than either alone."
+  },
+  "bronze+diamond": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Bronze meets Diamond, Brass is the natural outcome."
+  },
+  "bronze+galvanized-steel": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Galvanized Steel creates an Alloy — stronger than either alone."
+  },
+  "bronze+gold": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Gold creates an Alloy — stronger than either alone."
+  },
+  "bronze+ingot": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Ingot creates an Alloy — stronger than either alone."
+  },
+  "bronze+iron": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Iron creates an Alloy — stronger than either alone."
+  },
+  "bronze+ivory": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Bronze meets Ivory, Brass is the natural outcome."
+  },
+  "bronze+lead": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Lead creates an Alloy — stronger than either alone."
+  },
+  "bronze+leather": {
+    "result": "armor",
+    "reasoning": "Armour or armor is a covering used to protect an object, individual, or vehicle from physical injury or damage, especially direct contact weapons or projectiles during combat, or from a potentially dangerous environment or activity. That's the connection between Bronze and Leather — giving us Armor."
+  },
+  "bronze+metal": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with metal creates an Alloy — stronger than either alone."
+  },
+  "bronze+mirror": {
+    "result": "amber",
+    "reasoning": "Here's a real-world link: Amber is fossilized tree resin. Combine Bronze with Mirror and you get Amber."
+  },
+  "bronze+nacre": {
+    "result": "brass",
+    "reasoning": "Wikipedia says: Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That explains why Bronze + Nacre = Brass."
+  },
+  "bronze+nickel": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Nickel creates an Alloy — stronger than either alone."
+  },
+  "bronze+paint": {
+    "result": "sculpture",
+    "reasoning": "Bronze shaped by Paint — a Sculpture."
+  },
+  "bronze+pewter": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. So when Bronze meets Pewter, Brass is the natural outcome."
+  },
+  "bronze+plank": {
+    "result": "axe",
+    "reasoning": "Bronze head on plank handle = Axe — humanity's oldest composite tool."
+  },
+  "bronze+platinum": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Platinum creates an Alloy — stronger than either alone."
+  },
+  "bronze+silver": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Silver creates an Alloy — stronger than either alone."
+  },
+  "bronze+steel": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Steel creates an Alloy — stronger than either alone."
+  },
+  "bronze+titanium": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Titanium creates an Alloy — stronger than either alone."
+  },
+  "bronze+tungsten": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Tungsten creates an Alloy — stronger than either alone."
+  },
+  "bronze+zinc": {
+    "result": "alloy",
+    "reasoning": "Combining Bronze with Zinc creates an Alloy — stronger than either alone."
+  },
+  "burlap+fabric": {
+    "result": "linen",
+    "reasoning": "Linen is a textile made from the fibers of the flax plant. That's how Burlap and Fabric give us Linen."
+  },
+  "burlap+fiber": {
+    "result": "fiberglass",
+    "reasoning": "Fiberglass or fibreglass is a common type of fiber-reinforced plastic using glass fiber. Combine Burlap with fiber and you naturally get Fiberglass."
+  },
+  "burlap+hemp": {
+    "result": "jute",
+    "reasoning": "Jute is a long, rough, shiny bast fibre that can be spun into coarse, strong threads. Combine Burlap with Hemp and you naturally get Jute."
+  },
+  "calico+canvas": {
+    "result": "denim",
+    "reasoning": "Denim is a sturdy cotton warp-faced textile in which the weft passes under two or more warp threads. That's the connection between Calico and canvas — giving us Denim."
+  },
+  "calico+damask": {
+    "result": "canvas",
+    "reasoning": "Wikipedia says: It is popularly used by artists as a painting surface, typically stretched across a wooden frame. That explains why Calico + Damask = canvas."
+  },
+  "calico+denim": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. So when Calico meets Denim, canvas is the natural outcome."
+  },
+  "calico+fabric": {
+    "result": "organza",
+    "reasoning": "Here's the connection: Organza is a thin, plain weave, sheer fabric traditionally made from silk. So Calico + Fabric = Organza."
+  },
+  "calico+felt": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. That's the connection between Calico and Felt — giving us canvas."
+  },
+  "calico+fiber": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Calico + fiber = Cotton."
+  },
+  "calico+jute": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Calico + Jute = Cotton."
+  },
+  "calico+kevlar": {
+    "result": "cotton",
+    "reasoning": "Here's a real-world link: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Combine Calico with Kevlar and you get Cotton."
+  },
+  "calico+leather": {
+    "result": "cotton",
+    "reasoning": "The science is clear — Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Mix Calico and Leather for Cotton."
+  },
+  "calico+linen": {
+    "result": "canvas",
+    "reasoning": "Calico and Linen share a deep connection. It is popularly used by artists as a painting surface, typically stretched across a wooden frame. Result: canvas."
+  },
+  "calico+organza": {
+    "result": "cotton",
+    "reasoning": "Calico and Organza share a deep connection. Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Result: Cotton."
+  },
+  "calico+paint": {
+    "result": "stencil",
+    "reasoning": "Here's the connection: Stencilling produces an image or pattern on a surface by applying pigment to a surface through an intermediate object, with designed holes in the intermediate object. So Calico + Paint = Stencil."
+  },
+  "calico+sail": {
+    "result": "cotton",
+    "reasoning": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That's the connection between Calico and Sail — giving us Cotton."
+  },
+  "calico+satin": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. That's the connection between Calico and Satin — giving us canvas."
+  },
+  "calico+silk": {
+    "result": "damask",
+    "reasoning": "Calico and Silk together? Damask is a woven, reversible patterned fabric. The result: Damask."
+  },
+  "calico+taffeta": {
+    "result": "canvas",
+    "reasoning": "It is popularly used by artists as a painting surface, typically stretched across a wooden frame. That's the connection between Calico and Taffeta — giving us canvas."
+  },
+  "calico+tweed": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Calico + Tweed = Cotton."
+  },
+  "calico+velvet": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Calico + Velvet = Cotton."
+  },
+  "candle+candle": {
+    "result": "chandelier",
+    "reasoning": "Candles grouped on a frame make a chandelier — medieval luxury lighting"
+  },
+  "candle+flint": {
+    "result": "combustion",
+    "reasoning": "The science is clear — Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Mix Candle and Flint for Combustion."
+  },
+  "candle+metal": {
+    "result": "lantern",
+    "reasoning": "A candle in metal is a Lantern"
+  },
+  "candle+oil": {
+    "result": "combustion",
+    "reasoning": "Wikipedia says: Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That explains why Candle + Oil = Combustion."
+  },
+  "canvas+damask": {
+    "result": "calico",
+    "reasoning": "canvas and Damask share a deep connection. Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Result: Calico."
+  },
+  "canvas+denim": {
+    "result": "calico",
+    "reasoning": "Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. So when canvas meets Denim, Calico is the natural outcome."
+  },
+  "canvas+felt": {
+    "result": "calico",
+    "reasoning": "Here's a real-world link: Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Combine canvas with Felt and you get Calico."
+  },
+  "canvas+linen": {
+    "result": "calico",
+    "reasoning": "Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. So when canvas meets Linen, Calico is the natural outcome."
+  },
+  "canvas+organza": {
+    "result": "calico",
+    "reasoning": "canvas and Organza share a deep connection. Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Result: Calico."
+  },
+  "canvas+paint": {
+    "result": "easel",
+    "reasoning": "An easel is an upright support used for displaying and/or fixing something resting upon it, at an angle of about 20° to the vertical. That's how canvas and Paint give us Easel."
+  },
+  "canvas+paper": {
+    "result": "bag",
+    "reasoning": "The science is clear — A bag, also known regionally as a sack or tote, is a common tool in the form of a floppy container, typically made of cloth, leather, bamboo, paper, or plastic. Mix canvas and Paper for bag."
+  },
+  "canvas+pigment": {
+    "result": "canoe",
+    "reasoning": "The science is clear — A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Mix canvas and Pigment for Canoe."
+  },
+  "canvas+rope": {
+    "result": "canoe",
+    "reasoning": "Here's a real-world link: A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Combine canvas with Rope and you get Canoe."
+  },
+  "canvas+satin": {
+    "result": "calico",
+    "reasoning": "Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. So when canvas meets Satin, Calico is the natural outcome."
+  },
+  "canvas+silk": {
+    "result": "calico",
+    "reasoning": "Here's a real-world link: Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Combine canvas with Silk and you get Calico."
+  },
+  "canvas+taffeta": {
+    "result": "calico",
+    "reasoning": "canvas and Taffeta share a deep connection. Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Result: Calico."
+  },
+  "canvas+tweed": {
+    "result": "calico",
+    "reasoning": "Here's a real-world link: Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. Combine canvas with Tweed and you get Calico."
+  },
+  "canvas+varnish": {
+    "result": "easel",
+    "reasoning": "canvas and Varnish share a deep connection. An easel is an upright support used for displaying and/or fixing something resting upon it, at an angle of about 20° to the vertical. Result: Easel."
+  },
+  "canvas+velvet": {
+    "result": "calico",
+    "reasoning": "Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. That's the connection between canvas and Velvet — giving us Calico."
+  },
+  "canvas+wool": {
+    "result": "calico",
+    "reasoning": "Calico is a heavy plain-woven textile made from unbleached, and often not fully processed, cotton. That's the connection between canvas and Wool — giving us Calico."
+  },
+  "cardboard+charcoal": {
+    "result": "biomass",
+    "reasoning": "Cardboard and Charcoal share a deep connection. Biomass is material produced by the growth of microorganisms, plants or animals. Result: Biomass."
+  },
+  "cardboard+gunpowder": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Cardboard with Gunpowder and you get Charcoal."
+  },
+  "cardboard+ink": {
+    "result": "book",
+    "reasoning": "A book is a written work of substantial length created by one or more authors. That's the connection between Cardboard and Ink — giving us book."
+  },
+  "cardboard+latex": {
+    "result": "charcoal",
+    "reasoning": "Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. That's the connection between Cardboard and Latex — giving us Charcoal."
+  },
+  "cardboard+paper": {
+    "result": "biomass",
+    "reasoning": "Biomass is material produced by the growth of microorganisms, plants or animals. That's the connection between Cardboard and Paper — giving us Biomass."
+  },
+  "cardboard+papyrus": {
+    "result": "book",
+    "reasoning": "A book is a written work of substantial length created by one or more authors. So when Cardboard meets Papyrus, book is the natural outcome."
+  },
+  "cardboard+plywood": {
+    "result": "biomass",
+    "reasoning": "Cardboard and Plywood share a deep connection. Biomass is material produced by the growth of microorganisms, plants or animals. Result: Biomass."
+  },
+  "cardboard+rayon": {
+    "result": "biomass",
+    "reasoning": "The science is clear — Biomass is material produced by the growth of microorganisms, plants or animals. Mix Cardboard and Rayon for Biomass."
+  },
+  "cardboard+tar": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Cardboard with Tar and you get Charcoal."
+  },
+  "cashmere+leather": {
+    "result": "chamois",
+    "reasoning": "Here's the connection: It has also been introduced to the South Island of New Zealand. So Cashmere + Leather = Chamois."
+  },
+  "cellophane+cotton": {
+    "result": "rayon",
+    "reasoning": "Rayon, also called viscose, is a semi-synthetic fiber made from natural sources of regenerated cellulose, such as wood and related agricultural products. That's the connection between Cellophane and Cotton — giving us Rayon."
+  },
+  "cellophane+diamond": {
+    "result": "ice",
+    "reasoning": "Ice is water that is frozen into a solid state, typically forming at or below temperatures of 0 °C, 32 °F, or 273.15 K. So when Cellophane meets Diamond, Ice is the natural outcome."
+  },
+  "cellophane+fiber": {
+    "result": "cotton",
+    "reasoning": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That's the connection between Cellophane and fiber — giving us Cotton."
+  },
+  "cellophane+glass": {
+    "result": "jute",
+    "reasoning": "Jute is a long, rough, shiny bast fibre that can be spun into coarse, strong threads. That's the connection between Cellophane and Glass — giving us Jute."
+  },
+  "cellophane+jute": {
+    "result": "cotton",
+    "reasoning": "Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That's the connection between Cellophane and Jute — giving us Cotton."
+  },
+  "cellophane+kevlar": {
+    "result": "cotton",
+    "reasoning": "The science is clear — Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Mix Cellophane and Kevlar for Cotton."
+  },
+  "cellophane+leather": {
+    "result": "cotton",
+    "reasoning": "Here's a real-world link: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Combine Cellophane with Leather and you get Cotton."
+  },
+  "cellophane+oil": {
+    "result": "fat",
+    "reasoning": "In nutrition, biology, and chemistry, fat usually means any ester of fatty acids, or a mixture of such compounds, most commonly those that occur in living beings or in food. That's the connection between Cellophane and Oil — giving us fat."
+  },
+  "cellophane+sail": {
+    "result": "cotton",
+    "reasoning": "Here's a real-world link: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Combine Cellophane with Sail and you get Cotton."
+  },
+  "cellophane+soap": {
+    "result": "fat",
+    "reasoning": "Wikipedia says: In nutrition, biology, and chemistry, fat usually means any ester of fatty acids, or a mixture of such compounds, most commonly those that occur in living beings or in food. That explains why Cellophane + Soap = fat."
+  },
+  "cellophane+tar": {
+    "result": "candy",
+    "reasoning": "Here's a real-world link: Candy, also commonly called sweets, is a confection that features sugar as a principal ingredient. Combine Cellophane with Tar and you get Candy."
+  },
+  "cellophane+teflon": {
+    "result": "google",
+    "reasoning": "Here's a real-world link: It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Combine Cellophane with Teflon and you get Google."
+  },
+  "cement+concrete": {
+    "result": "felt",
+    "reasoning": "Felt is a textile that is produced by matting, condensing, and pressing fibers together. So when Cement meets Concrete, Felt is the natural outcome."
+  },
+  "cement+felt": {
+    "result": "floor",
+    "reasoning": "Cement and Felt share a deep connection. A floor is the bottom surface of a room or vehicle. Result: Floor."
+  },
+  "cement+iron": {
+    "result": "felt",
+    "reasoning": "Cement and Iron share a deep connection. Felt is a textile that is produced by matting, condensing, and pressing fibers together. Result: Felt."
+  },
+  "cement+plaster": {
+    "result": "felt",
+    "reasoning": "Wikipedia says: Felt is a textile that is produced by matting, condensing, and pressing fibers together. That explains why Cement + Plaster = Felt."
+  },
+  "cement+plastic": {
+    "result": "airplane",
+    "reasoning": "Wikipedia says: An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. That explains why Cement + Plastic = Airplane."
+  },
+  "cement+porcelain": {
+    "result": "alabaster",
+    "reasoning": "Cement and Porcelain share a deep connection. Alabaster is a soft rock used for carvings and as a source of plaster powder. Result: Alabaster."
+  },
+  "cement+slate": {
+    "result": "felt",
+    "reasoning": "Cement and Slate share a deep connection. Felt is a textile that is produced by matting, condensing, and pressing fibers together. Result: Felt."
+  },
+  "cement+steel": {
+    "result": "felt",
+    "reasoning": "Here's a real-world link: Felt is a textile that is produced by matting, condensing, and pressing fibers together. Combine Cement with Steel and you get Felt."
+  },
+  "ceramic+chalk": {
+    "result": "brick",
+    "reasoning": "Wikipedia says: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That explains why Ceramic + Chalk = Brick."
+  },
+  "ceramic+crystal": {
+    "result": "carbon",
+    "reasoning": "Carbon is a chemical element; it has symbol C and atomic number 6. So when Ceramic meets Crystal, Carbon is the natural outcome."
+  },
+  "ceramic+epoxy": {
+    "result": "carbon",
+    "reasoning": "Ceramic and Epoxy share a deep connection. Carbon is a chemical element; it has symbol C and atomic number 6. Result: Carbon."
+  },
+  "ceramic+felt": {
+    "result": "bone-china",
+    "reasoning": "Bone china is a type of vitreous, translucent pottery, the raw materials for which include bone ash, feldspathic material and kaolin. So when Ceramic meets Felt, Bone China is the natural outcome."
+  },
+  "ceramic+fiber": {
+    "result": "carbon",
+    "reasoning": "Ceramic and fiber share a deep connection. Carbon is a chemical element; it has symbol C and atomic number 6. Result: Carbon."
+  },
+  "ceramic+granite": {
+    "result": "brick",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's the connection between Ceramic and Granite — giving us Brick."
+  },
+  "ceramic+ivory": {
+    "result": "collagen",
+    "reasoning": "Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. So when Ceramic meets Ivory, Collagen is the natural outcome."
+  },
+  "ceramic+lead": {
+    "result": "acid",
+    "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. That's the connection between Ceramic and Lead — giving us Acid."
+  },
+  "ceramic+leather": {
+    "result": "collagen",
+    "reasoning": "Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. That's the connection between Ceramic and Leather — giving us Collagen."
+  },
+  "ceramic+marble": {
+    "result": "brick",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's the connection between Ceramic and Marble — giving us Brick."
+  },
+  "ceramic+mica": {
+    "result": "clay",
+    "reasoning": "The science is clear — Clay is a type of fine-grained natural soil material containing clay minerals. Mix Ceramic and Mica for Clay."
+  },
+  "ceramic+parchment": {
+    "result": "collagen",
+    "reasoning": "Ceramic and Parchment share a deep connection. Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. Result: Collagen."
+  },
+  "ceramic+porcelain": {
+    "result": "clay",
+    "reasoning": "Clay is a type of fine-grained natural soil material containing clay minerals. So when Ceramic meets Porcelain, Clay is the natural outcome."
+  },
+  "ceramic+terracotta": {
+    "result": "clay",
+    "reasoning": "Wikipedia says: Clay is a type of fine-grained natural soil material containing clay minerals. That explains why Ceramic + Terracotta = Clay."
+  },
+  "ceramic+tungsten": {
+    "result": "acid",
+    "reasoning": "Ceramic and Tungsten share a deep connection. An acid is a molecule or ion capable of either donating a proton (i.e. Result: Acid."
+  },
+  "ceramic+vermiculite": {
+    "result": "clay",
+    "reasoning": "Clay is a type of fine-grained natural soil material containing clay minerals. So when Ceramic meets Vermiculite, Clay is the natural outcome."
+  },
+  "chain+chain": {
+    "result": "armor",
+    "reasoning": "Chain links woven together become chainmail armor"
+  },
+  "chain+gem": {
+    "result": "necklace",
+    "reasoning": "Chain and Gem create Necklace"
+  },
+  "chalk+coal": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Chalk and Coal — giving us Basalt."
+  },
+  "chalk+diamond": {
+    "result": "basalt",
+    "reasoning": "Here's a real-world link: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Combine Chalk with Diamond and you get Basalt."
+  },
+  "chalk+flint": {
+    "result": "brick",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's the connection between Chalk and Flint — giving us Brick."
+  },
+  "chalk+granite": {
+    "result": "brick",
+    "reasoning": "Chalk and Granite share a deep connection. A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Result: Brick."
+  },
+  "chalk+graphite": {
+    "result": "coal",
+    "reasoning": "Chalk and Graphite share a deep connection. Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Result: Coal."
+  },
+  "chalk+limestone": {
+    "result": "cement",
+    "reasoning": "The science is clear — A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. Mix Chalk and Limestone for Cement."
+  },
+  "chalk+magma": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Chalk and Magma — giving us Basalt."
+  },
+  "chalk+marble": {
+    "result": "brick",
+    "reasoning": "A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That's the connection between Chalk and Marble — giving us Brick."
+  },
+  "chalk+pumice": {
+    "result": "coal",
+    "reasoning": "Chalk and Pumice share a deep connection. Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Result: Coal."
+  },
+  "chalk+sandstone": {
+    "result": "brick",
+    "reasoning": "Chalk and Sandstone share a deep connection. A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Result: Brick."
+  },
+  "chalk+shale": {
+    "result": "coal",
+    "reasoning": "Chalk and Shale share a deep connection. Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. Result: Coal."
+  },
+  "chalk+slate": {
+    "result": "brick",
+    "reasoning": "Wikipedia says: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That explains why Chalk + Slate = Brick."
+  },
+  "charcoal+coal": {
+    "result": "fuel",
+    "reasoning": "Here's a real-world link: Fuel are any materials that can react with other substances to release energy as thermal energy or to be used for work. Combine Charcoal with Coal and you get fuel."
+  },
+  "charcoal+graphite": {
+    "result": "carbon",
+    "reasoning": "Carbon is a chemical element; it has symbol C and atomic number 6. That's the connection between Charcoal and Graphite — giving us Carbon."
+  },
+  "charcoal+iron": {
+    "result": "silicon",
+    "reasoning": "Silicon is a chemical element; it has symbol Si and atomic number 14. That's the connection between Charcoal and Iron — giving us Silicon."
+  },
+  "charcoal+mineral": {
+    "result": "gunpowder",
+    "reasoning": "Processing Charcoal with Mineral yields Gunpowder"
+  },
+  "charcoal+paper": {
+    "result": "biomass",
+    "reasoning": "The science is clear — Biomass is material produced by the growth of microorganisms, plants or animals. Mix Charcoal and Paper for Biomass."
+  },
+  "charcoal+plywood": {
+    "result": "biomass",
+    "reasoning": "Wikipedia says: Biomass is material produced by the growth of microorganisms, plants or animals. That explains why Charcoal + Plywood = Biomass."
+  },
+  "charcoal+rayon": {
+    "result": "brazil",
+    "reasoning": "Here's a real-world link: Brazil, officially the Federative Republic of Brazil, is the largest country in South America. Combine Charcoal with Rayon and you get Brazil."
+  },
+  "charcoal+silicon": {
+    "result": "iron",
+    "reasoning": "Wikipedia says: Iron is a chemical element; it has symbol Fe and atomic number 26. That explains why Charcoal + Silicon = Iron."
+  },
+  "charcoal+titanium": {
+    "result": "iron",
+    "reasoning": "Charcoal and Titanium share a deep connection. Iron is a chemical element; it has symbol Fe and atomic number 26. Result: Iron."
+  },
+  "charcoal+vermiculite": {
+    "result": "compost",
+    "reasoning": "Charcoal and Vermiculite share a deep connection. Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. Result: Compost."
+  },
+  "charcoal+zinc": {
+    "result": "iron",
+    "reasoning": "The science is clear — Iron is a chemical element; it has symbol Fe and atomic number 26. Mix Charcoal and Zinc for Iron."
+  },
+  "chrome+cobalt": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Cobalt creates an Alloy — stronger than either alone."
+  },
+  "chrome+copper": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Copper creates an Alloy — stronger than either alone."
+  },
+  "chrome+fabric": {
+    "result": "satin",
+    "reasoning": "Here's the connection: A satin weave is a type of fabric weave that produces a characteristically glossy, smooth or lustrous material, typically with a glossy top surface and a dull back; it is not durable, as it tends to snag. So Chrome + Fabric = Satin."
+  },
+  "chrome+galvanized-steel": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Galvanized Steel creates an Alloy — stronger than either alone."
+  },
+  "chrome+glass": {
+    "result": "enamel",
+    "reasoning": "Glass is an amorphous (non-crystalline) solid. Combine Chrome with Glass and you naturally get Enamel."
+  },
+  "chrome+ingot": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Ingot creates an Alloy — stronger than either alone."
+  },
+  "chrome+metal": {
+    "result": "cobalt",
+    "reasoning": "Chrome and metal together? Cobalt is a chemical element; it has symbol Co and atomic number 27. The result: Cobalt."
+  },
+  "chrome+mirror": {
+    "result": "periscope",
+    "reasoning": "Did you know? A periscope is an device for observation over, around or through an object, obstacle or condition that prevents direct line-of-sight observation from an observer's current position. That's why Chrome + Mirror = Periscope."
+  },
+  "chrome+nickel": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Nickel creates an Alloy — stronger than either alone."
+  },
+  "chrome+paint": {
+    "result": "sculpture",
+    "reasoning": "Chrome shaped by Paint — a Sculpture."
+  },
+  "chrome+plank": {
+    "result": "axe",
+    "reasoning": "Chrome head on plank handle = Axe — humanity's oldest composite tool."
+  },
+  "chrome+platinum": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Platinum creates an Alloy — stronger than either alone."
+  },
+  "chrome+silver": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Silver creates an Alloy — stronger than either alone."
+  },
+  "chrome+steel": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Steel creates an Alloy — stronger than either alone."
+  },
+  "chrome+titanium": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Titanium creates an Alloy — stronger than either alone."
+  },
+  "chrome+tungsten": {
+    "result": "alloy",
+    "reasoning": "Combining Chrome with Tungsten creates an Alloy — stronger than either alone."
+  },
+  "coal+concrete": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. So when Coal meets Concrete, Bitumen is the natural outcome."
+  },
+  "coal+flint": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Coal + Flint = Basalt."
+  },
+  "coal+granite": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Coal + Granite = Basalt."
+  },
+  "coal+gunpowder": {
+    "result": "peat",
+    "reasoning": "The science is clear — Peat is an accumulation of partially decayed vegetation or organic matter. Mix Coal and Gunpowder for Peat."
+  },
+  "coal+iron": {
+    "result": "steel",
+    "reasoning": "Iron hardened with coal becomes steel"
+  },
+  "coal+limestone": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Coal and Limestone — giving us Basalt."
+  },
+  "coal+magma": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Coal and Magma — giving us Basalt."
+  },
+  "coal+marble": {
+    "result": "basalt",
+    "reasoning": "The science is clear — Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Mix Coal and Marble for Basalt."
+  },
+  "coal+metal": {
+    "result": "iron",
+    "reasoning": "Processing Coal with metal yields Iron"
+  },
+  "coal+mica": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Coal and Mica — giving us Bitumen."
+  },
+  "coal+pumice": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Coal and Pumice — giving us Basalt."
+  },
+  "coal+sandstone": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Coal and Sandstone — giving us Basalt."
+  },
+  "coal+shale": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Coal and Shale — giving us Basalt."
+  },
+  "coal+slate": {
+    "result": "basalt",
+    "reasoning": "The science is clear — Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Mix Coal and Slate for Basalt."
+  },
+  "coal+tar": {
+    "result": "bitumen",
+    "reasoning": "Wikipedia says: Bitumen is an immensely viscous constituent of petroleum. That explains why Coal + Tar = Bitumen."
+  },
+  "coal+vermiculite": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Coal and Vermiculite — giving us Bitumen."
+  },
+  "cobalt+copper": {
+    "result": "gold",
+    "reasoning": "Gold is a chemical element; its chemical symbol is Au and atomic number 79. That's the connection between Cobalt and Copper — giving us Gold."
+  },
+  "cobalt+cotton": {
+    "result": "denim",
+    "reasoning": "Cobalt and Cotton together? Denim is a sturdy cotton warp-faced textile in which the weft passes under two or more warp threads. The result: Denim."
+  },
+  "cobalt+diamond": {
+    "result": "gold",
+    "reasoning": "Wikipedia says: Gold is a chemical element; its chemical symbol is Au and atomic number 79. That explains why Cobalt + Diamond = Gold."
+  },
+  "cobalt+glass": {
+    "result": "enamel",
+    "reasoning": "Cobalt is a chemical element; it has symbol Co and atomic number 27. That's how Cobalt and Glass give us Enamel."
+  },
+  "cobalt+gold": {
+    "result": "helium",
+    "reasoning": "Wikipedia says: Helium is a chemical element; it has symbol He and atomic number 2. That explains why Cobalt + Gold = Helium."
+  },
+  "cobalt+graphite": {
+    "result": "diamond",
+    "reasoning": "Diamond is a solid form of the element carbon with its atoms arranged in a crystal structure called diamond cubic. So when Cobalt meets Graphite, Diamond is the natural outcome."
+  },
+  "cobalt+iron": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Cobalt + Iron = Alloy."
+  },
+  "cobalt+lead": {
+    "result": "atom",
+    "reasoning": "Atoms are the basic particles of the chemical elements and the fundamental building blocks of matter. So when Cobalt meets Lead, Atom is the natural outcome."
+  },
+  "cobalt+metal": {
+    "result": "titanium",
+    "reasoning": "Cobalt and metal together? Titanium is a chemical element; it has symbol Ti and atomic number 22. The result: Titanium."
+  },
+  "cobalt+nickel": {
+    "result": "alloy",
+    "reasoning": "Here's a real-world link: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Combine Cobalt with Nickel and you get Alloy."
+  },
+  "cobalt+paint": {
+    "result": "sculpture",
+    "reasoning": "Cobalt shaped by Paint — a Sculpture."
+  },
+  "cobalt+plank": {
+    "result": "axe",
+    "reasoning": "Cobalt head on plank handle = Axe — humanity's oldest composite tool."
+  },
+  "cobalt+platinum": {
+    "result": "alloy",
+    "reasoning": "Combining Cobalt with Platinum creates an Alloy — stronger than either alone."
+  },
+  "cobalt+silicon": {
+    "result": "boiling-point",
+    "reasoning": "The science is clear — The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. Mix Cobalt and Silicon for Boiling Point."
+  },
+  "cobalt+silver": {
+    "result": "alloy",
+    "reasoning": "The science is clear — An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Mix Cobalt and Silver for Alloy."
+  },
+  "cobalt+tin": {
+    "result": "boiling-point",
+    "reasoning": "The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. That's the connection between Cobalt and Tin — giving us Boiling Point."
+  },
+  "cobalt+titanium": {
+    "result": "alloy",
+    "reasoning": "Wikipedia says: An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That explains why Cobalt + Titanium = Alloy."
+  },
+  "cobalt+tungsten": {
+    "result": "alloy",
+    "reasoning": "The science is clear — An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Mix Cobalt and Tungsten for Alloy."
+  },
+  "cobalt+zinc": {
+    "result": "gold",
+    "reasoning": "The science is clear — Gold is a chemical element; its chemical symbol is Au and atomic number 79. Mix Cobalt and Zinc for Gold."
+  },
+  "coil+electroplate": {
     "result": "scrap-heap",
-    "reasoning": "coil + Graphite = a Scrap Heap. One person's trash is another's... still trash."
+    "reasoning": "coil + Electroplate = a Scrap Heap. One person's trash is another's... still trash."
+  },
+  "coil+fiberglass": {
+    "result": "scrap-heap",
+    "reasoning": "coil + Fiberglass = a Scrap Heap. One person's trash is another's... still trash."
+  },
+  "coil+firebrick": {
+    "result": "scrap-heap",
+    "reasoning": "coil + Firebrick = a Scrap Heap. One person's trash is another's... still trash."
+  },
+  "coil+food-packaging": {
+    "result": "scrap-heap",
+    "reasoning": "coil + Food Packaging = a Scrap Heap. One person's trash is another's... still trash."
+  },
+  "coil+fullerene": {
+    "result": "scrap-heap",
+    "reasoning": "coil + Fullerene = a Scrap Heap. One person's trash is another's... still trash."
+  },
+  "coil+galvanized-steel": {
+    "result": "scrap-heap",
+    "reasoning": "coil + Galvanized Steel = a Scrap Heap. One person's trash is another's... still trash."
   },
   "coil+gunpowder": {
     "result": "scrap-heap",
@@ -35,848 +863,20 @@
     "result": "scrap-heap",
     "reasoning": "coil + Gutta-Percha = a Scrap Heap. One person's trash is another's... still trash."
   },
-  "coil+hemp": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Hemp = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+ingot": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Ingot = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+ink": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Ink = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+iron": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Iron = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+ivory": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Ivory = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+jute": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Jute = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+kaolin": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Kaolin = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+kevlar": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Kevlar = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+lacquer": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Lacquer = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+latex": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Latex = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+lead": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Lead = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+leather": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Leather = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+lens": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Lens = a Scrap Heap. One person's trash is another's... still trash."
-  },
   "coil+limestone": {
     "result": "scrap-heap",
     "reasoning": "coil + Limestone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+linen": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Linen = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+magma": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Magma = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+marble": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Marble = a Scrap Heap. One person's trash is another's... still trash."
   },
   "coil+medallion": {
     "result": "scrap-heap",
     "reasoning": "coil + Medallion = a Scrap Heap. One person's trash is another's... still trash."
   },
-  "coil+metal": {
-    "result": "scrap-heap",
-    "reasoning": "coil + metal = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+mica": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Mica = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+mineral": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Mineral = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+mirror": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Mirror = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+mortar": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Mortar = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+nacre": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Nacre = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+nail": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Nail = a Scrap Heap. One person's trash is another's... still trash."
-  },
   "coil+natural-gas": {
     "result": "scrap-heap",
     "reasoning": "coil + Natural Gas = a Scrap Heap. One person's trash is another's... still trash."
   },
-  "coil+net": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Net = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+nickel": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Nickel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+nylon": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Nylon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+oil": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Oil = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+organza": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Organza = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+paint": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Paint = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+paper": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Paper = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+papyrus": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Papyrus = a Scrap Heap. One person's trash is another's... still trash."
-  },
   "coil+parchment": {
     "result": "scrap-heap",
     "reasoning": "coil + Parchment = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+paste": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Paste = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+permafrost": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Permafrost = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+petroleum": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Petroleum = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+pewter": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Pewter = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+pigment": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Pigment = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+plank": {
-    "result": "scrap-heap",
-    "reasoning": "coil + plank = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+plaster": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Plaster = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+plastic": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Plastic = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+platinum": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Platinum = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+plywood": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Plywood = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+porcelain": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Porcelain = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+prism": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Prism = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+pulp": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Pulp = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+pumice": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Pumice = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+quartz": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Quartz = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+quicklite": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Quicklite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+rattan": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Rattan = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+raw-material": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Raw Material = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+rayon": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Rayon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+rope": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Rope = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+rubber": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Rubber = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+rust": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Rust = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+sail": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Sail = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+sandstone": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Sandstone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+satin": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Satin = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+scrap-heap": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Scrap Heap = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+shale": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Shale = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+shield": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Shield = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+silicon": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Silicon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+silicone": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Silicone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+silk": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Silk = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+silver": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Silver = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+slate": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Slate = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+soap": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Soap = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+soil": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Soil = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+solder": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Solder = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+steel": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Steel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+suede": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Suede = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+taffeta": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Taffeta = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+tar": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Tar = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+taxidermy": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Taxidermy = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+teflon": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Teflon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+terracotta": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Terracotta = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+thread": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Thread = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+tin": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Tin = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+titanium": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Titanium = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+tungsten": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Tungsten = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+tweed": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Tweed = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+varnish": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Varnish = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+velvet": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Velvet = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+vermiculite": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Vermiculite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+wax": {
-    "result": "scrap-heap",
-    "reasoning": "coil + wax = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+wire": {
-    "result": "spring",
-    "reasoning": "Crafting coil with Wire produces Spring"
-  },
-  "coil+wool": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Wool = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+yarn": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Yarn = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "coil+zinc": {
-    "result": "scrap-heap",
-    "reasoning": "coil + Zinc = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "copper+copper": {
-    "result": "bronze",
-    "reasoning": "Copper alloyed with itself (and tin) creates bronze"
-  },
-  "copper+galvanized-steel": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Galvanized Steel creates an Alloy — stronger than either alone."
-  },
-  "copper+gold": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Gold creates an Alloy — stronger than either alone."
-  },
-  "copper+ingot": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Ingot creates an Alloy — stronger than either alone."
-  },
-  "copper+iron": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Iron creates an Alloy — stronger than either alone."
-  },
-  "copper+lead": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Lead creates an Alloy — stronger than either alone."
-  },
-  "copper+metal": {
-    "result": "bronze",
-    "reasoning": "Processing Copper with metal yields Bronze"
-  },
-  "copper+nickel": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Nickel creates an Alloy — stronger than either alone."
-  },
-  "copper+paint": {
-    "result": "sculpture",
-    "reasoning": "Copper shaped by Paint — a Sculpture."
-  },
-  "copper+plank": {
-    "result": "axe",
-    "reasoning": "Copper head on plank handle = Axe — humanity's oldest composite tool."
-  },
-  "copper+platinum": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Platinum creates an Alloy — stronger than either alone."
-  },
-  "copper+silver": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Silver creates an Alloy — stronger than either alone."
-  },
-  "copper+steel": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Steel creates an Alloy — stronger than either alone."
-  },
-  "copper+tin": {
-    "result": "bronze",
-    "reasoning": "The ancient alloy — copper mixed with tin makes bronze"
-  },
-  "copper+titanium": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Titanium creates an Alloy — stronger than either alone."
-  },
-  "copper+tungsten": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Tungsten creates an Alloy — stronger than either alone."
-  },
-  "copper+zinc": {
-    "result": "alloy",
-    "reasoning": "Combining Copper with Zinc creates an Alloy — stronger than either alone."
-  },
-  "cork+cotton": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Cotton = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+crystal": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Crystal = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+damask": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Damask = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+denim": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Denim = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+diamond": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Diamond = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+dry-ice": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Dry Ice = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+dye": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Dye = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+dynamite": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Dynamite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+e-waste": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + E-Waste = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+electroplate": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Electroplate = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+enamel": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Enamel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+epoxy": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Epoxy = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fabric": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Fabric = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fat": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + fat = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+felt": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Felt = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fiber": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + fiber = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fiberglass": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Fiberglass = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+firebrick": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Firebrick = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+firework": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Firework = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fleece": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Fleece = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+flint": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Flint = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+foam": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Foam = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+food-packaging": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Food Packaging = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fossil": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Fossil = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+fullerene": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Fullerene = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+galvanized-steel": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Galvanized Steel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+gel": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Gel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+gem": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Gem = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+glass": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Glass = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+glue": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Glue = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+gold": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Gold = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+granite": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Granite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+graphene": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Graphene = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+graphite": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Graphite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+gunpowder": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Gunpowder = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+gutta-percha": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Gutta-Percha = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+hemp": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Hemp = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+ingot": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Ingot = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+ink": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Ink = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+iron": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Iron = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+ivory": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Ivory = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+jute": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Jute = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+kaolin": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Kaolin = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+kevlar": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Kevlar = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+lacquer": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Lacquer = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+latex": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Latex = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+lead": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Lead = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+leather": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Leather = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+lens": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Lens = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+limestone": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Limestone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+linen": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Linen = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+magma": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Magma = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+marble": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Marble = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+medallion": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Medallion = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+metal": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + metal = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+mica": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Mica = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+mineral": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Mineral = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+mirror": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Mirror = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+mortar": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Mortar = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+nacre": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Nacre = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+nail": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Nail = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+natural-gas": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Natural Gas = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+net": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Net = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+nickel": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Nickel = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+nylon": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Nylon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+oil": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Oil = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+organza": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Organza = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+paint": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Paint = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+paper": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Paper = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+papyrus": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Papyrus = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+parchment": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Parchment = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+paste": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Paste = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+permafrost": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Permafrost = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+petroleum": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Petroleum = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+pewter": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Pewter = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+pigment": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Pigment = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+plank": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + plank = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+plaster": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Plaster = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+plastic": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Plastic = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+platinum": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Platinum = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+plywood": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Plywood = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+porcelain": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Porcelain = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+prism": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Prism = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+pulp": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Pulp = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+pumice": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Pumice = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+quartz": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Quartz = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+quicklite": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Quicklite = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+rattan": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Rattan = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+raw-material": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Raw Material = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+rayon": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Rayon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+rope": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Rope = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+rubber": {
-    "result": "latex",
-    "reasoning": "Combine Rubber with Cork to create Latex."
-  },
-  "cork+rust": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Rust = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+sail": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Sail = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+sandstone": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Sandstone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+satin": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Satin = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+scrap-heap": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Scrap Heap = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+shale": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Shale = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+shield": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Shield = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+silicon": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Silicon = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+silicone": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Silicone = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+silk": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Silk = a Scrap Heap. One person's trash is another's... still trash."
-  },
-  "cork+silver": {
-    "result": "scrap-heap",
-    "reasoning": "Cork + Silver = a Scrap Heap. One person's trash is another's... still trash."
   }
 }

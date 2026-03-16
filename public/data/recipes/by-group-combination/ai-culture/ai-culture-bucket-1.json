@@ -1,71 +1,55 @@
 {
+  "acrobatics+training": {
+    "result": "dance",
+    "reasoning": "Dance is an art form, consisting of sequences of body movements with aesthetic and often symbolic value, either improvised or purposefully selected. So when Acrobatics meets Training, Dance is the natural outcome."
+  },
   "agent-framework+block": {
     "result": "safety-filter",
-    "reasoning": "Combine Agent Framework with Block to create Safety Filter."
+    "reasoning": "Internet Explorer 8 or IE8 is a major version of the Internet Explorer web browser for Windows released by Microsoft on March 19, 2009 and is the successor to Internet Explorer 7. Combine Agent Framework with block and you naturally get Safety Filter."
+  },
+  "agi+arcade": {
+    "result": "aqueduct",
+    "reasoning": "Both AGI and Arcade are rooted in Place Name Disambiguation Pages. Together they make Aqueduct."
+  },
+  "agi+bath": {
+    "result": "aqueduct",
+    "reasoning": "Both AGI and Bath are rooted in Place Name Disambiguation Pages. Together they make Aqueduct."
+  },
+  "agi+block": {
+    "result": "base",
+    "reasoning": "Both AGI and block are rooted in Disambiguation Pages With Surname Holder Lists. Together they make Base."
+  },
+  "agi+board": {
+    "result": "base",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, AGI meets board to create Base."
+  },
+  "agi+bongo": {
+    "result": "aqueduct",
+    "reasoning": "AGI and Bongo both belong to the world of Place Name Disambiguation Pages — combine them for Aqueduct."
+  },
+  "agi+church": {
+    "result": "aqueduct",
+    "reasoning": "Both AGI and Church are rooted in Place Name Disambiguation Pages. Together they make Aqueduct."
+  },
+  "agi+rule": {
+    "result": "aqueduct",
+    "reasoning": "AGI and Rule both belong to the world of Place Name Disambiguation Pages — combine them for Aqueduct."
   },
   "ai-art+art": {
     "result": "calligraphy",
-    "reasoning": "Combine Art with Ai Art to create Calligraphy."
-  },
-  "ai-art+bio-art": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Bio Art in 3D."
+    "reasoning": "Calligraphy is fine handwriting taken to the level of visual art. Combine AI Art with art and you naturally get Calligraphy."
   },
   "ai-art+calligraphy": {
     "result": "3d-model",
     "reasoning": "AI Art creating Calligraphy in 3D."
   },
-  "ai-art+cello": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Cello — Spotify."
-  },
-  "ai-art+drawing": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Drawing in 3D."
-  },
-  "ai-art+drum": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Drum — Spotify."
-  },
-  "ai-art+easel": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Easel in 3D."
-  },
-  "ai-art+flute": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Flute — Spotify."
-  },
-  "ai-art+fresco": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Fresco in 3D."
-  },
   "ai-art+graffiti": {
     "result": "3d-model",
     "reasoning": "AI Art creating Graffiti in 3D."
   },
-  "ai-art+lyre": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Lyre — Spotify."
-  },
-  "ai-art+mosaic": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Mosaic in 3D."
-  },
-  "ai-art+mural": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Mural in 3D."
-  },
-  "ai-art+origami": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Origami in 3D."
-  },
   "ai-art+pixel-art": {
     "result": "rhetoric",
-    "reasoning": "Combine Ai Art with Pixel Art to create Rhetoric."
-  },
-  "ai-art+pop-art": {
-    "result": "3d-model",
-    "reasoning": "AI Art creating Pop Art in 3D."
+    "reasoning": "Here's the connection: Rhetoric is the art of persuasion. So AI Art + Pixel Art = Rhetoric."
   },
   "ai-art+saxophone": {
     "result": "spotify",
@@ -74,14 +58,6 @@
   "ai-art+sculpture": {
     "result": "3d-model",
     "reasoning": "AI Art creating Sculpture in 3D."
-  },
-  "ai-art+ukulele": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Ukulele — Spotify."
-  },
-  "ai-art+violin": {
-    "result": "spotify",
-    "reasoning": "AI Art streaming Violin — Spotify."
   },
   "ai-art+watercolor": {
     "result": "3d-model",
@@ -237,447 +213,131 @@
   },
   "ai-music+classical-music": {
     "result": "requiem",
-    "reasoning": "Combine Classical Music with Ai Music to create Requiem."
+    "reasoning": "Did you know? A Requiem or Requiem Mass, also known as Mass for the dead or Mass of the dead, is a Mass of the Catholic Church offered for the repose of the souls of the deceased, using a particular form of the Roman Missal. That's why AI Music + Classical Music = Requiem."
   },
   "ai-music+music": {
     "result": "satyr",
-    "reasoning": "Combine Ai Music with Music to create Satyr."
+    "reasoning": "In Greek mythology, a satyr, also known as a silenus or silenos, and sileni (plural), is a male nature spirit with ears and a tail resembling those of a horse, as well as a permanent, exaggerated erection. That's how AI Music and Music give us Satyr."
   },
   "ai-music+reggae": {
     "result": "metronome",
-    "reasoning": "Combine Ai Music with Reggae to create Metronome."
+    "reasoning": "Did you know? A metronome is a device that produces an audible click or other sound at a uniform interval that can be set by the user, typically in beats per minute (BPM). That's why AI Music + Reggae = Metronome."
   },
   "ai-music+rhythm": {
     "result": "metronome",
-    "reasoning": "Combine Ai Music with Rhythm to create Metronome."
+    "reasoning": "A metronome is a device that produces an audible click or other sound at a uniform interval that can be set by the user, typically in beats per minute (BPM). That's how AI Music and Rhythm give us Metronome."
   },
   "ai-music+rock-music": {
     "result": "satyr",
-    "reasoning": "Combine Ai Music with Rock Music to create Satyr."
-  },
-  "ai+air": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + air = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+anime": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Anime = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+aquarium": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Aquarium = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+arcade": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Arcade = AI Generated Art. Is it art? The debate rages on."
+    "reasoning": "In Greek mythology, a satyr, also known as a silenus or silenos, and sileni (plural), is a male nature spirit with ears and a tail resembling those of a horse, as well as a permanent, exaggerated erection. Combine AI Music with Rock Music and you naturally get Satyr."
   },
   "ai+art": {
     "result": "image-generation",
     "reasoning": "AI enhanced with art creates Image Generation"
   },
-  "ai+bagpipe": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Bagpipe = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+ball": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Ball = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+banjo": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Banjo = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+bank": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Bank = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+baroque": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Baroque = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+beauty": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + beauty = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+bio-art": {
-    "result": "3d-model",
-    "reasoning": "AI creating Bio Art in 3D."
-  },
-  "ai+blues": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Blues = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+breakdance": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Breakdance = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+bridge": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Bridge = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+calligraphy": {
-    "result": "3d-model",
-    "reasoning": "AI creating Calligraphy in 3D."
-  },
-  "ai+chess": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Chess = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+church": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Church = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+cinema": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Cinema = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+clarinet": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Clarinet = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+craft-fair": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Craft Fair = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+curtain": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Curtain = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+cymbal": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Cymbal = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+dam": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Dam = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+darkness": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Darkness = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+dock": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Dock = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+drawing": {
-    "result": "3d-model",
-    "reasoning": "AI creating Drawing in 3D."
-  },
-  "ai+dress": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Dress = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+drum": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Drum = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+easel": {
-    "result": "3d-model",
-    "reasoning": "AI creating Easel in 3D."
-  },
-  "ai+echo": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Echo = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+entertainment": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + entertainment = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+epic": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Epic = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+esports": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Esports = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+film": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Film = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+fireplace": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Fireplace = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+flamenco": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Flamenco = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+fresco": {
-    "result": "3d-model",
-    "reasoning": "AI creating Fresco in 3D."
-  },
-  "ai+fun": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + fun = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+glove": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Glove = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+graffiti": {
-    "result": "3d-model",
-    "reasoning": "AI creating Graffiti in 3D."
-  },
-  "ai+guitar": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Guitar = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+hat": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Hat = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+hip-hop": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Hip Hop = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+hospital": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Hospital = AI Generated Art. Is it art? The debate rages on."
+  "ai+factory": {
+    "result": "automation",
+    "reasoning": "GM's Unimate robot arm, installed on a factory line in 1961, was the world's first industrial robot; today AI-driven automation has produced factories where machines learn and adapt production without any human intervention."
   },
   "ai+house": {
     "result": "smart-home",
-    "reasoning": "Applying AI to house produces Smart Home"
-  },
-  "ai+indie-game": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Indie Game = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+jazz": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Jazz = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+jewelry": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Jewelry = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+karate": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Karate = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+kitchen": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Kitchen = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+lamp": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Lamp = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+lego": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Lego = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+lighthouse": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Lighthouse = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+microsoft": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Microsoft = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+mime": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Mime = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+mosaic": {
-    "result": "3d-model",
-    "reasoning": "AI creating Mosaic in 3D."
-  },
-  "ai+mural": {
-    "result": "3d-model",
-    "reasoning": "AI creating Mural in 3D."
+    "reasoning": "Home automation or domotics is building automation for a home. Combine AI with house and you naturally get Smart Home."
   },
   "ai+music": {
     "result": "ai-music",
     "reasoning": "AI enhanced with Music creates AI Music"
   },
-  "ai+necklace": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Necklace = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+oboe": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Oboe = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+opera": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Opera = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+origami": {
-    "result": "3d-model",
-    "reasoning": "AI creating Origami in 3D."
-  },
   "ai+painting": {
     "result": "ai-art",
     "reasoning": "AI enhanced with Painting creates AI Art"
   },
-  "ai+percussion": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Percussion = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+piano": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Piano = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "AI creating Pixel Art in 3D."
-  },
-  "ai+polka": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Polka = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+pop-art": {
-    "result": "3d-model",
-    "reasoning": "AI creating Pop Art in 3D."
-  },
-  "ai+port": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Port = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+pyramid": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Pyramid = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+reality-tv": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Reality TV = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+reggae": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Reggae = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+rhythm": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Rhythm = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+roof": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Roof = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+rpg": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + RPG = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+running": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Running = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+saxophone": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Saxophone = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+sculpture": {
-    "result": "3d-model",
-    "reasoning": "AI creating Sculpture in 3D."
-  },
-  "ai+shower": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Shower = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+skyscraper": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Skyscraper = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+slam-poetry": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Slam Poetry = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+song": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Song = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+sonnet": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Sonnet = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+sony": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Sony = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+soul-music": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Soul Music = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+spa": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Spa = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+speedrun": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Speedrun = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+sport": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + sport = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+stadium": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Stadium = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+stained-glass": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Stained Glass = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+surfing": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Surfing = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+symphony": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Symphony = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+table": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Table = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+toy": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Toy = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+tuba": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Tuba = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+twitch": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Twitch = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+violin": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Violin = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+vr-game": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + VR Game = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+wall": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Wall = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+watercolor": {
-    "result": "3d-model",
-    "reasoning": "AI creating Watercolor in 3D."
-  },
-  "ai+window": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Window = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+xbox": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Xbox = AI Generated Art. Is it art? The debate rages on."
-  },
-  "ai+xylophone": {
-    "result": "ai-generated-art",
-    "reasoning": "AI + Xylophone = AI Generated Art. Is it art? The debate rages on."
-  },
   "air+machine-learning": {
     "result": "air-conditioner",
-    "reasoning": "Combine Air with Machine Learning to create Air Conditioner."
+    "reasoning": "Air conditioning, often abbreviated as A/C (US) or air con (UK), is the process of removing heat from an enclosed space to achieve a more comfortable interior temperature and, in some cases, controlling the humidity of internal air. Combine air with Machine Learning and you naturally get Air Conditioner."
+  },
+  "animation+dall-e": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when Animation meets DALL-E, Anime is the natural outcome."
+  },
+  "anthropic+microsoft": {
+    "result": "google",
+    "reasoning": "Anthropic and Microsoft share a deep connection. It has been referred to as \"the most powerful company in the world\" by the BBC, and is one of the world's most valuable brands. Result: Google."
+  },
+  "apple-company+google": {
+    "result": "amazon",
+    "reasoning": "Here's a real-world link: is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. Combine Apple Company with Google and you get Amazon."
+  },
+  "apple-company+openai": {
+    "result": "airbnb",
+    "reasoning": "is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. That's the connection between Apple Company and OpenAI — giving us Airbnb."
+  },
+  "arcade+chat": {
+    "result": "arroyo",
+    "reasoning": "The science is clear — Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Mix Arcade and Chat for Arroyo."
+  },
+  "arcade+ide": {
+    "result": "arroyo",
+    "reasoning": "Arcade and IDE share a deep connection. Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Result: Arroyo."
+  },
+  "arcade+pioneer": {
+    "result": "arroyo",
+    "reasoning": "Arcade and Pioneer share a deep connection. Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Result: Arroyo."
   },
   "art+jimmy-art": {
     "result": "calligraphy",
-    "reasoning": "Combine Art with Jimmy Art to create Calligraphy."
+    "reasoning": "Calligraphy is fine handwriting taken to the level of visual art. That's how art and Jimmy Art give us Calligraphy."
+  },
+  "ball+model": {
+    "result": "engineering",
+    "reasoning": "Here's a real-world link: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Combine Ball with Model and you get engineering."
+  },
+  "ball+safety": {
+    "result": "engineering",
+    "reasoning": "Ball and Safety share a deep connection. Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Result: engineering."
+  },
+  "bath+chat": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bath meets Chat to create Asylum."
+  },
+  "bath+ide": {
+    "result": "bark",
+    "reasoning": "Bark most commonly refers to:Bark (botany), an outer layer of a woody plant\nBark (sound), a vocalization of some animals That's the connection between Bath and IDE — giving us Bark."
+  },
+  "bath+pioneer": {
+    "result": "bongo",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bath meets Pioneer to create Bongo."
+  },
+  "bioinformatics+game": {
+    "result": "algorithm",
+    "reasoning": "Bioinformatics and Game share a deep connection. In mathematics and computer science, an algorithm is a finite sequence of mathematically rigorous instructions, typically used to solve a class of specific problems or to perform a computation. Result: Algorithm."
+  },
+  "bioinformatics+ikea": {
+    "result": "augmented-reality",
+    "reasoning": "Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. So when Bioinformatics meets IKEA, Augmented Reality is the natural outcome."
+  },
+  "block+deepfake": {
+    "result": "blockchain",
+    "reasoning": "Wikipedia says: A blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes. That explains why block + Deepfake = Blockchain."
+  },
+  "block+ide": {
+    "result": "base",
+    "reasoning": "block and IDE both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Base."
+  },
+  "board+ide": {
+    "result": "base",
+    "reasoning": "board and IDE both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Base."
+  },
+  "bongo+chat": {
+    "result": "bath",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bongo meets Chat to create Bath."
+  },
+  "bongo+ide": {
+    "result": "bath",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bongo meets IDE to create Bath."
+  },
+  "bongo+pioneer": {
+    "result": "bath",
+    "reasoning": "Bongo and Pioneer both belong to the world of Place Name Disambiguation Pages — combine them for Bath."
   },
   "castle+jimmy-art": {
     "result": "museum",
@@ -687,6 +347,38 @@
     "result": "school",
     "reasoning": "A Building for Knowledge creates a School, education for all"
   },
+  "chandelier+temperature": {
+    "result": "combustion",
+    "reasoning": "Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That's the connection between Chandelier and Temperature — giving us Combustion."
+  },
+  "chat+church": {
+    "result": "canteen",
+    "reasoning": "Both Chat and Church are rooted in Place Name Disambiguation Pages. Together they make Canteen."
+  },
+  "chat+rule": {
+    "result": "canteen",
+    "reasoning": "Both Chat and Rule are rooted in Place Name Disambiguation Pages. Together they make Canteen."
+  },
+  "chatbot+ikea": {
+    "result": "augmented-reality",
+    "reasoning": "The science is clear — Augmented reality (AR), also known as mixed reality (MR), is a form of 3D human–computer interaction that overlays real-time 3D-rendered computer graphics into the real world through a display, such as a handheld device or head-mounted display. Mix Chatbot and IKEA for Augmented Reality."
+  },
+  "chatbot+playstation": {
+    "result": "bluetooth",
+    "reasoning": "Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That's the connection between Chatbot and PlayStation — giving us Bluetooth."
+  },
+  "chatbot+sony": {
+    "result": "bluetooth",
+    "reasoning": "Wikipedia says: Bluetooth is a short-range wireless technology standard that is used for exchanging data between fixed and mobile devices over short distances and building personal area networks (PANs). That explains why Chatbot + Sony = Bluetooth."
+  },
+  "chatgpt+sony": {
+    "result": "ai",
+    "reasoning": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. So when ChatGPT meets Sony, AI is the natural outcome."
+  },
+  "church+ide": {
+    "result": "cardinal",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Church meets IDE to create Cardinal."
+  },
   "church+jimmy-art": {
     "result": "museum",
     "reasoning": "A Church preserving Jimmy Art — a Museum."
@@ -695,13 +387,25 @@
     "result": "library",
     "reasoning": "A Church filled with Knowledge Graph — a Library."
   },
+  "church+pioneer": {
+    "result": "change",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Church meets Pioneer to create change."
+  },
   "classical-music+jimmy-voice": {
     "result": "soul-music",
-    "reasoning": "Combine Classical Music with Jimmy Voice to create Soul Music."
+    "reasoning": "Soul music is a musical genre. Combine Classical Music with Jimmy Voice and you naturally get Soul Music."
   },
   "classical-music+large-language-model": {
     "result": "symphony",
-    "reasoning": "Combine Classical Music with Large Language Model to create Symphony."
+    "reasoning": "Classical Music and Large Language Model together? A symphony is an extended musical composition in Western classical music, most often for orchestra. The result: Symphony."
+  },
+  "classification+music": {
+    "result": "recommendation",
+    "reasoning": "Spotify's recommendation engine classifies songs into thousands of micro-genres using audio features like tempo, valence, and spectral centroid, predicting what you'll want to hear before you know yourself."
+  },
+  "classification+rule": {
+    "result": "law",
+    "reasoning": "Wikipedia says: Law is a set of rules that are created and are enforceable by governmental or societal institutions to regulate behavior, with its precise definition a matter of longstanding debate. That explains why Classification + Rule = law."
   },
   "code-generation+country-music": {
     "result": "spotify",
@@ -827,17 +531,57 @@
     "result": "3d-model",
     "reasoning": "Code Generation creating Watercolor in 3D."
   },
+  "curtain+safety": {
+    "result": "door",
+    "reasoning": "Wikipedia says: A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. That explains why Curtain + Safety = Door."
+  },
   "cymbal+large-language-model": {
     "result": "gong",
-    "reasoning": "Combine Large Language Model with Cymbal to create Gong."
+    "reasoning": "Cymbal and Large Language Model together? A gong is a percussion instrument originating from Southeast Asia, and used widely in Southeast Asian and East Asian musical traditions. The result: Gong."
+  },
+  "cymbal+training": {
+    "result": "god",
+    "reasoning": "Here's a real-world link: In monotheistic religious belief systems, God is usually viewed as the supreme being, creator, and principal object of faith. Combine Cymbal with Training and you get god."
+  },
+  "dall-e+doll": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when DALL-E meets Doll, Anime is the natural outcome."
+  },
+  "dall-e+film": {
+    "result": "anime",
+    "reasoning": "Here's a real-world link: Anime  is animation originating from Japan. Combine DALL-E with Film and you get Anime."
+  },
+  "dall-e+kabuki": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. So when DALL-E meets Kabuki, Anime is the natural outcome."
+  },
+  "dall-e+karate": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. That's the connection between DALL-E and Karate — giving us Anime."
+  },
+  "dall-e+manga": {
+    "result": "anime",
+    "reasoning": "Wikipedia says: Anime  is animation originating from Japan. That explains why DALL-E + Manga = Anime."
+  },
+  "dall-e+sony": {
+    "result": "anime",
+    "reasoning": "Here's a real-world link: Anime  is animation originating from Japan. Combine DALL-E with Sony and you get Anime."
   },
   "dam+large-language-model": {
     "result": "reservoir",
-    "reasoning": "Combine Dam with Large Language Model to create Reservoir."
+    "reasoning": "A reservoir is an enlarged lake behind a dam, usually built to store fresh water, often doubling for hydroelectric power generation. Combine Dam with Large Language Model and you naturally get Reservoir."
   },
   "dance+large-language-model": {
     "result": "ballroom",
-    "reasoning": "Combine Dance with Large Language Model to create Ballroom."
+    "reasoning": "Dance and Large Language Model together? A ballroom or ballhall is a large room inside a building, the primary purpose of which is holding large formal parties called balls. The result: Ballroom."
+  },
+  "darkness+temperature": {
+    "result": "color",
+    "reasoning": "Darkness and Temperature share a deep connection. Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Result: Color."
+  },
+  "darkness+training": {
+    "result": "god",
+    "reasoning": "Wikipedia says: In monotheistic religious belief systems, God is usually viewed as the supreme being, creator, and principal object of faith. That explains why Darkness + Training = god."
   },
   "data-pipeline+drawing": {
     "result": "3d-model",
@@ -878,5 +622,261 @@
   "data-pipeline+harp": {
     "result": "spotify",
     "reasoning": "Data Pipeline streaming Harp — Spotify."
+  },
+  "data-pipeline+lyre": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Lyre — Spotify."
+  },
+  "data-pipeline+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Mosaic in 3D."
+  },
+  "data-pipeline+mural": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Mural in 3D."
+  },
+  "data-pipeline+music": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Music — Spotify."
+  },
+  "data-pipeline+orchestra": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Orchestra — Spotify."
+  },
+  "data-pipeline+origami": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Origami in 3D."
+  },
+  "data-pipeline+piano": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Piano — Spotify."
+  },
+  "data-pipeline+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Pixel Art in 3D."
+  },
+  "data-pipeline+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Pop Art in 3D."
+  },
+  "data-pipeline+rock-music": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Rock Music — Spotify."
+  },
+  "data-pipeline+saxophone": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Saxophone — Spotify."
+  },
+  "data-pipeline+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "Data Pipeline + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "data-pipeline+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Sculpture in 3D."
+  },
+  "data-pipeline+song": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Song — Spotify."
+  },
+  "data-pipeline+soul-music": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Soul Music — Spotify."
+  },
+  "data-pipeline+symphony": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Symphony — Spotify."
+  },
+  "data-pipeline+trumpet": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Trumpet — Spotify."
+  },
+  "data-pipeline+ukulele": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Ukulele — Spotify."
+  },
+  "data-pipeline+violin": {
+    "result": "spotify",
+    "reasoning": "Data Pipeline streaming Violin — Spotify."
+  },
+  "data-pipeline+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Data Pipeline creating Watercolor in 3D."
+  },
+  "decision-tree+well": {
+    "result": "boat",
+    "reasoning": "Decision Tree on Well — a Boat. Humanity's first vehicle."
+  },
+  "deepfake+minecraft": {
+    "result": "lumberjack",
+    "reasoning": "Deepfake and Minecraft share a deep connection. Lumberjack is a mostly North American term for workers in the logging industry who perform the initial harvesting and transport of trees. Result: Lumberjack."
+  },
+  "drum+temperature": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. That's the connection between Drum and Temperature — giving us Amplitude."
+  },
+  "edge-ai+folk-music": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Folk Music — Spotify."
+  },
+  "edge-ai+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Graffiti in 3D."
+  },
+  "edge-ai+harmonica": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Harmonica — Spotify."
+  },
+  "edge-ai+orchestra": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Orchestra — Spotify."
+  },
+  "edge-ai+origami": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Origami in 3D."
+  },
+  "edge-ai+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Pixel Art in 3D."
+  },
+  "edge-ai+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Pop Art in 3D."
+  },
+  "edge-ai+rock-music": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Rock Music — Spotify."
+  },
+  "edge-ai+saxophone": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Saxophone — Spotify."
+  },
+  "edge-ai+science-fiction": {
+    "result": "artificial-intelligence",
+    "reasoning": "Edge AI + Science Fiction = AI — humanity's greatest amplifier."
+  },
+  "edge-ai+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Sculpture in 3D."
+  },
+  "edge-ai+soul-music": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Soul Music — Spotify."
+  },
+  "edge-ai+symphony": {
+    "result": "spotify",
+    "reasoning": "Edge AI streaming Symphony — Spotify."
+  },
+  "edge-ai+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Edge AI creating Watercolor in 3D."
+  },
+  "etching+large-language-model": {
+    "result": "gong",
+    "reasoning": "Did you know? A gong is a percussion instrument originating from Southeast Asia, and used widely in Southeast Asian and East Asian musical traditions. That's why Etching + Large Language Model = Gong."
+  },
+  "factory+jimmy-art": {
+    "result": "museum",
+    "reasoning": "A Factory preserving Jimmy Art — a Museum."
+  },
+  "factory+knowledge-graph": {
+    "result": "library",
+    "reasoning": "A Factory filled with Knowledge Graph — a Library."
+  },
+  "factory+space-ai": {
+    "result": "corporation",
+    "reasoning": "Wikipedia says: A corporation or body corporate is an individual or group, such as an association or company, that has been authorized by the state to act as a single entity and recognized as such in law for certain purposes. That explains why Factory + HAL 9000 = Corporation."
+  },
+  "factory+training": {
+    "result": "automation",
+    "reasoning": "AI training pipelines are essentially digital factories — processing raw datasets through GPU assembly lines to manufacture model weights — blurring the conceptual line between industrial mass production and machine learning."
+  },
+  "floor+safety": {
+    "result": "door",
+    "reasoning": "The science is clear — A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. Mix Floor and Safety for Door."
+  },
+  "fresco+large-language-model": {
+    "result": "mural",
+    "reasoning": "Here's the connection: A mural is any piece of graphic artwork that is painted or applied directly to a wall, ceiling or other permanent substrate. So Fresco + Large Language Model = Mural."
+  },
+  "fun+hallucination": {
+    "result": "dopamine",
+    "reasoning": "fun and Hallucination share a deep connection. Dopamine is a neuromodulatory molecule that plays several important roles in cells. Result: Dopamine."
+  },
+  "gemini+impressionism": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Impressionism = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+landscape-painting": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Landscape Painting = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+musical-theater": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Musical Theater = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+photography": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Photography = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+playstation": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + PlayStation = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+pop-culture": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Pop Culture = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+roller-coaster": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Roller Coaster = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+science-fiction": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Science Fiction = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+slam-poetry": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Slam Poetry = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+stained-glass": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Stained Glass = AI Generated Art. Is it art? The debate rages on."
+  },
+  "gemini+star-wars": {
+    "result": "ai-generated-art",
+    "reasoning": "Gemini + Space Opera = AI Generated Art. Is it art? The debate rages on."
+  },
+  "google-cloud+graffiti": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Graffiti in 3D."
+  },
+  "google-cloud+mosaic": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Mosaic in 3D."
+  },
+  "google-cloud+mural": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Mural in 3D."
+  },
+  "google-cloud+origami": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Origami in 3D."
+  },
+  "google-cloud+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Pixel Art in 3D."
+  },
+  "google-cloud+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Pop Art in 3D."
+  },
+  "google-cloud+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Sculpture in 3D."
+  },
+  "google-cloud+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Google Cloud creating Watercolor in 3D."
   }
 }

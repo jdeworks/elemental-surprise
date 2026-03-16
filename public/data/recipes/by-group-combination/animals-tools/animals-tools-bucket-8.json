@@ -1,882 +1,882 @@
 {
-  "chisel+panda": {
+  "llama+swiss-army-knife": {
+    "result": "cart",
+    "reasoning": "Llamas are pack animals of the Andes, carrying goods by Cart at altitude"
+  },
+  "llama+wrench": {
+    "result": "cart",
+    "reasoning": "Llamas are pack animals of the Andes, carrying goods by Cart at altitude"
+  },
+  "lobster+pick": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+pliers": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+rake": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+saw": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+scissors": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+shovel": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+smelting": {
+    "result": "scallop",
+    "reasoning": "Cooked lobster turns bright red — a heat-triggered protein change"
+  },
+  "lobster+socket-wrench": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+swiss-army-knife": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lobster+welding": {
+    "result": "scallop",
+    "reasoning": "Cooked lobster turns bright red — a heat-triggered protein change"
+  },
+  "lobster+wrench": {
+    "result": "fishing",
+    "reasoning": "Lobster traps line the New England coast, a billion-dollar Fishery"
+  },
+  "lock+seal": {
+    "result": "domain",
+    "reasoning": "Here's a real-world link: A domain is a geographic area controlled by a single person or organization. Combine Lock with Seal and you get Domain."
+  },
+  "mace+seal": {
+    "result": "fame",
+    "reasoning": "Here's a real-world link: Fame usually refers to the state of notability or celebrity. Combine Mace with Seal and you get fame."
+  },
+  "mining+pig": {
+    "result": "firefighter",
+    "reasoning": "In the realm of Occupational Safety And Health, Mining meets Pig to create Firefighter."
+  },
+  "monkey+pick": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+pliers": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+rake": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+saw": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+scissors": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+shovel": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+socket-wrench": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+spring": {
+    "result": "otter",
+    "reasoning": "Sea otters use tools like monkeys — floating on their backs cracking shells"
+  },
+  "monkey+swiss-army-knife": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "monkey+tool": {
+    "result": "baboon",
+    "reasoning": "Baboons are primates comprising the genus Papio, one of the 23 genera of Old World monkeys, in the family Cercopithecidae. So when Monkey meets tool, Baboon is the natural outcome."
+  },
+  "monkey+wrench": {
+    "result": "trap",
+    "reasoning": "Monkey Traps use curiosity against them, a hand stuck in a jar"
+  },
+  "moth+pick": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+pliers": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+rake": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+saw": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+scissors": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+shovel": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+socket-wrench": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+swiss-army-knife": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "moth+wrench": {
+    "result": "lantern",
+    "reasoning": "Moths are drawn to Lanterns, light traps help scientists study them"
+  },
+  "mouse+pick": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+pliers": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+quill": {
+    "result": "ink",
+    "reasoning": "Ink is a gel, sol, or solution that contains at least one colorant, such as a dye or pigment, and is used to color a surface to produce an image, text, or design. So when Mouse meets Quill, Ink is the natural outcome."
+  },
+  "mouse+rake": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+saw": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+scissors": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+shovel": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+socket-wrench": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+spring": {
+    "result": "axolotl",
+    "reasoning": "Both mice and axolotls are beloved lab animals — one just breathes water"
+  },
+  "mouse+swiss-army-knife": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mouse+wrench": {
+    "result": "trap",
+    "reasoning": "Mouse Traps are the world's most-built simple machine"
+  },
+  "mousetrap+quail": {
+    "result": "hunting",
+    "reasoning": "The science is clear — Hunting is the human practice of seeking, pursuing, capturing, and killing wildlife or feral animals. Mix Mousetrap and Quail for Hunting."
+  },
+  "narwhal+pick": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+pliers": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+rake": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+saw": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+scissors": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+shovel": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+socket-wrench": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+swiss-army-knife": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "narwhal+wrench": {
+    "result": "spear",
+    "reasoning": "Narwhal hunting with Spears is a traditional Inuit practice"
+  },
+  "nautilus+weight": {
+    "result": "buoyancy",
+    "reasoning": "The science is clear — Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. Mix Nautilus and weight for Buoyancy."
+  },
+  "needle+seal": {
+    "result": "furnace",
+    "reasoning": "Both Needle and Seal are rooted in Disambiguation Pages With Surname Holder Lists. Together they make Furnace."
+  },
+  "nest+quill": {
+    "result": "eagle",
+    "reasoning": "Nest and Quill share a deep connection. Eagle is the common name for certain large birds of prey within the family of the Accipitridae. Result: Eagle."
+  },
+  "nest+wing": {
+    "result": "dinosaur",
+    "reasoning": "Here's a real-world link: Dinosaurs are a diverse group of reptiles of the clade Dinosauria. Combine Nest with wing and you get Dinosaur."
+  },
+  "octopus+pick": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+pliers": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+rake": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+saw": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+scissors": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+shovel": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+smelting": {
+    "result": "tempura",
+    "reasoning": "Grilled octopus is a Mediterranean taverna essential"
+  },
+  "octopus+socket-wrench": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+swiss-army-knife": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "octopus+welding": {
+    "result": "tempura",
+    "reasoning": "Grilled octopus is a Mediterranean taverna essential"
+  },
+  "octopus+wrench": {
+    "result": "fishing",
+    "reasoning": "Octopus Fishing uses clay pots, they crawl right in"
+  },
+  "orangutan+pick": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+pliers": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+rake": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+saw": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+scissors": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+shovel": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+socket-wrench": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+swiss-army-knife": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "orangutan+tool": {
+    "result": "baboon",
+    "reasoning": "Wikipedia says: Baboons are primates comprising the genus Papio, one of the 23 genera of Old World monkeys, in the family Cercopithecidae. That explains why Orangutan + tool = Baboon."
+  },
+  "orangutan+wrench": {
+    "result": "tool",
+    "reasoning": "Orangutans fashion Tools from branches, rainforest engineers"
+  },
+  "ostrich+pick": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+pliers": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+rake": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+saw": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+scissors": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+shovel": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+socket-wrench": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+swiss-army-knife": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "ostrich+wrench": {
+    "result": "feather",
+    "reasoning": "Ostrich Feathers were once more valuable than gold for fashion"
+  },
+  "owl+spring": {
+    "result": "loon",
+    "reasoning": "Loons are the haunting night-callers of lakes — owls of the water"
+  },
+  "panda+pick": {
     "result": "camera",
     "reasoning": "Panda Cameras in reserves help monitor this endangered species"
   },
-  "chisel+pangolin": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "panda+pliers": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
   },
-  "chisel+parrot": {
+  "panda+rake": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+saw": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+scissors": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+shovel": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+socket-wrench": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+swiss-army-knife": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "panda+wrench": {
+    "result": "camera",
+    "reasoning": "Panda Cameras in reserves help monitor this endangered species"
+  },
+  "pangolin+wing": {
+    "result": "bat",
+    "reasoning": "Bats are winged mammals; the only mammals capable of true and sustained flight. That's the connection between Pangolin and wing — giving us Bat."
+  },
+  "parrot+pick": {
     "result": "song",
     "reasoning": "Parrots learn words and Songs from their human companions"
   },
-  "chisel+peacock": {
+  "parrot+pliers": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+rake": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+saw": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+scissors": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+shovel": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+socket-wrench": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+spring": {
+    "result": "puffin",
+    "reasoning": "Puffins are the colorful parrots of the sea — bright beaks and all"
+  },
+  "parrot+swiss-army-knife": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "parrot+wrench": {
+    "result": "song",
+    "reasoning": "Parrots learn words and Songs from their human companions"
+  },
+  "peacock+pick": {
     "result": "feather",
     "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
   },
-  "chisel+pelican": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "peacock+pliers": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
   },
-  "chisel+penguin": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "peacock+rake": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
   },
-  "chisel+pig": {
+  "peacock+saw": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "peacock+scissors": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "peacock+shovel": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "peacock+socket-wrench": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "peacock+swiss-army-knife": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "peacock+wrench": {
+    "result": "feather",
+    "reasoning": "Peacock Feathers are collected for decoration, iridescent and beautiful"
+  },
+  "pick+pig": {
     "result": "mushroom",
     "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "chisel+piranha": {
+  "pick+piranha": {
     "result": "net",
     "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "chisel+platypus": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+pokemon": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+polar-bear": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+porcupine": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+pronghorn": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+puffin": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+quail": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+quetzal": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+rabbit": {
+  "pick+rabbit": {
     "result": "trap",
     "reasoning": "Rabbit Traps have been used since prehistoric times for food"
   },
-  "chisel+raccoon": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+rat": {
+  "pick+rat": {
     "result": "trap",
     "reasoning": "Rat Traps snap shut, the classic spring-loaded invention"
   },
-  "chisel+rattlesnake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+raven": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+ray": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+red-panda": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+rhinoceros": {
+  "pick+rhinoceros": {
     "result": "camera",
     "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
   },
-  "chisel+roadrunner": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+rooster": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+safari": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+salamander": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+scorpion": {
+  "pick+scorpion": {
     "result": "trap",
     "reasoning": "Scorpion Traps use UV light, scorpions glow under blacklight"
   },
-  "chisel+sea-cucumber": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pick+seal": {
+    "result": "grove",
+    "reasoning": "Both Pick and Seal are rooted in Place Name Disambiguation Pages. Together they make Grove."
   },
-  "chisel+sea-urchin": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+seahorse": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+seal": {
-    "result": "hunting",
-    "reasoning": "Inuit seal Hunting uses tools refined over millennia"
-  },
-  "chisel+shark": {
+  "pick+shark": {
     "result": "net",
     "reasoning": "Shark Nets protect beaches but controversy surrounds bycatch"
   },
-  "chisel+sheep": {
+  "pick+sheep": {
     "result": "wool",
     "reasoning": "Sheep are sheared with scissors for their Wool, the oldest textile"
   },
-  "chisel+sloth": {
+  "pick+sloth": {
     "result": "camera",
     "reasoning": "Sloth Cameras reveal surprisingly active nighttime behavior"
   },
-  "chisel+snail": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+snake": {
+  "pick+snake": {
     "result": "medicine",
     "reasoning": "Snake venom is milked with tools for antivenoms and Medicines"
   },
-  "chisel+snow-leopard": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+sparrow": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+spider": {
+  "pick+spider": {
     "result": "web",
     "reasoning": "Spiders are nature's toolmakers, spinning silk Webs stronger than steel"
   },
-  "chisel+squid": {
+  "pick+squid": {
     "result": "fishing",
     "reasoning": "Squid are caught with jigs and lights at night, Fishing by lantern"
   },
-  "chisel+squirrel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+starfish": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+stork": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+swan": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+swordfish": {
+  "pick+swordfish": {
     "result": "fishing",
     "reasoning": "Deep-sea Fishing for swordfish, big game on the open ocean"
   },
-  "chisel+tapir": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+tarantula": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+termite": {
+  "pick+termite": {
     "result": "trap",
     "reasoning": "Chimps fish for termites with sticks, the earliest observed tool Trap"
   },
-  "chisel+tiger": {
+  "pick+tiger": {
     "result": "trap",
     "reasoning": "Tiger Traps were set along jungle trails, dangerous game"
   },
-  "chisel+toad": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+toucan": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+trout": {
+  "pick+trout": {
     "result": "fishing",
     "reasoning": "Fly-Fishing for trout is both sport and art"
   },
-  "chisel+turkey": {
+  "pick+turkey": {
     "result": "feather",
     "reasoning": "Turkey Feathers were used for arrow fletching by Native Americans"
   },
-  "chisel+turtle": {
+  "pick+turtle": {
     "result": "net",
     "reasoning": "Sea turtles are unfortunately caught in fishing Nets as bycatch"
   },
-  "chisel+vulture": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+walrus": {
+  "pick+walrus": {
     "result": "spear",
     "reasoning": "Walrus hunting with Spears sustained Arctic communities for centuries"
   },
-  "chisel+wasp": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+weasel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+web": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+whale": {
+  "pick+whale": {
     "result": "ship",
     "reasoning": "Whaling Ships hunted the seas from Moby Dick to modern moratoriums"
   },
-  "chisel+wolf": {
-    "result": "hunting",
-    "reasoning": "Humans and wolves co-Hunted, leading to dog domestication"
-  },
-  "chisel+woodpecker": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+worm": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "chisel+yak": {
+  "pick+yak": {
     "result": "cart",
     "reasoning": "Yaks haul supplies through Himalayan mountain passes by Cart"
   },
-  "chisel+zebra": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+pliers": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+drill": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+rake": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
+  "pig+saw": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+garden-shed": {
-    "result": "root",
-    "reasoning": "Cicada nymphs feed on tree Roots for up to 17 years underground"
+  "pig+scissors": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+hammer": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+shovel": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+hand-saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+smelting": {
+    "result": "sausage",
+    "reasoning": "Pork is the most widely consumed meat globally — sausage is its iconic form"
   },
-  "cicada+knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+socket-wrench": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+pick": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+spring": {
+    "result": "hippopotamus",
+    "reasoning": "Hippos wallow in mud and water — aquatic pigs taken to the extreme"
   },
-  "cicada+pliers": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+swiss-army-knife": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+rake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+welding": {
+    "result": "sausage",
+    "reasoning": "Pork is the most widely consumed meat globally — sausage is its iconic form"
   },
-  "cicada+saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "pig+wrench": {
+    "result": "mushroom",
+    "reasoning": "Truffle pigs sniff out buried Mushrooms, gourmet treasure hunters"
   },
-  "cicada+scissors": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "piranha+pliers": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+shovel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "piranha+pump": {
+    "result": "aquarium",
+    "reasoning": "Piranha and Pump share a deep connection. An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Result: Aquarium."
   },
-  "cicada+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
+  "piranha+rake": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+socket-wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "piranha+saw": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "piranha+scissors": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+swiss-army-knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "piranha+shovel": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
+  "piranha+socket-wrench": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "cicada+wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
+  "piranha+swiss-army-knife": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
   },
-  "clam+drill": {
+  "piranha+wing": {
+    "result": "cormorant",
+    "reasoning": "Phalacrocoracidae is a family of approximately 40 species of aquatic birds found worldwide and commonly known as cormorants and shags. That's the connection between Piranha and wing — giving us Cormorant."
+  },
+  "piranha+wrench": {
+    "result": "net",
+    "reasoning": "Piranha Nets must be hauled fast, those teeth cut through anything"
+  },
+  "plane+seal": {
+    "result": "hydra",
+    "reasoning": "Plane and Seal share a deep connection. Hydra generally refers to:Lernaean Hydra, a many-headed serpent in Greek mythology\nHydra (genus), a genus of simple freshwater animals belonging to the phylum Cnidaria Result: Hydra."
+  },
+  "pliers+rabbit": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "pliers+rat": {
+    "result": "trap",
+    "reasoning": "Rat Traps snap shut, the classic spring-loaded invention"
+  },
+  "pliers+rhinoceros": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
+  },
+  "pliers+scorpion": {
+    "result": "trap",
+    "reasoning": "Scorpion Traps use UV light, scorpions glow under blacklight"
+  },
+  "pliers+shark": {
+    "result": "net",
+    "reasoning": "Shark Nets protect beaches but controversy surrounds bycatch"
+  },
+  "pliers+sheep": {
+    "result": "wool",
+    "reasoning": "Sheep are sheared with scissors for their Wool, the oldest textile"
+  },
+  "pliers+sloth": {
+    "result": "camera",
+    "reasoning": "Sloth Cameras reveal surprisingly active nighttime behavior"
+  },
+  "pliers+snake": {
+    "result": "medicine",
+    "reasoning": "Snake venom is milked with tools for antivenoms and Medicines"
+  },
+  "pliers+spider": {
+    "result": "web",
+    "reasoning": "Spiders are nature's toolmakers, spinning silk Webs stronger than steel"
+  },
+  "pliers+squid": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
+    "reasoning": "Squid are caught with jigs and lights at night, Fishing by lantern"
   },
-  "clam+forge-bellows": {
-    "result": "stew",
-    "reasoning": "Clam chowder — New England's most heated debate (cream vs tomato)"
-  },
-  "clam+garden-shed": {
-    "result": "algae",
-    "reasoning": "Giant clams farm Algae in their mantles, symbiotic gardeners"
-  },
-  "clam+hammer": {
+  "pliers+swordfish": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
+    "reasoning": "Deep-sea Fishing for swordfish, big game on the open ocean"
   },
-  "clam+hand-saw": {
+  "pliers+termite": {
+    "result": "trap",
+    "reasoning": "Chimps fish for termites with sticks, the earliest observed tool Trap"
+  },
+  "pliers+tiger": {
+    "result": "trap",
+    "reasoning": "Tiger Traps were set along jungle trails, dangerous game"
+  },
+  "pliers+trout": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
+    "reasoning": "Fly-Fishing for trout is both sport and art"
   },
-  "clam+knife": {
+  "pliers+turkey": {
+    "result": "feather",
+    "reasoning": "Turkey Feathers were used for arrow fletching by Native Americans"
+  },
+  "pliers+turtle": {
+    "result": "net",
+    "reasoning": "Sea turtles are unfortunately caught in fishing Nets as bycatch"
+  },
+  "pliers+walrus": {
+    "result": "spear",
+    "reasoning": "Walrus hunting with Spears sustained Arctic communities for centuries"
+  },
+  "pliers+whale": {
+    "result": "ship",
+    "reasoning": "Whaling Ships hunted the seas from Moby Dick to modern moratoriums"
+  },
+  "pliers+yak": {
+    "result": "cart",
+    "reasoning": "Yaks haul supplies through Himalayan mountain passes by Cart"
+  },
+  "quill+rattlesnake": {
+    "result": "eagle",
+    "reasoning": "Quill and Rattlesnake share a deep connection. Eagle is the common name for certain large birds of prey within the family of the Accipitridae. Result: Eagle."
+  },
+  "quill+vulture": {
+    "result": "eagle",
+    "reasoning": "Eagle is the common name for certain large birds of prey within the family of the Accipitridae. That's the connection between Quill and Vulture — giving us Eagle."
+  },
+  "rabbit+rake": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+saw": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+scissors": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+shovel": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+socket-wrench": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+spring": {
+    "result": "axolotl",
+    "reasoning": "Axolotls are the cute, wide-eyed aquatic equivalent of bunnies"
+  },
+  "rabbit+swiss-army-knife": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rabbit+tool": {
+    "result": "antibiotic",
+    "reasoning": "An antibiotic is a type of antimicrobial substance active against bacteria. So when Rabbit meets tool, Antibiotic is the natural outcome."
+  },
+  "rabbit+wrench": {
+    "result": "trap",
+    "reasoning": "Rabbit Traps have been used since prehistoric times for food"
+  },
+  "rake+rat": {
+    "result": "trap",
+    "reasoning": "Rat Traps snap shut, the classic spring-loaded invention"
+  },
+  "rake+rhinoceros": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
+  },
+  "rake+scorpion": {
+    "result": "trap",
+    "reasoning": "Scorpion Traps use UV light, scorpions glow under blacklight"
+  },
+  "rake+seal": {
+    "result": "ide",
+    "reasoning": "Both Rake and Seal are rooted in Place Name Disambiguation Pages. Together they make IDE."
+  },
+  "rake+shark": {
+    "result": "net",
+    "reasoning": "Shark Nets protect beaches but controversy surrounds bycatch"
+  },
+  "rake+sheep": {
+    "result": "wool",
+    "reasoning": "Sheep are sheared with scissors for their Wool, the oldest textile"
+  },
+  "rake+sloth": {
+    "result": "camera",
+    "reasoning": "Sloth Cameras reveal surprisingly active nighttime behavior"
+  },
+  "rake+snake": {
+    "result": "medicine",
+    "reasoning": "Snake venom is milked with tools for antivenoms and Medicines"
+  },
+  "rake+spider": {
+    "result": "web",
+    "reasoning": "Spiders are nature's toolmakers, spinning silk Webs stronger than steel"
+  },
+  "rake+squid": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
+    "reasoning": "Squid are caught with jigs and lights at night, Fishing by lantern"
   },
-  "clam+pick": {
+  "rake+swordfish": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
+    "reasoning": "Deep-sea Fishing for swordfish, big game on the open ocean"
   },
-  "clam+pliers": {
+  "rake+termite": {
+    "result": "trap",
+    "reasoning": "Chimps fish for termites with sticks, the earliest observed tool Trap"
+  },
+  "rake+tiger": {
+    "result": "trap",
+    "reasoning": "Tiger Traps were set along jungle trails, dangerous game"
+  },
+  "rake+trout": {
     "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+rake": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+saw": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+scissors": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+shovel": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+smelting": {
-    "result": "stew",
-    "reasoning": "Clam chowder — New England's most heated debate (cream vs tomato)"
-  },
-  "clam+socket-wrench": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "clam+swiss-army-knife": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "clam+welding": {
-    "result": "stew",
-    "reasoning": "Clam chowder — New England's most heated debate (cream vs tomato)"
-  },
-  "clam+wrench": {
-    "result": "fishing",
-    "reasoning": "Clamming with rakes at low tide, a coastal Fishing tradition"
-  },
-  "cobra+drill": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cobra+garden-shed": {
-    "result": "jungle",
-    "reasoning": "King cobras inhabit Jungle floors, the longest venomous snake"
-  },
-  "cobra+hammer": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+hand-saw": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+knife": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+pick": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+pliers": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+rake": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+saw": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+scissors": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+shovel": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cobra+socket-wrench": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cobra+swiss-army-knife": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cobra+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cobra+wrench": {
-    "result": "music",
-    "reasoning": "Snake charmers play flutes to cobras, the Music mesmerizes"
-  },
-  "cockatoo+drill": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cockatoo+garden-shed": {
-    "result": "forest",
-    "reasoning": "Cockatoos crack seeds and strip bark in Australian Forests"
-  },
-  "cockatoo+hammer": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+hand-saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+pick": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+pliers": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+rake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+scissors": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+shovel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cockatoo+socket-wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cockatoo+swiss-army-knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cockatoo+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cockatoo+wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+drill": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "condor+garden-shed": {
-    "result": "forest",
-    "reasoning": "Condors soar above mountain Forests, the largest flying birds"
-  },
-  "condor+hammer": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+hand-saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+pick": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+pliers": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+rake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+scissors": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+shovel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "condor+socket-wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "condor+swiss-army-knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "condor+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "condor+wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+drill": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cormorant+garden-shed": {
-    "result": "ecosystem",
-    "reasoning": "Animals and plants form the web of life, an Ecosystem"
-  },
-  "cormorant+hammer": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+hand-saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+pick": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+pliers": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+rake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+scissors": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+shovel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cormorant+socket-wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cormorant+swiss-army-knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cormorant+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "cormorant+wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "cow+drill": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+forge-bellows": {
-    "result": "steak",
-    "reasoning": "Beef from cattle is one of the world's most popular meats"
-  },
-  "cow+garden-shed": {
-    "result": "milk",
-    "reasoning": "Cows graze on grass and produce Milk, humanity's oldest dairy"
-  },
-  "cow+hammer": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+hand-saw": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+knife": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+pick": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+pliers": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+rake": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+saw": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+scissors": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+shovel": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+smelting": {
-    "result": "steak",
-    "reasoning": "Beef from cattle is one of the world's most popular meats"
-  },
-  "cow+socket-wrench": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+spring": {
-    "result": "manatee",
-    "reasoning": "Manatees are called 'sea cows' — gentle, grazing aquatic mammals"
-  },
-  "cow+swiss-army-knife": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "cow+welding": {
-    "result": "steak",
-    "reasoning": "Beef from cattle is one of the world's most popular meats"
-  },
-  "cow+wrench": {
-    "result": "milk",
-    "reasoning": "Cows are milked with buckets, the foundation of the dairy industry"
-  },
-  "coyote+drill": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+forge-bellows": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "coyote+garden-shed": {
-    "result": "prairie",
-    "reasoning": "Coyotes prowl Prairies and forest edges as adaptable survivors"
-  },
-  "coyote+hammer": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+hand-saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+pick": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+pliers": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+rake": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+saw": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+scissors": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+shovel": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+smelting": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "coyote+socket-wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+spring": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "coyote+swiss-army-knife": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "coyote+welding": {
-    "result": "meat",
-    "reasoning": "Cooking transforms animal protein into edible meat"
-  },
-  "coyote+wrench": {
-    "result": "hunting",
-    "reasoning": "Tools have been used to hunt and manage animals since the Stone Age"
-  },
-  "crab+drill": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+forge-bellows": {
-    "result": "scallop",
-    "reasoning": "Steamed crab is a Chesapeake Bay institution"
-  },
-  "crab+garden-shed": {
-    "result": "seaweed",
-    "reasoning": "Crabs decorate themselves with Seaweed for camouflage"
-  },
-  "crab+hammer": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+hand-saw": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+knife": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+pick": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+pliers": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
-  },
-  "crab+rake": {
-    "result": "fishing",
-    "reasoning": "Crab pots are hauled from icy waters, the deadliest Fishing catch"
+    "reasoning": "Fly-Fishing for trout is both sport and art"
+  },
+  "rake+turkey": {
+    "result": "feather",
+    "reasoning": "Turkey Feathers were used for arrow fletching by Native Americans"
+  },
+  "rake+turtle": {
+    "result": "net",
+    "reasoning": "Sea turtles are unfortunately caught in fishing Nets as bycatch"
+  },
+  "rake+walrus": {
+    "result": "spear",
+    "reasoning": "Walrus hunting with Spears sustained Arctic communities for centuries"
+  },
+  "rake+whale": {
+    "result": "ship",
+    "reasoning": "Whaling Ships hunted the seas from Moby Dick to modern moratoriums"
+  },
+  "rake+yak": {
+    "result": "cart",
+    "reasoning": "Yaks haul supplies through Himalayan mountain passes by Cart"
+  },
+  "rat+saw": {
+    "result": "trap",
+    "reasoning": "Rat Traps snap shut, the classic spring-loaded invention"
+  },
+  "rat+spring": {
+    "result": "piranha",
+    "reasoning": "Piranhas are the rats of the Amazon — small, social, and bitey"
+  },
+  "rhinoceros+saw": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
+  },
+  "rhinoceros+scissors": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
+  },
+  "rhinoceros+shovel": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
+  },
+  "rhinoceros+socket-wrench": {
+    "result": "camera",
+    "reasoning": "Rhinos are tracked by Camera traps for conservation monitoring"
   }
 }

@@ -1,23 +1,31 @@
 {
   "acceleration+chemical-reaction": {
     "result": "catalyst",
-    "reasoning": "Combine Chemical Reaction with Acceleration to create Catalyst."
+    "reasoning": "Did you know? Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That's why Acceleration + Chemical reaction = Catalyst."
   },
   "acid+chemical-reaction": {
     "result": "base",
-    "reasoning": "Combine Acid with Chemical Reaction to create Base."
+    "reasoning": "Did you know? An acid is a molecule or ion capable of either donating a proton (i.e. That's why Acid + Chemical reaction = Base."
   },
   "aerodynamics+chemical-reaction": {
     "result": "catalyst",
-    "reasoning": "Combine Chemical Reaction with Aerodynamics to create Catalyst."
+    "reasoning": "Aerodynamics and Chemical reaction together? Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. The result: Catalyst."
+  },
+  "atom+chemical-reaction": {
+    "result": "alchemy",
+    "reasoning": "Alchemy is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. That's the connection between Atom and Chemical reaction — giving us Alchemy."
   },
   "base+chemical-reaction": {
     "result": "solvent",
-    "reasoning": "Combine Chemical Reaction with Base to create Solvent."
+    "reasoning": "Here's the connection: A solvent is a substance that dissolves a solute, resulting in a solution. So Base + Chemical reaction = Solvent."
+  },
+  "base+furnace": {
+    "result": "batter",
+    "reasoning": "Base and Furnace both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Batter."
   },
   "building+diffusion": {
     "result": "amino-acid",
-    "reasoning": "Combine Building with Diffusion to create Amino Acid."
+    "reasoning": "Amino acids are organic compounds that contain both amino and carboxylic acid functional groups. Combine building with Diffusion and you naturally get Amino Acid."
   },
   "building+food-science": {
     "result": "library",
@@ -29,7 +37,7 @@
   },
   "building+molecule": {
     "result": "amino-acid",
-    "reasoning": "Combine Building with Molecule to create Amino Acid."
+    "reasoning": "Here's the connection: Amino acids are organic compounds that contain both amino and carboxylic acid functional groups. So building + Molecule = Amino Acid."
   },
   "building+rocket-science": {
     "result": "library",
@@ -39,9 +47,21 @@
     "result": "library",
     "reasoning": "A building filled with science — a Library."
   },
+  "building+wave": {
+    "result": "airport",
+    "reasoning": "An airport is an aerodrome with extended facilities, mostly for commercial air transport. So when building meets Wave, Airport is the natural outcome."
+  },
   "catalyst+chemical-reaction": {
     "result": "solvent",
-    "reasoning": "Combine Chemical Reaction with Catalyst to create Solvent."
+    "reasoning": "Catalyst and Chemical reaction together? A solvent is a substance that dissolves a solute, resulting in a solution. The result: Solvent."
+  },
+  "centrifuge+fuel": {
+    "result": "bitumen",
+    "reasoning": "Wikipedia says: Bitumen is an immensely viscous constituent of petroleum. That explains why Centrifuge + fuel = Bitumen."
+  },
+  "change+furnace": {
+    "result": "cable",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, change meets Furnace to create Cable."
   },
   "chemical-reaction+chemistry": {
     "result": "hypothesis",
@@ -50,10 +70,6 @@
   "chemical-reaction+climate-change": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Climate Change = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+clock": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Clock = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+cloning": {
     "result": "hypothesis",
@@ -111,14 +127,6 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Crystallization = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+death": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + death = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+decay": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Decay = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+density": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Density = a Hypothesis. An educated guess that someone will spend 5 years testing."
@@ -142,10 +150,6 @@
   "chemical-reaction+doppler-effect": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Doppler Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+drug": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Drug = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+ecology": {
     "result": "hypothesis",
@@ -263,10 +267,6 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Global Warming = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+grave": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Grave = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+green-energy": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Green Energy = a Hypothesis. An educated guess that someone will spend 5 years testing."
@@ -301,7 +301,7 @@
   },
   "chemical-reaction+hydrogen": {
     "result": "acid",
-    "reasoning": "Combine Hydrogen with Chemical Reaction to create Acid."
+    "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. Combine Chemical reaction with Hydrogen and you naturally get Acid."
   },
   "chemical-reaction+hydropower": {
     "result": "hypothesis",
@@ -332,16 +332,12 @@
     "reasoning": "Chemical reaction + Interference = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+ion": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Ion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "result": "alchemy",
+    "reasoning": "Here's a real-world link: Alchemy is an ancient branch of natural philosophy, a philosophical and protoscientific tradition that was historically practised in China, India, the Muslim world, and Europe. Combine Chemical reaction with Ion and you get Alchemy."
   },
   "chemical-reaction+isotope": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Isotope = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+joule": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Joule = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+kinetics": {
     "result": "hypothesis",
@@ -355,17 +351,9 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Lab Rat = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+laser": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Laser = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+lattice": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Lattice = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+line": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + line = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+luminescence": {
     "result": "hypothesis",
@@ -378,10 +366,6 @@
   "chemical-reaction+magnetism": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Magnetism = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+mass": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + mass = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+mathematics": {
     "result": "hypothesis",
@@ -418,14 +402,6 @@
   "chemical-reaction+momentum": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Momentum = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+mri": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + MRI = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+neon": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Neon = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+neutron": {
     "result": "hypothesis",
@@ -468,8 +444,8 @@
     "reasoning": "Chemical reaction + Oxidation = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+oxygen": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Oxygen = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "result": "acid",
+    "reasoning": "Wikipedia says: An acid is a molecule or ion capable of either donating a proton (i.e. That explains why Chemical reaction + Oxygen = Acid."
   },
   "chemical-reaction+pacemaker": {
     "result": "hypothesis",
@@ -478,10 +454,6 @@
   "chemical-reaction+pascals-law": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Pascals Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+past": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Past = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+peer-pressure": {
     "result": "hypothesis",
@@ -503,21 +475,9 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Piezoelectricity = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+pill": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Pill = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+plasma": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Plasma = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+plasma-state": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Plasma State = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+point": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + point = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+polarization": {
     "result": "hypothesis",
@@ -538,10 +498,6 @@
   "chemical-reaction+prosthetic": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Prosthetic = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+proton": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Proton = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+psychology": {
     "result": "hypothesis",
@@ -589,11 +545,7 @@
   },
   "chemical-reaction+science": {
     "result": "solvent",
-    "reasoning": "Combine Chemical Reaction with Science to create Solvent."
-  },
-  "chemical-reaction+shape": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + shape = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "Chemical reaction and science together? A solvent is a substance that dissolves a solute, resulting in a solution. The result: Solvent."
   },
   "chemical-reaction+sharpness": {
     "result": "hypothesis",
@@ -602,10 +554,6 @@
   "chemical-reaction+skeleton": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Skeleton = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+smog": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Smog = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+sociology": {
     "result": "hypothesis",
@@ -621,11 +569,7 @@
   },
   "chemical-reaction+speed": {
     "result": "catalyst",
-    "reasoning": "Combine Chemical Reaction with Speed to create Catalyst."
-  },
-  "chemical-reaction+static": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Static = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "Chemical reaction and Speed together? Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. The result: Catalyst."
   },
   "chemical-reaction+statistics": {
     "result": "hypothesis",
@@ -675,14 +619,6 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Thermodynamics = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+time": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + time = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+torque": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Torque = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+toxicity": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Toxicity = a Hypothesis. An educated guess that someone will spend 5 years testing."
@@ -698,10 +634,6 @@
   "chemical-reaction+vaccine": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Vaccine = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+vacuum": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Vacuum = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
   "chemical-reaction+velocity": {
     "result": "hypothesis",
@@ -719,22 +651,6 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Vitamin = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+void": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + void = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+waste": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + waste = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+watch": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Watch = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+wave": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Wave = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+wave-particle-duality": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Wave-Particle Duality = a Hypothesis. An educated guess that someone will spend 5 years testing."
@@ -747,136 +663,76 @@
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Wheelchair = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chemical-reaction+x-ray": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + X Ray = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+yoga": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Yoga = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chemical-reaction+zero": {
-    "result": "hypothesis",
-    "reasoning": "Chemical reaction + Zero = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
   "chemical-reaction+zoology": {
     "result": "hypothesis",
     "reasoning": "Chemical reaction + Zoology = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chip+climate-change": {
+  "chip+electromagnetic-spectrum": {
     "result": "hypothesis",
-    "reasoning": "chip + Climate Change = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "chip + Electromagnetic Spectrum = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chip+clock": {
-    "result": "hypothesis",
-    "reasoning": "chip + Clock = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "chip+quantum": {
+    "result": "quantum-computer",
+    "reasoning": "Quantum mechanics on a chip is a Quantum Computer"
   },
-  "chip+cloning": {
+  "chip+wave-particle-duality": {
     "result": "hypothesis",
-    "reasoning": "chip + Cloning = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "chip + Wave-Particle Duality = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chip+coffin": {
-    "result": "hypothesis",
-    "reasoning": "chip + Coffin = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "combustion+fuel": {
+    "result": "carbon",
+    "reasoning": "Carbon is a chemical element; it has symbol C and atomic number 6. That's the connection between Combustion and fuel — giving us Carbon."
   },
-  "chip+combustion": {
-    "result": "hypothesis",
-    "reasoning": "chip + Combustion = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "entropy+fuel": {
+    "result": "capacitor",
+    "reasoning": "A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. That's the connection between Entropy and fuel — giving us Capacitor."
   },
-  "chip+compass": {
-    "result": "hypothesis",
-    "reasoning": "chip + compass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "fossil-fuel+fuel": {
+    "result": "combustion",
+    "reasoning": "Did you know? Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That's why Fossil Fuel + fuel = Combustion."
   },
-  "chip+compost": {
-    "result": "hypothesis",
-    "reasoning": "chip + Compost = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "fuel+hydropower": {
+    "result": "capacitor",
+    "reasoning": "fuel and Hydropower share a deep connection. A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Result: Capacitor."
   },
-  "chip+conductivity": {
-    "result": "hypothesis",
-    "reasoning": "chip + Conductivity = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "fuel+joule": {
+    "result": "capacitor",
+    "reasoning": "Here's a real-world link: A capacitor is a device that stores electrical energy by accumulating electric charges on two closely spaced surfaces that are insulated from each other. Combine fuel with Joule and you get Capacitor."
   },
-  "chip+contact-lens": {
-    "result": "hypothesis",
-    "reasoning": "chip + Contact Lens = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "fuel+nutrition": {
+    "result": "biomass",
+    "reasoning": "fuel and Nutrition share a deep connection. Biomass is material produced by the growth of microorganisms, plants or animals. Result: Biomass."
   },
-  "chip+convection": {
+  "furnace+genetic-engineering": {
     "result": "hypothesis",
-    "reasoning": "chip + Convection = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "Furnace + Genetic Engineering = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chip+coriolis-effect": {
-    "result": "hypothesis",
-    "reasoning": "chip + Coriolis Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "furnace+pill": {
+    "result": "corona",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Furnace meets Pill to create Corona."
   },
-  "chip+coulombs-law": {
-    "result": "hypothesis",
-    "reasoning": "chip + Coulombs Law = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "furnace+point": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets point to create Corona."
   },
-  "chip+crispr": {
-    "result": "hypothesis",
-    "reasoning": "chip + CRISPR = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "furnace+static": {
+    "result": "corona",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Furnace meets Static to create Corona."
   },
-  "chip+critical-mass": {
+  "furnace+wave-particle-duality": {
     "result": "hypothesis",
-    "reasoning": "chip + Critical Mass = a Hypothesis. An educated guess that someone will spend 5 years testing."
+    "reasoning": "Furnace + Wave-Particle Duality = a Hypothesis. An educated guess that someone will spend 5 years testing."
   },
-  "chip+crutch": {
-    "result": "hypothesis",
-    "reasoning": "chip + Crutch = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "microscope+oven": {
+    "result": "autoclave",
+    "reasoning": "Microscope and Oven share a deep connection. An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Result: Autoclave."
   },
-  "chip+crystallization": {
-    "result": "hypothesis",
-    "reasoning": "chip + Crystallization = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "oven+piezoelectricity": {
+    "result": "ceramic",
+    "reasoning": "A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. That's the connection between Oven and Piezoelectricity — giving us Ceramic."
   },
-  "chip+death": {
-    "result": "hypothesis",
-    "reasoning": "chip + death = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+decay": {
-    "result": "hypothesis",
-    "reasoning": "chip + Decay = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+density": {
-    "result": "hypothesis",
-    "reasoning": "chip + Density = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+destiny": {
-    "result": "hypothesis",
-    "reasoning": "chip + Destiny = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+diffusion": {
-    "result": "hypothesis",
-    "reasoning": "chip + Diffusion = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+direction": {
-    "result": "hypothesis",
-    "reasoning": "chip + direction = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+distilling": {
-    "result": "hypothesis",
-    "reasoning": "chip + Distilling = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+doppler-effect": {
-    "result": "hypothesis",
-    "reasoning": "chip + Doppler Effect = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+drug": {
-    "result": "hypothesis",
-    "reasoning": "chip + Drug = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+ecology": {
-    "result": "hypothesis",
-    "reasoning": "chip + Ecology = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+economics": {
-    "result": "hypothesis",
-    "reasoning": "chip + Economics = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+elasticity": {
-    "result": "hypothesis",
-    "reasoning": "chip + Elasticity = a Hypothesis. An educated guess that someone will spend 5 years testing."
-  },
-  "chip+electrolysis": {
-    "result": "hypothesis",
-    "reasoning": "chip + Electrolysis = a Hypothesis. An educated guess that someone will spend 5 years testing."
+  "oven+syringe": {
+    "result": "autoclave",
+    "reasoning": "The science is clear — An autoclave is a machine used to carry out industrial and scientific processes requiring elevated temperature and pressure in relation to ambient pressure and temperature. Mix Oven and Syringe for Autoclave."
   }
 }

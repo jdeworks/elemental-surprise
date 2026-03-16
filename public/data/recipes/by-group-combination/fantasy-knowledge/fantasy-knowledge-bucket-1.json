@@ -1,7 +1,27 @@
 {
+  "album+undine": {
+    "result": "artist",
+    "reasoning": "The science is clear — An artist is a person who creates art, or practices the arts. Mix Album and Undine for Artist."
+  },
+  "alchemy+fable": {
+    "result": "allegory",
+    "reasoning": "The science is clear — As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Mix Alchemy and Fable for Allegory."
+  },
   "allegory+hero": {
     "result": "epic",
-    "reasoning": "Combine Hero with Allegory to create Epic."
+    "reasoning": "Allegory and hero together? Epic commonly refers to:Epic poetry, a long narrative poem celebrating heroic deeds and events significant to a culture or nation\nEpic film, a genre of film defined by the spectacular presentation of human drama on a grandiose scale The result: Epic."
+  },
+  "anthology+mermaid": {
+    "result": "ballad",
+    "reasoning": "Wikipedia says: A ballad is a form of verse, often a narrative set to music. That explains why Anthology + Mermaid = Ballad."
+  },
+  "archetype+hero": {
+    "result": "bard",
+    "reasoning": "The link between Archetype and hero? Adolescent Clique. The result? Bard."
+  },
+  "archetype+villain": {
+    "result": "bard",
+    "reasoning": "Archetype and Villain are both connected to Adolescent Clique — that shared bond creates Bard."
   },
   "book+death-knight": {
     "result": "librarian",
@@ -25,11 +45,19 @@
   },
   "book+magic": {
     "result": "arcane-tome",
-    "reasoning": "Combine Magic with Book to create Arcane Tome."
+    "reasoning": "Did you know? A book is a written work of substantial length created by one or more authors. That's why book + Magic = Arcane Tome."
+  },
+  "book+mermaid": {
+    "result": "ballad",
+    "reasoning": "Wikipedia says: A ballad is a form of verse, often a narrative set to music. That explains why book + Mermaid = Ballad."
   },
   "book+philosopher-stone": {
     "result": "geology",
     "reasoning": "Studying Philosopher Stone through book — Geology."
+  },
+  "book+phoenix": {
+    "result": "legend",
+    "reasoning": "The phoenix appears independently in ancient Greek, Egyptian (the Bennu bird), and Persian texts, each culture describing a fire-bird reborn from its own ashes — making it one of history's most persistent legends to spread through written books across civilizations."
   },
   "book+queen": {
     "result": "librarian",
@@ -41,7 +69,7 @@
   },
   "book+spell": {
     "result": "spell-book",
-    "reasoning": "Combine Spell with Book to create Spell Book."
+    "reasoning": "book and Spell together? A book is a written work of substantial length created by one or more authors. The result: Spell Book."
   },
   "book+witch": {
     "result": "librarian",
@@ -51,9 +79,21 @@
     "result": "librarian",
     "reasoning": "Librarians curate humanity's collected knowledge"
   },
+  "brownie+letter": {
+    "result": "batter",
+    "reasoning": "In the realm of Disambiguation Pages With Surname Holder Lists, Brownie meets Letter to create Batter."
+  },
+  "brownie+story": {
+    "result": "doctor",
+    "reasoning": "The science is clear — Doctor most often refers to:Medical doctor, a person who is qualified to practice medicine\nDoctor (title), an academic title granted to holders of a doctorate Mix Brownie and Story for Doctor."
+  },
   "chaos-theory+philosopher-stone": {
     "result": "geology",
     "reasoning": "Studying Philosopher Stone through Chaos Theory — Geology."
+  },
+  "chimera+letter": {
+    "result": "batter",
+    "reasoning": "Chimera and Letter both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Batter."
   },
   "code+death-knight": {
     "result": "programmer",
@@ -71,6 +111,10 @@
     "result": "programmer",
     "reasoning": "Programmers write code — the invisible infrastructure of modern life"
   },
+  "code+potion": {
+    "result": "drug",
+    "reasoning": "Medieval alchemists' secret formulas were essentially molecular code — precise recipes for chemical reactions — and modern pharmacology still uses structural formulas to design drugs that target specific receptors."
+  },
   "code+queen": {
     "result": "programmer",
     "reasoning": "Programmers write code — the invisible infrastructure of modern life"
@@ -86,6 +130,18 @@
   "code+wizard": {
     "result": "programmer",
     "reasoning": "Programmers write code — the invisible infrastructure of modern life"
+  },
+  "comedy+mermaid": {
+    "result": "ballet",
+    "reasoning": "The science is clear — Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Mix Comedy and Mermaid for Ballet."
+  },
+  "comedy+potion": {
+    "result": "humor",
+    "reasoning": "The ancient Greek theory of the four bodily 'humors'—liquid substances including blood, phlegm, and bile—held that drinking herbal potions could rebalance them, and an excess of yellow bile was literally the physiological source of irascible comic temperament."
+  },
+  "contradiction+villain": {
+    "result": "bias",
+    "reasoning": "Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. That's the connection between contradiction and Villain — giving us Bias."
   },
   "death-knight+experiment": {
     "result": "scientist",
@@ -115,17 +171,29 @@
     "result": "professor",
     "reasoning": "Professors research and teach at the frontier of knowledge"
   },
-  "dragon-egg+drama": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Drama = Forbidden Knowledge. Some things were not meant to be known."
+  "demon+fable": {
+    "result": "angel",
+    "reasoning": "Demon and Fable share a deep connection. An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. Result: Angel."
   },
-  "dragon-egg+education": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Education = Forbidden Knowledge. Some things were not meant to be known."
+  "demon+myth": {
+    "result": "allegory",
+    "reasoning": "Wikipedia says: As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. That explains why Demon + Myth = Allegory."
   },
-  "dragon-egg+emoji": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Emoji = Forbidden Knowledge. Some things were not meant to be known."
+  "diary+hero": {
+    "result": "biography",
+    "reasoning": "A biography, or simply bio, is a detailed description of a person's life. That's the connection between Diary and hero — giving us Biography."
+  },
+  "discovery+magic": {
+    "result": "gothic",
+    "reasoning": "Discovery and Magic both belong to the world of Ship Disambiguation Pages — combine them for Gothic."
+  },
+  "discovery+phoenix": {
+    "result": "gothic",
+    "reasoning": "Discovery and Phoenix both belong to the world of Ship Disambiguation Pages — combine them for Gothic."
+  },
+  "document+unicorn": {
+    "result": "antelope",
+    "reasoning": "Here's a real-world link: An antelope is an extant or recently extinct species of the ruminant artiodactyl family Bovidae, which are indigenous to most of Africa, India, the Middle East, Central Asia, and a small area of Russia. Combine Document with Unicorn and you get Antelope."
   },
   "dragon-egg+empiricism": {
     "result": "forbidden-knowledge",
@@ -139,37 +207,9 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Epistemology = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+ethics": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Ethics = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+etymology": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Etymology = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+existence": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Existence = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+experiment": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Experiment = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+fable": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Fable = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+fake-news": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Fake News = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+fallacy": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Fallacy = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+fibonacci": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Fibonacci = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+field-guide": {
     "result": "forbidden-knowledge",
@@ -183,10 +223,6 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Game Theory = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+gestalt": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Gestalt = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+heisenberg-principle": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Heisenberg Principle = Forbidden Knowledge. Some things were not meant to be known."
@@ -199,10 +235,6 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Hypothesis = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+induction": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Induction = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+information-overload": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Information Overload = Forbidden Knowledge. Some things were not meant to be known."
@@ -211,129 +243,13 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Instruction Manual = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+irony": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Irony = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+joke": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Joke = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+journal": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Journal = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+jurisprudence": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Jurisprudence = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+karma": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Karma = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+knowledge": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + knowledge = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+koan": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Koan = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+language": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Language = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+learning": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Learning = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+legend": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Legend = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+letter": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Letter = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+library": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Library = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+linguistics": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Linguistics = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+logarithm": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Logarithm = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+logic": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Logic = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+magazine": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Magazine = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+map": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Map = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+matrix": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Matrix = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+metaphor": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Metaphor = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+mnemonic": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Mnemonic = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+museum": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Museum = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+mystery": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + mystery = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+myth": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Myth = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+newspaper": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Newspaper = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+novel": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Novel = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+number": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + number = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+ontology": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Ontology = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+paradigm": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Paradigm = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+paradox": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Paradox = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+patent": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Patent = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+pedagogy": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Pedagogy = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+peer-review": {
     "result": "forbidden-knowledge",
@@ -351,81 +267,17 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Photograph = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+placebo": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Placebo = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+poem": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Poem = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+postulate": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Postulate = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+proverb": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Proverb = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+question": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + question = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+reality": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Reality = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+reason": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Reason = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+renaissance": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Renaissance = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+research": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Research = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+research-paper": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Research Paper = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+rhetoric": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Rhetoric = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+riddle": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Riddle = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+school": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + school = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+schrodinger-cat": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Schrodinger Cat = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+scrapbook": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Scrapbook = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+script": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Script = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+scroll": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Scroll = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+secret": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + secret = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+sign": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Sign = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+simulation": {
     "result": "forbidden-knowledge",
@@ -435,49 +287,9 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Socratic Method = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+stoicism": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Stoicism = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+story": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Story = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+syllogism": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Syllogism = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+symbol": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + symbol = Forbidden Knowledge. Some things were not meant to be known."
-  },
   "dragon-egg+synesthesia": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Synesthesia = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+tautology": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Tautology = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+taxonomy": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Taxonomy = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+text": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Text = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+textbook": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Textbook = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+theorem": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Theorem = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+theory": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Theory = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+theory-of-relativity": {
     "result": "forbidden-knowledge",
@@ -486,18 +298,6 @@
   "dragon-egg+thought-experiment": {
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Thought Experiment = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+tragedy": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Tragedy = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+trivia": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Trivia = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+truth": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Truth = Forbidden Knowledge. Some things were not meant to be known."
   },
   "dragon-egg+turing-test": {
     "result": "forbidden-knowledge",
@@ -511,29 +311,41 @@
     "result": "forbidden-knowledge",
     "reasoning": "Dragon Egg + Useless Fact = Forbidden Knowledge. Some things were not meant to be known."
   },
-  "dragon-egg+utopia": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Utopia = Forbidden Knowledge. Some things were not meant to be known."
+  "dragon+fable": {
+    "result": "allegory",
+    "reasoning": "Here's a real-world link: As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Combine Dragon with Fable and you get Allegory."
   },
-  "dragon-egg+word": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Word = Forbidden Knowledge. Some things were not meant to be known."
+  "dragon+myth": {
+    "result": "allegory",
+    "reasoning": "The science is clear — As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Mix Dragon and Myth for Allegory."
   },
-  "dragon-egg+writing": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Writing = Forbidden Knowledge. Some things were not meant to be known."
+  "drama+mermaid": {
+    "result": "ballet",
+    "reasoning": "Here's a real-world link: Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. Combine Drama with Mermaid and you get Ballet."
   },
-  "dragon-egg+zeitgeist": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Zeitgeist = Forbidden Knowledge. Some things were not meant to be known."
-  },
-  "dragon-egg+zen": {
-    "result": "forbidden-knowledge",
-    "reasoning": "Dragon Egg + Zen = Forbidden Knowledge. Some things were not meant to be known."
+  "drama+villain": {
+    "result": "actor",
+    "reasoning": "The science is clear — An actor (masculine/gender-neutral), or actress (feminine), is a person who portrays a character in a production. Mix Drama and Villain for Actor."
   },
   "education+philosopher-stone": {
     "result": "geology",
     "reasoning": "Studying Philosopher Stone through Education — Geology."
+  },
+  "education+religion": {
+    "result": "culture",
+    "reasoning": "The science is clear — Culture is a concept that encompasses the social behavior, institutions, and norms found in human societies, as well as the knowledge, beliefs, arts, laws, customs, capabilities, attitudes, and habits of the individuals in these groups. Mix Education and religion for Culture."
+  },
+  "education+villain": {
+    "result": "bias",
+    "reasoning": "The science is clear — Bias is a disproportionate weight in favor of or against an idea or thing, usually in a way that is inaccurate, closed-minded, prejudicial, or unfair. Mix Education and Villain for Bias."
+  },
+  "elixir+synesthesia": {
+    "result": "color",
+    "reasoning": "The science is clear — Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Mix Elixir and Synesthesia for Color."
+  },
+  "emoji+zombie": {
+    "result": "anime",
+    "reasoning": "Anime  is animation originating from Japan. That's the connection between Emoji and Zombie — giving us Anime."
   },
   "enchanted-artifact+field-research": {
     "result": "philosophy",
@@ -878,5 +690,193 @@
   "enchanted-kingdom+simulation": {
     "result": "forbidden-knowledge",
     "reasoning": "Enchanted Kingdom + Simulation = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+socratic-method": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Socratic Method = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+stoicism": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Stoicism = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+story": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Story = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+syllogism": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Syllogism = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+symbol": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + symbol = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+synesthesia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Synesthesia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+tautology": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Tautology = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+taxonomy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Taxonomy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+text": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Text = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+textbook": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Textbook = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+theorem": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Theorem = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+theory": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Theory = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+theory-of-relativity": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Theory of Relativity = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+thought-experiment": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Thought Experiment = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+tragedy": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Tragedy = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+trivia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Trivia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+truth": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Truth = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+turing-test": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Turing Test = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+university": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + University = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+useless-fact": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Useless Fact = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+utopia": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Utopia = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+word": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Word = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+writing": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Writing = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+zeitgeist": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Zeitgeist = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "enchanted-kingdom+zen": {
+    "result": "forbidden-knowledge",
+    "reasoning": "Enchanted Kingdom + Zen = Forbidden Knowledge. Some things were not meant to be known."
+  },
+  "experiment+king": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+knight": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+lich-king": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+queen": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+space-wizard": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+witch": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "experiment+wizard": {
+    "result": "scientist",
+    "reasoning": "Scientists live and die by the experiment — the heart of the scientific method"
+  },
+  "fable+familiar": {
+    "result": "angel",
+    "reasoning": "Fable and Familiar share a deep connection. An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. Result: Angel."
+  },
+  "fable+ghoul": {
+    "result": "angel",
+    "reasoning": "An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. So when Fable meets Ghoul, Angel is the natural outcome."
+  },
+  "fable+giant": {
+    "result": "angel",
+    "reasoning": "Here's a real-world link: An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. Combine Fable with Giant and you get Angel."
+  },
+  "fable+gnome": {
+    "result": "angel",
+    "reasoning": "An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. That's the connection between Fable and Gnome — giving us Angel."
+  },
+  "fable+goblin": {
+    "result": "angel",
+    "reasoning": "An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. So when Fable meets Goblin, Angel is the natural outcome."
+  },
+  "fable+hero": {
+    "result": "angel",
+    "reasoning": "An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. That's the connection between Fable and hero — giving us Angel."
+  },
+  "fable+imp": {
+    "result": "angel",
+    "reasoning": "The science is clear — An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. Mix Fable and Imp for Angel."
+  },
+  "fable+kelpie": {
+    "result": "centaur",
+    "reasoning": "Wikipedia says: A centaur, occasionally hippocentaur, also called Ixionidae, is a creature from Greek mythology with the upper body of a human and the lower body and legs of a horse that was said to live in the mountains of Thessaly. That explains why Fable + Kelpie = Centaur."
+  },
+  "fable+leprechaun": {
+    "result": "centaur",
+    "reasoning": "A centaur, occasionally hippocentaur, also called Ixionidae, is a creature from Greek mythology with the upper body of a human and the lower body and legs of a horse that was said to live in the mountains of Thessaly. So when Fable meets Leprechaun, Centaur is the natural outcome."
+  },
+  "fable+lich": {
+    "result": "angel",
+    "reasoning": "An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. That's the connection between Fable and Lich — giving us Angel."
+  },
+  "fable+manticore": {
+    "result": "centaur",
+    "reasoning": "A centaur, occasionally hippocentaur, also called Ixionidae, is a creature from Greek mythology with the upper body of a human and the lower body and legs of a horse that was said to live in the mountains of Thessaly. So when Fable meets Manticore, Centaur is the natural outcome."
+  },
+  "fable+mermaid": {
+    "result": "ballad",
+    "reasoning": "Here's a real-world link: A ballad is a form of verse, often a narrative set to music. Combine Fable with Mermaid and you get Ballad."
+  },
+  "fable+nymph": {
+    "result": "allegory",
+    "reasoning": "Here's a real-world link: As a literary device or artistic form, an allegory is a narrative or visual representation in which a character, place, or event can be interpreted to represent a meaning with moral or political significance. Combine Fable with Nymph and you get Allegory."
+  },
+  "fable+ogre": {
+    "result": "angel",
+    "reasoning": "Fable and Ogre share a deep connection. An angel is a spiritual heavenly, or supernatural entity, usually humanoid with bird-like wings, often depicted as a messenger or intermediary between God and humanity in various traditions like the Abrahamic religions. Result: Angel."
+  },
+  "fable+sylph": {
+    "result": "centaur",
+    "reasoning": "The science is clear — A centaur, occasionally hippocentaur, also called Ixionidae, is a creature from Greek mythology with the upper body of a human and the lower body and legs of a horse that was said to live in the mountains of Thessaly. Mix Fable and Sylph for Centaur."
   }
 }

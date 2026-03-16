@@ -1,882 +1,114 @@
 {
-  "coca-cola+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "sugar+waterfall": {
+    "result": "lemonade",
+    "reasoning": "Sugar dissolved in water, simple syrup, the base of Lemonade"
   },
-  "coca-cola+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "sushi+volcano": {
+    "result": "tempura",
+    "reasoning": "Heat transforms raw sushi ingredients into crispy Tempura"
   },
-  "coca-cola+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coca-cola+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coca-cola+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "coconut+creek": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+fire": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+flood": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+glacial-lake": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+heat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+hot-spring": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+island": {
-    "result": "volcanic-island",
-    "reasoning": "Combine Island with Coconut to create Volcanic Island."
-  },
-  "coconut+lagoon": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+lake": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+lava": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+ocean": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+rain": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+river": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+sea-cave": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+sea-stack": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+stream": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+swamp": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+tide": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+tide-pool": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coconut+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "coconut+water": {
-    "result": "gruel",
-    "reasoning": "Combine Water with Coconut to create Gruel."
-  },
-  "coconut+waterfall": {
-    "result": "milk",
-    "reasoning": "Coconut meat blended with water creates coconut Milk"
-  },
-  "coffee+creek": {
+  "swamp+tea": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "coffee+fire": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  "swamp+vinegar": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "coffee+flood": {
+  "swamp+wheat": {
+    "result": "dough",
+    "reasoning": "Wheat and water, the two ingredients that launched civilization's Dough"
+  },
+  "swamp+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
+  },
+  "tea+tide": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "coffee+glacial-lake": {
+  "tea+tide-pool": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "coffee+heat": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
-  },
-  "coffee+hot-spring": {
+  "tea+volcano": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Hot water extracts flavor from tea leaves, the art of Brewing"
   },
-  "coffee+lagoon": {
+  "tea+water": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "coffee+lake": {
+  "tea+waterfall": {
     "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "coffee+lava": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  "tide-pool+vinegar": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "coffee+lava-field": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  "tide-pool+wheat": {
+    "result": "dough",
+    "reasoning": "Wheat and water, the two ingredients that launched civilization's Dough"
   },
-  "coffee+lava-tube": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
+  "tide-pool+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
   },
-  "coffee+ocean": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "tide+vinegar": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "coffee+pressure": {
-    "result": "espresso",
-    "reasoning": "Combine Coffee with Pressure to create Espresso."
+  "tide+wheat": {
+    "result": "dough",
+    "reasoning": "Wheat and water, the two ingredients that launched civilization's Dough"
   },
-  "coffee+rain": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "tide+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
   },
-  "coffee+river": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "toast+volcanic-island": {
+    "result": "foraging",
+    "reasoning": "Toast + Volcanic Island = Foraging. Free food everywhere! (Do NOT eat random mushrooms.)"
   },
-  "coffee+sea-cave": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "tomato+volcanic-island": {
+    "result": "foraging",
+    "reasoning": "Tomato + Volcanic Island = Foraging. Free food everywhere! (Do NOT eat random mushrooms.)"
   },
-  "coffee+sea-stack": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "tornado+tortilla": {
+    "result": "coyote",
+    "reasoning": "The coyote is a species of canine also known as the American jackal, prairie wolf, and brush wolf. So when Tornado meets Tortilla, Coyote is the natural outcome."
   },
-  "coffee+stream": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "tortilla+volcano": {
+    "result": "taco",
+    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
   },
-  "coffee+swamp": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "vinegar+water": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "coffee+tide": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "vinegar+waterfall": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "coffee+tide-pool": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
+  "volcano+wheat": {
+    "result": "bread",
+    "reasoning": "Wheat grains are milled and baked into Bread, the staff of life"
   },
-  "coffee+volcano": {
-    "result": "espresso",
-    "reasoning": "Heat and pressure force water through grounds to make Espresso"
-  },
-  "coffee+water": {
-    "result": "espresso",
-    "reasoning": "Combine Coffee with Water to create Espresso."
-  },
-  "coffee+waterfall": {
-    "result": "brewing",
-    "reasoning": "Water through ground coffee beans, Brewing the world's wake-up call"
-  },
-  "cold+cream": {
-    "result": "ice-cream",
-    "reasoning": "Combining Cold with Cream makes delicious Ice Cream"
-  },
-  "cold+ice-cream": {
-    "result": "dry-ice",
-    "reasoning": "Combine Cold with Ice Cream to create Dry Ice."
-  },
-  "cold+sugar": {
-    "result": "maple-syrup",
-    "reasoning": "Combine Sugar with Cold to create Maple Syrup."
-  },
-  "cookbook+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+fire": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+heat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+lava": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cookbook+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookbook+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+fire": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+heat": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+lava": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+lava-field": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+volcano": {
-    "result": "cooking",
-    "reasoning": "Baking cookies fills the house with the best Cooking smell"
-  },
-  "cookie+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cookie+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cooking+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "corn+creek": {
+  "water+wheat": {
     "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+fire": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+flood": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+glacial-lake": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+heat": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+hot-spring": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+lagoon": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+lake": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+lava": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+lava-field": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+lava-tube": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+ocean": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+rain": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+river": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+sea-cave": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+sea-stack": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+stream": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+swamp": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+tide": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+tide-pool": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+volcano": {
-    "result": "popcorn",
-    "reasoning": "Heat makes corn kernels explode into fluffy Popcorn at 180 degrees C"
-  },
-  "corn+water": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "corn+waterfall": {
-    "result": "porridge",
-    "reasoning": "Corn meal in water becomes Porridge (grits or polenta)"
-  },
-  "cornbread+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+fire": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+heat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+lava": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cornbread+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cornbread+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+fire": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+heat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+lava": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "couscous+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "couscous+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+creek": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+fire": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+flood": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+glacial-lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+heat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+hot-spring": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+lagoon": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+lake": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+lava": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+lava-field": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+lava-tube": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+ocean": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+rain": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+river": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+sea-cave": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+sea-stack": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+stream": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+swamp": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+tide": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+tide-pool": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+volcano": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "cracker+water": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "cracker+waterfall": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
+    "reasoning": "Grain boiled in water becomes Porridge"
+  },
+  "water+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
+  },
+  "waterfall+wheat": {
+    "result": "dough",
+    "reasoning": "Wheat and water, the two ingredients that launched civilization's Dough"
+  },
+  "waterfall+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
   }
 }

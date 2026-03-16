@@ -1,875 +1,15 @@
 {
-  "data-pipeline+lyre": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Lyre — Spotify."
-  },
-  "data-pipeline+mosaic": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Mosaic in 3D."
-  },
-  "data-pipeline+mural": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Mural in 3D."
-  },
-  "data-pipeline+music": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Music — Spotify."
-  },
-  "data-pipeline+orchestra": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Orchestra — Spotify."
-  },
-  "data-pipeline+origami": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Origami in 3D."
-  },
-  "data-pipeline+piano": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Piano — Spotify."
-  },
-  "data-pipeline+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Pixel Art in 3D."
-  },
-  "data-pipeline+pop-art": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Pop Art in 3D."
-  },
-  "data-pipeline+rock-music": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Rock Music — Spotify."
-  },
-  "data-pipeline+saxophone": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Saxophone — Spotify."
-  },
-  "data-pipeline+science-fiction": {
-    "result": "artificial-intelligence",
-    "reasoning": "Data Pipeline + Science Fiction = AI — humanity's greatest amplifier."
-  },
-  "data-pipeline+sculpture": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Sculpture in 3D."
-  },
-  "data-pipeline+song": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Song — Spotify."
-  },
-  "data-pipeline+soul-music": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Soul Music — Spotify."
-  },
-  "data-pipeline+symphony": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Symphony — Spotify."
-  },
-  "data-pipeline+trumpet": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Trumpet — Spotify."
-  },
-  "data-pipeline+ukulele": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Ukulele — Spotify."
-  },
-  "data-pipeline+violin": {
-    "result": "spotify",
-    "reasoning": "Data Pipeline streaming Violin — Spotify."
-  },
-  "data-pipeline+watercolor": {
-    "result": "3d-model",
-    "reasoning": "Data Pipeline creating Watercolor in 3D."
-  },
-  "decision-tree+well": {
-    "result": "boat",
-    "reasoning": "Decision Tree on Well — a Boat. Humanity's first vehicle."
-  },
-  "edge-ai+flute": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Flute — Spotify."
-  },
-  "edge-ai+folk-music": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Folk Music — Spotify."
-  },
-  "edge-ai+fresco": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Fresco in 3D."
-  },
-  "edge-ai+graffiti": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Graffiti in 3D."
-  },
-  "edge-ai+guitar": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Guitar — Spotify."
-  },
-  "edge-ai+harmonica": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Harmonica — Spotify."
-  },
-  "edge-ai+harp": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Harp — Spotify."
-  },
-  "edge-ai+lyre": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Lyre — Spotify."
-  },
-  "edge-ai+mosaic": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Mosaic in 3D."
-  },
-  "edge-ai+mural": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Mural in 3D."
-  },
-  "edge-ai+music": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Music — Spotify."
-  },
-  "edge-ai+orchestra": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Orchestra — Spotify."
-  },
-  "edge-ai+origami": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Origami in 3D."
-  },
-  "edge-ai+piano": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Piano — Spotify."
-  },
-  "edge-ai+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Pixel Art in 3D."
-  },
-  "edge-ai+pop-art": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Pop Art in 3D."
-  },
-  "edge-ai+rock-music": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Rock Music — Spotify."
-  },
-  "edge-ai+saxophone": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Saxophone — Spotify."
-  },
-  "edge-ai+science-fiction": {
-    "result": "artificial-intelligence",
-    "reasoning": "Edge AI + Science Fiction = AI — humanity's greatest amplifier."
-  },
-  "edge-ai+sculpture": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Sculpture in 3D."
-  },
-  "edge-ai+song": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Song — Spotify."
-  },
-  "edge-ai+soul-music": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Soul Music — Spotify."
-  },
-  "edge-ai+symphony": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Symphony — Spotify."
-  },
-  "edge-ai+trumpet": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Trumpet — Spotify."
-  },
-  "edge-ai+ukulele": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Ukulele — Spotify."
-  },
-  "edge-ai+violin": {
-    "result": "spotify",
-    "reasoning": "Edge AI streaming Violin — Spotify."
-  },
-  "edge-ai+watercolor": {
-    "result": "3d-model",
-    "reasoning": "Edge AI creating Watercolor in 3D."
-  },
-  "etching+large-language-model": {
-    "result": "gong",
-    "reasoning": "Combine Large Language Model with Etching to create Gong."
-  },
-  "factory+jimmy-art": {
-    "result": "museum",
-    "reasoning": "A Factory preserving Jimmy Art — a Museum."
-  },
-  "factory+knowledge-graph": {
-    "result": "library",
-    "reasoning": "A Factory filled with Knowledge Graph — a Library."
-  },
-  "fresco+large-language-model": {
-    "result": "mural",
-    "reasoning": "Combine Fresco with Large Language Model to create Mural."
-  },
-  "gemini+glove": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Glove = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+gong": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Gong = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+gothic": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Gothic = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+graffiti": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Graffiti = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+guitar": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Guitar = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+haiku": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Haiku = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+harmonica": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Harmonica = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+harmony": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + harmony = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+harp": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Harp = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+hat": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Hat = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+hip-hop": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Hip Hop = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+hospital": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Hospital = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+house": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + house = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+humor": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + humor = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+hymn": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Hymn = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+ikea": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + IKEA = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+impressionism": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Impressionism = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+improv": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Improv = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+indie-game": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Indie Game = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+instrument": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Instrument = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+iphone": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + iPhone = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+jazz": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Jazz = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+jewelry": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Jewelry = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+k-pop": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + K-Pop = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+kabuki": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Kabuki = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+karate": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Karate = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+kitchen": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Kitchen = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+kite": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Kite = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+lamp": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Lamp = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+landscape-painting": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Landscape Painting = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+lego": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Lego = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+light": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + light = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+lighthouse": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Lighthouse = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+limerick": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Limerick = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+lullaby": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Lullaby = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+lyre": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Lyre = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mandolin": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Mandolin = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+manga": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Manga = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+marathon": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Marathon = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mario": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Mario = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+melody": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Melody = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+microsoft": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Microsoft = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mime": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Mime = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+minecraft": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Minecraft = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mmorpg": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + MMORPG = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+monument": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Monument = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mosaic": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Mosaic = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+mural": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Mural = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+music": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Music = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+musical-theater": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Musical Theater = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+necklace": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Necklace = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+nintendo": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Nintendo = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+oboe": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Oboe = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+ode": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Ode = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+opera": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Opera = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+orchestra": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Orchestra = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+origami": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Origami = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+painting": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Painting = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pantomime": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pantomime = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pants": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pants = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+park": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Park = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+percussion": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Percussion = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+photography": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Photography = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+piano": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Piano = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pixel-art": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pixel Art = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+play": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + play = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+playstation": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + PlayStation = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+polka": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Polka = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pop-art": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pop Art = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pop-culture": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pop Culture = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+port": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Port = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pottery": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pottery = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+prison": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Prison = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+punk-rock": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Punk Rock = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+puzzle": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Puzzle = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+pyramid": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Pyramid = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rap": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Rap = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+reality-tv": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Reality TV = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+recorder": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Recorder = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+reggae": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Reggae = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+requiem": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Requiem = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rhyme": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Rhyme = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rhythm": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Rhythm = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rock-music": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Rock Music = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+roller-coaster": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Roller Coaster = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+roof": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Roof = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rpg": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + RPG = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+rule": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Rule = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+running": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Running = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+samba": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Samba = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+samsung": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Samsung = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+saxophone": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Saxophone = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+science-fiction": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Science Fiction = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sculpting": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sculpting = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sculpture": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sculpture = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+shadow": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Shadow = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+shirt": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Shirt = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+shoe": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Shoe = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+shower": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Shower = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+skateboard": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Skateboard = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+skiing": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Skiing = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+skyscraper": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Skyscraper = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+slam-poetry": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Slam Poetry = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+snowboard": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Snowboard = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+soccer": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Soccer = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sonata": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sonata = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+song": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Song = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sonnet": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sonnet = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sony": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sony = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+soul-music": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Soul Music = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sound": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + sound = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+spa": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Spa = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+speedrun": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Speedrun = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sport": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + sport = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+stadium": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Stadium = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+stained-glass": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Stained Glass = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+star-wars": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Space Opera = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+statue": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Statue = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+strategy": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + strategy = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+string": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + string = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+sunglasses": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Sunglasses = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+surfing": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Surfing = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+surrealism": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Surrealism = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+swimming": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Swimming = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+symphony": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Symphony = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+table": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Table = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tambourine": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tambourine = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tango": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tango = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tap-dance": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tap Dance = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tapestry": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tapestry = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+temple": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Temple = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tennis": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tennis = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tent": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tent = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+theater": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + theater = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+toilet": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Toilet = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tower": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tower = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+toy": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Toy = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+toyota": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Toyota = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+trumpet": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Trumpet = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tuba": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tuba = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+tunnel": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Tunnel = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+twitch": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Twitch = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+ukulele": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Ukulele = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+umbrella": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Umbrella = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+vaudeville": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Vaudeville = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+video-game": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Video Game = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+violin": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Violin = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+vr-game": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + VR Game = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+wall": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Wall = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+waltz": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Waltz = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+warehouse": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Warehouse = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+watercolor": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Watercolor = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+well": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Well = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+window": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Window = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+wrestling": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Wrestling = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+xbox": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Xbox = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+xylophone": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Xylophone = AI Generated Art. Is it art? The debate rages on."
-  },
-  "gemini+zoo": {
-    "result": "ai-generated-art",
-    "reasoning": "Gemini + Zoo = AI Generated Art. Is it art? The debate rages on."
-  },
-  "google-cloud+graffiti": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Graffiti in 3D."
-  },
-  "google-cloud+mosaic": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Mosaic in 3D."
-  },
-  "google-cloud+mural": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Mural in 3D."
-  },
-  "google-cloud+origami": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Origami in 3D."
-  },
-  "google-cloud+pixel-art": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Pixel Art in 3D."
-  },
-  "google-cloud+pop-art": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Pop Art in 3D."
-  },
-  "google-cloud+sculpture": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Sculpture in 3D."
-  },
-  "google-cloud+watercolor": {
-    "result": "3d-model",
-    "reasoning": "Google Cloud creating Watercolor in 3D."
+  "google+microsoft": {
+    "result": "amazon",
+    "reasoning": "Wikipedia says: is an American multinational technology company engaged in e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. That explains why Google + Microsoft = Amazon."
+  },
+  "google+samsung": {
+    "result": "apple-company",
+    "reasoning": "The science is clear — is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer electronics, software and online services. Mix Google and Samsung for Apple Company."
+  },
+  "google+sony": {
+    "result": "apple-company",
+    "reasoning": "Wikipedia says: is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, best known for its consumer electronics, software and online services. That explains why Google + Sony = Apple Company."
   },
   "house+jimmy-art": {
     "result": "museum",
@@ -878,5 +18,765 @@
   "house+knowledge-graph": {
     "result": "school",
     "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "ide+rule": {
+    "result": "crane",
+    "reasoning": "IDE and Rule both belong to the world of Place Name Disambiguation Pages — combine them for Crane."
+  },
+  "instrument+large-language-model": {
+    "result": "tuba",
+    "reasoning": "Instrument and Large Language Model together? The tuba is a large brass instrument in the bass-to-contrabass range with a wide, bugle-like conical bore and between three and six valves. The result: Tuba."
+  },
+  "jimmy-plugin+k-pop": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + K-Pop = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+kabuki": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Kabuki = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+karate": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Karate = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+kitchen": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Kitchen = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+landscape-painting": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Landscape Painting = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+light": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + light = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+lighthouse": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Lighthouse = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+limerick": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Limerick = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+lullaby": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Lullaby = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+mandolin": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Mandolin = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+manga": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Manga = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+marathon": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Marathon = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+mario": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Mario = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+melody": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Melody = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+microsoft": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Microsoft = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+minecraft": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Minecraft = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+mmorpg": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + MMORPG = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+monument": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Monument = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+mosaic": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Mosaic = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+mural": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Mural = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+music": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Music = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+musical-theater": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Musical Theater = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+necklace": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Necklace = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+nintendo": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Nintendo = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+opera": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Opera = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+orchestra": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Orchestra = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+origami": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Origami = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+painting": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Painting = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pantomime": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pantomime = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pants": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pants = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+percussion": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Percussion = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+photography": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Photography = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+piano": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Piano = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pixel-art": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pixel Art = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+playstation": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + PlayStation = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+polka": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Polka = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pop-art": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pop Art = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pop-culture": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pop Culture = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pottery": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pottery = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+prison": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Prison = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+punk-rock": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Punk Rock = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+puzzle": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Puzzle = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+pyramid": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Pyramid = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+reality-tv": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Reality TV = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+recorder": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Recorder = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+reggae": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Reggae = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+requiem": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Requiem = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+rhyme": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Rhyme = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+rhythm": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Rhythm = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+rock-music": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Rock Music = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+roller-coaster": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Roller Coaster = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+running": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Running = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+samba": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Samba = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+samsung": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Samsung = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+saxophone": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Saxophone = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+science-fiction": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Science Fiction = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sculpting": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Sculpting = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sculpture": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Sculpture = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+shadow": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Shadow = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+shirt": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Shirt = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+shower": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Shower = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+skateboard": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Skateboard = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+skiing": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Skiing = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+skyscraper": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Skyscraper = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+slam-poetry": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Slam Poetry = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+snowboard": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Snowboard = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+soccer": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Soccer = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sonata": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Sonata = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sonnet": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Sonnet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+soul-music": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Soul Music = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sound": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + sound = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+speedrun": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Speedrun = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sport": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + sport = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+stadium": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Stadium = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+stained-glass": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Stained Glass = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+star-wars": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Space Opera = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+statue": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Statue = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+strategy": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + strategy = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+string": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + string = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+sunglasses": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Sunglasses = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+surfing": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Surfing = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+surrealism": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Surrealism = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+swimming": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Swimming = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+symphony": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Symphony = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+table": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Table = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tambourine": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tambourine = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tango": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tango = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tap-dance": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tap Dance = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tapestry": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tapestry = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+temple": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Temple = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tennis": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tennis = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+theater": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + theater = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+toilet": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Toilet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tower": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tower = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+toyota": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Toyota = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+trumpet": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Trumpet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+tunnel": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Tunnel = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+twitch": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Twitch = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+ukulele": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Ukulele = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+umbrella": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Umbrella = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+vaudeville": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Vaudeville = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+video-game": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Video Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+violin": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Violin = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+vr-game": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + VR Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+warehouse": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Warehouse = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+watercolor": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Watercolor = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+window": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Window = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+wrestling": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Wrestling = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-plugin+xylophone": {
+    "result": "ai-generated-art",
+    "reasoning": "Jimmy Plugin + Xylophone = AI Generated Art. Is it art? The debate rages on."
+  },
+  "jimmy-voice+opera": {
+    "result": "aria",
+    "reasoning": "In music, an aria is a self-contained piece for one voice, with or without instrumental or orchestral accompaniment, normally part of a larger work. Combine Jimmy Voice with Opera and you naturally get Aria."
+  },
+  "knowledge-graph+punk-rock": {
+    "result": "geology",
+    "reasoning": "Studying Punk Rock through Knowledge Graph — Geology."
+  },
+  "knowledge-graph+puzzle": {
+    "result": "koan",
+    "reasoning": "Did you know? A kōan is a story, dialogue, question, or statement from Chinese Chan Buddhist lore, supplemented with commentaries, that is used in Chan, Zen, Seon and Thiền Buddhist practice in different ways. That's why Knowledge Graph + Puzzle = Koan."
+  },
+  "knowledge-graph+rock-music": {
+    "result": "geology",
+    "reasoning": "Studying Rock Music through Knowledge Graph — Geology."
+  },
+  "knowledge-graph+star-wars": {
+    "result": "astronomy",
+    "reasoning": "Studying Space Opera through Knowledge Graph — Astronomy, the oldest science."
+  },
+  "large-language-model+recorder": {
+    "result": "regularization",
+    "reasoning": "Here's the connection: A large language model (LLM) is a language model trained with self-supervised machine learning on a vast amount of data, designed for natural language processing tasks, especially language generation. So Large Language Model + Recorder = Regularization."
+  },
+  "microsoft+mistral": {
+    "result": "anthropic",
+    "reasoning": "Anthropic PBC is an American artificial intelligence (AI) company headquartered in San Francisco. So when Microsoft meets Mistral, Anthropic is the natural outcome."
+  },
+  "microsoft+openai": {
+    "result": "airbnb",
+    "reasoning": "Here's a real-world link: is an American company operating an online marketplace for short-and-long-term homestays, experiences and services in various countries and regions. Combine Microsoft with OpenAI and you get Airbnb."
+  },
+  "multimodal-ai+mural": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Mural in 3D."
+  },
+  "multimodal-ai+music": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Music — Spotify."
+  },
+  "multimodal-ai+orchestra": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Orchestra — Spotify."
+  },
+  "multimodal-ai+origami": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Origami in 3D."
+  },
+  "multimodal-ai+piano": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Piano — Spotify."
+  },
+  "multimodal-ai+pixel-art": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Pixel Art in 3D."
+  },
+  "multimodal-ai+pop-art": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Pop Art in 3D."
+  },
+  "multimodal-ai+rock-music": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Rock Music — Spotify."
+  },
+  "multimodal-ai+saxophone": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Saxophone — Spotify."
+  },
+  "multimodal-ai+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Sculpture in 3D."
+  },
+  "multimodal-ai+song": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Song — Spotify."
+  },
+  "multimodal-ai+soul-music": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Soul Music — Spotify."
+  },
+  "multimodal-ai+symphony": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Symphony — Spotify."
+  },
+  "multimodal-ai+trumpet": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Trumpet — Spotify."
+  },
+  "multimodal-ai+ukulele": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Ukulele — Spotify."
+  },
+  "multimodal-ai+violin": {
+    "result": "spotify",
+    "reasoning": "Multimodal AI streaming Violin — Spotify."
+  },
+  "multimodal-ai+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Multimodal AI creating Watercolor in 3D."
+  },
+  "openai+xbox": {
+    "result": "api",
+    "reasoning": "The science is clear — An application programming interface (API) is a connection between computers or between computer programs. Mix OpenAI and Xbox for API."
+  },
+  "opera+voice-clone": {
+    "result": "aria",
+    "reasoning": "In music, an aria is a self-contained piece for one voice, with or without instrumental or orchestral accompaniment, normally part of a larger work. That's how Opera and Voice Clone give us Aria."
+  },
+  "perceptron+string": {
+    "result": "bit",
+    "reasoning": "Perceptron and string share a deep connection. The bit is the most basic unit of information in computing and digital communication. Result: Bit."
+  },
+  "pioneer+rule": {
+    "result": "grove",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Pioneer meets Rule to create Grove."
+  },
+  "puzzle+training": {
+    "result": "knowledge",
+    "reasoning": "Here's a real-world link: Knowledge is an awareness of facts, a familiarity with individuals and situations, or a practical skill. Combine Puzzle with Training and you get knowledge."
+  },
+  "recurrent-network+rock-music": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Rock Music — Spotify."
+  },
+  "recurrent-network+saxophone": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Saxophone — Spotify."
+  },
+  "recurrent-network+sculpture": {
+    "result": "3d-model",
+    "reasoning": "Recurrent Network creating Sculpture in 3D."
+  },
+  "recurrent-network+song": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Song — Spotify."
+  },
+  "recurrent-network+soul-music": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Soul Music — Spotify."
+  },
+  "recurrent-network+symphony": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Symphony — Spotify."
+  },
+  "recurrent-network+trumpet": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Trumpet — Spotify."
+  },
+  "recurrent-network+ukulele": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Ukulele — Spotify."
+  },
+  "recurrent-network+violin": {
+    "result": "spotify",
+    "reasoning": "Recurrent Network streaming Violin — Spotify."
+  },
+  "recurrent-network+watercolor": {
+    "result": "3d-model",
+    "reasoning": "Recurrent Network creating Watercolor in 3D."
+  },
+  "rhythm+training": {
+    "result": "dance",
+    "reasoning": "The science is clear — Dance is an art form, consisting of sequences of body movements with aesthetic and often symbolic value, either improvised or purposefully selected. Mix Rhythm and Training for Dance."
+  },
+  "rlhf+roller-coaster": {
+    "result": "ai-generated-art",
+    "reasoning": "RLHF + Roller Coaster = AI Generated Art. Is it art? The debate rages on."
+  },
+  "rlhf+science-fiction": {
+    "result": "ai-generated-art",
+    "reasoning": "RLHF + Science Fiction = AI Generated Art. Is it art? The debate rages on."
+  },
+  "safety+shower": {
+    "result": "door",
+    "reasoning": "A door is a hinged or otherwise movable barrier that allows ingress (entry) into and egress (exit) from an enclosure. So when Safety meets Shower, Door is the natural outcome."
+  },
+  "sound+temperature": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. So when sound meets Temperature, Amplitude is the natural outcome."
+  },
+  "space-ai+symphony": {
+    "result": "spotify",
+    "reasoning": "HAL 9000 streaming Symphony — Spotify."
+  },
+  "space-ai+toyota": {
+    "result": "astronaut",
+    "reasoning": "An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. So when HAL 9000 meets Toyota, Astronaut is the natural outcome."
+  },
+  "space-ai+trumpet": {
+    "result": "spotify",
+    "reasoning": "HAL 9000 streaming Trumpet — Spotify."
+  },
+  "space-ai+ukulele": {
+    "result": "spotify",
+    "reasoning": "HAL 9000 streaming Ukulele — Spotify."
+  },
+  "space-ai+watercolor": {
+    "result": "3d-model",
+    "reasoning": "HAL 9000 creating Watercolor in 3D."
+  },
+  "text-generation+theater": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + theater = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+toilet": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Toilet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+tower": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Tower = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+toy": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Toy = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+toyota": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Toyota = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+trumpet": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Trumpet = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+tuba": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Tuba = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+tunnel": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Tunnel = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+twitch": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Twitch = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+ukulele": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Ukulele = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+umbrella": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Umbrella = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+vaudeville": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Vaudeville = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+video-game": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Video Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+violin": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Violin = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+vr-game": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + VR Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+wall": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Wall = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+waltz": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Waltz = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+warehouse": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Warehouse = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+watercolor": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Watercolor = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+well": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Well = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+window": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Window = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+wrestling": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Wrestling = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+xbox": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Xbox = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+xylophone": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Xylophone = AI Generated Art. Is it art? The debate rages on."
+  },
+  "text-generation+zoo": {
+    "result": "ai-generated-art",
+    "reasoning": "Text Generation + Zoo = AI Generated Art. Is it art? The debate rages on."
+  },
+  "training+vaudeville": {
+    "result": "ai-generated-art",
+    "reasoning": "Training + Vaudeville = AI Generated Art. Is it art? The debate rages on."
+  },
+  "training+video-game": {
+    "result": "ai-generated-art",
+    "reasoning": "Training + Video Game = AI Generated Art. Is it art? The debate rages on."
+  },
+  "training+waltz": {
+    "result": "dance",
+    "reasoning": "Dance is an art form, consisting of sequences of body movements with aesthetic and often symbolic value, either improvised or purposefully selected. That's the connection between Training and Waltz — giving us Dance."
+  },
+  "training+watercolor": {
+    "result": "ai-generated-art",
+    "reasoning": "Training + Watercolor = AI Generated Art. Is it art? The debate rages on."
   }
 }

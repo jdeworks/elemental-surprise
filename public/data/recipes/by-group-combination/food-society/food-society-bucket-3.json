@@ -1,882 +1,106 @@
 {
-  "forge+garlic": {
-    "result": "cooking",
-    "reasoning": "Roasted garlic becomes sweet and spreadable, a Cooking flavor bomb"
-  },
-  "forge+gelatin": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+ginger": {
-    "result": "cooking",
-    "reasoning": "Cooking ginger mellows its bite, essential in Asian stir-fries"
-  },
-  "forge+goulash": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+granola": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+gravy": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+greenhouse": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+gruel": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+guacamole": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+gumbo": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+gyoza": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+hamburger": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+harvest": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+hummus": {
-    "result": "falafel",
-    "reasoning": "Heated chickpea mixture is shaped and fried into Falafel"
-  },
-  "forge+ice-cream": {
-    "result": "cream",
-    "reasoning": "Heated ice cream melts back into sweetened Cream"
-  },
-  "forge+irrigation": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+jam": {
-    "result": "cooking",
-    "reasoning": "Cooking fruit with sugar makes jam, preserved summer in a jar"
-  },
-  "forge+jerky": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+juice": {
-    "result": "jam",
-    "reasoning": "Boiling juice with sugar concentrates it into Jam"
-  },
-  "forge+kebab": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+kimchi": {
-    "result": "stew",
-    "reasoning": "Kimchi jjigae, fermented kimchi becomes a bubbling spicy Stew"
-  },
-  "forge+kombucha": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+lasagna": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+lawn": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+lemonade": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+macaroni": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mango": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+maple-syrup": {
-    "result": "caramel",
-    "reasoning": "Boiling maple syrup further concentrates it into maple Caramel"
-  },
-  "forge+marmalade": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+matcha": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mcdonalds": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mead": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+meat": {
-    "result": "steak",
-    "reasoning": "Searing meat over high heat creates a Steak with perfect crust"
-  },
-  "forge+meringue": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mezcal": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+milk": {
-    "result": "cream",
-    "reasoning": "Heating milk causes it to reduce and thicken into rich Cream"
-  },
-  "forge+miso": {
-    "result": "soup",
-    "reasoning": "Hot water transforms miso paste into Soup at every Japanese meal"
-  },
-  "forge+mochi": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mousse": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+muffin": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mushroom-soup": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mystery-casserole": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+mystery-meat": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+naan": {
-    "result": "bread",
-    "reasoning": "Naan is slapped onto the walls of a blazing tandoor oven, hot Bread"
-  },
-  "forge+nacho": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+noodle": {
-    "result": "ramen",
-    "reasoning": "Noodles cooked in hot broth become Ramen, Japan's comfort food"
-  },
-  "forge+okra": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+olive": {
-    "result": "olive-oil",
-    "reasoning": "Pressing heated olives yields Olive Oil, Mediterranean liquid gold"
-  },
-  "forge+olive-oil": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+omelette": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+onion": {
-    "result": "cooking",
-    "reasoning": "Caramelized onions are slow-Cooked until sweet and golden"
-  },
-  "forge+paella": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pancake": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+papaya": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pasta": {
-    "result": "spaghetti",
-    "reasoning": "Boiling pasta al dente is the Italian art of perfect Spaghetti"
-  },
-  "forge+peanut-butter": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pecan-pie": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pepper": {
-    "result": "roast",
-    "reasoning": "Roasted peppers are smoky, sweet, and silky, perfect Roast veggies"
-  },
-  "forge+pesto": {
-    "result": "cooking",
-    "reasoning": "Warm pesto tossed with hot pasta releases its basil Cooking fragrance"
-  },
-  "forge+pho": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pickle": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pie": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pierogi": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pizza": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+plow": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+popcorn": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+porridge": {
-    "result": "toast",
-    "reasoning": "Leftover porridge can be sliced and fried, Scottish oatcake Toast"
-  },
-  "forge+potato": {
-    "result": "roast",
-    "reasoning": "Roast potatoes, crispy outside, fluffy inside, the perfect Roast"
-  },
-  "forge+potluck": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pretzel": {
-    "result": "toast",
-    "reasoning": "Warm pretzels fresh from the oven become soft salty Toast"
-  },
-  "forge+prosciutto": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+pudding": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+quiche": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+ramen": {
-    "result": "cooking",
-    "reasoning": "Ramen broth simmers for 12-24 hours, time and heat Cooking mastery"
-  },
-  "forge+ravioli": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+relish": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+rice": {
-    "result": "cooking",
-    "reasoning": "Steamed rice, heat and water transform hard grains into fluffy perfection"
-  },
-  "forge+risotto": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+roast": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+rum": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+sake": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+salad": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+salsa": {
-    "result": "cooking",
-    "reasoning": "Roasted salsa (salsa roja) has a deeper, smokier Cooking flavor"
-  },
-  "forge+salt": {
-    "result": "cooking",
-    "reasoning": "Salt enhances every heated dish, the most essential Cooking seasoning"
-  },
-  "forge+sandwich": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+sausage": {
-    "result": "roast",
-    "reasoning": "Roasted sausages sizzle and split, a hearty Roast"
-  },
-  "forge+scallop": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+scone": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+silo": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+smoothie": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+sorbet": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+souffle": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+soup": {
-    "result": "stew",
-    "reasoning": "Simmering soup for hours thickens it into hearty Stew"
-  },
-  "forge+sourdough": {
-    "result": "toast",
-    "reasoning": "Sourdough Toast is tangy bread crisped to perfection"
-  },
-  "forge+soy-sauce": {
-    "result": "cooking",
-    "reasoning": "Heated soy sauce in a wok creates smoky breath of the dragon"
-  },
-  "forge+spaghetti": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+spice": {
-    "result": "curry",
-    "reasoning": "Toasting spices in oil blooms their essential oils, the start of Curry"
-  },
-  "forge+starbucks": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+steak": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+stew": {
-    "result": "roast",
-    "reasoning": "Long slow heat transforms stew into a caramelized Roast"
-  },
-  "forge+stomach-ache": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+sugar": {
-    "result": "caramel",
-    "reasoning": "Heat transforms white sugar into golden Caramel at 170 degrees C"
-  },
-  "forge+sushi": {
-    "result": "tempura",
-    "reasoning": "Heat transforms raw sushi ingredients into crispy Tempura"
-  },
-  "forge+taco": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+taffy": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+tea": {
+  "potluck+tavern": {
+    "result": "food",
+    "reasoning": "Food is any substance consumed by an organism for nutritional support. So when Potluck meets Tavern, food is the natural outcome."
+  },
+  "pudding+windmill": {
+    "result": "france",
+    "reasoning": "France, officially the French Republic, is a country primarily located in Western Europe. So when Pudding meets Windmill, France is the natural outcome."
+  },
+  "reservoir+rice": {
+    "result": "porridge",
+    "reasoning": "Rice simmered in excess water becomes Porridge (congee), Asian comfort"
+  },
+  "reservoir+sourdough": {
+    "result": "porridge",
+    "reasoning": "Stale sourdough soaked in water makes kvass, a Porridge-like drink"
+  },
+  "reservoir+spice": {
+    "result": "tea",
+    "reasoning": "Spices steeped in water make chai spiced Tea"
+  },
+  "reservoir+sugar": {
+    "result": "lemonade",
+    "reasoning": "Sugar dissolved in water, simple syrup, the base of Lemonade"
+  },
+  "reservoir+tea": {
     "result": "brewing",
-    "reasoning": "Hot water extracts flavor from tea leaves, the art of Brewing"
+    "reasoning": "Steeping tea leaves in hot water is the art of Brewing, 5,000 years old"
   },
-  "forge+tempura": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "reservoir+vinegar": {
+    "result": "pickle",
+    "reasoning": "Vinegar in water creates pickling liquid for preserving as Pickles"
   },
-  "forge+tiramisu": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "reservoir+wheat": {
+    "result": "dough",
+    "reasoning": "Wheat and water, the two ingredients that launched civilization's Dough"
   },
-  "forge+toast": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
+  "reservoir+yogurt": {
+    "result": "smoothie",
+    "reasoning": "Yogurt thinned with water becomes a Smoothie or lassi"
   },
-  "forge+tofu": {
-    "result": "stew",
-    "reasoning": "Fried tofu develops a crispy skin in Stew, a protein chameleon"
+  "revolution+wine": {
+    "result": "france",
+    "reasoning": "Revolution and wine together shape France"
   },
-  "forge+tomato": {
-    "result": "soup",
-    "reasoning": "Roasted tomatoes blend into rich Soup, comfort in a bowl"
-  },
-  "forge+tortilla": {
-    "result": "taco",
-    "reasoning": "Heating tortillas on a comal makes them pliable for Tacos"
-  },
-  "forge+tractor": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+truffle": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+tzatziki": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+vinaigrette": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+vindaloo": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+vinegar": {
-    "result": "cooking",
-    "reasoning": "Heated vinegar becomes a glaze, balsamic reduction is liquid gold"
-  },
-  "forge+waffle": {
-    "result": "anvil",
-    "reasoning": "Combine Forge with Waffle to create Anvil."
-  },
-  "forge+wasabi": {
-    "result": "cooking",
-    "reasoning": "Heat destroys wasabi's kick, always add it fresh in Cooking"
-  },
-  "forge+wheat": {
-    "result": "bread",
-    "reasoning": "Wheat grains are milled and baked into Bread, the staff of life"
-  },
-  "forge+whiskey": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+wild-game": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+wine": {
-    "result": "cooking",
-    "reasoning": "Cooking wine reduces it into rich sauces, French cuisine's secret"
-  },
-  "forge+wonton": {
-    "result": "cooking",
-    "reasoning": "Applying heat to food is the essence of Cooking"
-  },
-  "forge+yogurt": {
-    "result": "cooking",
-    "reasoning": "Heated yogurt thickens sauces in Middle Eastern and Indian Cooking"
-  },
-  "garden+reservoir": {
-    "result": "soup",
-    "reasoning": "Adding water to food is the simplest way to make Soup"
-  },
-  "garlic+reservoir": {
-    "result": "soup",
-    "reasoning": "Garlic simmered in water makes sopa de ajo, Spain's garlic Soup"
-  },
-  "gelatin+germany": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Germany = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+gladiator": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Gladiator = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+government": {
-    "result": "potluck",
-    "reasoning": "Gelatin + government = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+grammy": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Grammy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+granary": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Granary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+grand-canyon": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Grand Canyon = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+great-barrier-reef": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Great Barrier Reef = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+great-wall": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Great Wall = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+guild": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Guild = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+harbor": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Harbor = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+homework": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Homework = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+india": {
-    "result": "potluck",
-    "reasoning": "Gelatin + India = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+industrial-revolution": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Industrial Revolution = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+infirmary": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Infirmary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+infrastructure": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Infrastructure = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+inn": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Inn = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+inquisition": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Inquisition = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+insurance": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Insurance = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+investment": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Investment = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+italy": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Italy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+japan": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Japan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+journalist": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Journalist = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+judge": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Judge = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+jury": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Jury = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+justice": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Justice = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+kaiser": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Kaiser = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+keep": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Keep = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+korea": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Korea = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+law": {
-    "result": "potluck",
-    "reasoning": "Gelatin + law = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+lawyer": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Lawyer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+legionnaire": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Legionnaire = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+loan": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Loan = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+machu-picchu": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Machu Picchu = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+magna-carta": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Magna Carta = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+market": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Market = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+marketing": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Marketing = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+media": {
-    "result": "potluck",
-    "reasoning": "Gelatin + media = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+mexico": {
+  "roast+statue-of-liberty": {
     "result": "potluck",
-    "reasoning": "Gelatin + Mexico = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+    "reasoning": "Roast + Statue of Liberty = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
   },
-  "gelatin+mint": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Mint = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+moat": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Moat = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+monarchy": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Monarchy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+monastery": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Monastery = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+money": {
-    "result": "potluck",
-    "reasoning": "Gelatin + money = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+mortuary": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Mortuary = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+mount-everest": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Mount Everest = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+musician": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Musician = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+musketeer": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Musketeer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+nation": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Nation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+niagara-falls": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Niagara Falls = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+nobel-prize": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Nobel Prize = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+nurse": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Nurse = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+obelisk": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Obelisk = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+olympic-games": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Olympic Games = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+orphanage": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Orphanage = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+oscar": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Oscar = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+ottoman": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Ottoman = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+outpost": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Outpost = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pagoda": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pagoda = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+palace": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Palace = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+parliament": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Parliament = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+peace": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Peace = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pest-control": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pest Control = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pharaoh": {
-    "result": "potluck",
-    "reasoning": "Gelatin + pharaoh = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+philosopher": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Philosopher = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pier": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pier = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pilot": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pilot = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pirate-captain": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pirate Captain = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+plantation": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Plantation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+police": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Police = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+poverty": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Poverty = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+professor": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Professor = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+profit": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Profit = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+programmer": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Programmer = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "rum+tavern": {
+    "result": "beer",
+    "reasoning": "Here's a real-world link: Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize, rice, and oats are also used. Combine Rum with Tavern and you get Beer."
   },
-  "gelatin+prohibition": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Prohibition = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+public-holiday": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Public Holiday = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+pyramids-of-giza": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Pyramids of Giza = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+quarry": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Quarry = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+red-tape": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Red Tape = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
-  },
-  "gelatin+reformation": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Reformation = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "sake+tavern": {
+    "result": "beer",
+    "reasoning": "Sake and Tavern share a deep connection. Beer is an alcoholic beverage produced by the brewing and fermentation of starches from cereal grain—most commonly malted barley, although wheat, maize, rice, and oats are also used. Result: Beer."
   },
-  "gelatin+republic": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Republic = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "shipyard+sugar": {
+    "result": "button",
+    "reasoning": "A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. So when Shipyard meets sugar, button is the natural outcome."
   },
-  "gelatin+reservoir": {
-    "result": "pudding",
-    "reasoning": "Gelatin dissolved in water sets into wobbly Pudding"
-  },
-  "gelatin+revolution": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Revolution = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "silo+stable": {
+    "result": "barn",
+    "reasoning": "A barn is an agricultural building usually on farms and used for various purposes. That's the connection between Silo and Stable — giving us Barn."
   },
-  "gelatin+ritual": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Ritual = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "silo+windmill": {
+    "result": "barn",
+    "reasoning": "A barn is an agricultural building usually on farms and used for various purposes. That's the connection between Silo and Windmill — giving us Barn."
   },
-  "gelatin+russia": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Russia = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+tiramisu": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Tiramisu — a Bakery."
   },
-  "gelatin+sawmill": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Sawmill = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+tortilla": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Tortilla — a Bakery."
   },
-  "gelatin+scientist": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Scientist = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+tzatziki": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Tzatziki — a Bakery."
   },
-  "gelatin+shipyard": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Shipyard = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+vinaigrette": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Vinaigrette — a Bakery."
   },
-  "gelatin+shogun": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Shogun = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+vindaloo": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Vindaloo — a Bakery."
   },
-  "gelatin+siege": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Siege = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+vinegar": {
+    "result": "cider",
+    "reasoning": "Wikipedia says: Cider is an alcoholic beverage made from the fermented juice of apples. That explains why Tavern + Vinegar = Cider."
   },
-  "gelatin+silk-road": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Silk Road = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "tavern+wild-game": {
+    "result": "bakery",
+    "reasoning": "A Tavern making Wild Game — a Bakery."
   },
-  "gelatin+smart-city": {
+  "tomato+trojan-horse": {
     "result": "potluck",
-    "reasoning": "Gelatin + Smart City = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+    "reasoning": "Tomato + Trojan Horse = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
   },
-  "gelatin+smithy": {
-    "result": "potluck",
-    "reasoning": "Gelatin + Smithy = a Potluck. Everyone brings something. Someone always brings store-bought cookies."
+  "waffle+windmill": {
+    "result": "france",
+    "reasoning": "Waffle and Windmill share a deep connection. France, officially the French Republic, is a country primarily located in Western Europe. Result: France."
   }
 }

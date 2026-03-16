@@ -1,43 +1,571 @@
 {
+  "bear+ferret": {
+    "result": "badger",
+    "reasoning": "Wikipedia says: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That explains why Bear + Ferret = Badger."
+  },
+  "bear+fox": {
+    "result": "badger",
+    "reasoning": "Wikipedia says: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That explains why Bear + Fox = Badger."
+  },
+  "bear+gopher": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. That's the connection between Bear and Gopher — giving us Barracuda."
+  },
+  "bear+hamster": {
+    "result": "squirrel",
+    "reasoning": "Wikipedia says: Squirrels are members of the family Sciuridae, a family that includes small or medium-sized rodents. That explains why Bear + Hamster = Squirrel."
+  },
+  "bear+hyena": {
+    "result": "badger",
+    "reasoning": "Wikipedia says: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That explains why Bear + Hyena = Badger."
+  },
+  "bear+jaguar": {
+    "result": "badger",
+    "reasoning": "Bear and Jaguar share a deep connection. Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. Result: Badger."
+  },
+  "bear+loon": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. So when Bear meets Loon, Barracuda is the natural outcome."
+  },
+  "bear+lynx": {
+    "result": "badger",
+    "reasoning": "Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That's the connection between Bear and Lynx — giving us Badger."
+  },
+  "bear+meerkat": {
+    "result": "badger",
+    "reasoning": "The science is clear — Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. Mix Bear and Meerkat for Badger."
+  },
+  "bear+mongoose": {
+    "result": "badger",
+    "reasoning": "Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. So when Bear meets Mongoose, Badger is the natural outcome."
+  },
+  "bear+monkey": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. So when Bear meets Monkey, Barracuda is the natural outcome."
+  },
+  "bear+moose": {
+    "result": "grizzly-bear",
+    "reasoning": "Did you know? The grizzly bear, also known as the North American brown bear or simply grizzly, is a population or subspecies of the brown bear inhabiting North America. That's why Bear + Moose = Grizzly Bear."
+  },
+  "bear+ocelot": {
+    "result": "badger",
+    "reasoning": "Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That's the connection between Bear and Ocelot — giving us Badger."
+  },
+  "bear+otter": {
+    "result": "badger",
+    "reasoning": "Here's a real-world link: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. Combine Bear with Otter and you get Badger."
+  },
+  "bear+polar-bear": {
+    "result": "grizzly-bear",
+    "reasoning": "Did you know? The grizzly bear, also known as the North American brown bear or simply grizzly, is a population or subspecies of the brown bear inhabiting North America. That's why Bear + Polar Bear = Grizzly Bear."
+  },
+  "bear+rhinoceros": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. So when Bear meets Rhinoceros, Barracuda is the natural outcome."
+  },
+  "bear+sea-cucumber": {
+    "result": "walrus",
+    "reasoning": "Walruses are the bears of the Arctic sea — huge, tusked, and powerful"
+  },
+  "bear+sea-urchin": {
+    "result": "walrus",
+    "reasoning": "Walruses are the bears of the Arctic sea — huge, tusked, and powerful"
+  },
+  "bear+shark": {
+    "result": "cobra",
+    "reasoning": "Bear and Shark share a deep connection. Cobra is the common name of various venomous snakes, most of which belong to the genus Naja. Result: Cobra."
+  },
+  "bear+snow-leopard": {
+    "result": "polar-bear",
+    "reasoning": "Polar bears evolved white fur and fat layers for Arctic survival"
+  },
+  "bear+squirrel": {
+    "result": "barracuda",
+    "reasoning": "Bear and Squirrel share a deep connection. A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. Result: Barracuda."
+  },
+  "bear+tiger": {
+    "result": "badger",
+    "reasoning": "Bear and Tiger share a deep connection. Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. Result: Badger."
+  },
+  "bear+walrus": {
+    "result": "badger",
+    "reasoning": "Wikipedia says: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. That explains why Bear + Walrus = Badger."
+  },
+  "bear+weasel": {
+    "result": "badger",
+    "reasoning": "Here's a real-world link: Badgers are medium-sized short-legged omnivores in the superfamily Musteloidea. Combine Bear with Weasel and you get Badger."
+  },
+  "beaver+bird": {
+    "result": "woodpecker",
+    "reasoning": "Did you know? Woodpeckers are part of the bird family Picidae, which also includes the piculets, wrynecks and sapsuckers. That's why Beaver + Bird = Woodpecker."
+  },
+  "beaver+bison": {
+    "result": "elk",
+    "reasoning": "The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. That's the connection between Beaver and Bison — giving us Elk."
+  },
+  "beaver+camel": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. So when Beaver meets Camel, Capybara is the natural outcome."
+  },
+  "beaver+capybara": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Capybara = Camel."
+  },
+  "beaver+cat": {
+    "result": "camel",
+    "reasoning": "Beaver and Cat share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
+  "beaver+chicken": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Beaver with Chicken and you get Camel."
+  },
+  "beaver+dog": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Dog = Camel."
+  },
+  "beaver+donkey": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Donkey, Camel is the natural outcome."
+  },
+  "beaver+elk": {
+    "result": "bison",
+    "reasoning": "The science is clear — A bison is a large bovine in the genus Bison within the tribe Bovini. Mix Beaver and Elk for Bison."
+  },
+  "beaver+emu": {
+    "result": "anteater",
+    "reasoning": "Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. That's the connection between Beaver and Emu — giving us Anteater."
+  },
+  "beaver+falcon": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Falcon, Camel is the natural outcome."
+  },
+  "beaver+ferret": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Ferret = Camel."
+  },
+  "beaver+fish": {
+    "result": "piranha",
+    "reasoning": "A piranha is any of a number of freshwater fish species in the subfamily Serrasalminae, of the family Serrasalmidae, in the order Characiformes. Combine Beaver with Fish and you naturally get Piranha."
+  },
+  "beaver+goldfish": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Goldfish for Camel."
+  },
+  "beaver+hamster": {
+    "result": "anteater",
+    "reasoning": "Beaver and Hamster share a deep connection. Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. Result: Anteater."
+  },
+  "beaver+hippopotamus": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Hippopotamus, Camel is the natural outcome."
+  },
+  "beaver+horse": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Horse for Camel."
+  },
+  "beaver+hummingbird": {
+    "result": "bat",
+    "reasoning": "Beaver and Hummingbird share a deep connection. Bats are winged mammals; the only mammals capable of true and sustained flight. Result: Bat."
+  },
+  "beaver+hyena": {
+    "result": "anteater",
+    "reasoning": "Wikipedia says: Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. That explains why Beaver + Hyena = Anteater."
+  },
+  "beaver+insect": {
+    "result": "bat",
+    "reasoning": "Wikipedia says: Bats are winged mammals; the only mammals capable of true and sustained flight. That explains why Beaver + Insect = Bat."
+  },
+  "beaver+jaguar": {
+    "result": "camel",
+    "reasoning": "Beaver and Jaguar share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
+  "beaver+lemur": {
+    "result": "bat",
+    "reasoning": "The science is clear — Bats are winged mammals; the only mammals capable of true and sustained flight. Mix Beaver and Lemur for Bat."
+  },
+  "beaver+leopard": {
+    "result": "camel",
+    "reasoning": "Beaver and Leopard share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
+  "beaver+lion": {
+    "result": "camel",
+    "reasoning": "Beaver and Lion share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
+  "beaver+llama": {
+    "result": "camel",
+    "reasoning": "Beaver and Llama share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
+  "beaver+lynx": {
+    "result": "bison",
+    "reasoning": "A bison is a large bovine in the genus Bison within the tribe Bovini. So when Beaver meets Lynx, Bison is the natural outcome."
+  },
+  "beaver+manatee": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Manatee, Camel is the natural outcome."
+  },
+  "beaver+moose": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Moose, Camel is the natural outcome."
+  },
+  "beaver+mosquito": {
+    "result": "bat",
+    "reasoning": "Bats are winged mammals; the only mammals capable of true and sustained flight. That's the connection between Beaver and Mosquito — giving us Bat."
+  },
+  "beaver+narwhal": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Narwhal, Camel is the natural outcome."
+  },
+  "beaver+ocelot": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Beaver with Ocelot and you get Camel."
+  },
+  "beaver+opossum": {
+    "result": "anteater",
+    "reasoning": "The science is clear — Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. Mix Beaver and Opossum for Anteater."
+  },
+  "beaver+orca": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Orca for Camel."
+  },
+  "beaver+ostrich": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Beaver meets Ostrich, Camel is the natural outcome."
+  },
+  "beaver+pangolin": {
+    "result": "bat",
+    "reasoning": "The science is clear — Bats are winged mammals; the only mammals capable of true and sustained flight. Mix Beaver and Pangolin for Bat."
+  },
+  "beaver+pelican": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Pelican = Camel."
+  },
+  "beaver+platypus": {
+    "result": "hippopotamus",
+    "reasoning": "Beaver and Platypus share a deep connection. The hippopotamus, often shortened to hippo, further qualified as the common hippopotamus, Nile hippopotamus and river hippopotamus, is a large semiaquatic mammal native to sub-Saharan Africa. Result: Hippopotamus."
+  },
+  "beaver+raccoon": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Raccoon = Camel."
+  },
+  "beaver+seahorse": {
+    "result": "anteater",
+    "reasoning": "Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. That's the connection between Beaver and Seahorse — giving us Anteater."
+  },
+  "beaver+sheep": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That's the connection between Beaver and sheep — giving us Camel."
+  },
+  "beaver+snake": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Beaver with Snake and you get Camel."
+  },
+  "beaver+swan": {
+    "result": "anteater",
+    "reasoning": "The science is clear — Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. Mix Beaver and Swan for Anteater."
+  },
+  "beaver+swordfish": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Beaver + Swordfish = Camel."
+  },
+  "beaver+tarantula": {
+    "result": "bat",
+    "reasoning": "Here's a real-world link: Bats are winged mammals; the only mammals capable of true and sustained flight. Combine Beaver with Tarantula and you get Bat."
+  },
+  "beaver+termite": {
+    "result": "bat",
+    "reasoning": "Bats are winged mammals; the only mammals capable of true and sustained flight. So when Beaver meets Termite, Bat is the natural outcome."
+  },
+  "beaver+tiger": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Tiger for Camel."
+  },
+  "beaver+trout": {
+    "result": "bison",
+    "reasoning": "Wikipedia says: A bison is a large bovine in the genus Bison within the tribe Bovini. That explains why Beaver + Trout = Bison."
+  },
+  "beaver+walrus": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Walrus for Camel."
+  },
+  "beaver+weasel": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Beaver with Weasel and you get Camel."
+  },
+  "beaver+wolf": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Beaver with Wolf and you get Camel."
+  },
+  "beaver+woodpecker": {
+    "result": "anteater",
+    "reasoning": "The science is clear — Anteaters are the four extant mammal species in the suborder Vermilingua, commonly known for eating ants and termites. Mix Beaver and Woodpecker for Anteater."
+  },
+  "beaver+yak": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and Yak for Camel."
+  },
+  "bee+bee": {
+    "result": "nest",
+    "reasoning": "Bees combined form a hive — 60,000 workers in perfect coordination"
+  },
+  "bee+bumblebee": {
+    "result": "aerodynamics",
+    "reasoning": "The science is clear — Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. Mix bee and Bumblebee for Aerodynamics."
+  },
+  "bee+butterfly": {
+    "result": "ant",
+    "reasoning": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. That's the connection between bee and Butterfly — giving us Ant."
+  },
+  "bee+hummingbird": {
+    "result": "aerodynamics",
+    "reasoning": "The science is clear — Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. Mix bee and Hummingbird for Aerodynamics."
+  },
+  "bee+insect": {
+    "result": "ant",
+    "reasoning": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. So when bee meets Insect, Ant is the natural outcome."
+  },
+  "bee+mantis": {
+    "result": "anglerfish",
+    "reasoning": "Wikipedia says: The anglerfish are ray-finned fish in the order Lophiiformes. That explains why bee + Mantis = Anglerfish."
+  },
+  "bee+sea-cucumber": {
+    "result": "jellyfish",
+    "reasoning": "Jellyfish sting like bees — both use venom for defense"
+  },
+  "bee+sea-urchin": {
+    "result": "jellyfish",
+    "reasoning": "Jellyfish sting like bees — both use venom for defense"
+  },
+  "bee+spider": {
+    "result": "ant",
+    "reasoning": "Wikipedia says: Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. That explains why bee + Spider = Ant."
+  },
+  "bee+termite": {
+    "result": "ant",
+    "reasoning": "Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. That's the connection between bee and Termite — giving us Ant."
+  },
+  "bee+wasp": {
+    "result": "ant",
+    "reasoning": "Here's a real-world link: Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Combine bee with Wasp and you get Ant."
+  },
+  "bird+bird": {
+    "result": "egg",
+    "reasoning": "Bird adapting to Bird evolves into Egg"
+  },
+  "bird+bison": {
+    "result": "condor",
+    "reasoning": "Here's the connection: Condor is the common name for two genera of New World vultures, each with one extant species. So Bird + Bison = Condor."
+  },
+  "bird+blue-whale": {
+    "result": "condor",
+    "reasoning": "Did you know? Condor is the common name for two genera of New World vultures, each with one extant species. That's why Bird + Blue Whale = Condor."
+  },
+  "bird+boa-constrictor": {
+    "result": "toucan",
+    "reasoning": "Here's the connection: Toucans are Neotropical birds in the family Ramphastidae. So Bird + Boa Constrictor = Toucan."
+  },
+  "bird+buffalo": {
+    "result": "ostrich",
+    "reasoning": "Here's the connection: Ostriches are large flightless birds. So Bird + Buffalo = Ostrich."
+  },
+  "bird+camel": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. So when Bird meets Camel, Capybara is the natural outcome."
+  },
+  "bird+capybara": {
+    "result": "crane",
+    "reasoning": "Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m common ostrich. That's how Bird and Capybara give us Crane."
+  },
+  "bird+cardinal": {
+    "result": "crow",
+    "reasoning": "A crow is a bird of the genus Corvus, or more broadly, a synonym for all of Corvus. Combine Bird with Cardinal and you naturally get Crow."
+  },
+  "bird+cat": {
+    "result": "camel",
+    "reasoning": "Wikipedia says: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That explains why Bird + Cat = Camel."
+  },
+  "bird+cheetah": {
+    "result": "roadrunner",
+    "reasoning": "The roadrunners, also known as chaparral birds or chaparral cocks, are two species of fast-running ground cuckoos with long tails and crests. That's how Bird and Cheetah give us Roadrunner."
+  },
+  "bird+chicken": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That's the connection between Bird and Chicken — giving us Camel."
+  },
+  "bird+clam": {
+    "result": "puffin",
+    "reasoning": "Did you know? Puffins are any of three species of small alcids (auks) in the bird genus Fratercula. That's why Bird + Clam = Puffin."
+  },
+  "bird+cockatoo": {
+    "result": "ibis",
+    "reasoning": "Bird and Cockatoo together? The ibis are a group of long-legged wading birds in the family Threskiornithidae that inhabit wetlands, forests and plains. The result: Ibis."
+  },
+  "bird+condor": {
+    "result": "duck",
+    "reasoning": "Duck is the common name for numerous species of waterfowl in the family Anatidae. Combine Bird with Condor and you naturally get Duck."
+  },
+  "bird+cormorant": {
+    "result": "kingfisher",
+    "reasoning": "Here's the connection: Kingfishers are a family, the Alcedinidae, of small to medium-sized, brightly coloured birds in the order Coraciiformes. So Bird + Cormorant = Kingfisher."
+  },
+  "bird+crane": {
+    "result": "duck",
+    "reasoning": "Duck is the common name for numerous species of waterfowl in the family Anatidae. That's how Bird and Crane give us Duck."
+  },
+  "bird+crow": {
+    "result": "duck",
+    "reasoning": "Bird and Crow together? Duck is the common name for numerous species of waterfowl in the family Anatidae. The result: Duck."
+  },
+  "bird+dog": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. So when Bird meets Dog, Camel is the natural outcome."
+  },
+  "bird+donkey": {
+    "result": "rooster",
+    "reasoning": "Did you know? The chicken is a domesticated form of the red junglefowl, originally native to Southeast Asia. That's why Bird + Donkey = Rooster."
+  },
+  "bird+dragonfly": {
+    "result": "stork",
+    "reasoning": "Storks are large, long-legged, long-necked wading birds with long, stout bills. That's how Bird and Dragonfly give us Stork."
+  },
+  "bird+duck": {
+    "result": "emu",
+    "reasoning": "Bird and Duck together? The emu is a species of flightless bird endemic to Australia, where it is the tallest native bird. The result: Emu."
+  },
+  "bird+eel": {
+    "result": "albatross",
+    "reasoning": "Bird and Eel together? Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes. The result: Albatross."
+  },
+  "bird+emu": {
+    "result": "ostrich",
+    "reasoning": "Here's the connection: Ostriches are large flightless birds. So Bird + Emu = Ostrich."
+  },
+  "bird+falcon": {
+    "result": "camel",
+    "reasoning": "Here's a real-world link: A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Combine Bird with Falcon and you get Camel."
+  },
+  "bird+ferret": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That's the connection between Bird and Ferret — giving us Camel."
+  },
+  "bird+fish": {
+    "result": "heron",
+    "reasoning": "Here's the connection: Herons are long-legged, long-necked, freshwater and coastal birds in the family Ardeidae, with 75 recognised species, some of which are referred to as egrets or bitterns rather than herons. So Bird + Fish = Heron."
+  },
+  "bird+flying-fish": {
+    "result": "kingfisher",
+    "reasoning": "Kingfishers are a family, the Alcedinidae, of small to medium-sized, brightly coloured birds in the order Coraciiformes. Combine Bird with Flying Fish and you naturally get Kingfisher."
+  },
+  "bird+goldfish": {
+    "result": "heron",
+    "reasoning": "Bird and Goldfish together? Herons are long-legged, long-necked, freshwater and coastal birds in the family Ardeidae, with 75 recognised species, some of which are referred to as egrets or bitterns rather than herons. The result: Heron."
+  },
+  "bird+goose": {
+    "result": "heron",
+    "reasoning": "Herons are long-legged, long-necked, freshwater and coastal birds in the family Ardeidae, with 75 recognised species, some of which are referred to as egrets or bitterns rather than herons. Combine Bird with Goose and you naturally get Heron."
+  },
+  "bird+hamster": {
+    "result": "quail",
+    "reasoning": "Bird and Hamster together? Quail is a collective name for several genera of mid-sized birds generally placed in the order Galliformes. The result: Quail."
+  },
+  "bird+heron": {
+    "result": "ostrich",
+    "reasoning": "Bird and Heron together? Ostriches are large flightless birds. The result: Ostrich."
+  },
+  "bird+hippopotamus": {
+    "result": "swan",
+    "reasoning": "Swans are birds of the genus Cygnus within the family Anatidae. That's how Bird and Hippopotamus give us Swan."
+  },
+  "bird+horse": {
+    "result": "pegasus",
+    "reasoning": "Through mystical forces, Bird and Horse become Pegasus"
+  },
+  "bird+ibis": {
+    "result": "kiwi",
+    "reasoning": "Here's the connection: Kiwi most commonly refers to:Kiwi (bird), a flightless bird native to New Zealand\nKiwi (nickname), an informal name for New Zealanders\nKiwifruit, an edible hairy fruit with many seeds\nKiwi dollar or New Zealand dollar, a unit of currency So Bird + Ibis = Kiwi."
+  },
+  "bird+iguana": {
+    "result": "quetzal",
+    "reasoning": "Quetzals are strikingly colored birds in the trogon family. That's how Bird and Iguana give us Quetzal."
+  },
+  "bird+jaguar": {
+    "result": "toucan",
+    "reasoning": "Toucans are Neotropical birds in the family Ramphastidae. That's how Bird and Jaguar give us Toucan."
+  },
+  "bird+kingfisher": {
+    "result": "kiwi",
+    "reasoning": "Bird and Kingfisher together? Kiwi most commonly refers to:Kiwi (bird), a flightless bird native to New Zealand\nKiwi (nickname), an informal name for New Zealanders\nKiwifruit, an edible hairy fruit with many seeds\nKiwi dollar or New Zealand dollar, a unit of currency The result: Kiwi."
+  },
   "bird+kiwi": {
     "result": "quetzal",
-    "reasoning": "Combine Bird with Kiwi to create Quetzal."
+    "reasoning": "Quetzals are strikingly colored birds in the trogon family. Combine Bird with Kiwi and you naturally get Quetzal."
+  },
+  "bird+leopard": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That's the connection between Bird and Leopard — giving us Camel."
+  },
+  "bird+lion": {
+    "result": "capybara",
+    "reasoning": "Bird and Lion share a deep connection. The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Result: Capybara."
+  },
+  "bird+llama": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. So when Bird meets Llama, Capybara is the natural outcome."
   },
   "bird+lobster": {
     "result": "albatross",
-    "reasoning": "Combine Bird with Lobster to create Albatross."
+    "reasoning": "Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes. That's how Bird and Lobster give us Albatross."
   },
   "bird+manatee": {
     "result": "swan",
-    "reasoning": "Combine Bird with Manatee to create Swan."
+    "reasoning": "Swans are birds of the genus Cygnus within the family Anatidae. That's how Bird and Manatee give us Swan."
+  },
+  "bird+moose": {
+    "result": "capybara",
+    "reasoning": "Bird and Moose share a deep connection. The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Result: Capybara."
+  },
+  "bird+narwhal": {
+    "result": "capybara",
+    "reasoning": "Bird and Narwhal share a deep connection. The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Result: Capybara."
   },
   "bird+newt": {
     "result": "swan",
-    "reasoning": "Combine Bird with Newt to create Swan."
+    "reasoning": "Swans are birds of the genus Cygnus within the family Anatidae. Combine Bird with Newt and you naturally get Swan."
+  },
+  "bird+ocelot": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. So when Bird meets Ocelot, Capybara is the natural outcome."
+  },
+  "bird+orca": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. That's the connection between Bird and Orca — giving us Capybara."
   },
   "bird+ostrich": {
     "result": "peacock",
-    "reasoning": "Combine Bird with Ostrich to create Peacock."
+    "reasoning": "Here's the connection: Peafowl is a common name for two bird species of the genus Pavo and one species of the closely related genus Afropavo within the tribe Pavonini of the family Phasianidae. So Bird + Ostrich = Peacock."
   },
   "bird+peacock": {
     "result": "quail",
-    "reasoning": "Combine Bird with Peacock to create Quail."
+    "reasoning": "Did you know? Quail is a collective name for several genera of mid-sized birds generally placed in the order Galliformes. That's why Bird + Peacock = Quail."
   },
   "bird+pelican": {
     "result": "quail",
-    "reasoning": "Combine Bird with Pelican to create Quail."
+    "reasoning": "Bird and Pelican together? Quail is a collective name for several genera of mid-sized birds generally placed in the order Galliformes. The result: Quail."
   },
   "bird+puffin": {
     "result": "rooster",
-    "reasoning": "Combine Bird with Puffin to create Rooster."
+    "reasoning": "Did you know? The chicken is a domesticated form of the red junglefowl, originally native to Southeast Asia. That's why Bird + Puffin = Rooster."
   },
   "bird+quail": {
     "result": "rooster",
-    "reasoning": "Combine Bird with Quail to create Rooster."
+    "reasoning": "Did you know? The chicken is a domesticated form of the red junglefowl, originally native to Southeast Asia. That's why Bird + Quail = Rooster."
+  },
+  "bird+raccoon": {
+    "result": "capybara",
+    "reasoning": "Here's a real-world link: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Combine Bird with Raccoon and you get Capybara."
   },
   "bird+rooster": {
     "result": "sparrow",
-    "reasoning": "Combine Bird with Rooster to create Sparrow."
+    "reasoning": "Here's the connection: Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m common ostrich. So Bird + Rooster = Sparrow."
   },
   "bird+sea-cucumber": {
     "result": "albatross",
@@ -47,836 +575,308 @@
     "result": "albatross",
     "reasoning": "Albatrosses spend years at sea without touching land"
   },
+  "bird+sheep": {
+    "result": "capybara",
+    "reasoning": "The science is clear — The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Mix Bird and sheep for Capybara."
+  },
+  "bird+snake": {
+    "result": "capybara",
+    "reasoning": "Wikipedia says: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. That explains why Bird + Snake = Capybara."
+  },
   "bird+snow-leopard": {
     "result": "penguin",
     "reasoning": "Cold pushes birds toward penguin-like adaptations — fat, insulation, huddling"
   },
   "bird+sparrow": {
     "result": "stork",
-    "reasoning": "Combine Bird with Sparrow to create Stork."
+    "reasoning": "Storks are large, long-legged, long-necked wading birds with long, stout bills. Combine Bird with Sparrow and you naturally get Stork."
   },
   "bird+stork": {
     "result": "turkey",
-    "reasoning": "Combine Bird with Stork to create Turkey."
+    "reasoning": "Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. That's how Bird and Stork give us Turkey."
   },
   "bird+swan": {
     "result": "turkey",
-    "reasoning": "Combine Bird with Swan to create Turkey."
+    "reasoning": "Did you know? Turkey, officially the Republic of Türkiye, is a country mainly located in Anatolia in West Asia, with a smaller part called East Thrace in Southeast Europe. That's why Bird + Swan = Turkey."
+  },
+  "bird+swordfish": {
+    "result": "capybara",
+    "reasoning": "Here's a real-world link: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Combine Bird with Swordfish and you get Capybara."
+  },
+  "bird+tiger": {
+    "result": "capybara",
+    "reasoning": "The science is clear — The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Mix Bird and Tiger for Capybara."
   },
   "bird+toucan": {
     "result": "cockatoo",
-    "reasoning": "Combine Bird with Toucan to create Cockatoo."
+    "reasoning": "A cockatoo is any of the 21 species of parrots belonging to the family Cacatuidae, the only family in the superfamily Cacatuoidea. Combine Bird with Toucan and you naturally get Cockatoo."
+  },
+  "bird+walrus": {
+    "result": "capybara",
+    "reasoning": "Wikipedia says: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. That explains why Bird + Walrus = Capybara."
+  },
+  "bird+weasel": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. So when Bird meets Weasel, Capybara is the natural outcome."
+  },
+  "bird+wolf": {
+    "result": "capybara",
+    "reasoning": "The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. That's the connection between Bird and Wolf — giving us Capybara."
+  },
+  "bird+yak": {
+    "result": "capybara",
+    "reasoning": "The science is clear — The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Mix Bird and Yak for Capybara."
   },
   "bison+blue-whale": {
     "result": "buffalo",
-    "reasoning": "Combine Bison with Blue Whale to create Buffalo."
+    "reasoning": "Did you know? A bison is a large bovine in the genus Bison within the tribe Bovini. That's why Bison + Blue Whale = Buffalo."
   },
   "bison+buffalo": {
     "result": "rhinoceros",
-    "reasoning": "Combine Bison with Buffalo to create Rhinoceros."
+    "reasoning": "Did you know? A rhinoceros, commonly abbreviated to rhino, is a member of any of the five extant species of odd-toed ungulates (perissodactyls) in the family Rhinocerotidae. That's why Bison + Buffalo = Rhinoceros."
+  },
+  "bison+camel": {
+    "result": "alpaca",
+    "reasoning": "The science is clear — The alpaca is a domesticated species of South American camelid. Mix Bison and Camel for Alpaca."
+  },
+  "bison+deer": {
+    "result": "alpaca",
+    "reasoning": "The alpaca is a domesticated species of South American camelid. That's the connection between Bison and Deer — giving us Alpaca."
+  },
+  "bison+elk": {
+    "result": "alpaca",
+    "reasoning": "Bison and Elk share a deep connection. The alpaca is a domesticated species of South American camelid. Result: Alpaca."
+  },
+  "bison+gazelle": {
+    "result": "alpaca",
+    "reasoning": "The alpaca is a domesticated species of South American camelid. So when Bison meets Gazelle, Alpaca is the natural outcome."
+  },
+  "bison+giraffe": {
+    "result": "alpaca",
+    "reasoning": "Here's a real-world link: The alpaca is a domesticated species of South American camelid. Combine Bison with Giraffe and you get Alpaca."
   },
   "bison+hippopotamus": {
     "result": "rhinoceros",
-    "reasoning": "Combine Bison with Hippopotamus to create Rhinoceros."
+    "reasoning": "A rhinoceros, commonly abbreviated to rhino, is a member of any of the five extant species of odd-toed ungulates (perissodactyls) in the family Rhinocerotidae. Combine Bison with Hippopotamus and you naturally get Rhinoceros."
   },
   "bison+insect": {
     "result": "grasshopper",
-    "reasoning": "Combine Insect with Bison to create Grasshopper."
+    "reasoning": "Here's the connection: Grasshoppers are a group of insects belonging to the suborder Caelifera. So Bison + Insect = Grasshopper."
   },
-  "bison+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "bison+llama": {
+    "result": "alpaca",
+    "reasoning": "Wikipedia says: The alpaca is a domesticated species of South American camelid. That explains why Bison + Llama = Alpaca."
   },
-  "bison+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "bison+lynx": {
+    "result": "elk",
+    "reasoning": "The science is clear — The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. Mix Bison and Lynx for Elk."
+  },
+  "bison+moose": {
+    "result": "alpaca",
+    "reasoning": "The alpaca is a domesticated species of South American camelid. So when Bison meets Moose, Alpaca is the natural outcome."
+  },
+  "bison+narwhal": {
+    "result": "elk",
+    "reasoning": "Here's a real-world link: The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. Combine Bison with Narwhal and you get Elk."
+  },
+  "bison+pig": {
+    "result": "alpaca",
+    "reasoning": "The alpaca is a domesticated species of South American camelid. So when Bison meets Pig, Alpaca is the natural outcome."
+  },
+  "bison+pronghorn": {
+    "result": "alpaca",
+    "reasoning": "Wikipedia says: The alpaca is a domesticated species of South American camelid. That explains why Bison + Pronghorn = Alpaca."
+  },
+  "bison+sheep": {
+    "result": "alpaca",
+    "reasoning": "Wikipedia says: The alpaca is a domesticated species of South American camelid. That explains why Bison + sheep = Alpaca."
   },
   "bison+spider": {
     "result": "tarantula",
-    "reasoning": "Combine Spider with Bison to create Tarantula."
+    "reasoning": "Tarantulas are a group of large and often hairy spiders of the family Theraphosidae. That's how Bison and Spider give us Tarantula."
+  },
+  "bison+trout": {
+    "result": "elk",
+    "reasoning": "Bison and Trout share a deep connection. The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. Result: Elk."
+  },
+  "bison+walrus": {
+    "result": "elk",
+    "reasoning": "Wikipedia says: The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. That explains why Bison + Walrus = Elk."
+  },
+  "bison+wolf": {
+    "result": "elk",
+    "reasoning": "Here's a real-world link: The elk or wapiti is the second largest species within the deer family, Cervidae, and one of the largest terrestrial mammals in its native range of North America and Central and East Asia. Combine Bison with Wolf and you get Elk."
+  },
+  "bison+yak": {
+    "result": "alpaca",
+    "reasoning": "Bison and Yak share a deep connection. The alpaca is a domesticated species of South American camelid. Result: Alpaca."
   },
   "blue-whale+clam": {
     "result": "lobster",
-    "reasoning": "Combine Clam with Blue Whale to create Lobster."
+    "reasoning": "Here's the connection: Lobsters are malacostracan decapod crustaceans of the family Nephropidae or its synonym Homaridae. So Blue Whale + Clam = Lobster."
   },
   "blue-whale+lobster": {
     "result": "narwhal",
-    "reasoning": "Combine Blue Whale with Lobster to create Narwhal."
+    "reasoning": "Blue Whale and Lobster together? The narwhal is a species of toothed whale native to the Arctic. The result: Narwhal."
   },
   "blue-whale+narwhal": {
     "result": "orca",
-    "reasoning": "Combine Blue Whale with Narwhal to create Orca."
+    "reasoning": "Here's the connection: The orca, or killer whale, is a toothed whale and the largest member of the oceanic dolphin family. So Blue Whale + Narwhal = Orca."
   },
   "blue-whale+orca": {
     "result": "squid",
-    "reasoning": "Combine Blue Whale with Orca to create Squid."
-  },
-  "blue-whale+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "blue-whale+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "blue-whale+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
+    "reasoning": "Here's the connection: A squid is a mollusc with an elongated soft body, large eyes, eight arms, and two tentacles in the orders Myopsida, Oegopsida, and Bathyteuthida. So Blue Whale + Orca = Squid."
   },
   "blue-whale+spider": {
     "result": "tarantula",
-    "reasoning": "Combine Spider with Blue Whale to create Tarantula."
-  },
-  "boa-constrictor+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "boa-constrictor+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+    "reasoning": "Blue Whale and Spider together? Tarantulas are a group of large and often hairy spiders of the family Theraphosidae. The result: Tarantula."
   },
   "boa-constrictor+snake": {
     "result": "rattlesnake",
-    "reasoning": "Combine Snake with Boa Constrictor to create Rattlesnake."
-  },
-  "boa-constrictor+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
+    "reasoning": "Rattlesnakes are venomous snakes that form the genera Crotalus and Sistrurus of the subfamily Crotalinae. That's how Boa Constrictor and Snake give us Rattlesnake."
   },
   "boar+hedgehog": {
     "result": "porcupine",
-    "reasoning": "Combine Hedgehog with Boar to create Porcupine."
+    "reasoning": "Porcupines are large rodents with coats of sharp spines, or quills, that protect them against predators. That's how Boar and Hedgehog give us Porcupine."
   },
-  "boar+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "buffalo+cardinal": {
+    "result": "brace",
+    "reasoning": "Both Buffalo and Cardinal are rooted in Place Name Disambiguation Pages. Together they make Brace."
   },
-  "boar+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "buffalo+crane": {
+    "result": "brace",
+    "reasoning": "Both Buffalo and Crane are rooted in Place Name Disambiguation Pages. Together they make Brace."
   },
-  "boar+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
+  "buffalo+elk": {
+    "result": "bison",
+    "reasoning": "Wikipedia says: A bison is a large bovine in the genus Bison within the tribe Bovini. That explains why Buffalo + Elk = Bison."
   },
-  "buffalo+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "buffalo+pronghorn": {
+    "result": "bison",
+    "reasoning": "The science is clear — A bison is a large bovine in the genus Bison within the tribe Bovini. Mix Buffalo and Pronghorn for Bison."
   },
-  "buffalo+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "buffalo+seal": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Buffalo meets Seal to create Brook."
   },
-  "buffalo+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
+  "buffalo+yak": {
+    "result": "bison",
+    "reasoning": "Wikipedia says: A bison is a large bovine in the genus Bison within the tribe Bovini. That explains why Buffalo + Yak = Bison."
+  },
+  "bumblebee+butterfly": {
+    "result": "aerodynamics",
+    "reasoning": "Wikipedia says: Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. That explains why Bumblebee + Butterfly = Aerodynamics."
+  },
+  "bumblebee+cicada": {
+    "result": "butterfly",
+    "reasoning": "The science is clear — Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. Mix Bumblebee and Cicada for Butterfly."
+  },
+  "bumblebee+dragonfly": {
+    "result": "biodiversity",
+    "reasoning": "Bumblebee and Dragonfly share a deep connection. Biodiversity is the variability of life on Earth. Result: Biodiversity."
+  },
+  "bumblebee+firefly": {
+    "result": "biodiversity",
+    "reasoning": "Biodiversity is the variability of life on Earth. That's the connection between Bumblebee and Firefly — giving us Biodiversity."
+  },
+  "bumblebee+gopher": {
+    "result": "barracuda",
+    "reasoning": "Here's a real-world link: A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. Combine Bumblebee with Gopher and you get Barracuda."
+  },
+  "bumblebee+grasshopper": {
+    "result": "butterfly",
+    "reasoning": "Here's a real-world link: Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. Combine Bumblebee with Grasshopper and you get Butterfly."
+  },
+  "bumblebee+hornet": {
+    "result": "bee",
+    "reasoning": "Wikipedia says: Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. That explains why Bumblebee + Hornet = bee."
+  },
+  "bumblebee+hummingbird": {
+    "result": "aerodynamics",
+    "reasoning": "Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. So when Bumblebee meets Hummingbird, Aerodynamics is the natural outcome."
   },
   "bumblebee+insect": {
     "result": "fireant",
-    "reasoning": "Combine Insect with Bumblebee to create Fireant."
+    "reasoning": "Fire ants are several species of ants in the genus Solenopsis, which includes over 200 species. Combine Bumblebee with Insect and you naturally get Fireant."
   },
-  "bumblebee+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "bumblebee+loon": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. So when Bumblebee meets Loon, Barracuda is the natural outcome."
   },
-  "bumblebee+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
+  "bumblebee+mantis": {
+    "result": "butterfly",
+    "reasoning": "The science is clear — Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. Mix Bumblebee and Mantis for Butterfly."
   },
-  "bumblebee+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
+  "bumblebee+monkey": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. That's the connection between Bumblebee and Monkey — giving us Barracuda."
+  },
+  "bumblebee+mosquito": {
+    "result": "butterfly",
+    "reasoning": "Bumblebee and Mosquito share a deep connection. Butterflies are winged insects from the lepidopteran superfamily Papilionoidea, characterised by large, often brightly coloured wings that often fold together when at rest, and a conspicuous, fluttering flight. Result: Butterfly."
+  },
+  "bumblebee+nest": {
+    "result": "bee",
+    "reasoning": "Bumblebee and Nest share a deep connection. Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. Result: bee."
+  },
+  "bumblebee+rhinoceros": {
+    "result": "barracuda",
+    "reasoning": "Here's a real-world link: A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. Combine Bumblebee with Rhinoceros and you get Barracuda."
+  },
+  "bumblebee+squirrel": {
+    "result": "barracuda",
+    "reasoning": "A barracuda is a large, predatory, ray-finned, saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815. That's the connection between Bumblebee and Squirrel — giving us Barracuda."
+  },
+  "bumblebee+termite": {
+    "result": "biodiversity",
+    "reasoning": "The science is clear — Biodiversity is the variability of life on Earth. Mix Bumblebee and Termite for Biodiversity."
+  },
+  "bumblebee+wasp": {
+    "result": "bee",
+    "reasoning": "Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. So when Bumblebee meets Wasp, bee is the natural outcome."
+  },
+  "butterfly+caterpillar": {
+    "result": "ant",
+    "reasoning": "The science is clear — Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Mix Butterfly and Caterpillar for Ant."
+  },
+  "butterfly+cicada": {
+    "result": "bumblebee",
+    "reasoning": "The science is clear — A bumblebee is any of over 250 species in the genus Bombus, part of Apidae, one of the bee families. Mix Butterfly and Cicada for Bumblebee."
+  },
+  "butterfly+dragonfly": {
+    "result": "bumblebee",
+    "reasoning": "Here's a real-world link: A bumblebee is any of over 250 species in the genus Bombus, part of Apidae, one of the bee families. Combine Butterfly with Dragonfly and you get Bumblebee."
+  },
+  "butterfly+grasshopper": {
+    "result": "bumblebee",
+    "reasoning": "A bumblebee is any of over 250 species in the genus Bombus, part of Apidae, one of the bee families. That's the connection between Butterfly and Grasshopper — giving us Bumblebee."
+  },
+  "butterfly+hornet": {
+    "result": "bee",
+    "reasoning": "Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. So when Butterfly meets Hornet, bee is the natural outcome."
+  },
+  "butterfly+hummingbird": {
+    "result": "ant",
+    "reasoning": "Here's a real-world link: Ants are eusocial insects of the family Formicidae and, along with the related wasps and bees, belong to the order Hymenoptera. Combine Butterfly with Hummingbird and you get Ant."
   },
   "butterfly+insect": {
     "result": "caterpillar",
-    "reasoning": "Combine Butterfly with Insect to create Caterpillar."
+    "reasoning": "Caterpillars are the larval stage of members of the order Lepidoptera. That's how Butterfly and Insect give us Caterpillar."
+  },
+  "butterfly+mantis": {
+    "result": "bumblebee",
+    "reasoning": "Wikipedia says: A bumblebee is any of over 250 species in the genus Bombus, part of Apidae, one of the bee families. That explains why Butterfly + Mantis = Bumblebee."
+  },
+  "butterfly+mosquito": {
+    "result": "bumblebee",
+    "reasoning": "A bumblebee is any of over 250 species in the genus Bombus, part of Apidae, one of the bee families. So when Butterfly meets Mosquito, Bumblebee is the natural outcome."
+  },
+  "butterfly+nest": {
+    "result": "bee",
+    "reasoning": "Wikipedia says: Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. That explains why Butterfly + Nest = bee."
   },
   "butterfly+sea-cucumber": {
     "result": "jellyfish",
     "reasoning": "Jellyfish drift on currents like butterflies float on breeze"
-  },
-  "butterfly+sea-urchin": {
-    "result": "jellyfish",
-    "reasoning": "Jellyfish drift on currents like butterflies float on breeze"
-  },
-  "butterfly+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "camel+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "camel+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "camel+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "capybara+fish": {
-    "result": "goldfish",
-    "reasoning": "Combine Fish with Capybara to create Goldfish."
-  },
-  "capybara+newt": {
-    "result": "salamander",
-    "reasoning": "Combine Newt with Capybara to create Salamander."
-  },
-  "capybara+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "capybara+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "capybara+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "cardinal+condor": {
-    "result": "stork",
-    "reasoning": "Combine Cardinal with Condor to create Stork."
-  },
-  "cardinal+insect": {
-    "result": "ladybug",
-    "reasoning": "Combine Insect with Cardinal to create Ladybug."
-  },
-  "cardinal+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cardinal+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cardinal+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "caribou+cat": {
-    "result": "lynx",
-    "reasoning": "Combine Caribou with Cat to create Lynx."
-  },
-  "caribou+cheetah": {
-    "result": "lynx",
-    "reasoning": "Combine Caribou with Cheetah to create Lynx."
-  },
-  "caribou+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "caribou+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "cat+cheetah": {
-    "result": "jaguar",
-    "reasoning": "Combine Cat with Cheetah to create Jaguar."
-  },
-  "cat+jaguar": {
-    "result": "leopard",
-    "reasoning": "Combine Cat with Jaguar to create Leopard."
-  },
-  "cat+sea-cucumber": {
-    "result": "seal",
-    "reasoning": "Seals are sometimes called 'sea cats' — sleek aquatic hunters"
-  },
-  "cat+sea-urchin": {
-    "result": "seal",
-    "reasoning": "Seals are sometimes called 'sea cats' — sleek aquatic hunters"
-  },
-  "caterpillar+hornet": {
-    "result": "wasp",
-    "reasoning": "Combine Hornet with Caterpillar to create Wasp."
-  },
-  "caterpillar+insect": {
-    "result": "hornet",
-    "reasoning": "Combine Insect with Caterpillar to create Hornet."
-  },
-  "caterpillar+sea-urchin": {
-    "result": "sea-cucumber",
-    "reasoning": "Sea cucumbers are the slow, crawling caterpillars of the ocean floor"
-  },
-  "caterpillar+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "chameleon+cheetah": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cheetah — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+chicken": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Chicken — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+chimpanzee": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Chimpanzee — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+chinchilla": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Chinchilla — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+cicada": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cicada — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+clam": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Clam — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+cobra": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cobra — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+cockatoo": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cockatoo — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+condor": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Condor — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+cormorant": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cormorant — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+cow": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Cow — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+coyote": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Coyote — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+crab": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Crab — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+crane": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Crane — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+crocodile": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Crocodile — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+crow": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Crow — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+deer": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Deer — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+dinosaur": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Dinosaur — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+dog": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Dog — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+dolphin": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Dolphin — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+donkey": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Donkey — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+dragonfly": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Dragonfly — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+duck": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Duck — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+eagle": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Eagle — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+eel": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Eel — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+egg": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Egg — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+electric-eel": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Electric Eel — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+elephant": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Elephant — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+elk": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Elk — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+emu": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Emu — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+falcon": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Falcon — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+feather": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Feather — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ferret": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ferret — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+fireant": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Fireant — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+firefly": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Firefly — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+fish": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Fish — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+flamingo": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Flamingo — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+flying-fish": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Flying Fish — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+fox": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Fox — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+frog": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Frog — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+gazelle": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Gazelle — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+giraffe": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Giraffe — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+goldfish": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Goldfish — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+goose": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Goose — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+gopher": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Gopher — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+gorilla": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Gorilla — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+grasshopper": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Grasshopper — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+grizzly-bear": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Grizzly Bear — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hamster": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hamster — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hedgehog": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hedgehog — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hermit-crab": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hermit Crab — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+heron": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Heron — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hippopotamus": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hippopotamus — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+honey": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Honey — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hornet": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hornet — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+horse": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Horse — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hummingbird": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hummingbird — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+hyena": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Hyena — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ibis": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ibis — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+iguana": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Iguana — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+insect": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Insect — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+jaguar": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Jaguar — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+jellyfish": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Jellyfish — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+kangaroo": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Kangaroo — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+kingfisher": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Kingfisher — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+kiwi": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Kiwi — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+koala": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Koala — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+komodo-dragon": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Komodo Dragon — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ladybug": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ladybug — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lamprey": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lamprey — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lemur": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lemur — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+leopard": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Leopard — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lion": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lion — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lizard": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lizard — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+llama": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Llama — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lobster": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lobster — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+loon": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Loon — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+lynx": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Lynx — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+macaw": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Macaw — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+manatee": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Manatee — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+mantis": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Mantis — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+meerkat": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Meerkat — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+mongoose": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Mongoose — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+monitor-lizard": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Monitor Lizard — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+monkey": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Monkey — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+moose": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Moose — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+mosquito": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Mosquito — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+moth": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Moth — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+mouse": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Mouse — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+narwhal": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Narwhal — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+nautilus": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Nautilus — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+nest": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Nest — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+newt": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Newt — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ocelot": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ocelot — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+octopus": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Octopus — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+opossum": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Opossum — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+orangutan": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Orangutan — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+orca": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Orca — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ostrich": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ostrich — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+otter": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Otter — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+owl": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Owl — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+panda": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Panda — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+pangolin": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Pangolin — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+parrot": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Parrot — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+peacock": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Peacock — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+pelican": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Pelican — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+penguin": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Penguin — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+pig": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Pig — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+piranha": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Piranha — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+platypus": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Platypus — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+pokemon": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Pokemon — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+polar-bear": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Polar Bear — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+porcupine": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Porcupine — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+pronghorn": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Pronghorn — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+puffin": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Puffin — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+quail": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Quail — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+quetzal": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Quetzal — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+rabbit": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Rabbit — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+raccoon": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Raccoon — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+rat": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Rat — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+rattlesnake": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Rattlesnake — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+raven": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Raven — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+ray": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Ray — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+red-panda": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Red Panda — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+rhinoceros": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Rhinoceros — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+roadrunner": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Roadrunner — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+rooster": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Rooster — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+safari": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Safari — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+salamander": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Salamander — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+scorpion": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Scorpion — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+sea-cucumber": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "chameleon+sea-urchin": {
-    "result": "fish",
-    "reasoning": "Water transforms land creatures toward aquatic life — evolution in action"
-  },
-  "chameleon+seahorse": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Seahorse — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+seal": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Seal — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+shark": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Shark — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+sheep": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets sheep — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+sloth": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Sloth — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+snail": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Snail — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+snake": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Snake — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+snow-leopard": {
-    "result": "wool",
-    "reasoning": "Cold drives evolution toward thick insulating coats"
-  },
-  "chameleon+sparrow": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Sparrow — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+spider": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Spider — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+squid": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Squid — welcome to the Animal Kingdom, where anything goes."
-  },
-  "chameleon+squirrel": {
-    "result": "animal-kingdom",
-    "reasoning": "Chameleon meets Squirrel — welcome to the Animal Kingdom, where anything goes."
   }
 }

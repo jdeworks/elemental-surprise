@@ -1,203 +1,299 @@
 {
-  "cork+earth": {
+  "cliff+flint": {
+    "result": "chalk",
+    "reasoning": "Wikipedia says: Chalk is a soft, white, porous, sedimentary carbonate rock. That explains why Cliff + Flint = Chalk."
+  },
+  "cliff+granite": {
+    "result": "chalk",
+    "reasoning": "The science is clear — Chalk is a soft, white, porous, sedimentary carbonate rock. Mix Cliff and Granite for Chalk."
+  },
+  "cliff+limestone": {
+    "result": "beach",
+    "reasoning": "The science is clear — A beach is a landform alongside a body of water which consists of loose particles. Mix Cliff and Limestone for Beach."
+  },
+  "cliff+marble": {
+    "result": "chalk",
+    "reasoning": "Here's a real-world link: Chalk is a soft, white, porous, sedimentary carbonate rock. Combine Cliff with Marble and you get Chalk."
+  },
+  "cliff+plaster": {
+    "result": "chalk",
+    "reasoning": "Here's a real-world link: Chalk is a soft, white, porous, sedimentary carbonate rock. Combine Cliff with Plaster and you get Chalk."
+  },
+  "cliff+pumice": {
+    "result": "chalk",
+    "reasoning": "Wikipedia says: Chalk is a soft, white, porous, sedimentary carbonate rock. That explains why Cliff + Pumice = Chalk."
+  },
+  "cliff+sandstone": {
+    "result": "beach",
+    "reasoning": "The science is clear — A beach is a landform alongside a body of water which consists of loose particles. Mix Cliff and Sandstone for Beach."
+  },
+  "cliff+shale": {
+    "result": "chalk",
+    "reasoning": "Cliff and Shale share a deep connection. Chalk is a soft, white, porous, sedimentary carbonate rock. Result: Chalk."
+  },
+  "cliff+slate": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. That's the connection between Cliff and Slate — giving us Chalk."
+  },
+  "clinker+crater": {
+    "result": "lava",
+    "reasoning": "Here's a real-world link: Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. Combine Clinker with Crater and you get Lava."
+  },
+  "clinker+fumarole": {
+    "result": "lava",
+    "reasoning": "Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. So when Clinker meets Fumarole, Lava is the natural outcome."
+  },
+  "clinker+mesa": {
+    "result": "lava",
+    "reasoning": "Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. That's the connection between Clinker and Mesa — giving us Lava."
+  },
+  "clinker+ridge": {
+    "result": "lava",
+    "reasoning": "Here's a real-world link: Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. Combine Clinker with Ridge and you get Lava."
+  },
+  "clinker+stalactite": {
+    "result": "lava",
+    "reasoning": "Wikipedia says: Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. That explains why Clinker + Stalactite = Lava."
+  },
+  "clinker+stalagmite": {
+    "result": "lava",
+    "reasoning": "Clinker and Stalagmite share a deep connection. Lava is molten or partially molten rock (magma) that has been expelled from the interior of a terrestrial planet or a moon onto its surface. Result: Lava."
+  },
+  "cloud+foam": {
+    "result": "buoyancy",
+    "reasoning": "Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. So when Cloud meets Foam, Buoyancy is the natural outcome."
+  },
+  "cloud+granite": {
+    "result": "buoyancy",
+    "reasoning": "The science is clear — Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. Mix Cloud and Granite for Buoyancy."
+  },
+  "coal+gravel": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. So when Coal meets Gravel, Bitumen is the natural outcome."
+  },
+  "coal+lava": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Coal meets Lava, Basalt is the natural outcome."
+  },
+  "coal+mud": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Coal and Mud for Bitumen."
+  },
+  "coal+obsidian": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Coal + Obsidian = Basalt."
+  },
+  "coal+peat": {
+    "result": "gunpowder",
+    "reasoning": "Gunpowder, commonly referred to as black powder to distinguish it from modern smokeless powder, is the earliest known chemical explosive. So when Coal meets Peat, Gunpowder is the natural outcome."
+  },
+  "coal+pressure": {
+    "result": "diamond",
+    "reasoning": "Extreme geological pressure transforms coal into diamond"
+  },
+  "coal+rainforest": {
+    "result": "biomass",
+    "reasoning": "Wikipedia says: Biomass is material produced by the growth of microorganisms, plants or animals. That explains why Coal + Rainforest = Biomass."
+  },
+  "coal+volcano": {
+    "result": "basalt",
+    "reasoning": "The science is clear — Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Mix Coal and Volcano for Basalt."
+  },
+  "cobalt+rain": {
+    "result": "pigment",
+    "reasoning": "Cobalt blue (CoAl2O4), one of history's most prized and stable pigments, forms when cobalt-bearing rocks weather under rain and oxidize, and was Vermeer's secret for the luminous blues in Girl with a Pearl Earring."
+  },
+  "coil+composting": {
     "result": "erosion",
-    "reasoning": "Cork + Earth = Erosion. Nature always wins. It just takes a while."
+    "reasoning": "coil + Composting = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+coral-reef": {
+    "result": "erosion",
+    "reasoning": "coil + Coral Reef = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+earthquake": {
+    "result": "erosion",
+    "reasoning": "coil + Earthquake = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+escarpment": {
+    "result": "erosion",
+    "reasoning": "coil + Escarpment = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+floodplain": {
+    "result": "erosion",
+    "reasoning": "coil + Floodplain = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+glacial-lake": {
+    "result": "erosion",
+    "reasoning": "coil + Glacial Lake = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+hot-spring": {
+    "result": "erosion",
+    "reasoning": "coil + Hot Spring = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+kelp-forest": {
+    "result": "erosion",
+    "reasoning": "coil + Kelp Forest = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+lava-field": {
+    "result": "erosion",
+    "reasoning": "coil + Lava Field = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+national-park": {
+    "result": "erosion",
+    "reasoning": "coil + National Park = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+nature-documentary": {
+    "result": "erosion",
+    "reasoning": "coil + Nature Documentary = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+phytoplankton-bloom": {
+    "result": "erosion",
+    "reasoning": "coil + Phytoplankton Bloom = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+rainforest": {
+    "result": "erosion",
+    "reasoning": "coil + Rainforest = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+rift-valley": {
+    "result": "erosion",
+    "reasoning": "coil + Rift Valley = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+sand-storm": {
+    "result": "erosion",
+    "reasoning": "coil + Sand Storm = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+stalactite": {
+    "result": "erosion",
+    "reasoning": "coil + Stalactite = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+stalagmite": {
+    "result": "erosion",
+    "reasoning": "coil + Stalagmite = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+thermal-pool": {
+    "result": "erosion",
+    "reasoning": "coil + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "coil + Thermal Vent = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+undergrowth": {
+    "result": "erosion",
+    "reasoning": "coil + Undergrowth = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+volcanic-island": {
+    "result": "erosion",
+    "reasoning": "coil + Volcanic Island = Erosion. Nature always wins. It just takes a while."
+  },
+  "coil+wilderness": {
+    "result": "erosion",
+    "reasoning": "coil + Wilderness = Erosion. Nature always wins. It just takes a while."
+  },
+  "cold+metal": {
+    "result": "superconductor",
+    "reasoning": "Here's the connection: Superconductivity is a set of physical properties observed in superconductors: materials where electrical resistance vanishes and magnetic fields are expelled from the material. So Cold + metal = Superconductor."
+  },
+  "cold+oil": {
+    "result": "viscosity",
+    "reasoning": "Cold oil shows increased Viscosity"
+  },
+  "concrete+drought": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. So when Concrete meets Drought, Avalanche is the natural outcome."
+  },
+  "concrete+dune": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That's the connection between Concrete and Dune — giving us Avalanche."
+  },
+  "concrete+earthquake": {
+    "result": "avalanche",
+    "reasoning": "Here's a real-world link: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. Combine Concrete with Earthquake and you get Avalanche."
+  },
+  "concrete+fire": {
+    "result": "avalanche",
+    "reasoning": "Wikipedia says: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That explains why Concrete + Fire = Avalanche."
+  },
+  "concrete+flood": {
+    "result": "avalanche",
+    "reasoning": "Wikipedia says: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That explains why Concrete + Flood = Avalanche."
+  },
+  "concrete+frost": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That's the connection between Concrete and Frost — giving us Avalanche."
+  },
+  "concrete+gravel": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Concrete and Gravel — giving us Bitumen."
+  },
+  "concrete+hail": {
+    "result": "avalanche",
+    "reasoning": "An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That's the connection between Concrete and Hail — giving us Avalanche."
+  },
+  "concrete+mud": {
+    "result": "brick",
+    "reasoning": "Wikipedia says: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That explains why Concrete + Mud = Brick."
+  },
+  "concrete+rain": {
+    "result": "flood",
+    "reasoning": "Impervious concrete and asphalt prevent rain from soaking into the ground, causing urban flash floods up to three times worse than the same rainfall on natural soil."
+  },
+  "concrete+snow": {
+    "result": "avalanche",
+    "reasoning": "Wikipedia says: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. That explains why Concrete + Snow = Avalanche."
+  },
+  "concrete+storm": {
+    "result": "avalanche",
+    "reasoning": "Here's a real-world link: An avalanche is a rapid flow of snow down a slope, such as a hill or mountain. Combine Concrete with Storm and you get Avalanche."
+  },
+  "continent+permafrost": {
+    "result": "biome",
+    "reasoning": "Wikipedia says: A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. That explains why continent + Permafrost = Biome."
+  },
+  "copper+land": {
+    "result": "barnacle",
+    "reasoning": "Barnacles are arthropods of the subclass Cirripedia in the subphylum Crustacea. So when Copper meets land, Barnacle is the natural outcome."
+  },
+  "copper+obsidian": {
+    "result": "alloy",
+    "reasoning": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. That's the connection between Copper and Obsidian — giving us Alloy."
+  },
+  "cork+delta": {
+    "result": "chat",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cork meets Delta to create Chat."
   },
   "cork+earthquake": {
     "result": "erosion",
     "reasoning": "Cork + Earthquake = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+energy": {
-    "result": "erosion",
-    "reasoning": "Cork + Energy = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+erosion": {
-    "result": "erosion",
-    "reasoning": "Cork + Erosion = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+eruption": {
-    "result": "erosion",
-    "reasoning": "Cork + Eruption = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+escarpment": {
     "result": "erosion",
     "reasoning": "Cork + Escarpment = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+evergreen": {
-    "result": "erosion",
-    "reasoning": "Cork + Evergreen = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+falls": {
-    "result": "erosion",
-    "reasoning": "Cork + Falls = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+fen": {
-    "result": "erosion",
-    "reasoning": "Cork + Fen = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+fire": {
-    "result": "erosion",
-    "reasoning": "Cork + Fire = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+fjord": {
-    "result": "erosion",
-    "reasoning": "Cork + Fjord = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+flood": {
-    "result": "erosion",
-    "reasoning": "Cork + Flood = Erosion. Nature always wins. It just takes a while."
   },
   "cork+floodplain": {
     "result": "erosion",
     "reasoning": "Cork + Floodplain = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+fog": {
-    "result": "erosion",
-    "reasoning": "Cork + Fog = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+geyser": {
-    "result": "erosion",
-    "reasoning": "Cork + Geyser = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+glacial-lake": {
     "result": "erosion",
     "reasoning": "Cork + Glacial Lake = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+glacier": {
-    "result": "erosion",
-    "reasoning": "Cork + Glacier = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+gravel": {
-    "result": "erosion",
-    "reasoning": "Cork + Gravel = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+grotto": {
-    "result": "erosion",
-    "reasoning": "Cork + Grotto = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+grove": {
-    "result": "erosion",
-    "reasoning": "Cork + Grove = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+gulf": {
-    "result": "erosion",
-    "reasoning": "Cork + Gulf = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+habitat": {
-    "result": "erosion",
-    "reasoning": "Cork + Habitat = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+hail": {
-    "result": "erosion",
-    "reasoning": "Cork + Hail = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+heat": {
-    "result": "erosion",
-    "reasoning": "Cork + Heat = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+heath": {
-    "result": "erosion",
-    "reasoning": "Cork + Heath = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+hill": {
-    "result": "erosion",
-    "reasoning": "Cork + hill = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+hoodoo": {
-    "result": "erosion",
-    "reasoning": "Cork + Hoodoo = Erosion. Nature always wins. It just takes a while."
+    "result": "chili",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cork meets Grove to create Chili."
   },
   "cork+hot-spring": {
     "result": "erosion",
     "reasoning": "Cork + Hot Spring = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+hurricane": {
-    "result": "erosion",
-    "reasoning": "Cork + Hurricane = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+ice": {
-    "result": "erosion",
-    "reasoning": "Cork + Ice = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+iceberg": {
-    "result": "erosion",
-    "reasoning": "Cork + Iceberg = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+island": {
-    "result": "erosion",
-    "reasoning": "Cork + Island = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+isthmus": {
-    "result": "erosion",
-    "reasoning": "Cork + Isthmus = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+karst": {
-    "result": "erosion",
-    "reasoning": "Cork + Karst = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+kelp-forest": {
     "result": "erosion",
     "reasoning": "Cork + Kelp Forest = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+lagoon": {
-    "result": "erosion",
-    "reasoning": "Cork + Lagoon = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+lake": {
-    "result": "erosion",
-    "reasoning": "Cork + Lake = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+landslide": {
-    "result": "erosion",
-    "reasoning": "Cork + Landslide = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+lava": {
-    "result": "erosion",
-    "reasoning": "Cork + Lava = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+lava-field": {
     "result": "erosion",
     "reasoning": "Cork + Lava Field = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+lichen": {
-    "result": "erosion",
-    "reasoning": "Cork + Lichen = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+lightning": {
-    "result": "erosion",
-    "reasoning": "Cork + Lightning = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+maelstrom": {
-    "result": "erosion",
-    "reasoning": "Cork + Maelstrom = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mangrove": {
-    "result": "erosion",
-    "reasoning": "Cork + Mangrove = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mesa": {
-    "result": "erosion",
-    "reasoning": "Cork + Mesa = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mist": {
-    "result": "erosion",
-    "reasoning": "Cork + Mist = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+moraine": {
-    "result": "erosion",
-    "reasoning": "Cork + Moraine = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mountain": {
-    "result": "erosion",
-    "reasoning": "Cork + mountain = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mud": {
-    "result": "erosion",
-    "reasoning": "Cork + Mud = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+mudslide": {
-    "result": "erosion",
-    "reasoning": "Cork + Mudslide = Erosion. Nature always wins. It just takes a while."
   },
   "cork+national-park": {
     "result": "erosion",
@@ -207,117 +303,21 @@
     "result": "erosion",
     "reasoning": "Cork + Nature Documentary = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+oasis": {
-    "result": "erosion",
-    "reasoning": "Cork + Oasis = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+obsidian": {
-    "result": "erosion",
-    "reasoning": "Cork + Obsidian = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+ocean": {
-    "result": "erosion",
-    "reasoning": "Cork + ocean = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+peat": {
-    "result": "erosion",
-    "reasoning": "Cork + Peat = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+peninsula": {
-    "result": "erosion",
-    "reasoning": "Cork + Peninsula = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+phytoplankton-bloom": {
     "result": "erosion",
     "reasoning": "Cork + Phytoplankton Bloom = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+plateau": {
-    "result": "erosion",
-    "reasoning": "Cork + Plateau = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+prairie": {
-    "result": "erosion",
-    "reasoning": "Cork + Prairie = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+pressure": {
-    "result": "erosion",
-    "reasoning": "Cork + Pressure = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+puddle": {
-    "result": "erosion",
-    "reasoning": "Cork + Puddle = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+quicksand": {
-    "result": "erosion",
-    "reasoning": "Cork + Quicksand = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+rain": {
-    "result": "erosion",
-    "reasoning": "Cork + Rain = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+rainbow": {
-    "result": "erosion",
-    "reasoning": "Cork + Rainbow = Erosion. Nature always wins. It just takes a while."
   },
   "cork+rainforest": {
     "result": "erosion",
     "reasoning": "Cork + Rainforest = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+rapids": {
-    "result": "erosion",
-    "reasoning": "Cork + Rapids = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+reef": {
-    "result": "erosion",
-    "reasoning": "Cork + Reef = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+ridge": {
-    "result": "erosion",
-    "reasoning": "Cork + Ridge = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+rift-valley": {
     "result": "erosion",
     "reasoning": "Cork + Rift Valley = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+river": {
-    "result": "erosion",
-    "reasoning": "Cork + River = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+salt-flat": {
-    "result": "erosion",
-    "reasoning": "Cork + Salt Flat = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+sand": {
-    "result": "erosion",
-    "reasoning": "Cork + Sand = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+sand-storm": {
     "result": "erosion",
     "reasoning": "Cork + Sand Storm = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+scrubland": {
-    "result": "erosion",
-    "reasoning": "Cork + Scrubland = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+sea-cave": {
-    "result": "erosion",
-    "reasoning": "Cork + Sea Cave = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+sea-stack": {
-    "result": "erosion",
-    "reasoning": "Cork + Sea Stack = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+sinkhole": {
-    "result": "erosion",
-    "reasoning": "Cork + Sinkhole = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+smoke": {
-    "result": "erosion",
-    "reasoning": "Cork + Smoke = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+snow": {
-    "result": "erosion",
-    "reasoning": "Cork + Snow = Erosion. Nature always wins. It just takes a while."
   },
   "cork+stalactite": {
     "result": "erosion",
@@ -327,30 +327,6 @@
     "result": "erosion",
     "reasoning": "Cork + Stalagmite = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+steppe": {
-    "result": "erosion",
-    "reasoning": "Cork + Steppe = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+stone": {
-    "result": "erosion",
-    "reasoning": "Cork + Stone = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+strait": {
-    "result": "erosion",
-    "reasoning": "Cork + Strait = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+stream": {
-    "result": "erosion",
-    "reasoning": "Cork + stream = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+swamp": {
-    "result": "erosion",
-    "reasoning": "Cork + Swamp = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+taiga": {
-    "result": "erosion",
-    "reasoning": "Cork + Taiga = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+thermal-pool": {
     "result": "erosion",
     "reasoning": "Cork + Thermal Pool = Erosion. Nature always wins. It just takes a while."
@@ -359,105 +335,29 @@
     "result": "erosion",
     "reasoning": "Cork + Thermal Vent = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+thicket": {
-    "result": "erosion",
-    "reasoning": "Cork + Thicket = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+thunder": {
-    "result": "erosion",
-    "reasoning": "Cork + Thunder = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tide": {
-    "result": "erosion",
-    "reasoning": "Cork + Tide = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tide-pool": {
-    "result": "erosion",
-    "reasoning": "Cork + Tide Pool = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tornado": {
-    "result": "erosion",
-    "reasoning": "Cork + Tornado = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tributary": {
-    "result": "erosion",
-    "reasoning": "Cork + Tributary = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tsunami": {
-    "result": "erosion",
-    "reasoning": "Cork + Tsunami = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+tundra": {
-    "result": "erosion",
-    "reasoning": "Cork + Tundra = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+undergrowth": {
     "result": "erosion",
     "reasoning": "Cork + Undergrowth = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+valley": {
-    "result": "erosion",
-    "reasoning": "Cork + Valley = Erosion. Nature always wins. It just takes a while."
   },
   "cork+volcanic-island": {
     "result": "erosion",
     "reasoning": "Cork + Volcanic Island = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+volcano": {
-    "result": "erosion",
-    "reasoning": "Cork + Volcano = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+waterfall": {
-    "result": "erosion",
-    "reasoning": "Cork + Waterfall = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+weather": {
-    "result": "erosion",
-    "reasoning": "Cork + weather = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+wetland": {
-    "result": "erosion",
-    "reasoning": "Cork + Wetland = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+whirlpool": {
-    "result": "erosion",
-    "reasoning": "Cork + Whirlpool = Erosion. Nature always wins. It just takes a while."
-  },
   "cork+wilderness": {
     "result": "erosion",
     "reasoning": "Cork + Wilderness = Erosion. Nature always wins. It just takes a while."
   },
-  "cork+wildfire": {
-    "result": "erosion",
-    "reasoning": "Cork + Wildfire = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+wildlife": {
-    "result": "erosion",
-    "reasoning": "Cork + Wildlife = Erosion. Nature always wins. It just takes a while."
-  },
-  "cork+wind": {
-    "result": "erosion",
-    "reasoning": "Cork + Wind = Erosion. Nature always wins. It just takes a while."
+  "crater+pumice": {
+    "result": "caldera",
+    "reasoning": "A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. So when Crater meets Pumice, Caldera is the natural outcome."
   },
   "creek+galvanized-steel": {
     "result": "rust",
     "reasoning": "Creek oxidizes Galvanized Steel — the slow destruction of Rust."
   },
-  "creek+gold": {
-    "result": "rust",
-    "reasoning": "Creek oxidizes Gold — the slow destruction of Rust."
-  },
   "creek+ingot": {
     "result": "rust",
     "reasoning": "Creek oxidizes Ingot — the slow destruction of Rust."
-  },
-  "creek+iron": {
-    "result": "rust",
-    "reasoning": "Creek oxidizes Iron — the slow destruction of Rust."
-  },
-  "creek+lead": {
-    "result": "rust",
-    "reasoning": "Creek oxidizes Lead — the slow destruction of Rust."
   },
   "creek+limestone": {
     "result": "mud",
@@ -495,10 +395,6 @@
     "result": "rust",
     "reasoning": "Creek oxidizes Steel — the slow destruction of Rust."
   },
-  "creek+tin": {
-    "result": "rust",
-    "reasoning": "Creek oxidizes Tin — the slow destruction of Rust."
-  },
   "creek+titanium": {
     "result": "rust",
     "reasoning": "Creek oxidizes Titanium — the slow destruction of Rust."
@@ -507,17 +403,61 @@
     "result": "rust",
     "reasoning": "Creek oxidizes Tungsten — the slow destruction of Rust."
   },
-  "creek+zinc": {
-    "result": "rust",
-    "reasoning": "Creek oxidizes Zinc — the slow destruction of Rust."
-  },
   "crystal+heat": {
     "result": "gem",
     "reasoning": "Processing Crystal with Heat yields Gem"
   },
+  "crystal+mud": {
+    "result": "chocolate",
+    "reasoning": "Wikipedia says: Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. That explains why Crystal + Mud = Chocolate."
+  },
   "crystal+pressure": {
     "result": "diamond",
     "reasoning": "Processing Crystal with Pressure yields Diamond"
+  },
+  "crystal+weather": {
+    "result": "chaos-theory",
+    "reasoning": "Chaos theory is an interdisciplinary area of scientific study and branch of mathematics. So when Crystal meets weather, Chaos Theory is the natural outcome."
+  },
+  "desert+permafrost": {
+    "result": "biomass",
+    "reasoning": "Biomass is material produced by the growth of microorganisms, plants or animals. So when Desert meets Permafrost, Biomass is the natural outcome."
+  },
+  "dew+lacquer": {
+    "result": "evaporation",
+    "reasoning": "Dew and Lacquer share a deep connection. Evaporation is a type of vaporization that occurs on the surface of a liquid as it changes into the gas phase. Result: Evaporation."
+  },
+  "dew+metal": {
+    "result": "rust",
+    "reasoning": "Morning dew is one of the most persistent causes of metal corrosion in temperate climates, as the thin electrolyte film of condensed water enables the electrochemical reaction between iron, oxygen, and water that produces rust overnight."
+  },
+  "diamond+ice": {
+    "result": "cellophane",
+    "reasoning": "Here's a real-world link: Cellophane is a thin, transparent sheet made of regenerated cellulose. Combine Diamond with Ice and you get Cellophane."
+  },
+  "diamond+lava": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Diamond + Lava = Basalt."
+  },
+  "diamond+obsidian": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Diamond and Obsidian — giving us Brass."
+  },
+  "diamond+water": {
+    "result": "cellophane",
+    "reasoning": "Here's a real-world link: Cellophane is a thin, transparent sheet made of regenerated cellulose. Combine Diamond with Water and you get Cellophane."
+  },
+  "drumlin+foam": {
+    "result": "dune",
+    "reasoning": "A dune is a landform composed of wind- or water-driven sand. So when Drumlin meets Foam, Dune is the natural outcome."
+  },
+  "drumlin+gold": {
+    "result": "miner",
+    "reasoning": "Gold prospectors learned to follow glacial drumlins, knowing that retreating glaciers transported placer gold nuggets far downstream from their source veins — a technique used in the Klondike Gold Rush."
+  },
+  "drumlin+sandstone": {
+    "result": "boulder",
+    "reasoning": "Here's a real-world link: In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Combine Drumlin with Sandstone and you get Boulder."
   },
   "dry-ice+flood": {
     "result": "ice",
@@ -535,17 +475,9 @@
     "result": "ice",
     "reasoning": "Dry Ice freezes Lagoon into Ice — water's solid form."
   },
-  "dry-ice+lake": {
-    "result": "ice",
-    "reasoning": "Dry Ice freezes Lake into Ice — water's solid form."
-  },
   "dry-ice+ocean": {
     "result": "ice",
     "reasoning": "Dry Ice freezes ocean into Ice — water's solid form."
-  },
-  "dry-ice+rain": {
-    "result": "ice",
-    "reasoning": "Dry Ice freezes Rain into Ice — water's solid form."
   },
   "dry-ice+river": {
     "result": "ice",
@@ -567,10 +499,6 @@
     "result": "ice",
     "reasoning": "Dry Ice freezes Swamp into Ice — water's solid form."
   },
-  "dry-ice+tide": {
-    "result": "ice",
-    "reasoning": "Dry Ice freezes Tide into Ice — water's solid form."
-  },
   "dry-ice+tide-pool": {
     "result": "ice",
     "reasoning": "Dry Ice freezes Tide Pool into Ice — water's solid form."
@@ -583,6 +511,30 @@
     "result": "ice",
     "reasoning": "Dry Ice freezes Waterfall into Ice — water's solid form."
   },
+  "dust+felt": {
+    "result": "carpet",
+    "reasoning": "The science is clear — A carpet or rug is a textile floor covering that typically consists of an upper layer of pile attached to a backing. Mix Dust and Felt for Carpet."
+  },
+  "dust+fiber": {
+    "result": "clothing",
+    "reasoning": "Clothing is any item worn on a human body. So when Dust meets fiber, Clothing is the natural outcome."
+  },
+  "dust+lens": {
+    "result": "comet",
+    "reasoning": "The science is clear — A comet is an icy, small Solar System body or interstellar object that warms and begins to release gases when passing close to the Sun, a process called outgassing. Mix Dust and Lens for Comet."
+  },
+  "dye+sand": {
+    "result": "mosaic",
+    "reasoning": "Tibetan Buddhist monks spend weeks meticulously pouring dyed sand grain by grain to create intricate mandalas, only to ritually sweep them away upon completion—one of art history's most deliberate acts of destruction, symbolizing the impermanence of all things."
+  },
+  "dye+smoke": {
+    "result": "copper",
+    "reasoning": "Dye and Smoke share a deep connection. Copper is a chemical element; it has symbol Cu and atomic number 29. Result: Copper."
+  },
+  "earth+iron": {
+    "result": "asteroid",
+    "reasoning": "An asteroid is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—that orbits within the inner Solar System or is co-orbital with Jupiter. So when Earth meets Iron, Asteroid is the natural outcome."
+  },
   "earth+magma": {
     "result": "volcano",
     "reasoning": "Magma forces its way through the earth forming a volcano"
@@ -591,17 +543,101 @@
     "result": "lead",
     "reasoning": "Processing Earth with metal yields Lead"
   },
+  "earth+pewter": {
+    "result": "mineral",
+    "reasoning": "Pewter's primary component, tin, is smelted from cassiterite, a mineral ore extracted from the earth that ancient civilizations mined as early as 3000 BCE."
+  },
   "energy+metal": {
     "result": "wire",
     "reasoning": "Processing Energy with metal yields Wire"
   },
+  "energy+mineral": {
+    "result": "biodiversity",
+    "reasoning": "Here's a real-world link: Biodiversity is the variability of life on Earth. Combine Energy with Mineral and you get Biodiversity."
+  },
   "energy+petroleum": {
     "result": "fossil-fuel",
-    "reasoning": "Energy and Petroleum explain the phenomenon of Fossil Fuel"
+    "reasoning": "Did you know? A fossil fuel is a flammable carbon compound- or hydrocarbon-containing material formed naturally in the Earth's crust from the buried remains of prehistoric organisms, a process that occurs within geological formations. That's why Energy + Petroleum = Fossil Fuel."
   },
   "energy+rubber": {
     "result": "elasticity",
     "reasoning": "Rubber resisting force demonstrates Elasticity"
+  },
+  "epoxy+gravel": {
+    "result": "concrete",
+    "reasoning": "The science is clear — Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Mix Epoxy and Gravel for Concrete."
+  },
+  "epoxy+heat": {
+    "result": "glass",
+    "reasoning": "The science is clear — Glass is an amorphous (non-crystalline) solid. Mix Epoxy and Heat for Glass."
+  },
+  "epoxy+mud": {
+    "result": "concrete",
+    "reasoning": "Wikipedia says: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. That explains why Epoxy + Mud = Concrete."
+  },
+  "erosion+flint": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Erosion meets Flint, Chalk is the natural outcome."
+  },
+  "erosion+granite": {
+    "result": "chalk",
+    "reasoning": "Wikipedia says: Chalk is a soft, white, porous, sedimentary carbonate rock. That explains why Erosion + Granite = Chalk."
+  },
+  "erosion+limestone": {
+    "result": "chalk",
+    "reasoning": "The science is clear — Chalk is a soft, white, porous, sedimentary carbonate rock. Mix Erosion and Limestone for Chalk."
+  },
+  "erosion+marble": {
+    "result": "chalk",
+    "reasoning": "Here's a real-world link: Chalk is a soft, white, porous, sedimentary carbonate rock. Combine Erosion with Marble and you get Chalk."
+  },
+  "erosion+plaster": {
+    "result": "chalk",
+    "reasoning": "The science is clear — Chalk is a soft, white, porous, sedimentary carbonate rock. Mix Erosion and Plaster for Chalk."
+  },
+  "erosion+pumice": {
+    "result": "chalk",
+    "reasoning": "The science is clear — Chalk is a soft, white, porous, sedimentary carbonate rock. Mix Erosion and Pumice for Chalk."
+  },
+  "erosion+sandstone": {
+    "result": "boulder",
+    "reasoning": "In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. So when Erosion meets Sandstone, Boulder is the natural outcome."
+  },
+  "erosion+shale": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Erosion meets Shale, Chalk is the natural outcome."
+  },
+  "erosion+slate": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Erosion meets Slate, Chalk is the natural outcome."
+  },
+  "estuary+fossil": {
+    "result": "biofilm",
+    "reasoning": "The science is clear — A biofilm is a syntrophic community of microorganisms in which cells stick to each other and often also to a surface. Mix Estuary and Fossil for Biofilm."
+  },
+  "estuary+permafrost": {
+    "result": "biome",
+    "reasoning": "A biome is a distinct geographical region with specific climate, vegetation, animal life, and an ecosystem. That's the connection between Estuary and Permafrost — giving us Biome."
+  },
+  "estuary+sandstone": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. That's the connection between Estuary and Sandstone — giving us Beach."
+  },
+  "evergreen+fiber": {
+    "result": "coconut",
+    "reasoning": "The science is clear — The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. Mix Evergreen and fiber for Coconut."
+  },
+  "evergreen+lacquer": {
+    "result": "coconut",
+    "reasoning": "Evergreen and Lacquer share a deep connection. The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. Result: Coconut."
+  },
+  "evergreen+taxidermy": {
+    "result": "botany",
+    "reasoning": "The science is clear — Botany, also called phytology or plant science, is the branch of natural science and biology that studies plants, especially their anatomy, taxonomy, and ecology. Mix Evergreen and Taxidermy for Botany."
+  },
+  "evergreen+wax": {
+    "result": "coconut",
+    "reasoning": "The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. That's the connection between Evergreen and wax — giving us Coconut."
   },
   "fabric+fire": {
     "result": "hot-air-balloon",
@@ -615,6 +651,38 @@
     "result": "sail",
     "reasoning": "Processing Fabric with Wind yields Sail"
   },
+  "fen+permafrost": {
+    "result": "bog",
+    "reasoning": "A bog or bogland is a wetland that accumulates peat as a deposit of dead plant materials – often mosses, typically sphagnum moss. That's the connection between Fen and Permafrost — giving us Bog."
+  },
+  "fen+soil": {
+    "result": "compost",
+    "reasoning": "The science is clear — Compost is a mixture of ingredients used as plant fertilizer and to improve soil's physical, chemical, and biological properties. Mix Fen and Soil for Compost."
+  },
+  "fiber+island": {
+    "result": "coconut",
+    "reasoning": "Here's a real-world link: The coconut is a member of the palm family (Arecaceae) and the only living species of the genus Cocos. Combine fiber with Island and you get Coconut."
+  },
+  "fiberglass+heat": {
+    "result": "glass",
+    "reasoning": "Glass is an amorphous (non-crystalline) solid. So when Fiberglass meets Heat, Glass is the natural outcome."
+  },
+  "fiberglass+iceberg": {
+    "result": "density",
+    "reasoning": "Here's a real-world link: Density is the ratio of a substance's mass to its volume. Combine Fiberglass with Iceberg and you get Density."
+  },
+  "fiberglass+puddle": {
+    "result": "boat",
+    "reasoning": "The science is clear — A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. Mix Fiberglass and Puddle for Boat."
+  },
+  "fire+flint": {
+    "result": "coal",
+    "reasoning": "Wikipedia says: Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. That explains why Fire + Flint = Coal."
+  },
+  "fire+fullerene": {
+    "result": "charcoal",
+    "reasoning": "Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. That's the connection between Fire and Fullerene — giving us Charcoal."
+  },
   "fire+galvanized-steel": {
     "result": "ingot",
     "reasoning": "Smelting Galvanized Steel with Fire creates an Ingot — the foundation of metallurgy."
@@ -623,45 +691,45 @@
     "result": "lamp",
     "reasoning": "Fire enclosed in glass — a lamp"
   },
-  "fire+gold": {
-    "result": "ingot",
-    "reasoning": "Smelting Gold with Fire creates an Ingot — the foundation of metallurgy."
+  "fire+graphite": {
+    "result": "coal",
+    "reasoning": "Coal is a combustible black or brownish-black sedimentary rock, formed as layers called coal seams. So when Fire meets Graphite, Coal is the natural outcome."
   },
-  "fire+ingot": {
-    "result": "alloy",
-    "reasoning": "Intense Fire fuses Ingot into an Alloy."
+  "fire+gunpowder": {
+    "result": "charcoal",
+    "reasoning": "Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. So when Fire meets Gunpowder, Charcoal is the natural outcome."
   },
   "fire+iron": {
     "result": "forging",
     "reasoning": "Fire and iron come together in Forging"
   },
-  "fire+lead": {
-    "result": "ingot",
-    "reasoning": "Smelting Lead with Fire creates an Ingot — the foundation of metallurgy."
+  "fire+kaolin": {
+    "result": "porcelain",
+    "reasoning": "True porcelain requires firing kaolin clay at over 1,260°C — temperatures European potters couldn't achieve for centuries — keeping Chinese porcelain a mysterious 'white gold' that inspired obsessive attempts at replication across medieval Europe."
+  },
+  "fire+latex": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Fire with Latex and you get Charcoal."
   },
   "fire+limestone": {
     "result": "lava",
     "reasoning": "Fire melts Limestone into flowing Lava."
   },
-  "fire+marble": {
-    "result": "lava",
-    "reasoning": "Fire melts Marble into flowing Lava."
-  },
   "fire+metal": {
     "result": "gun",
     "reasoning": "An intense fire within metal — a furnace"
-  },
-  "fire+mineral": {
-    "result": "lava",
-    "reasoning": "Fire melts Mineral into flowing Lava."
   },
   "fire+mirror": {
     "result": "lens",
     "reasoning": "Shaping heated Mirror creates a Lens — focusing light since ancient Rome."
   },
-  "fire+nickel": {
-    "result": "ingot",
-    "reasoning": "Smelting Nickel with Fire creates an Ingot — the foundation of metallurgy."
+  "fire+nail": {
+    "result": "blacksmith",
+    "reasoning": "Roman blacksmiths heated iron nails to glowing orange before hammering them into shape, and withdrawing legions sometimes burned entire forts just to sift the ashes for salvageable melted nails — so valuable was the iron."
+  },
+  "fire+oil": {
+    "result": "combustion",
+    "reasoning": "Fire and Oil share a deep connection. Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. Result: Combustion."
   },
   "fire+plank": {
     "result": "charcoal",
@@ -671,25 +739,25 @@
     "result": "ingot",
     "reasoning": "Smelting Platinum with Fire creates an Ingot — the foundation of metallurgy."
   },
+  "fire+plywood": {
+    "result": "charcoal",
+    "reasoning": "Fire and Plywood share a deep connection. Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Result: Charcoal."
+  },
   "fire+prism": {
     "result": "lens",
     "reasoning": "Shaping heated Prism creates a Lens — focusing light since ancient Rome."
   },
-  "fire+silver": {
-    "result": "ingot",
-    "reasoning": "Smelting Silver with Fire creates an Ingot — the foundation of metallurgy."
-  },
-  "fire+soil": {
-    "result": "lava",
-    "reasoning": "Fire melts Soil into flowing Lava."
+  "fire+soap": {
+    "result": "catalyst",
+    "reasoning": "Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. So when Fire meets Soap, Catalyst is the natural outcome."
   },
   "fire+steel": {
     "result": "welding",
     "reasoning": "Fire joining steel pieces is Welding"
   },
-  "fire+tin": {
-    "result": "ingot",
-    "reasoning": "Smelting Tin with Fire creates an Ingot — the foundation of metallurgy."
+  "fire+tar": {
+    "result": "charcoal",
+    "reasoning": "Fire and Tar share a deep connection. Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Result: Charcoal."
   },
   "fire+titanium": {
     "result": "ingot",
@@ -703,29 +771,53 @@
     "result": "candle",
     "reasoning": "A wick in wax, lit by fire — a candle"
   },
-  "fire+zinc": {
-    "result": "ingot",
-    "reasoning": "Smelting Zinc with Fire creates an Ingot — the foundation of metallurgy."
+  "fjord+sandstone": {
+    "result": "boulder",
+    "reasoning": "The science is clear — In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. Mix Fjord and Sandstone for Boulder."
+  },
+  "flint+gravel": {
+    "result": "pebble",
+    "reasoning": "Wikipedia says: A pebble is a clast of rock with a particle size of 4–64 mm (0.16–2.52 in) based on the Udden-Wentworth scale of sedimentology. That explains why Flint + Gravel = Pebble."
+  },
+  "flint+karst": {
+    "result": "chalk",
+    "reasoning": "Chalk is a soft, white, porous, sedimentary carbonate rock. So when Flint meets Karst, Chalk is the natural outcome."
+  },
+  "flint+lava": {
+    "result": "basalt",
+    "reasoning": "Here's a real-world link: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. Combine Flint with Lava and you get Basalt."
+  },
+  "flint+mud": {
+    "result": "ceramic",
+    "reasoning": "The science is clear — A ceramic is any of the various hard, brittle, heat-resistant, and corrosion-resistant materials made by shaping and then firing an inorganic, nonmetallic material, such as clay, at a high temperature. Mix Flint and Mud for Ceramic."
+  },
+  "flint+obsidian": {
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. So when Flint meets Obsidian, Amber is the natural outcome."
+  },
+  "flint+pebble": {
+    "result": "gravel",
+    "reasoning": "Wikipedia says: Gravel is a loose aggregation of rock fragments. That explains why Flint + Pebble = Gravel."
+  },
+  "flint+sand": {
+    "result": "brick",
+    "reasoning": "The science is clear — A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. Mix Flint and Sand for Brick."
+  },
+  "flint+smoke": {
+    "result": "combustion",
+    "reasoning": "Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That's the connection between Flint and Smoke — giving us Combustion."
+  },
+  "flint+volcano": {
+    "result": "beach",
+    "reasoning": "Here's a real-world link: A beach is a landform alongside a body of water which consists of loose particles. Combine Flint with Volcano and you get Beach."
   },
   "flood+galvanized-steel": {
     "result": "rust",
     "reasoning": "Flood oxidizes Galvanized Steel — the slow destruction of Rust."
   },
-  "flood+gold": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Gold — the slow destruction of Rust."
-  },
   "flood+ingot": {
     "result": "rust",
     "reasoning": "Flood oxidizes Ingot — the slow destruction of Rust."
-  },
-  "flood+iron": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Iron — the slow destruction of Rust."
-  },
-  "flood+lead": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Lead — the slow destruction of Rust."
   },
   "flood+limestone": {
     "result": "mud",
@@ -763,10 +855,6 @@
     "result": "rust",
     "reasoning": "Flood oxidizes Steel — the slow destruction of Rust."
   },
-  "flood+tin": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Tin — the slow destruction of Rust."
-  },
   "flood+titanium": {
     "result": "rust",
     "reasoning": "Flood oxidizes Titanium — the slow destruction of Rust."
@@ -775,108 +863,20 @@
     "result": "rust",
     "reasoning": "Flood oxidizes Tungsten — the slow destruction of Rust."
   },
-  "flood+zinc": {
-    "result": "rust",
-    "reasoning": "Flood oxidizes Zinc — the slow destruction of Rust."
+  "floodplain+foam": {
+    "result": "dune",
+    "reasoning": "The science is clear — A dune is a landform composed of wind- or water-driven sand. Mix Floodplain and Foam for Dune."
   },
-  "fossil+heat": {
-    "result": "natural-gas",
-    "reasoning": "Processing Fossil with Heat yields Natural Gas"
+  "foam+iceberg": {
+    "result": "density",
+    "reasoning": "Density is the ratio of a substance's mass to its volume. So when Foam meets Iceberg, Density is the natural outcome."
   },
-  "fossil+pressure": {
-    "result": "petroleum",
-    "reasoning": "Processing Fossil with Pressure yields Petroleum"
+  "foam+lightning": {
+    "result": "buoyancy",
+    "reasoning": "Buoyancy, or upthrust, is the force exerted by a fluid opposing the weight of a partially or fully immersed object. That's the connection between Foam and Lightning — giving us Buoyancy."
   },
-  "gel+heat": {
-    "result": "teflon",
-    "reasoning": "Combine Heat with Gel to create Teflon."
-  },
-  "glacial-lake+gold": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Gold — the slow destruction of Rust."
-  },
-  "glacial-lake+ingot": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Ingot — the slow destruction of Rust."
-  },
-  "glacial-lake+iron": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Iron — the slow destruction of Rust."
-  },
-  "glacial-lake+lead": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Lead — the slow destruction of Rust."
-  },
-  "glacial-lake+limestone": {
-    "result": "mud",
-    "reasoning": "Glacial Lake + Limestone = Mud — simple, squishy, essential."
-  },
-  "glacial-lake+marble": {
-    "result": "mud",
-    "reasoning": "Glacial Lake + Marble = Mud — simple, squishy, essential."
-  },
-  "glacial-lake+metal": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes metal — the slow destruction of Rust."
-  },
-  "glacial-lake+mineral": {
-    "result": "mud",
-    "reasoning": "Glacial Lake + Mineral = Mud — simple, squishy, essential."
-  },
-  "glacial-lake+nickel": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Nickel — the slow destruction of Rust."
-  },
-  "glacial-lake+platinum": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Platinum — the slow destruction of Rust."
-  },
-  "glacial-lake+silver": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Silver — the slow destruction of Rust."
-  },
-  "glacial-lake+soil": {
-    "result": "mud",
-    "reasoning": "Glacial Lake + Soil = Mud — simple, squishy, essential."
-  },
-  "glacial-lake+steel": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Steel — the slow destruction of Rust."
-  },
-  "glacial-lake+tin": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Tin — the slow destruction of Rust."
-  },
-  "glacial-lake+titanium": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Titanium — the slow destruction of Rust."
-  },
-  "glacial-lake+tungsten": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Tungsten — the slow destruction of Rust."
-  },
-  "glacial-lake+zinc": {
-    "result": "rust",
-    "reasoning": "Glacial Lake oxidizes Zinc — the slow destruction of Rust."
-  },
-  "glass+ocean": {
-    "result": "aquarium",
-    "reasoning": "Glass and ocean create Aquarium"
-  },
-  "glass+pressure": {
-    "result": "fragility",
-    "reasoning": "Glass under pressure shows Fragility"
-  },
-  "glass+rainbow": {
-    "result": "prism",
-    "reasoning": "Processing Glass with Rainbow yields Prism"
-  },
-  "gold+ocean": {
-    "result": "pirate-captain",
-    "reasoning": "Treasure hunting across the ocean — a Pirate Captain"
-  },
-  "gold+rainbow": {
-    "result": "leprechaun",
-    "reasoning": "Combine Gold with Rainbow to create Leprechaun."
+  "foam+moraine": {
+    "result": "dune",
+    "reasoning": "Here's a real-world link: A dune is a landform composed of wind- or water-driven sand. Combine Foam with Moraine and you get Dune."
   }
 }

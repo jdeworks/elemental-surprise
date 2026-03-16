@@ -1,179 +1,23 @@
 {
-  "key+metal": {
-    "result": "lock",
-    "reasoning": "Crafting key with metal produces Lock"
+  "mallet+plywood": {
+    "result": "axe",
+    "reasoning": "Mallet and Plywood share a deep connection. An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Result: Axe."
   },
-  "knife+lead": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+linen": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+metal": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+nickel": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+platinum": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+silk": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+silver": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+steel": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+thread": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+tin": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+titanium": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+tungsten": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "knife+velvet": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+wool": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+yarn": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "knife+zinc": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+pick": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+pliers": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+rake": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+saw": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+scissors": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+shovel": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+socket-wrench": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+soldering-iron": {
-    "result": "alloy",
-    "reasoning": "Combining Lead with Soldering Iron creates an Alloy — stronger than either alone."
-  },
-  "lead+swiss-army-knife": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lead+wrench": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
-  "lever+metal": {
-    "result": "crowbar",
-    "reasoning": "Combine Lever with Metal to create Crowbar."
-  },
-  "linen+pick": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+pliers": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+rake": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+saw": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+scissors": {
-    "result": "clothing",
-    "reasoning": "Linen cut and sewn into summer Clothing"
-  },
-  "linen+shovel": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+socket-wrench": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+swiss-army-knife": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "linen+wrench": {
-    "result": "clothing",
-    "reasoning": "Fabric plus tools equals Clothing, covering humanity for 100,000 years"
-  },
-  "lock+metal": {
-    "result": "manacle",
-    "reasoning": "Combine Lock with Metal to create Manacle."
-  },
-  "loom+thread": {
-    "result": "spindle",
-    "reasoning": "Combine Thread with Loom to create Spindle."
-  },
-  "machine+paper": {
-    "result": "press",
-    "reasoning": "Applying machine to Paper produces press"
-  },
-  "magma+magnifying-glass": {
-    "result": "lens",
-    "reasoning": "Shaping heated Magnifying Glass creates a Lens — focusing light since ancient Rome."
-  },
-  "magma+soldering-iron": {
-    "result": "ingot",
-    "reasoning": "Smelting Soldering Iron with Magma creates an Ingot — the foundation of metallurgy."
-  },
-  "magma+spring": {
-    "result": "steam",
-    "reasoning": "Magma turns Spring to Steam — the force that powered the Industrial Revolution."
+  "mallet+steel": {
+    "result": "bellows",
+    "reasoning": "Wikipedia says: Bellows are a device constructed to expel a controlled blast of air. That explains why Mallet + Steel = Bellows."
   },
   "mallet+thread": {
     "result": "spindle",
-    "reasoning": "Combine Thread with Mallet to create Spindle."
+    "reasoning": "A mallet is a tool used for imparting force on another object, often made of rubber or sometimes wood, that is smaller than a maul or beetle, and usually has a relatively large head. Combine Mallet with Thread and you naturally get Spindle."
+  },
+  "mallet+varnish": {
+    "result": "axe",
+    "reasoning": "Wikipedia says: An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. That explains why Mallet + Varnish = Axe."
+  },
+  "marble+sword": {
+    "result": "baroque",
+    "reasoning": "Marble and Sword share a deep connection. The Baroque is a Western style of architecture, music, dance, painting, sculpture, poetry, and other arts that flourished from the early 17th century until the 1750s. Result: Baroque."
   },
   "marble+tool": {
     "result": "sculpting",
@@ -181,63 +25,51 @@
   },
   "metal+padlock": {
     "result": "rivet",
-    "reasoning": "Combine Metal with Padlock to create Rivet."
-  },
-  "metal+pick": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+    "reasoning": "Here's the connection: A rivet is a permanent mechanical fastener. So metal + Padlock = Rivet."
   },
   "metal+pliers": {
     "result": "rivet",
-    "reasoning": "Combine Metal with Pliers to create Rivet."
+    "reasoning": "A rivet is a permanent mechanical fastener. Combine metal with Pliers and you naturally get Rivet."
   },
   "metal+plough": {
     "result": "shovel",
-    "reasoning": "Combine Metal with Plough to create Shovel."
-  },
-  "metal+rake": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+    "reasoning": "Here's the connection: A shovel is a tool used for digging, lifting, and moving bulk materials, such as soil, coal, gravel, snow, sand, or ore. So metal + Plough = Shovel."
   },
   "metal+rivet": {
     "result": "valve",
-    "reasoning": "Combine Metal with Rivet to create Valve."
+    "reasoning": "Here's the connection: A valve is a device or natural object that regulates, directs or controls the flow of a fluid by opening, closing, or partially obstructing various passageways. So metal + Rivet = Valve."
   },
   "metal+saw": {
     "result": "wire",
     "reasoning": "Metal drawn and cut becomes Wire"
   },
-  "metal+scissors": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
-  },
   "metal+screw": {
     "result": "bolt",
-    "reasoning": "Combine Screw with Metal to create Bolt."
+    "reasoning": "metal and Screw together? A metal is a material that, when polished or fractured, shows a lustrous appearance, and conducts electricity and heat relatively well. The result: Bolt."
   },
   "metal+shovel": {
     "result": "valve",
-    "reasoning": "Combine Metal with Shovel to create Valve."
+    "reasoning": "Here's the connection: A valve is a device or natural object that regulates, directs or controls the flow of a fluid by opening, closing, or partially obstructing various passageways. So metal + Shovel = Valve."
   },
   "metal+socket-wrench": {
     "result": "wrench",
-    "reasoning": "Combine Socket Wrench with Metal to create Wrench."
+    "reasoning": "Here's the connection: A wrench or spanner is a tool used to provide grip and mechanical advantage in applying torque to turn objects—usually rotary fasteners, such as nuts and bolts—or keep them from turning. So metal + Socket Wrench = Wrench."
   },
   "metal+soldering-iron": {
     "result": "valve",
-    "reasoning": "Combine Metal with Soldering Iron to create Valve."
+    "reasoning": "A valve is a device or natural object that regulates, directs or controls the flow of a fluid by opening, closing, or partially obstructing various passageways. That's how metal and Soldering Iron give us Valve."
   },
   "metal+spring": {
     "result": "button",
-    "reasoning": "Applying metal to Spring produces button"
+    "reasoning": "Did you know? A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. That's why metal + Spring = button."
   },
-  "metal+swiss-army-knife": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  "metal+thermometer": {
+    "result": "absolute-zero",
+    "reasoning": "Here's a real-world link: Absolute zero is the lowest theoretically possible temperature, a state at which a system's internal energy, and in ideal cases entropy, reach their minimum values. Combine metal with Thermometer and you get Absolute Zero."
   },
   "metal+tongs": {
     "result": "brazier",
-    "reasoning": "Combine Tongs with Metal to create Brazier."
+    "reasoning": "A brazier is a container used to burn charcoal or other solid fuel for cooking, heating, or rituals. Combine metal with Tongs and you naturally get Brazier."
   },
   "metal+tool": {
     "result": "drill",
@@ -245,7 +77,7 @@
   },
   "metal+valve": {
     "result": "crucible",
-    "reasoning": "Combine Metal with Valve to create Crucible."
+    "reasoning": "A crucible is a container in which metals or other substances may be melted or subjected to very high temperatures. Combine metal with Valve and you naturally get Crucible."
   },
   "metal+wagon": {
     "result": "carriage",
@@ -255,17 +87,25 @@
     "result": "gear",
     "reasoning": "Crafting metal with Wheel produces Gear"
   },
-  "metal+wrench": {
-    "result": "alloy",
-    "reasoning": "Metal worked with tools creates an Alloy, materials science in action"
+  "mica+road": {
+    "result": "bitumen",
+    "reasoning": "Bitumen is an immensely viscous constituent of petroleum. That's the connection between Mica and Road — giving us Bitumen."
+  },
+  "mica+sled": {
+    "result": "carriage",
+    "reasoning": "A carriage is a two- or four-wheeled horse-drawn vehicle for passengers. That's the connection between Mica and Sled — giving us Carriage."
+  },
+  "mica+spear": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Mica with Spear and you get Bitumen."
+  },
+  "mica+wagon": {
+    "result": "carriage",
+    "reasoning": "The science is clear — A carriage is a two- or four-wheeled horse-drawn vehicle for passengers. Mix Mica and Wagon for Carriage."
   },
   "mirror+mortar-and-pestle": {
     "result": "workshop",
     "reasoning": "Mirror + Mortar and Pestle = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+motor": {
-    "result": "workshop",
-    "reasoning": "Mirror + Motor = a Workshop. Where raw materials become something amazing (or a mess)."
   },
   "mirror+motorcycle": {
     "result": "workshop",
@@ -275,53 +115,13 @@
     "result": "workshop",
     "reasoning": "Mirror + Mousetrap = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+needle": {
-    "result": "workshop",
-    "reasoning": "Mirror + Needle = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+notebook": {
     "result": "workshop",
     "reasoning": "Mirror + Notebook = a Workshop. Where raw materials become something amazing (or a mess)."
   },
   "mirror+oar": {
-    "result": "workshop",
-    "reasoning": "Mirror + Oar = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+padlock": {
-    "result": "workshop",
-    "reasoning": "Mirror + Padlock = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pen": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pen = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pencil": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pencil = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pestle": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pestle = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pick": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pick = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+piston": {
-    "result": "workshop",
-    "reasoning": "Mirror + Piston = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+plane": {
-    "result": "workshop",
-    "reasoning": "Mirror + Plane = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pliers": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pliers = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+plough": {
-    "result": "workshop",
-    "reasoning": "Mirror + Plough = a Workshop. Where raw materials become something amazing (or a mess)."
+    "result": "arrow",
+    "reasoning": "Wikipedia says: An arrow is a fin-stabilized projectile launched by a bow. That explains why Mirror + Oar = Arrow."
   },
   "mirror+plumb-bob": {
     "result": "workshop",
@@ -335,58 +135,6 @@
     "result": "workshop",
     "reasoning": "Mirror + Protractor = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+pulley": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pulley = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+pump": {
-    "result": "workshop",
-    "reasoning": "Mirror + Pump = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+purse": {
-    "result": "workshop",
-    "reasoning": "Mirror + Purse = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+quill": {
-    "result": "workshop",
-    "reasoning": "Mirror + Quill = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+quiver": {
-    "result": "workshop",
-    "reasoning": "Mirror + Quiver = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+raft": {
-    "result": "workshop",
-    "reasoning": "Mirror + Raft = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+railway": {
-    "result": "workshop",
-    "reasoning": "Mirror + Railway = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+rake": {
-    "result": "workshop",
-    "reasoning": "Mirror + Rake = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+ratchet": {
-    "result": "workshop",
-    "reasoning": "Mirror + Ratchet = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+rivet": {
-    "result": "workshop",
-    "reasoning": "Mirror + Rivet = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+road": {
-    "result": "workshop",
-    "reasoning": "Mirror + Road = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+rocket": {
-    "result": "workshop",
-    "reasoning": "Mirror + Rocket = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+ruler": {
-    "result": "workshop",
-    "reasoning": "Mirror + Ruler = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+sailboat": {
     "result": "workshop",
     "reasoning": "Mirror + Sailboat = a Workshop. Where raw materials become something amazing (or a mess)."
@@ -395,49 +143,9 @@
     "result": "workshop",
     "reasoning": "Mirror + Satellite = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+saw": {
-    "result": "workshop",
-    "reasoning": "Mirror + Saw = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+scale": {
-    "result": "workshop",
-    "reasoning": "Mirror + Scale = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+scalpel": {
-    "result": "workshop",
-    "reasoning": "Mirror + Scalpel = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+scissors": {
     "result": "workshop",
     "reasoning": "Mirror + Scissors = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+screw": {
-    "result": "workshop",
-    "reasoning": "Mirror + Screw = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+sextant": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sextant = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+ship": {
-    "result": "workshop",
-    "reasoning": "Mirror + ship = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+shovel": {
-    "result": "workshop",
-    "reasoning": "Mirror + Shovel = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+sickle": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sickle = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+sieve": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sieve = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+sled": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sled = a Workshop. Where raw materials become something amazing (or a mess)."
   },
   "mirror+sledgehammer": {
     "result": "workshop",
@@ -447,10 +155,6 @@
     "result": "workshop",
     "reasoning": "Mirror + Smelting = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+snorkel": {
-    "result": "workshop",
-    "reasoning": "Mirror + Snorkel = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+socket-wrench": {
     "result": "workshop",
     "reasoning": "Mirror + Socket Wrench = a Workshop. Where raw materials become something amazing (or a mess)."
@@ -459,137 +163,41 @@
     "result": "workshop",
     "reasoning": "Mirror + Soldering Iron = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+spear": {
-    "result": "workshop",
-    "reasoning": "Mirror + Spear = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+spindle": {
-    "result": "workshop",
-    "reasoning": "Mirror + Spindle = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+spring": {
-    "result": "workshop",
-    "reasoning": "Mirror + Spring = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+spyglass": {
     "result": "workshop",
     "reasoning": "Mirror + Spyglass = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+stapler": {
-    "result": "workshop",
-    "reasoning": "Mirror + Stapler = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+stencil": {
-    "result": "workshop",
-    "reasoning": "Mirror + Stencil = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+submarine": {
     "result": "periscope",
-    "reasoning": "Combine Mirror with Submarine to create Periscope."
-  },
-  "mirror+subway": {
-    "result": "workshop",
-    "reasoning": "Mirror + Subway = a Workshop. Where raw materials become something amazing (or a mess)."
+    "reasoning": "A periscope is an device for observation over, around or through an object, obstacle or condition that prevents direct line-of-sight observation from an observer's current position. That's how Mirror and Submarine give us Periscope."
   },
   "mirror+suitcase": {
     "result": "workshop",
     "reasoning": "Mirror + Suitcase = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+sundial": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sundial = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+swiss-army-knife": {
     "result": "workshop",
     "reasoning": "Mirror + Swiss Army Knife = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+sword": {
-    "result": "workshop",
-    "reasoning": "Mirror + Sword = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+tanning": {
-    "result": "workshop",
-    "reasoning": "Mirror + Tanning = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+taxi": {
-    "result": "workshop",
-    "reasoning": "Mirror + Taxi = a Workshop. Where raw materials become something amazing (or a mess)."
   },
   "mirror+thermometer": {
     "result": "workshop",
     "reasoning": "Mirror + Thermometer = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+tongs": {
-    "result": "workshop",
-    "reasoning": "Mirror + Tongs = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+tool": {
-    "result": "workshop",
-    "reasoning": "Mirror + tool = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+traffic": {
-    "result": "workshop",
-    "reasoning": "Mirror + Traffic = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+train": {
-    "result": "workshop",
-    "reasoning": "Mirror + Train = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+trap": {
-    "result": "workshop",
-    "reasoning": "Mirror + Trap = a Workshop. Where raw materials become something amazing (or a mess)."
+    "result": "axe",
+    "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. So when Mirror meets tool, Axe is the natural outcome."
   },
   "mirror+trebuchet": {
     "result": "workshop",
     "reasoning": "Mirror + Trebuchet = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+tripod": {
-    "result": "workshop",
-    "reasoning": "Mirror + Tripod = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+trowel": {
-    "result": "workshop",
-    "reasoning": "Mirror + Trowel = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+truck": {
-    "result": "workshop",
-    "reasoning": "Mirror + Truck = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+turbine": {
-    "result": "workshop",
-    "reasoning": "Mirror + Turbine = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+valve": {
-    "result": "workshop",
-    "reasoning": "Mirror + Valve = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+vise": {
-    "result": "workshop",
-    "reasoning": "Mirror + Vise = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+wagon": {
-    "result": "workshop",
-    "reasoning": "Mirror + Wagon = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+wallet": {
-    "result": "workshop",
-    "reasoning": "Mirror + Wallet = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
   "mirror+weaving": {
-    "result": "workshop",
-    "reasoning": "Mirror + Weaving = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+weight": {
-    "result": "workshop",
-    "reasoning": "Mirror + weight = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+welding": {
-    "result": "workshop",
-    "reasoning": "Mirror + Welding = a Workshop. Where raw materials become something amazing (or a mess)."
+    "result": "amber",
+    "reasoning": "Amber is fossilized tree resin. So when Mirror meets Weaving, Amber is the natural outcome."
   },
   "mirror+wheel": {
-    "result": "workshop",
-    "reasoning": "Mirror + Wheel = a Workshop. Where raw materials become something amazing (or a mess)."
+    "result": "arrow",
+    "reasoning": "Wikipedia says: An arrow is a fin-stabilized projectile launched by a bow. That explains why Mirror + Wheel = Arrow."
   },
   "mirror+wheelbarrow": {
     "result": "workshop",
@@ -599,17 +207,13 @@
     "result": "workshop",
     "reasoning": "Mirror + Whetstone = a Workshop. Where raw materials become something amazing (or a mess)."
   },
-  "mirror+winch": {
-    "result": "workshop",
-    "reasoning": "Mirror + Winch = a Workshop. Where raw materials become something amazing (or a mess)."
+  "mortar+pestle": {
+    "result": "mortar-and-pestle",
+    "reasoning": "Mortar and Pestle share a deep connection. A mortar and pestle is a set of two simple tools used to prepare ingredients or substances by crushing and grinding them into a fine paste or powder in the kitchen, laboratory, and pharmacy. Result: Mortar and Pestle."
   },
-  "mirror+wing": {
-    "result": "workshop",
-    "reasoning": "Mirror + wing = a Workshop. Where raw materials become something amazing (or a mess)."
-  },
-  "mirror+wrench": {
-    "result": "workshop",
-    "reasoning": "Mirror + Wrench = a Workshop. Where raw materials become something amazing (or a mess)."
+  "motorcycle+steel": {
+    "result": "car",
+    "reasoning": "A car, or an automobile, is a motor vehicle with wheels. So when Motorcycle meets Steel, Car is the natural outcome."
   },
   "natural-gas+needle": {
     "result": "workshop",
@@ -878,5 +482,401 @@
   "natural-gas+trebuchet": {
     "result": "workshop",
     "reasoning": "Natural Gas + Trebuchet = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+tripod": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Tripod = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+trowel": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Trowel = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+truck": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Truck = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+turbine": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Turbine = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+valve": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Valve = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+vise": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Vise = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wagon": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Wagon = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wallet": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Wallet = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+weaving": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Weaving = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+weight": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + weight = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+welding": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Welding = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wheel": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Wheel = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wheelbarrow": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Wheelbarrow = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+whetstone": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Whetstone = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+winch": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Winch = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wing": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + wing = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "natural-gas+wrench": {
+    "result": "workshop",
+    "reasoning": "Natural Gas + Wrench = a Workshop. Where raw materials become something amazing (or a mess)."
+  },
+  "needle+plank": {
+    "result": "board",
+    "reasoning": "Both Needle and plank are rooted in Disambiguation Pages With Surname Holder Lists. Together they make board."
+  },
+  "needle+wool": {
+    "result": "knitting",
+    "reasoning": "Needles and yarn create Knitting"
+  },
+  "nickel+smelting": {
+    "result": "carbon",
+    "reasoning": "Here's a real-world link: Carbon is a chemical element; it has symbol C and atomic number 6. Combine Nickel with Smelting and you get Carbon."
+  },
+  "nickel+soldering-iron": {
+    "result": "alloy",
+    "reasoning": "Combining Nickel with Soldering Iron creates an Alloy — stronger than either alone."
+  },
+  "notebook+solder": {
+    "result": "electronics",
+    "reasoning": "Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. So when Notebook meets Solder, Electronics is the natural outcome."
+  },
+  "oar+pigment": {
+    "result": "axe",
+    "reasoning": "Oar and Pigment share a deep connection. An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Result: Axe."
+  },
+  "oar+rope": {
+    "result": "axe",
+    "reasoning": "Wikipedia says: An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. That explains why Oar + Rope = Axe."
+  },
+  "oil+road": {
+    "result": "asphalt",
+    "reasoning": "Here's the connection: Oil is a liquid with varying degrees of viscosity depending on temperature. So Oil + Road = Asphalt."
+  },
+  "oil+smelting": {
+    "result": "combustion",
+    "reasoning": "Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That's the connection between Oil and Smelting — giving us Combustion."
+  },
+  "organza+suitcase": {
+    "result": "canvas",
+    "reasoning": "Here's a real-world link: It is popularly used by artists as a painting surface, typically stretched across a wooden frame. Combine Organza with Suitcase and you get canvas."
+  },
+  "organza+wallet": {
+    "result": "denim",
+    "reasoning": "Denim is a sturdy cotton warp-faced textile in which the weft passes under two or more warp threads. So when Organza meets Wallet, Denim is the natural outcome."
+  },
+  "organza+welding": {
+    "result": "denim",
+    "reasoning": "The science is clear — Denim is a sturdy cotton warp-faced textile in which the weft passes under two or more warp threads. Mix Organza and Welding for Denim."
+  },
+  "paint+pen": {
+    "result": "calligraphy",
+    "reasoning": "Paint and Pen share a deep connection. Calligraphy is fine handwriting taken to the level of visual art. Result: Calligraphy."
+  },
+  "paint+quill": {
+    "result": "calligraphy",
+    "reasoning": "Calligraphy is fine handwriting taken to the level of visual art. So when Paint meets Quill, Calligraphy is the natural outcome."
+  },
+  "paint+saw": {
+    "result": "axe",
+    "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. So when Paint meets Saw, Axe is the natural outcome."
+  },
+  "paint+vise": {
+    "result": "axe",
+    "reasoning": "Paint and Vise share a deep connection. An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Result: Axe."
+  },
+  "paper+pen": {
+    "result": "notebook",
+    "reasoning": "Crafting Paper with Pen produces Notebook"
+  },
+  "paper+pencil": {
+    "result": "drawing",
+    "reasoning": "Paper and Pencil create Drawing"
+  },
+  "paper+rivet": {
+    "result": "stapler",
+    "reasoning": "A stapler is a mechanical device that joins pages of paper or similar material together by driving a thin metal staple through the sheets and folding the ends. Combine Paper with Rivet and you naturally get Stapler."
+  },
+  "paper+rocket": {
+    "result": "crossbow",
+    "reasoning": "The science is clear — A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Mix Paper and Rocket for Crossbow."
+  },
+  "paper+suitcase": {
+    "result": "bag",
+    "reasoning": "A bag, also known regionally as a sack or tote, is a common tool in the form of a floppy container, typically made of cloth, leather, bamboo, paper, or plastic. That's the connection between Paper and Suitcase — giving us bag."
+  },
+  "paper+trebuchet": {
+    "result": "crossbow",
+    "reasoning": "Here's a real-world link: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Combine Paper with Trebuchet and you get Crossbow."
+  },
+  "paper+wallet": {
+    "result": "bag",
+    "reasoning": "Here's a real-world link: A bag, also known regionally as a sack or tote, is a common tool in the form of a floppy container, typically made of cloth, leather, bamboo, paper, or plastic. Combine Paper with Wallet and you get bag."
+  },
+  "paper+wheelbarrow": {
+    "result": "crossbow",
+    "reasoning": "Wikipedia says: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That explains why Paper + Wheelbarrow = Crossbow."
+  },
+  "papyrus+pen": {
+    "result": "egypt",
+    "reasoning": "The science is clear — Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. Mix Papyrus and Pen for Egypt."
+  },
+  "papyrus+pulley": {
+    "result": "lathe",
+    "reasoning": "Papyrus and Pulley both belong to the world of Egyptian Inventions — combine them for Lathe."
+  },
+  "papyrus+sundial": {
+    "result": "lathe",
+    "reasoning": "In the realm of Egyptian Inventions, Papyrus meets Sundial to create Lathe."
+  },
+  "parchment+sickle": {
+    "result": "blade",
+    "reasoning": "A blade is the sharp, cutting portion of a tool, weapon, or machine, specifically designed to puncture, chop, slice, or scrape surfaces or materials. So when Parchment meets Sickle, Blade is the natural outcome."
+  },
+  "parchment+stapler": {
+    "result": "paper",
+    "reasoning": "Paper is a thin sheet of matted cellulose fibers. That's the connection between Parchment and Stapler — giving us Paper."
+  },
+  "parchment+sword": {
+    "result": "blade",
+    "reasoning": "A blade is the sharp, cutting portion of a tool, weapon, or machine, specifically designed to puncture, chop, slice, or scrape surfaces or materials. That's the connection between Parchment and Sword — giving us Blade."
+  },
+  "pencil+plywood": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Pencil with Plywood and you get Charcoal."
+  },
+  "pencil+rubber": {
+    "result": "eraser",
+    "reasoning": "Crafting Pencil with Rubber produces Eraser"
+  },
+  "pencil+rust": {
+    "result": "graphite",
+    "reasoning": "Graphite is a crystalline allotrope (form) of the element carbon. That's the connection between Pencil and Rust — giving us Graphite."
+  },
+  "pencil+solder": {
+    "result": "glass",
+    "reasoning": "Pencil and Solder share a deep connection. Glass is an amorphous (non-crystalline) solid. Result: Glass."
+  },
+  "pencil+taxidermy": {
+    "result": "germany",
+    "reasoning": "Here's a real-world link: Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. Combine Pencil with Taxidermy and you get Germany."
+  },
+  "pencil+varnish": {
+    "result": "eraser",
+    "reasoning": "An eraser is an article of stationery that is used for removing marks from paper or skin. So when Pencil meets Varnish, Eraser is the natural outcome."
+  },
+  "permafrost+spring": {
+    "result": "ice",
+    "reasoning": "Permafrost freezes Spring into Ice — water's solid form."
+  },
+  "pewter+pliers": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Pewter and Pliers — giving us Brass."
+  },
+  "pewter+spear": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. That's the connection between Pewter and Spear — giving us Bronze."
+  },
+  "pigment+tool": {
+    "result": "arrow",
+    "reasoning": "The science is clear — An arrow is a fin-stabilized projectile launched by a bow. Mix Pigment and tool for Arrow."
+  },
+  "pigment+weaving": {
+    "result": "amber",
+    "reasoning": "Pigment and Weaving share a deep connection. Amber is fossilized tree resin. Result: Amber."
+  },
+  "pigment+wheel": {
+    "result": "arrow",
+    "reasoning": "An arrow is a fin-stabilized projectile launched by a bow. So when Pigment meets Wheel, Arrow is the natural outcome."
+  },
+  "pigment+wheelbarrow": {
+    "result": "canoe",
+    "reasoning": "Pigment and Wheelbarrow share a deep connection. A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Result: Canoe."
+  },
+  "piston+steel": {
+    "result": "car",
+    "reasoning": "Piston and Steel share a deep connection. A car, or an automobile, is a motor vehicle with wheels. Result: Car."
+  },
+  "plank+spring": {
+    "result": "boat",
+    "reasoning": "plank on Spring — a Boat. Humanity's first vehicle."
+  },
+  "plank+tool": {
+    "result": "carpenter",
+    "reasoning": "Tools shaping planks — that's a Carpenter"
+  },
+  "plaster+trowel": {
+    "result": "fresco",
+    "reasoning": "Wikipedia says: Fresco is a technique of mural painting executed upon freshly laid (\"wet\") lime plaster. That explains why Plaster + Trowel = Fresco."
+  },
+  "plastic+submarine": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when Plastic meets Submarine, Airplane is the natural outcome."
+  },
+  "plastic+tool": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. That's the connection between Plastic and tool — giving us Airplane."
+  },
+  "platinum+pliers": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. So when Platinum meets Pliers, Bronze is the natural outcome."
+  },
+  "platinum+soldering-iron": {
+    "result": "alloy",
+    "reasoning": "Combining Platinum with Soldering Iron creates an Alloy — stronger than either alone."
+  },
+  "pliers+steel": {
+    "result": "blacksmith",
+    "reasoning": "Pliers and Steel share a deep connection. A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. Result: Blacksmith."
+  },
+  "pliers+wire": {
+    "result": "brass",
+    "reasoning": "Brass is an alloy of copper and zinc, in proportions which can be varied to achieve different colours and mechanical, electrical, acoustic, and chemical properties, but copper typically has the larger proportion, generally 2⁄3 copper and 1⁄3 zinc. That's the connection between Pliers and Wire — giving us Brass."
+  },
+  "plywood+saw": {
+    "result": "axe",
+    "reasoning": "An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. That's the connection between Plywood and Saw — giving us Axe."
+  },
+  "plywood+vise": {
+    "result": "axe",
+    "reasoning": "Here's a real-world link: An axe is an implement that has been used for thousands of years to shape, split, and cut wood, to harvest timber, and as a weapon. Combine Plywood with Vise and you get Axe."
+  },
+  "porcelain+rocket": {
+    "result": "crossbow",
+    "reasoning": "Wikipedia says: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That explains why Porcelain + Rocket = Crossbow."
+  },
+  "porcelain+trebuchet": {
+    "result": "crossbow",
+    "reasoning": "A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. So when Porcelain meets Trebuchet, Crossbow is the natural outcome."
+  },
+  "porcelain+wheelbarrow": {
+    "result": "crossbow",
+    "reasoning": "A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That's the connection between Porcelain and Wheelbarrow — giving us Crossbow."
+  },
+  "pulley+rope": {
+    "result": "block-and-tackle",
+    "reasoning": "Did you know? A pulley is a wheel on an axle or shaft enabling a taut cable or belt passing over the wheel to move and change direction, or transfer power between itself and a shaft. That's why Pulley + Rope = Block and Tackle."
+  },
+  "pump+silicone": {
+    "result": "aquarium",
+    "reasoning": "Wikipedia says: An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. That explains why Pump + Silicone = Aquarium."
+  },
+  "pump+solder": {
+    "result": "electronics",
+    "reasoning": "Pump and Solder share a deep connection. Electronics is a scientific and engineering discipline that studies and applies the principles of physics to design, create, and operate devices that manipulate electrons and other electrically charged particles. Result: Electronics."
+  },
+  "quiver+shield": {
+    "result": "crossbow",
+    "reasoning": "Wikipedia says: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That explains why Quiver + Shield = Crossbow."
+  },
+  "rayon+scissors": {
+    "result": "button",
+    "reasoning": "The science is clear — A button is a fastener that joins two pieces of fabric together by slipping through a loop or by sliding through a buttonhole. Mix Rayon and Scissors for button."
+  },
+  "rivet+rust": {
+    "result": "bridge",
+    "reasoning": "Wikipedia says: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. That explains why Rivet + Rust = Bridge."
+  },
+  "rivet+solder": {
+    "result": "nickel",
+    "reasoning": "Nickel is a chemical element; it has symbol Ni and atomic number 28. That's the connection between Rivet and Solder — giving us Nickel."
+  },
+  "rivet+steel": {
+    "result": "bridge",
+    "reasoning": "Wikipedia says: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. That explains why Rivet + Steel = Bridge."
+  },
+  "rivet+titanium": {
+    "result": "mithril",
+    "reasoning": "Did you know? Mithril is a fictional metal found in J. That's why Rivet + Titanium = Mithril."
+  },
+  "road+tar": {
+    "result": "bitumen",
+    "reasoning": "Here's a real-world link: Bitumen is an immensely viscous constituent of petroleum. Combine Road with Tar and you get Bitumen."
+  },
+  "road+vermiculite": {
+    "result": "bitumen",
+    "reasoning": "Road and Vermiculite share a deep connection. Bitumen is an immensely viscous constituent of petroleum. Result: Bitumen."
+  },
+  "rocket+sail": {
+    "result": "crossbow",
+    "reasoning": "The science is clear — A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Mix Rocket and Sail for Crossbow."
+  },
+  "rocket+silk": {
+    "result": "crossbow",
+    "reasoning": "A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. That's the connection between Rocket and Silk — giving us Crossbow."
+  },
+  "rocket+soap": {
+    "result": "catalyst",
+    "reasoning": "Wikipedia says: Catalysis is the increase in rate of a chemical reaction due to an added substance known as a catalyst. That explains why Rocket + Soap = Catalyst."
+  },
+  "rocket+varnish": {
+    "result": "crossbow",
+    "reasoning": "Here's a real-world link: A crossbow is a ranged weapon using an elastic launching device consisting of a bow-like assembly called a prod, mounted horizontally on a main frame called a tiller, which is hand-held in a similar fashion to the stock of a long gun. Combine Rocket with Varnish and you get Crossbow."
+  },
+  "rope+sled": {
+    "result": "canoe",
+    "reasoning": "Here's a real-world link: A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Combine Rope with Sled and you get Canoe."
+  },
+  "rope+tool": {
+    "result": "arrow",
+    "reasoning": "Rope and tool share a deep connection. An arrow is a fin-stabilized projectile launched by a bow. Result: Arrow."
+  },
+  "rope+weaving": {
+    "result": "arrow",
+    "reasoning": "An arrow is a fin-stabilized projectile launched by a bow. That's the connection between Rope and Weaving — giving us Arrow."
+  },
+  "rope+wheel": {
+    "result": "pulley",
+    "reasoning": "Crafting Rope with Wheel produces Pulley"
+  },
+  "rope+wheelbarrow": {
+    "result": "canoe",
+    "reasoning": "Rope and Wheelbarrow share a deep connection. A canoe is a lightweight, narrow water vessel, typically pointed at both ends and open on top, propelled by one or more seated or kneeling paddlers facing the direction of travel and using paddles. Result: Canoe."
+  },
+  "ruler+wire": {
+    "result": "anvil",
+    "reasoning": "The science is clear — An anvil is a metalworking tool consisting of a large block of metal, with a flattened top surface, upon which another object is struck. Mix Ruler and Wire for Anvil."
+  },
+  "rust+smelting": {
+    "result": "copper",
+    "reasoning": "The science is clear — Copper is a chemical element; it has symbol Cu and atomic number 29. Mix Rust and Smelting for Copper."
+  },
+  "rust+welding": {
+    "result": "copper",
+    "reasoning": "Rust and Welding share a deep connection. Copper is a chemical element; it has symbol Cu and atomic number 29. Result: Copper."
+  },
+  "rust+wrench": {
+    "result": "forging",
+    "reasoning": "Here's a real-world link: Forging is a manufacturing process involving the shaping of metal using localized compressive forces. Combine Rust with Wrench and you get Forging."
   }
 }

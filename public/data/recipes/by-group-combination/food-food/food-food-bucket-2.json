@@ -1,4 +1,540 @@
 {
+  "brioche+muffin": {
+    "result": "croissant",
+    "reasoning": "Brioche and Muffin share a deep connection. A croissant is a French Viennoiserie in a crescent shape made from a laminated yeast dough that sits between a bread and a puff pastry. Result: Croissant."
+  },
+  "brioche+naan": {
+    "result": "focaccia",
+    "reasoning": "Focaccia is a flat leavened oven-baked Italian bread. So when Brioche meets Naan, Focaccia is the natural outcome."
+  },
+  "brioche+omelette": {
+    "result": "butter",
+    "reasoning": "Butter is a dairy product made from the fat and protein components of churned cream. That's the connection between Brioche and Omelette — giving us Butter."
+  },
+  "brioche+paella": {
+    "result": "aioli",
+    "reasoning": "Brioche and Paella share a deep connection. Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. Result: Aioli."
+  },
+  "brioche+pancake": {
+    "result": "butter",
+    "reasoning": "Brioche and Pancake share a deep connection. Butter is a dairy product made from the fat and protein components of churned cream. Result: Butter."
+  },
+  "brioche+pesto": {
+    "result": "butter",
+    "reasoning": "The science is clear — Butter is a dairy product made from the fat and protein components of churned cream. Mix Brioche and Pesto for Butter."
+  },
+  "brioche+pretzel": {
+    "result": "caviar",
+    "reasoning": "Brioche and Pretzel share a deep connection. Caviar or caviare is a food consisting of salt-cured roe of the family Acipenseridae (sturgeon). Result: Caviar."
+  },
+  "brioche+pudding": {
+    "result": "butter",
+    "reasoning": "Brioche and Pudding share a deep connection. Butter is a dairy product made from the fat and protein components of churned cream. Result: Butter."
+  },
+  "brioche+quiche": {
+    "result": "custard",
+    "reasoning": "Here's a real-world link: Custard is a variety of culinary preparations based on sweetened milk, cheese, or cream cooked with egg or egg yolk to thicken it, and sometimes also flour, corn starch, or gelatin. Combine Brioche with Quiche and you get Custard."
+  },
+  "brioche+relish": {
+    "result": "aioli",
+    "reasoning": "Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. That's the connection between Brioche and Relish — giving us Aioli."
+  },
+  "brioche+truffle": {
+    "result": "caviar",
+    "reasoning": "The science is clear — Caviar or caviare is a food consisting of salt-cured roe of the family Acipenseridae (sturgeon). Mix Brioche and Truffle for Caviar."
+  },
+  "brioche+vinaigrette": {
+    "result": "aioli",
+    "reasoning": "Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. So when Brioche meets Vinaigrette, Aioli is the natural outcome."
+  },
+  "brioche+vinegar": {
+    "result": "aioli",
+    "reasoning": "Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. So when Brioche meets Vinegar, Aioli is the natural outcome."
+  },
+  "brioche+waffle": {
+    "result": "butter",
+    "reasoning": "The science is clear — Butter is a dairy product made from the fat and protein components of churned cream. Mix Brioche and Waffle for Butter."
+  },
+  "brioche+wasabi": {
+    "result": "aioli",
+    "reasoning": "Wikipedia says: Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. That explains why Brioche + Wasabi = Aioli."
+  },
+  "broth+egg-food": {
+    "result": "ramen",
+    "reasoning": "Ramen   is a Japanese noodle dish. Combine Broth with Egg Food and you naturally get Ramen."
+  },
+  "broth+garlic": {
+    "result": "soup",
+    "reasoning": "Garlic broth — the French cure for everything"
+  },
+  "broth+meat": {
+    "result": "stew",
+    "reasoning": "Meat broth becomes stew — slow-cooked perfection"
+  },
+  "broth+noodle": {
+    "result": "pho",
+    "reasoning": "Broth and Noodle together? Phở or pho is a Vietnamese soup dish consisting of broth, rice noodles, herbs, and meat – usually beef, and sometimes chicken. The result: Pho."
+  },
+  "broth+pasta": {
+    "result": "ramen",
+    "reasoning": "Noodle soup — pasta in broth is comfort in every culture"
+  },
+  "broth+ramen": {
+    "result": "pho",
+    "reasoning": "Phở or pho is a Vietnamese soup dish consisting of broth, rice noodles, herbs, and meat – usually beef, and sometimes chicken. Combine Broth with Ramen and you naturally get Pho."
+  },
+  "broth+rice": {
+    "result": "porridge",
+    "reasoning": "Congee/porridge — rice simmered in broth, the comfort food of Asia"
+  },
+  "broth+spice": {
+    "result": "pho",
+    "reasoning": "Pho — Vietnamese spiced broth simmered for 24 hours"
+  },
+  "bruschetta+burrito": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Burrito = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+butter": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+candy": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Candy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+caramel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Caramel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+caviar": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Caviar = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ceviche": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ceviche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cheese": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + cheese = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chili": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chili = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chocolate": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chocolate = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+chutney": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Chutney = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cider": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cider = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+clam-chowder": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Clam Chowder = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cobbler": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cobbler = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coca-cola": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coca Cola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coconut": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coconut = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+coffee": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Coffee = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cookbook": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cookbook = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cookie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cookie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cooking": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cooking = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cornbread": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cornbread = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+couscous": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Couscous = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cracker": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cracker = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+cream": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+crepe": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Crepe = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+croissant": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Croissant = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+curry": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Curry = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+custard": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Custard = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dim-sum": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dim Sum = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dough": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+dumpling": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Dumpling = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+egg-food": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Egg Food = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+eggnog": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Eggnog = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+espresso": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Espresso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+falafel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Falafel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+farm": {
+    "result": "cheese",
+    "reasoning": "Cheese is a type of dairy product produced in a range of flavors, textures, and forms by coagulation of the milk protein casein. So when Bruschetta meets farm, cheese is the natural outcome."
+  },
+  "bruschetta+fermenting": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fermenting = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+fishing": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fishing = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+flour": {
+    "result": "bread",
+    "reasoning": "Here's a real-world link: Bread is a baked food product made from water, flour, and often yeast. Combine Bruschetta with Flour and you get Bread."
+  },
+  "bruschetta+focaccia": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Focaccia = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+fondue": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Fondue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+food-coma": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Food Coma = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+foraging": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Foraging = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+garden": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Garden = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+garlic": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Garlic = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+gelatin": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Gelatin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ginger": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ginger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+goulash": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Goulash = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+granola": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Granola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+greenhouse": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Greenhouse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+guacamole": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Guacamole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+hamburger": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Hamburger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+harvest": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Harvest = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+hummus": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Hummus = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ice-cream": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ice Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+irrigation": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Irrigation = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+kimchi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Kimchi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+kombucha": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Kombucha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+lasagna": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Lasagna = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+lemonade": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Lemonade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+macaroni": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Macaroni = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+maple-syrup": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Maple Syrup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+marmalade": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Marmalade = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+matcha": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Matcha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mcdonalds": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + McDonalds = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+meringue": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Meringue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mezcal": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mezcal = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mousse": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mousse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+muffin": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Muffin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mushroom-soup": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mushroom Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mystery-casserole": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mystery Casserole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+mystery-meat": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Mystery Meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+noodle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Noodle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+olive-oil": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Olive Oil = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+omelette": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Omelette = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+paella": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Paella = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pancake": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pancake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+papaya": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Papaya = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pasta": {
+    "result": "bread",
+    "reasoning": "Bruschetta and Pasta share a deep connection. Bread is a baked food product made from water, flour, and often yeast. Result: Bread."
+  },
+  "bruschetta+peanut-butter": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Peanut Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pecan-pie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pecan Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pepper": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pepper = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pickle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pickle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pierogi": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pierogi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pizza": {
+    "result": "aioli",
+    "reasoning": "Here's a real-world link: Aioli, allioli, or aïoli is a cold sauce consisting of an emulsion of garlic and olive oil; it is found in the cuisines of the northwest Mediterranean. Combine Bruschetta with Pizza and you get Aioli."
+  },
+  "bruschetta+popcorn": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Popcorn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+porridge": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Porridge = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+potato": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Potato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+potluck": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Potluck = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pretzel": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pretzel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+prosciutto": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Prosciutto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+pudding": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Pudding = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+quiche": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Quiche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+ravioli": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Ravioli = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+relish": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Relish = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+risotto": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Risotto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+salad": {
+    "result": "cheese",
+    "reasoning": "Wikipedia says: Cheese is a type of dairy product produced in a range of flavors, textures, and forms by coagulation of the milk protein casein. That explains why Bruschetta + Salad = cheese."
+  },
+  "bruschetta+sandwich": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sandwich = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sausage": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sausage = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+scallop": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Scallop = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+scone": {
+    "result": "fondue",
+    "reasoning": "Bruschetta and Scone share a deep connection. Fondue is a Swiss dish of melted cheese and wine served in a communal pot over a portable stove heated with a candle or spirit lamp, and eaten by dipping bread and sometimes vegetables or other foods into the cheese using long-stemmed forks. Result: Fondue."
+  },
+  "bruschetta+smoothie": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Smoothie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sorbet": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sorbet = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+souffle": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Souffle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+sourdough": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Sourdough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+soy-sauce": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Soy Sauce = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+spaghetti": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Spaghetti = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+starbucks": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Starbucks = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+steak": {
+    "result": "bean",
+    "reasoning": "Here's a real-world link: A bean is the seed of plants in many genera of the legume family (Fabaceae) used as a vegetable for human consumption or animal feed. Combine Bruschetta with Steak and you get bean."
+  },
+  "bruschetta+stomach-ache": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Stomach Ache = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tempura": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tempura = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
+  "bruschetta+tiramisu": {
+    "result": "mystery-casserole",
+    "reasoning": "Bruschetta + Tiramisu = Mystery Casserole. Nobody knows what's in it. Nobody asks."
+  },
   "bruschetta+tomato": {
     "result": "mystery-casserole",
     "reasoning": "Bruschetta + Tomato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
@@ -39,10 +575,6 @@
     "result": "mystery-casserole",
     "reasoning": "Bruschetta + Wasabi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
-  "bruschetta+wheat": {
-    "result": "mystery-casserole",
-    "reasoning": "Bruschetta + wheat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
   "bruschetta+whiskey": {
     "result": "mystery-casserole",
     "reasoning": "Bruschetta + Whiskey = Mystery Casserole. Nobody knows what's in it. Nobody asks."
@@ -50,10 +582,6 @@
   "bruschetta+wild-game": {
     "result": "mystery-casserole",
     "reasoning": "Bruschetta + Wild Game = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "bruschetta+wine": {
-    "result": "mystery-casserole",
-    "reasoning": "Bruschetta + wine = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
   "bruschetta+wonton": {
     "result": "mystery-casserole",
@@ -63,45 +591,125 @@
     "result": "mystery-casserole",
     "reasoning": "Bruschetta + Yogurt = Mystery Casserole. Nobody knows what's in it. Nobody asks."
   },
+  "burrito+ceviche": {
+    "result": "chocolate",
+    "reasoning": "Burrito and Ceviche share a deep connection. Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Result: Chocolate."
+  },
   "burrito+cheese": {
     "result": "lasagna",
-    "reasoning": "Combine Cheese with Burrito to create Lasagna."
+    "reasoning": "Here's the connection: Lasagna, also known by the plural form lasagne, is a type of pasta made in wide, flat sheets. So Burrito + cheese = Lasagna."
+  },
+  "burrito+chocolate": {
+    "result": "cornbread",
+    "reasoning": "Cornbread is a quick bread made with cornmeal, popular in the cuisine of the Southern United States, with origins in Native American cuisine. So when Burrito meets Chocolate, Cornbread is the natural outcome."
+  },
+  "burrito+cornbread": {
+    "result": "chocolate",
+    "reasoning": "Wikipedia says: Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. That explains why Burrito + Cornbread = Chocolate."
+  },
+  "burrito+couscous": {
+    "result": "bagel",
+    "reasoning": "The science is clear — A bagel is a bread roll originating in the Jewish communities of Poland. Mix Burrito and Couscous for Bagel."
+  },
+  "burrito+curry": {
+    "result": "garlic",
+    "reasoning": "Here's a real-world link: Garlic is a species of bulbous flowering plants in the genus Allium. Combine Burrito with Curry and you get Garlic."
   },
   "burrito+dough": {
     "result": "dumpling",
-    "reasoning": "Combine Dough with Burrito to create Dumpling."
+    "reasoning": "Did you know? Dumplings are a broad class of dishes that consist of pieces of cooked dough, often wrapped around a filling. That's why Burrito + Dough = Dumpling."
   },
   "burrito+falafel": {
     "result": "hummus",
-    "reasoning": "Combine Falafel with Burrito to create Hummus."
+    "reasoning": "Hummus is a Levantine dip, spread, or savory dish made from cooked, mashed chickpeas blended with tahini, lemon juice, and garlic. That's how Burrito and Falafel give us Hummus."
   },
   "burrito+flour": {
     "result": "gravy",
-    "reasoning": "Combine Flour with Burrito to create Gravy."
+    "reasoning": "Gravy is a sauce made from the juices of meats and vegetables that run naturally during cooking and often thickened with thickeners for added texture. That's how Burrito and Flour give us Gravy."
+  },
+  "burrito+focaccia": {
+    "result": "bagel",
+    "reasoning": "A bagel is a bread roll originating in the Jewish communities of Poland. That's the connection between Burrito and Focaccia — giving us Bagel."
+  },
+  "burrito+garlic": {
+    "result": "curry",
+    "reasoning": "Curry is a dish with a spicy sauce or dry flavouring, initially in Indian cuisine, then modified by interchange with the Portuguese, followed by the British, and eventually thoroughly internationalised. So when Burrito meets Garlic, Curry is the natural outcome."
+  },
+  "burrito+guacamole": {
+    "result": "chocolate",
+    "reasoning": "Here's a real-world link: Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Combine Burrito with Guacamole and you get Chocolate."
+  },
+  "burrito+hummus": {
+    "result": "bagel",
+    "reasoning": "A bagel is a bread roll originating in the Jewish communities of Poland. That's the connection between Burrito and Hummus — giving us Bagel."
+  },
+  "burrito+kebab": {
+    "result": "curry",
+    "reasoning": "Burrito and Kebab share a deep connection. Curry is a dish with a spicy sauce or dry flavouring, initially in Indian cuisine, then modified by interchange with the Portuguese, followed by the British, and eventually thoroughly internationalised. Result: Curry."
   },
   "burrito+lasagna": {
     "result": "ravioli",
-    "reasoning": "Combine Lasagna with Burrito to create Ravioli."
+    "reasoning": "Here's the connection: Ravioli are a type of stuffed pasta comprising a filling enveloped in thin pasta dough. So Burrito + Lasagna = Ravioli."
   },
   "burrito+meat": {
     "result": "kebab",
-    "reasoning": "Combine Meat with Burrito to create Kebab."
+    "reasoning": "Burrito and meat together? Kebab, kebap, kabob, kebob, or kabab is a variety of roasted meat dishes that originated in the Middle East. The result: Kebab."
   },
   "burrito+miso": {
     "result": "soy-sauce",
-    "reasoning": "Combine Miso with Burrito to create Soy Sauce."
+    "reasoning": "Did you know? Soy sauce is a liquid condiment of Chinese origin, traditionally made from a fermented paste of soybeans, roasted grain, brine, and Aspergillus oryzae or Aspergillus sojae molds. That's why Burrito + Miso = Soy Sauce."
+  },
+  "burrito+noodle": {
+    "result": "bagel",
+    "reasoning": "A bagel is a bread roll originating in the Jewish communities of Poland. That's the connection between Burrito and Noodle — giving us Bagel."
+  },
+  "burrito+papaya": {
+    "result": "chocolate",
+    "reasoning": "Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. That's the connection between Burrito and Papaya — giving us Chocolate."
+  },
+  "burrito+pho": {
+    "result": "bagel",
+    "reasoning": "Wikipedia says: A bagel is a bread roll originating in the Jewish communities of Poland. That explains why Burrito + Pho = Bagel."
+  },
+  "burrito+pierogi": {
+    "result": "bagel",
+    "reasoning": "The science is clear — A bagel is a bread roll originating in the Jewish communities of Poland. Mix Burrito and Pierogi for Bagel."
+  },
+  "burrito+pretzel": {
+    "result": "bagel",
+    "reasoning": "Here's a real-world link: A bagel is a bread roll originating in the Jewish communities of Poland. Combine Burrito with Pretzel and you get Bagel."
   },
   "burrito+salt": {
     "result": "miso",
-    "reasoning": "Combine Salt with Burrito to create Miso."
+    "reasoning": "Miso  is a traditional Japanese seasoning. Combine Burrito with Salt and you naturally get Miso."
+  },
+  "burrito+sandwich": {
+    "result": "bagel",
+    "reasoning": "Burrito and Sandwich share a deep connection. A bagel is a bread roll originating in the Jewish communities of Poland. Result: Bagel."
+  },
+  "burrito+sourdough": {
+    "result": "clam",
+    "reasoning": "Clam is a common name for several species of bivalve mollusc. That's the connection between Burrito and Sourdough — giving us Clam."
   },
   "burrito+spice": {
     "result": "falafel",
-    "reasoning": "Combine Spice with Burrito to create Falafel."
+    "reasoning": "Falafel is a deep-fried ball or patty-shaped fritter of Egyptian origin that features in Middle Eastern cuisine, particularly Levantine cuisines. That's how Burrito and Spice give us Falafel."
+  },
+  "burrito+taco": {
+    "result": "bagel",
+    "reasoning": "Burrito and Taco share a deep connection. A bagel is a bread roll originating in the Jewish communities of Poland. Result: Bagel."
+  },
+  "burrito+tortilla": {
+    "result": "chocolate",
+    "reasoning": "Burrito and Tortilla share a deep connection. Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Result: Chocolate."
   },
   "butter+caramel": {
     "result": "risotto",
-    "reasoning": "Combine Butter with Caramel to create Risotto."
+    "reasoning": "Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency. Combine Butter with Caramel and you naturally get Risotto."
+  },
+  "butter+cheese": {
+    "result": "acid",
+    "reasoning": "Here's a real-world link: An acid is a molecule or ion capable of either donating a proton (i.e. Combine Butter with cheese and you get Acid."
   },
   "butter+chocolate": {
     "result": "truffle",
@@ -109,7 +717,7 @@
   },
   "butter+cobbler": {
     "result": "biscuit",
-    "reasoning": "Combine Butter with Cobbler to create Biscuit."
+    "reasoning": "Butter and Cobbler together? A biscuit is a flour-based baked food item. The result: Biscuit."
   },
   "butter+corn": {
     "result": "popcorn",
@@ -117,47 +725,55 @@
   },
   "butter+cream": {
     "result": "scone",
-    "reasoning": "Combine Butter with Cream to create Scone."
+    "reasoning": "Did you know? A scone is a traditional British and Irish baked good, popular in the United Kingdom, Ireland, Canada, Australia and New Zealand. That's why Butter + Cream = Scone."
   },
   "butter+croissant": {
     "result": "taffy",
-    "reasoning": "Combine Butter with Croissant to create Taffy."
+    "reasoning": "Butter is a dairy product made from the fat and protein components of churned cream. Combine Butter with Croissant and you naturally get Taffy."
   },
   "butter+custard": {
     "result": "taffy",
-    "reasoning": "Combine Butter with Custard to create Taffy."
+    "reasoning": "Butter and Custard together? Butter is a dairy product made from the fat and protein components of churned cream. The result: Taffy."
   },
   "butter+dough": {
     "result": "croissant",
-    "reasoning": "Combine Butter with Dough to create Croissant."
+    "reasoning": "A croissant is a French Viennoiserie in a crescent shape made from a laminated yeast dough that sits between a bread and a puff pastry. That's how Butter and Dough give us Croissant."
   },
   "butter+egg-food": {
     "result": "caramel",
-    "reasoning": "Combine Butter with Egg Food to create Caramel."
+    "reasoning": "Butter and Egg Food together? Caramel is a range of food ingredients made by heating sugars to high temperatures. The result: Caramel."
   },
   "butter+flour": {
     "result": "scone",
-    "reasoning": "Combine Butter with Flour to create Scone."
+    "reasoning": "Butter and Flour together? A scone is a traditional British and Irish baked good, popular in the United Kingdom, Ireland, Canada, Australia and New Zealand. The result: Scone."
   },
   "butter+garlic": {
     "result": "fondue",
     "reasoning": "Garlic butter — the sauce that makes everything better"
   },
+  "butter+guacamole": {
+    "result": "cream",
+    "reasoning": "Butter and Guacamole share a deep connection. Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. Result: Cream."
+  },
   "butter+ice-cream": {
     "result": "scone",
-    "reasoning": "Combine Butter with Ice Cream to create Scone."
+    "reasoning": "A scone is a traditional British and Irish baked good, popular in the United Kingdom, Ireland, Canada, Australia and New Zealand. That's how Butter and Ice Cream give us Scone."
   },
   "butter+lemonade": {
     "result": "taffy",
-    "reasoning": "Combine Butter with Lemonade to create Taffy."
+    "reasoning": "Butter is a dairy product made from the fat and protein components of churned cream. That's how Butter and Lemonade give us Taffy."
   },
   "butter+maple-syrup": {
     "result": "caramel",
     "reasoning": "Maple butter — the sweet spread of Quebec"
   },
+  "butter+milk": {
+    "result": "acid",
+    "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. That's the connection between Butter and milk — giving us Acid."
+  },
   "butter+olive-oil": {
     "result": "peanut-butter",
-    "reasoning": "Combine Olive Oil with Butter to create Peanut Butter."
+    "reasoning": "Here's the connection: Peanut butter is a food paste or spread made from ground, dry-roasted peanuts. So Butter + Olive Oil = Peanut Butter."
   },
   "butter+pasta": {
     "result": "lasagna",
@@ -167,716 +783,100 @@
     "result": "muffin",
     "reasoning": "Buttery mashed potatoes — Thanksgiving's essential side"
   },
+  "butter+relish": {
+    "result": "cream",
+    "reasoning": "Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. That's the connection between Butter and Relish — giving us Cream."
+  },
   "butter+rice": {
     "result": "risotto",
-    "reasoning": "Combine Butter with Rice to create Risotto."
+    "reasoning": "Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency. That's how Butter and rice give us Risotto."
   },
   "butter+scone": {
     "result": "biscuit",
-    "reasoning": "Combine Butter with Scone to create Biscuit."
+    "reasoning": "Did you know? A biscuit is a flour-based baked food item. That's why Butter + Scone = Biscuit."
   },
   "butter+sugar": {
     "result": "caramel",
-    "reasoning": "Combine Butter with Sugar to create Caramel."
+    "reasoning": "Here's the connection: Caramel is a range of food ingredients made by heating sugars to high temperatures. So Butter + sugar = Caramel."
+  },
+  "butter+vinaigrette": {
+    "result": "cream",
+    "reasoning": "Wikipedia says: Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. That explains why Butter + Vinaigrette = Cream."
+  },
+  "butter+vinegar": {
+    "result": "cream",
+    "reasoning": "Here's a real-world link: Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. Combine Butter with Vinegar and you get Cream."
   },
   "butter+wine": {
     "result": "risotto",
-    "reasoning": "Combine Butter with Wine to create Risotto."
+    "reasoning": "Here's the connection: Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency. So Butter + wine = Risotto."
+  },
+  "cake+candy": {
+    "result": "chocolate",
+    "reasoning": "Cake and Candy share a deep connection. Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Result: Chocolate."
+  },
+  "cake+cheese": {
+    "result": "butter",
+    "reasoning": "Butter is a dairy product made from the fat and protein components of churned cream. That's the connection between Cake and cheese — giving us Butter."
   },
   "cake+chocolate": {
     "result": "tiramisu",
     "reasoning": "Chocolate cake — the world's most requested birthday cake"
   },
+  "cake+cookie": {
+    "result": "biscuit",
+    "reasoning": "A biscuit is a flour-based baked food item. That's the connection between Cake and Cookie — giving us Biscuit."
+  },
+  "cake+cornbread": {
+    "result": "butter",
+    "reasoning": "Butter is a dairy product made from the fat and protein components of churned cream. That's the connection between Cake and Cornbread — giving us Butter."
+  },
+  "cake+couscous": {
+    "result": "bread",
+    "reasoning": "The science is clear — Bread is a baked food product made from water, flour, and often yeast. Mix Cake and Couscous for Bread."
+  },
   "cake+cream": {
     "result": "tiramisu",
     "reasoning": "Layer cake with cream — the architecture of dessert"
   },
-  "caramel+cheese": {
-    "result": "fondue",
-    "reasoning": "Combine Cheese with Caramel to create Fondue."
-  },
-  "caramel+chocolate": {
-    "result": "candy",
-    "reasoning": "Chocolate caramels — the Twix/Snickers family of treats"
-  },
-  "caramel+cream": {
-    "result": "candy",
-    "reasoning": "Caramel cream — the filling of every great candy bar"
-  },
-  "caramel+custard": {
-    "result": "pudding",
-    "reasoning": "Combine Custard with Caramel to create Pudding."
-  },
-  "caramel+dough": {
-    "result": "mochi",
-    "reasoning": "Combine Dough with Caramel to create Mochi."
-  },
-  "caramel+egg-food": {
-    "result": "custard",
-    "reasoning": "Combine Egg Food with Caramel to create Custard."
-  },
-  "caramel+milk": {
-    "result": "candy",
-    "reasoning": "Caramel milk — dulce de leche, Latin America's sweetest creation"
-  },
-  "caramel+pie": {
-    "result": "pecan-pie",
-    "reasoning": "Combine Pie with Caramel to create Pecan Pie."
-  },
-  "caramel+rice": {
-    "result": "curry",
-    "reasoning": "Combine Rice with Caramel to create Curry."
-  },
-  "caramel+sugar": {
-    "result": "lemonade",
-    "reasoning": "Combine Sugar with Caramel to create Lemonade."
-  },
-  "caviar+egg-food": {
-    "result": "eggnog",
-    "reasoning": "Combine Egg Food with Caviar to create Eggnog."
-  },
-  "ceviche+sugar": {
-    "result": "lemonade",
-    "reasoning": "Combine Sugar with Ceviche to create Lemonade."
-  },
-  "cheese+chili": {
-    "result": "nacho",
-    "reasoning": "Combine Cheese with Chili to create Nacho."
-  },
-  "cheese+corn": {
-    "result": "nacho",
-    "reasoning": "Combine Cheese with Corn to create Nacho."
-  },
-  "cheese+cream": {
-    "result": "fondue",
-    "reasoning": "Cream cheese — Philadelphia's contribution to cheesecake"
-  },
-  "cheese+dough": {
-    "result": "pizza",
-    "reasoning": "Combining cheese with Dough makes delicious Pizza"
-  },
-  "cheese+dumpling": {
-    "result": "lasagna",
-    "reasoning": "Combine Cheese with Dumpling to create Lasagna."
-  },
-  "cheese+egg-food": {
-    "result": "tiramisu",
-    "reasoning": "Combine Egg Food with Cheese to create Tiramisu."
-  },
-  "cheese+flour": {
-    "result": "pizza",
-    "reasoning": "Cheese and flour are the backbone of pizza dough and topping"
-  },
-  "cheese+fondue": {
-    "result": "macaroni",
-    "reasoning": "Combine Cheese with Fondue to create Macaroni."
-  },
-  "cheese+lasagna": {
-    "result": "ravioli",
-    "reasoning": "Combine Lasagna with Cheese to create Ravioli."
-  },
-  "cheese+meat": {
-    "result": "lasagna",
-    "reasoning": "Combine Cheese with Meat to create Lasagna."
-  },
-  "cheese+nacho": {
-    "result": "macaroni",
-    "reasoning": "Combine Cheese with Nacho to create Macaroni."
-  },
-  "cheese+olive": {
-    "result": "salad",
-    "reasoning": "Greek salad — olives, feta, and fresh vegetables"
-  },
-  "cheese+pasta": {
-    "result": "lasagna",
-    "reasoning": "Mac and cheese, lasagna, ravioli — cheese makes all pasta better"
-  },
-  "cheese+potato": {
-    "result": "fondue",
-    "reasoning": "Cheese fries, loaded baked potatoes — potato loves cheese"
-  },
-  "cheese+prosciutto": {
-    "result": "sandwich",
-    "reasoning": "Prosciutto and mozzarella — Italian antipasto perfection"
-  },
-  "cheese+ravioli": {
-    "result": "macaroni",
-    "reasoning": "Combine Cheese with Ravioli to create Macaroni."
-  },
-  "cheese+rice": {
-    "result": "risotto",
-    "reasoning": "Parmesan risotto — cheese makes rice incredibly creamy"
-  },
-  "cheese+soup": {
-    "result": "fondue",
-    "reasoning": "Beer cheese soup — melting cheese into soup creates fondue-like magic"
-  },
-  "cheese+spice": {
-    "result": "nacho",
-    "reasoning": "Combine Cheese with Spice to create Nacho."
-  },
-  "cheese+tomato": {
-    "result": "pizza",
-    "reasoning": "Margherita pizza — tomato, mozzarella, and basil since 1889"
-  },
-  "cheese+tortilla": {
-    "result": "nacho",
-    "reasoning": "Quesadilla — grilled cheese in a tortilla"
-  },
-  "cheese+wine": {
-    "result": "fondue",
-    "reasoning": "Combine Cheese with Wine to create Fondue."
-  },
-  "chili+chutney": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Chutney = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+coconut": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Coconut = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+coffee": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Coffee = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+cookie": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Cookie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+cooking": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Cooking = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+cornbread": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Cornbread = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+couscous": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Couscous = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+cracker": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Cracker = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+cream": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+crepe": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Crepe = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+curry": {
-    "result": "paella",
-    "reasoning": "Combine Curry with Chili to create Paella."
-  },
-  "chili+dim-sum": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Dim Sum = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+dumpling": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Dumpling = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+eggnog": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Eggnog = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+espresso": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Espresso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+falafel": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Falafel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+farm": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + farm = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+fishing": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Fishing = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+flan": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Flan = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+flour": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Flour = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+fondue": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Fondue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+food": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + food = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+food-coma": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Food Coma = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+foraging": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Foraging = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+garlic": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Garlic = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+gelatin": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Gelatin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+ginger": {
-    "result": "wasabi",
-    "reasoning": "Combine Ginger with Chili to create Wasabi."
-  },
-  "chili+goulash": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Goulash = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+granola": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Granola = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+gravy": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Gravy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+greenhouse": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Greenhouse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+gruel": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Gruel = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+guacamole": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Guacamole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+gyoza": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Gyoza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+hamburger": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Hamburger = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+harvest": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Harvest = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+hummus": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Hummus = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+ice-cream": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Ice Cream = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+jerky": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Jerky = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+juice": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Juice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+kebab": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Kebab = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+kombucha": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Kombucha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+lasagna": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Lasagna = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+lawn": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Lawn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+macaroni": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Macaroni = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+maple-syrup": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Maple Syrup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+matcha": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Matcha = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mcdonalds": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + McDonalds = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mead": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mead = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+meat": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + meat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+meringue": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Meringue = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mezcal": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mezcal = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+miso": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Miso = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mochi": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mochi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mousse": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mousse = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+muffin": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Muffin = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mushroom-soup": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mushroom Soup = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+mystery-casserole": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Mystery Casserole = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+naan": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Naan = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+nacho": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Nacho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+olive": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Olive = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+olive-oil": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Olive Oil = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+omelette": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Omelette = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+onion": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Onion = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+paella": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Paella = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pancake": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pancake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+papaya": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Papaya = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pasta": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pasta = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+peanut-butter": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Peanut Butter = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pecan-pie": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pecan Pie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pepper": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pepper = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pesto": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pesto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pho": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pho = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pickle": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pickle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pierogi": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pierogi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pizza": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pizza = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+plow": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Plow = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+popcorn": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Popcorn = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+porridge": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Porridge = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+potato": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Potato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+potluck": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Potluck = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+prosciutto": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Prosciutto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+pudding": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Pudding = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+quiche": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Quiche = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+ramen": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Ramen = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+ravioli": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Ravioli = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+relish": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Relish = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+rice": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + rice = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+risotto": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Risotto = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+roast": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Roast = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+sake": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Sake = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+salad": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Salad = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+salsa": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Salsa = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+salt": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Salt = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+sausage": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Sausage = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+scallop": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Scallop = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+silo": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Silo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+smoothie": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Smoothie = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+sorbet": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Sorbet = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+souffle": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Souffle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+soup": {
-    "result": "gumbo",
-    "reasoning": "Combine Soup with Chili to create Gumbo."
-  },
-  "chili+sourdough": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Sourdough = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+soy-sauce": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Soy Sauce = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+spice": {
-    "result": "guacamole",
-    "reasoning": "Combine Spice with Chili to create Guacamole."
-  },
-  "chili+steak": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Steak = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+stew": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Stew = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+stomach-ache": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Stomach Ache = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+sugar": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + sugar = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+taco": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Taco = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+taffy": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Taffy = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tempura": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tempura = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tiramisu": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tiramisu = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+toast": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Toast = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tofu": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tofu = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tomato": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tomato = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tortilla": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tortilla = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tractor": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tractor = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+tzatziki": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Tzatziki = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+vinaigrette": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Vinaigrette = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+vindaloo": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Vindaloo = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+vinegar": {
-    "result": "vindaloo",
-    "reasoning": "Combine Vinegar with Chili to create Vindaloo."
-  },
-  "chili+waffle": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Waffle = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+wasabi": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Wasabi = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+wheat": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + wheat = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+whiskey": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Whiskey = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+wild-game": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Wild Game = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+wine": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + wine = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+wonton": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Wonton = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chili+yogurt": {
-    "result": "mystery-casserole",
-    "reasoning": "Chili + Yogurt = Mystery Casserole. Nobody knows what's in it. Nobody asks."
-  },
-  "chocolate+coconut": {
-    "result": "candy",
-    "reasoning": "Chocolate coconut — the Mounds/Bounty bar combination"
-  },
-  "chocolate+coffee": {
-    "result": "tiramisu",
-    "reasoning": "Tiramisu — coffee-soaked ladyfingers meet chocolate mascarpone"
-  },
-  "chocolate+cookie": {
-    "result": "cake",
-    "reasoning": "Chocolate chip cookies — invented by accident in 1938"
-  },
-  "chocolate+cream": {
-    "result": "mousse",
-    "reasoning": "Chocolate mousse — cream whipped with chocolate"
-  },
-  "chocolate+dough": {
-    "result": "muffin",
-    "reasoning": "Chocolate muffins — sweetened dough's most comforting form"
-  },
-  "chocolate+egg-food": {
-    "result": "mousse",
-    "reasoning": "Combine Egg Food with Chocolate to create Mousse."
-  },
-  "chocolate+flour": {
-    "result": "cake",
-    "reasoning": "Chocolate cake — the reigning champion of desserts"
-  },
-  "chocolate+ice-cream": {
-    "result": "mousse",
-    "reasoning": "Chocolate ice cream — the #1 ice cream flavor worldwide"
-  },
-  "chocolate+mango": {
-    "result": "fondue",
-    "reasoning": "Chocolate-dipped tropical fruit — the fondue pot's finest hour"
+  "cake+croissant": {
+    "result": "bread",
+    "reasoning": "Cake and Croissant share a deep connection. Bread is a baked food product made from water, flour, and often yeast. Result: Bread."
+  },
+  "cake+custard": {
+    "result": "biscuit",
+    "reasoning": "The science is clear — A biscuit is a flour-based baked food item. Mix Cake and Custard for Biscuit."
+  },
+  "cake+dough": {
+    "result": "bread",
+    "reasoning": "Wikipedia says: Bread is a baked food product made from water, flour, and often yeast. That explains why Cake + Dough = Bread."
+  },
+  "cake+dumpling": {
+    "result": "bread",
+    "reasoning": "Here's a real-world link: Bread is a baked food product made from water, flour, and often yeast. Combine Cake with Dumpling and you get Bread."
+  },
+  "cake+flour": {
+    "result": "bread",
+    "reasoning": "Bread is a baked food product made from water, flour, and often yeast. That's the connection between Cake and Flour — giving us Bread."
+  },
+  "cake+granola": {
+    "result": "chocolate",
+    "reasoning": "Here's a real-world link: Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Combine Cake with Granola and you get Chocolate."
+  },
+  "cake+meat": {
+    "result": "biscuit",
+    "reasoning": "Cake and meat share a deep connection. A biscuit is a flour-based baked food item. Result: Biscuit."
+  },
+  "cake+mousse": {
+    "result": "chocolate",
+    "reasoning": "Here's a real-world link: Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Combine Cake with Mousse and you get Chocolate."
+  },
+  "cake+muffin": {
+    "result": "chocolate",
+    "reasoning": "Cake and Muffin share a deep connection. Chocolate is a food made from roasted and ground cocoa beans that can be a liquid, solid, or paste, either by itself or to flavor other foods. Result: Chocolate."
+  },
+  "cake+omelette": {
+    "result": "biscuit",
+    "reasoning": "The science is clear — A biscuit is a flour-based baked food item. Mix Cake and Omelette for Biscuit."
   }
 }

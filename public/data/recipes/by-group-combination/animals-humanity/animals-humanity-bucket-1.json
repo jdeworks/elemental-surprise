@@ -1,15 +1,23 @@
 {
+  "alpaca+human": {
+    "result": "camel",
+    "reasoning": "Alpaca and human share a deep connection. A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Result: Camel."
+  },
   "ambition+animal": {
     "result": "taxidermist",
-    "reasoning": "Combine Animal with Ambition to create Taxidermist."
+    "reasoning": "Ambition and animal together? Taxidermy is the art of preserving an animal's body by mounting or stuffing, for the purpose of display or study. The result: Taxidermist."
+  },
+  "anger+hornet": {
+    "result": "adrenaline",
+    "reasoning": "Adrenaline, also known as epinephrine and alternatively spelled adrenalin, is a hormone and medication which is involved in regulating visceral functions. That's the connection between Anger and Hornet — giving us Adrenaline."
   },
   "animal+anxiety": {
     "result": "taxidermist",
-    "reasoning": "Combine Animal with Anxiety to create Taxidermist."
+    "reasoning": "Taxidermy is the art of preserving an animal's body by mounting or stuffing, for the purpose of display or study. Combine animal with Anxiety and you naturally get Taxidermist."
   },
   "animal+apothecary": {
     "result": "taxidermist",
-    "reasoning": "Combine Animal with Apothecary to create Taxidermist."
+    "reasoning": "Did you know? Taxidermy is the art of preserving an animal's body by mounting or stuffing, for the purpose of display or study. That's why animal + Apothecary = Taxidermist."
   },
   "animal+brain": {
     "result": "instinct",
@@ -39,10 +47,6 @@
     "result": "veterinarian",
     "reasoning": "Veterinarians heal animals — doctors for every species but ours"
   },
-  "anteater+anxiety": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Anxiety = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+apothecary": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Apothecary = Animal Instinct. We're all just animals in fancy clothes."
@@ -55,93 +59,13 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Arts and Crafts = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+assassin": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Assassin = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+awe": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Awe = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+baker": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Baker = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+barber": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Barber = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+bard": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Bard = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+belief": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Belief = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+betrayal": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Betrayal = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+blacksmith": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Blacksmith = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+bliss": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Bliss = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+blood": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Blood = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+body": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Body = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+bone": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Bone = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+boredom": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Boredom = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+brain": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Brain = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+brewer": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Brewer = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+butcher": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Butcher = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+camping": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Camping = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+carpenter": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Carpenter = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+cartographer": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Cartographer = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+catharsis": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Catharsis = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+charisma": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Charisma = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+child": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Child = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+compassion": {
     "result": "animal-instinct",
@@ -159,81 +83,21 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Contentment = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+courage": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + courage = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+creativity": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Creativity = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+curiosity": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Curiosity = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+deja-vu": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Deja Vu = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+despair": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Despair = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+determination": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Determination = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+dilemma": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Dilemma = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+diplomat": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Diplomat = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+diver": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Diver = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+diy-disaster": {
     "result": "animal-instinct",
     "reasoning": "Anteater + DIY Disaster = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+doubt": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Doubt = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+dream": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Dream = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+ecstasy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Ecstasy = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+electrician": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Electrician = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+emotion": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Emotion = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+empathy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Empathy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+envy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Envy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+epiphany": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Epiphany = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+euphoria": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Euphoria = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+excitement": {
     "result": "animal-instinct",
@@ -243,41 +107,13 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Existential Crisis = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+eye": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + eye = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+faith": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Faith = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+family": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Family = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+fear": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + fear = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+firefighter": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Firefighter = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+florist": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Florist = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+foot": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + foot = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+forgiveness": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Forgiveness = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+free-will": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Free Will = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+frustration": {
     "result": "animal-instinct",
@@ -287,81 +123,9 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Generosity = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+geologist": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Geologist = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+glassblower": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Glassblower = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+gratitude": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Gratitude = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+grief": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Grief = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+guard": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Guard = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+hand": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + hand = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+happiness": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Happiness = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+head": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + head = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+healer": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Healer = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+hearing": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Hearing = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+heart": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Heart = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+honor": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Honor = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+hope": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Hope = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+human": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + human = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+humility": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Humility = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+hunter": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Hunter = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+hysteria": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Hysteria = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+idea": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Idea = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+identity": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Identity = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+imagination": {
     "result": "animal-instinct",
@@ -375,53 +139,13 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Inspiration = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+instinct": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Instinct = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+intelligence": {
     "result": "animal-instinct",
     "reasoning": "Anteater + intelligence = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+intuition": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Intuition = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+jealousy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Jealousy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+jeweler": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Jeweler = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+joy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Joy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+legacy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Legacy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+librarian": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Librarian = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+locksmith": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Locksmith = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+loneliness": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Loneliness = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+love": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Love = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+loyalty": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Loyalty = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+lumberjack": {
     "result": "animal-instinct",
@@ -431,25 +155,9 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Mad Scientist = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+man": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Man = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+mechanic": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Mechanic = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+melancholy": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Melancholy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+memory": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Memory = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+merchant": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Merchant = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+midlife-crisis": {
     "result": "animal-instinct",
@@ -459,30 +167,6 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Mindfulness = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+miner": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Miner = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+monk": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Monk = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+navigator": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Navigator = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+nightmare": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Nightmare = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+nostalgia": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Nostalgia = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+obsession": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Obsession = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+office-politics": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Office Politics = Animal Instinct. We're all just animals in fancy clothes."
@@ -490,14 +174,6 @@
   "anteater+overthinking": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Overthinking = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+paramedic": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Paramedic = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+patience": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Patience = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+perseverance": {
     "result": "animal-instinct",
@@ -507,37 +183,13 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Pharmacist = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+plumber": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Plumber = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+population": {
     "result": "animal-instinct",
     "reasoning": "Anteater + population = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+potter": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Potter = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+prejudice": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Prejudice = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+pride": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Pride = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+ranger": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Ranger = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+redemption": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Redemption = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+regret": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Regret = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+resentment": {
     "result": "animal-instinct",
@@ -547,101 +199,21 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Resilience = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+sacrifice": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sacrifice = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sadness": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sadness = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sailor": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sailor = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+screen-addiction": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Screen Addiction = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+scribe": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Scribe = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sense": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sense = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+serenity": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Serenity = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+shame": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Shame = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+shepherd": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Shepherd = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sight": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sight = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+skepticism": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Skepticism = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+skin": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + skin = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sleep": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + sleep = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+smell": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Smell = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+solace": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Solace = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+soul": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Soul = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+space-madness": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Space Madness = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+speech": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Speech = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+spy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Spy = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+stubbornness": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Stubbornness = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+surgeon": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Surgeon = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+sympathy": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Sympathy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+tailor": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Tailor = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+taste": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Taste = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+taxidermist": {
     "result": "animal-instinct",
@@ -651,73 +223,65 @@
     "result": "animal-instinct",
     "reasoning": "Anteater + Temptation = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+thief": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Thief = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+thought": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Thought = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+touch": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Touch = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+trauma": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Trauma = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+triumph": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Triumph = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+vengeance": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Vengeance = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "anteater+veterinarian": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Veterinarian = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+vigilance": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Vigilance = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+virtue": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Virtue = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+voice": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + voice = Animal Instinct. We're all just animals in fancy clothes."
   },
   "anteater+wanderlust": {
     "result": "animal-instinct",
     "reasoning": "Anteater + Wanderlust = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "anteater+weaver": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Weaver = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+wisdom": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Wisdom = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+woman": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Woman = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+wonder": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Wonder = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "anteater+yearning": {
-    "result": "animal-instinct",
-    "reasoning": "Anteater + Yearning = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "badger+human": {
     "result": "archaeologist",
-    "reasoning": "Combine Human with Badger to create Archaeologist."
+    "reasoning": "Here's the connection: Archaeology or archeology is the study of human activity through the recovery and analysis of material culture. So Badger + human = Archaeologist."
+  },
+  "baker+clam": {
+    "result": "butcher",
+    "reasoning": "Wikipedia says: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. That explains why Baker + Clam = Butcher."
+  },
+  "baker+emu": {
+    "result": "butcher",
+    "reasoning": "Wikipedia says: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. That explains why Baker + Emu = Butcher."
+  },
+  "baker+llama": {
+    "result": "butcher",
+    "reasoning": "Here's a real-world link: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. Combine Baker with Llama and you get Butcher."
+  },
+  "baker+lobster": {
+    "result": "butcher",
+    "reasoning": "Baker and Lobster share a deep connection. A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. Result: Butcher."
+  },
+  "baker+mouse": {
+    "result": "cat",
+    "reasoning": "Baker and Mouse share a deep connection. The cat, also called domestic cat and house cat, is a small carnivorous mammal. Result: Cat."
+  },
+  "baker+ostrich": {
+    "result": "butcher",
+    "reasoning": "Wikipedia says: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. That explains why Baker + Ostrich = Butcher."
+  },
+  "baker+porcupine": {
+    "result": "honey",
+    "reasoning": "Wikipedia says: Honey is a sweet and viscous substance made by several species of bees, the best-known of which are honey bees. That explains why Baker + Porcupine = Honey."
+  },
+  "baker+swordfish": {
+    "result": "butcher",
+    "reasoning": "The science is clear — A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. Mix Baker and Swordfish for Butcher."
+  },
+  "baker+trout": {
+    "result": "butcher",
+    "reasoning": "Here's a real-world link: A butcher is a skilled tradesperson who specialises in meatcutting, breaking down animal carcasses into primal cuts, preparation and retailing of meat, and sometimes slaughtering animals, or participates within any combination of these tasks. Combine Baker with Trout and you get Butcher."
+  },
+  "bat+skin": {
+    "result": "collagen",
+    "reasoning": "Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. So when Bat meets skin, Collagen is the natural outcome."
+  },
+  "beaver+human": {
+    "result": "camel",
+    "reasoning": "The science is clear — A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. Mix Beaver and human for Camel."
+  },
+  "bird+human": {
+    "result": "camel",
+    "reasoning": "A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits known as \"humps\" on its back. That's the connection between Bird and human — giving us Camel."
   },
   "bird+intelligence": {
     "result": "raven",
@@ -725,27 +289,119 @@
   },
   "bird+woman": {
     "result": "harpy",
-    "reasoning": "Combine Bird with Woman to create Harpy."
+    "reasoning": "Did you know? In Greek and Roman mythology, a harpy is a half-human and half-bird mythical creature, often believed to be a personification of storm winds. That's why Bird + Woman = Harpy."
   },
   "blood+insect": {
     "result": "mosquito",
-    "reasoning": "Combine Insect with Blood to create Mosquito."
+    "reasoning": "Here's the connection: Mosquitoes, the Culicidae, are a family of small flies consisting of 3,600 species. So Blood + Insect = Mosquito."
+  },
+  "blood+spider": {
+    "result": "artery",
+    "reasoning": "Here's a real-world link: An artery is a blood vessel in humans and most other animals that takes oxygenated blood away from the heart in the systemic circulation to one or more parts of the body. Combine Blood with Spider and you get Artery."
+  },
+  "brain+crocodile": {
+    "result": "axon",
+    "reasoning": "An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. That's the connection between Brain and Crocodile — giving us Axon."
+  },
+  "brain+dinosaur": {
+    "result": "antibody",
+    "reasoning": "Here's a real-world link: Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Combine Brain with Dinosaur and you get Antibody."
+  },
+  "brain+egg": {
+    "result": "bird",
+    "reasoning": "Brain and Egg share a deep connection. Birds live worldwide and range in size from the 5.5 cm (2.2 in) bee hummingbird to the 2.8 m common ostrich. Result: Bird."
   },
   "brain+fish": {
     "result": "dolphin",
     "reasoning": "Brain adapting to Fish evolves into Dolphin"
   },
+  "brain+hyena": {
+    "result": "antibody",
+    "reasoning": "The science is clear — Each individual antibody recognizes one or more specific antigens, and antigens of virtually any size and chemical composition can be recognized. Mix Brain and Hyena for Antibody."
+  },
+  "brain+lamprey": {
+    "result": "axon",
+    "reasoning": "Here's a real-world link: An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. Combine Brain with Lamprey and you get Axon."
+  },
+  "buffalo+head": {
+    "result": "bison",
+    "reasoning": "Here's a real-world link: A bison is a large bovine in the genus Bison within the tribe Bovini. Combine Buffalo with head and you get Bison."
+  },
+  "buffalo+potter": {
+    "result": "brook",
+    "reasoning": "Buffalo and Potter both belong to the world of Place Name Disambiguation Pages — combine them for Brook."
+  },
+  "buffalo+ranger": {
+    "result": "brook",
+    "reasoning": "Both Buffalo and Ranger are rooted in Place Name Disambiguation Pages. Together they make Brook."
+  },
+  "buffalo+weaver": {
+    "result": "brook",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Buffalo meets Weaver to create Brook."
+  },
+  "buffalo+wonder": {
+    "result": "brook",
+    "reasoning": "Buffalo and Wonder both belong to the world of Place Name Disambiguation Pages — combine them for Brook."
+  },
+  "bumblebee+head": {
+    "result": "bee",
+    "reasoning": "The science is clear — Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. Mix Bumblebee and head for bee."
+  },
+  "butterfly+head": {
+    "result": "bee",
+    "reasoning": "The science is clear — Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. Mix Butterfly and head for bee."
+  },
+  "butterfly+sense": {
+    "result": "bee",
+    "reasoning": "Butterfly and Sense share a deep connection. Bees are winged insects that form a monophyletic clade Anthophila within the superfamily Apoidea of the order Hymenoptera, with over 20,000 known species in seven recognized families. Result: bee."
+  },
+  "camel+human": {
+    "result": "capybara",
+    "reasoning": "Here's a real-world link: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. Combine Camel with human and you get Capybara."
+  },
+  "capybara+human": {
+    "result": "chamois",
+    "reasoning": "Here's a real-world link: It has also been introduced to the South Island of New Zealand. Combine Capybara with human and you get Chamois."
+  },
+  "capybara+veterinarian": {
+    "result": "chinchilla",
+    "reasoning": "Wikipedia says: Chinchilla is a genus consisting of two species of crepuscular rodents of the parvorder Caviomorpha, native to the Andes Mountains in South America. That explains why Capybara + Veterinarian = Chinchilla."
+  },
+  "cardinal+potter": {
+    "result": "cable",
+    "reasoning": "Cardinal and Potter both belong to the world of Place Name Disambiguation Pages — combine them for Cable."
+  },
+  "cardinal+ranger": {
+    "result": "cable",
+    "reasoning": "Cardinal and Ranger both belong to the world of Place Name Disambiguation Pages — combine them for Cable."
+  },
+  "cardinal+weaver": {
+    "result": "cable",
+    "reasoning": "Both Cardinal and Weaver are rooted in Place Name Disambiguation Pages. Together they make Cable."
+  },
   "cardinal+woman": {
     "result": "harpy",
-    "reasoning": "Combine Woman with Cardinal to create Harpy."
+    "reasoning": "Cardinal and Woman together? In Greek and Roman mythology, a harpy is a half-human and half-bird mythical creature, often believed to be a personification of storm winds. The result: Harpy."
   },
-  "chameleon+charisma": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Charisma = Animal Instinct. We're all just animals in fancy clothes."
+  "cardinal+wonder": {
+    "result": "cable",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Cardinal meets Wonder to create Cable."
   },
-  "chameleon+child": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Child = Animal Instinct. We're all just animals in fancy clothes."
+  "cat+human": {
+    "result": "capybara",
+    "reasoning": "Wikipedia says: The capybara or greater capybara is the largest living rodent, native to all countries in South America except Chile. That explains why Cat + human = Capybara."
+  },
+  "caterpillar+head": {
+    "result": "brain",
+    "reasoning": "Wikipedia says: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. That explains why Caterpillar + head = Brain."
+  },
+  "caterpillar+imagination": {
+    "result": "brain",
+    "reasoning": "The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. That's the connection between Caterpillar and imagination — giving us Brain."
+  },
+  "caterpillar+memory": {
+    "result": "brain",
+    "reasoning": "Wikipedia says: The brain is an organ that serves as the center of the nervous system in all vertebrate and most invertebrate animals. That explains why Caterpillar + Memory = Brain."
   },
   "chameleon+compassion": {
     "result": "animal-instinct",
@@ -763,10 +419,6 @@
     "result": "animal-instinct",
     "reasoning": "Chameleon + Contentment = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "chameleon+courage": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + courage = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "chameleon+creativity": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + Creativity = Animal Instinct. We're all just animals in fancy clothes."
@@ -775,69 +427,17 @@
     "result": "animal-instinct",
     "reasoning": "Chameleon + Curiosity = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "chameleon+deja-vu": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Deja Vu = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+despair": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Despair = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "chameleon+determination": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + Determination = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+dilemma": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Dilemma = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+diplomat": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Diplomat = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+diver": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Diver = Animal Instinct. We're all just animals in fancy clothes."
   },
   "chameleon+diy-disaster": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + DIY Disaster = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "chameleon+doubt": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Doubt = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+dream": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Dream = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+ecstasy": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Ecstasy = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "chameleon+electrician": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + Electrician = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+emotion": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Emotion = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+empathy": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Empathy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+envy": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Envy = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+epiphany": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Epiphany = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+euphoria": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Euphoria = Animal Instinct. We're all just animals in fancy clothes."
   },
   "chameleon+excitement": {
     "result": "animal-instinct",
@@ -847,36 +447,436 @@
     "result": "animal-instinct",
     "reasoning": "Chameleon + Existential Crisis = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "chameleon+eye": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + eye = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+faith": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Faith = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+family": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Family = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+fear": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + fear = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "chameleon+firefighter": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + Firefighter = Animal Instinct. We're all just animals in fancy clothes."
   },
-  "chameleon+florist": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + Florist = Animal Instinct. We're all just animals in fancy clothes."
-  },
-  "chameleon+foot": {
-    "result": "animal-instinct",
-    "reasoning": "Chameleon + foot = Animal Instinct. We're all just animals in fancy clothes."
-  },
   "chameleon+forgiveness": {
     "result": "animal-instinct",
     "reasoning": "Chameleon + Forgiveness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+free-will": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Free Will = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+frustration": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Frustration = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+generosity": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Generosity = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+geologist": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Geologist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+glassblower": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Glassblower = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+gratitude": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Gratitude = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+happiness": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Happiness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+imagination": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + imagination = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+impostor-syndrome": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Impostor Syndrome = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+inspiration": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Inspiration = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+intelligence": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + intelligence = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+intuition": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Intuition = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+librarian": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Librarian = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+locksmith": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Locksmith = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+loneliness": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Loneliness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+lumberjack": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Lumberjack = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+mad-scientist": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Mad Scientist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+melancholy": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Melancholy = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+midlife-crisis": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Midlife Crisis = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+mindfulness": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Mindfulness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+navigator": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Navigator = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+nightmare": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Nightmare = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+nostalgia": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Nostalgia = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+obsession": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Obsession = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+office-politics": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Office Politics = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+overthinking": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Overthinking = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+paramedic": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Paramedic = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+perseverance": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Perseverance = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+pharmacist": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Pharmacist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+population": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + population = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+prejudice": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Prejudice = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+redemption": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Redemption = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+resentment": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Resentment = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+resilience": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Resilience = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+sacrifice": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Sacrifice = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+screen-addiction": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Screen Addiction = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+skepticism": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Skepticism = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+skin": {
+    "result": "collagen",
+    "reasoning": "Chameleon and skin share a deep connection. Collagen is the main structural protein in the extracellular matrix of the connective tissues of many animals. Result: Collagen."
+  },
+  "chameleon+space-madness": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Space Madness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+stubbornness": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Stubbornness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+taxidermist": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Taxidermist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+temptation": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Temptation = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+vengeance": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Vengeance = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+veterinarian": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Veterinarian = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+vigilance": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Vigilance = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chameleon+wanderlust": {
+    "result": "animal-instinct",
+    "reasoning": "Chameleon + Wanderlust = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "chicken+child": {
+    "result": "cat",
+    "reasoning": "The science is clear — The cat, also called domestic cat and house cat, is a small carnivorous mammal. Mix Chicken and Child for Cat."
+  },
+  "chicken+curiosity": {
+    "result": "cat",
+    "reasoning": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. That's the connection between Chicken and Curiosity — giving us Cat."
+  },
+  "chicken+human": {
+    "result": "chamois",
+    "reasoning": "Chicken and human share a deep connection. It has also been introduced to the South Island of New Zealand. Result: Chamois."
+  },
+  "chicken+loneliness": {
+    "result": "cat",
+    "reasoning": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. That's the connection between Chicken and Loneliness — giving us Cat."
+  },
+  "chicken+veterinarian": {
+    "result": "cat",
+    "reasoning": "Here's a real-world link: The cat, also called domestic cat and house cat, is a small carnivorous mammal. Combine Chicken with Veterinarian and you get Cat."
+  },
+  "child+donkey": {
+    "result": "cat",
+    "reasoning": "Here's a real-world link: The cat, also called domestic cat and house cat, is a small carnivorous mammal. Combine Child with Donkey and you get Cat."
+  },
+  "child+horse": {
+    "result": "cat",
+    "reasoning": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. That's the connection between Child and Horse — giving us Cat."
+  },
+  "child+mouse": {
+    "result": "cat",
+    "reasoning": "Wikipedia says: The cat, also called domestic cat and house cat, is a small carnivorous mammal. That explains why Child + Mouse = Cat."
+  },
+  "child+rat": {
+    "result": "cat",
+    "reasoning": "Child and Rat share a deep connection. The cat, also called domestic cat and house cat, is a small carnivorous mammal. Result: Cat."
+  },
+  "child+rattlesnake": {
+    "result": "cat",
+    "reasoning": "Wikipedia says: The cat, also called domestic cat and house cat, is a small carnivorous mammal. That explains why Child + Rattlesnake = Cat."
+  },
+  "child+seahorse": {
+    "result": "cat",
+    "reasoning": "Wikipedia says: The cat, also called domestic cat and house cat, is a small carnivorous mammal. That explains why Child + Seahorse = Cat."
+  },
+  "chimpanzee+human": {
+    "result": "elephant",
+    "reasoning": "Here's a real-world link: Elephants are the largest living land animals. Combine Chimpanzee with human and you get Elephant."
+  },
+  "condor+woman": {
+    "result": "harpy",
+    "reasoning": "In Greek and Roman mythology, a harpy is a half-human and half-bird mythical creature, often believed to be a personification of storm winds. That's how Condor and Woman give us Harpy."
+  },
+  "cow+human": {
+    "result": "minotaur",
+    "reasoning": "Through mystical forces, Cow and human become Minotaur"
+  },
+  "coyote+human": {
+    "result": "jaguar",
+    "reasoning": "The jaguar is a large cat species and the only living member of the genus Panthera that is native to the Americas. That's the connection between Coyote and human — giving us Jaguar."
+  },
+  "crane+potter": {
+    "result": "clone",
+    "reasoning": "Crane and Potter both belong to the world of Place Name Disambiguation Pages — combine them for Clone."
+  },
+  "crane+ranger": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Crane meets Ranger to create Clone."
+  },
+  "crane+weaver": {
+    "result": "clone",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Crane meets Weaver to create Clone."
+  },
+  "crane+wonder": {
+    "result": "clone",
+    "reasoning": "Both Crane and Wonder are rooted in Place Name Disambiguation Pages. Together they make Clone."
+  },
+  "crocodile+curiosity": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Curiosity = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+determination": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Determination = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+diy-disaster": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + DIY Disaster = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+electrician": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Electrician = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+excitement": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Excitement = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+existential-crisis": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Existential Crisis = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+firefighter": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Firefighter = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+forgiveness": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Forgiveness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+free-will": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Free Will = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+frustration": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Frustration = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+generosity": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Generosity = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+glassblower": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Glassblower = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+imagination": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + imagination = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+impostor-syndrome": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Impostor Syndrome = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+inspiration": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Inspiration = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+intelligence": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + intelligence = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+loneliness": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Loneliness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+lumberjack": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Lumberjack = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+mad-scientist": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Mad Scientist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+melancholy": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Melancholy = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+memory": {
+    "result": "axon",
+    "reasoning": "An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. So when Crocodile meets Memory, Axon is the natural outcome."
+  },
+  "crocodile+midlife-crisis": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Midlife Crisis = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+mindfulness": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Mindfulness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+office-politics": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Office Politics = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+overthinking": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Overthinking = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+perseverance": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Perseverance = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+pharmacist": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Pharmacist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+population": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + population = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+redemption": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Redemption = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+resentment": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Resentment = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+resilience": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Resilience = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+screen-addiction": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Screen Addiction = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+skepticism": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Skepticism = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+space-madness": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Space Madness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+stubbornness": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Stubbornness = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+taxidermist": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Taxidermist = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+temptation": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Temptation = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+thought": {
+    "result": "axon",
+    "reasoning": "Wikipedia says: An axon is a long slender projection of a nerve cell or neuron found in most animals that typically conducts electrical impulses known as action potentials away from the nerve cell body. That explains why Crocodile + Thought = Axon."
+  },
+  "crocodile+veterinarian": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Veterinarian = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "crocodile+wanderlust": {
+    "result": "animal-instinct",
+    "reasoning": "Crocodile + Wanderlust = Animal Instinct. We're all just animals in fancy clothes."
+  },
+  "curiosity+donkey": {
+    "result": "cat",
+    "reasoning": "The cat, also called domestic cat and house cat, is a small carnivorous mammal. So when Curiosity meets Donkey, Cat is the natural outcome."
   }
 }

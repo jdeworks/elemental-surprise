@@ -1,150 +1,350 @@
 {
-  "suede+tide-pool": {
-    "result": "erosion",
-    "reasoning": "Suede + Tide Pool = Erosion. Nature always wins. It just takes a while."
+  "plank+water": {
+    "result": "boat",
+    "reasoning": "Crafting plank with Water produces Boat"
   },
-  "suede+tornado": {
-    "result": "erosion",
-    "reasoning": "Suede + Tornado = Erosion. Nature always wins. It just takes a while."
+  "plank+waterfall": {
+    "result": "boat",
+    "reasoning": "plank on Waterfall — a Boat. Humanity's first vehicle."
   },
-  "suede+tributary": {
-    "result": "erosion",
-    "reasoning": "Suede + Tributary = Erosion. Nature always wins. It just takes a while."
+  "plaster+stalactite": {
+    "result": "concrete",
+    "reasoning": "Plaster and Stalactite share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
   },
-  "suede+tsunami": {
-    "result": "erosion",
-    "reasoning": "Suede + Tsunami = Erosion. Nature always wins. It just takes a while."
+  "plaster+stalagmite": {
+    "result": "concrete",
+    "reasoning": "Plaster and Stalagmite share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
   },
-  "suede+tundra": {
+  "plateau+pumice": {
+    "result": "caldera",
+    "reasoning": "Plateau and Pumice share a deep connection. A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. Result: Caldera."
+  },
+  "platinum+rain": {
+    "result": "fuel-cell",
+    "reasoning": "Platinum is the essential catalyst in hydrogen fuel cells, where water — the same H2O that falls as rain — can be split into hydrogen and oxygen using electrical current, then recombined to generate clean power with water as the only byproduct."
+  },
+  "plywood+rainforest": {
+    "result": "charcoal",
+    "reasoning": "Here's a real-world link: Charcoal is a lightweight black carbon residue produced by strongly heating wood in minimal oxygen to remove all water and volatile constituents. Combine Plywood with Rainforest and you get Charcoal."
+  },
+  "prairie+steel": {
+    "result": "blacksmith",
+    "reasoning": "A blacksmith is a metalsmith who creates objects primarily from wrought iron or steel, but sometimes from other metals, by forging the metal, using tools to hammer, bend, and cut. So when Prairie meets Steel, Blacksmith is the natural outcome."
+  },
+  "prairie+suede": {
+    "result": "bison",
+    "reasoning": "A bison is a large bovine in the genus Bison within the tribe Bovini. So when Prairie meets Suede, Bison is the natural outcome."
+  },
+  "prairie+yarn": {
+    "result": "bison",
+    "reasoning": "Prairie and Yarn share a deep connection. A bison is a large bovine in the genus Bison within the tribe Bovini. Result: Bison."
+  },
+  "pressure+silicon": {
+    "result": "boiling-point",
+    "reasoning": "The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. That's the connection between Pressure and Silicon — giving us Boiling Point."
+  },
+  "pressure+tungsten": {
+    "result": "boiling-point",
+    "reasoning": "Pressure and Tungsten share a deep connection. The boiling point of a substance is the temperature at which it can change its state from a liquid to a gas. Result: Boiling Point."
+  },
+  "puddle+shale": {
+    "result": "cement",
+    "reasoning": "A cement is a binder, a chemical substance used for construction that sets, hardens, and adheres to other materials to bind them together. So when Puddle meets Shale, Cement is the natural outcome."
+  },
+  "puddle+tar": {
+    "result": "boat",
+    "reasoning": "A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. So when Puddle meets Tar, Boat is the natural outcome."
+  },
+  "puddle+varnish": {
+    "result": "boat",
+    "reasoning": "The science is clear — A boat is a watercraft of a large range of types and sizes, but generally smaller than a ship, which is distinguished by its larger size or capacity, its shape, or its ability to carry boats. Mix Puddle and Varnish for Boat."
+  },
+  "pumice+stalactite": {
+    "result": "concrete",
+    "reasoning": "The science is clear — Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Mix Pumice and Stalactite for Concrete."
+  },
+  "pumice+stalagmite": {
+    "result": "concrete",
+    "reasoning": "Pumice and Stalagmite share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "pumice+steppe": {
+    "result": "caldera",
+    "reasoning": "Wikipedia says: A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. That explains why Pumice + Steppe = Caldera."
+  },
+  "pumice+volcano": {
+    "result": "caldera",
+    "reasoning": "Wikipedia says: A caldera is a large cauldron-like hollow that forms shortly after the emptying of a magma chamber in a volcanic eruption. That explains why Pumice + Volcano = Caldera."
+  },
+  "pumice+wildlife": {
+    "result": "coral",
+    "reasoning": "Here's a real-world link: Corals are colonial marine invertebrates within the subphylum Anthozoa of the phylum Cnidaria. Combine Pumice with Wildlife and you get Coral."
+  },
+  "rain+silver": {
+    "result": "rust",
+    "reasoning": "Rain oxidizes Silver — the slow destruction of Rust."
+  },
+  "rain+soil": {
+    "result": "mud",
+    "reasoning": "Rain + Soil = Mud — simple, squishy, essential."
+  },
+  "rain+titanium": {
+    "result": "rust",
+    "reasoning": "Rain oxidizes Titanium — the slow destruction of Rust."
+  },
+  "rain+tungsten": {
+    "result": "rust",
+    "reasoning": "Rain oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "ravine+sandstone": {
+    "result": "badlands",
+    "reasoning": "Here's a real-world link: Badlands are a type of dry terrain where softer sedimentary rocks and clay-rich soils have been extensively eroded. Combine Ravine with Sandstone and you get Badlands."
+  },
+  "river+silver": {
+    "result": "rust",
+    "reasoning": "River oxidizes Silver — the slow destruction of Rust."
+  },
+  "river+soil": {
+    "result": "mud",
+    "reasoning": "River + Soil = Mud — simple, squishy, essential."
+  },
+  "river+steel": {
+    "result": "rust",
+    "reasoning": "River oxidizes Steel — the slow destruction of Rust."
+  },
+  "river+titanium": {
+    "result": "rust",
+    "reasoning": "River oxidizes Titanium — the slow destruction of Rust."
+  },
+  "river+tungsten": {
+    "result": "rust",
+    "reasoning": "River oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "rust+stalactite": {
+    "result": "bridge",
+    "reasoning": "Here's a real-world link: A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. Combine Rust with Stalactite and you get Bridge."
+  },
+  "rust+stalagmite": {
+    "result": "concrete",
+    "reasoning": "Here's a real-world link: Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Combine Rust with Stalagmite and you get Concrete."
+  },
+  "sail+thermal-pool": {
     "result": "erosion",
-    "reasoning": "Suede + Tundra = Erosion. Nature always wins. It just takes a while."
+    "reasoning": "Sail + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "sail+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "Sail + Thermal Vent = Erosion. Nature always wins. It just takes a while."
+  },
+  "sail+undergrowth": {
+    "result": "erosion",
+    "reasoning": "Sail + Undergrowth = Erosion. Nature always wins. It just takes a while."
+  },
+  "sail+volcanic-island": {
+    "result": "erosion",
+    "reasoning": "Sail + Volcanic Island = Erosion. Nature always wins. It just takes a while."
+  },
+  "sand+sandstone": {
+    "result": "brick",
+    "reasoning": "Wikipedia says: A brick is a type of building material used to build walls, pavements, and other elements in masonry construction. That explains why Sand + Sandstone = Brick."
+  },
+  "sand+silver": {
+    "result": "mirror",
+    "reasoning": "Before modern manufacturing, mirror-makers applied liquid silver to the back of glass (made from sand) in a process called silvering, creating the first reliably clear reflective surfaces."
+  },
+  "sandstone+strait": {
+    "result": "boulder",
+    "reasoning": "In geology, a boulder is a rock fragment with size greater than 25.6 cm (10.1 in) in diameter. That's the connection between Sandstone and Strait — giving us Boulder."
+  },
+  "sandstone+volcano": {
+    "result": "beach",
+    "reasoning": "A beach is a landform alongside a body of water which consists of loose particles. That's the connection between Sandstone and Volcano — giving us Beach."
+  },
+  "sea-cave+soil": {
+    "result": "mud",
+    "reasoning": "Sea Cave + Soil = Mud — simple, squishy, essential."
+  },
+  "sea-stack+silver": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Silver — the slow destruction of Rust."
+  },
+  "sea-stack+soil": {
+    "result": "mud",
+    "reasoning": "Sea Stack + Soil = Mud — simple, squishy, essential."
+  },
+  "sea-stack+steel": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Steel — the slow destruction of Rust."
+  },
+  "sea-stack+tin": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Tin — the slow destruction of Rust."
+  },
+  "sea-stack+titanium": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Titanium — the slow destruction of Rust."
+  },
+  "sea-stack+tungsten": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Tungsten — the slow destruction of Rust."
+  },
+  "sea-stack+zinc": {
+    "result": "rust",
+    "reasoning": "Sea Stack oxidizes Zinc — the slow destruction of Rust."
+  },
+  "shale+volcano": {
+    "result": "basalt",
+    "reasoning": "Wikipedia says: Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That explains why Shale + Volcano = Basalt."
+  },
+  "silicone+steam": {
+    "result": "hydrogen",
+    "reasoning": "The science is clear — Hydrogen is a chemical element; it has the symbol H and atomic number 1. Mix Silicone and Steam for Hydrogen."
+  },
+  "silicone+water": {
+    "result": "aquarium",
+    "reasoning": "The science is clear — An aquarium is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed. Mix Silicone and Water for Aquarium."
+  },
+  "slate+volcano": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. That's the connection between Slate and Volcano — giving us Basalt."
+  },
+  "smoke+solder": {
+    "result": "cobalt",
+    "reasoning": "Wikipedia says: Cobalt is a chemical element; it has symbol Co and atomic number 27. That explains why Smoke + Solder = Cobalt."
+  },
+  "smoke+wax": {
+    "result": "candle",
+    "reasoning": "A candle is an ignitable wick embedded in wax, or another flammable solid substance such as tallow, that provides light, and in some cases, a fragrance. That's the connection between Smoke and wax — giving us Candle."
+  },
+  "solder+stalactite": {
+    "result": "erosion",
+    "reasoning": "Solder + Stalactite = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+stalagmite": {
+    "result": "erosion",
+    "reasoning": "Solder + Stalagmite = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+thermal-pool": {
+    "result": "erosion",
+    "reasoning": "Solder + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "Solder + Thermal Vent = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+tide-pool": {
+    "result": "erosion",
+    "reasoning": "Solder + Tide Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+tributary": {
+    "result": "erosion",
+    "reasoning": "Solder + Tributary = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+undergrowth": {
+    "result": "erosion",
+    "reasoning": "Solder + Undergrowth = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+volcanic-island": {
+    "result": "erosion",
+    "reasoning": "Solder + Volcanic Island = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+waterfall": {
+    "result": "erosion",
+    "reasoning": "Solder + Waterfall = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+whirlpool": {
+    "result": "erosion",
+    "reasoning": "Solder + Whirlpool = Erosion. Nature always wins. It just takes a while."
+  },
+  "solder+wilderness": {
+    "result": "erosion",
+    "reasoning": "Solder + Wilderness = Erosion. Nature always wins. It just takes a while."
+  },
+  "stalactite+tar": {
+    "result": "limestone",
+    "reasoning": "Wikipedia says: Limestone is a type of carbonate sedimentary rock which is the main source of the material lime. That explains why Stalactite + Tar = Limestone."
+  },
+  "stalactite+terracotta": {
+    "result": "france",
+    "reasoning": "The science is clear — France, officially the French Republic, is a country primarily located in Western Europe. Mix Stalactite and Terracotta for France."
+  },
+  "stalagmite+tar": {
+    "result": "limestone",
+    "reasoning": "Wikipedia says: Limestone is a type of carbonate sedimentary rock which is the main source of the material lime. That explains why Stalagmite + Tar = Limestone."
+  },
+  "stone+wire": {
+    "result": "telegraph",
+    "reasoning": "Early telegraph lines were insulated using glass and stone insulators mounted on poles, allowing electrical signals to travel thousands of miles along copper wire strung across continents."
+  },
+  "stream+titanium": {
+    "result": "rust",
+    "reasoning": "stream oxidizes Titanium — the slow destruction of Rust."
+  },
+  "stream+zinc": {
+    "result": "rust",
+    "reasoning": "stream oxidizes Zinc — the slow destruction of Rust."
+  },
+  "suede+thermal-pool": {
+    "result": "erosion",
+    "reasoning": "Suede + Thermal Pool = Erosion. Nature always wins. It just takes a while."
+  },
+  "suede+thermal-vent": {
+    "result": "erosion",
+    "reasoning": "Suede + Thermal Vent = Erosion. Nature always wins. It just takes a while."
   },
   "suede+undergrowth": {
     "result": "erosion",
     "reasoning": "Suede + Undergrowth = Erosion. Nature always wins. It just takes a while."
   },
-  "suede+valley": {
-    "result": "erosion",
-    "reasoning": "Suede + Valley = Erosion. Nature always wins. It just takes a while."
-  },
   "suede+volcanic-island": {
     "result": "erosion",
     "reasoning": "Suede + Volcanic Island = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+volcano": {
-    "result": "erosion",
-    "reasoning": "Suede + Volcano = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+water": {
-    "result": "erosion",
-    "reasoning": "Suede + Water = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+waterfall": {
-    "result": "erosion",
-    "reasoning": "Suede + Waterfall = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+weather": {
-    "result": "erosion",
-    "reasoning": "Suede + weather = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+wetland": {
-    "result": "erosion",
-    "reasoning": "Suede + Wetland = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+whirlpool": {
-    "result": "erosion",
-    "reasoning": "Suede + Whirlpool = Erosion. Nature always wins. It just takes a while."
   },
   "suede+wilderness": {
     "result": "erosion",
     "reasoning": "Suede + Wilderness = Erosion. Nature always wins. It just takes a while."
   },
-  "suede+wildfire": {
-    "result": "erosion",
-    "reasoning": "Suede + Wildfire = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+wildlife": {
-    "result": "erosion",
-    "reasoning": "Suede + Wildlife = Erosion. Nature always wins. It just takes a while."
-  },
-  "suede+wind": {
-    "result": "erosion",
-    "reasoning": "Suede + Wind = Erosion. Nature always wins. It just takes a while."
-  },
-  "swamp+tin": {
-    "result": "rust",
-    "reasoning": "Swamp oxidizes Tin \u2014 the slow destruction of Rust."
-  },
   "swamp+titanium": {
     "result": "rust",
-    "reasoning": "Swamp oxidizes Titanium \u2014 the slow destruction of Rust."
+    "reasoning": "Swamp oxidizes Titanium — the slow destruction of Rust."
   },
   "swamp+tungsten": {
     "result": "rust",
-    "reasoning": "Swamp oxidizes Tungsten \u2014 the slow destruction of Rust."
+    "reasoning": "Swamp oxidizes Tungsten — the slow destruction of Rust."
   },
-  "swamp+zinc": {
-    "result": "rust",
-    "reasoning": "Swamp oxidizes Zinc \u2014 the slow destruction of Rust."
+  "taxidermy+wind": {
+    "result": "kite",
+    "reasoning": "Traditional Chinese kites were built in the shapes of birds, fish, and mythical animals using silk, bamboo, and actual feathers—wind-borne facsimiles of real creatures that are, in essence, the world's oldest form of aerial taxidermy."
   },
   "tide-pool+tin": {
     "result": "rust",
-    "reasoning": "Tide Pool oxidizes Tin \u2014 the slow destruction of Rust."
+    "reasoning": "Tide Pool oxidizes Tin — the slow destruction of Rust."
   },
   "tide-pool+titanium": {
     "result": "rust",
-    "reasoning": "Tide Pool oxidizes Titanium \u2014 the slow destruction of Rust."
+    "reasoning": "Tide Pool oxidizes Titanium — the slow destruction of Rust."
   },
   "tide-pool+tungsten": {
     "result": "rust",
-    "reasoning": "Tide Pool oxidizes Tungsten \u2014 the slow destruction of Rust."
+    "reasoning": "Tide Pool oxidizes Tungsten — the slow destruction of Rust."
   },
   "tide-pool+zinc": {
     "result": "rust",
-    "reasoning": "Tide Pool oxidizes Zinc \u2014 the slow destruction of Rust."
-  },
-  "tide+tin": {
-    "result": "rust",
-    "reasoning": "Tide oxidizes Tin \u2014 the slow destruction of Rust."
+    "reasoning": "Tide Pool oxidizes Zinc — the slow destruction of Rust."
   },
   "tide+titanium": {
     "result": "rust",
-    "reasoning": "Tide oxidizes Titanium \u2014 the slow destruction of Rust."
+    "reasoning": "Tide oxidizes Titanium — the slow destruction of Rust."
   },
   "tide+tungsten": {
     "result": "rust",
-    "reasoning": "Tide oxidizes Tungsten \u2014 the slow destruction of Rust."
-  },
-  "tide+zinc": {
-    "result": "rust",
-    "reasoning": "Tide oxidizes Zinc \u2014 the slow destruction of Rust."
+    "reasoning": "Tide oxidizes Tungsten — the slow destruction of Rust."
   },
   "volcano+zinc": {
     "result": "ingot",
-    "reasoning": "Smelting Zinc with Volcano creates an Ingot \u2014 the foundation of metallurgy."
-  },
-  "water+zinc": {
-    "result": "rust",
-    "reasoning": "Water oxidizes Zinc \u2014 the slow destruction of Rust."
+    "reasoning": "Smelting Zinc with Volcano creates an Ingot — the foundation of metallurgy."
   },
   "waterfall+zinc": {
     "result": "rust",
-    "reasoning": "Waterfall oxidizes Zinc \u2014 the slow destruction of Rust."
-  },
-  "soil+water": {
-    "result": "mud",
-    "reasoning": "Mix Water with Soil and you get Mud \u2014 simple but essential."
-  },
-  "fire+paper": {
-    "result": "ash",
-    "reasoning": "Fire turns Paper to Ash in seconds."
-  },
-  "coal+fire": {
-    "result": "heat",
-    "reasoning": "Burning Coal with Fire generates intense Heat."
-  },
-  "charcoal+fire": {
-    "result": "heat",
-    "reasoning": "Burning Charcoal with Fire generates intense Heat."
+    "reasoning": "Waterfall oxidizes Zinc — the slow destruction of Rust."
   }
 }

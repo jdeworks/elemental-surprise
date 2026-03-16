@@ -72,13 +72,20 @@ function RecipesModal({
           </button>
         </div>
         <div className="recipes-search">
-          <input
-            type="text"
-            placeholder="Search recipes..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            autoFocus
-          />
+          <div className="recipes-search-wrap">
+            <input
+              type="text"
+              placeholder="Search recipes... (click element names to filter)"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              autoFocus
+            />
+            {search && (
+              <button type="button" className="recipes-search-clear" onClick={() => setSearch('')} aria-label="Clear search">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M18 6L6 18"/><path d="M6 6l12 12"/></svg>
+              </button>
+            )}
+          </div>
         </div>
         <div className="modal-body">
           {filtered.length === 0 ? (
@@ -103,7 +110,13 @@ function RecipesModal({
                 return (
                   <li key={rKey} className="recipes-list-item">
                     <div className="recipes-list-item-top">
-                      <span>{display.a} + {display.b} → {display.result}</span>
+                      <span>
+                        <button type="button" className="recipes-element-btn" onClick={() => setSearch(display.a)}>{display.a}</button>
+                        {' + '}
+                        <button type="button" className="recipes-element-btn" onClick={() => setSearch(display.b)}>{display.b}</button>
+                        {' → '}
+                        <button type="button" className="recipes-element-btn recipes-result-btn" onClick={() => setSearch(display.result)}>{display.result}</button>
+                      </span>
                       {moreWays > 0 && (
                         <span className="recipes-more-ways">{moreWays} more {moreWays === 1 ? 'way' : 'ways'}</span>
                       )}

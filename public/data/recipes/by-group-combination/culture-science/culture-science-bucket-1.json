@@ -1,71 +1,191 @@
 {
   "acceleration+light": {
     "result": "fluorescence",
-    "reasoning": "Combine Light with Acceleration to create Fluorescence."
+    "reasoning": "Fluorescence is one of two kinds of photoluminescence, the emission of light by a substance that has absorbed light or other electromagnetic radiation. Combine Acceleration with light and you naturally get Fluorescence."
+  },
+  "accordion+harmonic": {
+    "result": "clarinet",
+    "reasoning": "Here's a real-world link: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Combine Accordion with Harmonic and you get Clarinet."
+  },
+  "accordion+hydraulics": {
+    "result": "bellows",
+    "reasoning": "Here's a real-world link: Bellows are a device constructed to expel a controlled blast of air. Combine Accordion with Hydraulics and you get Bellows."
+  },
+  "accordion+hydropower": {
+    "result": "bellows",
+    "reasoning": "Bellows are a device constructed to expel a controlled blast of air. That's the connection between Accordion and Hydropower — giving us Bellows."
+  },
+  "accordion+vacuum": {
+    "result": "bellows",
+    "reasoning": "Wikipedia says: Bellows are a device constructed to expel a controlled blast of air. That explains why Accordion + Vacuum = Bellows."
+  },
+  "acoustics+echo": {
+    "result": "harmonic",
+    "reasoning": "Here's a real-world link: In physics, acoustics, and telecommunications, a harmonic is a sinusoidal wave with a frequency that is a positive integer multiple of the fundamental frequency of a periodic signal. Combine Acoustics with Echo and you get Harmonic."
+  },
+  "acoustics+harmony": {
+    "result": "harmonic",
+    "reasoning": "In physics, acoustics, and telecommunications, a harmonic is a sinusoidal wave with a frequency that is a positive integer multiple of the fundamental frequency of a periodic signal. That's the connection between Acoustics and harmony — giving us Harmonic."
+  },
+  "acoustics+sound": {
+    "result": "doppler-effect",
+    "reasoning": "Here's a real-world link: The Doppler effect is the change in the frequency or, equivalently, the period of a wave in relation to an observer who is moving relative to the source of the wave. Combine Acoustics with sound and you get Doppler Effect."
   },
   "aerodynamics+air": {
     "result": "turbulence",
-    "reasoning": "Combine Air with Aerodynamics to create Turbulence."
+    "reasoning": "Aerodynamics and air together? In fluid dynamics, turbulence or turbulent flow is fluid motion exhibiting chaotic changes in pressure and flow velocity. The result: Turbulence."
+  },
+  "aerodynamics+ball": {
+    "result": "gravity",
+    "reasoning": "Wikipedia says: In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. That explains why Aerodynamics + Ball = Gravity."
+  },
+  "aerodynamics+kite": {
+    "result": "airplane",
+    "reasoning": "An airplane, or aeroplane, informally plane, is a fixed-wing aircraft that is propelled forward by thrust from a jet engine, propeller, or rocket engine. So when Aerodynamics meets Kite, Airplane is the natural outcome."
+  },
+  "aerodynamics+stadium": {
+    "result": "bridge",
+    "reasoning": "A bridge is a structure designed to span an obstacle, such as a river or valley, allowing vehicles, pedestrians, and other loads to pass across. So when Aerodynamics meets Stadium, Bridge is the natural outcome."
   },
   "air+convection": {
     "result": "turbulence",
-    "reasoning": "Combine Air with Convection to create Turbulence."
+    "reasoning": "In fluid dynamics, turbulence or turbulent flow is fluid motion exhibiting chaotic changes in pressure and flow velocity. Combine air with Convection and you naturally get Turbulence."
   },
   "air+solvent": {
     "result": "foam",
-    "reasoning": "Combine Air with Solvent to create Foam."
+    "reasoning": "Did you know? Foams are two-phase material systems where a gas is dispersed in a second, non-gaseous material, specifically, in which gas cells are enclosed by a distinct liquid or solid material. That's why air + Solvent = Foam."
   },
   "air+speed": {
     "result": "aerodynamics",
-    "reasoning": "Combine Speed with Air to create Aerodynamics."
+    "reasoning": "Did you know? Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. That's why air + Speed = Aerodynamics."
   },
   "air+vibration": {
     "result": "sound",
     "reasoning": "air and Vibration create sound"
   },
+  "amplitude+echo": {
+    "result": "sound",
+    "reasoning": "Wikipedia says: Sound is a phenomenon in which pressure disturbances propagate through a transmission medium. That explains why Amplitude + Echo = sound."
+  },
+  "amplitude+harmony": {
+    "result": "harmonic",
+    "reasoning": "In physics, acoustics, and telecommunications, a harmonic is a sinusoidal wave with a frequency that is a positive integer multiple of the fundamental frequency of a periodic signal. So when Amplitude meets harmony, Harmonic is the natural outcome."
+  },
+  "amplitude+sound": {
+    "result": "frequency",
+    "reasoning": "Wikipedia says: Frequency is the number of occurrences of a repeating event per unit of time. That explains why Amplitude + sound = Frequency."
+  },
+  "animation+stethoscope": {
+    "result": "braille",
+    "reasoning": "Braille is a tactile writing system used by blind or visually impaired people. That's the connection between Animation and Stethoscope — giving us Braille."
+  },
+  "aquarium+fertilizer": {
+    "result": "acid",
+    "reasoning": "An acid is a molecule or ion capable of either donating a proton (i.e. That's the connection between Aquarium and Fertilizer — giving us Acid."
+  },
+  "arcade+change": {
+    "result": "arroyo",
+    "reasoning": "Arcade and change share a deep connection. Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Result: Arroyo."
+  },
+  "arcade+pill": {
+    "result": "arroyo",
+    "reasoning": "Here's a real-world link: Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Combine Arcade with Pill and you get Arroyo."
+  },
+  "arcade+point": {
+    "result": "arroyo",
+    "reasoning": "The science is clear — Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek Mix Arcade and point for Arroyo."
+  },
+  "arcade+static": {
+    "result": "arroyo",
+    "reasoning": "Arroyo often refers to:Arroyo (watercourse), an intermittently dry creek That's the connection between Arcade and Static — giving us Arroyo."
+  },
   "art+science": {
     "result": "renaissance",
     "reasoning": "art combined with science leads to Renaissance"
   },
+  "art+time": {
+    "result": "artist",
+    "reasoning": "The science is clear — An artist is a person who creates art, or practices the arts. Mix art and time for Artist."
+  },
+  "astronomy+light": {
+    "result": "asteroid",
+    "reasoning": "Wikipedia says: An asteroid is a minor planet—an object larger than a meteoroid that is neither a planet nor an identified comet—that orbits within the inner Solar System or is co-orbital with Jupiter. That explains why Astronomy + light = Asteroid."
+  },
   "atom+light": {
     "result": "quantum",
-    "reasoning": "Atom and light explain the phenomenon of Quantum"
+    "reasoning": "Atom and light together? In physics, a quantum is the minimum amount of any physical entity involved in an interaction. The result: Quantum."
+  },
+  "ball+centrifuge": {
+    "result": "gravity",
+    "reasoning": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. So when Ball meets Centrifuge, Gravity is the natural outcome."
+  },
+  "ball+crispr": {
+    "result": "engineering",
+    "reasoning": "Wikipedia says: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. That explains why Ball + CRISPR = engineering."
+  },
+  "ball+hydraulics": {
+    "result": "engineering",
+    "reasoning": "Wikipedia says: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. That explains why Ball + Hydraulics = engineering."
+  },
+  "ball+measurement": {
+    "result": "engineering",
+    "reasoning": "Here's a real-world link: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Combine Ball with Measurement and you get engineering."
   },
   "ball+momentum": {
     "result": "newtons-cradle",
-    "reasoning": "Combine Momentum with Ball to create Newtons Cradle."
+    "reasoning": "A ball is a round object with several uses. That's how Ball and Momentum give us Newtons Cradle."
+  },
+  "ball+oscillation": {
+    "result": "gravity",
+    "reasoning": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. So when Ball meets Oscillation, Gravity is the natural outcome."
+  },
+  "ball+torque": {
+    "result": "gravity",
+    "reasoning": "In physics, gravity, also known as gravitation or a gravitational interaction, is a fundamental interaction, which may be described as the force that draws material objects towards each other. That's the connection between Ball and Torque — giving us Gravity."
+  },
+  "ball+vibration": {
+    "result": "engineering",
+    "reasoning": "Here's a real-world link: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Combine Ball with Vibration and you get engineering."
+  },
+  "banjo+harmonic": {
+    "result": "guitar",
+    "reasoning": "The science is clear — The guitar is a stringed musical instrument that is usually fretted and typically has six or twelve strings. Mix Banjo and Harmonic for Guitar."
+  },
+  "bank+glasses": {
+    "result": "cello",
+    "reasoning": "The science is clear — The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. Mix Bank and Glasses for Cello."
+  },
+  "base+block": {
+    "result": "batter",
+    "reasoning": "Base and block both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Batter."
+  },
+  "base+board": {
+    "result": "batter",
+    "reasoning": "Base and board both belong to the world of Disambiguation Pages With Surname Holder Lists — combine them for Batter."
   },
   "base+humor": {
     "result": "irony",
-    "reasoning": "Combine Humor with Base to create Irony."
+    "reasoning": "Base and humor together? Irony is a juxtaposition of what, on the surface, appears to be the case with what is actually or expected to be the case. The result: Irony."
   },
-  "beauty+biology": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Biology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "bath+change": {
+    "result": "asylum",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Bath meets change to create Asylum."
   },
-  "beauty+calculus": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Calculus = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "bath+pill": {
+    "result": "bongo",
+    "reasoning": "Bath and Pill both belong to the world of Place Name Disambiguation Pages — combine them for Bongo."
   },
-  "beauty+coffin": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Coffin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "bath+point": {
+    "result": "bongo",
+    "reasoning": "Bath and point both belong to the world of Place Name Disambiguation Pages — combine them for Bongo."
   },
-  "beauty+destiny": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Destiny = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "bath+static": {
+    "result": "bongo",
+    "reasoning": "Bath and Static both belong to the world of Place Name Disambiguation Pages — combine them for Bongo."
   },
   "beauty+genetic-engineering": {
     "result": "science-fiction",
     "reasoning": "beauty + Genetic Engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+geology": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Geology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+geometry": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Geometry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "beauty+geothermal": {
     "result": "science-fiction",
@@ -75,10 +195,6 @@
     "result": "science-fiction",
     "reasoning": "beauty + Green Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "beauty+hydrogen": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Hydrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "beauty+insulation": {
     "result": "science-fiction",
     "reasoning": "beauty + Insulation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
@@ -86,10 +202,6 @@
   "beauty+interference": {
     "result": "science-fiction",
     "reasoning": "beauty + Interference = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+joule": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Joule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "beauty+meteorology": {
     "result": "science-fiction",
@@ -99,117 +211,53 @@
     "result": "science-fiction",
     "reasoning": "beauty + Plasma State = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "beauty+point": {
-    "result": "science-fiction",
-    "reasoning": "beauty + point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+prophecy": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Prophecy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+radiation": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Radiation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "beauty+surface-tension": {
     "result": "science-fiction",
     "reasoning": "beauty + Surface Tension = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "beauty+surgery": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Surgery = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "beauty+sustainability": {
     "result": "science-fiction",
     "reasoning": "beauty + Sustainability = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "beauty+toxicity": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Toxicity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "beauty+time": {
+    "result": "artist",
+    "reasoning": "An artist is a person who creates art, or practices the arts. That's the connection between beauty and time — giving us Artist."
   },
-  "beauty+vibration": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Vibration = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "biomass+skateboard": {
+    "result": "bicycle",
+    "reasoning": "Wikipedia says: A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. That explains why Biomass + Skateboard = Bicycle."
   },
-  "beauty+wave": {
-    "result": "science-fiction",
-    "reasoning": "beauty + Wave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "biomass+snowboard": {
+    "result": "bicycle",
+    "reasoning": "A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. That's the connection between Biomass and Snowboard — giving us Bicycle."
+  },
+  "biomass+swimming": {
+    "result": "bicycle",
+    "reasoning": "Here's a real-world link: A bicycle, also called a pedal cycle, bike, push-bike or cycle, is a human-powered or motor-assisted, pedal-driven, single-track vehicle, with two wheels attached to a frame, one behind the other. Combine Biomass with Swimming and you get Bicycle."
+  },
+  "block+pill": {
+    "result": "base",
+    "reasoning": "Both block and Pill are rooted in Disambiguation Pages With Surname Holder Lists. Together they make Base."
   },
   "blues+boiling-point": {
     "result": "science-fiction",
     "reasoning": "Blues + Boiling Point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+botany": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Botany = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+brownian-motion": {
     "result": "science-fiction",
     "reasoning": "Blues + Brownian Motion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+buoyancy": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Buoyancy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+calculus": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Calculus = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+capillary-action": {
     "result": "science-fiction",
     "reasoning": "Blues + Capillary Action = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+carbon": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Carbon = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+catalyst": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Catalyst = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+centrifuge": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Centrifuge = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+centripetal-force": {
     "result": "science-fiction",
     "reasoning": "Blues + Centripetal Force = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+change": {
-    "result": "science-fiction",
-    "reasoning": "Blues + change = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+chemistry": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Chemistry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+climate-change": {
     "result": "science-fiction",
     "reasoning": "Blues + Climate Change = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+clock": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Clock = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+cloning": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Cloning = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+coffin": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Coffin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+combustion": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Combustion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+compass": {
-    "result": "science-fiction",
-    "reasoning": "Blues + compass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+compost": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Compost = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+conductivity": {
     "result": "science-fiction",
@@ -219,10 +267,6 @@
     "result": "science-fiction",
     "reasoning": "Blues + Contact Lens = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+convection": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Convection = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+coriolis-effect": {
     "result": "science-fiction",
     "reasoning": "Blues + Coriolis Effect = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
@@ -231,69 +275,17 @@
     "result": "science-fiction",
     "reasoning": "Blues + Coulombs Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+crispr": {
-    "result": "science-fiction",
-    "reasoning": "Blues + CRISPR = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+critical-mass": {
     "result": "science-fiction",
     "reasoning": "Blues + Critical Mass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+crutch": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Crutch = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+crystallization": {
     "result": "science-fiction",
     "reasoning": "Blues + Crystallization = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+death": {
-    "result": "science-fiction",
-    "reasoning": "Blues + death = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+decay": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Decay = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+density": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Density = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+destiny": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Destiny = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+diffusion": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Diffusion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+direction": {
-    "result": "science-fiction",
-    "reasoning": "Blues + direction = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+distilling": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Distilling = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+doppler-effect": {
     "result": "science-fiction",
     "reasoning": "Blues + Doppler Effect = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+drug": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Drug = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+ecology": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Ecology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+economics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Economics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+elasticity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Elasticity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+electrolysis": {
     "result": "science-fiction",
@@ -303,21 +295,9 @@
     "result": "science-fiction",
     "reasoning": "Blues + Electromagnetic Spectrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+electron": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Electron = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+element": {
-    "result": "science-fiction",
-    "reasoning": "Blues + element = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+engineering": {
     "result": "science-fiction",
     "reasoning": "Blues + engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+entropy": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Entropy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+equilibrium": {
     "result": "science-fiction",
@@ -335,14 +315,6 @@
     "result": "science-fiction",
     "reasoning": "Blues + Fermentation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+fertilizer": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Fertilizer = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+fission": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Fission = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+fluorescence": {
     "result": "science-fiction",
     "reasoning": "Blues + Fluorescence = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
@@ -355,153 +327,33 @@
     "result": "science-fiction",
     "reasoning": "Blues + Fossil Fuel = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+fragility": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Fragility = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+frequency": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Frequency = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+fulcrum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Fulcrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+fusion": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Fusion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+future": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Future = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+genetic-engineering": {
     "result": "science-fiction",
     "reasoning": "Blues + Genetic Engineering = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+geology": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Geology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+geometry": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Geometry = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+geothermal": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Geothermal = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+glasses": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Glasses = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+global-warming": {
     "result": "science-fiction",
     "reasoning": "Blues + Global Warming = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+grave": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Grave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+green-energy": {
     "result": "science-fiction",
     "reasoning": "Blues + Green Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+half-life": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Half-Life = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+harmonic": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Harmonic = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+hearing-aid": {
     "result": "science-fiction",
     "reasoning": "Blues + Hearing Aid = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+helium": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Helium = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+history": {
-    "result": "science-fiction",
-    "reasoning": "Blues + history = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+hourglass": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Hourglass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+hydraulics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Hydraulics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+hydrogen": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Hydrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+hydropower": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Hydropower = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+ideal-gas-law": {
     "result": "science-fiction",
     "reasoning": "Blues + Ideal Gas Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+impulse": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Impulse = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+inertia": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Inertia = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+infinity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Infinity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+insulation": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Insulation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+interference": {
     "result": "science-fiction",
     "reasoning": "Blues + Interference = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+ion": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Ion = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+isotope": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Isotope = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+joule": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Joule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+kinetics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Kinetics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+lab-equipment": {
     "result": "science-fiction",
     "reasoning": "Blues + Lab Equipment = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+lab-rat": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Lab Rat = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+laser": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Laser = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+lattice": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Lattice = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+line": {
-    "result": "science-fiction",
-    "reasoning": "Blues + line = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+luminescence": {
     "result": "science-fiction",
@@ -511,261 +363,61 @@
     "result": "science-fiction",
     "reasoning": "Blues + Mach Number = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+magnetism": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Magnetism = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+mass": {
-    "result": "science-fiction",
-    "reasoning": "Blues + mass = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+mathematics": {
     "result": "science-fiction",
     "reasoning": "Blues + mathematics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+matter": {
-    "result": "science-fiction",
-    "reasoning": "Blues + matter = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+measurement": {
     "result": "science-fiction",
     "reasoning": "Blues + Measurement = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+medicine": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Medicine = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+meditation": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Meditation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+meteorology": {
     "result": "science-fiction",
     "reasoning": "Blues + Meteorology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+microscope": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Microscope = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+molecule": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Molecule = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+momentum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Momentum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+mri": {
-    "result": "science-fiction",
-    "reasoning": "Blues + MRI = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+neon": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Neon = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+neutron": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Neutron = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+newtons-cradle": {
     "result": "science-fiction",
     "reasoning": "Blues + Newtons Cradle = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+nitrogen": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Nitrogen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+nuclear": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Nuclear = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+nutrition": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Nutrition = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+ohms-law": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Ohms Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+optics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Optics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+oscillation": {
     "result": "science-fiction",
     "reasoning": "Blues + Oscillation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+osmosis": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Osmosis = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+oxidation": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Oxidation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+oxygen": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Oxygen = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+pacemaker": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Pacemaker = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+pascals-law": {
     "result": "science-fiction",
     "reasoning": "Blues + Pascals Law = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+past": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Past = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+peer-pressure": {
     "result": "science-fiction",
     "reasoning": "Blues + Peer Pressure = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+pendulum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Pendulum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+phase-transition": {
     "result": "science-fiction",
     "reasoning": "Blues + Phase Transition = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+physics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Physics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+piezoelectricity": {
     "result": "science-fiction",
     "reasoning": "Blues + Piezoelectricity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+pill": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Pill = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+plasma": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Plasma = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+plasma-state": {
     "result": "science-fiction",
     "reasoning": "Blues + Plasma State = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+point": {
-    "result": "science-fiction",
-    "reasoning": "Blues + point = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+polarization": {
     "result": "science-fiction",
     "reasoning": "Blues + Polarization = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+pollution": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Pollution = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+polymer": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Polymer = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+prophecy": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Prophecy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+prosthetic": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Prosthetic = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+proton": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Proton = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+psychology": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Psychology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+quantum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Quantum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+radiation": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Radiation = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+radioactivity": {
     "result": "science-fiction",
     "reasoning": "Blues + Radioactivity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+rebirth": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Rebirth = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+recycling": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Recycling = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+refraction": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Refraction = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+relativity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Relativity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+renewable-energy": {
     "result": "science-fiction",
     "reasoning": "Blues + Renewable Energy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+resonance": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Resonance = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+rocket-science": {
     "result": "science-fiction",
     "reasoning": "Blues + Rocket Science = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+science": {
-    "result": "science-fiction",
-    "reasoning": "Blues + science = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+shape": {
-    "result": "science-fiction",
-    "reasoning": "Blues + shape = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+sharpness": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Sharpness = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+skeleton": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Skeleton = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+smog": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Smog = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+sociology": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Sociology = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+solvent": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Solvent = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+spectrum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Spectrum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+speed": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Speed = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+static": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Static = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+statistics": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Statistics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+stethoscope": {
     "result": "science-fiction",
@@ -787,21 +439,9 @@
     "result": "science-fiction",
     "reasoning": "Blues + Surface Tension = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+surgery": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Surgery = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+sustainability": {
     "result": "science-fiction",
     "reasoning": "Blues + Sustainability = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+syringe": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Syringe = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+therapy": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Therapy = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+thermocline": {
     "result": "science-fiction",
@@ -811,72 +451,432 @@
     "result": "science-fiction",
     "reasoning": "Blues + Thermodynamics = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+time": {
-    "result": "science-fiction",
-    "reasoning": "Blues + time = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+torque": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Torque = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+toxicity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Toxicity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
   "blues+transparency": {
     "result": "science-fiction",
     "reasoning": "Blues + Transparency = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+turbulence": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Turbulence = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+vaccine": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Vaccine = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+vacuum": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Vacuum = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+velocity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Velocity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+vibration": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Vibration = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+viscosity": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Viscosity = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+vitamin": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Vitamin = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+void": {
-    "result": "science-fiction",
-    "reasoning": "Blues + void = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+waste": {
-    "result": "science-fiction",
-    "reasoning": "Blues + waste = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+watch": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Watch = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
-  },
-  "blues+wave": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Wave = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
   "blues+wave-particle-duality": {
     "result": "science-fiction",
     "reasoning": "Blues + Wave-Particle Duality = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
   },
-  "blues+wavelength": {
-    "result": "science-fiction",
-    "reasoning": "Blues + Wavelength = Science Fiction. Today's sci-fi is tomorrow's Tuesday."
+  "board+pill": {
+    "result": "base",
+    "reasoning": "Both board and Pill are rooted in Disambiguation Pages With Surname Holder Lists. Together they make Base."
+  },
+  "board+wave": {
+    "result": "surfing",
+    "reasoning": "board and Wave create Surfing"
+  },
+  "bongo+change": {
+    "result": "bath",
+    "reasoning": "Both Bongo and change are rooted in Place Name Disambiguation Pages. Together they make Bath."
+  },
+  "bongo+pill": {
+    "result": "bath",
+    "reasoning": "Bongo and Pill both belong to the world of Place Name Disambiguation Pages — combine them for Bath."
+  },
+  "bongo+point": {
+    "result": "bath",
+    "reasoning": "Both Bongo and point are rooted in Place Name Disambiguation Pages. Together they make Bath."
+  },
+  "bongo+static": {
+    "result": "bath",
+    "reasoning": "Bongo and Static both belong to the world of Place Name Disambiguation Pages — combine them for Bath."
+  },
+  "buoyancy+sound": {
+    "result": "density",
+    "reasoning": "The science is clear — Density is the ratio of a substance's mass to its volume. Mix Buoyancy and sound for Density."
+  },
+  "calligraphy+yoga": {
+    "result": "couscous",
+    "reasoning": "Couscous is a traditional North African dish of small steamed granules of rolled semolina that is often served with a stew spooned on top. So when Calligraphy meets Yoga, Couscous is the natural outcome."
+  },
+  "castle+food-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "castle+rocket-science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "castle+science": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "cello+glasses": {
+    "result": "bank",
+    "reasoning": "The science is clear — A bank is a financial institution that accepts deposits from the public and creates a demand deposit while making loans. Mix Cello and Glasses for Bank."
+  },
+  "centrifuge+dance": {
+    "result": "breakdance",
+    "reasoning": "Breakdancing or breaking, also called b-boying or b-girling (women), is a style of street dance developed by African Americans and Puerto Ricans in The Bronx borough of New York City. Combine Centrifuge with Dance and you naturally get Breakdance."
+  },
+  "centrifuge+etching": {
+    "result": "bitumen",
+    "reasoning": "The science is clear — Bitumen is an immensely viscous constituent of petroleum. Mix Centrifuge and Etching for Bitumen."
+  },
+  "centrifuge+roof": {
+    "result": "bitumen",
+    "reasoning": "Centrifuge and Roof share a deep connection. Bitumen is an immensely viscous constituent of petroleum. Result: Bitumen."
+  },
+  "centrifuge+sound": {
+    "result": "density",
+    "reasoning": "Wikipedia says: Density is the ratio of a substance's mass to its volume. That explains why Centrifuge + sound = Density."
+  },
+  "centrifuge+string": {
+    "result": "dna",
+    "reasoning": "Deoxyribonucleic acid is a polymer composed of two polynucleotide chains that coil around each other to form a double helix. That's the connection between Centrifuge and string — giving us DNA."
+  },
+  "centrifuge+toyota": {
+    "result": "astronaut",
+    "reasoning": "Centrifuge and Toyota share a deep connection. An astronaut is a person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraft. Result: Astronaut."
+  },
+  "chandelier+combustion": {
+    "result": "candle",
+    "reasoning": "The science is clear — A candle is an ignitable wick embedded in wax, or another flammable solid substance such as tallow, that provides light, and in some cases, a fragrance. Mix Chandelier and Combustion for Candle."
+  },
+  "chandelier+fluorescence": {
+    "result": "candle",
+    "reasoning": "Chandelier and Fluorescence share a deep connection. A candle is an ignitable wick embedded in wax, or another flammable solid substance such as tallow, that provides light, and in some cases, a fragrance. Result: Candle."
+  },
+  "chandelier+luminescence": {
+    "result": "combustion",
+    "reasoning": "Wikipedia says: Combustion, or burning, is a high-temperature exothermic redox chemical reaction between a fuel and an oxidant, usually atmospheric oxygen, that produces oxidized, often gaseous products, in a mixture termed as smoke. That explains why Chandelier + Luminescence = Combustion."
+  },
+  "change+church": {
+    "result": "reformation",
+    "reasoning": "change and Church together? Towards the end of the Renaissance, the Reformation marked the beginning of Protestantism. The result: Reformation."
+  },
+  "change+rule": {
+    "result": "canteen",
+    "reasoning": "Both change and Rule are rooted in Place Name Disambiguation Pages. Together they make Canteen."
+  },
+  "chemistry+statue": {
+    "result": "bronze",
+    "reasoning": "Bronze is an alloy consisting primarily of copper, commonly with about 12–12.5% tin and often with the addition of other metals and sometimes non-metals or metalloids. So when Chemistry meets Statue, Bronze is the natural outcome."
+  },
+  "church+food-science": {
+    "result": "library",
+    "reasoning": "A Church filled with Food Science — a Library."
+  },
+  "church+pill": {
+    "result": "change",
+    "reasoning": "In the realm of Place Name Disambiguation Pages, Church meets Pill to create change."
+  },
+  "church+point": {
+    "result": "change",
+    "reasoning": "Both Church and point are rooted in Place Name Disambiguation Pages. Together they make change."
+  },
+  "church+rocket-science": {
+    "result": "library",
+    "reasoning": "A Church filled with Rocket Science — a Library."
+  },
+  "church+static": {
+    "result": "change",
+    "reasoning": "Both Church and Static are rooted in Place Name Disambiguation Pages. Together they make change."
+  },
+  "clarinet+harmonic": {
+    "result": "cello",
+    "reasoning": "The violoncello ( VY-ə-lən-CHEL-oh, Italian pronunciation: [vjolonˈtʃɛllo]), commonly abbreviated as cello ( CHEL-oh), is a medium-low pitched bowed string instrument of the violin family. So when Clarinet meets Harmonic, Cello is the natural outcome."
+  },
+  "classical-music+death": {
+    "result": "requiem",
+    "reasoning": "A Requiem or Requiem Mass, also known as Mass for the dead or Mass of the dead, is a Mass of the Catholic Church offered for the repose of the souls of the deceased, using a particular form of the Roman Missal. That's how Classical Music and death give us Requiem."
+  },
+  "classical-music+frequency": {
+    "result": "harmonic",
+    "reasoning": "In physics, acoustics, and telecommunications, a harmonic is a sinusoidal wave with a frequency that is a positive integer multiple of the fundamental frequency of a periodic signal. Combine Classical Music with Frequency and you naturally get Harmonic."
+  },
+  "classical-music+harmonic": {
+    "result": "sonata",
+    "reasoning": "In music, a sonata is a piece that consists of 3 or 4 movements that can be for different musical instruments. That's how Classical Music and Harmonic give us Sonata."
+  },
+  "cloning+zoo": {
+    "result": "cheetah",
+    "reasoning": "The science is clear — The cheetah is a species of large feline and the only living member of the genus Acinonyx. Mix Cloning and Zoo for Cheetah."
+  },
+  "coffin+gong": {
+    "result": "compass",
+    "reasoning": "Wikipedia says: A compass is a device that shows the cardinal directions used for navigation and geographic orientation. That explains why Coffin + Gong = compass."
+  },
+  "coffin+mario": {
+    "result": "carpenter",
+    "reasoning": "Wikipedia says: Carpentry is a skilled trade and a craft in which the primary work performed is the cutting, shaping and installation of building materials during the construction of buildings, ships, timber bridges, concrete formwork, etc. That explains why Coffin + Mario = Carpenter."
+  },
+  "coffin+requiem": {
+    "result": "taxidermy",
+    "reasoning": "Wikipedia says: Taxidermy is the art of preserving an animal's body by mounting or stuffing, for the purpose of display or study. That explains why Coffin + Requiem = Taxidermy."
+  },
+  "coffin+temple": {
+    "result": "chapel",
+    "reasoning": "A chapel is a Christian place of prayer and worship that is usually relatively small. So when Coffin meets Temple, Chapel is the natural outcome."
+  },
+  "color+fluorescence": {
+    "result": "spectrum",
+    "reasoning": "A spectrum is a set of related ideas, objects, or properties whose features overlap such that they blend to form a continuum. That's how Color and Fluorescence give us Spectrum."
+  },
+  "color+optics": {
+    "result": "spectrum",
+    "reasoning": "A spectrum is a set of related ideas, objects, or properties whose features overlap such that they blend to form a continuum. Combine Color with Optics and you naturally get Spectrum."
+  },
+  "combustion+factory": {
+    "result": "cotton",
+    "reasoning": "Combustion and Factory share a deep connection. Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. Result: Cotton."
+  },
+  "combustion+fencing": {
+    "result": "cotton",
+    "reasoning": "Wikipedia says: Cotton is a soft, fluffy staple fiber that grows in a boll, or protective case, around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae. That explains why Combustion + Fencing = Cotton."
+  },
+  "combustion+fireplace": {
+    "result": "ash",
+    "reasoning": "Ash is the solid remnants of fires. So when Combustion meets Fireplace, Ash is the natural outcome."
+  },
+  "combustion+punk-rock": {
+    "result": "lava",
+    "reasoning": "Combustion melts Punk Rock into flowing Lava."
+  },
+  "combustion+rock-music": {
+    "result": "lava",
+    "reasoning": "Combustion melts Rock Music into flowing Lava."
+  },
+  "combustion+stained-glass": {
+    "result": "lens",
+    "reasoning": "Shaping heated Stained Glass creates a Lens — focusing light since ancient Rome."
+  },
+  "compass+gong": {
+    "result": "coffin",
+    "reasoning": "compass and Gong share a deep connection. A coffin or casket is a funerary box used for viewing or keeping a corpse, for burial, entombment or cremation. Result: Coffin."
+  },
+  "compass+toilet": {
+    "result": "hydraulics",
+    "reasoning": "Hydraulics is a technology and applied science using engineering, chemistry, and other sciences involving the mechanical properties and use of liquids. So when compass meets Toilet, Hydraulics is the natural outcome."
+  },
+  "compass+tunnel": {
+    "result": "aerodynamics",
+    "reasoning": "The science is clear — Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. Mix compass and Tunnel for Aerodynamics."
+  },
+  "contact-lens+light": {
+    "result": "optics",
+    "reasoning": "Did you know? Optics is the branch of physics that studies the behaviour, manipulation, and detection of electromagnetic radiation, including its interactions with matter and instruments that use or detect it. That's why Contact Lens + light = Optics."
+  },
+  "convection+sound": {
+    "result": "density",
+    "reasoning": "Wikipedia says: Density is the ratio of a substance's mass to its volume. That explains why Convection + sound = Density."
+  },
+  "convection+tunnel": {
+    "result": "aerodynamics",
+    "reasoning": "Here's a real-world link: Aerodynamics is the study of the motion of air, particularly when affected by a solid object, such as an airplane wing. Combine Convection with Tunnel and you get Aerodynamics."
+  },
+  "cymbal+past": {
+    "result": "etymology",
+    "reasoning": "Etymology is the study of the origin and evolution of words—including their constituent units of sound and meaning—across time. So when Cymbal meets Past, Etymology is the natural outcome."
+  },
+  "cymbal+turbulence": {
+    "result": "god",
+    "reasoning": "Cymbal and Turbulence share a deep connection. In monotheistic religious belief systems, God is usually viewed as the supreme being, creator, and principal object of faith. Result: god."
+  },
+  "dam+ecology": {
+    "result": "beaver",
+    "reasoning": "The science is clear — Beavers are large semiaquatic rodents of the Northern Hemisphere. Mix Dam and Ecology for Beaver."
+  },
+  "dam+geology": {
+    "result": "basalt",
+    "reasoning": "Basalt is an aphanitic (fine-grained) extrusive igneous rock formed from the rapid cooling of low-viscosity lava rich in magnesium and iron exposed at or very near the surface of a rocky planet or moon. So when Dam meets Geology, Basalt is the natural outcome."
+  },
+  "dance+mathematics": {
+    "result": "beauty",
+    "reasoning": "Wikipedia says: Beauty is commonly described as a feature of objects that makes them pleasurable to perceive. That explains why Dance + mathematics = beauty."
+  },
+  "darkness+fluorescence": {
+    "result": "color",
+    "reasoning": "Here's a real-world link: Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Combine Darkness with Fluorescence and you get Color."
+  },
+  "darkness+polymer": {
+    "result": "color",
+    "reasoning": "Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. So when Darkness meets Polymer, Color is the natural outcome."
+  },
+  "darkness+refraction": {
+    "result": "color",
+    "reasoning": "The science is clear — Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Mix Darkness and Refraction for Color."
+  },
+  "darkness+shape": {
+    "result": "color",
+    "reasoning": "The science is clear — Color is the visual perception produced by the activation of the different types of cone cells in the eye caused by light. Mix Darkness and shape for Color."
+  },
+  "darkness+turbulence": {
+    "result": "god",
+    "reasoning": "Darkness and Turbulence share a deep connection. In monotheistic religious belief systems, God is usually viewed as the supreme being, creator, and principal object of faith. Result: god."
+  },
+  "density+lighthouse": {
+    "result": "concrete",
+    "reasoning": "Density and Lighthouse share a deep connection. Concrete is a composite material composed of aggregate bound together with a fluid cement that cures to a solid. Result: Concrete."
+  },
+  "didgeridoo+harmonic": {
+    "result": "clarinet",
+    "reasoning": "Didgeridoo and Harmonic share a deep connection. The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. Result: Clarinet."
+  },
+  "djembe+supercooling": {
+    "result": "fiberglass",
+    "reasoning": "Here's a real-world link: Fiberglass or fibreglass is a common type of fiber-reinforced plastic using glass fiber. Combine Djembe with Supercooling and you get Fiberglass."
+  },
+  "dock+hydraulics": {
+    "result": "estuary",
+    "reasoning": "The science is clear — An estuary is a partially enclosed coastal body of brackish water where freshwater from rivers or streams meets and mixes with saltwater from the open sea. Mix Dock and Hydraulics for Estuary."
+  },
+  "drum+microscope": {
+    "result": "amplitude",
+    "reasoning": "Here's a real-world link: The amplitude of a periodic variable is a measure of its change in a single period. Combine Drum with Microscope and you get Amplitude."
+  },
+  "drum+pendulum": {
+    "result": "amplitude",
+    "reasoning": "Wikipedia says: The amplitude of a periodic variable is a measure of its change in a single period. That explains why Drum + Pendulum = Amplitude."
+  },
+  "drum+resonance": {
+    "result": "amplitude",
+    "reasoning": "The amplitude of a periodic variable is a measure of its change in a single period. That's the connection between Drum and Resonance — giving us Amplitude."
+  },
+  "drum+vibration": {
+    "result": "amplitude",
+    "reasoning": "The science is clear — The amplitude of a periodic variable is a measure of its change in a single period. Mix Drum and Vibration for Amplitude."
+  },
+  "drum+wave": {
+    "result": "amplitude",
+    "reasoning": "Drum and Wave share a deep connection. The amplitude of a periodic variable is a measure of its change in a single period. Result: Amplitude."
+  },
+  "echo+frequency": {
+    "result": "acoustics",
+    "reasoning": "Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. So when Echo meets Frequency, Acoustics is the natural outcome."
+  },
+  "echo+harmonic": {
+    "result": "acoustics",
+    "reasoning": "Here's a real-world link: Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Combine Echo with Harmonic and you get Acoustics."
+  },
+  "echo+refraction": {
+    "result": "acoustics",
+    "reasoning": "Here's a real-world link: Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Combine Echo with Refraction and you get Acoustics."
+  },
+  "element+light": {
+    "result": "spectroscope",
+    "reasoning": "Did you know? An optical spectrometer is an instrument used to measure properties of light over a specific portion of the electromagnetic spectrum, typically used in spectroscopic analysis to identify materials. That's why element + light = Spectroscope."
+  },
+  "entertainment+harmonic": {
+    "result": "acoustics",
+    "reasoning": "The science is clear — Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Mix entertainment and Harmonic for Acoustics."
+  },
+  "entertainment+optics": {
+    "result": "acoustics",
+    "reasoning": "Here's a real-world link: Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Combine entertainment with Optics and you get Acoustics."
+  },
+  "entertainment+physics": {
+    "result": "acoustics",
+    "reasoning": "entertainment and Physics share a deep connection. Acoustics is a branch of continuum mechanics that deals with the study of mechanical waves in gases, liquids, and solids including topics such as vibration, sound, ultrasound and infrasound. Result: Acoustics."
+  },
+  "entertainment+time": {
+    "result": "artist",
+    "reasoning": "entertainment and time share a deep connection. An artist is a person who creates art, or practices the arts. Result: Artist."
+  },
+  "entropy+light": {
+    "result": "black-hole",
+    "reasoning": "The science is clear — A black hole is an astronomical body so compact that its gravity prevents anything, including light, from escaping. Mix Entropy and light for Black Hole."
+  },
+  "entropy+string": {
+    "result": "bit",
+    "reasoning": "Here's a real-world link: The bit is the most basic unit of information in computing and digital communication. Combine Entropy with string and you get Bit."
+  },
+  "esports+pacemaker": {
+    "result": "adrenaline",
+    "reasoning": "Adrenaline, also known as epinephrine and alternatively spelled adrenalin, is a hormone and medication which is involved in regulating visceral functions. That's the connection between Esports and Pacemaker — giving us Adrenaline."
+  },
+  "evaporation+sound": {
+    "result": "density",
+    "reasoning": "Density is the ratio of a substance's mass to its volume. That's the connection between Evaporation and sound — giving us Density."
+  },
+  "factory+food-science": {
+    "result": "library",
+    "reasoning": "A Factory filled with Food Science — a Library."
+  },
+  "factory+hydraulics": {
+    "result": "egypt",
+    "reasoning": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. That's the connection between Factory and Hydraulics — giving us Egypt."
+  },
+  "factory+joule": {
+    "result": "electricity",
+    "reasoning": "The science is clear — Electricity is the set of physical phenomena associated with the presence and motion of matter possessing an electric charge. Mix Factory and Joule for Electricity."
+  },
+  "factory+rocket-science": {
+    "result": "library",
+    "reasoning": "A Factory filled with Rocket Science — a Library."
+  },
+  "film+stethoscope": {
+    "result": "animation",
+    "reasoning": "Here's a real-world link: Animation is a filmmaking technique whereby pictures are created or manipulated and then played in sequence to create the illusion of moving images. Combine Film with Stethoscope and you get Animation."
+  },
+  "fireplace+hydraulics": {
+    "result": "bellows",
+    "reasoning": "Here's a real-world link: Bellows are a device constructed to expel a controlled blast of air. Combine Fireplace with Hydraulics and you get Bellows."
+  },
+  "fireplace+hydropower": {
+    "result": "bellows",
+    "reasoning": "Fireplace and Hydropower share a deep connection. Bellows are a device constructed to expel a controlled blast of air. Result: Bellows."
+  },
+  "fireplace+vacuum": {
+    "result": "bellows",
+    "reasoning": "Bellows are a device constructed to expel a controlled blast of air. So when Fireplace meets Vacuum, Bellows is the natural outcome."
+  },
+  "fluorescence+light": {
+    "result": "cathode-ray-tube",
+    "reasoning": "Here's a real-world link: A cathode ray tube (CRT) is a vacuum tube containing one or more electron guns, which emit electron beams, which are directed and controlled to display images on a phosphorescent screen. Combine Fluorescence with light and you get Cathode Ray Tube."
+  },
+  "flute+harmonic": {
+    "result": "clarinet",
+    "reasoning": "Wikipedia says: The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical bore and a flared bell. That explains why Flute + Harmonic = Clarinet."
+  },
+  "food-science+house": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+lighthouse": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+prison": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+punk-rock": {
+    "result": "geology",
+    "reasoning": "Studying Punk Rock through Food Science — Geology."
+  },
+  "food-science+rock-music": {
+    "result": "geology",
+    "reasoning": "Studying Rock Music through Food Science — Geology."
+  },
+  "food-science+star-wars": {
+    "result": "astronomy",
+    "reasoning": "Studying Space Opera through Food Science — Astronomy, the oldest science."
+  },
+  "food-science+temple": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+tower": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "food-science+warehouse": {
+    "result": "school",
+    "reasoning": "A Building for Knowledge creates a School, education for all"
+  },
+  "fossil-fuel+house": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel house = Pyramid — wonder of the world."
+  },
+  "fossil-fuel+lighthouse": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel Lighthouse = Pyramid — wonder of the world."
+  },
+  "fossil-fuel+prison": {
+    "result": "pyramid",
+    "reasoning": "An Fossil Fuel Prison = Pyramid — wonder of the world."
   }
 }
