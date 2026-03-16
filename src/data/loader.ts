@@ -76,8 +76,8 @@ async function loadIconBundle(bucketId: string, bustCache?: boolean): Promise<vo
   if (!bustCache && iconBundlesLoaded.has(bucketId)) return;
   const dataBase = getDataBase();
   try {
-    const url = `${dataBase}data/icons/${bucketId}.json${bustCache ? `?v=${Date.now()}` : ''}`;
-    const r = await fetch(url);
+    const url = `${dataBase}data/icons/${bucketId}.json`;
+    const r = await fetch(url, bustCache ? { cache: 'reload' } : undefined);
     if (!r.ok) return;
     const data = (await r.json()) as Record<string, string>;
     for (const [id, svg] of Object.entries(data)) {

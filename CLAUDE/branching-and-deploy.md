@@ -32,7 +32,13 @@ Runtime data and icons served via jsDelivr from the `dev` branch:
 
 Content updates (elements, recipes, icons) go live without rebuilding — just push to `dev`.
 
-**Important:** jsDelivr caches files. After pushing data/icon changes, allow a few minutes for CDN propagation. Use `?v=timestamp` cache-busting if needed.
+**Important:** jsDelivr caches files aggressively (up to 24h). After pushing data/icon changes, purge the cache:
+
+```bash
+./scripts/purge-cdn-cache.sh    # Purge icon bundles and data indexes from jsDelivr
+```
+
+Note: jsDelivr strips query params, so `?v=timestamp` does NOT work for CDN cache busting. The purge API is the only reliable way.
 
 ## Local Testing
 
