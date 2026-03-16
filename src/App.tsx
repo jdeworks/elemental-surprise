@@ -7,7 +7,7 @@ import { Workspace } from './components/Workspace';
 import { DraggableElement } from './components/Element';
 import { saveGame, loadGame, clearGame } from './services/storage';
 import type { WorkspaceElement } from './services/storage';
-import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, ensureAllRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl } from './data/loader';
+import { loadData, getElement, getRecipe, hasRecipe, getRecipeAsync, getAllRecipes, getAllElements, getTotalRecipeCount, getTotalElementCount, getRecipeDisplay, getRecipeResult, getRecipeReasoning, ensureElementsLoaded, ensureElementLoaded, ensureRecipesLoaded, getRecipeCountForElement, getValidElementIds, getValidRecipeKeys, preloadRecipeBucketsForGroups, toPublicUrl } from './data/loader';
 import { Tutorial } from './components/Tutorial';
 import { AchievementsModal } from './components/AchievementsModal';
 import { LoadingBar } from './components/LoadingBar';
@@ -32,12 +32,13 @@ function RecipesModal({
   onOpen: () => void;
   refreshTrigger: number;
 }) {
-  const [allLoaded, setAllLoaded] = useState(false);
   const [search, setSearch] = useState('');
 
   useEffect(() => {
     onOpen();
-    ensureAllRecipesLoaded().then(() => setAllLoaded(true));
+    // Note: we no longer call ensureAllRecipesLoaded() here because with 137k
+    // recipes across 693 bucket files, that would download ~19MB of data.
+    // The "more ways" counter is computed from already-loaded recipes only.
   }, []);
 
   const lowerSearch = search.toLowerCase();
@@ -90,11 +91,12 @@ function RecipesModal({
                 const display = getRecipeDisplay(rKey);
                 if (!display) return null;
                 const resultId = getRecipeResult(rKey);
-                const totalWays = allLoaded && resultId ? getRecipeCountForElement(resultId) : 0;
+                // Count "more ways" from already-loaded recipes only (no bulk download)
+                const totalWays = resultId ? getRecipeCountForElement(resultId) : 0;
                 const discoveredWays = resultId
                   ? discoveredRecipes.filter((k) => getRecipeResult(k) === resultId).length
                   : 0;
-                const moreWays = totalWays - discoveredWays;
+                const moreWays = totalWays > discoveredWays ? totalWays - discoveredWays : 0;
                 const reasoning = getRecipeReasoning(rKey);
                 return (
                   <li key={rKey} className="recipes-list-item">
@@ -413,8 +415,19 @@ function App() {
     }
   }, [workspaceElements, discovered]);
 
-  const handleHint = useCallback(() => {
+  const handleHint = useCallback(async () => {
     if (hintCooldown) return;
+
+    // Ensure recipe buckets for discovered elements' groups are loaded
+    // (they may not be if the background preload hasn't finished yet)
+    const groups = new Set<string>();
+    for (const id of discovered) {
+      const el = getElement(id);
+      if (el?.group) groups.add(el.group);
+    }
+    if (groups.size > 0) {
+      await preloadRecipeBucketsForGroups([...groups]);
+    }
 
     const allRecipes = getAllRecipes();
     const candidates = Object.entries(allRecipes).filter(([key, result]) => {
