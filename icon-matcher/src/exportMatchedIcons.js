@@ -301,7 +301,51 @@ function buildGameIconIndex(gameIconsDir) {
 function resolveGameIconByElement(gameIndex, element) {
   const normalized = normalizeKey(element);
   const compact = normalizeCompact(element);
-  return gameIndex.get(normalized) || gameIndex.get(compact) || null;
+  // Exact match first
+  const exact = gameIndex.get(normalized) || gameIndex.get(compact);
+  if (exact) return exact;
+  return null;
+}
+
+/**
+ * Fuzzy/token matching for game-icons.
+ * Tries: token overlap, prefix matching, and substring matching.
+ * Returns the best match or null. Lower priority than exact match.
+ */
+function resolveGameIconFuzzy(gameIndex, element, usedIcons) {
+  const normalized = normalizeKey(element);
+  const tokens = normalized.split('-').filter((t) => t.length > 2);
+  if (tokens.length === 0) return null;
+
+  // Collect candidates with scores
+  const candidates = [];
+  for (const [key, iconPath] of gameIndex.entries()) {
+    // Skip compact (non-hyphenated) keys to avoid double-counting
+    if (!key.includes('-') && key.length > 15) continue;
+    // Skip already used icons
+    if (usedIcons && usedIcons.has(iconPath)) continue;
+
+    const iconTokens = key.split('-').filter((t) => t.length > 2);
+    if (iconTokens.length === 0) continue;
+
+    // Score by token overlap
+    const overlap = tokens.filter((t) => iconTokens.includes(t)).length;
+    if (overlap === 0) continue;
+
+    // Bonus for matching the primary (first) token
+    const primaryMatch = tokens[0] === iconTokens[0] ? 2 : 0;
+    // Bonus for similar length (penalize very different lengths)
+    const lengthDiff = Math.abs(tokens.length - iconTokens.length);
+    const score = overlap * 3 + primaryMatch - lengthDiff;
+
+    if (score >= 3) {
+      candidates.push({ path: iconPath, key, score });
+    }
+  }
+
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => b.score - a.score);
+  return candidates[0].path;
 }
 
 function loadSourceOverrides(overridesPath) {
@@ -371,6 +415,36 @@ function buildEmojiCandidatesByCode(mappedCode, openmojiDir, twemojiDir, notoDir
   return candidates;
 }
 
+function resolveFluentFuzzy(fluentIndex, element, usedIcons) {
+  const normalized = normalizeKey(element);
+  const tokens = normalized.split('-').filter((t) => t.length > 2);
+  if (tokens.length === 0) return null;
+
+  const candidates = [];
+  for (const [key, iconPath] of fluentIndex.entries()) {
+    if (!key.includes('-') && key.length > 15) continue;
+    if (usedIcons && usedIcons.has(iconPath)) continue;
+
+    const iconTokens = key.split('-').filter((t) => t.length > 2);
+    if (iconTokens.length === 0) continue;
+
+    const overlap = tokens.filter((t) => iconTokens.includes(t)).length;
+    if (overlap === 0) continue;
+
+    const primaryMatch = tokens[0] === iconTokens[0] ? 2 : 0;
+    const lengthDiff = Math.abs(tokens.length - iconTokens.length);
+    const score = overlap * 3 + primaryMatch - lengthDiff;
+
+    if (score >= 3) {
+      candidates.push({ path: iconPath, key, score });
+    }
+  }
+
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => b.score - a.score);
+  return candidates[0].path;
+}
+
 function selectBestVisualCandidate({
   element,
   group,
@@ -380,7 +454,8 @@ function selectBestVisualCandidate({
   notoDir,
   fluentIndex,
   gameIndex,
-  sourceOverrides
+  sourceOverrides,
+  usedIcons
 }) {
   const groupKey = normalizeGroup(group);
   const emojiOrder = getEmojiSourceOrder(group);
@@ -434,6 +509,32 @@ function selectBestVisualCandidate({
       reason: 'exact-element-match',
       score: GROUPS_PREFER_GAME.has(groupKey) ? 97 : 83
     });
+  }
+
+  // Fuzzy/token matching for game-icons (lower priority than exact)
+  if (!gamePick) {
+    const gameFuzzy = resolveGameIconFuzzy(gameIndex, element, usedIcons);
+    if (gameFuzzy) {
+      candidates.push({
+        source: 'gameicons',
+        path: gameFuzzy,
+        reason: 'fuzzy-token-match',
+        score: GROUPS_PREFER_GAME.has(groupKey) ? 88 : 75
+      });
+    }
+  }
+
+  // Fuzzy/token matching for fluent (lower priority than exact)
+  if (!fluentPick) {
+    const fluentFuzzy = resolveFluentFuzzy(fluentIndex, element, usedIcons);
+    if (fluentFuzzy) {
+      candidates.push({
+        source: 'fluent',
+        path: fluentFuzzy,
+        reason: 'fuzzy-token-match',
+        score: GROUPS_PREFER_FLUENT.has(groupKey) ? 89 : 76
+      });
+    }
   }
 
   if (candidates.length === 0) return null;
@@ -653,6 +754,9 @@ function main() {
     return { bySourceDir, bySourceGroupDir };
   }
 
+  // Track which icon files have been used to prevent duplicates in fuzzy matching
+  const usedIcons = new Set();
+
   for (const [element, mapped] of entries) {
     const fileName = `${sanitizeFileName(element)}.svg`;
     const targetPath = path.join(outputDir, fileName);
@@ -675,7 +779,8 @@ function main() {
         notoDir,
         fluentIndex,
         gameIndex,
-        sourceOverrides
+        sourceOverrides,
+        usedIcons
       });
 
       if (!resolved && brandPick) {
@@ -717,6 +822,9 @@ function main() {
     } else {
       fs.copyFileSync(resolved.path, targetPath);
     }
+
+    // Track used icons to prevent duplicate fuzzy assignments
+    if (resolved.path) usedIcons.add(resolved.path);
 
     addToGrouping(resolved.source, element);
     const dirs = ensureSourceDirectories(resolved.source, group);
