@@ -596,6 +596,40 @@ function resolveFluentFuzzy(fluentIndex, element, usedIcons) {
   return candidates[0].path;
 }
 
+/**
+ * Generic fuzzy/token matching for any icon index.
+ * Reuses the same logic as resolveGameIconFuzzy / resolveFluentFuzzy.
+ */
+function resolveGenericFuzzy(index, element, usedIcons) {
+  const normalized = normalizeKey(element);
+  const tokens = normalized.split('-').filter((t) => t.length > 2);
+  if (tokens.length === 0) return null;
+
+  const candidates = [];
+  for (const [key, iconPath] of index.entries()) {
+    if (!key.includes('-') && key.length > 15) continue;
+    if (usedIcons && usedIcons.has(iconPath)) continue;
+
+    const iconTokens = key.split('-').filter((t) => t.length > 2);
+    if (iconTokens.length === 0) continue;
+
+    const overlap = tokens.filter((t) => iconTokens.includes(t)).length;
+    if (overlap === 0) continue;
+
+    const primaryMatch = tokens[0] === iconTokens[0] ? 2 : 0;
+    const lengthDiff = Math.abs(tokens.length - iconTokens.length);
+    const score = overlap * 3 + primaryMatch - lengthDiff;
+
+    if (score >= 3) {
+      candidates.push({ path: iconPath, key, score });
+    }
+  }
+
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => b.score - a.score);
+  return candidates[0].path;
+}
+
 function selectBestVisualCandidate({
   element,
   group,
@@ -699,7 +733,7 @@ function selectBestVisualCandidate({
     }
   }
 
-  // Health Icons — exact match
+  // Health Icons — exact match (score high: these are domain-specific, exact name match is very good)
   const healthNorm = normalizeKey(element);
   const healthPick = healthiconsIndex.get(healthNorm) || null;
   if (healthPick) {
@@ -707,7 +741,7 @@ function selectBestVisualCandidate({
       source: 'healthicons',
       path: healthPick,
       reason: 'exact-element-match',
-      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 96 : 80
+      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 99 : 92
     });
   }
 
@@ -718,7 +752,7 @@ function selectBestVisualCandidate({
       source: 'weathericons',
       path: weatherPick,
       reason: 'exact-element-match',
-      score: GROUPS_PREFER_WEATHER.has(groupKey) ? 96 : 80
+      score: GROUPS_PREFER_WEATHER.has(groupKey) ? 99 : 92
     });
   }
 
@@ -729,7 +763,7 @@ function selectBestVisualCandidate({
       source: 'iconpark',
       path: iconparkPick,
       reason: 'exact-element-match',
-      score: 80
+      score: 91
     });
   }
 
@@ -740,8 +774,34 @@ function selectBestVisualCandidate({
       source: 'bioicons',
       path: bioiconsPick,
       reason: 'exact-element-match',
-      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 95 : 79
+      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 98 : 91
     });
+  }
+
+  // Fuzzy/token matching for new sources (lower priority than exact)
+  if (!healthPick) {
+    const healthFuzzy = resolveGenericFuzzy(healthiconsIndex, element, usedIcons);
+    if (healthFuzzy) {
+      candidates.push({ source: 'healthicons', path: healthFuzzy, reason: 'fuzzy-token-match', score: GROUPS_PREFER_HEALTH.has(groupKey) ? 87 : 74 });
+    }
+  }
+  if (!weatherPick) {
+    const weatherFuzzy = resolveGenericFuzzy(weathericonsIndex, element, usedIcons);
+    if (weatherFuzzy) {
+      candidates.push({ source: 'weathericons', path: weatherFuzzy, reason: 'fuzzy-token-match', score: GROUPS_PREFER_WEATHER.has(groupKey) ? 87 : 74 });
+    }
+  }
+  if (!iconparkPick) {
+    const iconparkFuzzy = resolveGenericFuzzy(iconparkIndex, element, usedIcons);
+    if (iconparkFuzzy) {
+      candidates.push({ source: 'iconpark', path: iconparkFuzzy, reason: 'fuzzy-token-match', score: 73 });
+    }
+  }
+  if (!bioiconsPick) {
+    const bioiconsFuzzy = resolveGenericFuzzy(bioiconsIndex, element, usedIcons);
+    if (bioiconsFuzzy) {
+      candidates.push({ source: 'bioicons', path: bioiconsFuzzy, reason: 'fuzzy-token-match', score: GROUPS_PREFER_HEALTH.has(groupKey) ? 86 : 73 });
+    }
   }
 
   if (candidates.length === 0) return null;
