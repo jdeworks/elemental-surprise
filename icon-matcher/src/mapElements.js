@@ -15,14 +15,33 @@ function loadJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf8'));
 }
 
-function buildOverrideMaps(overrides) {
+// Regional indicator flag codepoints: two 1F1XX codes (country flags) or 1F3F4 sequences (subdivision flags)
+function isFlagCodepoint(code) {
+  if (!code) return false;
+  const upper = code.toUpperCase();
+  // Regional indicator pairs: 1F1E6-1F1FF range
+  if (/^1F1[A-F0-9]{2}-1F1[A-F0-9]{2}$/.test(upper)) return true;
+  // Subdivision flags (e.g. Wales, Scotland, England)
+  if (upper.startsWith('1F3F4-E00')) return true;
+  return false;
+}
+
+function buildOverrideMaps(overrides, warnOnFlags = true) {
   const exact = new Map();
   const tokens = new Map();
 
   if (overrides && overrides.exact && typeof overrides.exact === 'object') {
     for (const [key, value] of Object.entries(overrides.exact)) {
       const normalized = normalizeElement(key);
-      if (normalized && value) exact.set(normalized, String(value).toUpperCase());
+      if (!normalized || !value) continue;
+      const code = String(value).toUpperCase();
+      // Skip flag codepoints for non-country elements
+      const isCountryElement = ['brazil', 'china', 'egypt', 'europe', 'france', 'japan', 'russia', 'sweden', 'switzerland', 'uk', 'usa'].includes(normalized);
+      if (isFlagCodepoint(code) && !isCountryElement) {
+        if (warnOnFlags) console.warn(`  Warning: skipping flag override for "${key}" → ${code}`);
+        continue;
+      }
+      exact.set(normalized, code);
     }
   }
 
@@ -80,7 +99,13 @@ function splitElement(element) {
 }
 
 function isFlagEntry(entry) {
-  return Boolean(entry && entry.name && entry.name.startsWith('flag_'));
+  if (!entry || !entry.name) return false;
+  const name = entry.name.toLowerCase();
+  // Match any flag: "flag_xxx", "xxx_flag", "pirate_flag", "white_flag", etc.
+  if (name.includes('flag')) return true;
+  // Also check if the code is a regional indicator pair (country flag)
+  if (entry.code && isFlagCodepoint(entry.code)) return true;
+  return false;
 }
 
 function findStrictExactMatch(element, emojiIndex) {
