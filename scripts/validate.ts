@@ -1,3 +1,4 @@
+import fs from 'node:fs';
 import path from 'node:path';
 import { loadGameData, STARTERS } from './lib/load-data.js';
 import { validateData } from './lib/reachability.js';
@@ -74,8 +75,71 @@ if (report.missingReasonings > 0) {
   console.log();
 }
 
+// ── Icon validation ──────────────────────────────────────────────────────────
+
+const missingIcons: string[] = [];
+const brokenIcons: string[] = [];
+const iconBundleDir = path.join(dataDir, 'data', 'icons');
+
+for (const [id, el] of Object.entries(elements)) {
+  // Check SVG file exists
+  const iconPath = el.icon.replace(/^\.\//, '');
+  const fullPath = path.join(dataDir, iconPath);
+  if (!fs.existsSync(fullPath)) {
+    missingIcons.push(`${id} → ${iconPath}`);
+    continue;
+  }
+  // Check SVG is valid (has <svg tag)
+  const content = fs.readFileSync(fullPath, 'utf-8');
+  if (!content.includes('<svg')) {
+    brokenIcons.push(`${id} → ${iconPath} (not valid SVG)`);
+  }
+}
+
+// Check icon bundles reference all elements
+const bundleElements = new Set<string>();
+if (fs.existsSync(iconBundleDir)) {
+  for (const file of fs.readdirSync(iconBundleDir).filter(f => f.endsWith('.json'))) {
+    try {
+      const bundle = JSON.parse(fs.readFileSync(path.join(iconBundleDir, file), 'utf-8'));
+      for (const key of Object.keys(bundle)) bundleElements.add(key);
+    } catch { /* skip broken bundles */ }
+  }
+}
+const missingFromBundles = Object.keys(elements).filter(id => bundleElements.size > 0 && !bundleElements.has(id));
+
+console.log(`Icons:     ${Object.keys(elements).length - missingIcons.length} present, ${missingIcons.length} missing, ${brokenIcons.length} broken`);
+if (bundleElements.size > 0) {
+  console.log(`Bundles:   ${bundleElements.size} bundled, ${missingFromBundles.length} missing from bundles`);
+}
+console.log();
+
+if (missingIcons.length > 0) {
+  console.log('Missing icon files:');
+  for (const m of missingIcons.slice(0, 20)) console.log(`  ${m}`);
+  if (missingIcons.length > 20) console.log(`  ... and ${missingIcons.length - 20} more`);
+  console.log();
+}
+
+if (brokenIcons.length > 0) {
+  console.log('Broken icon files (not valid SVG):');
+  for (const b of brokenIcons.slice(0, 20)) console.log(`  ${b}`);
+  if (brokenIcons.length > 20) console.log(`  ... and ${brokenIcons.length - 20} more`);
+  console.log();
+}
+
+if (missingFromBundles.length > 0) {
+  console.log('Elements missing from icon bundles:');
+  for (const m of missingFromBundles.slice(0, 20)) console.log(`  ${m}`);
+  if (missingFromBundles.length > 20) console.log(`  ... and ${missingFromBundles.length - 20} more`);
+  console.log();
+}
+
 if (report.unreachable.length === 0 && report.brokenRefs.length === 0) {
   console.log('All elements reachable. No broken references. OK.');
+  if (missingIcons.length > 0 || brokenIcons.length > 0) {
+    console.warn(`Warning: ${missingIcons.length} missing + ${brokenIcons.length} broken icons.`);
+  }
   process.exit(0);
 } else {
   console.log('VALIDATION FAILED.');

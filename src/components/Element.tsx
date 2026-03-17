@@ -71,7 +71,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
       {...(isOverlay ? {} : { ...listeners, ...attributes })}
       data-testid={`element-${type}`}
     >
-      <img src={getResolvedIconUrl(element.id, element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} onLoad={(e) => (e.currentTarget.classList.add('icon-loaded'))} />
+      <img src={getResolvedIconUrl(element.id, element.icon, iconCacheBust)} alt={element.name} className="element-icon" width={isLibrary ? 48 : 44} height={isLibrary ? 48 : 44} onLoad={(e) => (e.currentTarget.classList.add('icon-loaded'))} onError={(e) => { e.currentTarget.classList.add('icon-loaded'); e.currentTarget.src = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23999" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>'; }} />
       <span className="element-name">{element.name}</span>
       {showLabel && !isLibrary && (
         <span className="element-label">{element.name}</span>

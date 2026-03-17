@@ -75,17 +75,23 @@ const iconBundlesLoaded = new Set<string>();
 async function loadIconBundle(bucketId: string, bustCache?: boolean): Promise<void> {
   if (!bustCache && iconBundlesLoaded.has(bucketId)) return;
   const dataBase = getDataBase();
-  try {
-    const url = `${dataBase}data/icons/${bucketId}.json`;
-    const r = await fetch(url, bustCache ? { cache: 'reload' } : undefined);
-    if (!r.ok) return;
-    const data = (await r.json()) as Record<string, string>;
-    for (const [id, svg] of Object.entries(data)) {
-      iconSvgCache[id] = svg;
+  const url = `${dataBase}data/icons/${bucketId}.json`;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      const r = await fetch(url, bustCache ? { cache: 'reload' } : undefined);
+      if (!r.ok) {
+        if (attempt === 0) continue; // retry once
+        return;
+      }
+      const data = (await r.json()) as Record<string, string>;
+      for (const [id, svg] of Object.entries(data)) {
+        iconSvgCache[id] = svg;
+      }
+      iconBundlesLoaded.add(bucketId);
+      return;
+    } catch {
+      if (attempt === 0) continue; // retry once
     }
-    iconBundlesLoaded.add(bucketId);
-  } catch {
-    // Bundle failed to load
   }
 }
 
@@ -117,6 +123,8 @@ export function getIconBlobUrl(elementId: string): string | null {
   if (iconBlobUrls[elementId]) return iconBlobUrls[elementId];
   const svg = iconSvgCache[elementId];
   if (!svg) return null;
+  // Skip clearly broken SVG content (empty or not actually SVG)
+  if (!svg.includes('<svg')) return null;
   const blob = new Blob([svg], { type: 'image/svg+xml' });
   const url = URL.createObjectURL(blob);
   iconBlobUrls[elementId] = url;
@@ -307,9 +315,12 @@ export function loadData(onProgress?: ProgressCallback): Promise<void> {
 
 // ─── On-demand loading ──────────────────────────────────────────────────────
 
-/** Load the bucket that contains the given element id. */
+/** Load the bucket that contains the given element id (element data + icon bundle). */
 export async function ensureElementLoaded(id: string): Promise<void> {
-  if (elements[id]) return;
+  // Check if both element data AND icon SVG are loaded
+  const hasElement = !!elements[id];
+  const hasIcon = !!iconSvgCache[id];
+  if (hasElement && hasIcon) return;
   if (!elementsMaster) return;
 
   // Find which group this element belongs to by checking loaded group indexes
@@ -318,10 +329,10 @@ export async function ensureElementLoaded(id: string): Promise<void> {
     if (bucketId) {
       const bucketFile = idx.buckets[bucketId];
       if (bucketFile) {
-        await Promise.all([
-          loadElementsBucket(group, bucketId, bucketFile),
-          loadIconBundle(bucketId),
-        ]);
+        const loads: Promise<void>[] = [];
+        if (!hasElement) loads.push(loadElementsBucket(group, bucketId, bucketFile));
+        if (!hasIcon) loads.push(loadIconBundle(bucketId));
+        if (loads.length > 0) await Promise.all(loads);
       }
       return;
     }
@@ -335,10 +346,10 @@ export async function ensureElementLoaded(id: string): Promise<void> {
     if (bucketId) {
       const bucketFile = idx.buckets[bucketId];
       if (bucketFile) {
-        await Promise.all([
-          loadElementsBucket(group, bucketId, bucketFile),
-          loadIconBundle(bucketId),
-        ]);
+        const loads: Promise<void>[] = [];
+        if (!hasElement) loads.push(loadElementsBucket(group, bucketId, bucketFile));
+        if (!hasIcon) loads.push(loadIconBundle(bucketId));
+        if (loads.length > 0) await Promise.all(loads);
       }
       return;
     }
@@ -427,6 +438,23 @@ export function getAllElements(): ElementDef[] {
 
 export function getAllRecipes(): Record<string, string> {
   return recipes;
+}
+
+/** Return all recipe keys from combo indexes (includes unloaded buckets). */
+export function getAllRecipeKeysFromIndex(): Set<string> {
+  const keys = new Set<string>();
+  for (const idx of recipeComboIndexes.values()) {
+    for (const key of Object.keys(idx.recipeKeyToBucket)) {
+      keys.add(key);
+    }
+  }
+  return keys;
+}
+
+/** Load the recipe bucket for a given recipe key (if not already loaded). */
+export async function ensureRecipeBucketForKey(key: string): Promise<void> {
+  if (recipes[key] !== undefined) return;
+  await ensureRecipeLoaded(key);
 }
 
 /** Total number of elements (from master index or from loaded cache). */

@@ -1,6 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { WorkspaceElement } from '../services/storage';
-import { hasRecipe, getAllRecipes, preloadRecipeBucketsForGroups, getElement } from '../data/loader';
+import { hasRecipe, getAllRecipeKeysFromIndex, ensureRecipeBucketForKey, preloadRecipeBucketsForGroups, getElement } from '../data/loader';
 
 export interface AutoSolverConfig {
   active: boolean;
@@ -82,22 +82,16 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
   const findFrontierPair = useCallback((): [string, string] | null => {
     const disc = new Set(discoveredRef.current);
     const knownRecipes = new Set(recipesRef.current);
-    const allRecipes = getAllRecipes();
+    // Use combo indexes (loaded at startup) to find ALL recipe keys,
+    // not just recipes from loaded buckets
+    const allKeys = getAllRecipeKeysFromIndex();
     const candidates: [string, string][] = [];
 
-    for (const [key, result] of Object.entries(allRecipes)) {
+    for (const key of allKeys) {
+      if (knownRecipes.has(key)) continue;
       const [a, b] = key.split('+');
-      if (disc.has(a) && disc.has(b) && !disc.has(result) && !knownRecipes.has(key)) {
+      if (disc.has(a) && disc.has(b)) {
         candidates.push([a, b]);
-      }
-    }
-    if (candidates.length === 0) {
-      // All results discovered — try undiscovered recipe keys
-      for (const key of Object.keys(allRecipes)) {
-        const [a, b] = key.split('+');
-        if (disc.has(a) && disc.has(b) && !knownRecipes.has(key)) {
-          candidates.push([a, b]);
-        }
       }
     }
     if (candidates.length === 0) return null;
@@ -177,6 +171,10 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
             // We can't clear from here — just spawn and let results pile up
             // The user can clear manually
           }
+          // Preload the recipe bucket so hasRecipe() works for the spawned pair
+          const fpKey = [fp[0], fp[1]].sort().join('+');
+          await ensureRecipeBucketForKey(fpKey);
+          if (cancelled) break;
           onSpawnRef.current(fp[0]);
           await delay(SPAWN_PAUSE);
           if (cancelled) break;

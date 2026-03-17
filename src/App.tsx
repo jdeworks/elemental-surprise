@@ -170,6 +170,7 @@ function App() {
   const [loadingProgress, setLoadingProgress] = useState<LoadingProgress | null>(null);
   const [fallbackToast, setFallbackToast] = useState<{ name: string; reasoning: string } | null>(null);
   const [combining, setCombining] = useState(false);
+  const [saveStateLoading, setSaveStateLoading] = useState<{ phase: string; loaded: number; total: number } | null>(null);
   const [autoSolveActive, setAutoSolveActive] = useState(false);
   const [autoSolvePaused, setAutoSolvePaused] = useState(false);
   const isFirstRender = useRef(true);
@@ -359,20 +360,48 @@ function App() {
   const handleDragEnd = useCallback((event: DragEndEvent) => {
     const { active, over, delta } = event;
     setActiveId(null);
+    setActiveLibraryType(null);
     setDropStatus(null);
     setHoveredElementId(null);
     if (autoSolvePaused) setTimeout(() => setAutoSolvePaused(false), 500);
 
-    const activeId = active.id as string;
-    const activeElement = workspaceElements.find(el => el.id === activeId);
+    const activeIdStr = active.id as string;
+    const activeData = active.data.current as { type?: string; isLibrary?: boolean } | undefined;
 
-    // If dragged from library, ignore (library spawns via onClick)
+    // Handle drag from library → workspace
+    if (activeData?.isLibrary && activeData.type) {
+      // Dropped on workspace area — spawn at approximate drop position
+      const workspaceEl = document.querySelector('[data-testid="workspace"]');
+      if (workspaceEl) {
+        const rect = workspaceEl.getBoundingClientRect();
+        // Use the active node's final position to compute where in the workspace it landed
+        const activeRect = active.rect.current.translated;
+        if (activeRect) {
+          const x = Math.max(10, activeRect.left - rect.left);
+          const y = Math.max(10, activeRect.top - rect.top);
+          const newElement: WorkspaceElement = {
+            id: generateId(),
+            type: activeData.type,
+            x,
+            y,
+          };
+          setWorkspaceElements(prev => [...prev, newElement]);
+        } else {
+          spawnElement(activeData.type);
+        }
+      } else {
+        spawnElement(activeData.type);
+      }
+      return;
+    }
+
+    const activeElement = workspaceElements.find(el => el.id === activeIdStr);
     if (!activeElement) return;
 
     const overId = over?.id as string | undefined;
     const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
 
-    if (overElement && overElement.id !== activeId) {
+    if (overElement && overElement.id !== activeIdStr) {
       // Check if recipe exists (synchronous, from combo indexes)
       const recipeExists = hasRecipe(activeElement.type, overElement.type);
 
@@ -401,7 +430,7 @@ function App() {
         const midX = (activeElement.x + overElement.x) / 2;
         const midY = (activeElement.y + overElement.y) / 2;
 
-        removeElement(activeId);
+        removeElement(activeIdStr);
         removeElement(overElement.id);
 
         const newElement: WorkspaceElement = {
@@ -422,7 +451,7 @@ function App() {
       }
       setWorkspaceElements(prev =>
         prev.map(el =>
-          el.id === activeId
+          el.id === activeIdStr
             ? { ...el, x: el.x + delta.x, y: el.y + delta.y }
             : el
         )
@@ -430,8 +459,15 @@ function App() {
     }
   }, [workspaceElements, removeElement, discoverElement, updateStat, stats, autoSolvePaused]);
 
+  const [activeLibraryType, setActiveLibraryType] = useState<string | null>(null);
+
   const handleDragStart = useCallback((event: DragStartEvent) => {
-    setActiveId(event.active.id as string);
+    const data = event.active.data.current as { type?: string; isLibrary?: boolean } | undefined;
+    if (data?.isLibrary) {
+      setActiveLibraryType(data.type ?? null);
+    } else {
+      setActiveId(event.active.id as string);
+    }
     if (autoSolveActive) setAutoSolvePaused(true);
   }, [autoSolveActive]);
 
@@ -830,20 +866,32 @@ function App() {
           <SaveStateBrowser
             onClose={() => setSaveStateBrowserOpen(false)}
             onLoad={(data) => {
-              setDiscovered(data.discovered);
-              setDiscoveredRecipes(data.discoveredRecipes);
-              setLastUsed(data.lastUsed);
-              setWorkspaceElements(data.workspace);
-              const newSavesLoaded = stats.savesLoaded + 1;
-              const updatedStats = { ...stats, savesLoaded: newSavesLoaded };
-              setStats(updatedStats);
-              saveStats(updatedStats);
-              checkAchievements(updatedStats, data.discovered);
-              setAutoSolveActive(false);
               setSaveStateBrowserOpen(false);
               setSettingsOpen(false);
-              // Ensure newly loaded elements are available
-              ensureElementsLoaded(data.discovered.slice(0, 50)).catch(() => {});
+              setAutoSolveActive(false);
+              setSaveStateLoading({ phase: 'Loading element data...', loaded: 0, total: data.discovered.length });
+
+              // Load all discovered elements in batches with progress
+              const batchSize = 50;
+              const ids = data.discovered;
+              (async () => {
+                for (let i = 0; i < ids.length; i += batchSize) {
+                  const batch = ids.slice(i, i + batchSize);
+                  await ensureElementsLoaded(batch);
+                  setSaveStateLoading({ phase: 'Loading element data...', loaded: Math.min(i + batchSize, ids.length), total: ids.length });
+                }
+                // Apply state after all data is loaded
+                setDiscovered(data.discovered);
+                setDiscoveredRecipes(data.discoveredRecipes);
+                setLastUsed(data.lastUsed);
+                setWorkspaceElements(data.workspace);
+                const newSavesLoaded = stats.savesLoaded + 1;
+                const updatedStats = { ...stats, savesLoaded: newSavesLoaded };
+                setStats(updatedStats);
+                saveStats(updatedStats);
+                checkAchievements(updatedStats, data.discovered);
+                setSaveStateLoading(null);
+              })().catch(() => setSaveStateLoading(null));
             }}
           />
         )}
@@ -859,6 +907,20 @@ function App() {
           />
         )}
 
+        {saveStateLoading && (
+          <div className="save-state-loading-overlay">
+            <div className="save-state-loading-content">
+              <h2>Loading save state...</h2>
+              <div className="loading-bar-container">
+                <div className="loading-bar-fill" style={{ width: `${Math.round((saveStateLoading.loaded / Math.max(saveStateLoading.total, 1)) * 100)}%` }} />
+              </div>
+              <p className="loading-phase">
+                {saveStateLoading.phase} ({saveStateLoading.loaded}/{saveStateLoading.total})
+              </p>
+            </div>
+          </div>
+        )}
+
         <DragOverlay>
           {activeElement && (
             <DraggableElement
@@ -866,6 +928,15 @@ function App() {
               type={activeElement.type}
               x={activeElement.x}
               y={activeElement.y}
+              isOverlay={true}
+              iconCacheBust={iconCacheBust}
+              showLabel={true}
+            />
+          )}
+          {activeLibraryType && (
+            <DraggableElement
+              id="library-drag-overlay"
+              type={activeLibraryType}
               isOverlay={true}
               iconCacheBust={iconCacheBust}
               showLabel={true}

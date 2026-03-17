@@ -654,6 +654,30 @@
   opacity: 0.6;
 }
 
+/* Save state loading overlay */
+.save-state-loading-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(26, 26, 46, 0.95);
+  z-index: 2000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.save-state-loading-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.save-state-loading-content h2 {
+  margin: 0 0 24px 0;
+  font-size: 22px;
+  font-weight: 600;
+}
+
 /* Fallback toast (funny no-match feedback) */
 .fallback-toast {
   position: absolute;

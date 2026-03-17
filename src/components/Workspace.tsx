@@ -47,7 +47,7 @@ export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId,
       })}
       {elements.length === 0 && !autoSolvePhase && (
         <div className="workspace-empty">
-          Click elements in the library to spawn them here
+          Click or drag elements from the library to add them here
         </div>
       )}
       {autoSolvePhase && autoSolvePhase !== 'idle' && (
