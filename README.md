@@ -2,6 +2,8 @@
 
 A scalable element combination game inspired by Little Alchemy. Start with Fire, Water, Earth, and Wind — combine your way through **2,767 elements** with **74,000+ recipes** spanning nature, technology, AI, mythology, cuisine, and more.
 
+> **Vibe coded.** This entire project — game, content pipeline, icon matching, tooling — was built through conversational AI collaboration with [Claude](https://claude.ai). No design docs, no sprint planning, just vibes and iterative prompting. It exists to explore what's possible when you let an AI build a complete product end-to-end.
+
 ## Play
 
 **Live**: https://jdeworks.github.io/elemental-surprise/
