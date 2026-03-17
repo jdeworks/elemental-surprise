@@ -231,6 +231,10 @@ function findKeywordMatch(element, emojiIndex) {
 
       const matchLen = getCommonPrefixLen(normalized, kw);
       if (matchLen < 3) continue;
+      // Require prefix to cover at least 80% of the shorter word to avoid
+      // false matches like "belt"→"bell" (3/4=75%), "loom"→"loo" (3/4=75%)
+      const minWordLen = Math.min(normalized.length, kw.length);
+      if (matchLen < minWordLen * 0.8) continue;
 
       const isExtension = kw.length > normalized.length && kw.startsWith(normalized);
       const preferKw = matchLen === bestScore && isExtension === bestIsExtension && kw.length === bestKwLen && PREFERRED_PARTIAL_KEYWORDS.has(kw) && !PREFERRED_PARTIAL_KEYWORDS.has(bestKw);
