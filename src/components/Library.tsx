@@ -1,10 +1,13 @@
-import React, { useState, useMemo } from 'react';
+import React, { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import { useDraggable } from '@dnd-kit/core';
 import { getAllElements } from '../data/loader';
 import { getResolvedIconUrl } from '../utils/iconUrl';
 import './Library.css';
 
 type SortMode = 'alpha' | 'date' | 'group';
+
+const PAGE_SIZE_NAMES = 40;
+const PAGE_SIZE_COMPACT = 60;
 
 export interface LibraryProps {
   discovered: string[];
@@ -40,6 +43,9 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
   const [sortMode, setSortMode] = useState<SortMode>(
     () => (localStorage.getItem('es_sortMode') as SortMode) || 'date'
   );
+  const [visibleCount, setVisibleCount] = useState(showNames ? PAGE_SIZE_NAMES : PAGE_SIZE_COMPACT);
+  const gridRef = useRef<HTMLDivElement>(null);
+
   const allElements = getAllElements();
   const availableElements = useMemo(
     () => allElements.filter(el => discovered.includes(el.id)),
@@ -79,10 +85,30 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
     }
   }, [filteredElements, sortMode, lastUsed]);
 
+  // Reset visible count when filters/sort change
+  useEffect(() => {
+    setVisibleCount(showNames ? PAGE_SIZE_NAMES : PAGE_SIZE_COMPACT);
+  }, [search, selectedGroup, sortMode, showNames]);
+
+  // Load more on scroll
+  const handleScroll = useCallback(() => {
+    const el = gridRef.current;
+    if (!el) return;
+    if (el.scrollTop + el.clientHeight >= el.scrollHeight - 100) {
+      setVisibleCount(prev => {
+        const pageSize = showNames ? PAGE_SIZE_NAMES : PAGE_SIZE_COMPACT;
+        return Math.min(prev + pageSize, sortedElements.length);
+      });
+    }
+  }, [showNames, sortedElements.length]);
+
   const handleSortChange = (mode: SortMode) => {
     setSortMode(mode);
     localStorage.setItem('es_sortMode', mode);
   };
+
+  const visibleElements = sortedElements.slice(0, visibleCount);
+  const hasMore = visibleCount < sortedElements.length;
 
   return (
     <div className="library" data-testid="library">
@@ -128,10 +154,10 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
         <button type="button" className={`library-sort-btn ${sortMode === 'date' ? 'active' : ''}`} onClick={() => handleSortChange('date')}>Recent</button>
         <button type="button" className={`library-sort-btn ${sortMode === 'group' ? 'active' : ''}`} onClick={() => handleSortChange('group')}>Group</button>
       </div>
-      <div className={`library-grid ${showNames ? 'library-grid-names' : 'library-grid-compact'}`}>
-        {sortedElements.map((element, i) => {
+      <div ref={gridRef} className={`library-grid ${showNames ? 'library-grid-names' : 'library-grid-compact'}`} onScroll={handleScroll}>
+        {visibleElements.map((element, i) => {
           const showGroupHeader = sortMode === 'group' &&
-            (i === 0 || element.group !== sortedElements[i - 1].group);
+            (i === 0 || element.group !== visibleElements[i - 1]?.group);
           const links = (element.links ?? []).slice(0, 3);
           const isHinted = hintHighlight?.includes(element.id);
           return (
@@ -178,6 +204,9 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
             </React.Fragment>
           );
         })}
+        {hasMore && (
+          <div className="library-load-more">Scroll for more ({sortedElements.length - visibleCount} remaining)</div>
+        )}
       </div>
     </div>
   );

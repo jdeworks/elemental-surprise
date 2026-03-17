@@ -242,6 +242,19 @@
   background: rgba(0, 0, 0, 0.08);
 }
 
+/* ── Load more indicator ───────────────────────── */
+
+.library-load-more {
+  padding: 12px 4px;
+  text-align: center;
+  font-size: 11px;
+  color: #999;
+}
+
+.library-grid-compact .library-load-more {
+  grid-column: 1 / -1;
+}
+
 /* ── Hint highlight ─────────────────────────────── */
 
 .library-item.hint-highlight,

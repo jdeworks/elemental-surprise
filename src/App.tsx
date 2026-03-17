@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import type { DragEndEvent, DragStartEvent, DragOverEvent } from '@dnd-kit/core';
 import { DndContext, DragOverlay, useSensor, useSensors, PointerSensor, KeyboardSensor, TouchSensor } from '@dnd-kit/core';
 import { sortableKeyboardCoordinates } from '@dnd-kit/sortable';
@@ -23,6 +23,8 @@ import './App.css';
 
 let elementIdCounter = 0;
 
+const RECIPES_PAGE_SIZE = 30;
+
 function RecipesModal({
   discoveredRecipes,
   onClose,
@@ -35,23 +37,51 @@ function RecipesModal({
   refreshTrigger: number;
 }) {
   const [search, setSearch] = useState('');
+  const [visibleCount, setVisibleCount] = useState(RECIPES_PAGE_SIZE);
+  const bodyRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     onOpen();
-    // Note: we no longer call ensureAllRecipesLoaded() here because with 137k
-    // recipes across 693 bucket files, that would download ~19MB of data.
-    // The "more ways" counter is computed from already-loaded recipes only.
   }, []);
 
+  // Reset visible count when search changes
+  useEffect(() => {
+    setVisibleCount(RECIPES_PAGE_SIZE);
+  }, [search]);
+
   const lowerSearch = search.toLowerCase();
-  const filtered = search
-    ? discoveredRecipes.filter((rKey) => {
-        const display = getRecipeDisplay(rKey);
-        if (!display) return false;
-        const text = `${display.a} ${display.b} ${display.result}`.toLowerCase();
-        return text.includes(lowerSearch);
-      })
-    : discoveredRecipes;
+  const filtered = useMemo(() =>
+    search
+      ? discoveredRecipes.filter((rKey) => {
+          const display = getRecipeDisplay(rKey);
+          if (!display) return false;
+          const text = `${display.a} ${display.b} ${display.result}`.toLowerCase();
+          return text.includes(lowerSearch);
+        })
+      : discoveredRecipes,
+    [discoveredRecipes, lowerSearch, search]
+  );
+
+  // Pre-compute "discovered ways" per result id once (avoids O(n^2) inner filter)
+  const discoveredWaysMap = useMemo(() => {
+    const map: Record<string, number> = {};
+    for (const rKey of discoveredRecipes) {
+      const resultId = getRecipeResult(rKey);
+      if (resultId) map[resultId] = (map[resultId] || 0) + 1;
+    }
+    return map;
+  }, [discoveredRecipes]);
+
+  const visibleRecipes = filtered.slice(0, visibleCount);
+  const hasMore = visibleCount < filtered.length;
+
+  const handleScroll = useCallback(() => {
+    const el = bodyRef.current;
+    if (!el) return;
+    if (el.scrollTop + el.clientHeight >= el.scrollHeight - 80) {
+      setVisibleCount(prev => Math.min(prev + RECIPES_PAGE_SIZE, filtered.length));
+    }
+  }, [filtered.length]);
 
   return (
     <>
@@ -87,7 +117,7 @@ function RecipesModal({
             )}
           </div>
         </div>
-        <div className="modal-body">
+        <div className="modal-body" ref={bodyRef} onScroll={handleScroll}>
           {filtered.length === 0 ? (
             <p className="modal-empty">
               {discoveredRecipes.length === 0
@@ -96,15 +126,12 @@ function RecipesModal({
             </p>
           ) : (
             <ul className="recipes-list">
-              {filtered.map((rKey) => {
+              {visibleRecipes.map((rKey) => {
                 const display = getRecipeDisplay(rKey);
                 if (!display) return null;
                 const resultId = getRecipeResult(rKey);
-                // Count "more ways" from already-loaded recipes only (no bulk download)
                 const totalWays = resultId ? getRecipeCountForElement(resultId) : 0;
-                const discoveredWays = resultId
-                  ? discoveredRecipes.filter((k) => getRecipeResult(k) === resultId).length
-                  : 0;
+                const discoveredWays = resultId ? (discoveredWaysMap[resultId] || 0) : 0;
                 const moreWays = totalWays > discoveredWays ? totalWays - discoveredWays : 0;
                 const reasoning = getRecipeReasoning(rKey);
                 return (
@@ -125,6 +152,9 @@ function RecipesModal({
                   </li>
                 );
               })}
+              {hasMore && (
+                <li className="recipes-load-more">Scroll for more ({filtered.length - visibleCount} remaining)</li>
+              )}
             </ul>
           )}
         </div>
