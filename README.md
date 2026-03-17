@@ -96,6 +96,29 @@ This project uses third-party icon assets:
 
 Full attribution: `public/attribution/NOTICE.txt`
 
+## Vibe Coding: Where It Works, Where It Doesn't
+
+This project was built entirely through AI-assisted vibe coding — prompting Claude conversationally to build features, fix bugs, and iterate on quality. Here's an honest assessment of where this approach excels and where it falls short.
+
+### Where it works well
+
+- **Boilerplate and scaffolding.** React components, CSS layouts, drag-and-drop wiring, data loading pipelines — Claude produces working code on the first try for well-understood patterns. The entire UI was built in a few conversations.
+- **Data pipelines and tooling.** The icon matching pipeline (24k+ candidates, 8 icon sources, embedding-based semantic matching), recipe generation, validation scripts, save state generation — these are exactly the kind of multi-step automation tasks where AI shines. Each script is self-contained, testable, and iterative.
+- **Bug investigation.** Tracing why `toilet.svg` returns a 403, or why auto-solve can't find Brick recipes, involves reading code across multiple files and reasoning about async data flow. Claude can hold the full context and trace through it faster than manual debugging.
+- **Batch auditing and fixing.** Scanning 2,767 icon assignments or 74k recipe reasonings for quality issues, then generating fixes — tedious work that AI handles well because it doesn't get bored or skip edge cases.
+
+### Where it falls short
+
+- **Content quality at scale.** The recipe reasoning system is the clearest example: generating 74k educational one-liners without an LLM in the loop produces template-heavy, repetitive text. 18% of reasonings had to be stripped for being catchall duplicates ("Cooking transforms animal protein into edible meat" used 149 times). Wikipedia facts describe what something IS, not why two specific things combine.
+- **Semantic understanding gaps.** The icon matcher's keyword pipeline matched "loom" to toilet (via "loo"), "heron" to superhero (via "hero"), "wall" to Wallis & Futuna. Each individual match seems defensible in isolation (prefix matching is a reasonable heuristic), but the system lacked the common sense to flag absurd results. It took multiple audit passes to find and fix these.
+- **Diminishing returns on iteration.** Each fix pass improves quality but surfaces the next tier of issues. Icon matching went through 5 rounds of fixes (flag filtering, keyword hardening, semantic re-ranking, manual overrides, full re-audit). At some point the remaining issues are genuinely ambiguous rather than obviously wrong.
+- **Testing and UX polish.** Vibe coding produces working features fast but skips the nuance of real user testing. Performance issues (rendering 2,767 library items, O(n^2) recipe modal) only surfaced through actual usage, not through prompting. The "it compiles and looks right" bar is lower than "it feels good to use."
+- **Architectural drift.** Over many conversations, App.tsx grew to 900+ lines with interleaved state management, modal rendering, drag handling, and auto-solve logic. Each addition was locally correct but the aggregate is harder to maintain than a planned architecture would be.
+
+### The bottom line
+
+Vibe coding with AI is remarkably effective for getting a complete, functional product from zero to deployed. It's less effective at the last 20% of polish that separates "it works" from "it's good." The gap is most visible in content quality (reasonings), visual accuracy (icons), and UX performance — exactly the areas that benefit from human taste and real-world testing rather than automated generation.
+
 ## License
 
 MIT
