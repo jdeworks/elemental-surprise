@@ -1,18 +1,22 @@
 {
-  "generatedAt": "2026-03-17T12:35:24.950Z",
+  "generatedAt": "2026-03-17T17:14:15.910Z",
   "summary": {
     "total": 2767,
     "copied": 2767,
     "bySourceCount": {
-      "openmoji": 1903,
+      "openmoji": 1882,
       "twemoji": 0,
       "noto": 0,
-      "fluent": 27,
-      "gameicons": 648,
+      "fluent": 25,
+      "gameicons": 669,
       "tabler": 101,
-      "phosphor": 18,
+      "phosphor": 20,
       "lucide": 16,
-      "brand": 54,
+      "healthicons": 0,
+      "weathericons": 0,
+      "iconpark": 4,
+      "bioicons": 0,
+      "brand": 50,
       "default": 0
     }
   },
@@ -79,6 +83,34 @@
       "license": "ISC",
       "attribution": "Lucide Icons",
       "url": "https://lucide.dev/"
+    },
+    {
+      "id": "healthicons",
+      "type": "icons",
+      "license": "MIT",
+      "attribution": "Health Icons",
+      "url": "https://healthicons.org/"
+    },
+    {
+      "id": "weather-icons",
+      "type": "icons",
+      "license": "SIL OFL 1.1",
+      "attribution": "Weather Icons by Erik Flowers",
+      "url": "https://erikflowers.github.io/weather-icons/"
+    },
+    {
+      "id": "iconpark",
+      "type": "icons",
+      "license": "Apache 2.0",
+      "attribution": "IconPark by ByteDance",
+      "url": "https://iconpark.oceanengine.com/"
+    },
+    {
+      "id": "bioicons",
+      "type": "icons",
+      "license": "CC0 / MIT",
+      "attribution": "Bioicons",
+      "url": "https://bioicons.com/"
     }
   ]
 }

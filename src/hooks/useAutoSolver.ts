@@ -1,10 +1,13 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { WorkspaceElement } from '../services/storage';
-import { hasRecipe, getAllRecipeKeysFromIndex, ensureRecipeBucketForKey, preloadRecipeBucketsForGroups, getElement } from '../data/loader';
+import { hasRecipe, getAllRecipeKeysFromIndex, ensureRecipeBucketForKey, preloadRecipeBucketsForGroups, getElement, getRecipeReasoning } from '../data/loader';
+
+export type AutoSolveSpeed = 'fast' | 'slow';
 
 export interface AutoSolverConfig {
   active: boolean;
   paused: boolean;
+  speed: AutoSolveSpeed;
   workspaceElements: WorkspaceElement[];
   discovered: string[];
   discoveredRecipes: string[];
@@ -20,20 +23,25 @@ export interface AutoSolverState {
   phase: 'idle' | 'searching' | 'moving' | 'combining' | 'spawning' | 'done';
   movingId: string | null;
   targetId: string | null;
+  /** In slow mode, the reasoning text for the last combine (null otherwise). */
+  lastReasoning: string | null;
 }
 
-const MOVE_DURATION = 700;
-const POST_COMBINE_PAUSE = 450;
-const SPAWN_PAUSE = 300;
+const TIMING = {
+  fast: { move: 400, postCombine: 200, spawn: 150 },
+  slow: { move: 900, postCombine: 2500, spawn: 400 },
+} as const;
 
 export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
   const [phase, setPhase] = useState<AutoSolverState['phase']>('idle');
   const [movingId, setMovingId] = useState<string | null>(null);
   const [targetId, setTargetId] = useState<string | null>(null);
+  const [lastReasoning, setLastReasoning] = useState<string | null>(null);
 
   // Refs for stable access inside async loop
   const activeRef = useRef(config.active);
   const pausedRef = useRef(config.paused);
+  const speedRef = useRef(config.speed);
   const wsRef = useRef(config.workspaceElements);
   const discoveredRef = useRef(config.discovered);
   const recipesRef = useRef(config.discoveredRecipes);
@@ -43,6 +51,7 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
 
   activeRef.current = config.active;
   pausedRef.current = config.paused;
+  speedRef.current = config.speed;
   wsRef.current = config.workspaceElements;
   discoveredRef.current = config.discovered;
   recipesRef.current = config.discoveredRecipes;
@@ -122,7 +131,10 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
         await waitUnpaused();
         if (cancelled) break;
 
+        const t = TIMING[speedRef.current];
+
         setPhase('searching');
+        setLastReasoning(null);
         const pair = findPairOnWorkspace();
 
         if (pair) {
@@ -136,7 +148,7 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
           setTargetId(b.id);
           onMoveRef.current(a.id, b.x, b.y);
 
-          await delay(MOVE_DURATION);
+          await delay(t.move);
           if (cancelled) break;
 
           // Combine
@@ -149,15 +161,22 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
           const curA = curWs.find(e => e.id === a.id);
           const curB = curWs.find(e => e.id === b.id);
           if (curA && curB) {
+            // In slow mode, show reasoning after combine
+            const recipeKey = [curA.type, curB.type].sort().join('+');
             const result = await onCombineRef.current(curA, curB);
             if (!result) {
               // Combine failed — move A back to original position
               onMoveRef.current(a.id, origX, origY);
               await delay(300);
+            } else if (speedRef.current === 'slow') {
+              const reasoning = getRecipeReasoning(recipeKey);
+              if (reasoning) {
+                setLastReasoning(reasoning);
+              }
             }
           }
 
-          await delay(POST_COMBINE_PAUSE);
+          await delay(t.postCombine);
         } else {
           // Nothing combinable on board — spawn a frontier pair
           setPhase('spawning');
@@ -176,10 +195,10 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
           await ensureRecipeBucketForKey(fpKey);
           if (cancelled) break;
           onSpawnRef.current(fp[0]);
-          await delay(SPAWN_PAUSE);
+          await delay(t.spawn);
           if (cancelled) break;
           onSpawnRef.current(fp[1]);
-          await delay(SPAWN_PAUSE);
+          await delay(t.spawn);
         }
       }
     };
@@ -188,5 +207,5 @@ export function useAutoSolver(config: AutoSolverConfig): AutoSolverState {
     return () => { cancelled = true; };
   }, [config.active, findPairOnWorkspace, findFrontierPair]);
 
-  return { phase, movingId, targetId };
+  return { phase, movingId, targetId, lastReasoning };
 }

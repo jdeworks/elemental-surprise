@@ -12,20 +12,26 @@ export interface WorkspaceProps {
   autoSolveMovingId?: string | null;
   autoSolveTargetId?: string | null;
   autoSolvePhase?: string;
+  autoSolveSpeed?: 'fast' | 'slow';
+  autoSolveReasoning?: string | null;
+  newElementIds?: Set<string>;
 }
 
-export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId, dropStatus, autoSolveMovingId, autoSolveTargetId, autoSolvePhase }: WorkspaceProps) {
+export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId, dropStatus, autoSolveMovingId, autoSolveTargetId, autoSolvePhase, autoSolveSpeed, autoSolveReasoning, newElementIds }: WorkspaceProps) {
   const { setNodeRef, isOver } = useDroppable({
     id: 'workspace',
   });
 
   const isDragging = activeId !== null && activeId !== undefined;
 
+  const moveMs = autoSolveSpeed === 'fast' ? '350ms' : '800ms';
+
   return (
     <div
       ref={setNodeRef}
       className={`workspace ${isOver ? 'workspace-over' : ''}`}
       data-testid="workspace"
+      style={{ '--auto-solve-move-ms': moveMs } as React.CSSProperties}
     >
       {elements.map(element => {
         const isHovered = hoveredElementId === element.id;
@@ -42,6 +48,7 @@ export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId,
             showLabel={isHovered && isDragging}
             isAutoSolveMoving={autoSolveMovingId === element.id}
             isAutoSolveTarget={autoSolveTargetId === element.id}
+            isNew={newElementIds?.has(element.id)}
           />
         );
       })}
@@ -52,12 +59,17 @@ export function Workspace({ elements, activeId, iconCacheBust, hoveredElementId,
       )}
       {autoSolvePhase && autoSolvePhase !== 'idle' && (
         <div className="auto-solve-badge">
-          {autoSolvePhase === 'done' ? 'Auto-solve complete!' :
-           autoSolvePhase === 'searching' ? 'Searching...' :
-           autoSolvePhase === 'moving' ? 'Combining...' :
-           autoSolvePhase === 'combining' ? 'Combining...' :
-           autoSolvePhase === 'spawning' ? 'Spawning elements...' :
-           'Auto-solving...'}
+          <span className="auto-solve-badge-phase">
+            {autoSolvePhase === 'done' ? 'Auto-solve complete!' :
+             autoSolvePhase === 'searching' ? 'Searching...' :
+             autoSolvePhase === 'moving' ? 'Combining...' :
+             autoSolvePhase === 'combining' ? 'Combining...' :
+             autoSolvePhase === 'spawning' ? 'Spawning elements...' :
+             'Auto-solving...'}
+          </span>
+          {autoSolveReasoning && autoSolveSpeed === 'slow' && (
+            <span className="auto-solve-badge-reasoning">{autoSolveReasoning}</span>
+          )}
         </div>
       )}
     </div>

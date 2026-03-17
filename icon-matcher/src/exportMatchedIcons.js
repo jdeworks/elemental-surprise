@@ -351,7 +351,7 @@ function resolveGameIconFuzzy(gameIndex, element, usedIcons) {
 function loadSourceOverrides(overridesPath) {
   const resolved = path.resolve(process.cwd(), overridesPath);
   if (!fs.existsSync(resolved)) {
-    return { brand: {}, fluent: {}, gameicons: {}, tabler: {}, phosphor: {}, lucide: {} };
+    return { brand: {}, fluent: {}, gameicons: {}, tabler: {}, phosphor: {}, lucide: {}, healthicons: {}, weathericons: {}, iconpark: {}, bioicons: {} };
   }
   const parsed = loadJson(resolved);
   return {
@@ -360,7 +360,11 @@ function loadSourceOverrides(overridesPath) {
     gameicons: parsed.gameicons && typeof parsed.gameicons === 'object' ? parsed.gameicons : {},
     tabler: parsed.tabler && typeof parsed.tabler === 'object' ? parsed.tabler : {},
     phosphor: parsed.phosphor && typeof parsed.phosphor === 'object' ? parsed.phosphor : {},
-    lucide: parsed.lucide && typeof parsed.lucide === 'object' ? parsed.lucide : {}
+    lucide: parsed.lucide && typeof parsed.lucide === 'object' ? parsed.lucide : {},
+    healthicons: parsed.healthicons && typeof parsed.healthicons === 'object' ? parsed.healthicons : {},
+    weathericons: parsed.weathericons && typeof parsed.weathericons === 'object' ? parsed.weathericons : {},
+    iconpark: parsed.iconpark && typeof parsed.iconpark === 'object' ? parsed.iconpark : {},
+    bioicons: parsed.bioicons && typeof parsed.bioicons === 'object' ? parsed.bioicons : {}
   };
 }
 
@@ -413,6 +417,90 @@ function buildLucideIndex(lucideDir) {
   return index;
 }
 
+function buildHealthIconsIndex(healthDir) {
+  const index = new Map();
+  if (!fs.existsSync(healthDir)) return index;
+  // Health Icons SVGs are in public/icons/svg/{outline,filled}/{category}/{name}.svg
+  for (const style of ['outline', 'filled']) {
+    const baseDir = path.join(healthDir, 'public/icons/svg', style);
+    if (!fs.existsSync(baseDir)) continue;
+    const stack = [baseDir];
+    while (stack.length) {
+      const current = stack.pop();
+      const entries = fs.readdirSync(current, { withFileTypes: true });
+      for (const entry of entries) {
+        const full = path.join(current, entry.name);
+        if (entry.isDirectory()) {
+          stack.push(full);
+        } else if (entry.isFile() && entry.name.endsWith('.svg')) {
+          const base = entry.name.slice(0, -4);
+          const normalized = normalizeKey(base);
+          if (!index.has(normalized)) index.set(normalized, full);
+        }
+      }
+    }
+  }
+  return index;
+}
+
+function buildWeatherIconsIndex(weatherDir) {
+  const index = new Map();
+  if (!fs.existsSync(weatherDir)) return index;
+  const svgDir = path.join(weatherDir, 'svg');
+  if (!fs.existsSync(svgDir)) return index;
+  const files = fs.readdirSync(svgDir).filter((n) => n.endsWith('.svg'));
+  for (const file of files) {
+    const base = file.slice(0, -4).replace(/^wi-/, '');
+    const normalized = normalizeKey(base);
+    if (!index.has(normalized)) index.set(normalized, path.join(svgDir, file));
+  }
+  return index;
+}
+
+function buildIconParkIndex(iconparkDir) {
+  const index = new Map();
+  if (!fs.existsSync(iconparkDir)) return index;
+  const stack = [iconparkDir];
+  while (stack.length) {
+    const current = stack.pop();
+    const entries = fs.readdirSync(current, { withFileTypes: true });
+    for (const entry of entries) {
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        if (entry.name === '.git' || entry.name === 'node_modules') continue;
+        stack.push(full);
+      } else if (entry.isFile() && entry.name.endsWith('.svg')) {
+        const base = entry.name.slice(0, -4);
+        const normalized = normalizeKey(base);
+        if (!index.has(normalized)) index.set(normalized, full);
+      }
+    }
+  }
+  return index;
+}
+
+function buildBioiconsIndex(bioDir) {
+  const index = new Map();
+  if (!fs.existsSync(bioDir)) return index;
+  const stack = [bioDir];
+  while (stack.length) {
+    const current = stack.pop();
+    const entries = fs.readdirSync(current, { withFileTypes: true });
+    for (const entry of entries) {
+      const full = path.join(current, entry.name);
+      if (entry.isDirectory()) {
+        if (entry.name === '.git' || entry.name === 'node_modules') continue;
+        stack.push(full);
+      } else if (entry.isFile() && entry.name.endsWith('.svg')) {
+        const base = entry.name.slice(0, -4);
+        const normalized = normalizeKey(base);
+        if (!index.has(normalized)) index.set(normalized, full);
+      }
+    }
+  }
+  return index;
+}
+
 function resolveByAlias(index, aliasMap, element) {
   if (!aliasMap) return null;
   const alias = aliasMap[normalizeKey(element)];
@@ -435,6 +523,17 @@ const GROUPS_PREFER_GAME = new Set([
 const GROUPS_PREFER_FLUENT = new Set([
   'technology',
   'ai'
+]);
+
+const GROUPS_PREFER_HEALTH = new Set([
+  'science',
+  'medicine'
+]);
+
+const GROUPS_PREFER_WEATHER = new Set([
+  'weather',
+  'nature',
+  'climate'
 ]);
 
 const EMOJI_ORDER_BY_GROUP = {
@@ -509,6 +608,10 @@ function selectBestVisualCandidate({
   tablerIndex,
   phosphorIndex,
   lucideIndex,
+  healthiconsIndex,
+  weathericonsIndex,
+  iconparkIndex,
+  bioiconsIndex,
   sourceOverrides,
   usedIcons
 }) {
@@ -525,6 +628,10 @@ function selectBestVisualCandidate({
     ['tabler', tablerIndex, sourceOverrides.tabler],
     ['phosphor', phosphorIndex, sourceOverrides.phosphor],
     ['lucide', lucideIndex, sourceOverrides.lucide],
+    ['healthicons', healthiconsIndex, sourceOverrides.healthicons],
+    ['weathericons', weathericonsIndex, sourceOverrides.weathericons],
+    ['iconpark', iconparkIndex, sourceOverrides.iconpark],
+    ['bioicons', bioiconsIndex, sourceOverrides.bioicons],
   ];
   for (const [source, index, aliases] of overrideSources) {
     const forced = resolveByAlias(index, aliases, element);
@@ -590,6 +697,51 @@ function selectBestVisualCandidate({
         score: GROUPS_PREFER_FLUENT.has(groupKey) ? 89 : 76
       });
     }
+  }
+
+  // Health Icons — exact match
+  const healthNorm = normalizeKey(element);
+  const healthPick = healthiconsIndex.get(healthNorm) || null;
+  if (healthPick) {
+    candidates.push({
+      source: 'healthicons',
+      path: healthPick,
+      reason: 'exact-element-match',
+      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 96 : 80
+    });
+  }
+
+  // Weather Icons — exact match
+  const weatherPick = weathericonsIndex.get(normalizeKey(element)) || null;
+  if (weatherPick) {
+    candidates.push({
+      source: 'weathericons',
+      path: weatherPick,
+      reason: 'exact-element-match',
+      score: GROUPS_PREFER_WEATHER.has(groupKey) ? 96 : 80
+    });
+  }
+
+  // IconPark — exact match
+  const iconparkPick = iconparkIndex.get(normalizeKey(element)) || null;
+  if (iconparkPick) {
+    candidates.push({
+      source: 'iconpark',
+      path: iconparkPick,
+      reason: 'exact-element-match',
+      score: 80
+    });
+  }
+
+  // Bioicons — exact match
+  const bioiconsPick = bioiconsIndex.get(normalizeKey(element)) || null;
+  if (bioiconsPick) {
+    candidates.push({
+      source: 'bioicons',
+      path: bioiconsPick,
+      reason: 'exact-element-match',
+      score: GROUPS_PREFER_HEALTH.has(groupKey) ? 95 : 79
+    });
   }
 
   if (candidates.length === 0) return null;
@@ -663,6 +815,26 @@ function sourceLicenseMeta(source) {
       attribution: 'Lucide Icons',
       url: 'https://lucide.dev/'
     },
+    healthicons: {
+      license: 'MIT',
+      attribution: 'Health Icons',
+      url: 'https://healthicons.org/'
+    },
+    weathericons: {
+      license: 'SIL OFL 1.1',
+      attribution: 'Weather Icons by Erik Flowers',
+      url: 'https://erikflowers.github.io/weather-icons/'
+    },
+    iconpark: {
+      license: 'Apache 2.0',
+      attribution: 'IconPark by ByteDance',
+      url: 'https://iconpark.oceanengine.com/'
+    },
+    bioicons: {
+      license: 'CC0 / MIT',
+      attribution: 'Bioicons',
+      url: 'https://bioicons.com/'
+    },
     brand: {
       license: 'CC0 1.0',
       attribution: 'Simple Icons contributors',
@@ -698,7 +870,7 @@ function buildNoticeText(report, attributionEntries) {
   }
   lines.push('');
   lines.push('Per-source credits:');
-  for (const source of ['openmoji', 'twemoji', 'noto', 'fluent', 'gameicons', 'tabler', 'phosphor', 'lucide', 'brand']) {
+  for (const source of ['openmoji', 'twemoji', 'noto', 'fluent', 'gameicons', 'tabler', 'phosphor', 'lucide', 'healthicons', 'weathericons', 'iconpark', 'bioicons', 'brand']) {
     const meta = sourceLicenseMeta(source);
     lines.push(`- ${source}: ${meta.attribution} | ${meta.license}${meta.url ? ` | ${meta.url}` : ''}`);
   }
@@ -774,7 +946,17 @@ function main() {
   const phosphorIndex = buildPhosphorIndex(phosphorDir);
   const lucideIndex = buildLucideIndex(lucideDir);
 
-  console.log(`Indexes: openmoji=${fs.readdirSync(openmojiDir).length}, game=${gameIndex.size}, fluent=${fluentIndex.size}, tabler=${tablerIndex.size}, phosphor=${phosphorIndex.size}, lucide=${lucideIndex.size}`);
+  // Additional icon sources (git-cloned)
+  const healthiconsDir = path.resolve(process.cwd(), 'external/healthicons');
+  const weathericonsDir = path.resolve(process.cwd(), 'external/weather-icons');
+  const iconparkDir = path.resolve(process.cwd(), 'external/iconpark');
+  const bioiconsDir = path.resolve(process.cwd(), 'external/bioicons');
+  const healthiconsIndex = buildHealthIconsIndex(healthiconsDir);
+  const weathericonsIndex = buildWeatherIconsIndex(weathericonsDir);
+  const iconparkIndex = buildIconParkIndex(iconparkDir);
+  const bioiconsIndex = buildBioiconsIndex(bioiconsDir);
+
+  console.log(`Indexes: openmoji=${fs.readdirSync(openmojiDir).length}, game=${gameIndex.size}, fluent=${fluentIndex.size}, tabler=${tablerIndex.size}, phosphor=${phosphorIndex.size}, lucide=${lucideIndex.size}, healthicons=${healthiconsIndex.size}, weathericons=${weathericonsIndex.size}, iconpark=${iconparkIndex.size}, bioicons=${bioiconsIndex.size}`);
 
   const simpleIconsMetaBySlug = buildSimpleIconsMetaBySlug();
 
@@ -794,6 +976,10 @@ function main() {
       tabler: [],
       phosphor: [],
       lucide: [],
+      healthicons: [],
+      weathericons: [],
+      iconpark: [],
+      bioicons: [],
       brand: [],
       default: []
     },
@@ -806,6 +992,10 @@ function main() {
       tabler: {},
       phosphor: {},
       lucide: {},
+      healthicons: {},
+      weathericons: {},
+      iconpark: {},
+      bioicons: {},
       brand: {},
       default: {}
     },
@@ -818,6 +1008,10 @@ function main() {
       tabler: 0,
       phosphor: 0,
       lucide: 0,
+      healthicons: 0,
+      weathericons: 0,
+      iconpark: 0,
+      bioicons: 0,
       brand: 0,
       default: 0
     },
@@ -872,6 +1066,10 @@ function main() {
         tablerIndex,
         phosphorIndex,
         lucideIndex,
+        healthiconsIndex,
+        weathericonsIndex,
+        iconparkIndex,
+        bioiconsIndex,
         sourceOverrides,
         usedIcons
       });
@@ -1009,6 +1207,34 @@ function main() {
       license: 'ISC',
       attribution: 'Lucide Icons',
       url: 'https://lucide.dev/'
+    },
+    {
+      id: 'healthicons',
+      type: 'icons',
+      license: 'MIT',
+      attribution: 'Health Icons',
+      url: 'https://healthicons.org/'
+    },
+    {
+      id: 'weather-icons',
+      type: 'icons',
+      license: 'SIL OFL 1.1',
+      attribution: 'Weather Icons by Erik Flowers',
+      url: 'https://erikflowers.github.io/weather-icons/'
+    },
+    {
+      id: 'iconpark',
+      type: 'icons',
+      license: 'Apache 2.0',
+      attribution: 'IconPark by ByteDance',
+      url: 'https://iconpark.oceanengine.com/'
+    },
+    {
+      id: 'bioicons',
+      type: 'icons',
+      license: 'CC0 / MIT',
+      attribution: 'Bioicons',
+      url: 'https://bioicons.com/'
     }
   ]);
 
@@ -1049,6 +1275,10 @@ function main() {
   maybeCopy(path.join(process.cwd(), 'external/noto-emoji/LICENSE'), 'noto-emoji-license.txt');
   maybeCopy(path.join(process.cwd(), 'external/noto-emoji/fonts/LICENSE'), 'noto-emoji-fonts-OFL-1.1.txt');
   maybeCopy(path.join(process.cwd(), 'external/game-icons/license.txt'), 'game-icons-license.txt');
+  maybeCopy(path.join(process.cwd(), 'external/healthicons/LICENSE'), 'healthicons-MIT.txt');
+  maybeCopy(path.join(process.cwd(), 'external/weather-icons/README.md'), 'weather-icons-OFL-1.1-reference.txt');
+  maybeCopy(path.join(process.cwd(), 'external/iconpark/LICENSE'), 'iconpark-Apache-2.0.txt');
+  maybeCopy(path.join(process.cwd(), 'external/bioicons/LICENSE'), 'bioicons-license.txt');
 
   report.attributionFiles = [
     '_attribution.json',

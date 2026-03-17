@@ -53,6 +53,10 @@ function preflight() {
   ensureGitSource('external/twemoji', 'https://github.com/twitter/twemoji.git');
   ensureGitSource('external/noto-emoji', 'https://github.com/googlefonts/noto-emoji.git');
   ensureGitSource('external/game-icons', 'https://github.com/game-icons/icons.git');
+  ensureGitSource('external/healthicons', 'https://github.com/resolvetosavelives/healthicons.git');
+  ensureGitSource('external/weather-icons', 'https://github.com/erikflowers/weather-icons.git');
+  ensureGitSource('external/iconpark', 'https://github.com/bytedance/IconPark.git');
+  ensureGitSource('external/bioicons', 'https://github.com/duerrsimon/bioicons.git');
 
   return { nodeModulesBase };
 }

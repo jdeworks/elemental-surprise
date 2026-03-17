@@ -268,3 +268,10 @@
   0%, 100% { box-shadow: 0 0 6px rgba(255, 215, 0, 0.3); }
   50% { box-shadow: 0 0 16px rgba(255, 215, 0, 0.8); }
 }
+
+/* ── Drop-to-remove highlight ──────────────────── */
+
+.library.library-drop-active {
+  background: rgba(244, 67, 54, 0.08);
+  box-shadow: inset 0 0 20px rgba(244, 67, 54, 0.15);
+}

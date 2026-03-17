@@ -182,6 +182,7 @@ function App() {
   const [recipesModalRefresh, setRecipesModalRefresh] = useState(0);
   const [dropStatus, setDropStatus] = useState<'new' | 'known' | 'none' | null>(null);
   const [hoveredElementId, setHoveredElementId] = useState<string | null>(null);
+  const lastHoveredRef = useRef<string | null>(null);
   const [showTutorial, setShowTutorial] = useState(() => !localStorage.getItem('es_tutorialSeen'));
   const [hintHighlight, setHintHighlight] = useState<string[] | null>(null);
   const [hintCooldown, setHintCooldown] = useState(false);
@@ -200,9 +201,11 @@ function App() {
   const [loadingProgress, setLoadingProgress] = useState<LoadingProgress | null>(null);
   const [fallbackToast, setFallbackToast] = useState<{ name: string; reasoning: string } | null>(null);
   const [combining, setCombining] = useState(false);
+  const [newElementIds, setNewElementIds] = useState<Set<string>>(new Set());
   const [saveStateLoading, setSaveStateLoading] = useState<{ phase: string; loaded: number; total: number } | null>(null);
   const [autoSolveActive, setAutoSolveActive] = useState(false);
   const [autoSolvePaused, setAutoSolvePaused] = useState(false);
+  const [autoSolveSpeed, setAutoSolveSpeed] = useState<'fast' | 'slow'>('slow');
   const isFirstRender = useRef(true);
 
   useEffect(() => {
@@ -369,6 +372,15 @@ function App() {
     );
   }, []);
 
+  const markNewElement = useCallback((id: string) => {
+    setNewElementIds(prev => new Set(prev).add(id));
+    setTimeout(() => setNewElementIds(prev => {
+      const next = new Set(prev);
+      next.delete(id);
+      return next;
+    }), 500);
+  }, []);
+
   const combineElements = useCallback(async (elementA: WorkspaceElement, elementB: WorkspaceElement): Promise<string | null> => {
     const result = await getRecipeAsync(elementA.type, elementB.type);
     if (!result) return null;
@@ -379,20 +391,24 @@ function App() {
     setDiscoveredRecipes(prev => prev.includes(recipeKey) ? prev : [...prev, recipeKey]);
     const midX = (elementA.x + elementB.x) / 2;
     const midY = (elementA.y + elementB.y) / 2;
+    const newId = generateId();
     setWorkspaceElements(prev => {
       const filtered = prev.filter(el => el.id !== elementA.id && el.id !== elementB.id);
-      return [...filtered, { id: generateId(), type: result, x: midX, y: midY }];
+      return [...filtered, { id: newId, type: result, x: midX, y: midY }];
     });
+    markNewElement(newId);
     discoverElement(result);
     return result;
-  }, [discoverElement]);
+  }, [discoverElement, markNewElement]);
 
   const handleDragEnd = useCallback((event: DragEndEvent) => {
     const { active, over, delta } = event;
+    const savedHoveredId = lastHoveredRef.current;
     setActiveId(null);
     setActiveLibraryType(null);
     setDropStatus(null);
     setHoveredElementId(null);
+    lastHoveredRef.current = null;
     if (autoSolvePaused) setTimeout(() => setAutoSolvePaused(false), 500);
 
     const activeIdStr = active.id as string;
@@ -400,6 +416,47 @@ function App() {
 
     // Handle drag from library → workspace
     if (activeData?.isLibrary && activeData.type) {
+      const overId = (over?.id as string | undefined) ?? savedHoveredId;
+      const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
+
+      // Library item dropped onto a workspace element → try to combine
+      if (overElement) {
+        const recipeExists = hasRecipe(activeData.type, overElement.type);
+        if (recipeExists) {
+          setCombining(true);
+          getRecipeAsync(activeData.type, overElement.type).then(async (result) => {
+            setCombining(false);
+            if (!result) return;
+            await ensureElementLoaded(result);
+            const recipeKey = [activeData.type!, overElement.type].sort().join('+');
+            setDiscoveredRecipes(prev => prev.includes(recipeKey) ? prev : [...prev, recipeKey]);
+            const newId = generateId();
+            const newEl: WorkspaceElement = {
+              id: newId,
+              type: result,
+              x: overElement.x,
+              y: overElement.y,
+            };
+            setWorkspaceElements(prev => {
+              const filtered = prev.filter(el => el.id !== overElement.id);
+              return [...filtered, newEl];
+            });
+            markNewElement(newId);
+            discoverElement(result);
+          }).catch(() => {
+            setCombining(false);
+          });
+          return;
+        }
+        // No recipe — show fallback
+        const aName = getElement(activeData.type)?.name ?? activeData.type;
+        const bName = getElement(overElement.type)?.name ?? overElement.type;
+        const fallback = getFallbackResult(activeData.type, overElement.type, aName, bName);
+        setFallbackToast(fallback);
+        setTimeout(() => setFallbackToast(null), 3000);
+        return;
+      }
+
       // Dropped on workspace area — spawn at approximate drop position
       const workspaceEl = document.querySelector('[data-testid="workspace"]');
       if (workspaceEl) {
@@ -428,7 +485,15 @@ function App() {
     const activeElement = workspaceElements.find(el => el.id === activeIdStr);
     if (!activeElement) return;
 
-    const overId = over?.id as string | undefined;
+    // Workspace element dropped on library → remove it
+    if (over?.id === 'library') {
+      removeElement(activeIdStr);
+      return;
+    }
+
+    // Use dnd-kit's `over` target, falling back to last hovered element
+    // (dnd-kit can lose the target on the frame of release due to collision rect timing)
+    const overId = (over?.id as string | undefined) ?? savedHoveredId;
     const overElement = overId ? workspaceElements.find(el => el.id === overId) : null;
 
     if (overElement && overElement.id !== activeIdStr) {
@@ -463,15 +528,19 @@ function App() {
         removeElement(activeIdStr);
         removeElement(overElement.id);
 
+        const newId = generateId();
         const newElement: WorkspaceElement = {
-          id: generateId(),
+          id: newId,
           type: result,
           x: midX,
           y: midY,
         };
         setWorkspaceElements(prev => [...prev, newElement]);
+        markNewElement(newId);
 
         discoverElement(result);
+      }).catch(() => {
+        setCombining(false);
       });
     } else {
       // Dropped on empty space — reposition
@@ -503,20 +572,41 @@ function App() {
 
   const handleDragOver = useCallback((event: DragOverEvent) => {
     const { active, over } = event;
-    if (!over || over.id === 'workspace') {
+    if (!over || over.id === 'workspace' || over.id === 'library') {
       setDropStatus(null);
       setHoveredElementId(null);
+      // Don't clear lastHoveredRef here — keep it for drop fallback
       return;
     }
-    const activeEl = workspaceElements.find(el => el.id === active.id);
+
+    const activeData = active.data.current as { type?: string; isLibrary?: boolean } | undefined;
     const overEl = workspaceElements.find(el => el.id === (over.id as string));
+
+    // Library element dragged over workspace element
+    if (activeData?.isLibrary && activeData.type && overEl) {
+      const recipeExists = hasRecipe(activeData.type, overEl.type);
+      if (!recipeExists) {
+        setDropStatus('none');
+      } else {
+        const cached = getRecipe(activeData.type, overEl.type);
+        if (cached && discovered.includes(cached)) {
+          setDropStatus('known');
+        } else {
+          setDropStatus('new');
+        }
+      }
+      setHoveredElementId(overEl.id);
+      lastHoveredRef.current = overEl.id;
+      return;
+    }
+
+    // Workspace element dragged over another workspace element
+    const activeEl = workspaceElements.find(el => el.id === active.id);
     if (activeEl && overEl && activeEl.id !== overEl.id) {
-      // Use hasRecipe() for instant feedback — checks combo indexes without loading buckets
       const recipeExists = hasRecipe(activeEl.type, overEl.type);
       if (!recipeExists) {
         setDropStatus('none');
       } else {
-        // Recipe exists; check cache for result to determine new vs known
         const cached = getRecipe(activeEl.type, overEl.type);
         if (cached && discovered.includes(cached)) {
           setDropStatus('known');
@@ -525,6 +615,7 @@ function App() {
         }
       }
       setHoveredElementId(overEl.id);
+      lastHoveredRef.current = overEl.id;
     } else {
       setDropStatus(null);
       setHoveredElementId(null);
@@ -581,6 +672,7 @@ function App() {
   const autoSolver = useAutoSolver({
     active: autoSolveActive,
     paused: autoSolvePaused,
+    speed: autoSolveSpeed,
     workspaceElements,
     discovered,
     discoveredRecipes,
@@ -678,6 +770,20 @@ function App() {
             </button>
             <button
               type="button"
+              className={`app-header-btn auto-speed-btn ${autoSolveSpeed === 'fast' ? 'speed-fast' : 'speed-slow'}`}
+              onClick={() => setAutoSolveSpeed(prev => prev === 'fast' ? 'slow' : 'fast')}
+              title={`Auto-solve speed: ${autoSolveSpeed} (click to toggle)`}
+              aria-label={`Auto-solve speed: ${autoSolveSpeed}`}
+            >
+              {autoSolveSpeed === 'fast' ? (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polygon points="13 19 22 12 13 5 13 19"/><polygon points="2 19 11 12 2 5 2 19"/></svg>
+              ) : (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+              )}
+              <span className="btn-label">{autoSolveSpeed === 'fast' ? 'Fast' : 'Slow'}</span>
+            </button>
+            <button
+              type="button"
               className="app-header-btn app-header-btn-icon mobile-only"
               onClick={() => { setWorkspaceElements([]); updateStat('workspaceCleared', stats.workspaceCleared + 1); }}
               title="Clear workspace"
@@ -752,7 +858,7 @@ function App() {
               onLinkClicked={() => updateStat('wikiLinksClicked', stats.wikiLinksClicked + 1)}
             />
           </div>
-          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} autoSolveMovingId={autoSolver.movingId} autoSolveTargetId={autoSolver.targetId} autoSolvePhase={autoSolveActive ? autoSolver.phase : undefined} />
+          <Workspace elements={workspaceElements} activeId={activeId} iconCacheBust={iconCacheBust} hoveredElementId={hoveredElementId} dropStatus={dropStatus} autoSolveMovingId={autoSolver.movingId} autoSolveTargetId={autoSolver.targetId} autoSolvePhase={autoSolveActive ? autoSolver.phase : undefined} autoSolveSpeed={autoSolveSpeed} autoSolveReasoning={autoSolver.lastReasoning} newElementIds={newElementIds} />
           <button
             type="button"
             className="mobile-sidebar-toggle"
@@ -763,7 +869,7 @@ function App() {
           </button>
         </main>
         <footer className="app-footer">
-          Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0), <a href="https://tabler.io/icons" target="_blank" rel="noreferrer">Tabler</a> (MIT), <a href="https://phosphoricons.com" target="_blank" rel="noreferrer">Phosphor</a> (MIT), <a href="https://lucide.dev" target="_blank" rel="noreferrer">Lucide</a> (ISC), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0). <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">Full attribution</a>.
+          Icons: <a href="https://openmoji.org" target="_blank" rel="noreferrer">OpenMoji</a> (CC BY-SA 4.0), <a href="https://game-icons.net" target="_blank" rel="noreferrer">Game-icons.net</a> (CC BY 3.0), <a href="https://tabler.io/icons" target="_blank" rel="noreferrer">Tabler</a> (MIT), <a href="https://phosphoricons.com" target="_blank" rel="noreferrer">Phosphor</a> (MIT), <a href="https://lucide.dev" target="_blank" rel="noreferrer">Lucide</a> (ISC), <a href="https://simpleicons.org" target="_blank" rel="noreferrer">Simple Icons</a> (CC0), <a href="https://healthicons.org" target="_blank" rel="noreferrer">Health Icons</a> (MIT), <a href="https://erikflowers.github.io/weather-icons/" target="_blank" rel="noreferrer">Weather Icons</a> (OFL), <a href="https://iconpark.oceanengine.com/" target="_blank" rel="noreferrer">IconPark</a> (Apache 2.0), <a href="https://bioicons.com" target="_blank" rel="noreferrer">Bioicons</a> (CC0). <a href={toPublicUrl('./attribution/NOTICE.txt')} target="_blank" rel="noreferrer">Full attribution</a>.
         </footer>
 
         {settingsOpen && (

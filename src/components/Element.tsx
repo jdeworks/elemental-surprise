@@ -16,9 +16,10 @@ export interface ElementProps {
   showLabel?: boolean;
   isAutoSolveMoving?: boolean;
   isAutoSolveTarget?: boolean;
+  isNew?: boolean;
 }
 
-export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust, dropStatus, showLabel = false, isAutoSolveMoving = false, isAutoSolveTarget = false }: ElementProps) {
+export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, isOverlay = false, isDropTarget = false, iconCacheBust, dropStatus, showLabel = false, isAutoSolveMoving = false, isAutoSolveTarget = false, isNew = false }: ElementProps) {
   const element = getElement(type);
 
   const { attributes, listeners, setNodeRef: setDraggableRef, transform, isDragging } = useDraggable({
@@ -58,6 +59,7 @@ export function DraggableElement({ id, type, x = 0, y = 0, isLibrary = false, is
     dropClass,
     isAutoSolveMoving ? 'auto-solve-moving' : '',
     isAutoSolveTarget ? 'auto-solve-target' : '',
+    isNew ? 'element-new' : '',
   ].filter(Boolean).join(' ');
 
   return (

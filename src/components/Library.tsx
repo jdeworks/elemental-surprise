@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useCallback, useRef, useEffect } from 'react';
-import { useDraggable } from '@dnd-kit/core';
+import { useDraggable, useDroppable } from '@dnd-kit/core';
 import { getAllElements } from '../data/loader';
 import { getResolvedIconUrl } from '../utils/iconUrl';
 import './Library.css';
@@ -110,8 +110,12 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
   const visibleElements = sortedElements.slice(0, visibleCount);
   const hasMore = visibleCount < sortedElements.length;
 
+  const { setNodeRef: setLibraryDropRef, isOver: isLibraryOver } = useDroppable({
+    id: 'library',
+  });
+
   return (
-    <div className="library" data-testid="library">
+    <div className={`library ${isLibraryOver ? 'library-drop-active' : ''}`} data-testid="library" ref={setLibraryDropRef}>
       <div className="library-header">
         <h2 className="library-title">Elements ({discovered.length}/{totalCount})</h2>
       </div>
