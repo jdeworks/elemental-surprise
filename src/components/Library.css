@@ -216,6 +216,7 @@
 .library-item-compact:hover {
   transform: translateY(-1px);
   box-shadow: var(--shadow-sm);
+  z-index: 1;
 }
 
 /* Always-visible name label inside compact grid cell */
@@ -230,6 +231,20 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   max-height: 2em;
+  transition: font-size var(--duration-fast);
+}
+
+/* On hover: expand name so it's fully readable */
+.library-item-compact:hover .library-compact-name {
+  font-size: 11px;
+  overflow: visible;
+  white-space: nowrap;
+  color: var(--color-text);
+  background: var(--color-bg-surface);
+  border-radius: var(--radius-sm);
+  padding: 1px 4px;
+  margin: 0 -4px;
+  width: auto;
 }
 
 /* ── Shared ──────────────────────────────────────────────── */
