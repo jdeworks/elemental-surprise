@@ -178,7 +178,8 @@
 .library-grid-compact {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: var(--space-2);
+  gap: var(--space-3) var(--space-2);
+  overflow-x: visible;
 }
 
 /* ── Named Mode Items ────────────────────────────────────── */
@@ -215,7 +216,8 @@
   box-shadow: var(--shadow-sm);
 }
 
-/* Instant CSS tooltip for compact/grid view */
+/* Instant CSS tooltip for compact/grid view — positioned below
+   to avoid being clipped by the scroll container's overflow */
 .library-item-compact {
   position: relative;
 }
@@ -223,7 +225,7 @@
 .library-item-compact::after {
   content: attr(data-name);
   position: absolute;
-  bottom: calc(100% + 6px);
+  top: calc(100% + 4px);
   left: 50%;
   transform: translateX(-50%) scale(0.9);
   background: var(--color-neutral-800);
