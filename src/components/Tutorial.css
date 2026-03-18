@@ -1,8 +1,12 @@
+/* ═══════════════════════════════════════════════════════════
+   Tutorial Modal
+   ═══════════════════════════════════════════════════════════ */
+
 .tutorial-backdrop {
   position: fixed;
   inset: 0;
-  background: rgba(0, 0, 0, 0.5);
-  z-index: 1200;
+  background: var(--color-bg-overlay);
+  z-index: var(--z-overlay);
 }
 
 .tutorial-modal {
@@ -10,103 +14,115 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #fff;
-  border-radius: 12px;
+  background: var(--color-bg-elevated);
+  color: var(--color-text);
+  border-radius: var(--radius-xl);
   width: 420px;
   max-width: 90vw;
   max-height: 85vh;
   overflow-y: auto;
-  z-index: 1201;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  z-index: var(--z-modal);
+  box-shadow: var(--shadow-xl);
+  border: 1px solid var(--color-border);
 }
 
 .tutorial-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 16px 20px;
-  border-bottom: 1px solid #eee;
+  padding: var(--space-4) var(--space-5);
+  border-bottom: 1px solid var(--color-border);
 }
 
 .tutorial-header h2 {
   margin: 0;
-  font-size: 18px;
-  color: #333;
+  font-size: var(--text-md);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text);
 }
 
 .tutorial-close {
   background: none;
   border: none;
   cursor: pointer;
-  color: #888;
-  padding: 4px;
-  border-radius: 4px;
+  color: var(--color-text-tertiary);
+  padding: var(--space-2);
+  border-radius: var(--radius-sm);
+  min-width: 44px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color var(--duration-fast), background var(--duration-fast);
 }
 
 .tutorial-close:hover {
-  color: #333;
-  background: rgba(0, 0, 0, 0.05);
+  color: var(--color-text);
+  background: var(--color-bg-surface-hover);
 }
 
 .tutorial-body {
-  padding: 16px 20px;
+  padding: var(--space-4) var(--space-5);
   display: flex;
   flex-direction: column;
-  gap: 16px;
+  gap: var(--space-4);
 }
 
 .tutorial-step {
   display: flex;
-  gap: 12px;
+  gap: var(--space-3);
   align-items: flex-start;
 }
 
 .tutorial-step-number {
   flex-shrink: 0;
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   border-radius: 50%;
-  background: #333;
-  color: #fff;
+  background: var(--color-primary-500);
+  color: white;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 14px;
-  font-weight: 600;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-bold);
   margin-top: 2px;
 }
 
 .tutorial-step strong {
   display: block;
-  font-size: 14px;
-  color: #333;
+  font-size: var(--text-base);
+  color: var(--color-text);
   margin-bottom: 2px;
 }
 
 .tutorial-step p {
   margin: 0;
-  font-size: 13px;
-  color: #666;
-  line-height: 1.4;
+  font-size: var(--text-sm);
+  color: var(--color-text-secondary);
+  line-height: var(--leading-normal);
 }
 
 .tutorial-footer {
-  padding: 12px 20px 16px;
+  padding: var(--space-3) var(--space-5) var(--space-4);
   text-align: center;
 }
 
 .tutorial-start-btn {
-  padding: 10px 32px;
-  font-size: 15px;
-  font-weight: 600;
-  background: #333;
-  color: #fff;
+  padding: var(--space-3) var(--space-8);
+  font-size: var(--text-base);
+  font-weight: var(--weight-semibold);
+  font-family: var(--font-family);
+  background: var(--color-primary-500);
+  color: white;
   border: none;
-  border-radius: 8px;
+  border-radius: var(--radius-md);
   cursor: pointer;
-  transition: background 0.15s;
+  min-height: 48px;
+  transition: background var(--duration-fast), transform var(--duration-fast);
 }
 
 .tutorial-start-btn:hover {
-  background: #555;
+  background: var(--color-primary-600);
+  transform: translateY(-1px);
 }

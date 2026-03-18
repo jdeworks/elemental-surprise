@@ -1,16 +1,20 @@
+/* ═══════════════════════════════════════════════════════════
+   Element Card — Draggable game element
+   ═══════════════════════════════════════════════════════════ */
+
 .element {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  gap: 10px;
-  padding: 10px 14px;
-  border: 2px solid #444;
-  border-radius: 12px;
-  background: #fff;
+  gap: var(--space-2);
+  padding: var(--space-2) var(--space-3);
+  border: 2px solid var(--color-border-strong);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-surface);
   cursor: grab;
   user-select: none;
   touch-action: none;
-  transition: box-shadow 0.2s, transform 0.1s, border-color 0.15s, background 0.15s;
+  transition: box-shadow var(--duration-normal), transform var(--duration-fast), border-color var(--duration-fast), background var(--duration-fast);
 }
 
 .element-icon {
@@ -20,7 +24,7 @@
   flex: 0 0 44px;
   object-fit: contain;
   opacity: 0;
-  transition: opacity 0.15s ease-in;
+  transition: opacity var(--duration-fast) ease-in;
 }
 
 .element-icon.icon-loaded {
@@ -31,9 +35,9 @@
   cursor: grabbing;
 }
 
-/* Library elements - show full style */
+/* Library elements */
 .element-library {
-  background: #f8f8f8;
+  background: var(--color-bg-subtle);
 }
 
 .element-library .element-icon {
@@ -42,72 +46,86 @@
   flex-basis: 48px;
 }
 
-/* Workspace elements - minimal, no border/text by default */
+/* Workspace elements — minimal, icon-only */
 .element-workspace {
   background: transparent;
   border: 2px solid transparent;
   box-shadow: none;
-  padding: 4px;
-  border-radius: 8px;
+  padding: var(--space-1);
+  border-radius: var(--radius-md);
   position: relative;
 }
 
 .element-workspace:hover {
-  background: rgba(0, 0, 0, 0.05);
+  background: var(--color-bg-surface-hover);
   box-shadow: none;
   transform: none;
 }
 
-/* Default drop target border when dragging (no status yet) */
+/* Drop target states */
 .element-workspace.drop-target {
-  border: 2px dashed #888;
-  background: rgba(0, 0, 0, 0.05);
+  border: 2px dashed var(--color-neutral-400);
+  background: var(--color-bg-surface-hover);
 }
 
-/* Combination hover states */
 .element-workspace.drop-new {
-  border: 2px solid #4CAF50;
-  background: rgba(76, 175, 80, 0.15);
-  box-shadow: 0 0 12px rgba(76, 175, 80, 0.4);
+  border: 2px solid var(--color-primary-500);
+  background: var(--color-primary-50);
+  box-shadow: var(--shadow-glow-green);
 }
 
 .element-workspace.drop-known {
-  border: 2px solid #9E9E9E;
-  background: rgba(158, 158, 158, 0.1);
-  box-shadow: 0 0 12px rgba(158, 158, 158, 0.3);
+  border: 2px solid var(--color-neutral-400);
+  background: var(--color-neutral-100);
+  box-shadow: 0 0 12px rgba(168, 162, 158, 0.3);
 }
 
 .element-workspace.drop-none {
-  border: 2px solid #F44336;
-  background: rgba(244, 67, 54, 0.1);
-  box-shadow: 0 0 12px rgba(244, 67, 54, 0.3);
+  border: 2px solid var(--color-error-500);
+  background: rgba(239, 68, 68, 0.08);
+  box-shadow: 0 0 12px rgba(239, 68, 68, 0.3);
 }
 
+/* Dark mode adjustments for drop states */
+.dark .element-workspace.drop-new {
+  background: rgba(34, 197, 94, 0.15);
+}
+
+.dark .element-workspace.drop-known {
+  background: rgba(168, 162, 158, 0.1);
+}
+
+.dark .element-workspace.drop-none {
+  background: rgba(239, 68, 68, 0.1);
+}
+
+/* Element name — hidden by default */
 .element-name {
   display: none;
 }
 
-/* Show name in library only */
+/* Show name in library */
 .element-library .element-name {
   display: inline;
-  font-size: 13px;
-  font-weight: 600;
-  color: #333;
+  font-size: var(--text-sm);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text);
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
+/* Hover effect */
 .element:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  box-shadow: var(--shadow-md);
   transform: translateY(-2px);
 }
 
 .element-over {
-  border-color: #4CAF50;
-  box-shadow: 0 0 12px rgba(76, 175, 80, 0.6);
+  border-color: var(--color-primary-500);
+  box-shadow: var(--shadow-glow-green);
 }
 
-/* On mobile, show names under workspace elements (no hover available) */
+/* Mobile: show names under workspace elements */
 @media (max-width: 768px) {
   .element-workspace .element-name {
     display: block;
@@ -116,8 +134,8 @@
     left: 50%;
     transform: translateX(-50%);
     font-size: 10px;
-    font-weight: 600;
-    color: #555;
+    font-weight: var(--weight-semibold);
+    color: var(--color-text-secondary);
     white-space: nowrap;
     pointer-events: none;
     max-width: 80px;
@@ -126,24 +144,24 @@
   }
 }
 
-/* Auto-solve animation: smooth slide to target */
+/* Auto-solve animation */
 .element-workspace.auto-solve-moving {
   transition: left var(--auto-solve-move-ms, 600ms) ease-in-out, top var(--auto-solve-move-ms, 600ms) ease-in-out;
-  z-index: 100;
-  box-shadow: 0 0 16px rgba(76, 175, 80, 0.6);
-  border: 2px solid #4CAF50;
-  background: rgba(76, 175, 80, 0.1);
+  z-index: var(--z-dropdown);
+  box-shadow: var(--shadow-glow-green);
+  border: 2px solid var(--color-primary-500);
+  background: rgba(34, 197, 94, 0.1);
 }
 
 .element-workspace.auto-solve-target {
-  box-shadow: 0 0 12px rgba(255, 215, 0, 0.5);
-  border: 2px solid #FFD700;
-  background: rgba(255, 215, 0, 0.1);
+  box-shadow: var(--shadow-glow-gold);
+  border: 2px solid var(--color-accent-400);
+  background: rgba(234, 179, 8, 0.1);
 }
 
-/* New element pop-in animation */
+/* New element pop-in */
 .element-workspace.element-new {
-  animation: elementPopIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+  animation: elementPopIn 0.4s var(--ease-bounce) forwards;
 }
 
 @keyframes elementPopIn {
@@ -152,20 +170,20 @@
   100% { opacity: 1; transform: scale(1); }
 }
 
-/* Name label shown on drag overlay and hover targets */
+/* Name label on drag overlay */
 .element-label {
   position: absolute;
   bottom: -22px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 11px;
-  font-weight: 600;
-  color: #333;
-  background: rgba(255, 255, 255, 0.92);
-  padding: 2px 8px;
-  border-radius: 4px;
+  font-size: var(--text-xs);
+  font-weight: var(--weight-semibold);
+  color: var(--color-text);
+  background: var(--color-bg-elevated);
+  padding: 2px var(--space-2);
+  border-radius: var(--radius-sm);
   white-space: nowrap;
   pointer-events: none;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+  box-shadow: var(--shadow-sm);
   z-index: 10;
 }
