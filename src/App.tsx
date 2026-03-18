@@ -772,31 +772,31 @@ function App() {
             </button>
             <button
               type="button"
-              className={`app-header-btn auto-solve-btn ${autoSolveActive ? 'auto-solve-active' : ''}`}
-              onClick={() => setAutoSolveActive(prev => !prev)}
-              title={autoSolveActive ? 'Stop auto-solve' : 'Start auto-solve (watch the game play itself)'}
-              aria-label={autoSolveActive ? 'Stop auto-solve' : 'Start auto-solve'}
+              className={`app-header-btn auto-solve-btn ${autoSolveActive ? (autoSolveSpeed === 'fast' ? 'auto-solve-fast' : 'auto-solve-slow') : ''}`}
+              onClick={() => {
+                if (!autoSolveActive) {
+                  // off → fast
+                  setAutoSolveSpeed('fast');
+                  setAutoSolveActive(true);
+                } else if (autoSolveSpeed === 'fast') {
+                  // fast → slow
+                  setAutoSolveSpeed('slow');
+                } else {
+                  // slow → off
+                  setAutoSolveActive(false);
+                }
+              }}
+              title={!autoSolveActive ? 'Start auto-solve (fast)' : autoSolveSpeed === 'fast' ? 'Switch to slow auto-solve' : 'Stop auto-solve'}
+              aria-label={!autoSolveActive ? 'Start auto-solve' : autoSolveSpeed === 'fast' ? 'Switch to slow' : 'Stop auto-solve'}
             >
-              {autoSolveActive ? (
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
-              ) : (
+              {!autoSolveActive ? (
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-              )}
-              <span className="btn-label">{autoSolveActive ? 'Stop' : 'Auto'}</span>
-            </button>
-            <button
-              type="button"
-              className={`app-header-btn auto-speed-btn ${autoSolveSpeed === 'fast' ? 'speed-fast' : 'speed-slow'}`}
-              onClick={() => setAutoSolveSpeed(prev => prev === 'fast' ? 'slow' : 'fast')}
-              title={`Auto-solve speed: ${autoSolveSpeed} (click to toggle)`}
-              aria-label={`Auto-solve speed: ${autoSolveSpeed}`}
-            >
-              {autoSolveSpeed === 'fast' ? (
+              ) : autoSolveSpeed === 'fast' ? (
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polygon points="13 19 22 12 13 5 13 19"/><polygon points="2 19 11 12 2 5 2 19"/></svg>
               ) : (
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>
               )}
-              <span className="btn-label">{autoSolveSpeed === 'fast' ? 'Fast' : 'Slow'}</span>
+              <span className="btn-label">{!autoSolveActive ? 'Auto' : autoSolveSpeed === 'fast' ? 'Fast' : 'Slow'}</span>
             </button>
             <button
               type="button"
