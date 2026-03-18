@@ -59,9 +59,13 @@ public/icons/
 # Automation cache, wiki index, and audit output
 scripts/automation/.wiki-cache/
 scripts/automation/.wiki-index.json
+scripts/automation/.iconify-cache.json
+scripts/automation/.wikimedia-cache.json
 scripts/automation/.llm-batches/
 scripts/automation/.llm-results/
 scripts/automation/audit-output/
 scripts/automation/__pycache__/
+icon-matcher/data/.embeddings-cache.npz
 icon-matcher/data/semantic-matches-log.json
 icon-matcher/data/semantic-matches-review.json
+icon-matcher/data/semantic-audit.json
