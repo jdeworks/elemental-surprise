@@ -178,8 +178,8 @@
 .library-grid-compact {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: var(--space-3) var(--space-2);
-  overflow-x: visible;
+  gap: var(--space-2);
+  container-type: inline-size;
 }
 
 /* ── Named Mode Items ────────────────────────────────────── */
@@ -206,9 +206,11 @@
 /* ── Compact Mode Items ──────────────────────────────────── */
 
 .library-item-compact {
+  flex-direction: column;
   justify-content: center;
-  padding: var(--space-2);
-  aspect-ratio: 1;
+  align-items: center;
+  padding: var(--space-1);
+  gap: 2px;
 }
 
 .library-item-compact:hover {
@@ -216,35 +218,18 @@
   box-shadow: var(--shadow-sm);
 }
 
-/* Instant CSS tooltip for compact/grid view — positioned below
-   to avoid being clipped by the scroll container's overflow */
-.library-item-compact {
-  position: relative;
-}
-
-.library-item-compact::after {
-  content: attr(data-name);
-  position: absolute;
-  top: calc(100% + 4px);
-  left: 50%;
-  transform: translateX(-50%) scale(0.9);
-  background: var(--color-neutral-800);
-  color: var(--color-neutral-100);
-  padding: 3px 8px;
-  border-radius: var(--radius-sm);
-  font-size: var(--text-xs);
-  font-weight: var(--weight-medium);
+/* Always-visible name label inside compact grid cell */
+.library-item-compact .library-compact-name {
+  display: block;
+  width: 100%;
+  font-size: clamp(7px, 1.8cqi, 11px);
+  line-height: 1.1;
+  text-align: center;
+  color: var(--color-text-secondary);
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 80ms ease-out, transform 80ms ease-out;
-  z-index: var(--z-dropdown);
-  box-shadow: var(--shadow-sm);
-}
-
-.library-item-compact:hover::after {
-  opacity: 1;
-  transform: translateX(-50%) scale(1);
+  max-height: 2em;
 }
 
 /* ── Shared ──────────────────────────────────────────────── */
