@@ -123,40 +123,42 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
         <input
           type="text"
           className="library-search"
-          placeholder="Search by name..."
+          placeholder="Search elements..."
           value={search}
           onChange={(e) => { setSearch(e.target.value); if (e.target.value && onSearchUsed) onSearchUsed(); }}
           aria-label="Search elements by name"
         />
-        <select
-          className="library-filter"
-          value={selectedGroup}
-          onChange={(e) => { setSelectedGroup(e.target.value); if (e.target.value && onGroupFilterUsed) onGroupFilterUsed(); }}
-          aria-label="Filter elements by group"
-        >
-          <option value="">All groups</option>
-          {groups.map(group => (
-            <option key={group} value={group}>{group}</option>
-          ))}
-        </select>
-        <button
-          type="button"
-          className="library-toggle-names"
-          onClick={() => { onToggleShowNames(); if (onViewToggle) onViewToggle(); }}
-          title={showNames ? 'Switch to compact icon view' : 'Show element names'}
-          aria-label={showNames ? 'Switch to compact icon view' : 'Show element names'}
-        >
-          {showNames ? (
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
-          ) : (
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
-          )}
-        </button>
-      </div>
-      <div className="library-sort-toggle">
-        <button type="button" className={`library-sort-btn ${sortMode === 'alpha' ? 'active' : ''}`} onClick={() => handleSortChange('alpha')}>A–Z</button>
-        <button type="button" className={`library-sort-btn ${sortMode === 'date' ? 'active' : ''}`} onClick={() => handleSortChange('date')}>Recent</button>
-        <button type="button" className={`library-sort-btn ${sortMode === 'group' ? 'active' : ''}`} onClick={() => handleSortChange('group')}>Group</button>
+        <div className="library-controls-row">
+          <select
+            className="library-filter"
+            value={selectedGroup}
+            onChange={(e) => { setSelectedGroup(e.target.value); if (e.target.value && onGroupFilterUsed) onGroupFilterUsed(); }}
+            aria-label="Filter elements by group"
+          >
+            <option value="">All groups</option>
+            {groups.map(group => (
+              <option key={group} value={group}>{group}</option>
+            ))}
+          </select>
+          <button
+            type="button"
+            className="library-toggle-names"
+            onClick={() => { onToggleShowNames(); if (onViewToggle) onViewToggle(); }}
+            title={showNames ? 'Switch to compact icon view' : 'Show element names'}
+            aria-label={showNames ? 'Switch to compact icon view' : 'Show element names'}
+          >
+            {showNames ? (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+            ) : (
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+            )}
+          </button>
+        </div>
+        <div className="library-sort-toggle">
+          <button type="button" className={`library-sort-btn ${sortMode === 'alpha' ? 'active' : ''}`} onClick={() => handleSortChange('alpha')}>A–Z</button>
+          <button type="button" className={`library-sort-btn ${sortMode === 'date' ? 'active' : ''}`} onClick={() => handleSortChange('date')}>Recent</button>
+          <button type="button" className={`library-sort-btn ${sortMode === 'group' ? 'active' : ''}`} onClick={() => handleSortChange('group')}>Group</button>
+        </div>
       </div>
       <div ref={gridRef} className={`library-grid ${showNames ? 'library-grid-names' : 'library-grid-compact'}`} onScroll={handleScroll}>
         {visibleElements.map((element, i) => {
@@ -173,7 +175,7 @@ export function Library({ discovered, totalCount, onSpawn, iconCacheBust, showNa
             <div
               className={`library-item ${showNames ? '' : 'library-item-compact'} ${isHinted ? 'hint-highlight' : ''}`}
               onClick={() => onSpawn(element.id)}
-              title={showNames ? undefined : element.name}
+              data-name={showNames ? undefined : element.name}
               data-testid={`library-element-${element.id}`}
             >
               <img src={getResolvedIconUrl(element.id, element.icon, iconCacheBust)} alt={element.name} className="library-icon" width={showNames ? 36 : 40} height={showNames ? 36 : 40} onLoad={(e) => (e.currentTarget.classList.add('icon-loaded'))} onError={(e) => { e.currentTarget.classList.add('icon-loaded'); e.currentTarget.src = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%23999" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>'; }} />
