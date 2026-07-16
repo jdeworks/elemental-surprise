@@ -33,7 +33,12 @@ jobs:
         run: npm run build
         env:
           VITE_CDN_BASE: https://cdn.jsdelivr.net/gh/jdeworks/elemental-surprise@dev/public
-      
+
+      # Production builds disable publicDir (assets come from the CDN), so
+      # static SEO artifacts must be copied into the Pages artifact explicitly.
+      - name: Copy SEO artifacts
+        run: cp public/sitemap.xml public/404.html docs/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
